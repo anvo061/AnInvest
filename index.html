@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnInvenst - Hệ thống phân tích thị trường chứng khoán AI</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  
+  <div class="app-container">
+    
+    <!-- Sidebar -->
+    <aside class="app-sidebar">
+      <div class="brand">
+        <div class="logo-icon">
+          <i class="fa-solid fa-chart-line-up"></i>
+        </div>
+        <div class="brand-name">
+          <h2>An<span>Invenst</span></h2>
+          <p>AI Market Intel</p>
+        </div>
+      </div>
+      
+      <div class="sidebar-menu">
+        <div class="menu-label">Theo dõi mã cổ phiếu</div>
+        <div class="ticker-watchlist" id="tickerWatchlist">
+          <div class="watchlist-placeholder">Chưa có dữ liệu mã ảnh hưởng...</div>
+        </div>
+      </div>
+      
+      <div class="sidebar-footer">
+        <div class="agent-status" id="agentStatus">
+          <span class="status-indicator active"></span>
+          <div class="status-details">
+            <span class="status-text">Agent đang hoạt động</span>
+            <span class="update-timer" id="updateTimer">Tự động làm mới trong 30s</span>
+          </div>
+        </div>
+      </div>
+    </aside>
+    
+    <!-- Main Content Area -->
+    <main class="app-main">
+      
+      <!-- Top Navigation -->
+      <header class="app-header">
+        <div class="header-title">
+          <h1>Phân tích Tin tức & Tác động Thị trường</h1>
+          <p>Thu thập và phân tích tác động tài chính thời gian thực bằng Gemini AI</p>
+        </div>
+        <div class="header-actions">
+          <button id="refreshBtn" class="btn btn-primary">
+            <i class="fa-solid fa-arrows-rotate"></i> Làm mới dữ liệu
+          </button>
+        </div>
+      </header>
+      
+      <!-- Analytics Overview Cards -->
+      <section class="analytics-overview">
+        
+        <!-- Market Sentiment Meter -->
+        <div class="overview-card sentiment-gauge-card">
+          <h3>Tâm lý thị trường chung</h3>
+          <div class="gauge-container">
+            <div class="sentiment-score-container">
+              <span id="sentimentScore">0.0</span>
+              <span class="sentiment-label" id="sentimentLabel">Trung lập</span>
+            </div>
+            <div class="gauge-track">
+              <div class="gauge-fill" id="gaugeFill" style="width: 50%"></div>
+            </div>
+            <div class="gauge-labels">
+              <span>Tiêu cực (-10)</span>
+              <span>Trung lập (0)</span>
+              <span>Tích cực (+10)</span>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Summary Stats Card -->
+        <div class="overview-card stats-card">
+          <h3>Thống kê tin tức</h3>
+          <div class="stats-grid">
+            <div class="stat-item total">
+              <div class="stat-icon"><i class="fa-solid fa-newspaper"></i></div>
+              <div class="stat-info">
+                <span class="stat-value" id="statTotal">0</span>
+                <span class="stat-title">Tin đã quét</span>
+              </div>
+            </div>
+            <div class="stat-item positive">
+              <div class="stat-icon"><i class="fa-solid fa-circle-arrow-up"></i></div>
+              <div class="stat-info">
+                <span class="stat-value" id="statPositive">0</span>
+                <span class="stat-title">Tích cực</span>
+              </div>
+            </div>
+            <div class="stat-item negative">
+              <div class="stat-icon"><i class="fa-solid fa-circle-arrow-down"></i></div>
+              <div class="stat-info">
+                <span class="stat-value" id="statNegative">0</span>
+                <span class="stat-title">Tiêu cực</span>
+              </div>
+            </div>
+            <div class="stat-item neutral">
+              <div class="stat-icon"><i class="fa-solid fa-circle-minus"></i></div>
+              <div class="stat-info">
+                <span class="stat-value" id="statNeutral">0</span>
+                <span class="stat-title">Trung lập</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Chart Card -->
+        <div class="overview-card chart-card">
+          <h3>Tỷ lệ phân phối tâm lý</h3>
+          <div class="chart-wrapper">
+            <canvas id="sentimentChart"></canvas>
+          </div>
+        </div>
+        
+      </section>
+      
+      <!-- Filters and Control Bar -->
+      <section class="control-bar">
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input type="text" id="searchInput" placeholder="Tìm kiếm tin tức hoặc mã cổ phiếu (ví dụ: FPT, HPG)...">
+        </div>
+        <div class="filter-group">
+          <button class="filter-btn active" data-filter="all">Tất cả</button>
+          <button class="filter-btn" data-filter="positive"><i class="fa-solid fa-arrow-trend-up"></i> Tích cực</button>
+          <button class="filter-btn" data-filter="negative"><i class="fa-solid fa-arrow-trend-down"></i> Tiêu cực</button>
+          <button class="filter-btn" data-filter="neutral"><i class="fa-solid fa-minus"></i> Trung lập</button>
+        </div>
+      </section>
+      
+      <!-- Main News Feed -->
+      <section class="news-feed-section">
+        <div class="section-header">
+          <h2>Tin tức mới phân tích</h2>
+          <span class="results-count" id="resultsCount">Hiển thị 0 kết quả</span>
+        </div>
+        
+        <div class="news-feed" id="newsFeed">
+          <!-- Initial loading or instructions if data is empty -->
+          <div class="feed-empty-state" id="emptyState">
+            <div class="empty-icon"><i class="fa-solid fa-circle-info"></i></div>
+            <h3>Chưa phát hiện dữ liệu tin tức</h3>
+            <p>Vui lòng cấu hình API Key trong file <strong>config.json</strong> và khởi chạy script PowerShell <strong>run_agent.ps1</strong> để Agent bắt đầu cào tin tức và phân tích dữ liệu.</p>
+            <div class="setup-code">
+              <code>powershell -ExecutionPolicy Bypass -File run_agent.ps1</code>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+    </main>
+    
+  </div>
+
+  <!-- Scripts -->
+  <script src="app.js"></script>
+</body>
+</html>

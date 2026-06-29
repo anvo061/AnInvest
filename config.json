@@ -1,0 +1,27 @@
+{
+  "GeminiApiKey": "YOUR_GEMINI_API_KEY",
+  "ScanIntervalSeconds": 900,
+  "MaxItemsPerScan": 5,
+  "RssFeeds": [
+    {
+      "Name": "VnExpress Kinh Doanh",
+      "Url": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "VietnamNet Kinh Doanh",
+      "Url": "https://vietnamnet.vn/rss/kinh-doanh.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "Tuổi Trẻ Kinh Doanh",
+      "Url": "https://tuoitre.vn/rss/kinh-doanh.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "Google News Global Finance",
+      "Url": "https://news.google.com/rss/search?q=stock+market+economy+finance&hl=en-US&gl=US&ceid=US:en",
+      "Region": "Global"
+    }
+  ]
+}
