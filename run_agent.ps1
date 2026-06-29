@@ -238,6 +238,110 @@ Bạn hãy phân tích cẩn thận và trả về kết quả dưới định d
     }
 }
 
+# Tạo Báo cáo Phân tích Tổng hợp Hàng ngày
+function Generate-DailyReport {
+    Write-Log "Bắt đầu tạo Báo cáo Phân tích Tổng hợp hàng ngày..." "INFO"
+    $ResultsFile = Join-Path $ScriptDir "data/analysis_results.json"
+    $ReportFile = Join-Path $ScriptDir "data/daily_report.md"
+
+    if (-not (Test-Path $ResultsFile)) {
+        Write-Log "Không tìm thấy dữ liệu để tổng hợp báo cáo." "WARNING"
+        return
+    }
+
+    $Results = Get-Content -Path $ResultsFile -Raw | ConvertFrom-Json
+    if ($Results.Count -eq 0) {
+        Write-Log "Dữ liệu trống, không thể tạo báo cáo." "WARNING"
+        return
+    }
+
+    # Lấy 15 tin mới nhất để làm báo cáo
+    $LatestItems = $Results | Sort-Object -Property AnalyzedAt -Descending | Select-Object -First 15
+
+    $TinTucText = ""
+    foreach ($Item in $LatestItems) {
+        $AffectedTickersList = @()
+        if ($Item.AffectedTickers) {
+            foreach ($TickerObj in $Item.AffectedTickers) {
+                $AffectedTickersList += "$($TickerObj.Ticker) ($($TickerObj.ImpactType): $($TickerObj.Reasoning))"
+            }
+        }
+        
+        $TinTucText += @"
+- Tiêu đề: $($Item.Title)
+  Nguồn: $($Item.Source)
+  Ngày phân tích: $($Item.AnalyzedAt)
+  Tâm lý chung: $($Item.Sentiment) (Điểm tác động: $($Item.ImpactScore))
+  Mã cổ phiếu bị tác động: $($AffectedTickersList -join '; ')
+  Tóm tắt tác động thị trường: $($Item.MarketImpact)
+
+"@
+    }
+
+    # Đọc API Key
+    $Config = Get-Content -Path $ConfigFile -Raw | ConvertFrom-Json
+    $ApiKey = $Config.GeminiApiKey
+    if ($ApiKey -eq "YOUR_GEMINI_API_KEY" -or [string]::IsNullOrEmpty($ApiKey)) {
+        $ApiKey = $env:GEMINI_API_KEY
+    }
+
+    $Prompt = @"
+Bạn là một chuyên gia phân tích tài chính vĩ mô và chứng khoán cao cấp tại Việt Nam.
+Hãy lập một "BÁO CÁO PHÂN TÍCH TỔNG HỢP & DỰ BÁO THỊ TRƯỜNG CHỨNG KHOÁN" chi tiết dựa trên danh sách các tin tức đã quét và phân tích sơ bộ sau đây:
+
+$TinTucText
+
+YÊU CẦU CẤU TRÚC VÀ PHƯƠNG PHÁP BÁO CÁO (VIẾT CHI TIẾT, KHÔNG TÓM TẮT SƠ SÀI):
+
+## TÓM TẮT TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
+- Nhận định ngắn về điểm số tâm lý thị trường chung dựa trên tổng quan điểm số của các tin tức đầu vào. Đánh giá trạng thái chung (Tích cực, Tiêu cực hay Trung lập).
+
+## BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU (SCREENING)
+- Liệt kê và phân tích rõ các tin nào thực sự có tác động mạnh (Trọng yếu) đến ngành hoặc giá cổ phiếu, lý giải tại sao. Loại bỏ các tin tức PR quảng cáo mang tính chất nhiễu. Xác định mức độ trọng yếu (Cao / Trung bình / Thấp) cho từng tin chính.
+
+## BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH (SECTOR ANALYSIS - KHUNG ĐẦY ĐỦ)
+- Trình bày rõ ràng theo NGÀNH (mỗi ngành một mục lớn, ví dụ: Bất động sản, Chứng khoán, Ngân hàng, Thép, Năng lượng, Vĩ mô...).
+- Trong mỗi ngành, sắp xếp các tin tức có mức độ tác động mạnh lên đầu tiên.
+- Với mỗi tin tức lớn, phân tích đầy đủ các lớp sau:
+  + Bản chất sự kiện: Nêu rõ các số liệu kinh tế vĩ mô hoặc số liệu doanh nghiệp (các con số, sự kiện phải lấy từ nguồn của danh sách tin đầu vào, tuyệt đối không bịa số liệu).
+  + Tác động vĩ mô / ngành: Phân tích kỹ cơ chế truyền dẫn tác động lên ngành và lý giải nguyên nhân tăng/giảm.
+  + Tác động trực tiếp lên giá cổ phiếu của các mã cụ thể (nêu rõ các mã bị ảnh hưởng trực tiếp như VIX, PDR, HPG, SSI, v.v.).
+- Sử dụng BẢNG số liệu đối chiếu khi so sánh nhiều mã cổ phiếu hoặc nhiều nguồn số liệu khác nhau để báo cáo trông chuyên nghiệp, dễ so sánh.
+
+## RÀNG BUỘC PHÁP LÝ & AN TOÀN
+- KHÔNG tự bịa số liệu hay mã cổ phiếu không liên quan. Thiếu dữ kiện phải ghi rõ "chưa xác nhận / chưa có số liệu".
+- Đầu ra trả về dưới dạng Markdown chuẩn, trình bày sạch sẽ, trực quan, chuyên nghiệp, sử dụng biểu tượng emoji phù hợp để tăng tính sinh động.
+"@
+
+    $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$ApiKey"
+    $RequestBody = @{
+        contents = @(
+            @{
+                parts = @(
+                    @{ text = $Prompt }
+                )
+            }
+        )
+    } | ConvertTo-Json -Depth 5
+
+    $Bytes = [System.Text.Encoding]::UTF8.GetBytes($RequestBody)
+
+    try {
+        $Response = Invoke-RestMethod -Uri $Uri -Method Post -Headers @{ "Content-Type" = "application/json" } -Body $Bytes -TimeoutSec 50
+        $ReportMarkdown = $Response.candidates[0].content.parts[0].text
+        
+        if ($null -ne $ReportMarkdown -and $ReportMarkdown.Trim() -ne "") {
+            [System.IO.File]::WriteAllText($ReportFile, $ReportMarkdown, [System.Text.Encoding]::UTF8)
+            Write-Log "Đã tạo thành công Báo cáo Phân tích Tổng hợp hàng ngày tại $ReportFile!" "SUCCESS"
+        } else {
+            Write-Log "Phản hồi báo cáo trống từ API." "WARNING"
+        }
+    }
+    catch {
+        Write-Log "Lỗi khi gọi API Gemini tạo báo cáo: $_" "ERROR"
+    }
+}
+
 # Tiến hành quét
 function Start-Scan {
     # Tải lại file config để nhận cập nhật nếu có thay đổi
@@ -315,6 +419,9 @@ function Start-Scan {
     }
 
     Write-Log "Hoàn thành quét chu kỳ này. Đã xử lý $ProcessedCount/$($AllNewItems.Count) tin mới." "SUCCESS"
+    
+    # Tạo Báo cáo Phân tích Tổng hợp hàng ngày
+    Generate-DailyReport
 }
 
 # Vòng lặp chính

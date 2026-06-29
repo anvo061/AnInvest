@@ -21,6 +21,7 @@ function initEventListeners() {
   // Nút làm mới dữ liệu
   document.getElementById('refreshBtn').addEventListener('click', () => {
     loadData();
+    loadReport(); // Tải lại báo cáo
     resetCountdown();
   });
 
@@ -40,6 +41,29 @@ function initEventListeners() {
       filterAndRender();
     });
   });
+
+  // Chuyển đổi tab
+  const navNewsBtn = document.getElementById('navNews');
+  const navReportBtn = document.getElementById('navReport');
+  const newsTabContent = document.getElementById('newsTabContent');
+  const reportTabContent = document.getElementById('reportTabContent');
+
+  if (navNewsBtn && navReportBtn) {
+    navNewsBtn.addEventListener('click', () => {
+      navNewsBtn.classList.add('active');
+      navReportBtn.classList.remove('active');
+      newsTabContent.style.display = 'block';
+      reportTabContent.style.display = 'none';
+    });
+
+    navReportBtn.addEventListener('click', () => {
+      navReportBtn.classList.add('active');
+      navNewsBtn.classList.remove('active');
+      newsTabContent.style.display = 'none';
+      reportTabContent.style.display = 'block';
+      loadReport(); // Tải báo cáo
+    });
+  }
 }
 
 // Tải dữ liệu từ file JSON do Agent tạo ra
@@ -444,4 +468,41 @@ function startCountdown() {
 function resetCountdown() {
   countdownTime = 30;
   document.getElementById('updateTimer').innerText = `Tự động làm mới trong 30s`;
+}
+
+// Tải báo cáo phân tích tổng hợp bằng markdown
+async function loadReport() {
+  const reportContent = document.getElementById('reportContent');
+  if (!reportContent) return;
+  
+  try {
+    const response = await fetch('data/daily_report.md?' + new Date().getTime());
+    if (!response.ok) {
+      throw new Error('Chưa có báo cáo tổng hợp mới. Vui lòng bấm Run workflow trên Github để tạo báo cáo.');
+    }
+    const markdownText = await response.text();
+    
+    // Sử dụng thư viện marked để biên dịch sang HTML
+    if (typeof marked !== 'undefined') {
+      reportContent.innerHTML = marked.parse(markdownText);
+    } else {
+      // Fallback nếu không tải được CDN marked
+      reportContent.innerHTML = `<pre style="white-space: pre-wrap; font-family: inherit;">${markdownText}</pre>`;
+    }
+    
+    // Cập nhật ngày báo cáo nếu có
+    const reportDateElement = document.getElementById('reportDate');
+    if (reportDateElement) {
+      const now = new Date();
+      reportDateElement.textContent = `Cập nhật lúc: ${now.toLocaleDateString('vi-VN')} ${now.toLocaleTimeString('vi-VN')}`;
+    }
+  } catch (error) {
+    reportContent.innerHTML = `
+      <div class="feed-empty-state">
+        <div class="empty-icon"><i class="fa-solid fa-circle-info"></i></div>
+        <h3>Chưa có dữ liệu báo cáo chuyên sâu</h3>
+        <p>${error.message}</p>
+      </div>
+    `;
+  }
 }

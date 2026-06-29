@@ -16,6 +16,9 @@
   <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   
+  <!-- Markdown Parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  
   <!-- Stylesheets -->
   <link rel="stylesheet" href="index.css">
 </head>
@@ -32,6 +35,18 @@
         <div class="brand-name">
           <h2>An<span>Invenst</span></h2>
           <p>AI Market Intel</p>
+        </div>
+      </div>
+      
+      <div class="sidebar-menu">
+        <div class="menu-label">Chức năng</div>
+        <div class="nav-menu">
+          <button class="nav-item active" id="navNews">
+            <i class="fa-solid fa-square-rss"></i> Dòng tin tức
+          </button>
+          <button class="nav-item" id="navReport">
+            <i class="fa-solid fa-file-invoice-dollar"></i> Báo cáo chuyên sâu
+          </button>
         </div>
       </div>
       
@@ -69,8 +84,9 @@
         </div>
       </header>
       
-      <!-- Analytics Overview Cards -->
-      <section class="analytics-overview">
+      <div class="tab-content active" id="newsTabContent">
+        <!-- Analytics Overview Cards -->
+        <section class="analytics-overview">
         
         <!-- Market Sentiment Meter -->
         <div class="overview-card sentiment-gauge-card">
@@ -169,6 +185,27 @@
           </div>
         </div>
       </section>
+      
+      </div> <!-- End newsTabContent -->
+      
+      <!-- Report Tab Content -->
+      <div class="tab-content" id="reportTabContent" style="display: none;">
+        <section class="report-section">
+          <div class="section-header">
+            <h2>Báo cáo Phân tích Tổng hợp & Dự báo</h2>
+            <span class="report-date" id="reportDate">Hàng ngày (tự động cập nhật)</span>
+          </div>
+          <div class="report-markdown-card">
+            <div id="reportContent" class="markdown-body">
+              <div class="feed-empty-state">
+                <div class="empty-icon"><i class="fa-solid fa-circle-notch fa-spin"></i></div>
+                <h3>Đang tải báo cáo...</h3>
+                <p>Báo cáo đang được xử lý và hiển thị.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
       
     </main>
     
