@@ -186,8 +186,8 @@ Bạn hãy phân tích cẩn thận và trả về kết quả dưới định d
 }
 "@
 
-    # Gọi API Gemini 2.0 Flash (hoặc 1.5-flash tùy thích, 2.0-flash nhanh hơn và tốt hơn)
-    $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$ApiKey"
+    # Gọi API Gemini (dùng alias gemini-flash-latest để có 1500 lượt gọi/ngày miễn phí)
+    $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=$ApiKey"
     
     $RequestBody = @{
         contents = @(
@@ -313,7 +313,7 @@ YÊU CẦU CẤU TRÚC VÀ PHƯƠNG PHÁP BÁO CÁO (VIẾT CHI TIẾT, KHÔNG T
 - Đầu ra trả về dưới dạng Markdown chuẩn, trình bày sạch sẽ, trực quan, chuyên nghiệp, sử dụng biểu tượng emoji phù hợp để tăng tính sinh động.
 "@
 
-    $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$ApiKey"
+    $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=$ApiKey"
     $RequestBody = @{
         contents = @(
             @{
