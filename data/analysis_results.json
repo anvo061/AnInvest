@@ -1,5 +1,56 @@
 ﻿[
   {
+    "Title": "'Ghế nóng' tại Chứng khoán VIX đổi chủ",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ghe-nong-tai-chung-khoan-vix-doi-chu-100260629202421089.htm",
+    "PubDate": "6/29/2026 9:15:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Sự thay đổi nhân sự cấp cao tại một công ty chứng khoán có quy mô giao dịch và tự doanh lớn như VIX thường tạo ra tâm lý thận trọng ngắn hạn trong nhóm ngành dịch vụ tài chính. Tuy nhiên, sự kiện này cũng mở ra kỳ vọng về những thay đổi mang tính chiến lược mới, tái cấu trúc hoạt động kinh doanh và nâng cao năng lực quản trị, giúp ổn định dòng tiền của nhà đầu tư cá nhân vốn chiếm tỷ trọng lớn tại mã này.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIX",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là đối tượng trực tiếp chịu ảnh hưởng từ tin tức. Việc thay đổi lãnh đạo chủ chốt có thể dẫn đến những điều chỉnh lớn trong danh mục tự doanh và chiến lược tăng vốn của doanh nghiệp. Giá cổ phiếu có thể xuất hiện các phiên rung lắc mạnh khi thị trường đánh giá năng lực và định hướng của ban lãnh đạo mới."
+      },
+      {
+        "Ticker": "GEX",
+        "ImpactType": "Trung lập",
+        "Reasoning": "GEX thường được thị trường liên đới mật thiết với VIX trong cùng một hệ sinh thái tài chính - đầu tư. Sự thay đổi thượng tầng tại VIX có thể là tín hiệu của việc tái cơ cấu sở hữu hoặc phân định lại vai trò dòng vốn giữa các bên liên quan, tác động gián tiếp đến tâm lý giao dịch của cổ phiếu GEX."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:12:15"
+  },
+  {
+    "Title": "Lương bình quân người lao động công ty mẹ EVN gần 480 triệu đồng/năm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/luong-binh-quan-nguoi-lao-dong-cong-ty-me-evn-gan-480-trieu-dong-nam-100260629225253753.htm",
+    "PubDate": "6/29/2026 11:46:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Tin tức về chi phí lương cao tại công ty mẹ EVN trong bối cảnh tập đoàn này thường xuyên gặp khó khăn về tài chính và báo lỗ có thể tạo ra tâm lý e ngại của nhà đầu tư đối với nhóm cổ phiếu ngành điện. Điều này gián tiếp làm dấy lên lo ngại về áp lực chi phí vận hành của EVN, từ đó có thể ảnh hưởng đến dòng tiền thanh toán cho các doanh nghiệp phát điện trên thị trường chứng khoán.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "EVN là bên mua điện duy nhất của POW. Áp lực chi phí hoạt động lớn tại EVN có thể làm chậm tiến độ thanh toán các khoản phải thu từ bán điện cho POW, ảnh hưởng đến dòng tiền hoạt động của doanh nghiệp."
+      },
+      {
+        "Ticker": "NT2",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "NT2 thường xuyên đối mặt với vấn đề thu hồi công nợ từ EVN. Thông tin về chi phí nhân sự cao tại EVN có thể khiến nhà đầu tư lo ngại về khả năng tối ưu hóa chi phí và thanh toán nhanh chóng các khoản nợ tiền điện cho NT2."
+      },
+      {
+        "Ticker": "GEG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Các doanh nghiệp năng lượng tái tạo như GEG phụ thuộc lớn vào chính sách giá và khả năng thanh toán của EVN. Khó khăn tài chính tiềm ẩn do chi phí vận hành cao của EVN có thể kéo dài thời gian đàm phán và thanh toán hợp đồng mua bán điện."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:11:08"
+  },
+  {
     "Title": "Giá xăng giảm vực dậy tâm lý người tiêu dùng Mỹ",
     "Source": "VnExpress Kinh Doanh",
     "Link": "https://vnexpress.net/gia-xang-giam-vuc-day-tam-ly-nguoi-tieu-dung-my-5091121.html",
