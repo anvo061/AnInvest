@@ -127,10 +127,10 @@ function Get-RssFeedItems {
             $Items = $Xml.rss.channel.item | ForEach-Object {
                 $CleanDesc = Clean-Html $_.description
                 [PSCustomObject]@{
-                    Title       = ([string]$_.title).Trim()
+                    Title       = if ($null -ne $_.title.InnerText) { $_.title.InnerText.Trim() } else { ([string]$_.title).Trim() }
                     Description = $CleanDesc
-                    Link        = ([string]$_.link).Trim()
-                    PubDate     = ([string]$_.pubDate).Trim()
+                    Link        = if ($null -ne $_.link.InnerText) { $_.link.InnerText.Trim() } else { ([string]$_.link).Trim() }
+                    PubDate     = if ($null -ne $_.pubDate.InnerText) { $_.pubDate.InnerText.Trim() } else { ([string]$_.pubDate).Trim() }
                     Source      = $Source
                 }
             }
@@ -411,8 +411,8 @@ function Start-Scan {
             $ProcessedCount++
             Write-Log "Đã phân tích thành công: '$($Item.Title)' (Sentiment: $($Analysis.Sentiment))" "SUCCESS"
             
-            # Delay nhẹ giữa các lần gọi API để tránh rate limit
-            Start-Sleep -Seconds 2
+            # Delay để tránh rate limit (Gemini Free Tier giới hạn 15 RPM)
+            Start-Sleep -Seconds 6
         } else {
             Write-Log "Phân tích thất bại cho tin: '$($Item.Title)'. Sẽ thử lại ở phiên sau." "WARNING"
         }
