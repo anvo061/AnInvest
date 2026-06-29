@@ -1,5 +1,38 @@
 ﻿[
   {
+    "Title": "Giá xăng giảm vực dậy tâm lý người tiêu dùng Mỹ",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-xang-giam-vuc-day-tam-ly-nguoi-tieu-dung-my-5091121.html",
+    "PubDate": "Tue, 30 Jun 2026 01:33:56 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Giá xăng giảm tại Mỹ giúp hạ nhiệt áp lực lạm phát, tạo điều kiện thuận lợi cho Cục Dự trữ Liên bang Mỹ (Fed) duy trì hoặc đẩy nhanh lộ trình cắt giảm lãi suất. Tâm lý tiêu dùng cải thiện tại Mỹ sẽ kích thích nhu cầu mua sắm hàng hóa, gián tiếp hỗ trợ tích cực cho các doanh nghiệp xuất khẩu của Việt Nam. Thị trường chứng khoán toàn cầu và VN-Index được kỳ vọng sẽ phản ứng tích cực nhờ tâm lý vĩ mô ổn định và triển vọng tăng trưởng kinh tế khả quan hơn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "WMT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá xăng giảm giúp người tiêu dùng Mỹ có thêm ngân sách chi tiêu cho các mặt hàng bán lẻ khác, trực tiếp thúc đẩy doanh thu của Walmart."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu thủy sản trọng điểm của Vĩnh Hoàn. Nhu cầu tiêu dùng phục hồi tại Mỹ sẽ giúp gia tăng đơn hàng xuất khẩu cá tra."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp dệt may xuất khẩu sang Mỹ sẽ hưởng lợi khi chi tiêu cho các mặt hàng không thiết yếu như quần áo của người dân Mỹ gia tăng."
+      },
+      {
+        "Ticker": "XOM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá xăng và giá dầu thô suy giảm gây áp lực trực tiếp lên biên lợi nhuận và doanh thu của các doanh nghiệp khai thác dầu khí lớn như ExxonMobil."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:58:17"
+  },
+  {
     "Title": "A counterfactual analysis of the impact of stock market absence on economic growth in selected Sub-Saharan African countries - Nature",
     "Source": "Google News Global Finance",
     "Link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DYkhyMW9mcnMybjhQYklDYllFWVI1VEZ2OEVQOGxUQ2cxU1pfdE84RGFKelNGd21pVUtLQWJtNWRVYlotWEE1Rml6Q0R4em9xcEtyMGFqTlNieUN5V1VZ?oc=5",
