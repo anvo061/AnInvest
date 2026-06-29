@@ -1,0 +1,59 @@
+{
+  "Ngân hàng": [
+    "VCB", "BID", "CTG", "TCB", "MBB", "VPB", "ACB", "STB", "SHB", "EIB", "VIB", "HDB", "LPB", "MSB", "OCB", "SSB", "NAB", "BAB", "NVB", "PGB", "VAB", "BVB", "KLB", "SGB"
+  ],
+  "Chứng khoán": [
+    "SSI", "VND", "VCI", "HCM", "SHS", "VIX", "FTS", "BSI", "CTS", "MBS", "AGR", "BVS", "VDS", "ORS", "TVS", "APS", "DSC", "VIG", "WSS", "SBS"
+  ],
+  "Bất động sản (Thương mại & Dân cư)": [
+    "VHM", "VIC", "VRE", "NVL", "DIG", "DXG", "CEO", "PDR", "KDH", "NLG", "HDG", "CRE", "SCR", "KHG", "NTL", "SJS", "QCG", "TDC", "IJC", "HQC", "LDG", "DXS", "ITC", "TCH", "KOS"
+  ],
+  "Bất động sản Khu công nghiệp": [
+    "KBC", "IDC", "SZC", "VGC", "PHR", "DPR", "NTC", "SIP", "BCM", "SNZ", "TIP", "ITA", "D2D", "SZB", "SZL"
+  ],
+  "Thép & Vật liệu xây dựng": [
+    "HPG", "HSG", "NKG", "SMC", "TLH", "POM", "VGS", "TIS", "HT1", "BCC", "KSB", "VCS", "VHL", "CVT", "CTI", "DHA", "LBM"
+  ],
+  "Dầu khí": [
+    "GAS", "PVD", "PVS", "BSR", "PLX", "OIL", "PVC", "PVB", "PSH", "PGD", "POS", "PVO", "PEQ"
+  ],
+  "Xây dựng & Đầu tư công": [
+    "VCG", "HHV", "LCG", "FCN", "C4G", "HUT", "CTD", "HBC", "DPG", "CC1", "VEC", "VHE", "CII", "NBB"
+  ],
+  "Điện & Năng lượng": [
+    "POW", "REE", "PC1", "NT2", "GEG", "TV2", "QTP", "HND", "KHP", "SBA", "CHP", "VSH", "TTA", "BCG", "ASM"
+  ],
+  "Bán lẻ & Tiêu dùng": [
+    "MWG", "PNJ", "FRT", "DGW", "PET", "HAX", "SVC", "CMV", "HTC", "VFG"
+  ],
+  "Thực phẩm & Đồ uống": [
+    "VNM", "MSN", "SAB", "KDC", "SBT", "QNS", "DBC", "BAF", "HAG", "HNG", "PAN", "TAR", "LTG", "VOC", "TAC", "MCH"
+  ],
+  "Thủy sản": [
+    "VHC", "ANV", "IDI", "FMC", "CMX", "MPC", "ACL"
+  ],
+  "Dệt may": [
+    "TNG", "VGT", "GIL", "STK", "MSH", "TCM", "ADS", "EVE"
+  ],
+  "Hóa chất & Phân bón": [
+    "DGC", "DPM", "DCM", "CSV", "BFC", "LAS", "DDV", "SFG", "PLC", "TSC"
+  ],
+  "Cảng biển & Vận tải": [
+    "HAH", "GMD", "VOS", "PVT", "PHP", "SGP", "MVN", "VIP", "VTO", "DXP", "CLL", "TCL"
+  ],
+  "Công nghệ & Viễn thông": [
+    "FPT", "CMG", "CTR", "VGI", "FOX", "ELC", "ITD", "SGT", "TTN", "VNZ"
+  ],
+  "Nhựa & Cao su": [
+    "BMP", "NTP", "AAA", "APH", "DRC", "CSM", "SRC", "GVR", "BRR", "TRC"
+  ],
+  "Y tế & Dược phẩm": [
+    "DHG", "IMP", "TRA", "DVN", "DBD", "AMV", "JVC", "TNH", "PMC"
+  ],
+  "Hàng không & Du lịch": [
+    "VJC", "HVN", "ACV", "AST", "SAS", "SKG", "VTD", "DAH", "OCH"
+  ],
+  "Bảo hiểm": [
+    "BVH", "PVI", "BMI", "MIG", "BIC", "VNR", "PTI", "PRE"
+  ]
+}
