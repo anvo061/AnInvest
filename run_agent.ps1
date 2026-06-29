@@ -206,36 +206,48 @@ Bạn hãy phân tích cẩn thận và trả về kết quả dưới định d
     # Chuyển đổi body thành bytes UTF-8 để giữ nguyên dấu tiếng Việt khi gọi API
     $BodyBytes = [System.Text.Encoding]::UTF8.GetBytes($RequestBody)
     
-    try {
-        $ApiResponse = Invoke-RestMethod -Uri $Uri -Method Post -Headers @{ "Content-Type" = "application/json; charset=utf-8" } -Body $BodyBytes -TimeoutSec 20
-        $RawText = $ApiResponse.candidates[0].content.parts[0].text
-        
-        # Parse JSON từ AI
-        $Analysis = $RawText | ConvertFrom-Json
-        $Analysis | Add-Member -MemberType NoteProperty -Name "AnalyzedAt" -Value (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
-        
-        return $Analysis
-    } catch {
-        Write-Log "Lỗi khi gọi API Gemini phân tích tin tức: $_" "ERROR"
-        if ($_.Exception -and $_.Exception.Response) {
-            try {
-                # Kiểm tra xem đối tượng Response có phương thức GetResponseStream không (Windows PowerShell)
-                $Response = $_.Exception.Response
-                $StreamMethod = $Response.GetType().GetMethod("GetResponseStream")
-                if ($null -ne $StreamMethod) {
-                    $Reader = New-Object System.IO.StreamReader($Response.GetResponseStream())
-                    $ErrorBody = $Reader.ReadToEnd()
-                    Write-Log "Phản hồi lỗi từ API: $ErrorBody" "ERROR"
-                } else {
-                    Write-Log "Chi tiết phản hồi lỗi: $($Response.ToString())" "ERROR"
-                }
-            } catch {
-                # Tránh làm sập script nếu không đọc được stream lỗi
-                Write-Log "Không thể phân tích chi tiết lỗi từ API: $_" "WARNING"
+    $MaxRetries = 3
+    $RetryCount = 0
+    $Success = $false
+    $Analysis = $null
+
+    while (-not $Success -and $RetryCount -lt $MaxRetries) {
+        try {
+            $ApiResponse = Invoke-RestMethod -Uri $Uri -Method Post -Headers @{ "Content-Type" = "application/json; charset=utf-8" } -Body $BodyBytes -TimeoutSec 25
+            $RawText = $ApiResponse.candidates[0].content.parts[0].text
+            
+            # Parse JSON từ AI
+            $Analysis = $RawText | ConvertFrom-Json
+            $Analysis | Add-Member -MemberType NoteProperty -Name "AnalyzedAt" -Value (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+            $Success = $true
+        } catch {
+            $RetryCount++
+            Write-Log "Lỗi khi gọi API Gemini phân tích tin tức (Lần thử $RetryCount/$MaxRetries): $_" "WARNING"
+            
+            # Log chi tiết phản hồi lỗi nếu có
+            if ($_.Exception -and $_.Exception.Response) {
+                try {
+                    $Response = $_.Exception.Response
+                    $StreamMethod = $Response.GetType().GetMethod("GetResponseStream")
+                    if ($null -ne $StreamMethod) {
+                        $Reader = New-Object System.IO.StreamReader($Response.GetResponseStream())
+                        $ErrorBody = $Reader.ReadToEnd()
+                        Write-Log "Chi tiết lỗi từ API: $ErrorBody" "WARNING"
+                    } else {
+                        Write-Log "Chi tiết phản hồi lỗi: $($Response.ToString())" "WARNING"
+                    }
+                } catch {}
+            }
+
+            if ($RetryCount -lt $MaxRetries) {
+                # Giãn cách thời gian tăng dần (5s, 10s...) để chờ máy chủ Google ổn định trở lại
+                $SleepSecs = $RetryCount * 5
+                Write-Log "Thử lại sau $SleepSecs giây..." "INFO"
+                Start-Sleep -Seconds $SleepSecs
             }
         }
-        return $null
     }
+    return $Analysis
 }
 
 # Tạo Báo cáo Phân tích Tổng hợp Hàng ngày
@@ -326,19 +338,51 @@ YÊU CẦU CẤU TRÚC VÀ PHƯƠNG PHÁP BÁO CÁO (VIẾT CHI TIẾT, KHÔNG T
 
     $Bytes = [System.Text.Encoding]::UTF8.GetBytes($RequestBody)
 
-    try {
-        $Response = Invoke-RestMethod -Uri $Uri -Method Post -Headers @{ "Content-Type" = "application/json" } -Body $Bytes -TimeoutSec 50
-        $ReportMarkdown = $Response.candidates[0].content.parts[0].text
-        
-        if ($null -ne $ReportMarkdown -and $ReportMarkdown.Trim() -ne "") {
-            [System.IO.File]::WriteAllText($ReportFile, $ReportMarkdown, [System.Text.Encoding]::UTF8)
-            Write-Log "Đã tạo thành công Báo cáo Phân tích Tổng hợp hàng ngày tại $ReportFile!" "SUCCESS"
-        } else {
-            Write-Log "Phản hồi báo cáo trống từ API." "WARNING"
+    $MaxRetries = 3
+    $RetryCount = 0
+    $Success = $false
+    $ReportMarkdown = ""
+
+    while (-not $Success -and $RetryCount -lt $MaxRetries) {
+        try {
+            $Response = Invoke-RestMethod -Uri $Uri -Method Post -Headers @{ "Content-Type" = "application/json" } -Body $Bytes -TimeoutSec 50
+            $ReportMarkdown = $Response.candidates[0].content.parts[0].text
+            if ($null -ne $ReportMarkdown -and $ReportMarkdown.Trim() -ne "") {
+                $Success = $true
+            }
+        }
+        catch {
+            $RetryCount++
+            Write-Log "Lỗi khi gọi API Gemini tạo báo cáo (Lần thử $RetryCount/$MaxRetries): $_" "WARNING"
+            
+            # Log chi tiết phản hồi lỗi nếu có
+            if ($_.Exception -and $_.Exception.Response) {
+                try {
+                    $Response = $_.Exception.Response
+                    $StreamMethod = $Response.GetType().GetMethod("GetResponseStream")
+                    if ($null -ne $StreamMethod) {
+                        $Reader = New-Object System.IO.StreamReader($Response.GetResponseStream())
+                        $ErrorBody = $Reader.ReadToEnd()
+                        Write-Log "Chi tiết phản hồi lỗi từ API: $ErrorBody" "WARNING"
+                    } else {
+                        Write-Log "Chi tiết phản hồi lỗi: $($Response.ToString())" "WARNING"
+                    }
+                } catch {}
+            }
+
+            if ($RetryCount -lt $MaxRetries) {
+                $SleepSecs = $RetryCount * 5
+                Write-Log "Thử lại sau $SleepSecs giây..." "INFO"
+                Start-Sleep -Seconds $SleepSecs
+            }
         }
     }
-    catch {
-        Write-Log "Lỗi khi gọi API Gemini tạo báo cáo: $_" "ERROR"
+
+    if ($Success) {
+        [System.IO.File]::WriteAllText($ReportFile, $ReportMarkdown, [System.Text.Encoding]::UTF8)
+        Write-Log "Đã tạo thành công Báo cáo Phân tích Tổng hợp hàng ngày tại $ReportFile!" "SUCCESS"
+    } else {
+        Write-Log "Không thể tạo báo cáo tổng hợp sau $MaxRetries lần thử." "ERROR"
     }
 }
 
