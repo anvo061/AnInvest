@@ -1,5 +1,471 @@
 ﻿[
   {
+    "Title": "A counterfactual analysis of the impact of stock market absence on economic growth in selected Sub-Saharan African countries - Nature",
+    "Source": "Google News Global Finance",
+    "Link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DYkhyMW9mcnMybjhQYklDYllFWVI1VEZ2OEVQOGxUQ2cxU1pfdE84RGFKelNGd21pVUtLQWJtNWRVYlotWEE1Rml6Q0R4em9xcEtyMGFqTlNieUN5V1VZ?oc=5",
+    "PubDate": "Fri, 10 Apr 2026 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Nghiên cứu học thuật từ tạp chí Nature khẳng định vai trò không thể thiếu của thị trường chứng khoán đối với sự phát triển kinh tế dài hạn tại các quốc gia cận Sahara. Đối với thị trường chứng khoán toàn cầu và Việt Nam, thông tin này mang tính chất lý thuyết vĩ mô, giúp củng cố niềm tin vào hệ thống tài chính nhưng không gây ra bất kỳ tác động trực tiếp hay biến động ngắn hạn nào đến chỉ số thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "FM",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là quỹ ETF đầu tư vào các thị trường cận biên (Frontier Markets), bao gồm một số quốc gia châu Phi. Nghiên cứu này củng cố luận điểm đầu tư dài hạn vào thị trường vốn sơ khai nhưng không tác động đến dòng vốn ngắn hạn của quỹ."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Nghiên cứu gián tiếp khẳng định tầm quan trọng của các định chế tài chính và công ty chứng khoán trong việc thúc đẩy kinh tế, tuy nhiên không có tác động trực tiếp đến hoạt động kinh doanh hay giá cổ phiếu SSI trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:53:15"
+  },
+  {
+    "Title": "If you’re surprised by how well the stock market is doing, so is Jamie Dimon—he says there’s a ‘little tsunami’ heading for the economy - Yahoo Finance",
+    "Source": "Google News Global Finance",
+    "Link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjF2blVha0h0c3dscmU0c05UOV9fX19sb3QtLV8tVVkxbWN1VmsxMTBVTk9Ta3U1dGcwTmtFNGFDTXd4R0ozYnVudkIwVVR2NXBBVmlDQkxYOEpNb2dGakRNTk1vNjZXYTRKT2FlVWEwdk1QNmwyT3ZBSHdNckhRaHVNTnRXYzBINlBNRFppbmNRNDU0V0UydHBkMUZjS1E?oc=5",
+    "PubDate": "Sun, 21 Jun 2026 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Cảnh báo của Jamie Dimon (CEO JPMorgan Chase) về một 'cơn sóng thần nhỏ' đối với nền kinh tế phản ánh sự lo ngại sâu sắc về các rủi ro vĩ mô tiềm ẩn như lạm phát dai dẳng, nợ công tăng cao hoặc bất ổn địa chính trị, bất chấp đà tăng điểm hiện tại của thị trường. Đối với thị trường chứng khoán Việt Nam, thông tin này có thể kích hoạt tâm lý thận trọng, thúc đẩy xu hướng rút vốn của khối ngoại (risk-off) khỏi các thị trường mới nổi và gây áp lực điều chỉnh lên chỉ số VN-Index, đặc biệt là nhóm cổ phiếu tài chính và xuất khẩu.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "JPM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là CEO của JPMorgan Chase, những nhận định thận trọng của Jamie Dimon có thể dự báo trước các thách thức về tăng trưởng tín dụng, nợ xấu gia tăng hoặc chiến lược trích lập dự phòng rủi ro chặt chẽ hơn của chính ngân hàng này."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là cổ phiếu ngân hàng có vốn hóa lớn nhất Việt Nam và nhạy cảm với dòng vốn ngoại. Tâm lý e ngại rủi ro toàn cầu thường dẫn đến xu hướng bán ròng của các quỹ ngoại tại các cổ phiếu trụ cột như VCB."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngành thép và sản xuất công nghiệp phụ thuộc lớn vào sức khỏe của nền kinh tế toàn cầu. Một cuộc suy thoái hoặc giảm tốc kinh tế toàn cầu sẽ làm suy yếu nhu cầu xây dựng và tiêu thụ thép, ảnh hưởng trực tiếp đến hoạt động xuất khẩu của Hòa Phát."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:52:59"
+  },
+  {
+    "Title": "Why does the stock market continue to perform well? - marketplace.org",
+    "Source": "Google News Global Finance",
+    "Link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2JyR25yNUxISFBydnhLLW5fTWs3VUdLSjVwLWMyTjhjQ0VVeTlYY19fWjZsSERoU3dWdFFTZ3JGU290ZmZGTGxWOE1ObFpIX0xybzRqMzZSWmdjWkZ1NTN3UHZxdHZBanFkM3FsNE9DQmpKNkN4cmRvdk96QTB4THFsRUJQdDRGOV9xSXRVV3lNZjdwNmNyRXB4UQ?oc=5",
+    "PubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Tin tức giải thích về đà tăng trưởng bền bỉ của thị trường chứng khoán toàn cầu giúp củng cố tâm lý lạc quan của nhà đầu tư. Sự ổn định và tăng trưởng của các thị trường lớn như Mỹ sẽ tạo hiệu ứng lan tỏa tích cực đến thị trường chứng khoán Việt Nam (VN-Index), kích thích dòng vốn ngoại quay trở lại các thị trường mới nổi và cận biên, đồng thời thúc đẩy thanh khoản thị trường trong nước tăng lên nhờ tâm lý FOMO và kỳ vọng vĩ mô ổn định.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là cổ phiếu công nghệ đầu ngành tại Việt Nam có mối liên kết chặt chẽ với xu hướng công nghệ toàn cầu. Khi thị trường thế giới tăng trưởng tốt nhờ động lực từ nhóm công nghệ, FPT sẽ là thỏi nam châm thu hút dòng vốn ngoại và dòng tiền nội nhờ nền tảng cơ bản vững chắc."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhóm ngành chứng khoán có độ nhạy rất cao với xu hướng chung của thị trường. Thị trường tiếp tục diễn biến tích cực sẽ thúc đẩy thanh khoản và giá trị giao dịch tăng cao, trực tiếp giúp SSI hưởng lợi lớn từ phí môi giới, cho vay ký quỹ (margin) và hoạt động tự doanh."
+      },
+      {
+        "Ticker": "NVDA",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đà tăng trưởng mạnh mẽ của thị trường chứng khoán Mỹ thời gian qua phần lớn được dẫn dắt bởi làn sóng AI và các cổ phiếu công nghệ lớn như Nvidia. Bài báo củng cố niềm tin rằng động lực tăng trưởng của thị trường vẫn duy trì tốt, giúp NVDA tiếp tục giữ vững vị thế dẫn dắt dòng tiền."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:52:42"
+  },
+  {
+    "Title": "How Is the Economy Doing Right Now? - NerdWallet",
+    "Source": "Google News Global Finance",
+    "Link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nRU1VZTZjeXA1TTdRU1g5d1Zha0RvU1phVU1LaGIwVmN6Wk5wTk5WRG5fTHMxZUZCZkdrb0oyVk1DU1VhM05Felp2WXNmbHktdzEwSTNYOTlTWmNtMmYyMjV6RkFTYUYwSVEtRWZn?oc=5",
+    "PubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Báo cáo đánh giá sức khỏe nền kinh tế Mỹ từ NerdWallet cung cấp cái nhìn tổng quan về lạm phát, chi tiêu tiêu dùng và thị trường lao động. Một nền kinh tế Mỹ ổn định hoặc đạt kịch bản 'hạ cánh mềm' sẽ giảm bớt áp lực tỷ giá lên đồng VND, giúp Ngân hàng Nhà nước Việt Nam dễ thở hơn trong việc điều hành chính sách tiền tệ. Điều này tác động tích cực trung hạn đến thị trường chứng khoán toàn cầu và Việt Nam, kích thích tâm lý nhà đầu tư và dòng vốn ngoại quay trở lại các thị trường mới nổi.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kinh tế Mỹ duy trì đà tăng trưởng ổn định giúp đảm bảo nhu cầu tiêu dùng đối với các mặt hàng xuất khẩu chủ lực của Việt Nam như thủy sản, đặc biệt là cá tra của Vĩnh Hoàn tại thị trường Mỹ."
+      },
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "FPT có mảng xuất khẩu phần mềm và dịch vụ CNTT tăng trưởng mạnh tại thị trường Mỹ. Sức khỏe kinh tế Mỹ tốt sẽ thúc đẩy các doanh nghiệp tại đây tiếp tục chi tiêu cho chuyển đổi số."
+      },
+      {
+        "Ticker": "AAPL",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là cổ phiếu vốn hóa lớn nhạy cảm với chi tiêu tiêu dùng tại Mỹ. Nền kinh tế ổn định và tỷ lệ thất nghiệp thấp hỗ trợ doanh số bán hàng của Apple đối với các sản phẩm công nghệ cao cấp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:52:27"
+  },
+  {
+    "Title": "Thủ tướng bổ nhiệm Tổng giám đốc Ngân hàng Chính sách xã hội",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-100260629210449457.htm",
+    "PubDate": "6/29/2026 10:04:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Tin tức bổ nhiệm nhân sự cấp cao tại Ngân hàng Chính sách xã hội (VBSP) mang tính chất kiện toàn bộ máy quản lý hành chính nhà nước. Do VBSP là ngân hàng chính sách không niêm yết và hoạt động phi lợi nhuận nhằm thực hiện các chương trình an sinh xã hội, sự kiện này hầu như không gây tác động trực tiếp đến dòng tiền hay chỉ số VN-Index trên thị trường chứng khoán. Tuy nhiên, việc ổn định bộ máy lãnh đạo giúp đảm bảo dòng vốn chính sách thông suốt, hỗ trợ gián tiếp cho sự ổn định kinh tế vĩ mô và an sinh xã hội.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là ngân hàng thương mại cổ phần nhà nước lớn, Vietcombank thường xuyên đồng hành cùng các chính sách an sinh xã hội của Chính phủ. Tuy nhiên, việc thay đổi nhân sự tại VBSP không ảnh hưởng trực tiếp đến hoạt động kinh doanh hay định giá cổ phiếu VCB."
+      },
+      {
+        "Ticker": "BID",
+        "ImpactType": "Trung lập",
+        "Reasoning": "BIDV có các chương trình phối hợp và hỗ trợ nguồn vốn gián tiếp cho các chương trình mục tiêu quốc gia, nhưng sự thay đổi nhân sự cấp cao tại một ngân hàng chính sách chuyên biệt như VBSP không tác động đến kết quả tài chính của BID."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:51:49"
+  },
+  {
+    "Title": "Phó thủ tướng thường trực Chính phủ: Chủ động khai thác khoáng sản trong nước, tránh phụ thuộc nhập khẩu",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/pho-thu-tuong-thuong-truc-chinh-phu-chu-dong-khai-thac-khoang-san-trong-nuoc-tranh-phu-thuoc-nhap-khau-100260629214110153.htm",
+    "PubDate": "6/29/2026 10:22:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Thông tin này mang lại tác động tích cực về mặt tâm lý cho nhóm cổ phiếu ngành tài nguyên, khai khoáng và vật liệu cơ bản. Việc Chính phủ thúc đẩy tự chủ nguồn khoáng sản trong nước giúp giảm bớt áp lực chi phí nhập khẩu nguyên liệu đầu vào, nâng cao năng lực cạnh tranh cho các doanh nghiệp nội địa trong chuỗi cung ứng. Tuy nhiên, tác động lên chỉ số chung VN-Index sẽ ở mức vừa phải do quy mô vốn hóa của nhóm ngành khai khoáng không quá lớn so với các nhóm ngành dẫn dắt như Ngân hàng hay Bất động sản.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "MSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là một trong những doanh nghiệp khai thác và chế biến sâu khoáng sản quy mô lớn (vonfram, fluorit, bismuth), MSR sẽ hưởng lợi trực tiếp từ định hướng gia tăng khai thác và tự chủ nguồn tài nguyên chiến lược trong nước."
+      },
+      {
+        "Ticker": "KSB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp hàng đầu trong lĩnh vực khai thác khoáng sản đá xây dựng. Việc đẩy mạnh khai thác khoáng sản trong nước phục vụ đầu tư công và xây dựng sẽ giúp KSB dễ dàng hơn trong việc gia hạn và cấp phép mới các mỏ đá."
+      },
+      {
+        "Ticker": "BMC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp chuyên khai thác và chế biến quặng titan. Chủ trương chủ động khai thác khoáng sản trong nước giúp BMC có thêm cơ hội mở rộng quy mô sản xuất và nhận được sự hỗ trợ thuận lợi hơn về mặt pháp lý từ chính quyền."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:51:35"
+  },
+  {
+    "Title": "Tối nay, giá vàng thế giới giảm về sát ngưỡng 4.000 USD/ounce",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/toi-nay-gia-vang-the-gioi-giam-ve-sat-nguong-4000-usd-ounce-100260629231011306.htm",
+    "PubDate": "6/29/2026 11:27:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Giá vàng thế giới giảm bớt sức nóng giúp hạ nhiệt tâm lý phòng thủ của nhà đầu tư, kích thích dòng tiền dịch chuyển từ các tài sản trú ẩn an toàn như vàng quay trở lại thị trường chứng khoán. Điều này cũng phản ánh kỳ vọng lạm phát toàn cầu được kiểm soát tốt hơn, tạo động lực tâm lý tích cực cho chỉ số VN-Index.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá vàng thế giới giảm mạnh có thể gây áp lực giảm giá vàng trong nước, ảnh hưởng tiêu cực đến giá trị hàng tồn kho và biên lợi nhuận gộp của doanh nghiệp kinh doanh vàng bạc đá quý như PNJ trong ngắn hạn."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Xu hướng dịch chuyển dòng vốn từ kênh đầu tư vàng sang kênh chứng khoán sẽ giúp cải thiện thanh khoản thị trường, từ đó mang lại lợi ích trực tiếp cho các công ty chứng khoán lớn như SSI thông qua mảng môi giới và cho vay margin."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:51:19"
+  },
+  {
+    "Title": "Lương bình quân người lao động công ty mẹ EVN gần 480 triệu đồng/năm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/luong-binh-quan-nguoi-lao-dong-cong-ty-me-evn-gan-480-trieu-dong-nam-100260629225253753.htm",
+    "PubDate": "6/29/2026 11:46:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Tin tức về mức lương cao tại công ty mẹ EVN trong bối cảnh tập đoàn này thường xuyên báo cáo khó khăn tài chính và áp lực tăng giá điện có thể tạo ra tâm lý e ngại của dư luận. Đối với thị trường chứng khoán, thông tin này gián tiếp làm tăng lo ngại về hiệu quả quản lý chi phí của EVN, từ đó ảnh hưởng đến dòng tiền thanh toán cho các doanh nghiệp phát điện trên sàn và tạo áp lực lên kỳ vọng lạm phát nếu giá điện tiếp tục được điều chỉnh tăng.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là nhà phát điện lớn nhất trên sàn chứng khoán và bán điện chủ yếu cho EVN. Bất kỳ thông tin nào liên quan đến áp lực chi phí hoặc sức khỏe tài chính của EVN đều khiến nhà đầu tư POW thận trọng về khả năng thanh toán các khoản phải thu."
+      },
+      {
+        "Ticker": "PGV",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là tổng công ty phát điện thuộc tập đoàn EVN. Những thông tin nhạy cảm về chi phí lương và hiệu quả hoạt động của tập đoàn mẹ có thể ảnh hưởng tiêu cực đến tâm lý nhà đầu tư đối với cổ phiếu của các đơn vị thành viên."
+      },
+      {
+        "Ticker": "NT2",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Doanh nghiệp nhiệt điện khí có nguồn thu phụ thuộc hoàn toàn vào việc thanh toán từ EVN. Áp lực chi phí của EVN có thể gián tiếp ảnh hưởng đến tiến độ thanh toán tiền điện cho NT2."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:51:03"
+  },
+  {
+    "Title": "Map Pacific Singapore lập ‘hat-trick’ giải thưởng kinh tế xanh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/map-pacific-singapore-lap-hat-trick-giai-thuong-kinh-te-xanh-2530659.html",
+    "PubDate": "Mon, 29 Jun 2026 17:00:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Tin tức này làm nổi bật xu hướng chuyển dịch mạnh mẽ sang kinh tế xanh và phát triển bền vững (ESG) trong ngành nông nghiệp Việt Nam. Việc các doanh nghiệp FDI lớn đạt giải thưởng xanh sẽ tạo động lực và áp lực cạnh tranh, thúc đẩy các doanh nghiệp nông nghiệp và hóa chất nông nghiệp niêm yết trên sàn chứng khoán phải đẩy nhanh quá trình chuyển đổi xanh để thu hút dòng vốn đầu tư nước ngoài (đặc biệt là các quỹ đầu tư ưu tiên tiêu chuẩn ESG).",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PAN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "The PAN Group là một trong những tập đoàn nông nghiệp và thực phẩm đi đầu tại Việt Nam trong việc áp dụng các tiêu chuẩn ESG và phát triển bền vững. Xu hướng thúc đẩy kinh tế xanh trong nông nghiệp sẽ giúp PAN gia tăng uy tín thương hiệu và dễ dàng tiếp cận các nguồn vốn xanh quốc tế với chi phí thấp."
+      },
+      {
+        "Ticker": "LTG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tập đoàn Lộc Trời hoạt động cốt lõi trong chuỗi giá trị lúa gạo và vật tư nông nghiệp. Việc thị trường hướng tới các giải pháp bảo vệ thực vật thân thiện với môi trường (tương tự định hướng của Map Pacific) sẽ thúc đẩy phân khúc sản phẩm sinh học và các quy trình canh tác bền vững (như SRP) mà LTG đang theo đuổi."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:50:26"
+  },
+  {
+    "Title": "Không cần khoan tường, không cần thợ: Điều hòa Trung Quốc gây sốt khắp châu Âu",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/khong-can-khoan-tuong-khong-can-tho-dieu-hoa-trung-quoc-gay-sot-khap-chau-au-2530623.html",
+    "PubDate": "Mon, 29 Jun 2026 19:38:43 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Tin tức này phản ánh xu hướng tiêu dùng mới tại châu Âu đối với các thiết bị gia dụng thông minh, tiện lợi và tự lắp đặt (DIY) nhằm tối ưu hóa chi phí nhân công đắt đỏ. Đối với thị trường chứng khoán, thông tin này thúc đẩy nhóm cổ phiếu sản xuất và xuất khẩu thiết bị điện gia dụng có chuỗi cung ứng toàn cầu. Đối với thị trường Việt Nam, tác động trực tiếp lên chỉ số chung là không lớn, nhưng nó mở ra cơ hội cho các doanh nghiệp bán lẻ điện máy cập nhật xu hướng sản phẩm mới để thúc đẩy doanh thu, đồng thời tạo áp lực cải tiến công nghệ lên các doanh nghiệp sản xuất điện lạnh nội địa.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là nhà bán lẻ điện máy lớn nhất Việt Nam (Điện Máy Xanh), việc các dòng sản phẩm điều hòa thông minh, dễ lắp đặt và giá cả cạnh tranh từ Trung Quốc tạo cơn sốt toàn cầu sẽ giúp MWG nhanh chóng bắt nhịp xu hướng, nhập khẩu và phân phối các dòng sản phẩm này để kích cầu tiêu dùng trong nước."
+      },
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "REE sở hữu thương hiệu máy lạnh Reetech. Sự xuất hiện và phổ biến của các dòng điều hòa thế hệ mới không cần lắp đặt phức tạp từ Trung Quốc có thể tạo ra áp lực cạnh tranh gay gắt về mặt công nghệ, tính năng và giá thành đối với các dòng điều hòa truyền thống của hãng."
+      },
+      {
+        "Ticker": "000333",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Midea Group (niêm yết tại Thâm Quyến) là một trong những tập đoàn gia dụng hàng đầu Trung Quốc đi tiên phong trong việc xuất khẩu các dòng điều hòa cải tiến, dễ lắp đặt sang phương Tây. Việc sản phẩm gây sốt tại châu Âu sẽ trực tiếp thúc đẩy doanh thu xuất khẩu và cải thiện biên lợi nhuận của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:50:12"
+  },
+  {
+    "Title": "Giá vàng hôm nay 29/6/2026 giảm đồng loạt, SJC lùi về 148 triệu đồng/lượng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-29-6-2026-kho-but-pha-kha-nang-giam-sau-van-hien-huu-2530278.html",
+    "PubDate": "Mon, 29 Jun 2026 19:42:18 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Giá vàng giảm đồng loạt giúp hạ nhiệt áp lực lạm phát kỳ vọng và giảm bớt nhu cầu đầu cơ tích trữ tài sản an toàn. Điều này gián tiếp hỗ trợ ổn định tỷ giá USD/VND, tạo dư địa cho Ngân hàng Nhà nước duy trì chính sách tiền tệ hỗ trợ nền kinh tế. Dòng tiền nhàn rỗi từ kênh trú ẩn (vàng) có xu hướng dịch chuyển một phần sang các kênh đầu tư có hiệu suất sinh lời linh hoạt hơn như thị trường chứng khoán, giúp cải thiện thanh khoản và tâm lý nhà đầu tư trên thị trường chung.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá vàng giảm mạnh có thể ảnh hưởng đến giá trị hàng tồn kho vàng miếng của PNJ và làm giảm doanh thu từ mảng này do tâm lý người tiêu dùng trì hoãn mua vào để chờ vùng giá thấp hơn."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sự dịch chuyển của dòng tiền từ kênh vàng sang thị trường chứng khoán sẽ giúp gia tăng thanh khoản thị trường, từ đó thúc đẩy doanh thu mảng môi giới và cho vay ký quỹ (margin) của các công ty chứng khoán đầu ngành như SSI."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Áp lực tỷ giá và lạm phát giảm bớt nhờ giá vàng hạ nhiệt giúp hệ thống ngân hàng, đặc biệt là Vietcombank, dễ dàng điều tiết thanh khoản, giảm áp lực tăng lãi suất huy động và duy trì biên lãi ròng (NIM) ổn định."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:49:55"
+  },
+  {
+    "Title": "Lương trung bình 3.593 nhân viên công ty mẹ EVN là gần 480 triệu/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/luong-trung-binh-3-593-nhan-vien-cong-ty-me-evn-la-gan-480-trieu-nam-2530742.html",
+    "PubDate": "Mon, 29 Jun 2026 22:05:35 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Tin tức về chi phí nhân sự cao tại công ty mẹ EVN có thể tạo ra dư luận trái chiều trong bối cảnh ngành điện gặp nhiều áp lực về cân đối tài chính. Điều này có thể gián tiếp thúc đẩy áp lực tối ưu hóa chi phí toàn ngành, ảnh hưởng đến tiến độ phê duyệt giá điện và các chính sách liên quan, tác động tâm lý ngắn hạn đến nhóm cổ phiếu ngành điện.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PGV",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là công ty con do EVN nắm giữ cổ phần chi phối, PGV có thể chịu áp lực thắt chặt chi phí vận hành và quản lý doanh nghiệp theo định hướng tối ưu hóa chi phí chung của tập đoàn mẹ."
+      },
+      {
+        "Ticker": "POW",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là doanh nghiệp phát điện lớn độc lập, POW phụ thuộc vào khả năng thanh toán của EVN. Áp lực tài chính và chi phí tại EVN có thể ảnh hưởng gián tiếp đến tốc độ thu hồi công nợ tiền điện của POW."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:49:39"
+  },
+  {
+    "Title": "Người Philippines đổ xô lắp điện mặt trời mái nhà",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nguoi-philippines-do-xo-lap-dien-mat-troi-mai-nha-5091102.html",
+    "PubDate": "Mon, 29 Jun 2026 17:34:11 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Tin tức này phản ánh xu hướng chuyển dịch năng lượng mạnh mẽ sang điện mặt trời áp mái tại khu vực Đông Nam Á do chi phí điện truyền thống tăng cao và nguy cơ thiếu hụt năng lượng. Điều này tạo hiệu ứng tâm lý tích cực cho nhóm cổ phiếu ngành năng lượng tái tạo tại Việt Nam, đồng thời mở ra cơ hội xuất khẩu thiết bị hoặc cung cấp dịch vụ EPC (thiết kế, mua sắm, xây dựng) cho các doanh nghiệp Việt Nam có năng lực vươn ra tầm khu vực.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PC1",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là doanh nghiệp hàng đầu về xây lắp điện và tổng thầu EPC các dự án năng lượng tái tạo. Xu hướng phát triển điện mặt trời trong khu vực ASEAN có thể mở ra cơ hội hợp tác, cung cấp dịch vụ kỹ thuật hoặc xuất khẩu cột thép, thiết bị điện của PC1 sang các thị trường lân cận như Philippines."
+      },
+      {
+        "Ticker": "BCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Bamboo Capital là một trong những doanh nghiệp tiên phong và sở hữu danh mục dự án điện mặt trời áp mái lớn tại Việt Nam. Xu hướng tích cực từ khu vực giúp củng cố triển vọng phát triển mảng năng lượng tái tạo của tập đoàn và thu hút sự chú ý của các nhà đầu tư quốc tế."
+      },
+      {
+        "Ticker": "GEG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Điện Gia Lai sở hữu nhiều dự án điện mặt trời và điện gió. Xu hướng chuyển dịch năng lượng khu vực khẳng định tính đúng đắn của chiến lược phát triển năng lượng xanh, giúp cải thiện định giá và tâm lý nhà đầu tư đối với cổ phiếu GEG."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:49:23"
+  },
+  {
+    "Title": "Phát Đạt vay hơn 8.800 tỷ đồng rót vào 'siêu dự án' Thủ Thiêm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/phat-dat-vay-hon-8-800-ty-dong-rot-vao-sieu-du-an-thu-thiem-5091309.html",
+    "PubDate": "Mon, 29 Jun 2026 21:31:53 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Tin tức này mang lại tín hiệu tích cực cho nhóm cổ phiếu bất động sản và thị trường chứng khoán chung. Việc một doanh nghiệp lớn như Phát Đạt tiếp cận được nguồn vốn khủng hơn 8.800 tỷ đồng cho thấy dòng vốn tín dụng vẫn được khơi thông cho các dự án có pháp lý rõ ràng và vị trí đắc địa. Điều này giúp củng cố niềm tin của nhà đầu tư về thanh khoản của thị trường bất động sản cao cấp, đồng thời kích thích dòng tiền quay trở lại nhóm cổ phiếu địa ốc.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là doanh nghiệp trực tiếp nhận khoản vay. Việc khơi thông nguồn vốn 8.800 tỷ đồng giúp Phát Đạt đảm bảo tiến độ triển khai siêu dự án tại Thủ Thiêm, tạo động lực tăng trưởng doanh thu và lợi nhuận mạnh mẽ trong trung và dài hạn, mặc dù áp lực nợ vay ngắn hạn sẽ gia tăng."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Vinhomes sở hữu quỹ đất lớn và các dự án cao cấp tại TP.HCM. Việc dự án Thủ Thiêm của PDR nhận được dòng vốn lớn sẽ giúp thúc đẩy mặt bằng giá bất động sản khu vực này, gián tiếp định giá lại tài sản và tăng tính thanh khoản cho các dự án lân cận của VHM."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là một trong những ngân hàng thương mại năng động trong việc cấp tín dụng bất động sản. Việc giải ngân gói vay lớn giúp ngân hàng tăng trưởng tín dụng và thu nhập lãi thuần, tuy nhiên cũng đi kèm áp lực quản trị rủi ro tập trung đối với phân khúc bất động sản cao cấp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:49:09"
+  },
+  {
+    "Title": "Hà Nội dự kiến phát hành 200.000 tỷ đồng trái phiếu làm các dự án trọng điểm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ha-noi-du-kien-phat-hanh-200-000-ty-dong-trai-phieu-lam-cac-du-an-trong-diem-5091327.html",
+    "PubDate": "Mon, 29 Jun 2026 22:26:39 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 8,
+    "MarketImpact": "Việc Hà Nội lên kế hoạch huy động 200.000 tỷ đồng qua kênh trái phiếu chính quyền địa phương để đầu tư vào các dự án trọng điểm sẽ tạo ra cú hích cực kỳ mạnh mẽ cho nền kinh tế nói chung và thị trường chứng khoán nói riêng. Dòng vốn khổng lồ này trực tiếp thúc đẩy tiến độ giải ngân đầu tư công, tạo nguồn việc lớn cho các doanh nghiệp xây dựng hạ tầng, vật liệu xây dựng (thép, đá, xi măng). Đồng thời, hạ tầng giao thông được cải thiện sẽ nâng cao giá trị thương mại của các dự án bất động sản lân cận, tạo tâm lý hưng phấn cho dòng tiền trên thị trường chứng khoán.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Vinaconex là tổng thầu xây dựng hạ tầng hàng đầu có trụ sở tại Hà Nội, thường xuyên trúng thầu các dự án hạ tầng giao thông trọng điểm của quốc gia và thủ đô. Việc bổ sung nguồn vốn lớn này giúp tăng cơ hội nhận thầu và đảm bảo dòng tiền thanh toán cho doanh nghiệp."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Với tư cách là nhà sản xuất thép xây dựng lớn nhất Việt Nam, Hòa Phát sẽ được hưởng lợi trực tiếp từ nhu cầu tiêu thụ thép tăng vọt phục vụ cho các công trình cầu đường, đường sắt đô thị và hạ tầng kỹ thuật tại Hà Nội."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Vinhomes sở hữu quỹ đất lớn và nhiều siêu dự án đô thị tại Hà Nội và các vùng lân cận. Việc hạ tầng giao thông thủ đô được đầu tư đồng bộ từ nguồn vốn trái phiếu sẽ giúp gia tăng giá trị thương phẩm và tốc độ bán hàng của các dự án này."
+      },
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "VietinBank và các ngân hàng thương mại nhà nước lớn thường là đối tượng chính tham gia mua, bảo lãnh phát hành trái phiếu chính quyền địa phương, đồng thời cung cấp các gói tín dụng tài trợ dự án đi kèm, giúp gia tăng thu nhập từ hoạt động dịch vụ và tín dụng."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:48:52"
+  },
+  {
+    "Title": "Giá xăng giảm vực dậy tâm lý người tiêu dùng Mỹ",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-xang-giam-vuc-day-tam-ly-nguoi-tieu-dung-my-5091121.html",
+    "PubDate": "Tue, 30 Jun 2026 01:33:56 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Giá xăng giảm tại Mỹ giúp hạ nhiệt áp lực lạm phát toàn cầu, gia tăng thu nhập khả dụng của người tiêu dùng Mỹ và kích thích nhu cầu mua sắm. Điều này tác động tích cực trực tiếp lên thị trường chứng khoán Mỹ, đặc biệt là nhóm ngành bán lẻ và tiêu dùng. Đối với thị trường chứng khoán Việt Nam, thông tin này mang tính chất hỗ trợ gián tiếp nhưng rất quan trọng: thúc đẩy triển vọng xuất khẩu của các doanh nghiệp Việt Nam sang Mỹ (thị trường xuất khẩu lớn nhất) và giảm bớt áp lực tỷ giá nhờ kỳ vọng Fed có thể nới lỏng chính sách tiền tệ dễ dàng hơn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "WMT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là nhà bán lẻ hàng đầu tại Mỹ, Walmart sẽ hưởng lợi trực tiếp khi chi phí năng lượng của người dân giảm, giải phóng dòng tiền cho chi tiêu tiêu dùng và mua sắm hàng hóa."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu cá tra chủ lực của Vĩnh Hoàn. Sức mua của người tiêu dùng Mỹ phục hồi sẽ thúc đẩy nhu cầu nhập khẩu thủy sản và cải thiện giá bán."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp dệt may phụ thuộc lớn vào đơn hàng từ các đối tác Mỹ. Tâm lý tiêu dùng cải thiện tại Mỹ giúp gia tăng lượng đơn đặt hàng mới cho giai đoạn cuối năm."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá xăng giảm thường phản ánh xu hướng hạ nhiệt của giá dầu thô thế giới. Điều này có thể gây áp lực tâm lý ngắn hạn lên nhóm cổ phiếu thượng nguồn dầu khí như PVD."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:48:36"
+  },
+  {
+    "Title": "Tòa Tối cao không cho phép ông Trump sa thải thống đốc Fed",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/toa-toi-cao-khong-cho-phep-ong-trump-sa-thai-thong-doc-fed-5091332.html",
+    "PubDate": "Tue, 30 Jun 2026 01:40:07 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Quyết định của Tòa án Tối cao Mỹ giúp bảo vệ tính độc lập cốt lõi của Cục Dự trữ Liên bang Mỹ (Fed) trước các áp lực chính trị. Điều này mang lại sự ổn định và tính dự báo cao cho chính sách tiền tệ toàn cầu, giảm thiểu rủi ro lạm phát ngoài tầm kiểm soát hoặc các cú sốc lãi suất do can thiệp chính trị. Đối với thị trường chứng khoán Việt Nam, tin tức này giúp giảm bớt áp lực tỷ giá USD/VND, ổn định tâm lý nhà đầu tư ngoại và tạo dư địa cho Ngân hàng Nhà nước Việt Nam duy trì chính sách tiền tệ linh hoạt hỗ trợ nền kinh tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là ngân hàng dẫn đầu hệ thống, VCB hưởng lợi lớn khi áp lực tỷ giá và lãi suất toàn cầu ổn định, giúp ngân hàng dễ dàng quản trị thanh khoản và duy trì biên lợi nhuận (NIM) tốt."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sự ổn định vĩ mô toàn cầu thúc đẩy tâm lý tích cực trên thị trường chứng khoán, làm tăng thanh khoản giao dịch và trực tiếp mang lại lợi ích cho mảng môi giới và tự doanh của SSI."
+      },
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "FPT là doanh nghiệp công nghệ có tỷ trọng doanh thu nước ngoài lớn và là cổ phiếu ưa thích của khối ngoại. Sự ổn định của tỷ giá và dòng vốn ngoại sẽ hỗ trợ tích cực cho đà tăng giá của cổ phiếu này."
+      },
+      {
+        "Ticker": "SPY",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chứng chỉ quỹ ETF mô phỏng chỉ số S&P 500 của Mỹ sẽ phản ứng tích cực ngay lập tức khi rủi ro chính trị can thiệp vào Fed bị loại bỏ, củng cố niềm tin của giới đầu tư Phố Wall."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 21:48:20"
+  },
+  {
     "Title": "Phát Đạt vay hơn 8.800 tỷ đồng rót vào 'siêu dự án' Thủ Thiêm",
     "Source": "VnExpress Kinh Doanh",
     "Link": "https://vnexpress.net/phat-dat-vay-hon-8-800-ty-dong-rot-vao-sieu-du-an-thu-thiem-5091309.html",
