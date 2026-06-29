@@ -141,7 +141,96 @@ function Get-RssFeedItems {
     return $Items
 }
 
-# Hàm phân tích tin tức bằng Gemini API
+# Danh sách mã cổ phiếu hợp lệ (Whitelist) — Toàn bộ HOSE (373 mã) + HNX (281 mã) + UPCoM (786 mã) = 1440 mã
+# Nguồn: CafeF banggia API, cập nhật 30/06/2026
+$ValidTickers = @(
+    # ===== HOSE (373 mã) =====
+    "AAA","AAM","AAT","ABR","ABS","ABT","ACB","ACC","ACG","ACL","ADG","ADP","ADS","AGG","AGR","ANV","APG","APH"
+    "ASG","ASM","ASP","AST","BAF","BBC","BCE","BCG","BCM","BFC","BHN","BIC","BID","BKG","BMC","BMI","BMP","BRC"
+    "BSI","BSR","BTP","BTT","BVH","BWE","CCC","CCI","CCL","CDC","CHP","CIG","CII","CKG","CLC","CLL","CLW","CMG"
+    "CMV","CMX","CNG","COM","CRC","CRE","CSM","CSV","CTD","CTF","CTG","CTI","CTR","CTS","CVT","DAH","DAT","DBC"
+    "DBD","DBT","DCL","DCM","DGC","DGW","DHA","DHC","DHG","DHM","DIG","DLG","DMC","DPG","DPM","DPR","DQC","DRC"
+    "DRH","DRL","DSC","DSE","DSN","DTA","DTL","DTT","DVP","DXG","DXS","DXV","EIB","ELC","EVE","EVF","EVG","FCM"
+    "FCN","FDC","FIR","FIT","FMC","FPT","FRT","FTS","GAS","GDT","GEE","GEG","GEX","GIL","GMD","GMH","GSP","GTA"
+    "GVR","HAG","HAH","HAP","HAR","HAS","HAX","HCD","HCM","HDB","HDC","HDG","HHP","HHS","HHV","HID","HII","HMC"
+    "HNA","HPG","HPX","HQC","HRC","HSG","HSL","HTG","HTI","HTL","HTN","HTV","HUB","HVH","HVN","HVX","ICT","IDI"
+    "IJC","ILB","IMP","ITC","ITD","JVC","KBC","KDC","KDH","KHG","KHP","KMR","KOS","KSB","LAF","LBM","LCG","LDG"
+    "LGC","LGL","LHG","LIX","LPB","LSS","MBB","MCM","MCP","MDG","MHC","MIG","MSB","MSH","MSN","MWG","NAB","NAF"
+    "NAV","NBB","NCT","NHA","NHH","NHT","NKG","NLG","NNC","NSC","NTL","NVL","NVT","OCB","OGC","OPC","ORS","PAC"
+    "PAN","PDN","PDR","PET","PGC","PGD","PGI","PGV","PHC","PHR","PIT","PJT","PLP","PLX","PMG","PNC","PNJ","POW"
+    "PPC","PTB","PTC","PTL","PVD","PVP","PVT","QCG","QNP","RAL","REE","RYG","SAB","SAM","SAV","SBA","SBG","SBT"
+    "SBV","SCR","SCS","SFC","SFG","SFI","SGN","SGR","SGT","SHA","SHB","SHI","SHP","SIP","SJD","SJS","SKG","SMA"
+    "SMB","SMC","SPM","SRC","SRF","SSB","SSC","SSI","STB","STG","STK","SVC","SVD","SVI","SVT","SZC","SZL","TBC"
+    "TCB","TCD","TCH","TCI","TCL","TCM","TCO","TCR","TCT","TDC","TDG","TDH","TDM","TDP","TDW","TEG","THG","TIP"
+    "TIX","TLD","TLG","TLH","TMP","TMS","TMT","TNC","TNH","TNI","TNT","TPB","TPC","TRA","TRC","TSC","TTA","TTE"
+    "TTF","TVB","TVS","TVT","TYA","UIC","VAF","VCA","VCB","VCF","VCG","VCI","VDP","VDS","VFG","VGC","VHC","VHM"
+    "VIB","VIC","VID","VIP","VIX","VJC","VMD","VND","VNE","VNG","VNL","VNM","VNS","VOS","VPB","VPD","VPG","VPH"
+    "VPI","VPL","VPS","VRC","VRE","VSC","VSH","VSI","VTB","VTO","VTP","YBM","YEG"
+    # ===== HNX (281 mã) =====
+    "AAV","ADC","ALT","AMC","AME","AMV","API","APS","ARM","ATS","BAB","BAX","BBS","BCC","BCF","BDB","BED","BKC"
+    "BNA","BPC","BSC","BST","BTS","BTW","BVS","BXH","CAG","CAN","CAP","CAR","CCR","CDN","CEO","CET","CIA","CJC"
+    "CKV","CLH","CLM","CMC","CMS","CPC","CSC","CST","CTB","CTC","CTP","CTT","CTX","CVN","DAD","DAE","DDG","DHP"
+    "DHT","DIH","DNC","DNP","DST","DTD","DTG","DTK","DVM","DXP","EBS","ECI","EID","EVS","FID","GDW","GIC","GKM"
+    "GLT","GMA","GMX","HAD","HAT","HBS","HCC","HCT","HDA","HEV","HGM","HHC","HJS","HKT","HLC","HLD","HMH","HMR"
+    "HOM","HTC","HUT","HVT","ICG","IDC","IDJ","IDV","INC","INN","IPA","ITQ","IVS","KDM","KHS","KKC","KMT","KSD"
+    "KSF","KST","KSV","KTS","LAS","LBE","LCD","LDP","LHC","LIG","MAC","MAS","MBG","MBS","MCC","MCF","MCO","MDC"
+    "MED","MEL","MKV","MST","MVB","NAG","NAP","NBC","NBP","NBW","NDN","NDX","NET","NFC","NHC","NRC","NSH","NST"
+    "NTH","NTP","NVB","OCH","ONE","PBP","PCE","PCG","PCH","PCT","PDB","PEN","PGN","PGS","PGT","PHN","PIA","PIC"
+    "PJC","PLC","PMB","PMC","PMP","PMS","POT","PPE","PPP","PPS","PPT","PPY","PRC","PRE","PSC","PSD","PSE","PSI"
+    "PSW","PTD","PTI","PTS","PTX","PVB","PVC","PVG","PVI","PVS","QHD","QST","QTC","RCL","SAF","SCG","SCI","SDA"
+    "SDC","SDG","SDN","SDU","SEB","SED","SFN","SGC","SGD","SGH","SHE","SHN","SHS","SIC","SJE","SLS","SMN","SMT"
+    "SPC","SPI","SRA","SSM","STC","STP","SVN","SZB","TBX","TDN","TDT","TET","TFC","THB","THD","THS","THT","TIG"
+    "TJC","TKU","TMB","TMC","TMX","TNG","TOT","TPH","TPP","TSB","TTC","TTH","TTL","TTT","TVC","TVD","TXM","UNI"
+    "VBC","VCC","VCM","VCS","VDL","VFS","VGP","VGS","VHE","VHL","VIF","VIG","VIT","VLA","VMC","VMS","VNC","VNF"
+    "VNR","VNT","VSA","VSM","VTC","VTH","VTJ","VTV","VTZ","WCS","WSS"
+    # ===== UPCoM (786 mã) =====
+    "AAH","AAS","ABB","ABC","ABI","ABW","ACE","ACM","ACS","ACV","AFX","AGF","AGM","AGP","AGX","AIC","AIG","ALV"
+    "AMD","AMP","AMS","ANT","APC","APF","APL","APP","APT","ART","ATA","ATB","ATG","AVC","AVG","BAL","BBH","BBM"
+    "BBT","BCA","BCB","BCP","BCR","BCV","BDG","BDT","BDW","BEL","BGE","BGW","BHA","BHC","BHG","BHI","BHK","BHP"
+    "BIG","BII","BIO","BLF","BLI","BLN","BLT","BMD","BMF","BMG","BMJ","BMK","BMN","BMS","BMV","BNW","BOT","BQB"
+    "BRR","BRS","BSA","BSD","BSG","BSH","BSL","BSP","BSQ","BTB","BTD","BTG","BTH","BTN","BTU","BTV","BVB","BVG"
+    "BVL","BVN","BWA","BWS","CAB","CAD","CAT","CBI","CBS","CCA","CCM","CCP","CCT","CCV","CDG","CDH","CDO","CDP"
+    "CDR","CEG","CEN","CFM","CFV","CGV","CHC","CHS","CID","CIP","CKA","CKD","CLG","CLX","CMD","CMF","CMI","CMK"
+    "CMM","CMN","CMP","CMT","CMW","CNA","CNC","CNN","CNT","CPA","CPH","CPI","CQN","CQT","CSI","CTW","CYC","DAC"
+    "DAN","DAS","DBM","DCF","DCG","DCH","DCR","DCS","DCT","DDB","DDH","DDM","DDN","DDV","DFC","DFF","DGT","DHB"
+    "DHD","DHN","DIC","DID","DKC","DKG","DKW","DLD","DLR","DLT","DMN","DMS","DNA","DND","DNE","DNH","DNL","DNM"
+    "DNN","DNT","DNW","DOC","DOP","DPC","DPH","DPP","DPS","DRG","DRI","DSD","DSG","DSH","DSP","DTB","DTC","DTE"
+    "DTH","DTI","DTP","DUS","DVC","DVG","DVN","DVW","DWC","DWS","DXL","DZM","ECO","EFI","EIC","EIN","EME","EMG"
+    "EMS","EPC","EPH","FBC","FCC","FCS","FGL","FHN","FHS","FIC","FLC","FOC","FOX","FRC","FRM","FSO","FTI","FTM"
+    "GAB","GCB","GCF","GDA","GER","GGG","GHC","GLC","GLW","GMC","GND","GPC","GSM","GTD","GTS","GVT","HAC","HAF"
+    "HAM","HAN","HAV","HBC","HBD","HBH","HCB","HCI","HDM","HDP","HDS","HDW","HEC","HEJ","HEP","HES","HFB","HFC"
+    "HFX","HGT","HHG","HHN","HIG","HIO","HJC","HKB","HLB","HLO","HLS","HLT","HLY","HMD","HMG","HMS","HNB","HND"
+    "HNF","HNG","HNI","HNM","HNP","HNR","HOT","HPB","HPD","HPH","HPI","HPM","HPP","HPT","HPW","HRB","HRT","HSA"
+    "HSI","HSM","HSP","HSV","HTE","HTM","HTP","HTT","HUG","HVA","HWS","IBD","ICC","ICF","ICI","ICN","IDP","IFS"
+    "IHK","ILA","ILC","ILS","IME","ING","IRC","ISG","ISH","IST","ITA","ITS","JOS","KCB","KCE","KGM","KHD","KHW"
+    "KIP","KLB","KSH","KTC","KTL","KTT","KTW","KVC","KWA","LAI","LAW","LCC","LCM","LCS","LDW","LEC","LGM","LIC"
+    "LKW","LLM","LMC","LMH","LMI","LNC","LPT","LQN","LSG","LTC","LTG","LUT","MBN","MBT","MCG","MCH","MDA","MDF"
+    "MEC","MEF","MES","MFS","MGC","MGG","MGR","MIC","MIE","MKP","MLC","MLS","MML","MNB","MND","MPC","MPT","MPY"
+    "MQB","MQN","MRF","MSR","MTA","MTB","MTC","MTG","MTH","MTL","MTP","MTS","MTV","MTX","MVC","MVN","MZG","NAC"
+    "NAS","NAU","NAW","NBE","NBT","NCG","NCS","NDC","NDP","NDT","NDW","NED","NEM","NGC","NHP","NHV","NJC","NLS"
+    "NNG","NNT","NOS","NQB","NQN","NQT","NSG","NSL","NSS","NTC","NTF","NTT","NTW","NUE","NVP","NWT","NXT","ODE"
+    "OIL","ONW","PAI","PAP","PAS","PAT","PBC","PBT","PCC","PCF","PCM","PDC","PDV","PEC","PEG","PEQ","PFL","PGB"
+    "PHH","PHP","PHS","PIS","PIV","PJS","PLA","PLE","PLO","PMJ","PMT","PMW","PND","PNG","PNP","PNT","POB","POM"
+    "POS","POV","PPH","PPI","PQN","PRO","PRT","PSB","PSG","PSL","PSN","PSP","PTE","PTG","PTH","PTN","PTO","PTP"
+    "PTT","PTV","PVA","PVE","PVH","PVL","PVM","PVO","PVR","PVV","PVX","PVY","PWA","PWS","PXA","PXC","PXI","PXL"
+    "PXM","PXS","PXT","QBS","QCC","QHW","QNC","QNS","QNT","QNU","QNW","QPH","QSP","QTP","RAT","RBC","RCC","RCD"
+    "RDP","RIC","RTB","SAC","SAL","SAP","SAS","SBB","SBD","SBH","SBL","SBM","SBR","SBS","SCC","SCD","SCJ","SCL"
+    "SCO","SCY","SDD","SDJ","SDK","SDP","SDT","SDV","SDY","SEA","SEP","SGB","SGI","SGP","SGS","SHC","SHG","SHX"
+    "SID","SIG","SII","SIV","SJC","SJF","SJG","SJM","SKH","SKN","SKV","SNC","SNZ","SPB","SPD","SPH","SPV","SQC"
+    "SRB","SRT","SSF","SSG","SSH","SSN","STH","STS","STT","STW","SVG","SVH","SWC","SZE","SZG","TAB","TAL","TAN"
+    "TAR","TAW","TBD","TBH","TBR","TBW","TCJ","TCK","TCW","TDB","TDF","TDI","TDS","TED","TEL","TGP","THM","THN"
+    "THP","THU","THW","TID","TIE","TIS","TKA","TKC","TKG","TLI","TLP","TLT","TMG","TMW","TNA","TNB","TNP","TNS"
+    "TNV","TNW","TOP","TOS","TOW","TPS","TQN","TQW","TRS","TRT","TSA","TSD","TSG","TSJ","TST","TTD","TTG","TTN"
+    "TTP","TTS","TUG","TVA","TVG","TVH","TVM","TVN","TVP","UCT","UDC","UDJ","UDL","UEM","UMC","UPC","UPH","USC"
+    "USD","UXC","VAB","VAV","VBB","VBG","VBH","VCE","VCP","VCR","VCT","VCW","VCX","VDB","VDG","VDN","VDT","VEA"
+    "VEC","VEF","VES","VET","VFC","VFR","VGG","VGI","VGL","VGR","VGT","VGV","VHD","VHF","VHG","VHH","VIE","VIH"
+    "VIM","VIN","VIR","VIW","VKC","VKP","VLB","VLC","VLF","VLG","VLP","VLW","VMA","VMG","VMK","VMT","VNA","VNB"
+    "VNH","VNP","VNX","VNY","VNZ","VOC","VPA","VPC","VPR","VPW","VQC","VRG","VSE","VSF","VSG","VSN","VST","VTA"
+    "VTD","VTE","VTG","VTI","VTK","VTL","VTM","VTQ","VTR","VTS","VTX","VUA","VVN","VVS","VWS","VXB","VXP","VXT"
+    "WSB","WTC","XDC","XDH","XHC","XLV","XMC","XMD","XMP","XPH","YBC","YTC"
+)
+
+# Hàm phân tích tin tức bằng Gemini API (Kiến trúc Agent 1: Phân tích + Agent 2: Phản biện)
 function Analyze-NewsItem {
     param (
         [PSCustomObject]$NewsItem,
@@ -156,9 +245,46 @@ function Analyze-NewsItem {
 
     Write-Log "Đang gửi phân tích cho tin: '$Title'..." "INFO"
 
-    # Xây dựng prompt phân tích chứng khoán chi tiết
-    $Prompt = @"
-Hãy đóng vai là một chuyên gia phân tích tài chính và kinh tế cao cấp chuyên sâu về thị trường chứng khoán Việt Nam và thế giới. Tôi sẽ cung cấp một tin tức tài chính kinh tế, nhiệm vụ của bạn là phân tích chi tiết các tác động của tin tức này đến thị trường chứng khoán và các mã cổ phiếu cụ thể.
+    # ========== SYSTEM PROMPT (role: system) ==========
+    $SystemPrompt = @"
+Bạn là một Chuyên gia Phân tích Dữ liệu Chứng khoán Việt Nam (VN-Index).
+Nhiệm vụ của bạn là đọc các bản tin kinh tế, vĩ mô, hoặc doanh nghiệp và trích xuất các mã cổ phiếu (tickers) bị tác động.
+
+QUY TẮC CỐT LÕI:
+1. Chỉ trích xuất các mã cổ phiếu đang niêm yết trên HOSE, HNX, UPCOM. Không tự bịa mã cổ phiếu.
+2. Suy luận tác động theo tư duy logic: Tin tức -> Ngành/Vĩ mô -> Doanh nghiệp cụ thể.
+3. Phân biệt rõ thời gian tác động (Short-term: tính bằng tuần/tháng, Long-term: tính bằng năm).
+4. KHÔNG trả lời bằng văn bản thông thường. CHỈ trả về dữ liệu dưới định dạng JSON nguyên chuẩn.
+
+QUY TẮC PHÂN TÍCH MÃ CỔ PHIẾU BỊ ẢNH HƯỞNG:
+- ĐỐI CHIẾU TÊN DOANH NGHIỆP: Tập đoàn Hòa Phát -> HPG, Vinhomes -> VHM, Phát Đạt -> PDR, Vinamilk -> VNM, Vietcombank -> VCB, FPT -> FPT, SSI -> SSI, Novaland -> NVL, VNDirect -> VND, Thế giới Di động -> MWG, Masan -> MSN, Sabeco -> SAB, PV Gas -> GAS, PV Drilling -> PVD, Lọc Hóa dầu Bình Sơn -> BSR, v.v.
+- PHÂN TÍCH TÁC ĐỘNG NGÀNH (nếu không nêu cụ thể doanh nghiệp, điền mã Market Leaders):
+  Ngành Thép: HPG, HSG, NKG | Ngân hàng: VCB, TCB, BID, CTG, MBB, VPB, STB, ACB | BĐS: VHM, PDR, DXG, KDH, DIG, NLG, NVL | Chứng khoán: SSI, VND, VCI, HCM | Dầu khí: PVS, PVD, BSR, GAS, PLX | Năng lượng: POW, REE, PC1, GEG | Thủy sản: VHC, ANV, IDI | Dệt may: TNG, MSH, VGT | Cảng biển: GMD, HAH, VSC | Bán lẻ: MWG, FRT, MSN, DGW, PNJ | CNTT: FPT, CMG
+- PHÂN TÍCH VĨ MÔ: Lãi suất giảm -> SSI, VND, VHM, PDR. Tỷ giá tăng -> POW (tiêu cực), VHC, TNG (tích cực). FDI tăng -> KBC, GVR, SZC, GMD.
+
+QUY TẮC CHỐNG NHIỄU (BẮT BUỘC):
+- Nếu tin tức chỉ là thông tin hành chính (thay đổi địa chỉ trụ sở, bổ nhiệm nhân sự cấp thấp), tin đồn không căn cứ, hoặc không có tác động rõ ràng đến biên lợi nhuận/doanh thu/hoạt động kinh doanh của bất kỳ doanh nghiệp nào, bạn BẮT BUỘC phải trả về mảng AffectedTickers rỗng ([]). Tuyệt đối không suy diễn gượng ép.
+- Nếu tin quốc tế không liên quan trực tiếp hoặc gián tiếp đến thị trường Việt Nam, trả AffectedTickers rỗng.
+- Giới hạn tối đa 5 mã cổ phiếu bị ảnh hưởng cho mỗi tin bài.
+
+VÍ DỤ MẪU (FEW-SHOT):
+
+[Tin tức]: "Giá thép HRC giao ngay tại Trung Quốc tiếp tục phá đáy 2 năm do nhu cầu xây dựng suy yếu."
+[Đầu ra]:
+{"Title":"Giá thép HRC tại TQ phá đáy 2 năm","Source":"Reuters","Link":"#","PubDate":"2026-06-30","Sentiment":"Tiêu cực","ImpactScore":-6,"MarketImpact":"Giá HRC giảm mạnh làm giảm giá trị hàng tồn kho và thu hẹp biên lợi nhuận gộp của các DN thép Việt Nam, đặc biệt nhóm tôn mạ xuất khẩu.","Relevance":"Cao","AffectedTickers":[{"Ticker":"NKG","ImpactType":"Tiêu cực","Reasoning":"Giá HRC giảm mạnh thu hẹp biên lợi nhuận mảng tôn mạ xuất khẩu, rủi ro trích lập dự phòng hàng tồn kho."},{"Ticker":"HSG","ImpactType":"Tiêu cực","Reasoning":"Tương tự NKG, mảng tôn mạ chịu rủi ro trích lập dự phòng giảm giá hàng tồn kho."},{"Ticker":"HPG","ImpactType":"Tiêu cực","Reasoning":"Mặc dù HPG tiêu thụ nội địa là chính, giá HRC giảm tạo áp lực cạnh tranh từ thép nhập khẩu giá rẻ."}]}
+
+[Tin tức]: "NHNN yêu cầu các TCTD tiếp tục giảm lãi suất cho vay để hỗ trợ BĐS phục hồi cuối năm."
+[Đầu ra]:
+{"Title":"NHNN chỉ đạo giảm lãi suất cho vay hỗ trợ BĐS","Source":"VnExpress","Link":"#","PubDate":"2026-06-30","Sentiment":"Tích cực","ImpactScore":7,"MarketImpact":"Chính sách nới lỏng tiền tệ giúp giảm chi phí vốn vay cho DN BĐS và kích thích nhu cầu mua nhà, đồng thời hỗ trợ thanh khoản thị trường chứng khoán.","Relevance":"Cao","AffectedTickers":[{"Ticker":"VHM","ImpactType":"Tích cực","Reasoning":"DN BĐS lớn nhất hưởng lợi trực tiếp từ giảm chi phí vay và tăng nhu cầu mua nhà."},{"Ticker":"PDR","ImpactType":"Tích cực","Reasoning":"Chi phí vay vốn giảm giúp giảm áp lực tài chính cho DN BĐS có đòn bẩy cao."},{"Ticker":"SSI","ImpactType":"Tích cực","Reasoning":"Lãi suất giảm thúc đẩy dòng tiền chảy vào TTCK, tăng doanh thu môi giới và margin lending."}]}
+
+[Tin tức]: "Bộ Xây dựng ban hành quy định mới về quản lý nhà chung cư thay thế Thông tư cũ."
+[Đầu ra]:
+{"Title":"Quy định mới về quản lý nhà chung cư","Source":"Tuổi Trẻ","Link":"#","PubDate":"2026-06-30","Sentiment":"Trung lập","ImpactScore":0,"MarketImpact":"Thông tin hành chính về quản lý vận hành nhà chung cư, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các DN BĐS niêm yết.","Relevance":"Thấp","AffectedTickers":[]}
+"@
+
+    # ========== USER PROMPT (role: user) ==========
+    $UserPrompt = @"
+Hãy phân tích tin tức sau và trả về kết quả JSON theo đúng cấu trúc đã hướng dẫn:
 
 Tin tức:
 - Tiêu đề: $Title
@@ -166,40 +292,46 @@ Tin tức:
 - Nguồn tin: $Source
 - Ngày đăng: $PubDate
 
-Bạn hãy phân tích cẩn thận và trả về kết quả dưới định dạng JSON duy nhất. Cấu trúc JSON phải tuân thủ chính xác mẫu dưới đây (không được kèm bất cứ chữ viết hay giải thích nào ngoài khối JSON):
+Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản):
 {
   "Title": "$($Title -replace '"', '\"')",
   "Source": "$($Source -replace '"', '\"')",
   "Link": "$($Link -replace '"', '\"')",
   "PubDate": "$($PubDate -replace '"', '\"')",
-  "Sentiment": "Tích cực" | "Tiêu cực" | "Trung lập",
-  "ImpactScore": (số nguyên từ -10 đến 10, ví dụ: 8 hoặc -3),
-  "MarketImpact": "Giải thích chi tiết bằng tiếng Việt về tác động của tin tức này đối với thị trường chứng khoán chung.",
-  "Relevance": "Cao" | "Trung bình" | "Thấp",
+  "Sentiment": "Tích cực" hoặc "Tiêu cực" hoặc "Trung lập",
+  "ImpactScore": (số nguyên từ -10 đến 10),
+  "MarketImpact": "Giải thích tác động bằng tiếng Việt.",
+  "Relevance": "Cao" hoặc "Trung bình" hoặc "Thấp",
   "AffectedTickers": [
     {
-      "Ticker": "Mã cổ phiếu viết hoa (ví dụ: FPT, HPG, VCB, VHM, AAPL, NVDA, TSLA)",
-      "ImpactType": "Tích cực" | "Tiêu cực" | "Trung lập",
-      "Reasoning": "Giải thích cụ thể vì sao mã này bị tác động bởi tin tức này."
+      "Ticker": "MÃ_CỔ_PHIẾU",
+      "ImpactType": "Tích cực" hoặc "Tiêu cực" hoặc "Trung lập",
+      "Reasoning": "Giải thích logic tác động ngắn gọn."
     }
   ]
 }
 "@
 
-    # Gọi API Gemini (dùng gemini-3.1-flash-lite: 1000-1500 lượt gọi/ngày, ổn định cao)
+    # ========== GỌI API GEMINI VỚI SYSTEM + USER ROLE ==========
     $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=$ApiKey"
     
     $RequestBody = @{
+        systemInstruction = @{
+            parts = @(
+                @{ text = $SystemPrompt }
+            )
+        }
         contents = @(
             @{
+                role = "user"
                 parts = @(
-                    @{ text = $Prompt }
+                    @{ text = $UserPrompt }
                 )
             }
         )
         generationConfig = @{
             responseMimeType = "application/json"
-            temperature = 0.2
+            temperature = 0.15
         }
     } | ConvertTo-Json -Depth 10
 
@@ -226,13 +358,119 @@ Bạn hãy phân tích cẩn thận và trả về kết quả dưới định d
             Write-Log "Lỗi API phân tích tin (Lần $RetryCount/$MaxRetries): $ErrMsg" "WARNING"
 
             if ($RetryCount -lt $MaxRetries) {
-                # Giãn cách tăng dần: 15s, 30s, 45s, 60s
                 $SleepSecs = $RetryCount * 15
                 Write-Log "Chờ $SleepSecs giây rồi thử lại..." "INFO"
                 Start-Sleep -Seconds $SleepSecs
             }
         }
     }
+
+    if (-not $Success -or $null -eq $Analysis) {
+        return $null
+    }
+
+    # ========== BƯỚC XÁC THỰC: Lọc mã cổ phiếu không hợp lệ (Ticker Whitelist Validation) ==========
+    if ($Analysis.PSObject.Properties.Name -contains "AffectedTickers" -and $null -ne $Analysis.AffectedTickers) {
+        $OriginalCount = $Analysis.AffectedTickers.Count
+        $ValidatedTickers = @()
+        foreach ($TickerItem in $Analysis.AffectedTickers) {
+            $TickerCode = ($TickerItem.Ticker -replace '\s','').ToUpper()
+            if ($ValidTickers -contains $TickerCode) {
+                $TickerItem.Ticker = $TickerCode
+                $ValidatedTickers += $TickerItem
+            } else {
+                Write-Log "Loại bỏ mã không hợp lệ '$($TickerItem.Ticker)' khỏi kết quả phân tích." "WARNING"
+            }
+        }
+        $Analysis.AffectedTickers = $ValidatedTickers
+        $FilteredCount = $ValidatedTickers.Count
+        if ($OriginalCount -ne $FilteredCount) {
+            Write-Log "Đã lọc ticker: $OriginalCount -> $FilteredCount mã hợp lệ." "INFO"
+        }
+    }
+
+    # ========== AGENT 2: PHẢN BIỆN (Critique Node) ==========
+    # Chỉ chạy nếu có AffectedTickers và tin có Relevance Cao/Trung bình
+    $Relevance = ($Analysis.Relevance -replace '\s','').ToLower()
+    $HasTickers = ($null -ne $Analysis.AffectedTickers -and $Analysis.AffectedTickers.Count -gt 0)
+    
+    if ($HasTickers -and ($Relevance -eq "cao" -or $Relevance -eq "trungbình" -or $Relevance -eq "high" -or $Relevance -eq "medium")) {
+        Write-Log "Khởi chạy Agent Phản biện (Critique) cho tin: '$Title'..." "INFO"
+        
+        $TickerSummary = ($Analysis.AffectedTickers | ForEach-Object { "$($_.Ticker) ($($_.ImpactType)): $($_.Reasoning)" }) -join "`n"
+        
+        $CritiqueSystemPrompt = @"
+Bạn là Giám đốc Quản lý Rủi ro tại một quỹ đầu tư chứng khoán Việt Nam.
+Nhiệm vụ: Nhận kết quả phân tích của Agent Phân tích và PHẢN BIỆN tính logic của nó.
+CHỈ trả về JSON. Không giải thích bằng văn bản.
+"@
+
+        $CritiqueUserPrompt = @"
+Tin tức gốc: "$Title" - $Description
+
+Kết quả phân tích của Agent 1:
+- Sentiment: $($Analysis.Sentiment), ImpactScore: $($Analysis.ImpactScore)
+- MarketImpact: $($Analysis.MarketImpact)
+- Các mã bị ảnh hưởng:
+$TickerSummary
+
+Hãy đánh giá tính logic của kết quả trên. Trả về JSON theo cấu trúc:
+{
+  "verdict": "Approve" hoặc "Revise",
+  "revised_sentiment": "Tích cực" hoặc "Tiêu cực" hoặc "Trung lập" (chỉ điền nếu verdict là Revise),
+  "revised_score": (số nguyên -10 đến 10, chỉ điền nếu verdict là Revise),
+  "tickers_to_remove": ["MÃ1", "MÃ2"] (danh sách mã nên loại bỏ vì suy diễn gượng ép, để [] nếu không có),
+  "critique_note": "Nhận xét ngắn gọn của bạn về chất lượng phân tích."
+}
+"@
+
+        $CritiqueBody = @{
+            systemInstruction = @{
+                parts = @( @{ text = $CritiqueSystemPrompt } )
+            }
+            contents = @(
+                @{
+                    role = "user"
+                    parts = @( @{ text = $CritiqueUserPrompt } )
+                }
+            )
+            generationConfig = @{
+                responseMimeType = "application/json"
+                temperature = 0.1
+            }
+        } | ConvertTo-Json -Depth 10
+
+        $CritiqueBytes = [System.Text.Encoding]::UTF8.GetBytes($CritiqueBody)
+
+        try {
+            Start-Sleep -Seconds 4  # Tránh rate limit
+            $CritiqueResponse = Invoke-RestMethod -Uri $Uri -Method Post -Headers @{ "Content-Type" = "application/json; charset=utf-8" } -Body $CritiqueBytes -TimeoutSec 30
+            $CritiqueRaw = $CritiqueResponse.candidates[0].content.parts[0].text
+            $Critique = $CritiqueRaw | ConvertFrom-Json
+
+            Write-Log "Agent Phản biện: Verdict=$($Critique.verdict), Note=$($Critique.critique_note)" "INFO"
+
+            # Áp dụng sửa đổi nếu Agent 2 yêu cầu Revise
+            if ($Critique.verdict -eq "Revise") {
+                if ($Critique.revised_sentiment) {
+                    Write-Log "Phản biện sửa Sentiment: $($Analysis.Sentiment) -> $($Critique.revised_sentiment)" "INFO"
+                    $Analysis.Sentiment = $Critique.revised_sentiment
+                }
+                if ($null -ne $Critique.revised_score) {
+                    Write-Log "Phản biện sửa ImpactScore: $($Analysis.ImpactScore) -> $($Critique.revised_score)" "INFO"
+                    $Analysis.ImpactScore = $Critique.revised_score
+                }
+                if ($Critique.tickers_to_remove -and $Critique.tickers_to_remove.Count -gt 0) {
+                    $BeforeCount = $Analysis.AffectedTickers.Count
+                    $Analysis.AffectedTickers = @($Analysis.AffectedTickers | Where-Object { $Critique.tickers_to_remove -notcontains $_.Ticker })
+                    Write-Log "Phản biện loại bỏ $($BeforeCount - $Analysis.AffectedTickers.Count) mã suy diễn gượng ép." "INFO"
+                }
+            }
+        } catch {
+            Write-Log "Agent Phản biện gặp lỗi (bỏ qua, giữ kết quả Agent 1): $($_.Exception.Message)" "WARNING"
+        }
+    }
+
     return $Analysis
 }
 
