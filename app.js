@@ -1,8 +1,10 @@
-// Client-side Javascript for Stock Market Agent Dashboard
+// Client-side Javascript for AnInvest Dashboard
+// Styled to match MarketPulse visual theme and structure
 
 let newsData = [];
 let filteredData = [];
 let activeFilter = 'all';
+let activeSectorFilter = 'all';
 let searchQuery = '';
 let activeTickerFilter = null;
 let countdownTime = 30;
@@ -42,11 +44,38 @@ function initEventListeners() {
     });
   });
 
+  // Bộ lọc ngành (Sidebar)
+  const sectorButtons = document.querySelectorAll('.sector-filter-btn');
+  sectorButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      sectorButtons.forEach(b => {
+        b.classList.remove('active');
+        b.classList.remove('bg-primary-container');
+        b.classList.remove('text-on-primary-container');
+        b.classList.add('text-on-surface-variant');
+      });
+      btn.classList.add('active');
+      btn.classList.remove('text-on-surface-variant');
+      activeSectorFilter = btn.getAttribute('data-sector');
+      
+      // Nếu không phải tab tin tức đang hiển thị, nhảy về tab tin tức
+      const navNewsBtn = document.getElementById('navNews');
+      if (navNewsBtn && !navNewsBtn.classList.contains('active')) {
+        navNewsBtn.click();
+      }
+      
+      filterAndRender();
+    });
+  });
+
   // Chuyển đổi tab
   const navNewsBtn = document.getElementById('navNews');
   const navReportBtn = document.getElementById('navReport');
   const newsTabContent = document.getElementById('newsTabContent');
   const reportTabContent = document.getElementById('reportTabContent');
+
+  const mobileNavNewsBtn = document.getElementById('mobileNavNews');
+  const mobileNavReportBtn = document.getElementById('mobileNavReport');
 
   if (navNewsBtn && navReportBtn) {
     navNewsBtn.addEventListener('click', () => {
@@ -54,6 +83,14 @@ function initEventListeners() {
       navReportBtn.classList.remove('active');
       newsTabContent.style.display = 'block';
       reportTabContent.style.display = 'none';
+
+      // Đồng bộ mobile nav
+      if (mobileNavNewsBtn && mobileNavReportBtn) {
+        mobileNavNewsBtn.classList.add('text-primary');
+        mobileNavNewsBtn.classList.remove('text-on-surface-variant');
+        mobileNavReportBtn.classList.remove('text-primary');
+        mobileNavReportBtn.classList.add('text-on-surface-variant');
+      }
     });
 
     navReportBtn.addEventListener('click', () => {
@@ -62,6 +99,24 @@ function initEventListeners() {
       newsTabContent.style.display = 'none';
       reportTabContent.style.display = 'block';
       loadReport(); // Tải báo cáo
+
+      // Đồng bộ mobile nav
+      if (mobileNavNewsBtn && mobileNavReportBtn) {
+        mobileNavReportBtn.classList.add('text-primary');
+        mobileNavReportBtn.classList.remove('text-on-surface-variant');
+        mobileNavNewsBtn.classList.remove('text-primary');
+        mobileNavNewsBtn.classList.add('text-on-surface-variant');
+      }
+    });
+  }
+
+  // Mobile navigation click events
+  if (mobileNavNewsBtn && mobileNavReportBtn) {
+    mobileNavNewsBtn.addEventListener('click', () => {
+      navNewsBtn.click();
+    });
+    mobileNavReportBtn.addEventListener('click', () => {
+      navReportBtn.click();
     });
   }
 }
@@ -91,7 +146,6 @@ async function loadData() {
     }
   } catch (error) {
     console.error('Lỗi khi tải dữ liệu phân tích:', error);
-    // Nếu lỗi, có thể dữ liệu chưa được khởi tạo
     document.getElementById('emptyState').style.display = 'flex';
   } finally {
     if (refreshBtnIcon) refreshBtnIcon.classList.remove('fa-spin');
@@ -112,7 +166,6 @@ function calculateStats() {
   let negative = 0;
   let neutral = 0;
   let totalImpactScore = 0;
-  let highRelevanceCount = 0;
 
   newsData.forEach(item => {
     totalImpactScore += item.ImpactScore || 0;
@@ -140,26 +193,33 @@ function calculateStats() {
 
   // Cập nhật nhãn và màu sắc tâm lý thị trường
   const labelElement = document.getElementById('sentimentLabel');
-  labelElement.className = 'sentiment-label';
   
   if (avgScore >= 1.5) {
     labelElement.innerText = 'Tích cực';
-    labelElement.classList.add('positive');
-    scoreElement.style.color = 'var(--color-success)';
+    labelElement.className = 'text-xs font-bold px-2 py-0.5 rounded bg-primary/10 text-primary border border-primary/20';
+    scoreElement.className = 'text-4xl font-extrabold text-primary';
   } else if (avgScore <= -1.5) {
     labelElement.innerText = 'Tiêu cực';
-    labelElement.classList.add('negative');
-    scoreElement.style.color = 'var(--color-danger)';
+    labelElement.className = 'text-xs font-bold px-2 py-0.5 rounded bg-error/10 text-error border border-error/20';
+    scoreElement.className = 'text-4xl font-extrabold text-error';
   } else {
     labelElement.innerText = 'Trung lập';
-    labelElement.classList.add('neutral');
-    scoreElement.style.color = 'var(--color-warning)';
+    labelElement.className = 'text-xs font-bold px-2 py-0.5 rounded bg-outline/10 text-outline border border-outline/20';
+    scoreElement.className = 'text-4xl font-extrabold text-outline';
   }
 
   // Cập nhật Gauge bar fill (chuyển đổi từ khoảng -10 -> 10 sang 0% -> 100%)
-  // -10 map to 0%, 0 map to 50%, 10 map to 100%
   const percentage = ((avgScore + 10) / 20) * 100;
-  document.getElementById('gaugeFill').style.width = `${percentage}%`;
+  const gaugeFill = document.getElementById('gaugeFill');
+  gaugeFill.style.width = `${percentage}%`;
+  
+  if (avgScore >= 1.5) {
+    gaugeFill.className = 'h-full bg-primary rounded-full transition-all duration-500';
+  } else if (avgScore <= -1.5) {
+    gaugeFill.className = 'h-full bg-error rounded-full transition-all duration-500';
+  } else {
+    gaugeFill.className = 'h-full bg-outline rounded-full transition-all duration-500';
+  }
 
   // Vẽ biểu đồ tâm lý
   renderChart(positive, negative, neutral);
@@ -181,7 +241,7 @@ function renderChart(pos, neg, neu) {
       labels: ['Tích cực', 'Tiêu cực', 'Trung lập'],
       datasets: [{
         data: [pos, neg, neu],
-        backgroundColor: ['#10b981', '#f43f5e', '#f59e0b'],
+        backgroundColor: ['#4edea3', '#ffb2b7', '#86948a'],
         borderWidth: 0,
         hoverOffset: 4
       }]
@@ -192,9 +252,18 @@ function renderChart(pos, neg, neu) {
       plugins: {
         legend: {
           display: false
+        },
+        tooltip: {
+          enabled: true,
+          backgroundColor: '#171f33',
+          titleColor: '#ffffff',
+          bodyColor: '#dae2fd',
+          borderColor: '#3c4a42',
+          borderWidth: 1,
+          padding: 8
         }
       },
-      cutout: '70%'
+      cutout: '75%'
     }
   });
 }
@@ -233,8 +302,14 @@ function renderWatchlist() {
 
   const tickerList = Object.values(tickerMap).sort((a, b) => b.count - a.count);
 
+  // Cập nhật số lượng cổ phiếu tâm điểm ở header watchlist
+  const watchlistCountEl = document.getElementById('watchlistCount');
+  if (watchlistCountEl) {
+    watchlistCountEl.innerText = `${tickerList.length} mã`;
+  }
+
   if (tickerList.length === 0) {
-    watchlistContainer.innerHTML = '<div class="watchlist-placeholder">Chưa có mã bị ảnh hưởng</div>';
+    watchlistContainer.innerHTML = '<div class="watchlist-placeholder text-xs text-on-surface-variant italic p-3 text-center">Chưa có mã bị ảnh hưởng...</div>';
     return;
   }
 
@@ -246,21 +321,37 @@ function renderWatchlist() {
     }
 
     const netScore = t.scoreSum;
-    let badgeClass = 'neutral';
+    let badgeClass = 'bg-outline/20 text-outline';
     let badgeText = '0';
     if (netScore > 0) {
-      badgeClass = 'positive';
+      badgeClass = 'bg-primary/20 text-primary';
       badgeText = `+${netScore}`;
     } else if (netScore < 0) {
-      badgeClass = 'negative';
+      badgeClass = 'bg-error/20 text-error';
       badgeText = `${netScore}`;
     }
 
+    // SVG Sparkline dựa trên mã băm của ký tự
+    const isUp = netScore >= 0;
+    const pathClass = isUp ? 'sparkline-up' : 'sparkline-down';
+    const seed = t.symbol.charCodeAt(0) + (t.symbol.charCodeAt(1) || 50);
+    const y1 = 20 + Math.sin(seed) * 8;
+    const y2 = 15 + Math.cos(seed) * 10;
+    const y3 = 25 + Math.sin(seed + 2) * 6;
+    const y4 = isUp ? 6 : 34;
+
     itemEl.innerHTML = `
-      <span class="ticker-name">${t.symbol}</span>
-      <div class="ticker-info">
-        <span class="ticker-count">${t.count} tin</span>
-        <span class="ticker-badge badge ${badgeClass}">${badgeText}</span>
+      <div class="flex-1">
+        <p class="font-bold text-on-surface text-[11px]">${t.symbol}</p>
+        <p class="text-[9px] text-on-surface-variant">${t.count} tin</p>
+      </div>
+      <div class="w-12 h-6 mx-2 flex-shrink-0">
+        <svg class="w-full h-full" viewBox="0 0 100 40">
+          <path class="${pathClass}" d="M0,${y1} L33,${y2} L66,${y3} L100,${y4}"></path>
+        </svg>
+      </div>
+      <div class="text-right flex-shrink-0">
+        <span class="${badgeClass} px-1.5 py-0.5 rounded text-[9px] font-bold">${badgeText}</span>
       </div>
     `;
 
@@ -270,7 +361,6 @@ function renderWatchlist() {
         itemEl.classList.remove('active');
       } else {
         activeTickerFilter = t.symbol;
-        // Bỏ active ở các thằng khác
         document.querySelectorAll('.watchlist-item').forEach(el => el.classList.remove('active'));
         itemEl.classList.add('active');
       }
@@ -279,6 +369,72 @@ function renderWatchlist() {
 
     watchlistContainer.appendChild(itemEl);
   });
+
+  // Cập nhật Market Insight dựa trên tin tức thực tế
+  updateMarketInsight(tickerList);
+}
+
+// Cập nhật Market Insight AI từ tin tức thực tế
+function updateMarketInsight(tickerList) {
+  const insightElement = document.getElementById('marketInsightText');
+  if (!insightElement) return;
+  
+  if (newsData.length === 0) {
+    insightElement.textContent = "Chưa có dữ liệu tin tức để phân tích xu hướng.";
+    return;
+  }
+
+  // Tính điểm tâm lý trung bình
+  let totalScore = 0;
+  newsData.forEach(item => totalScore += item.ImpactScore || 0);
+  const avgScore = totalScore / newsData.length;
+
+  // Lấy các cổ phiếu tâm điểm hàng đầu
+  const topTickers = tickerList.slice(0, 3).map(t => t.symbol).join(', ');
+  
+  let insightText = "";
+  if (avgScore >= 1.5) {
+    insightText = `Dòng tiền đang lan tỏa tích cực trên toàn thị trường, đặc biệt tập trung mạnh vào các cổ phiếu tâm điểm như ${topTickers || 'các mã trụ'}. Tâm lý lạc quan thúc đẩy dòng vốn nội nhập cuộc đẩy giá cổ phiếu tăng trưởng tốt.`;
+  } else if (avgScore <= -1.5) {
+    insightText = `Áp lực điều chỉnh đang gia tăng trên diện rộng do tác động từ vĩ mô bất lợi. Các mã đầu ngành như ${topTickers || 'các mã trụ'} chịu lực bán ròng từ khối ngoại. Khuyến nghị nhà đầu tư cơ cấu danh mục an toàn.`;
+  } else {
+    insightText = `Thị trường đang trong giai đoạn tích lũy phân hóa rõ nét. Dòng tiền luân chuyển giữa các nhóm ngành nhỏ thay vì tập trung kéo chỉ số. Sự chú ý đổ dồn vào ${topTickers || 'các mã trụ'} nhờ tin tức hỗ trợ riêng lẻ.`;
+  }
+
+  insightElement.textContent = insightText;
+}
+
+// Hàm lấy hình ảnh minh họa cho tin tức theo từ khóa
+function getNewsImage(title, sentiment) {
+  const t = title.toLowerCase();
+  if (t.includes('bất động sản') || t.includes('nhà đất') || t.includes('vinhomes') || t.includes('vhm') || t.includes('novaland') || t.includes('pdr')) {
+    return 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=400&q=80';
+  }
+  if (t.includes('ngân hàng') || t.includes('lãi suất') || t.includes('vcb') || t.includes('bid') || t.includes('tcb') || t.includes('mbb') || t.includes('acb') || t.includes('tín dụng')) {
+    return 'https://images.unsplash.com/photo-1601597111158-2fceff292cdc?auto=format&fit=crop&w=400&q=80';
+  }
+  if (t.includes('công nghệ') || t.includes('fpt') || t.includes('viettel') || t.includes('ai') || t.includes('bán dẫn') || t.includes('máy tính')) {
+    return 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=400&q=80';
+  }
+  if (t.includes('dầu khí') || t.includes('gas') || t.includes('xăng') || t.includes('brent') || t.includes('pvd') || t.includes('pvs') || t.includes('năng lượng')) {
+    return 'https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=400&q=80';
+  }
+  if (t.includes('vàng') || t.includes('gold') || t.includes('sjc') || t.includes('quý kim')) {
+    return 'https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&w=400&q=80';
+  }
+  if (t.includes('thép') || t.includes('hpg') || t.includes('hsg') || t.includes('nkg') || t.includes('xây dựng') || t.includes('đầu tư công') || t.includes('quặng')) {
+    return 'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=400&q=80';
+  }
+  
+  // Mặc định dựa trên tâm lý
+  const s = (sentiment || '').toLowerCase();
+  if (s.includes('tích cực') || s === 'positive') {
+    return 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=400&q=80';
+  }
+  if (s.includes('tiêu cực') || s === 'negative') {
+    return 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=400&q=80';
+  }
+  return 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=400&q=80';
 }
 
 // Lọc tin tức và kết xuất danh sách tin tức
@@ -324,7 +480,29 @@ function filterAndRender() {
       }
     }
 
-    return matchesCategory && matchesSearch && matchesTicker;
+    // 4. Lọc theo ngành ở left sidebar
+    let matchesSector = true;
+    if (activeSectorFilter && activeSectorFilter !== 'all') {
+      const textToSearch = ((item.Title || '') + ' ' + (item.MarketImpact || '')).toLowerCase();
+      if (activeSectorFilter === 'bank') {
+        const keywords = ["ngân hàng", "lãi suất", "tín dụng", "vcb", "bid", "tcb", "mbb", "acb", "vib", "ctg"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'bds') {
+        const keywords = ["bất động sản", "bđs", "nhà đất", "địa ốc", "vinhomes", "vhm", "novaland", "pdr", "dxg", "dig"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'stock') {
+        const keywords = ["chứng khoán", "cổ phiếu", "vn-index", "tự doanh", "ssi", "vnd", "vci", "hcm", "vix"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'steel') {
+        const keywords = ["thép", "quặng", "hpg", "hsg", "nkg", "xây dựng", "vật liệu", "đầu tư công"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'energy') {
+        const keywords = ["dầu khí", "xăng", "dầu", "brent", "gas", "điện", "pvd", "pvs", "pow"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      }
+    }
+
+    return matchesCategory && matchesSearch && matchesTicker && matchesSector;
   });
 
   renderNewsFeed();
@@ -354,19 +532,26 @@ function renderNewsFeed() {
   filteredData.forEach(item => {
     const card = document.createElement('article');
     
-    // Gán class để vẽ viền màu tương ứng
+    // Gán border tương ứng theo tâm lý
     const sentiment = (item.Sentiment || '').toLowerCase();
-    let sentimentClass = 'neutral';
-    if (sentiment.includes('tích cực') || sentiment === 'positive') sentimentClass = 'positive';
-    else if (sentiment.includes('tiêu cực') || sentiment === 'negative') sentimentClass = 'negative';
+    let sentimentBorderClass = 'border-l-4 border-outline/30';
+    let sentimentBadgeClass = 'bg-outline/20 text-outline';
+    let sentimentIcon = 'fa-minus';
+    
+    if (sentiment.includes('tích cực') || sentiment === 'positive') {
+      sentimentBorderClass = 'border-l-4 border-primary/60';
+      sentimentBadgeClass = 'bg-primary/20 text-primary';
+      sentimentIcon = 'fa-arrow-trend-up';
+    } else if (sentiment.includes('tiêu cực') || sentiment === 'negative') {
+      sentimentBorderClass = 'border-l-4 border-error/60';
+      sentimentBadgeClass = 'bg-error/20 text-error';
+      sentimentIcon = 'fa-arrow-trend-down';
+    }
 
-    card.className = `news-card ${sentimentClass}`;
-
-    // Tạo badges
-    let relClass = 'relevance-low';
+    let relClass = 'bg-outline/10 text-on-surface-variant';
     const rel = (item.Relevance || '').toLowerCase();
-    if (rel === 'cao' || rel === 'high') relClass = 'relevance-high';
-    else if (rel === 'trung bình' || rel === 'medium') relClass = 'relevance-medium';
+    if (rel === 'cao' || rel === 'high') relClass = 'bg-primary/10 text-primary';
+    else if (rel === 'trung bình' || rel === 'medium') relClass = 'bg-surface-variant text-on-surface-variant';
 
     // Tạo phần danh sách các mã bị tác động
     let tickersHtml = '';
@@ -386,49 +571,56 @@ function renderNewsFeed() {
 
         return `
           <div class="ticker-pill ${tClass}" onclick="event.stopPropagation(); filterByTicker('${t.Ticker.toUpperCase().trim()}')">
-            <span class="pill-symbol">${t.Ticker.toUpperCase()}</span>
-            <span class="pill-trend">${trendIcon}</span>
+            <span>${t.Ticker.toUpperCase()}</span>
+            <span>${trendIcon}</span>
           </div>
         `;
       }).join('');
 
       tickersHtml = `
-        <div class="card-tickers">
-          <span class="tickers-label">Cổ phiếu bị tác động:</span>
-          <div class="tickers-list">${pills}</div>
+        <div class="flex items-center gap-2 mt-4 pt-3 border-t border-outline-variant/20 flex-wrap">
+          <span class="text-[10px] font-bold text-on-surface-variant uppercase tracking-wider">Cổ phiếu bị tác động:</span>
+          <div class="flex gap-1.5 flex-wrap">${pills}</div>
         </div>
       `;
     }
 
-    // Thời gian định dạng đẹp
     const formattedDate = item.AnalyzedAt || item.PubDate || 'Vừa xong';
+    const imageUrl = getNewsImage(item.Title, item.Sentiment);
 
+    card.className = `glass-panel rounded-xl p-5 flex flex-col md:flex-row gap-5 hover:bg-surface-variant/20 transition-all border border-outline-variant/30 hover:border-primary/20 cursor-pointer group ${sentimentBorderClass}`;
+    
     card.innerHTML = `
-      <div class="card-header">
-        <div class="card-title-area">
-          <div class="card-meta">
-            <span class="source-badge">${item.Source || 'Tin tức'}</span>
-            <span class="pub-date"><i class="fa-regular fa-clock"></i> ${formattedDate}</span>
+      <div class="w-full md:w-40 h-28 rounded-lg overflow-hidden flex-shrink-0 bg-surface-container relative">
+        <img alt="News Thumbnail" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="${imageUrl}"/>
+      </div>
+      <div class="flex-1 flex flex-col justify-between">
+        <div>
+          <div class="flex items-center justify-between flex-wrap gap-2 mb-2">
+            <div class="flex items-center gap-2">
+              <span class="bg-surface-variant/80 backdrop-blur text-on-surface-variant text-[10px] font-bold px-2 py-0.5 rounded uppercase border border-outline-variant/30">${item.Source || 'Tin tức'}</span>
+              <span class="text-[10px] text-outline flex items-center gap-1"><span class="material-symbols-outlined text-xs">schedule</span> ${formattedDate}</span>
+            </div>
+            <div class="flex gap-2">
+              <span class="px-2 py-0.5 rounded text-[10px] font-bold flex items-center gap-1 ${sentimentBadgeClass}">
+                <i class="fa-solid ${sentimentIcon}"></i>
+                ${item.Sentiment} (${item.ImpactScore || 0})
+              </span>
+              <span class="px-2 py-0.5 rounded text-[10px] font-bold ${relClass}">Độ ảnh hưởng: ${item.Relevance}</span>
+            </div>
           </div>
-          <a href="${item.Link || '#'}" target="_blank" class="news-title-link">${item.Title}</a>
+          <h4 class="font-bold text-base text-on-surface leading-snug mb-2 group-hover:text-primary transition-colors">
+            <a href="${item.Link || '#'}" target="_blank" onclick="event.stopPropagation()">${item.Title}</a>
+          </h4>
+          <div class="bg-surface-dim/40 border border-outline-variant/40 rounded-lg p-2.5 mt-2">
+            <div class="text-[10px] font-bold text-primary flex items-center gap-1 mb-0.5">
+              <span class="material-symbols-outlined text-xs font-bold">psychology</span> Phân tích tác động AI:
+            </div>
+            <p class="text-xs text-on-surface-variant leading-relaxed font-medium">${item.MarketImpact}</p>
+          </div>
         </div>
-        <div class="badge-group">
-          <span class="badge ${sentimentClass}">
-            <i class="fa-solid ${sentimentClass === 'positive' ? 'fa-arrow-trend-up' : (sentimentClass === 'negative' ? 'fa-arrow-trend-down' : 'fa-minus')}"></i>
-            ${item.Sentiment} (${item.ImpactScore || 0})
-          </span>
-          <span class="badge ${relClass}">Độ ảnh hưởng: ${item.Relevance}</span>
-        </div>
+        ${tickersHtml}
       </div>
-      
-      <div class="card-impact">
-        <div class="impact-title">
-          <i class="fa-solid fa-brain-circuit"></i> Phân tích tác động AI:
-        </div>
-        <p class="impact-desc">${item.MarketImpact}</p>
-      </div>
-
-      ${tickersHtml}
     `;
 
     newsFeedContainer.appendChild(card);
@@ -441,7 +633,7 @@ function filterByTicker(symbol) {
   
   // Đồng bộ active lên sidebar watchlist
   document.querySelectorAll('.watchlist-item').forEach(el => {
-    const name = el.querySelector('.ticker-name').innerText;
+    const name = el.querySelector('p.font-bold').innerText;
     if (name === symbol) {
       el.classList.add('active');
     } else {
@@ -456,7 +648,7 @@ function filterByTicker(symbol) {
 function startCountdown() {
   countdownTimerInterval = setInterval(() => {
     countdownTime--;
-    document.getElementById('updateTimer').innerText = `Tự động làm mới trong ${countdownTime}s`;
+    document.getElementById('updateTimer').innerText = `Làm mới sau ${countdownTime}s`;
     
     if (countdownTime <= 0) {
       loadData();
@@ -465,9 +657,10 @@ function startCountdown() {
   }, 1000);
 }
 
+// Đếm ngược reset
 function resetCountdown() {
   countdownTime = 30;
-  document.getElementById('updateTimer').innerText = `Tự động làm mới trong 30s`;
+  document.getElementById('updateTimer').innerText = `Làm mới sau 30s`;
 }
 
 // Tải báo cáo phân tích tổng hợp bằng markdown
@@ -498,10 +691,10 @@ async function loadReport() {
     }
   } catch (error) {
     reportContent.innerHTML = `
-      <div class="feed-empty-state">
-        <div class="empty-icon"><i class="fa-solid fa-circle-info"></i></div>
-        <h3>Chưa có dữ liệu báo cáo chuyên sâu</h3>
-        <p>${error.message}</p>
+      <div class="glass-panel rounded-xl p-8 flex flex-col items-center text-center max-w-xl mx-auto">
+        <span class="material-symbols-outlined text-primary text-5xl mb-4">info</span>
+        <h3 class="text-lg font-bold text-on-surface">Chưa có dữ liệu báo cáo chuyên sâu</h3>
+        <p class="text-xs text-on-surface-variant mt-2">${error.message}</p>
       </div>
     `;
   }

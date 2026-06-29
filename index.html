@@ -1,217 +1,314 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html class="dark" lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AnInvenst - Hệ thống phân tích thị trường chứng khoán AI</title>
-  
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  
-  <!-- FontAwesome Icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  
-  <!-- Chart.js -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  
-  <!-- Markdown Parser -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  
-  <!-- Stylesheets -->
-  <link rel="stylesheet" href="index.css">
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>AnInvest - Hệ Thống Phân Tích Thị Trường Chứng Khoán AI</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+    
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Markdown Parser -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Custom Style Overrides -->
+    <link rel="stylesheet" href="index.css"/>
+    
+    <!-- Tailwind Config -->
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "primary": "#4edea3",
+                        "secondary": "#ffb2b7",
+                        "background": "#0b1326",
+                        "surface": "#0b1326",
+                        "surface-container": "#171f33",
+                        "surface-container-high": "#222a3d",
+                        "surface-variant": "#2d3449",
+                        "on-surface": "#dae2fd",
+                        "on-surface-variant": "#bbcabf",
+                        "outline-variant": "#3c4a42",
+                        "outline": "#86948a",
+                        "surface-dim": "#0b1326",
+                        "primary-container": "#10b981",
+                        "on-primary-container": "#00422b",
+                        "error": "#ffb4ab",
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    }
+                },
+            },
+        }
+    </script>
 </head>
-<body>
-  
-  <div class="app-container">
-    
-    <!-- Sidebar -->
-    <aside class="app-sidebar">
-      <div class="brand">
-        <div class="logo-icon">
-          <i class="fa-solid fa-chart-line-up"></i>
-        </div>
-        <div class="brand-name">
-          <h2>An<span>Invenst</span></h2>
-          <p>AI Market Intel</p>
-        </div>
-      </div>
-      
-      <div class="sidebar-menu">
-        <div class="menu-label">Chức năng</div>
-        <div class="nav-menu">
-          <button class="nav-item active" id="navNews">
-            <i class="fa-solid fa-square-rss"></i> Dòng tin tức
-          </button>
-          <button class="nav-item" id="navReport">
-            <i class="fa-solid fa-file-invoice-dollar"></i> Báo cáo chuyên sâu
-          </button>
-        </div>
-      </div>
-      
-      <div class="sidebar-menu">
-        <div class="menu-label">Theo dõi mã cổ phiếu</div>
-        <div class="ticker-watchlist" id="tickerWatchlist">
-          <div class="watchlist-placeholder">Chưa có dữ liệu mã ảnh hưởng...</div>
-        </div>
-      </div>
-      
-      <div class="sidebar-footer">
-        <div class="agent-status" id="agentStatus">
-          <span class="status-indicator active"></span>
-          <div class="status-details">
-            <span class="status-text">Agent đang hoạt động</span>
-            <span class="update-timer" id="updateTimer">Tự động làm mới trong 30s</span>
-          </div>
-        </div>
-      </div>
-    </aside>
-    
-    <!-- Main Content Area -->
-    <main class="app-main">
-      
-      <!-- Top Navigation -->
-      <header class="app-header">
-        <div class="header-title">
-          <h1>Phân tích Tin tức & Tác động Thị trường</h1>
-          <p>Thu thập và phân tích tác động tài chính thời gian thực bằng Gemini AI</p>
-        </div>
-        <div class="header-actions">
-          <button id="refreshBtn" class="btn btn-primary">
-            <i class="fa-solid fa-arrows-rotate"></i> Làm mới dữ liệu
-          </button>
-        </div>
-      </header>
-      
-      <div class="tab-content active" id="newsTabContent">
-        <!-- Analytics Overview Cards -->
-        <section class="analytics-overview">
-        
-        <!-- Market Sentiment Meter -->
-        <div class="overview-card sentiment-gauge-card">
-          <h3>Tâm lý thị trường chung</h3>
-          <div class="gauge-container">
-            <div class="sentiment-score-container">
-              <span id="sentimentScore">0.0</span>
-              <span class="sentiment-label" id="sentimentLabel">Trung lập</span>
-            </div>
-            <div class="gauge-track">
-              <div class="gauge-fill" id="gaugeFill" style="width: 50%"></div>
-            </div>
-            <div class="gauge-labels">
-              <span>Tiêu cực (-10)</span>
-              <span>Trung lập (0)</span>
-              <span>Tích cực (+10)</span>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Summary Stats Card -->
-        <div class="overview-card stats-card">
-          <h3>Thống kê tin tức</h3>
-          <div class="stats-grid">
-            <div class="stat-item total">
-              <div class="stat-icon"><i class="fa-solid fa-newspaper"></i></div>
-              <div class="stat-info">
-                <span class="stat-value" id="statTotal">0</span>
-                <span class="stat-title">Tin đã quét</span>
-              </div>
-            </div>
-            <div class="stat-item positive">
-              <div class="stat-icon"><i class="fa-solid fa-circle-arrow-up"></i></div>
-              <div class="stat-info">
-                <span class="stat-value" id="statPositive">0</span>
-                <span class="stat-title">Tích cực</span>
-              </div>
-            </div>
-            <div class="stat-item negative">
-              <div class="stat-icon"><i class="fa-solid fa-circle-arrow-down"></i></div>
-              <div class="stat-info">
-                <span class="stat-value" id="statNegative">0</span>
-                <span class="stat-title">Tiêu cực</span>
-              </div>
-            </div>
-            <div class="stat-item neutral">
-              <div class="stat-icon"><i class="fa-solid fa-circle-minus"></i></div>
-              <div class="stat-info">
-                <span class="stat-value" id="statNeutral">0</span>
-                <span class="stat-title">Trung lập</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Chart Card -->
-        <div class="overview-card chart-card">
-          <h3>Tỷ lệ phân phối tâm lý</h3>
-          <div class="chart-wrapper">
-            <canvas id="sentimentChart"></canvas>
-          </div>
-        </div>
-        
-      </section>
-      
-      <!-- Filters and Control Bar -->
-      <section class="control-bar">
-        <div class="search-box">
-          <i class="fa-solid fa-magnifying-glass"></i>
-          <input type="text" id="searchInput" placeholder="Tìm kiếm tin tức hoặc mã cổ phiếu (ví dụ: FPT, HPG)...">
-        </div>
-        <div class="filter-group">
-          <button class="filter-btn active" data-filter="all">Tất cả</button>
-          <button class="filter-btn" data-filter="positive"><i class="fa-solid fa-arrow-trend-up"></i> Tích cực</button>
-          <button class="filter-btn" data-filter="negative"><i class="fa-solid fa-arrow-trend-down"></i> Tiêu cực</button>
-          <button class="filter-btn" data-filter="neutral"><i class="fa-solid fa-minus"></i> Trung lập</button>
-        </div>
-      </section>
-      
-      <!-- Main News Feed -->
-      <section class="news-feed-section">
-        <div class="section-header">
-          <h2>Tin tức mới phân tích</h2>
-          <span class="results-count" id="resultsCount">Hiển thị 0 kết quả</span>
-        </div>
-        
-        <div class="news-feed" id="newsFeed">
-          <!-- Initial loading or instructions if data is empty -->
-          <div class="feed-empty-state" id="emptyState">
-            <div class="empty-icon"><i class="fa-solid fa-circle-info"></i></div>
-            <h3>Chưa phát hiện dữ liệu tin tức</h3>
-            <p>Vui lòng cấu hình API Key trong file <strong>config.json</strong> và khởi chạy script PowerShell <strong>run_agent.ps1</strong> để Agent bắt đầu cào tin tức và phân tích dữ liệu.</p>
-            <div class="setup-code">
-              <code>powershell -ExecutionPolicy Bypass -File run_agent.ps1</code>
-            </div>
-          </div>
-        </div>
-      </section>
-      
-      </div> <!-- End newsTabContent -->
-      
-      <!-- Report Tab Content -->
-      <div class="tab-content" id="reportTabContent" style="display: none;">
-        <section class="report-section">
-          <div class="section-header">
-            <h2>Báo cáo Phân tích Tổng hợp & Dự báo</h2>
-            <span class="report-date" id="reportDate">Hàng ngày (tự động cập nhật)</span>
-          </div>
-          <div class="report-markdown-card">
-            <div id="reportContent" class="markdown-body">
-              <div class="feed-empty-state">
-                <div class="empty-icon"><i class="fa-solid fa-circle-notch fa-spin"></i></div>
-                <h3>Đang tải báo cáo...</h3>
-                <p>Báo cáo đang được xử lý và hiển thị.</p>
-              </div>
-            </div>
-          </div>
-        </section>
-      </div>
-      
-    </main>
-    
-  </div>
+<body class="bg-background text-on-surface font-sans selection:bg-primary/30 selection:text-primary min-h-screen">
 
-  <!-- Scripts -->
-  <script src="app.js"></script>
+    <!-- Top Navigation Header -->
+    <header class="bg-surface-container/80 backdrop-blur-md border-b border-outline-variant shadow-sm flex justify-between items-center w-full px-6 h-16 fixed top-0 z-50">
+        <div class="flex items-center gap-6">
+            <div class="flex items-center gap-2">
+                <span class="material-symbols-outlined text-primary text-3xl font-bold">add_chart</span>
+                <h1 class="text-xl font-bold text-primary tracking-tight">AnInvest</h1>
+            </div>
+            <div class="hidden lg:flex items-center gap-6 text-xs font-semibold">
+                <span class="text-primary border-b-2 border-primary pb-1">VN-Index: 1,284.12 (+0.45%)</span>
+                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">HNX-Index: 242.31 (-0.12%)</span>
+                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">UPCoM: 92.15 (+0.08%)</span>
+            </div>
+        </div>
+        <div class="flex items-center gap-4">
+            <!-- Search Input -->
+            <div class="hidden md:flex relative group w-64 lg:w-80">
+                <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant group-focus-within:text-primary transition-colors text-lg">search</span>
+                <input id="searchInput" class="w-full bg-surface-container-low border border-outline-variant rounded-lg pl-10 pr-4 py-1.5 text-xs text-on-surface focus:ring-1 focus:ring-primary focus:border-primary transition-all outline-none" placeholder="Tìm mã chứng khoán, tin tức..." type="text"/>
+            </div>
+            <!-- Refresh Button -->
+            <button id="refreshBtn" class="p-2 hover:bg-surface-variant rounded-lg transition-colors flex items-center gap-1.5 text-xs font-bold text-primary border border-primary/20 bg-primary/5 hover:bg-primary/10">
+                <i class="fa-solid fa-arrows-rotate"></i> Làm mới dữ liệu
+            </button>
+            <div class="w-8 h-8 rounded-full overflow-hidden border border-primary/20">
+                <img class="w-full h-full object-cover" src="https://ui-avatars.com/api/?name=AnInvest&background=4edea3&color=003824" alt="AnInvest Avatar"/>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sidebar Navigation -->
+    <aside class="fixed left-0 top-16 h-[calc(100vh-64px)] w-64 bg-surface-dim/90 backdrop-blur-xl border-r border-outline-variant flex flex-col py-6 overflow-y-auto hidden md:flex custom-scrollbar">
+        <nav class="flex-1 space-y-1 px-4">
+            <div class="text-[10px] font-bold text-outline uppercase tracking-widest px-2 mb-2">Chức năng</div>
+            <button id="navNews" class="nav-item active w-full flex items-center gap-3 rounded-lg px-4 py-2.5 text-xs font-semibold tracking-wide transition-all mb-1">
+                <span class="material-symbols-outlined text-lg">newspaper</span>
+                Dòng tin tức
+            </button>
+            <button id="navReport" class="nav-item w-full flex items-center gap-3 rounded-lg px-4 py-2.5 text-xs font-semibold tracking-wide transition-all">
+                <span class="material-symbols-outlined text-lg">description</span>
+                Báo cáo chuyên sâu
+            </button>
+
+            <!-- Sector Classification Filters -->
+            <div class="text-[10px] font-bold text-outline uppercase tracking-widest px-2 mt-6 mb-2">Phân loại ngành</div>
+            <button class="sector-filter-btn active w-full flex items-center gap-3 rounded-lg px-4 py-2 text-xs font-medium text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all mb-1" data-sector="all">
+                <span class="material-symbols-outlined text-base">grid_view</span>
+                Tất cả các ngành
+            </button>
+            <button class="sector-filter-btn w-full flex items-center gap-3 rounded-lg px-4 py-2 text-xs font-medium text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all mb-1" data-sector="bank">
+                <span class="material-symbols-outlined text-base">account_balance</span>
+                Ngân hàng
+            </button>
+            <button class="sector-filter-btn w-full flex items-center gap-3 rounded-lg px-4 py-2 text-xs font-medium text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all mb-1" data-sector="bds">
+                <span class="material-symbols-outlined text-base">domain</span>
+                Bất động sản
+            </button>
+            <button class="sector-filter-btn w-full flex items-center gap-3 rounded-lg px-4 py-2 text-xs font-medium text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all mb-1" data-sector="stock">
+                <span class="material-symbols-outlined text-base">payments</span>
+                Chứng khoán
+            </button>
+            <button class="sector-filter-btn w-full flex items-center gap-3 rounded-lg px-4 py-2 text-xs font-medium text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all mb-1" data-sector="steel">
+                <span class="material-symbols-outlined text-base">construction</span>
+                Thép & Vật liệu
+            </button>
+            <button class="sector-filter-btn w-full flex items-center gap-3 rounded-lg px-4 py-2 text-xs font-medium text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all" data-sector="energy">
+                <span class="material-symbols-outlined text-base">bolt</span>
+                Dầu khí & Năng lượng
+            </button>
+        </nav>
+
+        <!-- Sidebar Footer Status -->
+        <div class="px-6 pt-4 border-t border-outline-variant/30 mt-auto">
+            <div class="flex items-center gap-3">
+                <span class="w-2.5 h-2.5 bg-primary rounded-full animate-pulse shadow-[0_0_10px_#4edea3]"></span>
+                <div class="flex flex-col">
+                    <span class="text-[11px] font-bold text-on-surface">Agent hoạt động</span>
+                    <span id="updateTimer" class="text-[9px] text-on-surface-variant font-medium">Làm mới sau 30s</span>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="md:ml-64 pt-20 p-6 min-h-screen">
+        
+        <!-- Tab 1: News Feed -->
+        <div id="newsTabContent">
+            <!-- Analytics Overview Cards Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                <!-- Market Sentiment Gauge -->
+                <div class="glass-panel p-5 rounded-xl flex flex-col justify-between h-40">
+                    <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Tâm lý thị trường</h3>
+                    <div class="flex items-baseline justify-between mt-2">
+                        <span id="sentimentScore" class="text-4xl font-extrabold text-primary">+0.0</span>
+                        <span id="sentimentLabel" class="text-xs font-bold px-2 py-0.5 rounded bg-primary/10 text-primary">Trung lập</span>
+                    </div>
+                    <div class="w-full mt-3">
+                        <div class="h-2 w-full bg-surface-container rounded-full overflow-hidden">
+                            <div id="gaugeFill" class="h-full bg-primary rounded-full transition-all duration-500" style="width: 50%"></div>
+                        </div>
+                        <div class="flex justify-between text-[9px] text-outline mt-1 font-semibold">
+                            <span>Tiêu cực (-10)</span>
+                            <span>Trung lập</span>
+                            <span>Tích cực (+10)</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Statistics Card -->
+                <div class="glass-panel p-5 rounded-xl flex flex-col justify-between h-40">
+                    <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Thống kê tin tức</h3>
+                    <div class="grid grid-cols-4 gap-2 text-center mt-2">
+                        <div class="bg-surface-container/50 p-2 rounded border border-outline-variant/10">
+                            <span id="statTotal" class="block text-lg font-bold text-on-surface">0</span>
+                            <span class="text-[8px] font-semibold text-on-surface-variant uppercase tracking-wider">Tổng</span>
+                        </div>
+                        <div class="bg-primary/5 p-2 rounded border border-primary/10">
+                            <span id="statPositive" class="block text-lg font-bold text-primary">0</span>
+                            <span class="text-[8px] font-semibold text-primary uppercase tracking-wider">Tích cực</span>
+                        </div>
+                        <div class="bg-error/5 p-2 rounded border border-error/10">
+                            <span id="statNegative" class="block text-lg font-bold text-error">0</span>
+                            <span class="text-[8px] font-semibold text-error uppercase tracking-wider">Tiêu cực</span>
+                        </div>
+                        <div class="bg-surface-container/50 p-2 rounded border border-outline-variant/10">
+                            <span id="statNeutral" class="block text-lg font-bold text-outline">0</span>
+                            <span class="text-[8px] font-semibold text-outline uppercase tracking-wider">T.Lập</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sentiment Distribution Doughnut Chart -->
+                <div class="glass-panel p-5 rounded-xl flex items-center justify-between h-40">
+                    <div class="flex flex-col justify-between h-full py-1">
+                        <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Phân phối tâm lý</h3>
+                        <div class="space-y-1 text-[10px] font-bold mt-2">
+                            <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-primary"></span> Tích cực</div>
+                            <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-error"></span> Tiêu cực</div>
+                            <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-outline"></span> Trung lập</div>
+                        </div>
+                    </div>
+                    <div class="w-24 h-24 relative flex-shrink-0">
+                        <canvas id="sentimentChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Filters, Search and Count Bar -->
+            <div class="glass-panel p-4 rounded-xl mb-6 flex flex-col md:flex-row justify-between items-center gap-4">
+                <div class="flex gap-2 w-full md:w-auto">
+                    <button class="filter-btn active px-3.5 py-1.5 rounded-lg text-xs font-bold border border-outline-variant/30 hover:border-primary/20 transition-all flex items-center gap-1" data-filter="all">
+                        Tất cả
+                    </button>
+                    <button class="filter-btn px-3.5 py-1.5 rounded-lg text-xs font-bold border border-outline-variant/30 hover:border-primary/20 transition-all flex items-center gap-1 text-primary" data-filter="positive">
+                        <i class="fa-solid fa-arrow-trend-up"></i> Tích cực
+                    </button>
+                    <button class="filter-btn px-3.5 py-1.5 rounded-lg text-xs font-bold border border-outline-variant/30 hover:border-primary/20 transition-all flex items-center gap-1 text-error" data-filter="negative">
+                        <i class="fa-solid fa-arrow-trend-down"></i> Tiêu cực
+                    </button>
+                    <button class="filter-btn px-3.5 py-1.5 rounded-lg text-xs font-bold border border-outline-variant/30 hover:border-primary/20 transition-all flex items-center gap-1 text-outline" data-filter="neutral">
+                        <i class="fa-solid fa-minus"></i> Trung lập
+                    </button>
+                </div>
+                <div class="flex justify-between items-center w-full md:w-auto gap-4">
+                    <span id="resultsCount" class="text-xs font-semibold text-on-surface-variant">Hiển thị 0 kết quả</span>
+                </div>
+            </div>
+
+            <!-- News Grid containing Feed (Left) and Watchlist (Right) -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+                <!-- Left Column: News Feed (col-span-8) -->
+                <div class="lg:col-span-8 space-y-4">
+                    <div id="newsFeed" class="space-y-4">
+                        <!-- Initial loading or instructions if data is empty -->
+                        <div class="glass-panel rounded-xl p-8 flex flex-col items-center text-center max-w-xl mx-auto mt-12" id="emptyState">
+                            <span class="material-symbols-outlined text-primary text-5xl mb-4 animate-bounce">info</span>
+                            <h3 class="text-lg font-bold text-on-surface mb-2">Chưa phát hiện dữ liệu tin tức</h3>
+                            <p class="text-xs text-on-surface-variant leading-relaxed mb-6">Vui lòng cấu hình API Key trong file <strong>config.json</strong> và khởi chạy script PowerShell <strong>run_agent.ps1</strong> để Agent bắt đầu cào tin tức và phân tích dữ liệu.</p>
+                            <div class="setup-code w-full bg-surface-container-lowest p-3 rounded-lg border border-outline-variant">
+                                <code class="text-xs text-primary font-mono select-all">powershell -ExecutionPolicy Bypass -File run_agent.ps1</code>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Sidebar Panels (col-span-4) -->
+                <div class="lg:col-span-4 space-y-6">
+                    <!-- Market Insight AI Card -->
+                    <div class="bg-primary-container/10 border border-primary/20 rounded-xl p-5">
+                        <div class="flex items-center gap-2 mb-2">
+                            <span class="material-symbols-outlined text-primary text-sm">info</span>
+                            <span class="text-xs font-bold text-primary uppercase">Market Insight</span>
+                        </div>
+                        <p id="marketInsightText" class="text-xs text-on-surface-variant leading-relaxed font-medium">
+                            Đang tổng hợp dữ liệu tin tức để phân tích xu hướng...
+                        </p>
+                    </div>
+
+                    <!-- Dynamic Ticker Watchlist Card -->
+                    <section class="glass-panel rounded-xl overflow-hidden flex flex-col">
+                        <div class="p-4 border-b border-outline-variant flex justify-between items-center bg-surface-container-high">
+                            <h3 class="text-xs font-bold text-on-surface flex items-center gap-1.5 uppercase tracking-wider">
+                                <span class="material-symbols-outlined text-primary text-lg">trending_up</span>
+                                Cổ phiếu tâm điểm
+                            </h3>
+                            <span id="watchlistCount" class="bg-primary/20 text-primary text-[10px] font-bold px-2 py-0.5 rounded-full">0 mã</span>
+                        </div>
+                        <div id="tickerWatchlist" class="p-2 overflow-y-auto custom-scrollbar max-h-[420px] space-y-1">
+                            <div class="watchlist-placeholder text-xs text-on-surface-variant italic p-3 text-center">Chưa có mã bị ảnh hưởng...</div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tab 2: Deep-dive Report -->
+        <div id="reportTabContent" style="display: none;" class="space-y-6">
+            <div class="glass-panel p-6 rounded-xl">
+                <div class="flex justify-between items-center border-b border-outline-variant/30 pb-4 mb-6">
+                    <div class="flex items-center gap-2">
+                        <span class="material-symbols-outlined text-primary text-2xl">analytics</span>
+                        <h2 class="text-lg font-bold text-on-surface">Báo cáo Phân tích Tổng hợp & Dự báo</h2>
+                    </div>
+                    <span id="reportDate" class="text-xs font-semibold text-on-surface-variant">Hàng ngày (tự động cập nhật)</span>
+                </div>
+                <div id="reportContent" class="markdown-body">
+                    <div class="glass-panel rounded-xl p-8 flex flex-col items-center text-center max-w-xl mx-auto">
+                        <span class="material-symbols-outlined text-primary text-5xl mb-4 animate-spin">sync</span>
+                        <h3 class="text-lg font-bold text-on-surface">Đang tải báo cáo...</h3>
+                        <p class="text-xs text-on-surface-variant mt-2">Vui lòng chờ giây lát trong khi hệ thống kết xuất báo cáo vĩ mô.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Mobile Navigation Bar -->
+    <nav class="md:hidden fixed bottom-0 left-0 right-0 h-16 bg-surface-container/90 backdrop-blur-md border-t border-outline-variant flex justify-around items-center z-50">
+        <button id="mobileNavNews" class="flex flex-col items-center gap-1 text-primary">
+            <span class="material-symbols-outlined">newspaper</span>
+            <span class="text-[10px] font-bold">Tin Tức</span>
+        </button>
+        <button id="mobileNavReport" class="flex flex-col items-center gap-1 text-on-surface-variant">
+            <span class="material-symbols-outlined">description</span>
+            <span class="text-[10px]">Báo Cáo</span>
+        </button>
+    </nav>
+
+    <!-- Main Client Script -->
+    <script src="app.js"></script>
 </body>
 </html>
