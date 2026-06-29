@@ -1,5 +1,357 @@
 ﻿[
   {
+    "Title": "Thủ tướng bổ nhiệm Tổng giám đốc Ngân hàng Chính sách xã hội",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-100260629210449457.htm",
+    "PubDate": "6/29/2026 10:04:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc bổ nhiệm Tổng Giám đốc Ngân hàng Chính sách xã hội (NHCSXH) là một sự kiện hành chính nội bộ quan trọng, liên quan đến công tác cán bộ của một định chế tài chính nhà nước. Tuy nhiên, bản thân sự kiện này không trực tiếp tác động đến hoạt động kinh doanh hay hiệu quả tài chính của các doanh nghiệp niêm yết trên thị trường chứng khoán. NHCSXH hoạt động chủ yếu dựa trên các chính sách của Nhà nước về tín dụng ưu đãi cho người nghèo và các đối tượng chính sách khác, không phải là một ngân hàng thương mại cạnh tranh trực tiếp trên thị trường vốn. Do đó, tin tức này có tác động rất hạn chế hoặc không có tác động đáng kể đến tâm lý chung của nhà đầu tư hay diễn biến của thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-29 22:27:50"
+  },
+  {
+    "Title": "Tối nay, giá vàng thế giới giảm về sát ngưỡng 4.000 USD/ounce",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/toi-nay-gia-vang-the-gioi-giam-ve-sat-nguong-4000-usd-ounce-100260629231011306.htm",
+    "PubDate": "6/29/2026 11:27:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc giá vàng thế giới giảm mạnh có thể phản ánh tâm lý nhà đầu tư đang chuyển dịch từ các tài sản trú ẩn an toàn sang các kênh đầu tư rủi ro hơn như chứng khoán, hoặc do các yếu tố vĩ mô khác tác động. Tuy nhiên, nếu sự sụt giảm này diễn ra đột ngột và mạnh mẽ, nó có thể gây ra tâm lý bất ổn trên thị trường tài chính nói chung, bao gồm cả chứng khoán. Đối với thị trường chứng khoán Việt Nam, tác động trực tiếp có thể không quá lớn, nhưng nó có thể ảnh hưởng đến tâm lý nhà đầu tư và dòng tiền. Nếu nhà đầu tư rút tiền từ vàng để đầu tư vào chứng khoán, điều này có thể là tín hiệu tích cực cho thị trường chứng khoán. Ngược lại, nếu sự sụt giảm của vàng là dấu hiệu của một vấn đề kinh tế vĩ mô lớn hơn, nó có thể tác động tiêu cực đến tâm lý chung và dòng tiền vào thị trường chứng khoán.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "PNJ là doanh nghiệp kinh doanh vàng lớn tại Việt Nam. Giá vàng thế giới giảm mạnh có thể ảnh hưởng đến biên lợi nhuận và doanh thu của PNJ, đặc biệt nếu giá vàng trong nước biến động theo chiều hướng tương tự hoặc nếu hoạt động kinh doanh vàng vật chất chiếm tỷ trọng lớn trong cơ cấu doanh thu."
+      },
+      {
+        "Ticker": "SJC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tương tự PNJ, SJC cũng là một thương hiệu vàng lớn. Sự sụt giảm của giá vàng thế giới có thể tác động tiêu cực đến hoạt động kinh doanh và lợi nhuận của SJC."
+      },
+      {
+        "Ticker": "DBC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Doanh nghiệp chăn nuôi lợn. Giá vàng không có tác động trực tiếp đến ngành nghề kinh doanh cốt lõi của DBC."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tập đoàn Hòa Phát hoạt động trong lĩnh vực sản xuất thép. Giá vàng không có mối liên hệ trực tiếp với ngành thép."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:27:09"
+  },
+  {
+    "Title": "Lương bình quân người lao động công ty mẹ EVN gần 480 triệu đồng/năm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/luong-binh-quan-nguoi-lao-dong-cong-ty-me-evn-gan-480-trieu-dong-nam-100260629225253753.htm",
+    "PubDate": "6/29/2026 11:46:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Thông tin về mức lương cao bất thường của lãnh đạo và người lao động tại công ty mẹ EVN có thể gây ra những phản ứng tiêu cực từ dư luận và các nhà đầu tư. Điều này có thể làm gia tăng áp lực lên EVN và các đơn vị thành viên, đặc biệt trong bối cảnh ngành điện đang đối mặt với nhiều thách thức về chi phí, giá điện và hiệu quả hoạt động. Về mặt thị trường chứng khoán, tin tức này có thể ảnh hưởng đến tâm lý nhà đầu tư đối với các doanh nghiệp nhà nước nói chung và các doanh nghiệp trong ngành năng lượng nói riêng. Nó có thể làm dấy lên lo ngại về quản trị doanh nghiệp, hiệu quả sử dụng vốn và khả năng cạnh tranh. Tuy nhiên, tác động trực tiếp đến các mã cổ phiếu niêm yết là không rõ ràng nếu EVN không phải là công ty niêm yết hoặc các đơn vị thành viên có liên quan không có cổ phiếu giao dịch trên sàn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "EVG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mặc dù tin tức đề cập đến công ty mẹ EVN (Tập đoàn Điện lực Việt Nam), một tập đoàn nhà nước không niêm yết, nhưng mã cổ phiếu EVG (Công ty Cổ phần Tập đoàn Evergreen) có thể bị ảnh hưởng bởi sự nhầm lẫn hoặc liên tưởng của nhà đầu tư do tên gọi tương đồng. Nhà đầu tư có thể có phản ứng tiêu cực với các cổ phiếu có tên gần giống với các đơn vị nhà nước đang có thông tin nhạy cảm."
+      },
+      {
+        "Ticker": "GEG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Mã cổ phiếu GEG (Công ty Cổ phần Đầu tư Năng lượng Gia Lai) hoạt động trong lĩnh vực năng lượng tái tạo, một mảng có liên quan đến ngành điện. Tuy nhiên, thông tin về lương của EVN không trực tiếp ảnh hưởng đến hoạt động kinh doanh hay tài chính của GEG. Tác động có thể chỉ mang tính tâm lý lan tỏa nếu nhà đầu tư có cái nhìn tiêu cực chung về ngành năng lượng do các vấn đề quản trị tại EVN."
+      },
+      {
+        "Ticker": "PC1",
+        "ImpactType": "Trung lập",
+        "Reasoning": "PC1 (Công ty Cổ phần Tập đoàn PC1) là một doanh nghiệp lớn trong ngành điện, xây lắp điện và năng lượng tái tạo. Mặc dù không trực tiếp liên quan đến EVN, nhưng các vấn đề về quản trị và chi phí tại một tập đoàn nhà nước lớn như EVN có thể tạo ra tâm lý thận trọng chung đối với các doanh nghiệp cùng ngành, đặc biệt là các doanh nghiệp có yếu tố nhà nước hoặc hoạt động trong lĩnh vực hạ tầng năng lượng."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:27:00"
+  },
+  {
+    "Title": "Không cần khoan tường, không cần thợ: Điều hòa Trung Quốc gây sốt khắp châu Âu",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/khong-can-khoan-tuong-khong-can-tho-dieu-hoa-trung-quoc-gay-sot-khap-chau-au-2530623.html",
+    "PubDate": "Mon, 29 Jun 2026 19:38:43 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Tin tức về sự ưa chuộng của điều hòa Trung Quốc tại châu Âu có thể có tác động gián tiếp đến thị trường chứng khoán Việt Nam. Nếu các doanh nghiệp Việt Nam có hoạt động sản xuất, lắp ráp hoặc phân phối các sản phẩm điện lạnh tương tự, sự cạnh tranh từ hàng hóa Trung Quốc có thể ảnh hưởng đến doanh thu và lợi nhuận của họ. Tuy nhiên, nếu các doanh nghiệp Việt Nam tập trung vào các phân khúc thị trường khác hoặc có lợi thế cạnh tranh riêng (ví dụ: công nghệ, dịch vụ hậu mãi, thương hiệu), tác động có thể không đáng kể. Đối với thị trường toàn cầu, tin tức này cho thấy sự gia tăng sức mạnh cạnh tranh của các nhà sản xuất Trung Quốc trong lĩnh vực hàng tiêu dùng, có thể ảnh hưởng đến các công ty điện lạnh phương Tây hoặc các nhà sản xuất ở các quốc gia khác đang cạnh tranh tại thị trường châu Âu.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tập đoàn Tôn Hoa Sen (TCL) có thể bị ảnh hưởng nếu họ có các sản phẩm điện lạnh cạnh tranh trực tiếp hoặc gián tiếp với điều hòa Trung Quốc tại thị trường châu Âu hoặc các thị trường khác mà TCL đang hoạt động. Sự gia tăng cạnh tranh có thể gây áp lực lên giá bán và thị phần."
+      },
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "CTCP Cơ Điện Lạnh (REE) là một trong những doanh nghiệp hàng đầu trong lĩnh vực điện lạnh tại Việt Nam. Nếu REE có hoạt động xuất khẩu hoặc cạnh tranh tại thị trường châu Âu, sự thành công của điều hòa Trung Quốc có thể tạo ra áp lực cạnh tranh, ảnh hưởng đến doanh thu và lợi nhuận của REE."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tập đoàn Hòa Phát (HPG) chủ yếu hoạt động trong lĩnh vực thép, bất động sản và nông nghiệp. Tin tức về điều hòa Trung Quốc không có tác động trực tiếp đến hoạt động kinh doanh cốt lõi của HPG."
+      },
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Trung lập",
+        "Reasoning": "FPT là tập đoàn công nghệ thông tin, viễn thông và giáo dục. Tin tức này không liên quan trực tiếp đến lĩnh vực hoạt động của FPT."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:26:49"
+  },
+  {
+    "Title": "Giá vàng hôm nay 29/6/2026 giảm đồng loạt, SJC lùi về 148 triệu đồng/lượng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-29-6-2026-kho-but-pha-kha-nang-giam-sau-van-hien-huu-2530278.html",
+    "PubDate": "Mon, 29 Jun 2026 19:42:18 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc giá vàng giảm mạnh có thể phản ánh sự giảm sút trong nhu cầu trú ẩn an toàn hoặc sự thay đổi trong kỳ vọng lạm phát và chính sách tiền tệ. Điều này có thể dẫn đến dòng tiền có xu hướng dịch chuyển từ các tài sản an toàn như vàng sang các kênh đầu tư rủi ro hơn như chứng khoán, đặc biệt là các ngành có tiềm năng tăng trưởng. Tuy nhiên, nếu đà giảm của vàng là dấu hiệu cho thấy sự bất ổn kinh tế vĩ mô đang gia tăng, nó có thể gây ra tâm lý tiêu cực chung trên thị trường chứng khoán, khiến nhà đầu tư thận trọng hơn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "PNJ là doanh nghiệp kinh doanh vàng trang sức và vàng miếng hàng đầu tại Việt Nam. Giá vàng giảm mạnh có thể ảnh hưởng đến biên lợi nhuận gộp của PNJ do giá trị hàng tồn kho giảm và có thể tác động tiêu cực đến doanh thu nếu người tiêu dùng trì hoãn mua sắm chờ giá tiếp tục giảm."
+      },
+      {
+        "Ticker": "SJC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "SJC là thương hiệu vàng quốc gia và là một trong những doanh nghiệp sản xuất, kinh doanh vàng lớn nhất. Việc giá vàng SJC giảm sâu có thể ảnh hưởng trực tiếp đến lợi nhuận và giá trị tài sản của công ty, cũng như tâm lý nhà đầu tư vào cổ phiếu này."
+      },
+      {
+        "Ticker": "DGC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Dù không trực tiếp liên quan đến vàng, nhưng nếu giá vàng giảm mạnh là tín hiệu cho thấy áp lực lạm phát hạ nhiệt, điều này có thể có lợi cho các doanh nghiệp sản xuất như DGC trong việc kiểm soát chi phí đầu vào và ổn định hoạt động sản xuất kinh doanh."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tương tự DGC, HPG là doanh nghiệp sản xuất thép. Việc giá vàng giảm có thể gián tiếp cho thấy sự ổn định hơn về vĩ mô hoặc áp lực lạm phát giảm, điều này có thể tạo môi trường thuận lợi hơn cho hoạt động sản xuất và kinh doanh của HPG, tuy nhiên tác động là không trực tiếp và rõ rệt."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:26:37"
+  },
+  {
+    "Title": "Lương trung bình 3.593 nhân viên công ty mẹ EVN là gần 480 triệu/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/luong-trung-binh-3-593-nhan-vien-cong-ty-me-evn-la-gan-480-trieu-nam-2530742.html",
+    "PubDate": "Mon, 29 Jun 2026 22:05:35 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Thông tin về mức lương cao bất thường tại công ty mẹ EVN, một doanh nghiệp nhà nước hoạt động trong lĩnh vực năng lượng thiết yếu, có thể gây ra những phản ứng tiêu cực trong dư luận và giới đầu tư. Điều này có thể làm gia tăng áp lực lên chính phủ trong việc xem xét lại cơ chế lương thưởng tại các tập đoàn nhà nước, tiềm ẩn nguy cơ về các biện pháp siết chặt chi tiêu hoặc điều chỉnh giá điện/dịch vụ để bù đắp chi phí. Đối với thị trường chứng khoán nói chung, tin tức này có thể không có tác động trực tiếp và lan tỏa rộng rãi, tuy nhiên, nó có thể làm dấy lên lo ngại về hiệu quả hoạt động và quản trị chi phí tại các doanh nghiệp nhà nước, ảnh hưởng đến tâm lý nhà đầu tư đối với nhóm cổ phiếu ngành điện hoặc các ngành có liên quan đến ngân sách nhà nước.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "EVG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mặc dù tin tức đề cập đến công ty mẹ EVN (Tập đoàn Điện lực Việt Nam), nhưng mã cổ phiếu EVG (Công ty Cổ phần Tập đoàn Evergreen) có thể bị ảnh hưởng tiêu cực do sự nhầm lẫn hoặc liên tưởng của nhà đầu tư, đặc biệt nếu EVG hoạt động trong lĩnh vực có liên quan hoặc có tên gọi gần giống. Tuy nhiên, tác động này có thể không đáng kể nếu không có mối liên hệ trực tiếp."
+      },
+      {
+        "Ticker": "GEG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Mã GEG (Công ty Cổ phần Điện Gia Lai) hoạt động trong lĩnh vực năng lượng tái tạo. Tin tức về lương cao tại EVN có thể không ảnh hưởng trực tiếp đến GEG, nhưng nếu có những thảo luận sâu hơn về chi phí hoạt động và hiệu quả của ngành điện nói chung, GEG có thể bị ảnh hưởng gián tiếp bởi tâm lý thị trường."
+      },
+      {
+        "Ticker": "PC1",
+        "ImpactType": "Trung lập",
+        "Reasoning": "PC1 (Công ty Cổ phần Tập đoàn PC1) là một doanh nghiệp hoạt động đa ngành, bao gồm cả xây lắp điện và năng lượng tái tạo. Tin tức này có thể không tác động trực tiếp đến PC1, nhưng nếu nó làm dấy lên các cuộc thảo luận về chính sách năng lượng hoặc chi phí của ngành, PC1 có thể bị ảnh hưởng gián tiếp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:26:21"
+  },
+  {
+    "Title": "Thiếu gia, ái nữ nhà tỷ phú Việt: Ngân hàng - 'phòng thí nghiệm' chuyển giao thế hệ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/thieu-gia-ai-nu-ty-phu-viet-ngan-hang-phong-thi-nghiem-chuyen-giao-the-he-2529733.html",
+    "PubDate": "Tue, 30 Jun 2026 05:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Tin tức này tập trung vào sự chuyển giao thế hệ trong các tập đoàn gia đình, đặc biệt là trong lĩnh vực ngân hàng. Về mặt lý thuyết, việc thế hệ trẻ tiếp quản có thể mang lại những tư duy mới, chiến lược đổi mới và áp dụng công nghệ hiện đại, tiềm năng thúc đẩy sự phát triển của các ngân hàng và các ngành liên quan. Tuy nhiên, sự thành công phụ thuộc vào năng lực thực tế của thế hệ kế cận và khả năng thích ứng với môi trường kinh doanh phức tạp. Do đó, tác động trực tiếp và ngay lập tức lên thị trường chứng khoán chung có thể không rõ rệt, mà thiên về yếu tố kỳ vọng và tâm lý nhà đầu tư đối với các doanh nghiệp có yếu tố gia đình trị.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Vietcombank là một trong những ngân hàng lớn tại Việt Nam. Nếu có thông tin về sự tham gia hoặc kế nhiệm của thế hệ trẻ trong ban lãnh đạo hoặc cổ đông lớn của ngân hàng này, tin tức có thể tạo ra sự quan tâm từ nhà đầu tư về định hướng tương lai. Tuy nhiên, với quy mô và sự chuyên nghiệp của VCB, tác động trực tiếp từ tin tức này có thể hạn chế."
+      },
+      {
+        "Ticker": "BID",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tương tự VCB, BIDV là một ngân hàng quốc doanh lớn. Sự chuyển giao thế hệ tại các tập đoàn gia đình có thể gián tiếp ảnh hưởng đến tâm lý nhà đầu tư đối với các ngân hàng có cấu trúc sở hữu phức tạp, nhưng tác động trực tiếp lên BIDV là không rõ ràng nếu không có thông tin cụ thể về sự thay đổi lãnh đạo hoặc cơ cấu sở hữu liên quan đến các gia đình giàu có."
+      },
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "VietinBank, một ngân hàng quốc doanh khác, cũng có thể chịu ảnh hưởng tâm lý tương tự. Việc thế hệ trẻ tiếp quản có thể được xem là một yếu tố tích cực về đổi mới, nhưng cần có thêm thông tin chi tiết về các cá nhân cụ thể và kế hoạch của họ để đánh giá tác động."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "VPBank là một ngân hàng thương mại cổ phần có yếu tố gia đình trong cơ cấu sở hữu và quản trị. Nếu tin tức ám chỉ sự tham gia hoặc kế nhiệm của thế hệ trẻ thuộc các gia đình sáng lập vào ban lãnh đạo hoặc các vị trí chiến lược, điều này có thể được nhà đầu tư nhìn nhận tích cực, kỳ vọng vào sự đổi mới và chiến lược phát triển năng động hơn."
+      },
+      {
+        "Ticker": "TPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tương tự VPB, TPBank cũng có thể có yếu tố gia đình trong quản trị. Sự xuất hiện của thế hệ trẻ với tư duy mới có thể mang lại những kỳ vọng về sự tăng trưởng và thích ứng với công nghệ, từ đó tác động tích cực đến giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:26:03"
+  },
+  {
+    "Title": "Sếp ngân hàng Big4 than tiền cho vay tăng vọt, tiền vào hụt trước thiếu sau",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/sep-ngan-hang-big4-than-tien-cho-vay-tang-vot-tien-vao-hut-2530172.html",
+    "PubDate": "Tue, 30 Jun 2026 05:00:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Tin tức này cho thấy áp lực thanh khoản đang gia tăng tại các ngân hàng lớn (Big4), khi nhu cầu vay vốn tăng mạnh nhưng nguồn vốn huy động lại không theo kịp. Điều này có thể dẫn đến việc các ngân hàng phải tăng lãi suất huy động để thu hút tiền gửi, từ đó đẩy chi phí đầu vào lên cao. Hệ quả là lãi suất cho vay có thể tăng theo, gây khó khăn cho doanh nghiệp trong việc tiếp cận vốn, làm chậm lại hoạt động sản xuất kinh doanh và đầu tư. Đối với thị trường chứng khoán, điều này có thể tạo ra tâm lý tiêu cực, làm giảm dòng tiền chảy vào thị trường do chi phí vay vốn tăng và triển vọng lợi nhuận của các doanh nghiệp bị ảnh hưởng. Các ngành phụ thuộc nhiều vào vốn vay như bất động sản, xây dựng, sản xuất có thể chịu tác động mạnh hơn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là một trong các ngân hàng Big4, VCB có thể đối mặt với áp lực thanh khoản tương tự, dẫn đến chi phí huy động vốn tăng và có thể ảnh hưởng đến biên lợi nhuận."
+      },
+      {
+        "Ticker": "BID",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tương tự VCB, BID cũng là ngân hàng Big4 và có thể chịu tác động tiêu cực từ việc thiếu hụt nguồn vốn cho vay."
+      },
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là ngân hàng Big4, CTG có khả năng đối mặt với tình trạng tương tự, ảnh hưởng đến khả năng mở rộng tín dụng và chi phí vốn."
+      },
+      {
+        "Ticker": "VNB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là một ngân hàng lớn, VNB có thể gặp khó khăn trong việc cân đối nguồn vốn khi nhu cầu vay tăng cao, dẫn đến áp lực lên lãi suất và lợi nhuận."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là một doanh nghiệp sản xuất lớn, HPG phụ thuộc nhiều vào vốn vay để duy trì và mở rộng hoạt động. Lãi suất cho vay tăng có thể làm tăng chi phí tài chính, ảnh hưởng đến lợi nhuận."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngành bất động sản thường có nhu cầu vốn lớn. Việc các ngân hàng gặp khó khăn về thanh khoản và có thể tăng lãi suất cho vay sẽ ảnh hưởng trực tiếp đến chi phí vốn của VHM và các dự án bất động sản."
+      },
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp bất động sản khu công nghiệp như KBC cũng có thể bị ảnh hưởng bởi chi phí vốn tăng, làm giảm sức hấp dẫn của các dự án đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:25:53"
+  },
+  {
+    "Title": "Phát Đạt vay hơn 8.800 tỷ đồng rót vào 'siêu dự án' Thủ Thiêm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/phat-dat-vay-hon-8-800-ty-dong-rot-vao-sieu-du-an-thu-thiem-5091309.html",
+    "PubDate": "Mon, 29 Jun 2026 21:31:53 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Tin tức này có tác động tích cực đến thị trường chứng khoán chung, đặc biệt là nhóm cổ phiếu bất động sản. Việc một doanh nghiệp lớn như Phát Đạt huy động được nguồn vốn lớn để đầu tư vào một dự án trọng điểm cho thấy sự phục hồi và tiềm năng phát triển của ngành bất động sản. Điều này có thể tạo tâm lý lạc quan cho nhà đầu tư, khuyến khích dòng tiền chảy vào nhóm cổ phiếu liên quan, từ đó có thể lan tỏa tích cực đến toàn thị trường. Tuy nhiên, cần lưu ý đến yếu tố lãi suất và khả năng hấp thụ của thị trường bất động sản trong tương lai.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc vay vốn lớn để đầu tư vào dự án 'siêu dự án' Thủ Thiêm cho thấy tiềm năng phát triển và mở rộng của Phát Đạt. Điều này có thể thúc đẩy giá cổ phiếu PDR tăng trưởng trong ngắn và trung hạn do kỳ vọng vào sự thành công của dự án và khả năng sinh lời trong tương lai."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Dự án của Phát Đạt nằm tại Thủ Thiêm, một khu vực phát triển bất động sản trọng điểm. Sự đầu tư mạnh mẽ vào khu vực này có thể gián tiếp thúc đẩy giá trị và sự quan tâm đến các dự án bất động sản khác tại Thủ Thiêm, bao gồm cả các dự án của Vinhomes, tạo hiệu ứng lan tỏa tích cực."
+      },
+      {
+        "Ticker": "HPX",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tin tức về việc huy động vốn thành công và đầu tư vào dự án lớn có thể tạo tâm lý tích cực chung cho ngành bất động sản. Các doanh nghiệp cùng ngành như Hải Phát có thể hưởng lợi từ tâm lý lạc quan này, mặc dù tác động trực tiếp không mạnh bằng PDR."
+      },
+      {
+        "Ticker": "NLG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tương tự như HPX, Nam Long có thể được hưởng lợi từ hiệu ứng lan tỏa tích cực của ngành bất động sản khi một doanh nghiệp lớn có động thái đầu tư mạnh mẽ, cho thấy sự phục hồi của thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:25:44"
+  },
+  {
+    "Title": "Hà Nội dự kiến phát hành 200.000 tỷ đồng trái phiếu làm các dự án trọng điểm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ha-noi-du-kien-phat-hanh-200-000-ty-dong-trai-phieu-lam-cac-du-an-trong-diem-5091327.html",
+    "PubDate": "Mon, 29 Jun 2026 22:26:39 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc Hà Nội dự kiến phát hành một lượng trái phiếu lớn (200.000 tỷ đồng) để đầu tư vào các dự án trọng điểm có thể mang lại tác động tích cực cho thị trường chứng khoán. Thứ nhất, nguồn vốn này sẽ thúc đẩy đầu tư công, tạo ra nhiều dự án xây dựng cơ sở hạ tầng, giao thông, đô thị, qua đó kích thích tăng trưởng kinh tế. Thứ hai, các dự án này sẽ tạo ra nhu cầu về vật liệu xây dựng, dịch vụ thi công, tư vấn, thiết bị, từ đó hỗ trợ các doanh nghiệp trong các ngành liên quan. Thứ ba, việc phát hành trái phiếu chính phủ/chính quyền địa phương thường được xem là kênh huy động vốn an toàn, có thể thu hút dòng tiền từ các nhà đầu tư, bao gồm cả các quỹ đầu tư, làm tăng thanh khoản cho thị trường. Tuy nhiên, cần lưu ý rằng việc phát hành trái phiếu với quy mô lớn cũng có thể gây áp lực lên lãi suất nếu nguồn cung tiền không đủ đáp ứng, hoặc nếu có lo ngại về khả năng hấp thụ vốn của nền kinh tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hòa Phát là doanh nghiệp sản xuất thép hàng đầu Việt Nam. Các dự án trọng điểm về hạ tầng, giao thông, đô thị sẽ gia tăng nhu cầu về thép xây dựng, vật liệu xây dựng, từ đó thúc đẩy doanh thu và lợi nhuận của HPG."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Vinhomes là một trong những nhà phát triển bất động sản lớn nhất Việt Nam. Các dự án phát triển đô thị, khu dân cư mới tại Hà Nội, được tài trợ bởi nguồn vốn trái phiếu, sẽ tạo cơ hội mở rộng quỹ đất và phát triển các dự án mới cho VHM."
+      },
+      {
+        "Ticker": "CTD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Coteccons là một trong những công ty xây dựng hàng đầu. Việc có nhiều dự án trọng điểm được triển khai sẽ mang lại các hợp đồng thi công lớn, giúp CTD gia tăng doanh thu và thị phần trong lĩnh vực xây dựng hạ tầng và dân dụng."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Các ngân hàng lớn như Vietcombank thường tham gia vào việc tài trợ vốn cho các dự án lớn, cũng như hưởng lợi từ sự gia tăng hoạt động kinh tế. Ngoài ra, VCB có thể tham gia vào các hoạt động tư vấn tài chính, quản lý dòng tiền cho các dự án này."
+      },
+      {
+        "Ticker": "ACB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tương tự VCB, ACB cũng có thể hưởng lợi từ việc gia tăng hoạt động tín dụng và dịch vụ tài chính liên quan đến các dự án đầu tư công quy mô lớn được triển khai tại Hà Nội."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:25:28"
+  },
+  {
+    "Title": "Công ty sản xuất cáp điện muốn 'lột xác' khi ông Đỗ Thành Nhân làm lãnh đạo",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/cong-ty-san-xuat-cap-dien-muon-lot-xac-khi-ong-do-thanh-nhan-lam-lanh-dao-5091343.html",
+    "PubDate": "Tue, 30 Jun 2026 05:00:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Tin tức về việc một công ty sản xuất cáp điện có sự thay đổi lãnh đạo với kỳ vọng 'lột xác' dưới sự dẫn dắt của ông Đỗ Thành Nhân có thể tạo ra tác động tích cực lan tỏa đến ngành sản xuất, đặc biệt là ngành điện và hạ tầng. Sự thay đổi này có thể thu hút sự chú ý của nhà đầu tư vào triển vọng tăng trưởng, tái cấu trúc hoặc mở rộng hoạt động của công ty. Nếu ông Đỗ Thành Nhân có uy tín và kinh nghiệm trong việc vực dậy hoặc phát triển doanh nghiệp, điều này có thể thúc đẩy tâm lý tích cực chung trên thị trường, đặc biệt là đối với các cổ phiếu trong ngành liên quan hoặc các cổ phiếu có yếu tố tương đồng về tiềm năng phục hồi. Tuy nhiên, tác động cụ thể sẽ phụ thuộc vào chi tiết kế hoạch 'lột xác' và khả năng thực thi của ban lãnh đạo mới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TBD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mã cổ phiếu của công ty sản xuất cáp điện được đề cập trong tin tức sẽ chịu tác động trực tiếp. Sự thay đổi lãnh đạo với kỳ vọng 'lột xác' có thể dẫn đến sự quan tâm lớn từ nhà đầu tư, kỳ vọng vào sự phục hồi hoặc tăng trưởng mạnh mẽ, từ đó đẩy giá cổ phiếu tăng. Tuy nhiên, mã cụ thể chưa được nêu rõ trong tin tức."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tập đoàn Hòa Phát là một trong những nhà sản xuất thép lớn tại Việt Nam, cung cấp nguyên liệu cho ngành sản xuất cáp điện. Nếu công ty cáp điện có kế hoạch mở rộng sản xuất hoặc tái cấu trúc thành công, nhu cầu về thép có thể tăng nhẹ, tuy nhiên tác động này có thể không đáng kể và mang tính gián tiếp."
+      },
+      {
+        "Ticker": "SJC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Các công ty trong ngành điện, hạ tầng hoặc vật liệu xây dựng có thể được hưởng lợi gián tiếp nếu sự 'lột xác' của công ty cáp điện bao gồm các dự án đầu tư lớn vào hạ tầng điện hoặc các công trình xây dựng. Tuy nhiên, tác động này phụ thuộc vào quy mô và định hướng cụ thể của công ty."
+      }
+    ],
+    "AnalyzedAt": "2026-06-29 22:24:42"
+  },
+  {
     "Title": "'Ghế nóng' tại Chứng khoán VIX đổi chủ",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/ghe-nong-tai-chung-khoan-vix-doi-chu-100260629202421089.htm",
