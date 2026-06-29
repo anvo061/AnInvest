@@ -218,9 +218,21 @@ Bạn hãy phân tích cẩn thận và trả về kết quả dưới định d
     } catch {
         Write-Log "Lỗi khi gọi API Gemini phân tích tin tức: $_" "ERROR"
         if ($_.Exception -and $_.Exception.Response) {
-            $Reader = New-Object System.IO.StreamReader($_.Exception.Response.GetResponseStream())
-            $ErrorBody = $Reader.ReadToEnd()
-            Write-Log "Phản hồi lỗi từ API: $ErrorBody" "ERROR"
+            try {
+                # Kiểm tra xem đối tượng Response có phương thức GetResponseStream không (Windows PowerShell)
+                $Response = $_.Exception.Response
+                $StreamMethod = $Response.GetType().GetMethod("GetResponseStream")
+                if ($null -ne $StreamMethod) {
+                    $Reader = New-Object System.IO.StreamReader($Response.GetResponseStream())
+                    $ErrorBody = $Reader.ReadToEnd()
+                    Write-Log "Phản hồi lỗi từ API: $ErrorBody" "ERROR"
+                } else {
+                    Write-Log "Chi tiết phản hồi lỗi: $($Response.ToString())" "ERROR"
+                }
+            } catch {
+                # Tránh làm sập script nếu không đọc được stream lỗi
+                Write-Log "Không thể phân tích chi tiết lỗi từ API: $_" "WARNING"
+            }
         }
         return $null
     }
