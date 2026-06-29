@@ -485,19 +485,61 @@ function filterAndRender() {
     if (activeSectorFilter && activeSectorFilter !== 'all') {
       const textToSearch = ((item.Title || '') + ' ' + (item.MarketImpact || '')).toLowerCase();
       if (activeSectorFilter === 'bank') {
-        const keywords = ["ngân hàng", "lãi suất", "tín dụng", "vcb", "bid", "tcb", "mbb", "acb", "vib", "ctg"];
+        const keywords = ["ngân hàng", "lãi suất", "tín dụng", "vcb", "bid", "tcb", "mbb", "acb", "vib", "ctg", "shb", "vpbank", "stb"];
         matchesSector = keywords.some(k => textToSearch.includes(k));
       } else if (activeSectorFilter === 'bds') {
-        const keywords = ["bất động sản", "bđs", "nhà đất", "địa ốc", "vinhomes", "vhm", "novaland", "pdr", "dxg", "dig"];
+        const keywords = ["bất động sản", "bđs", "nhà đất", "địa ốc", "vinhomes", "vhm", "novaland", "pdr", "dxg", "dig", "nlg", "kdh", "ceo"];
         matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'stock') {
-        const keywords = ["chứng khoán", "cổ phiếu", "vn-index", "tự doanh", "ssi", "vnd", "vci", "hcm", "vix"];
+      } else if (activeSectorFilter === 'finance') {
+        const keywords = ["chứng khoán", "cổ phiếu", "vn-index", "tự doanh", "vốn ngoại", "ssi", "vnd", "vci", "hcm", "vix", "fts", "shs", "cts"];
         matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'steel') {
-        const keywords = ["thép", "quặng", "hpg", "hsg", "nkg", "xây dựng", "vật liệu", "đầu tư công"];
+      } else if (activeSectorFilter === 'resources') {
+        const keywords = ["thép", "quặng", "hpg", "hsg", "nkg", "khai khoáng", "than", "mỏ", "sắt", "nhôm", "đồng", "titan"];
         matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'energy') {
-        const keywords = ["dầu khí", "xăng", "dầu", "brent", "gas", "điện", "pvd", "pvs", "pow"];
+      } else if (activeSectorFilter === 'construction') {
+        const keywords = ["xây dựng", "vật liệu", "đầu tư công", "xi măng", "cát", "đá", "vgc", "vcg", "hhv", "c4g", "lcg", "fcn", "ctd"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'food') {
+        const keywords = ["thực phẩm", "đồ uống", "sữa", "vinamilk", "vnm", "masan", "msn", "sabeco", "sab", "lúa", "đường", "thịt", "heo", "gạo"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'chemicals') {
+        const keywords = ["hóa chất", "phân bón", "ure", "dpm", "dcm", "las", "cao su", "gvr", "phốt pho", "dgc"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'industrial') {
+        const keywords = ["cảng biển", "logistics", "vận tải", "gmd", "tcl", "hải an", "hah", "khu công nghiệp", "szc", "kbc", "ita"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'retail') {
+        const keywords = ["bán lẻ", "siêu thị", "mwg", "thế giới di động", "frt", "dgw", "digiworld", "pnj", "vàng bạc"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'tech') {
+        const keywords = ["công nghệ", "fpt", "viettel", "elcom", "cmg", "bán dẫn", "ai", "phần mềm", "viễn thông", "chip"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'utilities') {
+        const keywords = ["điện", "nước", "thủy điện", "nhiệt điện", "bwe", "pow", "geg", "ree", "twt"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'oil') {
+        const keywords = ["dầu khí", "xăng", "dầu", "brent", "pvd", "pvs", "plx", "oil", "lọc dầu", "bsr"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'health') {
+        const keywords = ["y tế", "dược", "bệnh viện", "thuốc", "dhg", "dht", "tra", "traphaco", "imp"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'telecom') {
+        const keywords = ["viễn thông", "mạng", "internet", "viettel", "mobifone", "vinaphone", "fox", "foc"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'insurance') {
+        const keywords = ["bảo hiểm", "bảo việt", "bvh", "pvi", "bic", "mig", "pti"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'travel') {
+        const keywords = ["du lịch", "khách sạn", "hàng không", "vietjet", "vjc", "hvn", "sân bay", "golf"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'auto') {
+        const keywords = ["ô tô", "xe máy", "lốp", "săm", "tmt", "haxaco", "hax"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'household') {
+        const keywords = ["dệt may", "sợi", "vải", "tng", "msh", "vgt", "thủy sản", "tôm", "cá tra", "vhc", "anv", "idi"];
+        matchesSector = keywords.some(k => textToSearch.includes(k));
+      } else if (activeSectorFilter === 'media') {
+        const keywords = ["truyền thông", "quảng cáo", "báo chí", "tạp chí", "sách", "yeg", "yeah1"];
         matchesSector = keywords.some(k => textToSearch.includes(k));
       }
     }
