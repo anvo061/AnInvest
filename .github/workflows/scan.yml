@@ -2,7 +2,7 @@ name: Crawl and Analyze Stock News
 
 on:
   schedule:
-    - cron: '0 * * * *' # Quét tự động mỗi 1 tiếng
+    - cron: '*/30 * * * *' # Quét tự động mỗi 1 tiếng
   workflow_dispatch: # Cho phép bấm nút tự chạy thủ công bất cứ lúc nào bạn muốn
 
 permissions:
