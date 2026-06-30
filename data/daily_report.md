@@ -2,59 +2,70 @@
 
 ---
 
-## 📊 TÓM TẮT TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
-*   **Điểm số tâm lý tổng hợp:** 7/15 điểm (Tâm lý: **Dè dặt nhưng tích cực trong dài hạn**)
-*   **Nhận định:** Thị trường đang ở trạng thái phân hóa mạnh. Một mặt, quyết tâm tăng trưởng GDP (8%) và sự hồi phục sản xuất là động lực tăng trưởng cốt lõi. Mặt khác, các rào cản từ quy chế kinh tế phi thị trường (Mỹ) và áp lực chi phí vốn (lãi suất tăng, NIM thu hẹp) đang tạo ra lực cản ngắn hạn. Tâm lý "phòng thủ" của dòng tiền nội đang chuyển dịch từ gửi tiết kiệm sang chọn lọc cổ phiếu có nền tảng tốt.
+## 1. TÓM TẮT TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
+*   **Điểm số tâm lý tổng hợp:** **Tích cực (Thang điểm: 6.5/10)**
+*   **Trạng thái chung:** Thị trường đang ở trạng thái **"Phân hóa trong lạc quan"**. Các chỉ số vĩ mô (GDP, xuất khẩu, FDI) cho tín hiệu rất mạnh, tạo nền tảng vững chắc cho sự phục hồi dài hạn. Tuy nhiên, tâm lý ngắn hạn bị đè nặng bởi áp lực bán ròng từ khối ngoại tại các cổ phiếu vốn hóa lớn (Bluechips). Nhà đầu tư cần chú trọng vào các doanh nghiệp có tăng trưởng nội tại và hưởng lợi từ chính sách, thay vì chạy theo các mã đang chịu áp lực bán giải chấp từ khối ngoại.
 
 ---
 
-## 🔍 BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU
+## 2. BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU (SCREENING)
 
-| Tin tức | Độ trọng yếu | Lý do |
+| Sự kiện trọng yếu | Mức độ trọng yếu | Lý do |
 | :--- | :--- | :--- |
-| **Mục tiêu tăng trưởng GDP 8%** | **Cao** | Định hướng vĩ mô dài hạn, ảnh hưởng đến kỳ vọng lợi nhuận toàn thị trường. |
-| **Áp lực NIM & Lãi suất huy động tăng** | **Cao** | Ảnh hưởng trực tiếp đến nhóm cổ phiếu có vốn hóa lớn nhất (Ngân hàng). |
-| **Quy chế kinh tế phi thị trường (Mỹ)** | **Trung bình** | Tác động tiêu cực cục bộ đến nhóm xuất khẩu (VHC, ANV). |
-| **Dòng tiền nội thay thế khối ngoại** | **Trung bình** | Thay đổi cơ cấu thanh khoản, tác động tích cực đến nhóm Chứng khoán. |
-| **Thông báo ETF, Tin hàng hải** | **Thấp** | Mang tính chất nghiệp vụ hoặc tác động cục bộ, không ảnh hưởng cấu trúc thị trường. |
+| **GDP tăng trưởng kỷ lục từ 2013** | **Rất cao** | Thay đổi kỳ vọng tăng trưởng kinh tế, thúc đẩy dòng vốn FDI. |
+| **Tiềm năng nâng hạng thị trường mới nổi** | **Rất cao** | Yếu tố thay đổi định giá (P/E) toàn thị trường dài hạn. |
+| **Áp lực bán ròng khối ngoại** | **Cao** | Tác động trực tiếp lên nhóm cổ phiếu trụ, gây tâm lý bi quan ngắn hạn. |
+| **Dự báo LN nhóm Dầu khí (PVS, PVD, GAS)** | **Trung bình** | Tác động phân hóa, tạo dòng tiền đầu cơ nhóm năng lượng. |
+| **Giảm lãi suất vay mua nhà** | **Trung bình** | Tháo gỡ nút thắt thanh khoản cho nhóm BĐS dân dụng. |
 
 ---
 
-## 🏗️ BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH
+## 3. BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH
 
-### 1. NGÀNH NGÂN HÀNG (Áp lực kép: Tăng trưởng vs Biên lợi nhuận)
-*   **Bản chất sự kiện:** Lãi suất huy động tăng (cộng thêm đến 1,3%/năm), NIM thu hẹp trong quý II/2026.
-*   **Tác động:** Chi phí vốn (COF) tăng cao là thách thức lớn nhất. Các ngân hàng có dư nợ tiêu dùng lớn hoặc đòn bẩy cao sẽ chịu áp lực margin nặng nề. Tuy nhiên, sự dồi dào của tiền gửi dân cư (10,7 triệu tỷ đồng) cung cấp thanh khoản ổn định.
-*   **Cổ phiếu bị ảnh hưởng:**
-    *   **Tiêu cực:** `TCB`, `MBB`, `VPB`, `STB` (Rủi ro biên lãi thuần bị bào mòn).
-    *   **Tích cực:** `VCB`, `TCB` (Lợi thế chi phí vốn thấp/CASA giúp chống chọi tốt hơn); `TPB` (Tiên phong công nghệ/bảo mật giúp tăng lợi thế cạnh tranh).
+### 🏗️ Nhóm Khu Công nghiệp & Logisitics (GMD, KBC, SZC)
+*   **Bản chất sự kiện:** Tăng trưởng GDP quý 2 vượt kỳ vọng dựa trên xuất khẩu và FDI mạnh mẽ.
+*   **Tác động:** Nhu cầu kho bãi (GMD) và thuê đất khu công nghiệp (KBC, SZC) tăng vọt. Sự dịch chuyển chuỗi cung ứng vào Việt Nam là xu hướng dài hạn.
+*   **Dự báo:** Đây là nhóm "phòng thủ bền vững" khi tăng trưởng kinh tế là động lực chính.
 
-### 2. NGÀNH XUẤT KHẨU & SẢN XUẤT (Sự phân hóa theo địa chính trị)
-*   **Bản chất sự kiện:** Mỹ giữ nguyên quy chế phi thị trường vs. Sự phục hồi mạnh mẽ của sản xuất trong nước.
-*   **Tác động:** Doanh nghiệp thủy sản (`VHC`, `ANV`) đối mặt rủi ro thuế chống bán phá giá. Tuy nhiên, sự phục hồi sản xuất nói chung hỗ trợ xuất khẩu dệt may (`TNG`) và tăng trưởng vận tải (`GMD`).
+### 📈 Nhóm Chứng khoán (SSI)
+*   **Bản chất sự kiện:** Việt Nam tiến gần mục tiêu nâng hạng thị trường mới nổi (Emerging Market).
+*   **Tác động:** Khi nâng hạng, các quỹ ETF chủ động sẽ giải ngân mạnh. SSI với vị thế đầu ngành sẽ là "cửa ngõ" đón dòng vốn ngoại, giúp tăng thanh khoản toàn thị trường.
+*   **Triển vọng:** Tích cực. Nâng hạng sẽ tái định giá lại ngành chứng khoán với mức P/E cao hơn.
+
+### 🏦 Nhóm Ngân hàng & Bất động sản (VHM, TCB, NVB, VPB)
+*   **Bản chất sự kiện:**
+    *   Lãi suất vay mua nhà hạ nhiệt: Giảm chi phí vốn cho người mua, kích cầu BĐS.
+    *   VHM chi trả cổ tức lớn: Củng cố niềm tin nhà đầu tư.
+    *   NCB (NVB) tăng vốn: Cải thiện hệ số CAR.
 *   **Bảng đối chiếu tác động:**
-    | Mã | Triển vọng | Lý do chính |
-    | :--- | :--- | :--- |
-    | `VHC`, `ANV` | Thận trọng | Rủi ro pháp lý từ thị trường Mỹ. |
-    | `TNG` | Tích cực | Phục hồi sản xuất & nhu cầu quốc tế. |
-    | `GMD` | Tích cực | Lưu lượng hàng hóa tăng theo đà GDP. |
 
-### 3. NGÀNH CHỨNG KHOÁN (Hưởng lợi từ cấu trúc dòng tiền)
-*   **Bản chất sự kiện:** Dòng tiền nội trở thành động lực dẫn dắt chính.
-*   **Tác động:** Khi khối ngoại rút ròng hoặc biến động mạnh, việc nhà đầu tư cá nhân trong nước nắm giữ vai trò chủ đạo giúp thanh khoản thị trường bền vững hơn. Đây là "cú hích" cho doanh thu môi giới và cho vay margin.
-*   **Cổ phiếu bị ảnh hưởng:** `SSI`, `VND`, `VCI`, `HCM`, `SHS` đều được kỳ vọng hưởng lợi từ thanh khoản và sự chủ động của thị trường nội địa.
+| Mã | Yếu tố hỗ trợ | Đánh giá |
+| :--- | :--- | :--- |
+| **VHM** | Cổ tức cao + Lãi suất giảm | Tích cực (dài hạn), tiêu cực (ngắn hạn do ngoại bán) |
+| **TCB** | Tăng trưởng cho vay mua nhà | Tích cực (tăng trưởng tín dụng) |
+| **NVB** | Tăng vốn (tài chính mạnh) | Tích cực (năng lực cho vay) |
 
-### 4. BẤT ĐỘNG SẢN KHU CÔNG NGHIỆP (Kỳ vọng FDI)
-*   **Bản chất sự kiện:** Mục tiêu GDP 8% và làn sóng mở rộng sản xuất.
-*   **Tác động:** Nhu cầu thuê đất KCN vẫn duy trì ở mức cao do Việt Nam tiếp tục là điểm đến thu hút vốn FDI.
-*   **Cổ phiếu bị ảnh hưởng:** `KBC`, `SZC` (Hưởng lợi từ làn sóng mở rộng sản xuất tại các vùng trọng điểm).
+### 🛢️ Nhóm Năng lượng & Dầu khí (PVS, PVD, GAS)
+*   **Bản chất sự kiện:** Dự báo tăng trưởng LN quý 2 cực mạnh (>380%) đối với đại gia dầu khí, đi kèm thách thức suy giảm mỏ dầu chủ lực.
+*   **Phân tích:** Việc sản lượng mỏ giảm buộc chủ đầu tư (PVN) phải đẩy mạnh dự án mới, tạo "công ăn việc làm" cho khối dịch vụ kỹ thuật (PVS, PVD).
+*   **Kết luận:** PVS, PVD có triển vọng tích cực do được hưởng lợi từ chu kỳ đầu tư mới; GAS chịu áp lực về nguồn cung đầu vào.
 
 ---
 
-## 📈 TỔNG KẾT DỰ BÁO CHIẾN LƯỢC
+## 4. TỔNG KẾT & CHIẾN LƯỢC ĐẦU TƯ
 
-1.  **Chiến lược đầu tư:** Ưu tiên các doanh nghiệp có bảng cân đối kế toán khỏe mạnh, ít chịu ảnh hưởng từ lãi suất vay. Tránh các doanh nghiệp có dòng tiền kinh doanh âm kéo dài như cảnh báo tại `DGW` và nhóm bán lẻ công nghệ.
-2.  **Theo dõi sát:** Diễn biến biên lãi thuần (NIM) của nhóm Ngân hàng trong báo cáo tài chính quý II sắp tới. Đây là biến số quan trọng nhất quyết định xu hướng của chỉ số chung (VN-Index).
-3.  **Lưu ý rủi ro:** Sự lệch pha giữa mục tiêu tăng trưởng kinh tế (8%) và thực tế chi phí vốn (lãi suất tăng) sẽ tạo ra những nhịp điều chỉnh ngắn hạn. Nhà đầu tư nên duy trì tỷ trọng danh mục ở mức an toàn, tập trung vào các mã có câu chuyện tăng trưởng nội tại mạnh mẽ.
+### Bảng tổng hợp các mã tiềm năng theo tin tức:
+| Ngành | Mã cổ phiếu | Động lực tăng giá |
+| :--- | :--- | :--- |
+| **Logistics** | **GMD** | Tăng trưởng xuất khẩu mạnh mẽ |
+| **KCN** | **KBC, SZC** | FDI vào Việt Nam vượt kỳ vọng |
+| **Chứng khoán** | **SSI** | Câu chuyện nâng hạng thị trường |
+| **Năng lượng** | **PVS, PVD** | Dự án mới bù đắp sản lượng mỏ |
 
-***Miễn trừ trách nhiệm:** Báo cáo này dựa trên dữ liệu tổng hợp tại thời điểm 30/06/2026. Mọi quyết định đầu tư cần được cân nhắc kỹ lưỡng dựa trên hồ sơ rủi ro cá nhân.*
+### Lời khuyên của chuyên gia:
+1.  **Chiến lược:** Không nên hoảng loạn theo đà bán ròng của khối ngoại ở các mã vốn hóa lớn (VHM, VNM). Đây là cơ hội để các nhà đầu tư dài hạn gom dần khi định giá rơi về mức hấp dẫn.
+2.  **Rủi ro:** Cần theo dõi sát sao **áp lực bán ròng** của khối ngoại trong tháng 7. Nếu lực bán không giảm, các cổ phiếu Bluechips sẽ tiếp tục đi ngang hoặc điều chỉnh ngắn hạn.
+3.  **Điểm nhấn:** Tập trung vào các doanh nghiệp hưởng lợi trực tiếp từ GDP và FDI (Nhóm KCN & Logistics) vì đây là các mã có "câu chuyện tăng trưởng" thực tế và bền vững nhất trong bối cảnh hiện tại.
+
+---
+*Lưu ý: Báo cáo này dựa trên thông tin tổng hợp đến ngày 30/06/2026. Nhà đầu tư cần cân nhắc kỹ các yếu tố rủi ro thị trường trước khi ra quyết định giải ngân.*
