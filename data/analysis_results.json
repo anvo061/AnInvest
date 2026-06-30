@@ -1,5 +1,437 @@
 ﻿[
   {
+    "Title": "Vietnam economy expands 5.66% in first quarter as exports boom - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1hhM2szQnZMQVBRTTNfRWFkdUpQcWY2d1BkelpnenZjSlpyLWQyQXV4U2dmZHpnb1RDeU5YNGJJQjFISXdxVkdSWm9DTkpQTzRtUmgwV1JqVFhCRnNyOGpLUDJwRkxTYzNpZnhZNWNOVXBsSGN5TnY2bzJBd2ZBZXlPUlFFWnVidlRsdFkwbFRVUQ?oc=5",
+    "PubDate": "Fri, 29 Mar 2024 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 8,
+    "MarketImpact": "Tăng trưởng GDP 5.66% trong Q1/2024 nhờ sự phục hồi mạnh mẽ của xuất khẩu là tín hiệu tích cực cho nền kinh tế, thúc đẩy nhu cầu vận tải, logistics và sản xuất công nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Xuất khẩu tăng trưởng mạnh trực tiếp thúc đẩy nhu cầu vận tải biển và dịch vụ cảng, hưởng lợi cho doanh nghiệp đầu ngành cảng biển."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sự phục hồi của xuất khẩu là động lực chính cho các doanh nghiệp thủy sản khi nhu cầu tại các thị trường lớn bắt đầu cải thiện."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngành dệt may hưởng lợi trực tiếp từ đà tăng trưởng của kim ngạch xuất khẩu chung của cả nước."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu sản xuất xuất khẩu tăng cao thúc đẩy nhu cầu thuê đất khu công nghiệp để mở rộng nhà máy."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sản xuất công nghiệp phục hồi kéo theo nhu cầu tiêu thụ thép nội địa và xuất khẩu thép thành phẩm."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:47:04"
+  },
+  {
+    "Title": "Vietnam's economy accelerates despite dip in US exports, footwear drop - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3loLXVhY2Y2TDhIamhxYy03cEd6ajlabDhPTXAxSWdCbEdudzE3R3lkMWdrd2lxN0xHQXA3UFhtWlltM1drOWdTeUdvZEdTa2xrRl9tUWVNY2Qxa2QyU21GTURpWDBsRmw3enQzaHFyNFhpS09tUVJGdmNPNnNoMVdlNHJSM1RLZ3lDZ2c3VVBZLVVkeXNKcDRNcnc1MUFid2c?oc=5",
+    "PubDate": "Mon, 06 Oct 2025 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Sự tăng trưởng kinh tế chung của Việt Nam cho thấy khả năng phục hồi của các ngành sản xuất và xuất khẩu khác, bù đắp cho sự sụt giảm trong lĩnh vực da giày và xuất khẩu sang Mỹ, tạo tâm lý tích cực cho thị trường chứng khoán.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kinh tế tăng trưởng thúc đẩy lưu lượng hàng hóa qua cảng biển, hưởng lợi từ hoạt động xuất nhập khẩu chung."
+      },
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nền kinh tế tăng trưởng thu hút FDI, hỗ trợ nhu cầu thuê đất khu công nghiệp."
+      },
+      {
+        "Ticker": "VGT",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sự sụt giảm trong đơn hàng da giày và xuất khẩu sang Mỹ gây áp lực trực tiếp lên biên lợi nhuận của các doanh nghiệp dệt may, da giày."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tương tự VGT, chịu ảnh hưởng tiêu cực từ sự suy yếu của nhu cầu xuất khẩu sang thị trường Mỹ."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng kinh tế vĩ mô tích cực thường thúc đẩy dòng tiền vào thị trường chứng khoán, hỗ trợ doanh thu môi giới."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:46:49"
+  },
+  {
+    "Title": "Vietnam's 2024 GDP growth accelerates to 7.09%, driven by strong exports - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlltQkhqOGNIc1hpN2NQc1dSRHFfYkdIZHVqby1nNXpraWZ1d2tBdkx2WnBQV2hWV3lidmJiSG9CMUZyMU5PNGtFb2JMdVhqY3dLNjdSUkZ5aXhEREc4cG8ycEt0Z1FLVWRCRE9aMWs0cWxKRUFva2h2cUd5QUJSS1lGbzBBUFBidm9YZzhB?oc=5",
+    "PubDate": "Sun, 05 Jan 2025 08:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 8,
+    "MarketImpact": "Tăng trưởng GDP 7.09% vượt kỳ vọng cho thấy sức khỏe nền kinh tế Việt Nam rất tốt, đặc biệt là động lực từ xuất khẩu, tạo nền tảng vĩ mô vững chắc cho thị trường chứng khoán và các doanh nghiệp sản xuất, logistics.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Xuất khẩu tăng trưởng mạnh trực tiếp thúc đẩy nhu cầu vận tải và dịch vụ cảng biển."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu sản xuất và xuất khẩu tăng cao hỗ trợ tiêu thụ thép và các sản phẩm công nghiệp."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Động lực xuất khẩu mạnh mẽ là yếu tố then chốt giúp doanh nghiệp thủy sản tăng trưởng doanh thu."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngành dệt may hưởng lợi trực tiếp từ đà tăng trưởng xuất khẩu chung của nền kinh tế."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kinh tế vĩ mô tăng trưởng tốt củng cố niềm tin nhà đầu tư, thúc đẩy thanh khoản và dòng tiền vào thị trường chứng khoán."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:46:34"
+  },
+  {
+    "Title": "IDC: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt, trả cổ tức bằng cổ phiếu cho cổ đông hiện hữu - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOR2tySHh4dkJNZ29ha1JYdm1QRWtXbmotYlU0ejJhSmRiQjBsRUZjQTVkMWtsWUdLS3FJWGUzSE9zbjVxMTdnYXZnbUVRQmsyRlNXU0RfTFdHRndVWDJDc3k1ZVZnN2hLTTJreEl4UGpjSlViamJuVjJ0LXZiaUpkS2hkVHdxcEV1c1JpamRZbUNIVlIwbnp1TGJZNnFLUTQySzd1MVFUaHV5a1p1WUlxb1ZrMjduM2MwaDAwbk5SRVZjaFRaRzJvdzBNQ3ZRc0trSm5MWkNuTERhcWJZRDFhSUVxNWh6UW9qNk5uek5n?oc=5",
+    "PubDate": "Tue, 30 Jun 2026 10:12:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt và cổ phiếu thể hiện tình hình tài chính lành mạnh và cam kết chia sẻ lợi nhuận với cổ đông của doanh nghiệp, thường tạo tâm lý tích cực cho nhà đầu tư nắm giữ cổ phiếu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "IDC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc chốt quyền nhận cổ tức bằng tiền và cổ phiếu giúp gia tăng giá trị cho cổ đông hiện hữu và khẳng định dòng tiền ổn định của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:46:19"
+  },
+  {
+    "Title": "Công ty chứng khoán có thiếu gia, ái nữ nhà bầu Thụy làm cổ đông lớn sắp niêm yết HoSE - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb01xZi0yajlXSUpQblhpcnZLazR3cVc1RnVSSVNEbVh3a3B4Zk55MTcwT3pnSlpYS1JBUE82TVF3c0dFaXphVlNrY2NnbkpuRHRobDYyYTFoNWFiREJKb3NrajlDdERSal9kVE5xNzJVN1YyN2xkT1hkYWNjV0wwSlhmLW00NFgxVjhLSEc2TnU4M1djQjRJY3JsS2oxam1WU0ZvVzA4YThTRG9JXzJDazR5UjJYLVZXcXNPYlNQRlZYOU0?oc=5",
+    "PubDate": "Mon, 29 Jun 2026 17:07:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc một công ty chứng khoán niêm yết mới trên HOSE là sự kiện doanh nghiệp đơn thuần, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các mã cổ phiếu khác trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 17:46:09"
+  },
+  {
+    "Title": "SHN: Báo cáo sở hữu của cổ đông lớn - Công ty cổ phần chứng khoán An Bình (ABS) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0FLUEVWWW9SbkFaVndrVWJ0UGV3NGoxYXB3RC1USjFqcWR0OEVTTTl6c2xfb2EwY0ZmZE5WeXZIN3BZX0NIUU5wd3hxSS1QNG9iRDZydHhOUHVETzFoRkZfZmpBMjZyQVhKaXdfbGVJQmVkUWVDdHZ0YXlUTGd1dkV2c0R6UWlxYVc4V0paN0JJX1BseElrV0VhRl9BYTludG9UclpONkFhWExrUjd0TDJuZFptSHg4eTViZkpoa3NReFhZek9WYzB6R3k0Y28?oc=5",
+    "PubDate": "Tue, 30 Jun 2026 09:19:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin công bố thay đổi tỷ lệ sở hữu của cổ đông lớn, mang tính chất báo cáo hành chính định kỳ, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của doanh nghiệp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 17:45:59"
+  },
+  {
+    "Title": "Gần 850 triệu lít xăng sinh học tiêu thụ sau một tháng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/gan-850-trieu-lit-xang-sinh-hoc-tieu-thu-sau-mot-thang-100260630150537229.htm",
+    "PubDate": "6/30/2026 2:53:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Sản lượng tiêu thụ xăng sinh học tăng trưởng ổn định phản ánh nhu cầu năng lượng tích cực, hỗ trợ doanh thu cho các doanh nghiệp phân phối xăng dầu và sản xuất nhiên liệu sinh học.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PLX",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là nhà phân phối xăng dầu lớn nhất, sản lượng tiêu thụ xăng sinh học tăng giúp cải thiện doanh thu bán lẻ."
+      },
+      {
+        "Ticker": "OIL",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ nhu cầu tiêu thụ xăng dầu tăng cao tại hệ thống phân phối của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:45:45"
+  },
+  {
+    "Title": "T&T Group và bài toán kiến tạo những cực tăng trưởng mới",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tt-group-va-bai-toan-kien-tao-nhung-cuc-tang-truong-moi-100260630152710483.htm",
+    "PubDate": "6/30/2026 3:00:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Bài viết mang tính chất giới thiệu định hướng chiến lược và hoạt động của tập đoàn tư nhân T&T Group. Các doanh nghiệp niêm yết có liên quan đến hệ sinh thái T&T (như SHB, BVB) không chịu tác động trực tiếp từ nội dung bài viết này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 17:45:35"
+  },
+  {
+    "Title": "Chi phí logistics chờ cú hích từ sân bay Long Thành",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chi-phi-logistics-cho-cu-hich-tu-san-bay-long-thanh-100260630152506519.htm",
+    "PubDate": "6/30/2026 3:21:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc hoàn thiện sân bay Long Thành sẽ tối ưu hóa chuỗi cung ứng, giảm chi phí logistics và tăng năng lực vận chuyển hàng hóa quốc tế, tạo động lực tăng trưởng dài hạn cho các doanh nghiệp hạ tầng, vận tải và logistics.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ nhu cầu dịch vụ cảng biển và logistics tăng cao khi sân bay Long Thành đi vào hoạt động, kết nối chuỗi cung ứng hàng hóa."
+      },
+      {
+        "Ticker": "ACV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là chủ đầu tư và vận hành sân bay Long Thành, trực tiếp hưởng lợi từ doanh thu khai thác cảng hàng không."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu vận tải hàng hóa tăng lên nhờ sự kết nối hạ tầng logistics đồng bộ giữa cảng biển và sân bay."
+      },
+      {
+        "Ticker": "VSC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mở rộng cơ hội kinh doanh trong lĩnh vực logistics và dịch vụ kho bãi phục vụ nhu cầu xuất nhập khẩu qua sân bay."
+      },
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp xây dựng hạ tầng chủ chốt tham gia các dự án liên quan đến sân bay và hạ tầng giao thông kết nối."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:45:21"
+  },
+  {
+    "Title": "Chuẩn hóa đào tạo, xây dựng đội ngũ tư vấn bảo hiểm chuyên nghiệp",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/chuan-hoa-dao-tao-xay-dung-doi-ngu-tu-van-bao-hiem-chuyen-nghiep-2531016.html",
+    "PubDate": "Tue, 30 Jun 2026 16:10:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính chất định hướng nâng cao chất lượng dịch vụ và tuân thủ quy định ngành bảo hiểm, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp bảo hiểm niêm yết trên sàn chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 17:45:10"
+  },
+  {
+    "Title": "Bảo hiểm sức khỏe: Người Việt chuyển từ ‘ứng phó’ sang ‘chủ động bảo vệ’",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/bao-hiem-suc-khoe-nguoi-viet-chuyen-tu-ung-pho-sang-chu-dong-bao-ve-2531021.html",
+    "PubDate": "Tue, 30 Jun 2026 16:10:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Xu hướng gia tăng nhu cầu bảo hiểm sức khỏe cá nhân giúp các doanh nghiệp bảo hiểm niêm yết mở rộng thị phần và tăng trưởng doanh thu phí bảo hiểm trong dài hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "BVH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Là doanh nghiệp đầu ngành bảo hiểm, hưởng lợi trực tiếp từ xu hướng tăng trưởng nhu cầu bảo hiểm sức khỏe."
+      },
+      {
+        "Ticker": "BMI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mảng bảo hiểm phi nhân thọ bao gồm bảo hiểm sức khỏe là động lực tăng trưởng quan trọng của doanh nghiệp."
+      },
+      {
+        "Ticker": "BIC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ việc mở rộng danh mục sản phẩm bảo hiểm sức khỏe cá nhân."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:44:55"
+  },
+  {
+    "Title": "Vietbank ký kết hợp tác UEF, tài trợ phòng thực hành mô phỏng nghiệp vụ ngân hàng",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//vietbank-ky-ket-hop-tac-uef-tai-tro-phong-thuc-hanh-mo-phong-nghiep-vu-ngan-hang.html",
+    "PubDate": "Wed, 17 Jun 2026 02:52:29 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động hợp tác đào tạo và trách nhiệm xã hội (CSR) thông thường của doanh nghiệp, không tác động trực tiếp đến kết quả kinh doanh, biên lợi nhuận hay vị thế tài chính của ngân hàng trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 17:44:46"
+  },
+  {
+    "Title": "SeABank hoàn tất tăng vốn điều lệ lên 34.288 tỷ đồng",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//seabank-hoan-tat-tang-von-dieu-le-len-34288-ty-dong.html",
+    "PubDate": "Wed, 17 Jun 2026 05:34:16 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc tăng vốn điều lệ giúp SeABank cải thiện hệ số an toàn vốn (CAR), tăng dư địa cho vay và mở rộng quy mô hoạt động, từ đó củng cố năng lực tài chính dài hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn giúp ngân hàng nâng cao năng lực tài chính, cải thiện chỉ số an toàn hoạt động và tạo dư địa tăng trưởng tín dụng trong tương lai."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:44:32"
+  },
+  {
+    "Title": "Đề xuất nới tỷ lệ vốn ngắn hạn cho vay trung, dài hạn lên 40%",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//de-xuat-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-len-40.html",
+    "PubDate": "Wed, 17 Jun 2026 10:18:59 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc nới lỏng tỷ lệ vốn ngắn hạn cho vay trung và dài hạn giúp các ngân hàng thương mại có thêm dư địa để đẩy mạnh tín dụng, đặc biệt là các khoản vay trung và dài hạn cho các dự án hạ tầng và bất động sản, từ đó thúc đẩy tăng trưởng kinh tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng có nguồn vốn dồi dào, việc nới tỷ lệ giúp tối ưu hóa danh mục cho vay trung dài hạn với biên lợi nhuận tốt hơn."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tỷ trọng cho vay bất động sản và doanh nghiệp lớn cao, hưởng lợi trực tiếp từ việc nới lỏng dư địa tín dụng trung dài hạn."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Có dư địa tăng trưởng tín dụng mạnh, việc nới tỷ lệ giúp ngân hàng linh hoạt hơn trong việc giải ngân các dự án lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:44:17"
+  },
+  {
+    "Title": "Giải ngân chưa đến 40% vốn huy động, DIC Corp vẫn đối mặt áp lực lợi nhuận và giải chấp",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//giai-ngan-chua-den-40-von-huy-dong-dic-corp-van-doi-mat-ap-luc-loi-nhuan-va-giai-chap.html",
+    "PubDate": "Wed, 17 Jun 2026 04:31:16 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Việc chậm trễ giải ngân vốn huy động cùng kết quả kinh doanh thua lỗ và áp lực giải chấp cổ phiếu của cổ đông lớn tạo tâm lý tiêu cực cho nhà đầu tư, gây áp lực giảm giá lên cổ phiếu DIG và có thể ảnh hưởng đến tâm lý nhóm ngành bất động sản.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DIG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực giải chấp cổ phiếu của cổ đông lớn và kết quả kinh doanh thua lỗ trực tiếp gây áp lực giảm giá mạnh lên cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:44:02"
+  },
+  {
+    "Title": "Kế hoạch mới của Bộ Tài chính sau khi thị trường chứng khoán được nâng hạng",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//ke-hoach-moi-cua-bo-tai-chinh-sau-khi-thi-truong-chung-khoan-duoc-nang-hang.html",
+    "PubDate": "Wed, 17 Jun 2026 08:31:31 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc nâng hạng thị trường và các bước đi tiếp theo nhằm chuẩn hóa tiêu chuẩn quốc tế sẽ thu hút mạnh mẽ dòng vốn ngoại (ETF, quỹ đầu tư), tăng thanh khoản và định giá lại mặt bằng cổ phiếu trên sàn HOSE.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ sự gia tăng thanh khoản thị trường và nhu cầu dịch vụ tài chính, môi giới từ khối ngoại."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn, thuộc danh mục ưu tiên của các quỹ ngoại khi thị trường được nâng hạng."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu ngân hàng đầu ngành, là điểm đến chính của dòng vốn ngoại nhờ nền tảng tài chính vững mạnh."
+      },
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu tăng trưởng bền vững, thường xuyên được khối ngoại săn đón và nắm giữ tỷ trọng cao."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:43:47"
+  },
+  {
+    "Title": "Cổ phiếu VSC bất ngờ tăng trần, kết quả kinh doanh hé lộ bức tranh trái chiều",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//co-phieu-vsc-bat-ngo-tang-tran-ket-qua-nh-doanh-he-lo-buc-tranh-trai-chieu.html",
+    "PubDate": "Wed, 17 Jun 2026 08:32:32 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc cổ phiếu VSC tăng trần phản ánh tâm lý tích cực của nhà đầu tư đối với triển vọng kinh doanh của doanh nghiệp sau giai đoạn điều chỉnh, dù kết quả kinh doanh vẫn còn những yếu tố trái chiều cần theo dõi.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VSC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá cổ phiếu tăng trần thể hiện lực cầu mạnh và kỳ vọng của thị trường vào sự phục hồi của Viconship."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:43:32"
+  },
+  {
+    "Title": "DNSE hoàn tất chuẩn bị cho phiên giao dịch đầu tiên của thị trường carbon",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/dnse-hoan-tat-chuan-bi-cho-phien-giao-dich-dau-tien-cua-thi-truong-carbon-5090578.html",
+    "PubDate": "Mon, 29 Jun 2026 08:00:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc vận hành thị trường carbon tạo ra cơ hội kinh doanh mới cho các công ty chứng khoán trong việc cung cấp dịch vụ môi giới và tư vấn tài chính xanh, đồng thời thúc đẩy các doanh nghiệp sản xuất chuyển đổi sang mô hình bền vững.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp sở hữu danh mục năng lượng tái tạo lớn, có tiềm năng tạo ra và giao dịch tín chỉ carbon."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:43:16"
+  },
+  {
+    "Title": "VPBank huy động thành công khoản vay quốc tế 1,44 tỷ USD",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vpbank-huy-dong-thanh-cong-khoan-vay-quoc-te-1-44-ty-usd-5091722.html",
+    "PubDate": "Tue, 30 Jun 2026 16:30:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc huy động thành công khoản vay quốc tế lớn giúp VPBank củng cố nguồn vốn trung và dài hạn, cải thiện thanh khoản và tạo dư địa cho tăng trưởng tín dụng trong thời gian tới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nguồn vốn ngoại giá rẻ giúp ngân hàng tối ưu hóa chi phí vốn (COF) và mở rộng quy mô cho vay, củng cố bảng cân đối kế toán."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 17:43:01"
+  },
+  {
     "Title": "Vietnam Grows at Fastest Pace Since at Least 2013 on Exports - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUdPcmZHUXlnQThhdGpLajFzSkhsak5hdk52NzlJUlVULUZtb2ZTanFGaWE5ZUxITjBnZElUQm90Tl85Qnl2RmhkSkZFTnczTXNVbzktMFZoTDNVWHdmaVJwN1pVN015a09zQ3JGNlRLMWNuVWlnUlIyS2lGMkhMcWk0cEE5Z2tiY202NTZaS1NVWHh0RHNlYXJwZDJ1UktRWU9ad25TRGc5RGRtLTJNd0R4MA?oc=5",
