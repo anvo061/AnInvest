@@ -68,10 +68,10 @@
                 <span class="material-symbols-outlined text-primary text-3xl font-bold">add_chart</span>
                 <h1 class="text-xl font-bold text-primary tracking-tight">AnInvest</h1>
             </div>
-            <div class="hidden lg:flex items-center gap-6 text-xs font-semibold font-mono-tabular">
-                <span class="text-primary border-b-2 border-primary pb-1 flex items-center gap-1.5"><span class="ws-status-dot offline" id="wsStatusDot"></span>VN-Index: <span class="ticker-price" data-ticker="VNINDEX">—</span> (<span class="ticker-change" data-ticker="VNINDEX">—</span>)</span>
-                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">HNX: <span class="ticker-price" data-ticker="HNXINDEX">—</span> (<span class="ticker-change" data-ticker="HNXINDEX">—</span>)</span>
-                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">UPCoM: <span class="ticker-price" data-ticker="UPCOMINDEX">—</span> (<span class="ticker-change" data-ticker="UPCOMINDEX">—</span>)</span>
+            <div class="hidden lg:flex items-center gap-8 text-[14px] font-bold font-mono-tabular">
+                <span class="text-primary border-b-2 border-primary pb-1 flex items-center gap-2"><span class="ws-status-dot offline" id="wsStatusDot"></span>VN-Index: <span class="ticker-price text-[15px]" data-ticker="VNINDEX">—</span> (<span class="ticker-change text-[13px]" data-ticker="VNINDEX">—</span>)</span>
+                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer flex items-center gap-1">HNX: <span class="ticker-price text-[15px] text-zinc-300" data-ticker="HNXINDEX">—</span> (<span class="ticker-change text-[13px]" data-ticker="HNXINDEX">—</span>)</span>
+                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer flex items-center gap-1">UPCoM: <span class="ticker-price text-[15px] text-zinc-300" data-ticker="UPCOMINDEX">—</span> (<span class="ticker-change text-[13px]" data-ticker="UPCOMINDEX">—</span>)</span>
             </div>
         </div>
         <div class="flex items-center gap-4">
@@ -208,62 +208,28 @@
         
         <!-- Tab 1: News Feed -->
         <div id="newsTabContent">
-            <!-- Analytics Overview Cards Grid -->
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
-                <!-- Market Sentiment Gauge -->
-                <div class="glass-panel p-5 rounded-xl flex flex-col justify-between h-40">
-                    <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Tâm lý thị trường</h3>
-                    <div class="flex items-baseline justify-between mt-2">
-                        <span id="sentimentScore" class="text-4xl font-extrabold text-primary">+0.0</span>
-                        <span id="sentimentLabel" class="text-xs font-bold px-2 py-0.5 rounded bg-primary/10 text-primary">Trung lập</span>
-                    </div>
-                    <div class="w-full mt-3">
-                        <div class="h-2 w-full bg-surface-container rounded-full overflow-hidden">
-                            <div id="gaugeFill" class="h-full bg-primary rounded-full transition-all duration-500" style="width: 50%"></div>
-                        </div>
-                        <div class="flex justify-between text-[9px] text-outline mt-1 font-semibold">
-                            <span>Tiêu cực (-10)</span>
-                            <span>Trung lập</span>
-                            <span>Tích cực (+10)</span>
-                        </div>
-                    </div>
+            <!-- News Statistics Summary Bar -->
+            <div class="glass-panel p-4 rounded-xl mb-6 flex flex-col md:flex-row justify-between items-center gap-4">
+                <div class="flex items-center gap-3">
+                    <span class="material-symbols-outlined text-primary text-xl">query_stats</span>
+                    <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Thống kê tin tức thị trường</h3>
                 </div>
-
-                <!-- Statistics Card -->
-                <div class="glass-panel p-5 rounded-xl flex flex-col justify-between h-40">
-                    <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Thống kê tin tức</h3>
-                    <div class="grid grid-cols-4 gap-2 text-center mt-2">
-                        <div class="bg-surface-container/50 p-2 rounded border border-outline-variant/10">
-                            <span id="statTotal" class="block text-lg font-bold text-on-surface">0</span>
-                            <span class="text-[8px] font-semibold text-on-surface-variant uppercase tracking-wider">Tổng</span>
-                        </div>
-                        <div class="bg-primary/5 p-2 rounded border border-primary/10">
-                            <span id="statPositive" class="block text-lg font-bold text-primary">0</span>
-                            <span class="text-[8px] font-semibold text-primary uppercase tracking-wider">Tích cực</span>
-                        </div>
-                        <div class="bg-error/5 p-2 rounded border border-error/10">
-                            <span id="statNegative" class="block text-lg font-bold text-error">0</span>
-                            <span class="text-[8px] font-semibold text-error uppercase tracking-wider">Tiêu cực</span>
-                        </div>
-                        <div class="bg-surface-container/50 p-2 rounded border border-outline-variant/10">
-                            <span id="statNeutral" class="block text-lg font-bold text-outline">0</span>
-                            <span class="text-[8px] font-semibold text-outline uppercase tracking-wider">T.Lập</span>
-                        </div>
+                <div class="flex items-center gap-3 flex-wrap w-full md:w-auto font-mono-tabular">
+                    <div class="flex items-center gap-2 bg-surface-container/50 border border-outline-variant/10 px-3 py-1.5 rounded-lg min-w-[90px] justify-center">
+                        <span class="text-[9px] font-bold text-on-surface-variant uppercase tracking-wider">Tổng:</span>
+                        <span id="statTotal" class="text-sm font-bold text-on-surface">0</span>
                     </div>
-                </div>
-
-                <!-- Sentiment Distribution Doughnut Chart -->
-                <div class="glass-panel p-5 rounded-xl flex items-center justify-between h-40">
-                    <div class="flex flex-col justify-between h-full py-1">
-                        <h3 class="text-xs font-bold text-on-surface-variant uppercase tracking-wider">Phân phối tâm lý</h3>
-                        <div class="space-y-1 text-[10px] font-bold mt-2">
-                            <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-primary"></span> Tích cực</div>
-                            <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-error"></span> Tiêu cực</div>
-                            <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded-full bg-outline"></span> Trung lập</div>
-                        </div>
+                    <div class="flex items-center gap-2 bg-primary/5 border border-primary/10 px-3 py-1.5 rounded-lg min-w-[100px] justify-center">
+                        <span class="text-[9px] font-bold text-primary uppercase tracking-wider">Tích cực:</span>
+                        <span id="statPositive" class="text-sm font-bold text-primary">0</span>
                     </div>
-                    <div class="w-24 h-24 relative flex-shrink-0">
-                        <canvas id="sentimentChart"></canvas>
+                    <div class="flex items-center gap-2 bg-error/5 border border-error/10 px-3 py-1.5 rounded-lg min-w-[100px] justify-center">
+                        <span class="text-[9px] font-bold text-error uppercase tracking-wider">Tiêu cực:</span>
+                        <span id="statNegative" class="text-sm font-bold text-error">0</span>
+                    </div>
+                    <div class="flex items-center gap-2 bg-surface-container/50 border border-outline-variant/10 px-3 py-1.5 rounded-lg min-w-[100px] justify-center">
+                        <span class="text-[9px] font-bold text-outline uppercase tracking-wider">Trung lập:</span>
+                        <span id="statNeutral" class="text-sm font-bold text-outline">0</span>
                     </div>
                 </div>
             </div>
@@ -307,18 +273,7 @@
                 </div>
 
                 <!-- Right Column: Sidebar Panels (col-span-4) -->
-                <div class="lg:col-span-4 space-y-6">
-                    <!-- Market Insight AI Card -->
-                    <div class="bg-primary-container/10 border border-primary/20 rounded-xl p-5">
-                        <div class="flex items-center gap-2 mb-2">
-                            <span class="material-symbols-outlined text-primary text-sm">info</span>
-                            <span class="text-xs font-bold text-primary uppercase">Market Insight</span>
-                        </div>
-                        <p id="marketInsightText" class="text-xs text-on-surface-variant leading-relaxed font-medium">
-                            Đang tổng hợp dữ liệu tin tức để phân tích xu hướng...
-                        </p>
-                    </div>
-
+                <div class="lg:col-span-4">
                     <!-- Dynamic Ticker Watchlist Card -->
                     <section class="glass-panel rounded-xl overflow-hidden flex flex-col">
                         <div class="p-3 border-b border-outline-variant flex justify-between items-center bg-surface-container-high">
@@ -331,7 +286,7 @@
                                 <span id="watchlistCount" class="bg-primary/20 text-primary text-[10px] font-bold px-2 py-0.5 rounded-full">0 mã</span>
                             </div>
                         </div>
-                        <div id="tickerWatchlist" class="p-2 overflow-y-auto custom-scrollbar max-h-[420px] space-y-1">
+                        <div id="tickerWatchlist" class="p-2 overflow-y-auto custom-scrollbar max-h-[640px] space-y-1">
                             <div class="watchlist-placeholder text-xs text-on-surface-variant italic p-3 text-center">Chưa có mã bị ảnh hưởng...</div>
                         </div>
                     </section>

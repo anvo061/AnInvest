@@ -214,87 +214,6 @@ function calculateStats() {
   document.getElementById('statPositive').innerText = positive;
   document.getElementById('statNegative').innerText = negative;
   document.getElementById('statNeutral').innerText = neutral;
-
-  // Tính điểm tâm lý trung bình (-10 đến +10)
-  const avgScore = total > 0 ? (totalImpactScore / total) : 0.0;
-  const scoreElement = document.getElementById('sentimentScore');
-  scoreElement.innerText = (avgScore > 0 ? '+' : '') + avgScore.toFixed(1);
-
-  // Cập nhật nhãn và màu sắc tâm lý thị trường
-  const labelElement = document.getElementById('sentimentLabel');
-  
-  if (avgScore >= 1.5) {
-    labelElement.innerText = 'Tích cực';
-    labelElement.className = 'text-xs font-bold px-2 py-0.5 rounded bg-primary/10 text-primary border border-primary/20';
-    scoreElement.className = 'text-4xl font-extrabold text-primary';
-  } else if (avgScore <= -1.5) {
-    labelElement.innerText = 'Tiêu cực';
-    labelElement.className = 'text-xs font-bold px-2 py-0.5 rounded bg-error/10 text-error border border-error/20';
-    scoreElement.className = 'text-4xl font-extrabold text-error';
-  } else {
-    labelElement.innerText = 'Trung lập';
-    labelElement.className = 'text-xs font-bold px-2 py-0.5 rounded bg-outline/10 text-outline border border-outline/20';
-    scoreElement.className = 'text-4xl font-extrabold text-outline';
-  }
-
-  // Cập nhật Gauge bar fill (chuyển đổi từ khoảng -10 -> 10 sang 0% -> 100%)
-  const percentage = ((avgScore + 10) / 20) * 100;
-  const gaugeFill = document.getElementById('gaugeFill');
-  gaugeFill.style.width = `${percentage}%`;
-  
-  if (avgScore >= 1.5) {
-    gaugeFill.className = 'h-full bg-primary rounded-full transition-all duration-500';
-  } else if (avgScore <= -1.5) {
-    gaugeFill.className = 'h-full bg-error rounded-full transition-all duration-500';
-  } else {
-    gaugeFill.className = 'h-full bg-outline rounded-full transition-all duration-500';
-  }
-
-  // Vẽ biểu đồ tâm lý
-  renderChart(positive, negative, neutral);
-}
-
-// Vẽ biểu đồ tròn bằng Chart.js
-function renderChart(pos, neg, neu) {
-  const ctx = document.getElementById('sentimentChart').getContext('2d');
-  
-  if (sentimentChartInstance) {
-    sentimentChartInstance.destroy();
-  }
-
-  if (pos === 0 && neg === 0 && neu === 0) return;
-
-  sentimentChartInstance = new Chart(ctx, {
-    type: 'doughnut',
-    data: {
-      labels: ['Tích cực', 'Tiêu cực', 'Trung lập'],
-      datasets: [{
-        data: [pos, neg, neu],
-        backgroundColor: ['#4edea3', '#ffb2b7', '#86948a'],
-        borderWidth: 0,
-        hoverOffset: 4
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      plugins: {
-        legend: {
-          display: false
-        },
-        tooltip: {
-          enabled: true,
-          backgroundColor: '#171f33',
-          titleColor: '#ffffff',
-          bodyColor: '#dae2fd',
-          borderColor: '#3c4a42',
-          borderWidth: 1,
-          padding: 8
-        }
-      },
-      cutout: '75%'
-    }
-  });
 }
 
 // Tạo danh sách Watchlist các mã cổ phiếu ở Sidebar
@@ -399,28 +318,24 @@ function renderWatchlist() {
     const y3 = 25 + Math.sin(seed + 2) * 6;
     const y4 = isUp ? 6 : 34;
 
-    const rsiVal = (42 + Math.abs(seed % 35)).toFixed(1);
-    const rsiColor = rsiVal > 70 ? 'text-fuchsia-400' : (rsiVal < 30 ? 'text-cyan-400' : (netScore > 0 ? 'text-emerald-400' : (netScore < 0 ? 'text-rose-500' : 'text-zinc-400')));
-    const macdVal = (netScore * 0.18).toFixed(2);
-    
     itemEl.innerHTML = `
       <div class="flex-1 min-w-0">
         <div class="flex items-baseline gap-2">
-          <span class="font-bold text-zinc-100 text-[12px] font-mono-tabular" data-ticker="${t.symbol}">${t.symbol}</span>
-          <span class="text-[9.5px] text-zinc-500 font-mono">${t.count} tin</span>
+          <span class="font-bold text-zinc-100 text-[14px] font-mono-tabular" data-ticker="${t.symbol}">${t.symbol}</span>
+          <span class="text-[10px] text-zinc-500 font-mono">${t.count} tin</span>
         </div>
-        <div class="flex gap-3 text-[9.5px] font-mono-tabular mt-0.5">
-          <span class="ticker-price text-zinc-400" data-ticker="${t.symbol}">—</span>
-          <span class="ticker-change text-zinc-500" data-ticker="${t.symbol}">—</span>
+        <div class="flex gap-3 text-[12px] font-mono-tabular mt-1">
+          <span class="ticker-price text-zinc-300 font-semibold" data-ticker="${t.symbol}">—</span>
+          <span class="ticker-change text-zinc-400 font-medium" data-ticker="${t.symbol}">—</span>
         </div>
       </div>
-      <div class="w-10 h-5 mx-2 flex-shrink-0 opacity-60">
+      <div class="w-12 h-6 mx-2 flex-shrink-0 opacity-70">
         <svg class="w-full h-full" viewBox="0 0 100 40">
           <path class="${pathClass}" d="M0,${y1} L33,${y2} L66,${y3} L100,${y4}"></path>
         </svg>
       </div>
       <div class="text-right flex-shrink-0">
-        <span class="${badgeClass} px-1.5 py-0.5 rounded text-[9px] font-mono-tabular font-bold">${badgeText}</span>
+        <span class="${badgeClass} px-2 py-0.5 rounded text-[10.5px] font-mono-tabular font-bold">${badgeText}</span>
       </div>
     `;
 
@@ -1300,6 +1215,7 @@ function getTickerColorClass(changePct, ticker) {
   return 'text-amber-400';                                    // Tham chiếu
 }
 
+
 /**
  * Thu thập toàn bộ mã cổ phiếu đang hiển thị trên màn hình.
  * @returns {Set<string>} Danh sách mã duy nhất
@@ -1452,7 +1368,9 @@ function handlePriceData(eventName, payload) {
     
     // Cập nhật DOM
     if (price > 0) {
-      updateTickerDOM(ticker, { price: price / 1000, change, changePct }); // TCBS giá x1000
+      const isIndex = ticker.includes('INDEX') || ticker === 'VNINDEX' || ticker === 'HNXINDEX' || ticker === 'UPCOMINDEX';
+      const finalPrice = isIndex ? price : price / 1000; // TCBS giá cổ phiếu x1000, giá chỉ số giữ nguyên
+      updateTickerDOM(ticker, { price: finalPrice, change, changePct });
     }
   });
 }
@@ -1518,6 +1436,7 @@ function initPriceWebSocket() {
   
   priceWsReady = false;
   updateWsStatusUI(false);
+  
   
   console.log('[WS] Đang kết nối đến TCBS WebSocket...');
   
