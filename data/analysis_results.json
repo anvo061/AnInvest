@@ -1,5 +1,47 @@
 ﻿[
   {
+    "Title": "Sếp công ty bất động sản làm cổ đông lớn tại nhiều doanh nghiệp",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/sep-cong-ty-bat-dong-san-lam-co-dong-lon-tai-nhieu-doanh-nghiep-5091731.html",
+    "PubDate": "Wed, 01 Jul 2026 00:03:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về cơ cấu cổ đông cá nhân và quản trị doanh nghiệp mang tính chất thông tin hành chính, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Thông tin về sở hữu cá nhân không làm thay đổi dòng tiền hay triển vọng kinh doanh. Không có tác động đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-01 01:26:54"
+  },
+  {
+    "Title": "Áp lực giữ điện than vì an ninh năng lượng của châu Á",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ap-luc-giu-dien-than-vi-an-ninh-nang-luong-cua-chau-a-5091723.html",
+    "PubDate": "Wed, 01 Jul 2026 00:10:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc duy trì điện than đảm bảo an ninh năng lượng giúp các doanh nghiệp nhiệt điện duy trì sản lượng huy động cao, ổn định doanh thu trong bối cảnh nhu cầu điện tăng trưởng.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Nhiệt điện. Nhu cầu huy động điện than cao giúp POW, HND duy trì dòng tiền ổn định. Dòng tiền thông minh sẽ ưu tiên các mã có công suất phát điện lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp sở hữu các nhà máy nhiệt điện than lớn, hưởng lợi từ chính sách ưu tiên huy động điện nền."
+      },
+      {
+        "Ticker": "HND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhà máy nhiệt điện than hoạt động ổn định, hưởng lợi trực tiếp từ nhu cầu điện năng cao."
+      },
+      {
+        "Ticker": "QTP",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ việc duy trì công suất phát điện than để đảm bảo an ninh năng lượng quốc gia."
+      }
+    ],
+    "AnalyzedAt": "2026-07-01 01:25:54"
+  },
+  {
     "Title": "Vietnam 2023 economic growth slows to 5.05% as exports fall - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR25OWnZJMWRjVWE3RHFDdjktc00xX2xGUWhKeEhqX3dSVmM3MnBjMTR4QXhXaEVGMXBxYVREcTJCV0pwd3pSZ1pFbG5kR1pzR1NfRmlCbXhfV2pUbVpEMXJFNTNUeGlfZzNWTUJFcTRzSnFFd1QzT2xZbmVxSXJDakFXcENmX1JzUUYzTWtmOGFpT0hPWjI5WA?oc=5",
