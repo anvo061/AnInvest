@@ -678,9 +678,9 @@ function Start-Scan {
             # Thêm kết quả vào đầu mảng kết quả (tin mới nhất hiển thị trên cùng)
             $Results = @($Analysis) + $Results
             
-            # Giới hạn số lượng kết quả lưu trữ tối đa (ví dụ giữ lại 200 tin mới nhất để nhẹ file JSON)
-            if ($Results.Count -gt 200) {
-                $Results = $Results[0..199]
+            # Giới hạn số lượng kết quả lưu trữ tối đa (ví dụ giữ lại 1000 tin mới nhất để lưu lịch sử tốt hơn)
+            if ($Results.Count -gt 1000) {
+                $Results = $Results[0..999]
             }
 
             # Ghi kết quả xuống file JSON
