@@ -4,63 +4,68 @@
 
 ---
 
-## 📊 TÓM TẮT TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
-*   **Tổng điểm tâm lý:** -1 (Tính toán dựa trên tổng trọng số các tin tức).
-*   **Trạng thái chung:** **Trung lập với xu hướng Thận trọng**.
-*   **Nhận định:** Thị trường đang giằng co giữa các chính sách hỗ trợ hạ tầng/tín dụng (Bất động sản, Năng lượng) và áp lực từ quản trị rủi ro (thanh khoản hệ thống ngân hàng, vi phạm công bố thông tin, siết margin). Nhà đầu tư cần đặc biệt chú ý đến sự phân hóa mạnh giữa các cổ phiếu có nền tảng tốt và các doanh nghiệp đang gặp rắc rối về pháp lý/vốn.
+## 1. TÓM TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
+
+*   **Chỉ số tâm lý thị trường:** **TRUNG LẬP HƯỚNG TIÊU CỰC**
+*   **Đánh giá:** Tổng điểm tác động của các tin tức cho thấy sự giằng co giữa kỳ vọng tăng trưởng từ FDI, đầu tư công (Thông tư 25) và áp lực bán tháo kỹ thuật trên VN-Index cùng rủi ro thanh khoản ngân hàng. Thị trường đang trong giai đoạn "bản lề", nơi dòng tiền thông minh bắt đầu phân hóa mạnh mẽ giữa các nhóm ngành hưởng lợi từ chính sách và nhóm ngành chịu áp lực chi phí vốn.
 
 ---
 
-## 🔍 BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU (SCREENING)
+## 2. BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU (SCREENING)
 
 | Tin tức | Mức độ trọng yếu | Lý do |
 | :--- | :---: | :--- |
-| **Lãi suất 6,5% cho người dưới 35 tuổi** | **CAO** | Tác động trực tiếp đến cầu BĐS và nhóm cổ phiếu liên quan. |
-| **Phát Đạt (PDR) huy động 8.800 tỷ đồng** | **CAO** | Củng cố sức khỏe tài chính cho dự án trọng điểm. |
-| **Cắt margin hàng loạt (HOSE)** | **CAO** | Ảnh hưởng trực tiếp đến thanh khoản và tâm lý bán tháo. |
-| **VDSC nhận định về Thông tư 25** | **TRUNG BÌNH** | Phản ánh giới hạn của chính sách tiền tệ. |
-| **Vi phạm trái phiếu (Palm City, PC1)** | **TRUNG BÌNH** | Rủi ro uy tín doanh nghiệp và áp lực pháp lý. |
-
-*Lưu ý: Các tin về quỹ ETF (FUESSV50, FUEVN100) và nhân sự VIX được xếp vào nhóm nhiễu/hành chính, không đưa vào danh mục phân tích chuyên sâu.*
+| **Thông tư 25 (1 triệu tỷ đồng)** | **CAO** | Tác động trực tiếp đến dòng vốn toàn nền kinh tế, hỗ trợ hạ tầng & sản xuất. |
+| **Tăng trưởng tín dụng nóng** | **CAO** | Rủi ro hệ thống, ảnh hưởng trực tiếp đến NIM ngân hàng. |
+| **VXB (Vốn âm, kiểm toán từ chối)** | **CAO** | Rủi ro hủy niêm yết, cảnh báo nhà đầu tư về quản trị rủi ro. |
+| **FDI vào Tây Ninh** | **TRUNG BÌNH** | Động lực tăng trưởng dài hạn cho BĐS khu công nghiệp. |
+| **Giá dầu thế giới biến động** | **TRUNG BÌNH** | Tác động phân hóa mạnh giữa doanh nghiệp thượng nguồn và hạ nguồn. |
+| *Tin quảng cáo (MBS, LPB, ETFs)* | *THẤP* | Mang tính nghiệp vụ hoặc PR, không làm thay đổi giá trị nội tại. |
 
 ---
 
-## 🏗️ BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH
+## 3. BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH
 
-### 1. Ngành Bất động sản (BĐS)
-*   **Bản chất:** Thị trường đón nhận thông tin trái chiều. Một mặt, chính sách lãi suất 6,5% cho người trẻ hỗ trợ thanh khoản phân khúc căn hộ. Mặt khác, các rủi ro về sử dụng vốn trái phiếu (Palm City) vẫn treo lơ lửng.
-*   **Phân tích:** 
-    *   **PDR:** Việc huy động thành công 8.800 tỷ đồng cho dự án Thủ Thiêm là "điểm sáng" giúp doanh nghiệp vượt qua giai đoạn khó khăn về vốn.
-    *   **VHM, NLG:** Hưởng lợi trực tiếp từ chính sách lãi suất ưu đãi, kỳ vọng cải thiện dòng tiền bán hàng trong H2/2026.
-*   **Dự báo:** Phân hóa mạnh giữa doanh nghiệp có quỹ đất sạch/dự án khả thi và doanh nghiệp có rủi ro pháp lý trái phiếu cao.
+### 🏦 NGÀNH NGÂN HÀNG: "Căng thẳng thanh khoản và áp lực NIM"
+*   **Bản chất:** Các ngân hàng Big4 đối mặt tình trạng tăng trưởng tín dụng "nóng" trong khi huy động vốn không theo kịp.
+*   **Tác động:** Áp lực buộc các nhà băng phải tăng lãi suất huy động để bù đắp thanh khoản, làm thu hẹp Biên lãi thuần (NIM).
+*   **Các mã bị tác động:** BID, CTG, MBB, TCB, VCB.
 
-### 2. Ngành Ngân hàng
-*   **Bản chất:** VDSC nhận định Thông tư 25 chưa giải quyết triệt để nút thắt thanh khoản và LDR (tỷ lệ cho vay/huy động).
-*   **Tác động:**
-    *   **TCB, VPB:** Chịu áp lực tiêu cực khi tỷ lệ LDR cao hạn chế dư địa tăng trưởng tín dụng.
-    *   **VCB:** Vị thế phòng thủ tốt, ít bị ảnh hưởng bởi áp lực thanh khoản hệ thống.
-*   **Bảng đối chiếu áp lực ngân hàng:**
+| Mã | Tác động dự kiến | Yếu tố chính |
+| :--- | :---: | :--- |
+| **BID, CTG, MBB, TCB** | Tiêu cực | Áp lực chi phí vốn đầu vào, giảm biên lợi nhuận. |
+| **VCB** | Trung lập/Tích cực | Hưởng lợi từ Thông tư 25 (dòng vốn được khơi thông), nhưng chịu áp lực bán theo chỉ số chung. |
 
-| Mã | Tỷ trọng LDR | Rủi ro thanh khoản | Triển vọng ngắn hạn |
+### 🏗️ NGÀNH BẤT ĐỘNG SẢN KHU CÔNG NGHIỆP & HẠ TẦNG
+*   **Bản chất:** Dòng vốn FDI từ EU vào Tây Ninh và Thông tư 25 "mở van" 1 triệu tỷ đồng cho hạ tầng.
+*   **Tác động:** Tạo động lực cho các doanh nghiệp có quỹ đất sạch và các nhà thầu xây dựng hạ tầng giao thông.
+*   **Các mã bị tác động:** GVR, GMD, KBC, IDC, VGC, SZC, HHV, HPG.
+
+*   **Góc nhìn chuyên gia:** Sự kết hợp giữa FDI và vốn đầu tư công giúp giảm rủi ro cho các mã BĐS khu công nghiệp trong bối cảnh thị trường chung đang điều chỉnh. **HPG** đặc biệt hưởng lợi từ nhu cầu thép dự kiến tăng trong chu kỳ giải ngân vốn mới.
+
+### 🛢️ NGÀNH NĂNG LƯỢNG & DẦU KHÍ
+*   **Bản chất:** Trung Đông tăng bán dầu gây áp lực giảm giá dầu thô toàn cầu.
+*   **Tác động:** Phân hóa lợi ích. Nhóm thượng nguồn (thăm dò, khai thác) giảm doanh thu; nhóm hạ nguồn (phân phối xăng dầu) hưởng lợi nhờ chi phí vốn hàng bán giảm.
+
+| Nhóm ngành | Mã cụ thể | Hướng tác động | Lý do |
 | :--- | :--- | :--- | :--- |
-| **VCB** | Thấp | Rất thấp | Ổn định |
-| **MBB** | Trung bình | Thấp | Trung lập |
-| **TCB** | Cao | Cao | Thận trọng |
-| **VPB** | Cao | Cao | Thận trọng |
+| **Thượng nguồn** | PVD, PVS, GAS | Tiêu cực | Giảm đơn giá dịch vụ & giá bán khí. |
+| **Hạ nguồn** | PLX | Tích cực | Giảm áp lực vốn lưu động, biên lợi nhuận ổn định. |
 
-### 3. Ngành Năng lượng & Công nghiệp
-*   **Bản chất:** Nhu cầu điện mặt trời tại Philippines bùng nổ là cơ hội cho các doanh nghiệp xuất khẩu thiết bị/xây lắp. Tuy nhiên, PC1 đang đối mặt với "vết gợn" về công bố thông tin trái phiếu.
-*   **Tác động:** Tạo ra xung lực xuất khẩu cho các đơn vị có năng lực thi công điện tái tạo, nhưng nhà đầu tư cần thận trọng với rủi ro quản trị tại các doanh nghiệp như PC1.
-
----
-
-## ⚠️ RÀNG BUỘC PHÁP LÝ & CẢNH BÁO RỦI RO
-1.  **Rủi ro Margin:** Việc HOSE cắt margin cuối tháng 6 là tín hiệu cảnh báo cần rà soát lại danh mục. Các mã nằm trong diện cắt margin thường chịu áp lực điều chỉnh kỹ thuật từ 3-5% trong phiên ngay sau đó.
-2.  **Rủi ro pháp lý:** Nhà đầu tư cần đặc biệt lưu ý đến các doanh nghiệp có dư nợ trái phiếu lớn hoặc đang bị giám sát về mục đích sử dụng vốn (như trường hợp đã nêu của Palm City và PC1).
-3.  **Khuyến nghị:** 
-    *   Ưu tiên các mã có dòng tiền từ dự án thực (PDR).
-    *   Tránh các mã nằm trong diện cắt Margin của HOSE trong ngắn hạn để hạn chế rủi ro bán giải chấp (Force sell).
-    *   Theo dõi sát các ngân hàng có LDR ở ngưỡng an toàn trong bối cảnh thanh khoản hệ thống chưa thực sự bứt phá.
+### 📊 NHÓM CHỨNG KHOÁN & CỔ PHIẾU CÁ NHÂN
+*   **Tác động thị trường:** Việc VN-Index lao dốc khiến các công ty chứng khoán (SSI, VND) đối mặt với sụt giảm doanh thu môi giới và lãi vay margin.
+*   **Đặc biệt lưu ý (Rủi ro):** **VXB** (Vật liệu xây dựng Bến Tre) là trường hợp cực kỳ nguy hiểm. Nhà đầu tư cần tránh xa các cổ phiếu bị kiểm toán từ chối đưa ý kiến và vốn chủ sở hữu âm để tránh rủi ro mất trắng nếu hủy niêm yết.
+*   **Tín hiệu lãnh đạo:** Việc lãnh đạo HAG (Bầu Đức) gom thêm cổ phiếu là điểm sáng hiếm hoi, giúp trấn an cổ đông trung thành.
 
 ---
-*Disclaimer: Báo cáo này dựa trên thông tin tổng hợp tại thời điểm 30/06/2026. Đây là tài liệu tham khảo, nhà đầu tư tự chịu trách nhiệm với các quyết định giao dịch của mình.*
+
+## 4. DỰ BÁO VÀ KHUYẾN NGHỊ
+
+1.  **Dự báo:** Thị trường sẽ tiếp tục giằng co trong biên độ hẹp. Nhóm cổ phiếu hạ tầng (HPG, HHV) và KCN (KBC, IDC) sẽ là các "trú ẩn" an toàn khi có dòng vốn Chính phủ bảo trợ.
+2.  **Khuyến nghị:**
+    *   **Đối với Ngân hàng:** Thận trọng với các mã có tỷ lệ tăng trưởng tín dụng quá nóng so với huy động.
+    *   **Đối với rủi ro:** Tuyệt đối tránh các cổ phiếu có vấn đề về minh bạch tài chính (như trường hợp VXB).
+    *   **Chiến lược:** Tập trung vào các doanh nghiệp hưởng lợi từ FDI và giải ngân đầu tư công. Việc lãnh đạo mua vào (HAG) là tín hiệu "đáy kỹ thuật" có thể xem xét nếu kết quả kinh doanh quý tới khả quan.
+
+***
+*Khuyến cáo: Báo cáo này dựa trên thông tin tổng hợp. Nhà đầu tư cần tự cân nhắc rủi ro trước khi đưa ra quyết định giao dịch.*
