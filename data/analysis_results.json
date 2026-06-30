@@ -1,5 +1,63 @@
 ﻿[
   {
+    "Title": "Chính phủ tiếp tục giảm thuế xăng, dầu về 0 đến hết tháng 9",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chinh-phu-tiep-tuc-giam-thue-xang-dau-ve-0-den-het-thang-9-5091822.html",
+    "PubDate": "Tue, 30 Jun 2026 21:55:13 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc duy trì thuế xăng dầu ở mức thấp giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời kiềm chế lạm phát chi phí đẩy.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành Vận tải, Logistics. Chi phí nhiên liệu thấp cải thiện biên lợi nhuận gộp. Dòng tiền sẽ tập trung vào các mã có chi phí vận hành lớn như GMD, HAH.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí vận hành đội xe và thiết bị cảng, cải thiện biên lợi nhuận."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, thuế thấp giúp tối ưu lợi nhuận."
+      },
+      {
+        "Ticker": "VTP",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí vận chuyển, hỗ trợ biên lợi nhuận mảng chuyển phát."
+      }
+    ],
+    "AnalyzedAt": "2026-07-01 05:57:59"
+  },
+  {
+    "Title": "Giá xăng tăng, dầu giữ nguyên",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-30-6-5091842.html",
+    "PubDate": "Tue, 30 Jun 2026 23:42:43 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Giá xăng tăng làm tăng chi phí vận tải và logistics, gây áp lực lên biên lợi nhuận của các doanh nghiệp vận tải và sản xuất tiêu dùng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Vận tải & Logistics. Chi phí đầu vào tăng gây áp lực biên lợi nhuận. Dòng tiền sẽ thận trọng với các mã vận tải có chi phí xăng dầu chiếm tỷ trọng lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vận hành đội xe và logistics tăng, ảnh hưởng trực tiếp đến biên lợi nhuận gộp."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá nhiên liệu tăng làm tăng chi phí vận hành tàu và vận tải đường bộ, gây áp lực lên lợi nhuận quý."
+      },
+      {
+        "Ticker": "VTP",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí xăng dầu là cấu phần chi phí lớn trong hoạt động chuyển phát, giá xăng tăng làm giảm biên lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-07-01 05:56:59"
+  },
+  {
     "Title": "Sếp công ty bất động sản làm cổ đông lớn tại nhiều doanh nghiệp",
     "Source": "VnExpress Kinh Doanh",
     "Link": "https://vnexpress.net/sep-cong-ty-bat-dong-san-lam-co-dong-lon-tai-nhieu-doanh-nghiep-5091731.html",
