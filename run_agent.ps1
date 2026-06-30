@@ -365,7 +365,7 @@ Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản):
             
             # Parse JSON từ AI
             $Analysis = $RawText | ConvertFrom-Json
-            $Analysis | Add-Member -MemberType NoteProperty -Name "AnalyzedAt" -Value (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+            $Analysis | Add-Member -MemberType NoteProperty -Name "AnalyzedAt" -Value ([System.DateTime]::UtcNow.AddHours(7).ToString("yyyy-MM-dd HH:mm:ss"))
             $Success = $true
         } catch {
             $RetryCount++
