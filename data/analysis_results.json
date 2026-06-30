@@ -1,5 +1,236 @@
 ﻿[
   {
+    "Title": "Vietnam 2023 economic growth slows to 5.05% as exports fall - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR25OWnZJMWRjVWE3RHFDdjktc00xX2xGUWhKeEhqX3dSVmM3MnBjMTR4QXhXaEVGMXBxYVREcTJCV0pwd3pSZ1pFbG5kR1pzR1NfRmlCbXhfV2pUbVpEMXJFNTNUeGlfZzNWTUJFcTRzSnFFd1QzT2xZbmVxSXJDakFXcENmX1JzUUYzTWtmOGFpT0hPWjI5WA?oc=5",
+    "PubDate": "Thu, 28 Dec 2023 08:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Tăng trưởng GDP thấp hơn kỳ vọng phản ánh sức cầu yếu từ thị trường xuất khẩu, gây áp lực lên nhóm sản xuất và logistics trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu/Logistics. Tăng trưởng chậm phản ánh cầu yếu, dòng tiền sẽ thận trọng với các mã xuất khẩu và cảng biển cho đến khi có tín hiệu phục hồi đơn hàng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Xuất khẩu suy giảm trực tiếp ảnh hưởng đến doanh thu và biên lợi nhuận của doanh nghiệp thủy sản."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhu cầu tiêu dùng tại các thị trường xuất khẩu chính yếu làm giảm đơn hàng dệt may."
+      },
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sản lượng hàng hóa xuất nhập khẩu giảm gây áp lực lên lưu lượng hàng qua cảng."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tăng trưởng kinh tế chậm làm giảm nhu cầu tiêu thụ thép nội địa và xuất khẩu."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 21:06:09"
+  },
+  {
+    "Title": "BMW Asia Says Vietnam Is a Top Growth Market as Economy Expands - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG9reWY0U2pRd1htZ0dvZjMwQVhSYWNwbjhvMW5ScDhNOEFqNU1nWThhWkt2QkEzelVGYmxCaUZsYi1RSFZrcllKRm4yWmw3SXVDMGNzMzI4cTVSZnJlRDdDSTFNcWllRW05NU1KRDVnZ1RtTjRZOHBoc0Zpai1yd0gxdXU4SjdCZk9uVzNPOWp2WkVrZm53Ny1LRUwyQUQyTXcwcjV4VmFvdjZEVW0tbTJPeDU?oc=5",
+    "PubDate": "Thu, 16 Jun 2016 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc các tập đoàn đa quốc gia như BMW đánh giá cao tiềm năng tăng trưởng của Việt Nam củng cố niềm tin vào môi trường đầu tư, gián tiếp hỗ trợ nhóm bất động sản khu công nghiệp và hạ tầng.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm BĐS Khu công nghiệp. Dòng vốn FDI kỳ vọng tăng trưởng mạnh, củng cố vị thế các doanh nghiệp sở hữu quỹ đất lớn. Dòng tiền thông minh sẽ chú ý nhóm KBC, SZC.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ làn sóng FDI và nhu cầu thuê đất khu công nghiệp tăng cao khi kinh tế mở rộng."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Quỹ đất sẵn sàng cho thuê lớn, hưởng lợi trực tiếp từ dòng vốn đầu tư nước ngoài vào Việt Nam."
+      },
+      {
+        "Ticker": "GVR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu quỹ đất khu công nghiệp lớn, hưởng lợi từ xu hướng dịch chuyển sản xuất vào Việt Nam."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 21:02:16"
+  },
+  {
+    "Title": "ANT: Quyết định thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3hTaURjV0NaYVRrQ2NzSzRqZHktNGVxQk95b0prb08yZXEwckVHclZCa0N6ZWdfalN3YVhxazl1ckZ3RFpiZnRiUmdpajdtaUNCRTZkYjdMMHhaSEJFT2F6QVdTMExiU1dXSzBrSlNiQkRhLUhmNENXZTBkd0Z5UFpldlFnblJXbV9VUEU1V3M5N3NMSU1UcmtOSEVHc1NIRVE?oc=5",
+    "PubDate": "Tue, 30 Jun 2026 10:56:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - ANT. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay giá trị nội tại doanh nghiệp. Không có tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 21:01:50"
+  },
+  {
+    "Title": "FUEABVND: Thông báo thay đổi giá trị tài sản ròng ngày 29/06/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY29TTk9KM2FNY3RBZlVkcXdYWG5QeDFpamZibVZ6ZVdmN2twOW1kTi1yTUxUcFk5SE5uMjlOYU9lQ05qZ3VxOXdIdE9oV28xd0szNlE2UmJvTnNGX0VzUzk5LTVBS18wN2dhN3RKbnBIRXBxbUFZWnlHWGJMTVpUM04zTUc1bzRYdVRabElQV0tERzRlQTB4M3ExRWktZ2pBT0Y2aUVrdmF1SmtFeGlhNzByZkVTalh3THdjNGFoOHlabS05Rmc?oc=5",
+    "PubDate": "Tue, 30 Jun 2026 10:47:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược đầu tư của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 21:01:39"
+  },
+  {
+    "Title": "FUEDCMID: Thông báo thay đổi giá trị tài sản ròng ngày 28/06/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDlCdkh5REhIZjN4R3U0RTdyVEJ3dERMaDM4T09ERDI5azB5UTVhcFNWRHVoX0xKLU95SmZON21uRE5Hcy1xVnQ2TEdtRHJneU5GQ0RDTFJ3Y2k4YzhVdzAydVZLVFJiQUVxZTloYk5LVW9zdjd3ZkRWZ0F2amtDZ3ZGZG1QMFR6UVJsTlE5RTNSQ25WcmdHSk52ME4xdXZ6bFlTVm1qTHF3LTR3RXd1YmdTOHV6MDVJZ0d6a2hVdjRyYkZRS2c?oc=5",
+    "PubDate": "Tue, 30 Jun 2026 10:48:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh sự thay đổi trong hoạt động kinh doanh hay xu hướng thị trường chung.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Thông tin NAV định kỳ là nghiệp vụ hành chính, không tác động đến dòng tiền đầu cơ hay xu hướng thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 21:01:11"
+  },
+  {
+    "Title": "Việt Nam chính thức vận hành hệ thống truy xuất nguồn gốc nông sản",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/viet-nam-chinh-thuc-van-hanh-he-thong-truy-xuat-nguon-goc-nong-san-100260630000556177.htm",
+    "PubDate": "6/30/2026 6:31:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc chuẩn hóa truy xuất nguồn gốc giúp nông sản Việt tăng uy tín, dễ dàng thâm nhập các thị trường khó tính như EU, Mỹ, hỗ trợ tăng trưởng xuất khẩu dài hạn cho các doanh nghiệp nông nghiệp quy mô lớn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Nông nghiệp & Thủy sản. Hệ thống truy xuất giúp nâng cao giá trị xuất khẩu, tạo lợi thế cạnh tranh cho các doanh nghiệp đầu ngành có quy trình khép kín. Dòng tiền sẽ chú ý nhóm xuất khẩu.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nâng cao uy tín sản phẩm thủy sản tại thị trường quốc tế, hỗ trợ biên lợi nhuận xuất khẩu."
+      },
+      {
+        "Ticker": "PAN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp nông nghiệp có chuỗi giá trị khép kín, hưởng lợi từ việc chuẩn hóa nguồn gốc nông sản."
+      },
+      {
+        "Ticker": "LTG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hệ thống truy xuất giúp củng cố thương hiệu gạo và nông sản xuất khẩu của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 20:58:27"
+  },
+  {
+    "Title": "Hơn 56 triệu cổ phiếu HCM được sang tay chỉ sau hai phiên",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/hon-56-trieu-co-phieu-hcm-duoc-sang-tay-chi-sau-hai-phien-100260630200318991.htm",
+    "PubDate": "6/30/2026 8:15:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Khối lượng giao dịch đột biến cho thấy sự chuyển dịch sở hữu lớn hoặc tái cơ cấu danh mục của các tổ chức, tạo thanh khoản cao và thu hút sự chú ý của dòng tiền đầu cơ vào cổ phiếu chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Khối lượng đột biến 56 triệu cổ phiếu HCM phản ánh sự chuyển dịch sở hữu lớn. Cần quan sát vùng giá cân bằng sau áp lực bán/mua để xác định xu hướng dòng tiền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HCM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Khối lượng giao dịch lớn cho thấy sự thay đổi vị thế của dòng tiền thông minh, hỗ trợ xu hướng giá ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 20:58:12"
+  },
+  {
+    "Title": "Lương 30 triệu đồng/tháng, tiết kiệm gần 7 năm vẫn chưa dám vay mua nhà",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/luong-30-trieu-dong-thang-tiet-kiem-gan-7-nam-van-chua-dam-vay-mua-nha-2530124.html",
+    "PubDate": "Sun, 28 Jun 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết phản ánh tâm lý tiêu dùng và khó khăn tài chính cá nhân, không phải thông tin thay đổi chính sách hay kết quả kinh doanh của doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là bài viết phản ánh tâm lý xã hội, không có dữ liệu tài chính hay thay đổi chính sách ảnh hưởng đến dòng tiền doanh nghiệp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 20:58:02"
+  },
+  {
+    "Title": "Eo biển Hormuz thông tuyến, giá dầu lao dốc: 40 triệu thùng dầu chờ 'xả'",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/eo-bien-hormuz-thong-tuyen-gia-dau-lao-doc-40-trieu-thung-dau-cho-xa-2530154.html",
+    "PubDate": "Sun, 28 Jun 2026 05:30:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Việc thông tuyến Hormuz làm tăng nguồn cung dầu toàn cầu, gây áp lực giảm giá dầu thô, ảnh hưởng trực tiếp đến biên lợi nhuận của các doanh nghiệp thượng nguồn và hạ nguồn dầu khí.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Giá dầu giảm mạnh gây áp lực biên lợi nhuận lọc dầu và rủi ro trích lập tồn kho. Dòng tiền có xu hướng rút khỏi nhóm năng lượng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu giảm làm giảm nhu cầu thuê giàn khoan và áp lực lên đơn giá dịch vụ khoan."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu thấp làm giảm động lực đầu tư các dự án thăm dò khai thác mới, ảnh hưởng backlog mảng dịch vụ kỹ thuật."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu giảm nhanh gây rủi ro trích lập dự phòng hàng tồn kho và giảm biên lợi nhuận lọc dầu."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá bán khí thường neo theo giá dầu thế giới, giá dầu giảm trực tiếp làm giảm doanh thu và lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 20:57:47"
+  },
+  {
+    "Title": "Ông Trump dọa áp thuế nhập khẩu 100% với nhiều nước",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ong-trump-doa-ap-thue-nhap-khau-100-voi-nhieu-nuoc-5090428.html",
+    "PubDate": "Sat, 27 Jun 2026 07:21:43 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Chính sách bảo hộ thương mại cực đoan đe dọa trực tiếp đến kim ngạch xuất khẩu của Việt Nam sang Mỹ, gây áp lực lên các doanh nghiệp sản xuất và logistics.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Rủi ro thuế quan gây áp lực lên biên lợi nhuận nhóm xuất khẩu. Dòng tiền có xu hướng rút khỏi các mã phụ thuộc thị trường Mỹ. Ưu tiên quản trị rủi ro, hạ tỷ trọng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu trọng điểm, rủi ro thuế quan cao đe dọa trực tiếp doanh thu."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngành dệt may chịu rủi ro lớn từ các hàng rào thuế quan mới của Mỹ."
+      },
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sản lượng hàng hóa xuất khẩu giảm sẽ ảnh hưởng trực tiếp đến lưu lượng qua cảng."
+      },
+      {
+        "Ticker": "MSH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực thuế quan làm giảm khả năng cạnh tranh của hàng may mặc Việt Nam tại thị trường Mỹ."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 20:57:12"
+  },
+  {
     "Title": "Vietnam maintains 2026 GDP target despite trade deficit, inflation pressure - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNEhWeFdoYl9XVlUyVjQxWE5UQ0xFbnZiajlyNG5ibzRQQmtCcHVCcnV5c3BDcHMtRUVTeUlKVkxuY1RtTFdPdlRndnN1eDlVdlpmbmE4dFgtZ1lKU2VkSVYwTXM3ZVNwQU5ITURUaW1Xd0tXTEpiR3ljakdFVTZUTl9WX2NadEhYSVVlcktxN3BsUjdmemxNVlE2andFbmJWSXBfclVVWDRSbnMwaUZnWDllQ3NDckthMTYyZHJjZE52MHpNODZaTg?oc=5",
