@@ -68,10 +68,10 @@
                 <span class="material-symbols-outlined text-primary text-3xl font-bold">add_chart</span>
                 <h1 class="text-xl font-bold text-primary tracking-tight">AnInvest</h1>
             </div>
-            <div class="hidden lg:flex items-center gap-6 text-xs font-semibold">
-                <span class="text-primary border-b-2 border-primary pb-1">VN-Index: 1,284.12 (+0.45%)</span>
-                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">HNX-Index: 242.31 (-0.12%)</span>
-                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">UPCoM: 92.15 (+0.08%)</span>
+            <div class="hidden lg:flex items-center gap-6 text-xs font-semibold font-mono-tabular">
+                <span class="text-primary border-b-2 border-primary pb-1 flex items-center gap-1.5"><span class="ws-status-dot offline" id="wsStatusDot"></span>VN-Index: <span class="ticker-price" data-ticker="VNINDEX">—</span> (<span class="ticker-change" data-ticker="VNINDEX">—</span>)</span>
+                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">HNX: <span class="ticker-price" data-ticker="HNXINDEX">—</span> (<span class="ticker-change" data-ticker="HNXINDEX">—</span>)</span>
+                <span class="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">UPCoM: <span class="ticker-price" data-ticker="UPCOMINDEX">—</span> (<span class="ticker-change" data-ticker="UPCOMINDEX">—</span>)</span>
             </div>
         </div>
         <div class="flex items-center gap-4">
@@ -326,7 +326,10 @@
                                 <button id="watchlistTabAuto" class="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider rounded-md bg-primary/10 text-primary transition-all">Tâm điểm</button>
                                 <button id="watchlistTabCustom" class="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider rounded-md text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all">Theo dõi</button>
                             </div>
-                            <span id="watchlistCount" class="bg-primary/20 text-primary text-[10px] font-bold px-2 py-0.5 rounded-full">0 mã</span>
+                            <div class="flex items-center gap-2">
+                                <span id="wsStatusLabel" class="text-[9px] font-bold text-zinc-500 uppercase tracking-wider">Offline</span>
+                                <span id="watchlistCount" class="bg-primary/20 text-primary text-[10px] font-bold px-2 py-0.5 rounded-full">0 mã</span>
+                            </div>
                         </div>
                         <div id="tickerWatchlist" class="p-2 overflow-y-auto custom-scrollbar max-h-[420px] space-y-1">
                             <div class="watchlist-placeholder text-xs text-on-surface-variant italic p-3 text-center">Chưa có mã bị ảnh hưởng...</div>

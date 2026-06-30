@@ -103,6 +103,43 @@ body {
     animation: flash-red 0.2s ease-in-out forwards;
 }
 
+/* WebSocket disconnected state - grayscale + dim */
+.ws-disconnected {
+    opacity: 0.5;
+    filter: grayscale(0.6);
+    transition: all 0.3s ease-in-out;
+}
+
+/* 2-line text truncation for news titles */
+.truncate-2-lines {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* WebSocket status indicator */
+.ws-status-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+.ws-status-dot.live {
+    background-color: #10b981;
+    box-shadow: 0 0 4px rgba(16, 185, 129, 0.6);
+    animation: pulse-dot 2s infinite;
+}
+.ws-status-dot.offline {
+    background-color: #f43f5e;
+    box-shadow: 0 0 4px rgba(244, 63, 94, 0.4);
+}
+@keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+
 /* Markdown report styling override */
 .markdown-body {
     line-height: 1.6;

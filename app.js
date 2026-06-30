@@ -17,10 +17,11 @@ let watchlistMode = 'auto'; // 'auto' hoặc 'custom'
 // Khởi chạy khi trang tải xong
 document.addEventListener('DOMContentLoaded', async () => {
   initEventListeners();
-  await loadSectors(); // Tải cấu hình phân loại ngành từ sectors.json
-  initSettingsModal(); // Khởi tạo modal cấu hình
+  await loadSectors();
+  initSettingsModal();
   loadData();
   startCountdown();
+  initPriceWebSocket(); // Khởi tạo WebSocket giá thời gian thực
 });
 
 // Thiết lập các bộ lắng nghe sự kiện
@@ -405,12 +406,12 @@ function renderWatchlist() {
     itemEl.innerHTML = `
       <div class="flex-1 min-w-0">
         <div class="flex items-baseline gap-2">
-          <span class="font-bold text-zinc-100 text-[12px] font-mono-tabular">${t.symbol}</span>
+          <span class="font-bold text-zinc-100 text-[12px] font-mono-tabular" data-ticker="${t.symbol}">${t.symbol}</span>
           <span class="text-[9.5px] text-zinc-500 font-mono">${t.count} tin</span>
         </div>
-        <div class="flex gap-2 text-[9.5px] font-mono-tabular mt-0.5">
-          <span class="text-zinc-500">RSI(14): <span class="${rsiColor}">${rsiVal}</span></span>
-          <span class="text-zinc-500">MACD: <span class="${netScore >= 0 ? 'text-emerald-400' : 'text-rose-500'}">${netScore >= 0 ? '+' : ''}${macdVal}</span></span>
+        <div class="flex gap-3 text-[9.5px] font-mono-tabular mt-0.5">
+          <span class="ticker-price text-zinc-400" data-ticker="${t.symbol}">—</span>
+          <span class="ticker-change text-zinc-500" data-ticker="${t.symbol}">—</span>
         </div>
       </div>
       <div class="w-10 h-5 mx-2 flex-shrink-0 opacity-60">
@@ -582,6 +583,7 @@ function filterAndRender() {
   });
 
   renderNewsFeed();
+  syncTickerSubscriptions(); // Đồng bộ WebSocket subscriptions sau mỗi lần render
 }
 
 // Kết xuất News Feed danh sách tin tức phân tích
@@ -647,7 +649,8 @@ function renderNewsFeed() {
 
         return `
           <div class="ticker-pill bg-zinc-900 hover:bg-zinc-800 text-zinc-300 border border-zinc-800 rounded-md px-2 py-0.5 text-[10px] font-bold flex items-center gap-1.5 cursor-pointer transition-colors" onclick="event.stopPropagation(); filterByTicker('${t.Ticker.toUpperCase().trim()}')">
-            <span class="font-mono">${t.Ticker.toUpperCase()}</span>
+            <span class="font-mono" data-ticker="${t.Ticker.toUpperCase().trim()}">${t.Ticker.toUpperCase()}</span>
+            <span class="ticker-price font-mono-tabular text-[9px] text-zinc-400" data-ticker="${t.Ticker.toUpperCase().trim()}"></span>
             <span class="${trendColor} text-[8.5px]">${trendIcon}</span>
           </div>
         `;
@@ -1230,4 +1233,401 @@ function checkKeywordsForSector(text, sector) {
       break;
   }
   return keywords.some(k => includesWholeWord(text, k));
+}
+
+// ======================== WEBSOCKET GIÁ CỔ PHIẾU THỜI GIAN THỰC ========================
+
+// --- Biến trạng thái WebSocket ---
+let priceWs = null;
+let priceWsReady = false;
+let currentSubscribedTickers = new Set();
+let priceCache = {}; // { TICKER: { price, change, changePct, refPrice, ceilPrice, floorPrice } }
+let reconnectAttempt = 0;
+let wsLogCount = 0;
+let wsPingInterval = null;
+let wsReconnectTimer = null;
+
+// --- Exchange mapping cho biên độ trần/sàn ---
+const EXCHANGE_LIMITS = {
+  HOSE: { ceil: 6.8, floor: -6.8 },
+  HNX:  { ceil: 9.8, floor: -9.8 },
+  UPCOM: { ceil: 14.8, floor: -14.8 }
+};
+
+// Các mã thuộc HNX (danh sách chính)
+const HNX_TICKERS = new Set([
+  'CEO','SHS','PVS','PVC','TNG','PVI','SHB','NVB','DTD','LAS','BCC',
+  'HUT','IDC','L14','MBS','NBC','NTP','PGS','PSD','PVB','SDT','SLS',
+  'TIG','VC3','VCS','VGS','VIT','TAR','BVS','HLD','KLF','LHC','NDN',
+  'NRC','S99','SCG','SD5','SD9','SDA','SDC','SDE','SDG','SDN','SDP',
+  'SHS','SMT','SRA','SSV','TDN','THD','TTB','TV2','VC7','VCG','VE9'
+]);
+
+// Các mã thuộc UPCoM (danh sách chính)
+const UPCOM_TICKERS = new Set([
+  'BSR','ACV','MCH','DVN','QTP','OIL','HVN','MVN','MPC','VGI','CTR',
+  'SNZ','SIP','BCM','ABB','BAB','BVB','KLB','NAB','PGB','SGB','VAB',
+  'VBB','VOC','DDV','VFS','APG','TVB','VEC','VHE','OCH','DXP','CC1'
+]);
+
+/**
+ * Xác định sàn giao dịch của một mã cổ phiếu.
+ * @param {string} ticker - Mã cổ phiếu (VD: 'VCB')
+ * @returns {'HOSE'|'HNX'|'UPCOM'} Sàn giao dịch
+ */
+function getExchange(ticker) {
+  if (HNX_TICKERS.has(ticker)) return 'HNX';
+  if (UPCOM_TICKERS.has(ticker)) return 'UPCOM';
+  return 'HOSE'; // Mặc định HOSE
+}
+
+/**
+ * Lấy class màu CSS theo phần trăm thay đổi và biên độ sàn.
+ * @param {number} changePct - % thay đổi (VD: 2.5, -1.3, 0)
+ * @param {string} ticker - Mã cổ phiếu
+ * @returns {string} Tailwind CSS class
+ */
+function getTickerColorClass(changePct, ticker) {
+  if (changePct == null || isNaN(changePct)) return 'text-zinc-400';
+  
+  const exchange = getExchange(ticker);
+  const limits = EXCHANGE_LIMITS[exchange];
+  
+  if (changePct >= limits.ceil) return 'text-fuchsia-500';   // Trần
+  if (changePct <= limits.floor) return 'text-cyan-400';     // Sàn
+  if (changePct > 0) return 'text-emerald-400';              // Tăng
+  if (changePct < 0) return 'text-rose-500';                 // Giảm
+  return 'text-amber-400';                                    // Tham chiếu
+}
+
+/**
+ * Thu thập toàn bộ mã cổ phiếu đang hiển thị trên màn hình.
+ * @returns {Set<string>} Danh sách mã duy nhất
+ */
+function getActiveTickersOnScreen() {
+  const tickers = new Set();
+  
+  // Thu thập từ watchlist sidebar
+  document.querySelectorAll('#tickerWatchlist .ticker-price[data-ticker]').forEach(el => {
+    const t = el.getAttribute('data-ticker');
+    if (t && t !== 'VNINDEX' && t !== 'HNXINDEX' && t !== 'UPCOMINDEX') {
+      tickers.add(t.toUpperCase());
+    }
+  });
+  
+  // Thu thập từ ticker pills trong tin tức
+  document.querySelectorAll('#newsFeed .ticker-pill [data-ticker]').forEach(el => {
+    const t = el.getAttribute('data-ticker');
+    if (t && t !== 'VNINDEX' && t !== 'HNXINDEX' && t !== 'UPCOMINDEX') {
+      tickers.add(t.toUpperCase());
+    }
+  });
+  
+  return tickers;
+}
+
+/**
+ * Đồng bộ danh sách subscribe/unsubscribe với WebSocket.
+ * Gọi sau mỗi lần render lại giao diện (lọc, chuyển tab, tìm kiếm).
+ */
+function syncTickerSubscriptions() {
+  if (!priceWs || !priceWsReady) return;
+  
+  const activeTickers = getActiveTickersOnScreen();
+  
+  // Tìm mã cần unsubscribe (có trong current nhưng không còn trên màn hình)
+  const toUnsub = [];
+  currentSubscribedTickers.forEach(t => {
+    if (!activeTickers.has(t)) toUnsub.push(t);
+  });
+  
+  // Tìm mã cần subscribe (trên màn hình nhưng chưa có trong current)
+  const toSub = [];
+  activeTickers.forEach(t => {
+    if (!currentSubscribedTickers.has(t)) toSub.push(t);
+  });
+  
+  // Gửi lệnh unsubscribe
+  if (toUnsub.length > 0) {
+    const unsubMsg = `42["unsubscribe","ticker:${toUnsub.join(',')}"]`;
+    priceWs.send(unsubMsg);
+    toUnsub.forEach(t => currentSubscribedTickers.delete(t));
+    console.log(`[WS] Unsubscribed: ${toUnsub.join(', ')}`);
+  }
+  
+  // Gửi lệnh subscribe
+  if (toSub.length > 0) {
+    const subMsg = `42["subscribe","ticker:${toSub.join(',')}"]`;
+    priceWs.send(subMsg);
+    toSub.forEach(t => currentSubscribedTickers.add(t));
+    console.log(`[WS] Subscribed: ${toSub.join(', ')}`);
+  }
+}
+
+/**
+ * Cập nhật giá mới cho một mã cổ phiếu lên toàn bộ DOM.
+ * Thực hiện DOM diffing để tránh cập nhật thừa.
+ * @param {string} ticker - Mã cổ phiếu
+ * @param {object} data - { price, change, changePct }
+ */
+function updateTickerDOM(ticker, data) {
+  const priceStr = data.price != null ? Number(data.price).toLocaleString('vi-VN', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : null;
+  const changePctStr = data.changePct != null ? `${data.changePct >= 0 ? '+' : ''}${data.changePct.toFixed(2)}%` : null;
+  const colorClass = getTickerColorClass(data.changePct, ticker);
+  
+  // --- Cập nhật tất cả phần tử .ticker-price[data-ticker="TICKER"] ---
+  const priceEls = document.querySelectorAll(`.ticker-price[data-ticker="${ticker}"]`);
+  priceEls.forEach(el => {
+    if (priceStr && el.textContent !== priceStr) {
+      // DOM Diffing: Chỉ cập nhật nếu giá trị thực sự thay đổi
+      const oldText = el.textContent;
+      el.textContent = priceStr;
+      
+      // Xóa tất cả class màu cũ rồi thêm class mới
+      el.className = el.className.replace(/text-(emerald|rose|amber|fuchsia|cyan|zinc)-\d+/g, '').trim();
+      el.classList.add(colorClass);
+      
+      // Flash effect - chỉ khi giá đã thay đổi thực sự (không phải lần đầu tiên từ "—")
+      if (oldText !== '—' && oldText !== '') {
+        const flashClass = data.changePct >= 0 ? 'flash-up' : 'flash-down';
+        const parentItem = el.closest('.watchlist-item') || el.closest('.ticker-pill') || el.parentElement;
+        if (parentItem) {
+          parentItem.classList.remove('flash-up', 'flash-down');
+          // Force reflow to restart animation
+          void parentItem.offsetWidth;
+          parentItem.classList.add(flashClass);
+          setTimeout(() => parentItem.classList.remove(flashClass), 250);
+        }
+      }
+    }
+  });
+  
+  // --- Cập nhật tất cả phần tử .ticker-change[data-ticker="TICKER"] ---
+  const changeEls = document.querySelectorAll(`.ticker-change[data-ticker="${ticker}"]`);
+  changeEls.forEach(el => {
+    if (changePctStr && el.textContent !== changePctStr) {
+      el.textContent = changePctStr;
+      el.className = el.className.replace(/text-(emerald|rose|amber|fuchsia|cyan|zinc)-\d+/g, '').trim();
+      el.classList.add(colorClass);
+    }
+  });
+}
+
+/**
+ * Xử lý dữ liệu giá nhận được từ WebSocket.
+ * @param {string} eventName - Tên sự kiện Socket.IO
+ * @param {object} payload - Dữ liệu JSON
+ */
+function handlePriceData(eventName, payload) {
+  // Log 3 gói tin đầu tiên để debug tên thuộc tính thực tế của TCBS
+  if (wsLogCount < 3) {
+    console.log(`[WS] Gói tin #${wsLogCount + 1}:`, eventName, JSON.stringify(payload).substring(0, 500));
+    wsLogCount++;
+  }
+  
+  // Kiểm tra dữ liệu hợp lệ
+  if (!payload || typeof payload !== 'object') return;
+  
+  // TCBS thường gửi dữ liệu dạng object hoặc array
+  // Các field phổ biến: sym/s (symbol), cp/close (close price), 
+  // pcp/pctChange (percent change), c/ch (change),
+  // ref (ref price), ceil (ceil price), floor (floor price)
+  
+  const entries = Array.isArray(payload) ? payload : [payload];
+  
+  entries.forEach(item => {
+    // Thử nhiều tên field khác nhau mà TCBS có thể dùng
+    const ticker = (item.sym || item.s || item.ticker || item.symbol || '').toUpperCase().trim();
+    if (!ticker) return;
+    
+    const price = parseFloat(item.cp || item.close || item.lastPrice || item.price || item.mp || 0);
+    const change = parseFloat(item.c || item.ch || item.change || item.priceChange || 0);
+    const changePct = parseFloat(item.pcp || item.pctChange || item.changePct || item.percentChange || 0);
+    const refPrice = parseFloat(item.ref || item.refPrice || item.referencePrice || 0);
+    const ceilPrice = parseFloat(item.ceil || item.ceilPrice || 0);
+    const floorPrice = parseFloat(item.floor || item.floorPrice || 0);
+    
+    // Lưu cache
+    priceCache[ticker] = { price, change, changePct, refPrice, ceilPrice, floorPrice };
+    
+    // Cập nhật DOM
+    if (price > 0) {
+      updateTickerDOM(ticker, { price: price / 1000, change, changePct }); // TCBS giá x1000
+    }
+  });
+}
+
+/**
+ * Cập nhật UI trạng thái WebSocket (live/offline).
+ * @param {boolean} isLive - true nếu kết nối sống
+ */
+function updateWsStatusUI(isLive) {
+  const dot = document.getElementById('wsStatusDot');
+  const label = document.getElementById('wsStatusLabel');
+  
+  if (dot) {
+    dot.classList.remove('live', 'offline');
+    dot.classList.add(isLive ? 'live' : 'offline');
+  }
+  if (label) {
+    label.textContent = isLive ? '⚡ Live' : 'Offline';
+    label.className = `text-[9px] font-bold uppercase tracking-wider ${isLive ? 'text-emerald-400' : 'text-zinc-500'}`;
+  }
+  
+  // Toggle ws-disconnected class trên tất cả phần tử giá
+  const priceEls = document.querySelectorAll('.ticker-price, .ticker-change');
+  priceEls.forEach(el => {
+    if (isLive) {
+      el.classList.remove('ws-disconnected');
+    } else {
+      el.classList.add('ws-disconnected');
+    }
+  });
+}
+
+/**
+ * Lên lịch kết nối lại với Exponential Backoff.
+ */
+function scheduleReconnect() {
+  if (wsReconnectTimer) clearTimeout(wsReconnectTimer);
+  
+  const delay = Math.min(1000 * Math.pow(2, reconnectAttempt), 30000);
+  reconnectAttempt++;
+  
+  console.log(`[WS] Kết nối lại sau ${delay / 1000}s (lần thử #${reconnectAttempt})...`);
+  
+  wsReconnectTimer = setTimeout(() => {
+    initPriceWebSocket();
+  }, delay);
+}
+
+/**
+ * Khởi tạo WebSocket kết nối đến TCBS.
+ * Giao thức: Engine.IO v3 + Socket.IO
+ */
+function initPriceWebSocket() {
+  // Dọn dẹp kết nối cũ nếu có
+  if (priceWs) {
+    try { priceWs.close(); } catch(e) {}
+    priceWs = null;
+  }
+  if (wsPingInterval) {
+    clearInterval(wsPingInterval);
+    wsPingInterval = null;
+  }
+  
+  priceWsReady = false;
+  updateWsStatusUI(false);
+  
+  console.log('[WS] Đang kết nối đến TCBS WebSocket...');
+  
+  try {
+    priceWs = new WebSocket('wss://dchart-api.tcbs.com.vn/socket.io/?EIO=3&transport=websocket');
+  } catch (e) {
+    console.error('[WS] Lỗi tạo WebSocket:', e);
+    scheduleReconnect();
+    return;
+  }
+  
+  priceWs.onopen = function() {
+    console.log('[WS] WebSocket opened - đang chờ gói handshake...');
+    // Không làm gì ở đây — chờ server gửi gói '0' trước
+  };
+  
+  priceWs.onmessage = function(event) {
+    const msg = event.data;
+    if (typeof msg !== 'string' || msg.length === 0) return;
+    
+    const prefix = msg.charAt(0);
+    
+    // --- Gói mở đầu Engine.IO (type 0 = open) ---
+    if (prefix === '0') {
+      try {
+        const handshake = JSON.parse(msg.substring(1));
+        console.log('[WS] Nhận handshake:', handshake);
+        // Gửi Socket.IO CONNECT
+        priceWs.send('40');
+        console.log('[WS] Đã gửi gói kết nối Socket.IO (40)');
+      } catch (e) {
+        console.warn('[WS] Lỗi parse handshake:', e);
+        priceWs.send('40');
+      }
+      return;
+    }
+    
+    // --- Gói Socket.IO CONNECT thành công (type 4, subtype 0) ---
+    if (msg === '40' || msg.startsWith('40')) {
+      priceWsReady = true;
+      reconnectAttempt = 0; // Reset backoff khi kết nối thành công
+      wsLogCount = 0; // Reset log counter
+      
+      console.log('[WS] ✅ Kết nối Socket.IO thành công! Bắt đầu nhận giá thời gian thực.');
+      updateWsStatusUI(true);
+      
+      // Thiết lập heartbeat ping mỗi 25 giây
+      if (wsPingInterval) clearInterval(wsPingInterval);
+      wsPingInterval = setInterval(() => {
+        if (priceWs && priceWs.readyState === WebSocket.OPEN) {
+          priceWs.send('2');
+        }
+      }, 25000);
+      
+      // Đăng ký các mã đang hiển thị trên màn hình
+      currentSubscribedTickers.clear();
+      syncTickerSubscriptions();
+      return;
+    }
+    
+    // --- Ping từ server (type 2) → Phản hồi Pong ---
+    if (msg === '2') {
+      priceWs.send('3');
+      return;
+    }
+    
+    // --- Pong response (type 3) → Bỏ qua ---
+    if (prefix === '3') {
+      return;
+    }
+    
+    // --- Gói dữ liệu Socket.IO EVENT (type 42) ---
+    if (msg.startsWith('42')) {
+      try {
+        const jsonStr = msg.substring(2);
+        const parsed = JSON.parse(jsonStr);
+        
+        if (Array.isArray(parsed) && parsed.length >= 2) {
+          const eventName = parsed[0];
+          const payload = parsed[1];
+          handlePriceData(eventName, payload);
+        }
+      } catch (e) {
+        console.warn('[WS] Lỗi parse gói 42:', e.message);
+      }
+      return;
+    }
+    
+    // --- Gói Socket.IO ACK hoặc ERROR (type 44) → Log cảnh báo ---
+    if (msg.startsWith('44')) {
+      console.warn('[WS] Socket.IO error packet:', msg);
+      return;
+    }
+  };
+  
+  priceWs.onclose = function(event) {
+    console.log(`[WS] WebSocket đóng kết nối (code: ${event.code}, reason: ${event.reason})`);
+    priceWsReady = false;
+    
+    if (wsPingInterval) {
+      clearInterval(wsPingInterval);
+      wsPingInterval = null;
+    }
+    
+    updateWsStatusUI(false);
+    scheduleReconnect();
+  };
+  
+  priceWs.onerror = function(error) {
+    console.error('[WS] WebSocket lỗi:', error);
+    // onclose sẽ được gọi tự động sau onerror, không cần reconnect ở đây
+  };
 }
