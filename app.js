@@ -17,6 +17,7 @@ let tickerSectorMap = {};
 document.addEventListener('DOMContentLoaded', async () => {
   initEventListeners();
   await loadSectors(); // Tải cấu hình phân loại ngành từ sectors.json
+  initSettingsModal(); // Khởi tạo modal cấu hình
   loadData();
   startCountdown();
 });
@@ -713,7 +714,7 @@ async function loadReport() {
 
 // ======================== PHÂN LOẠI NGÀNH & BẢO VỆ CHỐNG TRÙNG TỪ TIẾNG VIỆT ========================
 
-// Tải tệp sectors.json từ máy chủ và xây dựng bản đồ
+// Tải tệp sectors.json từ máy chủ hoặc localStorage và xây dựng bản đồ
 async function loadSectors() {
   // Bản đồ mặc định dự phòng nếu không tải được sectors.json (VN30 + Top tickers)
   tickerSectorMap = {
@@ -757,6 +758,20 @@ async function loadSectors() {
     "BVH": "insurance", "PVI": "insurance", "BMI": "insurance", "MIG": "insurance", "BIC": "insurance", "VNR": "insurance", "PTI": "insurance", "PRE": "insurance"
   };
 
+  // 1. Kiểm tra xem có cấu hình tùy chỉnh trong localStorage không
+  const localSectors = localStorage.getItem('custom_sectors');
+  if (localSectors) {
+    try {
+      sectorsData = JSON.parse(localSectors);
+      buildTickerSectorMap();
+      console.log("Đã tải cấu hình phân ngành từ LocalStorage của trình duyệt");
+      return;
+    } catch (e) {
+      console.warn("Lỗi đọc cấu hình từ LocalStorage, chuyển sang tải sectors.json", e);
+    }
+  }
+
+  // 2. Nếu không có trong localStorage, tải qua fetch
   try {
     const response = await fetch('sectors.json?' + new Date().getTime());
     if (response.ok) {
@@ -765,9 +780,48 @@ async function loadSectors() {
       console.log("Đã tải thành công cấu hình phân ngành từ sectors.json");
     } else {
       console.warn("Không thể tải sectors.json, sử dụng danh sách mặc định cứng");
+      buildSectorsDataFromFallback();
     }
   } catch (e) {
     console.error("Lỗi khi kết nối lấy sectors.json", e);
+    buildSectorsDataFromFallback();
+  }
+}
+
+// Phục hồi dữ liệu sectorsData từ danh sách cứng fallback nếu không load được file
+function buildSectorsDataFromFallback() {
+  const englishToVietnamese = {
+    "bank": "Ngân hàng",
+    "finance": "Chứng khoán",
+    "bds": "Bất động sản (Thương mại & Dân cư)",
+    "bds-industrial": "Bất động sản Khu công nghiệp",
+    "resources": "Thép & Vật liệu xây dựng",
+    "oil": "Dầu khí",
+    "construction": "Xây dựng & Đầu tư công",
+    "utilities": "Điện & Năng lượng",
+    "retail": "Bán lẻ & Tiêu dùng",
+    "food": "Thực phẩm & Đồ uống",
+    "fishery": "Thủy sản",
+    "textile": "Dệt may",
+    "chemicals": "Hóa chất & Phân bón",
+    "port": "Cảng biển & Vận tải",
+    "tech": "Công nghệ & Viễn thông",
+    "rubber": "Nhựa & Cao su",
+    "health": "Y tế & Dược phẩm",
+    "travel": "Hàng không & Du lịch",
+    "insurance": "Bảo hiểm"
+  };
+
+  sectorsData = {};
+  Object.values(englishToVietnamese).forEach(vnName => {
+    sectorsData[vnName] = [];
+  });
+
+  for (const [ticker, englishKey] of Object.entries(tickerSectorMap)) {
+    const vnName = Object.keys(englishToVietnamese).find(key => englishToVietnamese[key] === englishKey);
+    if (vnName) {
+      sectorsData[englishToVietnamese[englishKey]].push(ticker);
+    }
   }
 }
 
@@ -775,7 +829,6 @@ async function loadSectors() {
 function buildTickerSectorMap() {
   tickerSectorMap = {};
   
-  // Ánh xạ các tên ngành trong sectors.json sang ID data-sector trong index.html
   const sectorMappingKeys = {
     "Ngân hàng": "bank",
     "Chứng khoán": "finance",
@@ -807,6 +860,210 @@ function buildTickerSectorMap() {
       });
     }
   }
+}
+
+// Khởi chạy các sự kiện cho Modal Cài đặt
+function initSettingsModal() {
+  const settingsBtn = document.getElementById('settingsBtn');
+  const settingsModal = document.getElementById('settingsModal');
+  const closeSettingsBtn = document.getElementById('closeSettingsBtn');
+  const githubTokenInput = document.getElementById('githubTokenInput');
+  const toggleTokenVisibility = document.getElementById('toggleTokenVisibility');
+  const saveLocalBtn = document.getElementById('saveLocalBtn');
+  const saveGithubBtn = document.getElementById('saveGithubBtn');
+
+  if (!settingsBtn || !settingsModal) return;
+
+  // Hiển thị token đã lưu trước đó nếu có
+  const savedToken = localStorage.getItem('github_pat') || '';
+  githubTokenInput.value = savedToken;
+
+  // Mở modal
+  settingsBtn.addEventListener('click', () => {
+    buildSectorsFormFields();
+    settingsModal.classList.remove('hidden');
+    setTimeout(() => {
+      settingsModal.classList.remove('opacity-0');
+      settingsModal.querySelector('.glass-panel').classList.remove('scale-95');
+    }, 10);
+  });
+
+  // Đóng modal
+  const closeModal = () => {
+    settingsModal.classList.add('opacity-0');
+    settingsModal.querySelector('.glass-panel').classList.add('scale-95');
+    setTimeout(() => {
+      settingsModal.classList.add('hidden');
+    }, 300);
+  };
+
+  closeSettingsBtn.addEventListener('click', closeModal);
+  
+  settingsModal.addEventListener('click', (e) => {
+    if (e.target === settingsModal) {
+      closeModal();
+    }
+  });
+
+  // Ẩn/hiển thị token
+  toggleTokenVisibility.addEventListener('click', () => {
+    const isPassword = githubTokenInput.type === 'password';
+    githubTokenInput.type = isPassword ? 'text' : 'password';
+    toggleTokenVisibility.querySelector('span').textContent = isPassword ? 'visibility_off' : 'visibility';
+  });
+
+  // Lưu nhanh vào LocalStorage
+  saveLocalBtn.addEventListener('click', (e) => {
+    e.preventDefault();
+    const updatedSectors = getSectorsFromForm();
+    sectorsData = updatedSectors;
+    localStorage.setItem('custom_sectors', JSON.stringify(updatedSectors));
+    buildTickerSectorMap();
+    filterAndRender();
+    alert('Đã lưu cấu hình phân ngành vào bộ nhớ trình duyệt thành công!');
+    closeModal();
+  });
+
+  // Đồng bộ lên GitHub
+  saveGithubBtn.addEventListener('click', async (e) => {
+    e.preventDefault();
+    const token = githubTokenInput.value.trim();
+    if (!token) {
+      alert('Vui lòng nhập GitHub Personal Access Token (PAT) để đồng bộ!');
+      return;
+    }
+    
+    localStorage.setItem('github_pat', token);
+    const updatedSectors = getSectorsFromForm();
+    const sectorsJsonContent = JSON.stringify(updatedSectors, null, 2);
+    
+    saveGithubBtn.disabled = true;
+    saveGithubBtn.innerHTML = '<i class="fa-solid fa-spinner animate-spin"></i> Đang đồng bộ...';
+
+    try {
+      const repoOwner = "anvo061";
+      const repoName = "AnInvest";
+      const filePath = "sectors.json";
+      const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${filePath}`;
+
+      const getResponse = await fetch(apiUrl, {
+        headers: {
+          'Authorization': `token ${token}`,
+          'Accept': 'application/vnd.github.v3+json'
+        }
+      });
+
+      let sha = null;
+      if (getResponse.ok) {
+        const fileInfo = await getResponse.json();
+        sha = fileInfo.sha;
+      } else if (getResponse.status !== 404) {
+        throw new Error('Không thể lấy thông tin file từ GitHub. Hãy kiểm tra lại Token!');
+      }
+
+      // Hỗ trợ tiếng Việt Unicode khi encode base64
+      const base64Content = btoa(unescape(encodeURIComponent(sectorsJsonContent)));
+
+      const putBody = {
+        message: "Update sectors.json via Web UI",
+        content: base64Content
+      };
+      if (sha) {
+        putBody.sha = sha;
+      }
+
+      const putResponse = await fetch(apiUrl, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `token ${token}`,
+          'Content-Type': 'application/json',
+          'Accept': 'application/vnd.github.v3+json'
+        },
+        body: JSON.stringify(putBody)
+      });
+
+      if (putResponse.ok) {
+        sectorsData = updatedSectors;
+        localStorage.setItem('custom_sectors', JSON.stringify(updatedSectors));
+        buildTickerSectorMap();
+        filterAndRender();
+        
+        alert('Đồng bộ lên GitHub thành công! File sectors.json đã được cập nhật. GitHub Actions sẽ tự động kích hoạt cào tin tức mới.');
+        closeModal();
+      } else {
+        const errData = await putResponse.json();
+        throw new Error(errData.message || 'Lỗi lưu file lên GitHub');
+      }
+    } catch (err) {
+      console.error(err);
+      alert('Đồng bộ thất bại: ' + err.message);
+    } finally {
+      saveGithubBtn.disabled = false;
+      saveGithubBtn.innerHTML = '<i class="fa-brands fa-github"></i> Đồng bộ GitHub &amp; Cào Tin';
+    }
+  });
+}
+
+// Vẽ form nhập liệu 19 ngành
+function buildSectorsFormFields() {
+  const sectorsFormList = document.getElementById('sectorsFormList');
+  if (!sectorsFormList) return;
+  
+  sectorsFormList.innerHTML = '';
+  
+  const defaultSectors = [
+    "Ngân hàng",
+    "Chứng khoán",
+    "Bất động sản (Thương mại & Dân cư)",
+    "Bất động sản Khu công nghiệp",
+    "Thép & Vật liệu xây dựng",
+    "Dầu khí",
+    "Xây dựng & Đầu tư công",
+    "Điện & Năng lượng",
+    "Bán lẻ & Tiêu dùng",
+    "Thực phẩm & Đồ uống",
+    "Thủy sản",
+    "Dệt may",
+    "Hóa chất & Phân bón",
+    "Cảng biển & Vận tải",
+    "Công nghệ & Viễn thông",
+    "Nhựa & Cao su",
+    "Y tế & Dược phẩm",
+    "Hàng không & Du lịch",
+    "Bảo hiểm"
+  ];
+
+  defaultSectors.forEach(sectorName => {
+    const list = sectorsData[sectorName] || [];
+    const val = list.join(', ');
+    
+    const wrapper = document.createElement('div');
+    wrapper.className = 'space-y-1.5';
+    wrapper.innerHTML = `
+      <label class="block font-bold text-outline text-[10px] uppercase tracking-wider">${sectorName}</label>
+      <input type="text" data-sector-name="${sectorName}" class="sector-input w-full bg-surface-container border border-outline-variant rounded-lg px-3 py-1.5 outline-none focus:ring-1 focus:ring-primary focus:border-primary text-[11px] font-semibold" value="${val}" placeholder="VD: VCB, BID, CTG" />
+    `;
+    sectorsFormList.appendChild(wrapper);
+  });
+}
+
+// Thu thập dữ liệu form nhập
+function getSectorsFromForm() {
+  const inputs = document.querySelectorAll('.sector-input');
+  const result = {};
+  
+  inputs.forEach(input => {
+    const sectorName = input.getAttribute('data-sector-name');
+    const val = input.value;
+    
+    const list = val.split(',')
+      .map(item => item.toUpperCase().trim())
+      .filter(item => item.length > 0);
+      
+    result[sectorName] = list;
+  });
+  
+  return result;
 }
 
 // Kiểm tra khớp từ nguyên vẹn trong tiếng Việt (tránh các lỗi khớp từ con như "đá" trong "đánh giá", "sách" trong "chính sách")
