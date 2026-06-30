@@ -1,12 +1,18 @@
 name: Crawl and Analyze Stock News
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'data/**'
+      - 'README.md'
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *' # Quét tự động mỗi 30 phút (Tối ưu nhất cho gói miễn phí)
+  workflow_dispatch: # Cho phép bấm nút tự chạy thủ công bất cứ lúc nào bạn muốn
 
 permissions:
-  contents: write
+  contents: write # Quyền ghi để đẩy file phân tích mới lên web
 
 jobs:
   crawl-and-analyze:
@@ -21,6 +27,8 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       shell: pwsh
       run: |
+        # Chạy script PowerShell ở chế độ OneShot (quét 1 lần)
+        # Sử dụng API Key ẩn từ mục Settings Secrets của Github
         ./run_agent.ps1 -OneShot
 
     - name: Commit & Push data changes
@@ -28,4 +36,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data/
+        # Chỉ commit và push nếu có tin tức mới (dữ liệu thay đổi)
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update analysis data [skip ci]" && git push)
