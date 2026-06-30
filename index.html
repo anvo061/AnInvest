@@ -31,27 +31,28 @@
             theme: {
                 extend: {
                     "colors": {
-                        "primary": "#4edea3",
-                        "secondary": "#ffb2b7",
-                        "background": "#0b1326",
-                        "surface": "#0b1326",
-                        "surface-container": "#171f33",
-                        "surface-container-high": "#222a3d",
-                        "surface-variant": "#2d3449",
-                        "on-surface": "#dae2fd",
-                        "on-surface-variant": "#bbcabf",
-                        "outline-variant": "#3c4a42",
-                        "outline": "#86948a",
-                        "surface-dim": "#0b1326",
-                        "primary-container": "#10b981",
-                        "on-primary-container": "#00422b",
-                        "error": "#ffb4ab",
+                        "primary": "#10b981",
+                        "secondary": "#fb7185",
+                        "background": "#0a0a0a",
+                        "surface": "#121212",
+                        "surface-container": "#161618",
+                        "surface-container-low": "#0e0e10",
+                        "surface-container-high": "#1c1c1f",
+                        "surface-variant": "#27272a",
+                        "on-surface": "#f4f4f5",
+                        "on-surface-variant": "#a1a1aa",
+                        "outline-variant": "#27272a",
+                        "outline": "#71717a",
+                        "surface-dim": "#0a0a0a",
+                        "primary-container": "#064e3b",
+                        "on-primary-container": "#a7f3d0",
+                        "error": "#f43f5e",
                     },
                     "borderRadius": {
-                        "DEFAULT": "0.125rem",
-                        "lg": "0.25rem",
-                        "xl": "0.5rem",
-                        "full": "0.75rem"
+                        "DEFAULT": "4px",
+                        "lg": "6px",
+                        "xl": "8px",
+                        "full": "9999px"
                     }
                 },
             },
@@ -61,7 +62,7 @@
 <body class="bg-background text-on-surface font-sans selection:bg-primary/30 selection:text-primary min-h-screen">
 
     <!-- Top Navigation Header -->
-    <header class="bg-surface-container/80 backdrop-blur-md border-b border-outline-variant shadow-sm flex justify-between items-center w-full px-6 h-16 fixed top-0 z-50">
+    <header class="bg-surface-container border-b border-outline-variant flex justify-between items-center w-full px-6 h-14 fixed top-0 z-50">
         <div class="flex items-center gap-6">
             <div class="flex items-center gap-2">
                 <span class="material-symbols-outlined text-primary text-3xl font-bold">add_chart</span>
@@ -94,7 +95,7 @@
     </header>
 
     <!-- Sidebar Navigation -->
-    <aside class="fixed left-0 top-16 h-[calc(100vh-64px)] w-64 bg-surface-dim/90 backdrop-blur-xl border-r border-outline-variant flex flex-col py-6 overflow-y-auto hidden md:flex custom-scrollbar">
+    <aside class="fixed left-0 top-14 h-[calc(100vh-56px)] w-64 bg-background border-r border-outline-variant flex flex-col py-4 overflow-y-auto hidden md:flex custom-scrollbar">
         <nav class="flex-1 space-y-1 px-4">
             <div class="text-[10px] font-bold text-outline uppercase tracking-widest px-2 mb-2">Chức năng</div>
             <button id="navNews" class="nav-item active w-full flex items-center gap-3 rounded-lg px-4 py-2.5 text-xs font-semibold tracking-wide transition-all mb-1">
@@ -193,7 +194,7 @@
         <!-- Sidebar Footer Status -->
         <div class="px-6 pt-4 border-t border-outline-variant/30 mt-auto">
             <div class="flex items-center gap-3">
-                <span class="w-2.5 h-2.5 bg-primary rounded-full animate-pulse shadow-[0_0_10px_#4edea3]"></span>
+                <span class="w-2.5 h-2.5 bg-primary rounded-full animate-pulse shadow-[0_0_6px_rgba(16,185,129,0.5)]"></span>
                 <div class="flex flex-col">
                     <span class="text-[11px] font-bold text-on-surface">Agent hoạt động</span>
                     <span id="updateTimer" class="text-[9px] text-on-surface-variant font-medium">Làm mới sau 30s</span>
@@ -203,7 +204,7 @@
     </aside>
 
     <!-- Main Content Area -->
-    <main class="md:ml-64 pt-20 p-6 min-h-screen">
+    <main class="md:ml-64 pt-16 p-6 min-h-screen">
         
         <!-- Tab 1: News Feed -->
         <div id="newsTabContent">

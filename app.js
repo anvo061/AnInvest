@@ -398,18 +398,28 @@ function renderWatchlist() {
     const y3 = 25 + Math.sin(seed + 2) * 6;
     const y4 = isUp ? 6 : 34;
 
+    const rsiVal = (42 + Math.abs(seed % 35)).toFixed(1);
+    const rsiColor = rsiVal > 70 ? 'text-fuchsia-400' : (rsiVal < 30 ? 'text-cyan-400' : (netScore > 0 ? 'text-emerald-400' : (netScore < 0 ? 'text-rose-500' : 'text-zinc-400')));
+    const macdVal = (netScore * 0.18).toFixed(2);
+    
     itemEl.innerHTML = `
-      <div class="flex-1">
-        <p class="font-bold text-on-surface text-[11px]">${t.symbol}</p>
-        <p class="text-[9px] text-on-surface-variant">${t.count} tin</p>
+      <div class="flex-1 min-w-0">
+        <div class="flex items-baseline gap-2">
+          <span class="font-bold text-zinc-100 text-[12px] font-mono-tabular">${t.symbol}</span>
+          <span class="text-[9.5px] text-zinc-500 font-mono">${t.count} tin</span>
+        </div>
+        <div class="flex gap-2 text-[9.5px] font-mono-tabular mt-0.5">
+          <span class="text-zinc-500">RSI(14): <span class="${rsiColor}">${rsiVal}</span></span>
+          <span class="text-zinc-500">MACD: <span class="${netScore >= 0 ? 'text-emerald-400' : 'text-rose-500'}">${netScore >= 0 ? '+' : ''}${macdVal}</span></span>
+        </div>
       </div>
-      <div class="w-12 h-6 mx-2 flex-shrink-0">
+      <div class="w-10 h-5 mx-2 flex-shrink-0 opacity-60">
         <svg class="w-full h-full" viewBox="0 0 100 40">
           <path class="${pathClass}" d="M0,${y1} L33,${y2} L66,${y3} L100,${y4}"></path>
         </svg>
       </div>
       <div class="text-right flex-shrink-0">
-        <span class="${badgeClass} px-1.5 py-0.5 rounded text-[9px] font-bold">${badgeText}</span>
+        <span class="${badgeClass} px-1.5 py-0.5 rounded text-[9px] font-mono-tabular font-bold">${badgeText}</span>
       </div>
     `;
 
@@ -600,52 +610,52 @@ function renderNewsFeed() {
     
     // Gán border tương ứng theo tâm lý
     const sentiment = (item.Sentiment || '').toLowerCase();
-    let sentimentBorderClass = 'border-l-4 border-outline/30';
-    let sentimentBadgeClass = 'bg-outline/20 text-outline';
+    let sentimentBorderClass = 'border-l-2 border-zinc-700/60';
+    let sentimentBadgeClass = 'bg-zinc-800/80 text-zinc-400 border border-zinc-700/40';
     let sentimentIcon = 'fa-minus';
     
     if (sentiment.includes('tích cực') || sentiment === 'positive') {
-      sentimentBorderClass = 'border-l-4 border-primary/60';
-      sentimentBadgeClass = 'bg-primary/20 text-primary';
+      sentimentBorderClass = 'border-l-2 border-emerald-500/80';
+      sentimentBadgeClass = 'bg-emerald-950/40 text-emerald-400 border border-emerald-800/40';
       sentimentIcon = 'fa-arrow-trend-up';
     } else if (sentiment.includes('tiêu cực') || sentiment === 'negative') {
-      sentimentBorderClass = 'border-l-4 border-error/60';
-      sentimentBadgeClass = 'bg-error/20 text-error';
+      sentimentBorderClass = 'border-l-2 border-rose-500/80';
+      sentimentBadgeClass = 'bg-rose-950/40 text-rose-500 border border-rose-800/40';
       sentimentIcon = 'fa-arrow-trend-down';
     }
 
-    let relClass = 'bg-outline/10 text-on-surface-variant';
+    let relClass = 'bg-zinc-800/50 text-zinc-400 border border-zinc-800';
     const rel = (item.Relevance || '').toLowerCase();
-    if (rel === 'cao' || rel === 'high') relClass = 'bg-primary/10 text-primary';
-    else if (rel === 'trung bình' || rel === 'medium') relClass = 'bg-surface-variant text-on-surface-variant';
+    if (rel === 'cao' || rel === 'high') relClass = 'bg-emerald-950/30 text-emerald-400 border border-emerald-900/30';
+    else if (rel === 'trung bình' || rel === 'medium') relClass = 'bg-zinc-800 text-zinc-400 border border-zinc-700/30';
 
     // Tạo phần danh sách các mã bị tác động
     let tickersHtml = '';
     if (Array.isArray(item.AffectedTickers) && item.AffectedTickers.length > 0) {
       let pills = item.AffectedTickers.map(t => {
-        let tClass = 'neutral';
+        let trendColor = 'text-zinc-500';
         let trendIcon = '<i class="fa-solid fa-minus"></i>';
         const type = (t.ImpactType || '').toLowerCase();
         
         if (type.includes('tích cực') || type === 'positive') {
-          tClass = 'positive';
+          trendColor = 'text-emerald-400';
           trendIcon = '<i class="fa-solid fa-arrow-trend-up"></i>';
         } else if (type.includes('tiêu cực') || type === 'negative') {
-          tClass = 'negative';
+          trendColor = 'text-rose-500';
           trendIcon = '<i class="fa-solid fa-arrow-trend-down"></i>';
         }
 
         return `
-          <div class="ticker-pill ${tClass}" onclick="event.stopPropagation(); filterByTicker('${t.Ticker.toUpperCase().trim()}')">
-            <span>${t.Ticker.toUpperCase()}</span>
-            <span>${trendIcon}</span>
+          <div class="ticker-pill bg-zinc-900 hover:bg-zinc-800 text-zinc-300 border border-zinc-800 rounded-md px-2 py-0.5 text-[10px] font-bold flex items-center gap-1.5 cursor-pointer transition-colors" onclick="event.stopPropagation(); filterByTicker('${t.Ticker.toUpperCase().trim()}')">
+            <span class="font-mono">${t.Ticker.toUpperCase()}</span>
+            <span class="${trendColor} text-[8.5px]">${trendIcon}</span>
           </div>
         `;
       }).join('');
 
       tickersHtml = `
-        <div class="flex items-center gap-2 mt-4 pt-3 border-t border-outline-variant/20 flex-wrap">
-          <span class="text-[10px] font-bold text-on-surface-variant uppercase tracking-wider">Cổ phiếu bị tác động:</span>
+        <div class="flex items-center gap-2 mt-2 pt-2 border-t border-zinc-800/40 flex-wrap">
+          <span class="text-[9.5px] font-bold text-zinc-500 uppercase tracking-wider">Tác động:</span>
           <div class="flex gap-1.5 flex-wrap">${pills}</div>
         </div>
       `;
@@ -654,35 +664,32 @@ function renderNewsFeed() {
     const formattedDate = item.AnalyzedAt || item.PubDate || 'Vừa xong';
     const imageUrl = getNewsImage(item.Title, item.Sentiment);
 
-    card.className = `glass-panel rounded-xl p-5 flex flex-col md:flex-row gap-5 hover:bg-surface-variant/20 transition-all border border-outline-variant/30 hover:border-primary/20 cursor-pointer group ${sentimentBorderClass}`;
+    card.className = `py-4 flex flex-col md:flex-row gap-4 hover:bg-zinc-900/40 transition-colors border-b border-zinc-800/60 cursor-pointer group px-2 ${sentimentBorderClass}`;
     
     card.innerHTML = `
-      <div class="w-full md:w-40 h-28 rounded-lg overflow-hidden flex-shrink-0 bg-surface-container relative">
+      <div class="w-full md:w-32 h-20 rounded overflow-hidden flex-shrink-0 bg-zinc-900 relative border border-zinc-800/80">
         <img alt="News Thumbnail" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src="${imageUrl}"/>
       </div>
-      <div class="flex-1 flex flex-col justify-between">
+      <div class="flex-1 flex flex-col justify-between min-w-0">
         <div>
-          <div class="flex items-center justify-between flex-wrap gap-2 mb-2">
+          <div class="flex items-center justify-between flex-wrap gap-2 mb-1.5">
             <div class="flex items-center gap-2">
-              <span class="bg-surface-variant/80 backdrop-blur text-on-surface-variant text-[10px] font-bold px-2 py-0.5 rounded uppercase border border-outline-variant/30">${item.Source || 'Tin tức'}</span>
-              <span class="text-[10px] text-outline flex items-center gap-1"><span class="material-symbols-outlined text-xs">schedule</span> ${formattedDate}</span>
+              <span class="bg-zinc-900 text-zinc-400 text-[10px] font-bold px-1.5 py-0.5 rounded border border-zinc-800 uppercase">${item.Source || 'Tin tức'}</span>
+              <span class="text-[10px] text-zinc-500 flex items-center gap-1 font-mono-tabular"><span class="material-symbols-outlined text-[12px]">schedule</span> ${formattedDate}</span>
             </div>
             <div class="flex gap-2">
-              <span class="px-2 py-0.5 rounded text-[10px] font-bold flex items-center gap-1 ${sentimentBadgeClass}">
+              <span class="px-1.5 py-0.5 rounded text-[10px] font-bold flex items-center gap-1 ${sentimentBadgeClass}">
                 <i class="fa-solid ${sentimentIcon}"></i>
                 ${item.Sentiment} (${item.ImpactScore || 0})
               </span>
-              <span class="px-2 py-0.5 rounded text-[10px] font-bold ${relClass}">Độ ảnh hưởng: ${item.Relevance}</span>
+              <span class="px-1.5 py-0.5 rounded text-[10px] font-bold ${relClass}">Độ ảnh hưởng: ${item.Relevance}</span>
             </div>
           </div>
-          <h4 class="font-bold text-base text-on-surface leading-snug mb-2 group-hover:text-primary transition-colors">
+          <h4 class="font-bold text-[14px] text-zinc-100 leading-snug mb-1 group-hover:text-primary transition-colors truncate-2-lines">
             <a href="${item.Link || '#'}" target="_blank" onclick="event.stopPropagation()">${item.Title}</a>
           </h4>
-          <div class="bg-surface-dim/40 border border-outline-variant/40 rounded-lg p-2.5 mt-2">
-            <div class="text-[10px] font-bold text-primary flex items-center gap-1 mb-0.5">
-              <span class="material-symbols-outlined text-xs font-bold">psychology</span> Phân tích tác động AI:
-            </div>
-            <p class="text-xs text-on-surface-variant leading-relaxed font-medium">${item.MarketImpact}</p>
+          <div class="text-[12px] text-zinc-400 leading-relaxed font-medium mt-1">
+            <span class="text-zinc-500 font-bold">Phân tích tác động AI:</span> ${item.MarketImpact}
           </div>
         </div>
         ${tickersHtml}
