@@ -264,7 +264,7 @@ QUY TẮC PHÂN TÍCH MÃ CỔ PHIẾU BỊ ẢNH HƯỞNG:
 
 QUY TẮC CHỐNG NHIỄU (BẮT BUỘC):
 - Nếu tin tức chỉ là thông tin hành chính (thay đổi địa chỉ trụ sở, bổ nhiệm nhân sự cấp thấp), tin đồn không căn cứ, hoặc không có tác động rõ ràng đến biên lợi nhuận/doanh thu/hoạt động kinh doanh của bất kỳ doanh nghiệp nào, bạn BẮT BUỘC phải trả về mảng AffectedTickers rỗng ([]). Tuyệt đối không suy diễn gượng ép.
-- Nếu tin quốc tế không liên quan trực tiếp hoặc gián tiếp đến thị trường Việt Nam, trả AffectedTickers rỗng.
+- Nếu tin tức quốc tế chỉ liên quan đến thị trường nước ngoài / doanh nghiệp nước ngoài (như Apple, Tesla, Nvidia, Dow Jones...) mà không ảnh hưởng trực tiếp hay gián tiếp đến thị trường chứng khoán Việt Nam, bạn BẮT BUỘC đặt Relevance là 'Không liên quan' và trả AffectedTickers rỗng.
 - Giới hạn tối đa 5 mã cổ phiếu bị ảnh hưởng cho mỗi tin bài.
 
 VÍ DỤ MẪU (FEW-SHOT):
@@ -301,7 +301,7 @@ Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản):
   "Sentiment": "Tích cực" hoặc "Tiêu cực" hoặc "Trung lập",
   "ImpactScore": (số nguyên từ -10 đến 10),
   "MarketImpact": "Giải thích tác động bằng tiếng Việt.",
-  "Relevance": "Cao" hoặc "Trung bình" hoặc "Thấp",
+  "Relevance": "Cao" hoặc "Trung bình" hoặc "Thấp" hoặc "Không liên quan",
   "AffectedTickers": [
     {
       "Ticker": "MÃ_CỔ_PHIẾU",
@@ -646,6 +646,16 @@ function Start-Scan {
         $Analysis = Analyze-NewsItem -NewsItem $Item -ApiKey $ApiKey
         
         if ($Analysis -ne $null) {
+            # Bỏ qua các tin tức không liên quan (ví dụ tin thuần chứng khoán quốc tế)
+            if ($Analysis.Relevance -eq "Không liên quan" -or $Analysis.Relevance -eq "Unrelated") {
+                Write-Log "Bỏ qua tin tức thuần quốc tế: '$($Item.Title)'" "INFO"
+                # Thêm tin vào lịch sử để không phân tích lại nữa
+                $History += $Item.Link
+                $HistoryJson = ConvertTo-Json $History
+                [System.IO.File]::WriteAllText($HistoryFile, $HistoryJson, [System.Text.Encoding]::UTF8)
+                continue
+            }
+
             # Thêm kết quả vào đầu mảng kết quả (tin mới nhất hiển thị trên cùng)
             $Results = @($Analysis) + $Results
             
