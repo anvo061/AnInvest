@@ -8,7 +8,7 @@ on:
       - 'data/**'
       - 'README.md'
   schedule:
-    - cron: '*/30 * * * *' # Quét tự động mỗi 30 phút (Tối ưu nhất cho gói miễn phí)
+    - cron: '*/15 * * * *' # Quét tự động mỗi 15 phút (Tối ưu nhất cho gói miễn phí)
   workflow_dispatch: # Cho phép bấm nút tự chạy thủ công bất cứ lúc nào bạn muốn
 
 permissions:
