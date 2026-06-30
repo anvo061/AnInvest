@@ -1,65 +1,63 @@
-﻿# BÁO CÁO PHÂN TÍCH TỔNG HỢP & DỰ BÁO THỊ TRƯỜNG CHỨNG KHOÁN
-**Ngày báo cáo:** 30/06/2026
+﻿# BÁO CÁO PHÂN TÍCH TỔNG HỢP & DỰ BÁO THỊ TRƯỜNG CHỨNG KHOÁN (Ngày 30/06/2026)
 
 ---
 
 ## 1. TÓM TẮT TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
-*   **Điểm số tâm lý tổng hợp:** **Tích cực nhẹ** (Tổng điểm tác động: +4).
-*   **Trạng thái chung:** Thị trường đang trong giai đoạn phân hóa mạnh. Trong khi các tin tức vĩ mô về chính sách tín dụng và quy hoạch đô thị tạo lực đẩy tích cực cho nhóm Ngân hàng và Bất động sản, thì áp lực từ việc tái cơ cấu danh mục VN30 và các rủi ro quản trị doanh nghiệp đơn lẻ đang tạo ra "nhiễu" và rủi ro điều chỉnh cục bộ. Nhà đầu tư nên tập trung vào các doanh nghiệp có câu chuyện tăng trưởng rõ ràng thay vì các mã đầu cơ hoặc chịu áp lực bán ETF.
+*   **Tổng điểm tâm lý:** +11 (Dựa trên tổng hợp các điểm số tác động tích cực và tiêu cực từ tin tức).
+*   **Trạng thái chung:** **LẠC QUAN CÓ CHỌN LỌC.**
+*   **Nhận định:** Thị trường đang duy trì tâm lý tích cực nhờ kỳ vọng vào chu kỳ tăng trưởng mới của chứng khoán và các chính sách phát triển hạ tầng, khai khoáng. Tuy nhiên, áp lực thanh khoản từ các dự án trọng điểm đang tạo ra một vùng "gợn sóng" rủi ro cho nhóm ngân hàng và bất động sản lớn, đòi hỏi nhà đầu tư cần sự phân hóa rõ rệt trong danh mục.
 
 ---
 
 ## 2. BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU (SCREENING)
 
-| Sự kiện | Độ trọng yếu | Lý do |
-| :--- | :--- | :--- |
-| **Nới Room & Tiền gửi Kho bạc Nhà nước** | **CAO** | Ảnh hưởng trực tiếp đến NIM và thanh khoản toàn hệ thống ngân hàng. |
-| **Cơ cấu danh mục VN30 (Loại PLX, STB)** | **CAO** | Áp lực bán tháo kỹ thuật từ khối ngoại/ETF. |
-| **Quy hoạch ven sông Hồng (VHM, VCG)** | **TRUNG BÌNH** | Động lực tăng trưởng dài hạn, chưa phản ánh ngay vào kết quả kinh doanh. |
-| **Rủi ro quản trị (Louis Holdings, Đỗ Thành Nhân)** | **TRUNG BÌNH** | Gây mất niềm tin nhà đầu tư vào các mã nhỏ (NRC, DST, VKC). |
-| **Dự án Thủ Thiêm (PDR, MBB)** | **TRUNG BÌNH** | Củng cố sức khỏe tài chính doanh nghiệp. |
+| Tin tức (Sự kiện) | Mức độ trọng yếu | Lý do tác động |
+| :--- | :---: | :--- |
+| **Chu kỳ tăng trưởng mới của Chứng khoán** | **CAO** | Tác động trực tiếp đến doanh thu và thanh khoản ngành chứng khoán. |
+| **Huy động vốn 752.000 tỷ cho dự án trọng điểm** | **CAO** | Gây áp lực thanh khoản lên hệ thống Ngân hàng và doanh nghiệp BĐS. |
+| **Chủ trương khai thác khoáng sản trong nước** | **TRUNG BÌNH** | Hỗ trợ giảm chi phí đầu vào cho nhóm sản xuất, vật liệu xây dựng. |
+| **Dự báo tăng trưởng lợi nhuận Quý 2 ngành Ngân hàng** | **TRUNG BÌNH** | Định hướng dòng tiền thông minh vào các cổ phiếu "leader". |
+
+*Các tin tức loại bỏ (nhiễu/trung lập):* Thông tin điều chỉnh danh mục FUEKIVND, tin tức về lương EVN, biến động giá vàng, tình trạng xe chạy xăng E10, và các tin tức mang tính thủ tục hành chính/PR.
 
 ---
 
 ## 3. BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH
 
-### 🏦 NGÀNH NGÂN HÀNG (Tích cực)
-*   **Bản chất sự kiện:** Chính phủ chủ trương tăng tiền gửi Kho bạc Nhà nước tại các ngân hàng thương mại và tiếp tục duy trì định hướng linh hoạt room tín dụng.
-*   **Tác động vĩ mô/ngành:** Đây là động thái bơm thanh khoản trực tiếp, giúp các ngân hàng giảm chi phí vốn (Cost of Funds) và có thêm "đạn" để giải ngân, cải thiện thu nhập lãi thuần (NIM).
-*   **Tác động cổ phiếu:**
-    *   **VCB, BID, CTG:** Hưởng lợi kép từ nguồn vốn rẻ từ Kho bạc Nhà nước.
-    *   **TCB, VPB, MBB:** Hưởng lợi từ dư địa tăng trưởng tín dụng rộng mở.
-    *   **Lưu ý tiêu cực:** **STB** chịu áp lực bán do rủi ro bị loại khỏi rổ VN30, cần quan sát vùng hỗ trợ kỹ thuật mạnh.
+### 🟢 Nhóm ngành: Chứng khoán (Tác động tích cực)
+*   **Bản chất sự kiện:** Thị trường chứng khoán được đánh giá bước vào chu kỳ tăng trưởng mới nhờ cải thiện hạ tầng giao dịch và niềm tin nhà đầu tư.
+*   **Tác động:** Dòng vốn ngoại và nội sẽ gia tăng, cải thiện thanh khoản toàn sàn.
+*   **Dự báo mã cổ phiếu:**
+    *   **SSI, VND:** Hưởng lợi từ sự gia tăng thị phần môi giới và doanh thu margin.
+    *   **VCI, HCM:** Tăng trưởng nhờ nghiệp vụ tư vấn tài chính và bảo lãnh phát hành.
+    *   **SHS:** Hưởng lợi từ danh mục tự doanh trong bối cảnh VN-Index đi lên.
 
-### 🏗️ NGÀNH BẤT ĐỘNG SẢN & XÂY DỰNG (Tích cực)
-*   **Bản chất sự kiện:** Quy hoạch đô thị ven sông Hồng (Hà Nội) và dự án 8.835 tỉ đồng tại Thủ Thiêm của PDR được MBB cấp vốn.
-*   **Tác động vĩ mô/ngành:** Đẩy nhanh chu kỳ phát triển hạ tầng và bất động sản đô thị lớn. Việc tiếp cận được vốn tín dụng trong bối cảnh siết chặt là "điểm cộng" lớn cho khả năng triển khai dự án.
-*   **Tác động cổ phiếu:**
-    *   **VHM:** Quỹ đất lớn, hưởng lợi từ quy hoạch ven sông.
-    *   **VCG:** Tiềm năng trúng thầu các dự án hạ tầng công cộng.
-    *   **PDR:** Giải tỏa áp lực vốn, củng cố tiến độ dự án trọng điểm.
+### 🟡 Nhóm ngành: Ngân hàng (Tác động hỗn hợp)
+*   **Dự báo lợi nhuận Quý 2:** VPB và HDB được dự báo dẫn đầu tăng trưởng. Đây là tín hiệu "mua" kỹ thuật dựa trên nền tảng kinh doanh tích cực.
+*   **Rủi ro thanh khoản:** Áp lực từ các dự án trọng điểm (752.000 tỷ đồng) đang tạo ra áp lực lên tỷ lệ vốn ngắn hạn cho vay trung dài hạn.
+*   **Bảng đối chiếu ngành Ngân hàng:**
 
-### ⛽ NGÀNH NĂNG LƯỢNG (Tiêu cực)
-*   **Bản chất sự kiện:** **PLX** đối mặt với rủi ro cao bị loại khỏi rổ VN30 trong kỳ cơ cấu tháng 6/2026.
-*   **Tác động vĩ mô/ngành:** Việc rời rổ VN30 không chỉ là áp lực bán từ quỹ ETF mà còn là tín hiệu về sự suy giảm vị thế thanh khoản/vốn hóa của doanh nghiệp xăng dầu đầu ngành.
-*   **Tác động cổ phiếu:** **PLX** (Tiêu cực). Nhà đầu tư cần thận trọng với xu hướng giảm giá ngắn hạn do các quỹ ETF buộc phải bán theo cơ cấu chỉ số.
+| Mã cổ phiếu | Tác động | Yếu tố thúc đẩy/Rủi ro |
+| :--- | :---: | :--- |
+| **VPB, HDB** | Tích cực | Kỳ vọng tăng trưởng lợi nhuận quý 2 mạnh mẽ. |
+| **CTG** | Trung lập | Xử lý nợ xấu tốt (tài sản đảm bảo), nhưng thoái vốn Saigon Port khó khăn. |
+| **VCB, TCB** | Tiêu cực | Chịu áp lực thanh khoản và rủi ro từ các dự án lớn (BĐS). |
 
-### ⚠️ NHÓM CỔ PHIẾU CÓ RỦI RO QUẢN TRỊ (Tiêu cực)
-*   **Sự kiện:** Sự xuất hiện của ông Đỗ Thành Nhân tại 3 doanh nghiệp **NRC, DST, VKC**.
-*   **Đánh giá:** Lịch sử về các hành vi thao túng chứng khoán của nhân vật này tạo ra tiền lệ xấu. Chúng tôi khuyến nghị **Né tránh (Avoid)** các mã này để tránh rủi ro pháp lý và biến động giá không dựa trên kết quả kinh doanh.
+### 🔵 Nhóm ngành: Khai khoáng & Sản xuất (Tác động tích cực)
+*   **Bản chất sự kiện:** Chính phủ chủ động khai thác khoáng sản trong nước để giảm phụ thuộc nhập khẩu.
+*   **Tác động:** Giúp ổn định chi phí đầu vào cho sản xuất (đặc biệt là thép) và gia tăng biên lợi nhuận cho các doanh nghiệp khai khoáng.
+*   **Mã hưởng lợi:** **KSB, DHB, MSR** (Khai khoáng) và **HPG** (giảm chi phí đầu vào ngành thép).
 
----
-
-## 4. BẢNG TỔNG HỢP VỊ THẾ CỔ PHIẾU
-
-| Mã cổ phiếu | Đánh giá | Động lực chính | Rủi ro |
-| :--- | :--- | :--- | :--- |
-| **VCB, BID, CTG** | **Khả quan** | Tăng tiền gửi Kho bạc, mở rộng room tín dụng | Thị trường chung điều chỉnh |
-| **VHM, VCG** | **Khả quan** | Quy hoạch đô thị dài hạn | Tiến độ pháp lý dự án |
-| **PDR** | **Khả quan** | Nguồn vốn triển khai dự án Thủ Thiêm | Áp lực nợ vay |
-| **STB** | **Thận trọng** | Nền tảng cơ bản tốt | Áp lực bán từ ETF (VN30) |
-| **PLX** | **Tiêu cực** | Suy giảm vị thế ngành | Bị loại khỏi VN30 |
-| **NRC, DST, VKC**| **Rủi ro cao** | Đầu cơ theo đội lái | Rủi ro quản trị & pháp lý |
+### 🏠 Nhóm ngành: Bất động sản & Hạ tầng (Tác động phân hóa)
+*   **Điểm tích cực:** Quy hoạch đô thị ven sông Hồng (Hà Nội) là động lực tăng trưởng dài hạn. **VHM** và **VCG** là hai cái tên hưởng lợi trực tiếp từ quỹ đất và năng lực thi công hạ tầng.
+*   **Rủi ro:** Các doanh nghiệp BĐS có đòn bẩy tài chính cao sẽ gặp khó khăn lớn do áp lực huy động vốn từ hệ thống ngân hàng đang bị thắt chặt cho các dự án quốc gia.
 
 ---
-*Tuyên bố miễn trừ trách nhiệm: Báo cáo này chỉ mang tính chất tham khảo, không phải là lời khuyên đầu tư tài chính. Mọi quyết định mua bán là quyền tự quyết của nhà đầu tư.*
+
+## 4. DỰ BÁO TỔNG KẾT
+1.  **Chiến lược đầu tư:** Ưu tiên nhóm cổ phiếu Chứng khoán đang đón sóng thanh khoản và nhóm Ngân hàng có tăng trưởng thực (VPB, HDB).
+2.  **Quản trị rủi ro:** Thận trọng với các doanh nghiệp BĐS sử dụng nợ vay lớn trong giai đoạn thanh khoản ngân hàng căng thẳng.
+3.  **Theo dõi:** Tiếp tục quan sát chính sách điều tiết lãi suất và tiến độ giải ngân của các dự án trọng điểm để cập nhật vị thế cho các cổ phiếu Ngân hàng và BĐS.
+
+---
+*Lưu ý: Báo cáo này dựa trên thông tin tổng hợp tại thời điểm 30/06/2026. Nhà đầu tư nên kết hợp với các dữ liệu kỹ thuật cá nhân để đưa ra quyết định cuối cùng.*
