@@ -9,6 +9,11 @@
       "Region": "Vietnam"
     },
     {
+      "Name": "VnExpress Chứng Khoán",
+      "Url": "https://vnexpress.net/rss/kinh-doanh/chung-khoan.rss",
+      "Region": "Vietnam"
+    },
+    {
       "Name": "VietnamNet Kinh Doanh",
       "Url": "https://vietnamnet.vn/rss/kinh-doanh.rss",
       "Region": "Vietnam"
@@ -19,9 +24,9 @@
       "Region": "Vietnam"
     },
     {
-      "Name": "Google News Global Finance",
-      "Url": "https://news.google.com/rss/search?q=stock+market+economy+finance&hl=en-US&gl=US&ceid=US:en",
-      "Region": "Global"
+      "Name": "CafeF Chứng Khoán",
+      "Url": "https://cafef.vn/rss/chung-khoan.rss",
+      "Region": "Vietnam"
     }
   ]
 }
