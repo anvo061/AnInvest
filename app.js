@@ -12,6 +12,7 @@ let countdownTimerInterval = null;
 let sentimentChartInstance = null;
 let sectorsData = {};
 let tickerSectorMap = {};
+let watchlistMode = 'auto'; // 'auto' hoặc 'custom'
 
 // Khởi chạy khi trang tải xong
 document.addEventListener('DOMContentLoaded', async () => {
@@ -121,6 +122,29 @@ function initEventListeners() {
     });
     mobileNavReportBtn.addEventListener('click', () => {
       navReportBtn.click();
+    });
+  }
+
+  // Chuyển đổi tab Watchlist (Tâm điểm / Theo dõi)
+  const watchlistTabAuto = document.getElementById('watchlistTabAuto');
+  const watchlistTabCustom = document.getElementById('watchlistTabCustom');
+  if (watchlistTabAuto && watchlistTabCustom) {
+    watchlistTabAuto.addEventListener('click', () => {
+      watchlistTabAuto.classList.add('bg-primary/10', 'text-primary');
+      watchlistTabAuto.classList.remove('text-on-surface-variant');
+      watchlistTabCustom.classList.remove('bg-primary/10', 'text-primary');
+      watchlistTabCustom.classList.add('text-on-surface-variant');
+      watchlistMode = 'auto';
+      renderWatchlist();
+    });
+
+    watchlistTabCustom.addEventListener('click', () => {
+      watchlistTabCustom.classList.add('bg-primary/10', 'text-primary');
+      watchlistTabCustom.classList.remove('text-on-surface-variant');
+      watchlistTabAuto.classList.remove('bg-primary/10', 'text-primary');
+      watchlistTabAuto.classList.add('text-on-surface-variant');
+      watchlistMode = 'custom';
+      renderWatchlist();
     });
   }
 }
@@ -280,6 +304,19 @@ function renderWatchlist() {
   // Gom nhóm các mã cổ phiếu bị ảnh hưởng
   const tickerMap = {};
 
+  // Khởi tạo các mã trong custom watchlist nếu ở chế độ custom
+  if (watchlistMode === 'custom') {
+    const rawSaved = localStorage.getItem('custom_watchlist_tickers') || '';
+    const savedList = rawSaved.split(',').map(item => item.toUpperCase().trim()).filter(item => item.length > 0);
+    savedList.forEach(symbol => {
+      tickerMap[symbol] = {
+        symbol: symbol,
+        count: 0,
+        scoreSum: 0
+      };
+    });
+  }
+
   newsData.forEach(item => {
     if (Array.isArray(item.AffectedTickers)) {
       item.AffectedTickers.forEach(t => {
@@ -291,29 +328,46 @@ function renderWatchlist() {
         if (type.includes('tích cực') || type === 'positive') scoreChange = 1;
         else if (type.includes('tiêu cực') || type === 'negative') scoreChange = -1;
 
-        if (!tickerMap[symbol]) {
-          tickerMap[symbol] = {
-            symbol: symbol,
-            count: 0,
-            scoreSum: 0
-          };
+        if (watchlistMode === 'custom') {
+          // Chỉ gom nhóm những mã có trong danh sách tùy chỉnh
+          if (tickerMap[symbol]) {
+            tickerMap[symbol].count += 1;
+            tickerMap[symbol].scoreSum += scoreChange;
+          }
+        } else {
+          // Chế độ tự động: Thêm tất cả các mã có tin
+          if (!tickerMap[symbol]) {
+            tickerMap[symbol] = {
+              symbol: symbol,
+              count: 0,
+              scoreSum: 0
+            };
+          }
+          tickerMap[symbol].count += 1;
+          tickerMap[symbol].scoreSum += scoreChange;
         }
-        tickerMap[symbol].count += 1;
-        tickerMap[symbol].scoreSum += scoreChange;
       });
     }
   });
 
-  const tickerList = Object.values(tickerMap).sort((a, b) => b.count - a.count);
+  let tickerList = Object.values(tickerMap);
+  
+  if (watchlistMode === 'auto') {
+    // Sắp xếp theo số lượng tin giảm dần nếu ở chế độ auto
+    tickerList.sort((a, b) => b.count - a.count);
+  }
 
-  // Cập nhật số lượng cổ phiếu tâm điểm ở header watchlist
+  // Cập nhật số lượng cổ phiếu ở header watchlist
   const watchlistCountEl = document.getElementById('watchlistCount');
   if (watchlistCountEl) {
     watchlistCountEl.innerText = `${tickerList.length} mã`;
   }
 
   if (tickerList.length === 0) {
-    watchlistContainer.innerHTML = '<div class="watchlist-placeholder text-xs text-on-surface-variant italic p-3 text-center">Chưa có mã bị ảnh hưởng...</div>';
+    const placeholderText = watchlistMode === 'custom' 
+      ? 'Chưa cấu hình mã theo dõi cá nhân. Vui lòng bấm Cấu hình để thêm.'
+      : 'Chưa có mã bị ảnh hưởng...';
+    watchlistContainer.innerHTML = `<div class="watchlist-placeholder text-xs text-on-surface-variant italic p-3 text-center">${placeholderText}</div>`;
     return;
   }
 
@@ -871,6 +925,7 @@ function initSettingsModal() {
   const toggleTokenVisibility = document.getElementById('toggleTokenVisibility');
   const saveLocalBtn = document.getElementById('saveLocalBtn');
   const saveGithubBtn = document.getElementById('saveGithubBtn');
+  const watchlistTickersInput = document.getElementById('watchlistTickersInput');
 
   if (!settingsBtn || !settingsModal) return;
 
@@ -881,6 +936,13 @@ function initSettingsModal() {
   // Mở modal
   settingsBtn.addEventListener('click', () => {
     buildSectorsFormFields();
+    
+    // Hiển thị watchlist đã lưu nếu có
+    const savedWatchlist = localStorage.getItem('custom_watchlist_tickers') || '';
+    if (watchlistTickersInput) {
+      watchlistTickersInput.value = savedWatchlist;
+    }
+    
     settingsModal.classList.remove('hidden');
     setTimeout(() => {
       settingsModal.classList.remove('opacity-0');
@@ -919,8 +981,17 @@ function initSettingsModal() {
     sectorsData = updatedSectors;
     localStorage.setItem('custom_sectors', JSON.stringify(updatedSectors));
     buildTickerSectorMap();
+    
+    // Lưu watchlist cá nhân
+    if (watchlistTickersInput) {
+      const rawVal = watchlistTickersInput.value;
+      const cleanVal = rawVal.split(',').map(item => item.toUpperCase().trim()).filter(item => item.length > 0).join(', ');
+      localStorage.setItem('custom_watchlist_tickers', cleanVal);
+    }
+    
+    renderWatchlist();
     filterAndRender();
-    alert('Đã lưu cấu hình phân ngành vào bộ nhớ trình duyệt thành công!');
+    alert('Đã lưu cấu hình phân ngành và danh mục theo dõi vào trình duyệt thành công!');
     closeModal();
   });
 
@@ -936,6 +1007,13 @@ function initSettingsModal() {
     localStorage.setItem('github_pat', token);
     const updatedSectors = getSectorsFromForm();
     const sectorsJsonContent = JSON.stringify(updatedSectors, null, 2);
+    
+    // Lưu watchlist cá nhân vào trình duyệt trước
+    if (watchlistTickersInput) {
+      const rawVal = watchlistTickersInput.value;
+      const cleanVal = rawVal.split(',').map(item => item.toUpperCase().trim()).filter(item => item.length > 0).join(', ');
+      localStorage.setItem('custom_watchlist_tickers', cleanVal);
+    }
     
     saveGithubBtn.disabled = true;
     saveGithubBtn.innerHTML = '<i class="fa-solid fa-spinner animate-spin"></i> Đang đồng bộ...';
@@ -986,6 +1064,7 @@ function initSettingsModal() {
         sectorsData = updatedSectors;
         localStorage.setItem('custom_sectors', JSON.stringify(updatedSectors));
         buildTickerSectorMap();
+        renderWatchlist();
         filterAndRender();
         
         alert('Đồng bộ lên GitHub thành công! File sectors.json đã được cập nhật. GitHub Actions sẽ tự động kích hoạt cào tin tức mới.');

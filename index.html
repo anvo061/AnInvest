@@ -320,11 +320,11 @@
 
                     <!-- Dynamic Ticker Watchlist Card -->
                     <section class="glass-panel rounded-xl overflow-hidden flex flex-col">
-                        <div class="p-4 border-b border-outline-variant flex justify-between items-center bg-surface-container-high">
-                            <h3 class="text-xs font-bold text-on-surface flex items-center gap-1.5 uppercase tracking-wider">
-                                <span class="material-symbols-outlined text-primary text-lg">trending_up</span>
-                                Cổ phiếu tâm điểm
-                            </h3>
+                        <div class="p-3 border-b border-outline-variant flex justify-between items-center bg-surface-container-high">
+                            <div class="flex gap-1.5">
+                                <button id="watchlistTabAuto" class="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider rounded-md bg-primary/10 text-primary transition-all">Tâm điểm</button>
+                                <button id="watchlistTabCustom" class="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider rounded-md text-on-surface-variant hover:bg-surface-variant/40 hover:text-on-surface transition-all">Theo dõi</button>
+                            </div>
                             <span id="watchlistCount" class="bg-primary/20 text-primary text-[10px] font-bold px-2 py-0.5 rounded-full">0 mã</span>
                         </div>
                         <div id="tickerWatchlist" class="p-2 overflow-y-auto custom-scrollbar max-h-[420px] space-y-1">
@@ -394,6 +394,20 @@
                         <!-- Dynamic inputs injected by app.js -->
                     </div>
                 </form>
+
+                <hr class="border-outline-variant" />
+
+                <!-- Custom Watchlist Management -->
+                <div class="bg-surface-container-low/60 rounded-xl p-4 border border-outline-variant space-y-2">
+                    <div class="flex items-center gap-2">
+                        <span class="material-symbols-outlined text-primary text-lg">star</span>
+                        <h4 class="font-bold text-on-surface">Danh mục theo dõi cá nhân (Watchlist)</h4>
+                    </div>
+                    <p class="text-[11px] text-on-surface-variant">
+                        Nhập các mã cổ phiếu bạn muốn hiển thị trong danh mục theo dõi riêng của mình (cách nhau bởi dấu phẩy, ví dụ: <code class="bg-surface-variant/40 px-1 py-0.5 rounded font-mono text-primary">VCB, HPG, SSI, TCB</code>).
+                    </p>
+                    <input id="watchlistTickersInput" type="text" class="w-full bg-surface-container border border-outline-variant rounded-lg px-3 py-2 outline-none focus:ring-1 focus:ring-primary focus:border-primary text-xs font-semibold" placeholder="VD: VCB, HPG, SSI, TCB" />
+                </div>
 
                 <hr class="border-outline-variant" />
 
