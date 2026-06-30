@@ -74,8 +74,11 @@ if ([string]::IsNullOrEmpty($ApiKey)) {
 $History = @()
 if (Test-Path $HistoryFile) {
     try {
-        $History = Get-Content -Path $HistoryFile -Raw | ConvertFrom-Json
-        if ($History -eq $null) { $History = @() }
+        $RawHistory = Get-Content -Path $HistoryFile -Raw | ConvertFrom-Json
+        if ($null -ne $RawHistory) {
+            # Chống lỗi chuỗi dính liền hoặc kiểu dữ liệu đơn
+            $History = @($RawHistory)
+        }
     } catch {
         Write-Log "Lỗi đọc file lịch sử. Khởi tạo lại." "WARNING"
         $History = @()
@@ -86,8 +89,10 @@ if (Test-Path $HistoryFile) {
 $Results = @()
 if (Test-Path $ResultsFile) {
     try {
-        $Results = Get-Content -Path $ResultsFile -Raw | ConvertFrom-Json
-        if ($Results -eq $null) { $Results = @() }
+        $RawResults = Get-Content -Path $ResultsFile -Raw | ConvertFrom-Json
+        if ($null -ne $RawResults) {
+            $Results = @($RawResults)
+        }
     } catch {
         Write-Log "Lỗi đọc file kết quả cũ. Khởi tạo lại." "WARNING"
         $Results = @()
@@ -109,6 +114,16 @@ function Clean-Html {
     return $Clean.Trim()
 }
 
+# Hàm trích xuất text an toàn từ XML Node (hỗ trợ Windows PowerShell và PowerShell Core trên Linux)
+function Get-NodeText {
+    param ($Node)
+    if ($null -eq $Node) { return "" }
+    if ($Node -is [System.Xml.XmlElement]) {
+        return $Node.InnerText.Trim()
+    }
+    return ([string]$Node).Trim()
+}
+
 # Hàm lấy tin tức từ RSS feed
 function Get-RssFeedItems {
     param (
@@ -127,10 +142,10 @@ function Get-RssFeedItems {
             $Items = $Xml.rss.channel.item | ForEach-Object {
                 $CleanDesc = Clean-Html $_.description
                 [PSCustomObject]@{
-                    Title       = if ($null -ne $_.title.InnerText) { $_.title.InnerText.Trim() } else { ([string]$_.title).Trim() }
+                    Title       = Get-NodeText $_.title
                     Description = $CleanDesc
-                    Link        = if ($null -ne $_.link.InnerText) { $_.link.InnerText.Trim() } else { ([string]$_.link).Trim() }
-                    PubDate     = if ($null -ne $_.pubDate.InnerText) { $_.pubDate.InnerText.Trim() } else { ([string]$_.pubDate).Trim() }
+                    Link        = Get-NodeText $_.link
+                    PubDate     = Get-NodeText $_.pubDate
                     Source      = $Source
                 }
             }
@@ -650,8 +665,12 @@ function Start-Scan {
             if ($Analysis.Relevance -eq "Không liên quan" -or $Analysis.Relevance -eq "Unrelated") {
                 Write-Log "Bỏ qua tin tức thuần quốc tế: '$($Item.Title)'" "INFO"
                 # Thêm tin vào lịch sử để không phân tích lại nữa
-                $History += $Item.Link
-                $HistoryJson = ConvertTo-Json $History
+                $History = @($History) + $Item.Link
+                if ($History.Count -eq 1) {
+                    $HistoryJson = "[$((ConvertTo-Json $History[0]).Trim())]"
+                } else {
+                    $HistoryJson = ConvertTo-Json $History
+                }
                 [System.IO.File]::WriteAllText($HistoryFile, $HistoryJson, [System.Text.Encoding]::UTF8)
                 continue
             }
@@ -669,8 +688,12 @@ function Start-Scan {
             [System.IO.File]::WriteAllText($ResultsFile, $ResultsJson, [System.Text.Encoding]::UTF8)
 
             # Thêm tin vào lịch sử để không phân tích lại
-            $History += $Item.Link
-            $HistoryJson = ConvertTo-Json $History
+            $History = @($History) + $Item.Link
+            if ($History.Count -eq 1) {
+                $HistoryJson = "[$((ConvertTo-Json $History[0]).Trim())]"
+            } else {
+                $HistoryJson = ConvertTo-Json $History
+            }
             [System.IO.File]::WriteAllText($HistoryFile, $HistoryJson, [System.Text.Encoding]::UTF8)
 
             $ProcessedCount++
