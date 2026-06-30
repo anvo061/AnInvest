@@ -715,6 +715,48 @@ async function loadReport() {
 
 // Tải tệp sectors.json từ máy chủ và xây dựng bản đồ
 async function loadSectors() {
+  // Bản đồ mặc định dự phòng nếu không tải được sectors.json (VN30 + Top tickers)
+  tickerSectorMap = {
+    // Ngân hàng (bank)
+    "ACB": "bank", "BID": "bank", "CTG": "bank", "HDB": "bank", "MBB": "bank", "MSB": "bank", "OCB": "bank", "SHB": "bank", "SSB": "bank", "STB": "bank", "TCB": "bank", "TPB": "bank", "VCB": "bank", "VIB": "bank", "VPB": "bank", "EIB": "bank", "LPB": "bank", "NAB": "bank", "ABB": "bank", "BAB": "bank", "BVB": "bank", "KLB": "bank", "NVB": "bank", "PGB": "bank", "SGB": "bank", "VAB": "bank", "VBB": "bank",
+    // Bất động sản dân cư (bds)
+    "VHM": "bds", "VIC": "bds", "VRE": "bds", "NVL": "bds", "DIG": "bds", "DXG": "bds", "CEO": "bds", "PDR": "bds", "KDH": "bds", "NLG": "bds", "HDG": "bds", "CRE": "bds", "SCR": "bds", "KHG": "bds", "NTL": "bds", "SJS": "bds", "QCG": "bds", "TDC": "bds", "IJC": "bds", "HQC": "bds", "LDG": "bds", "DXS": "bds", "ITC": "bds", "TCH": "bds", "KOS": "bds",
+    // BĐS KCN (bds-industrial)
+    "KBC": "bds-industrial", "IDC": "bds-industrial", "SZC": "bds-industrial", "VGC": "bds-industrial", "PHR": "bds-industrial", "DPR": "bds-industrial", "NTC": "bds-industrial", "SIP": "bds-industrial", "BCM": "bds-industrial", "SNZ": "bds-industrial", "TIP": "bds-industrial", "ITA": "bds-industrial", "D2D": "bds-industrial", "SZB": "bds-industrial", "SZL": "bds-industrial",
+    // Chứng khoán (finance)
+    "SSI": "finance", "VND": "finance", "VCI": "finance", "HCM": "finance", "VIX": "finance", "FTS": "finance", "SHS": "finance", "CTS": "finance", "BSI": "finance", "ORS": "finance", "AGR": "finance", "APG": "finance", "APS": "finance", "BMS": "finance", "EVS": "finance", "MBS": "finance", "VDS": "finance", "TCI": "finance", "TVB": "finance", "TVS": "finance", "VFS": "finance", "VIG": "finance", "WSS": "finance",
+    // Thép & VLXD (resources)
+    "HPG": "resources", "HSG": "resources", "NKG": "resources", "SMC": "resources", "TLH": "resources", "POM": "resources", "VGS": "resources", "TIS": "resources", "HT1": "resources", "BCC": "resources", "KSB": "resources", "VCS": "resources", "VHL": "resources", "CVT": "resources", "CTI": "resources", "DHA": "resources", "LBM": "resources",
+    // Dầu khí (oil)
+    "GAS": "oil", "PVD": "oil", "PVS": "oil", "BSR": "oil", "PLX": "oil", "OIL": "oil", "PVC": "oil", "PVB": "oil", "PSH": "oil", "PGD": "oil", "POS": "oil", "PVO": "oil", "PEQ": "oil",
+    // Xây dựng & Đầu tư công (construction)
+    "VCG": "construction", "HHV": "construction", "LCG": "construction", "FCN": "construction", "C4G": "construction", "HUT": "construction", "CTD": "construction", "HBC": "construction", "DPG": "construction", "CC1": "construction", "VEC": "construction", "VHE": "construction", "CII": "construction", "NBB": "construction",
+    // Điện & Năng lượng (utilities)
+    "POW": "utilities", "REE": "utilities", "PC1": "utilities", "NT2": "utilities", "GEG": "utilities", "TV2": "utilities", "QTP": "utilities", "HND": "utilities", "KHP": "utilities", "SBA": "utilities", "CHP": "utilities", "VSH": "utilities", "TTA": "utilities", "BCG": "utilities", "ASM": "utilities",
+    // Bán lẻ & Tiêu dùng (retail)
+    "MWG": "retail", "PNJ": "retail", "FRT": "retail", "DGW": "retail", "PET": "retail", "HAX": "retail", "SVC": "retail", "CMV": "retail", "HTC": "retail", "VFG": "retail",
+    // Thực phẩm & Đồ uống (food)
+    "VNM": "food", "MSN": "food", "SAB": "food", "KDC": "food", "SBT": "food", "QNS": "food", "DBC": "food", "BAF": "food", "HAG": "food", "HNG": "food", "PAN": "food", "TAR": "food", "LTG": "food", "VOC": "food", "TAC": "food", "MCH": "food",
+    // Thủy sản (fishery)
+    "VHC": "fishery", "ANV": "fishery", "IDI": "fishery", "FMC": "fishery", "CMX": "fishery", "MPC": "fishery", "ACL": "fishery",
+    // Dệt may (textile)
+    "TNG": "textile", "VGT": "textile", "GIL": "textile", "STK": "textile", "MSH": "textile", "TCM": "textile", "ADS": "textile", "EVE": "textile",
+    // Hóa chất & Phân bón (chemicals)
+    "DGC": "chemicals", "DPM": "chemicals", "DCM": "chemicals", "CSV": "chemicals", "BFC": "chemicals", "LAS": "chemicals", "DDV": "chemicals", "SFG": "chemicals", "PLC": "chemicals", "TSC": "chemicals",
+    // Cảng biển & Vận tải (port)
+    "HAH": "port", "GMD": "port", "VOS": "port", "PVT": "port", "PHP": "port", "SGP": "port", "MVN": "port", "VIP": "port", "VTO": "port", "DXP": "port", "CLL": "port", "TCL": "port",
+    // Công nghệ & Viễn thông (tech)
+    "FPT": "tech", "CMG": "tech", "CTR": "tech", "VGI": "tech", "FOX": "tech", "ELC": "tech", "ITD": "tech", "SGT": "tech", "TTN": "tech", "VNZ": "tech",
+    // Nhựa & Cao su (rubber)
+    "BMP": "rubber", "NTP": "rubber", "AAA": "rubber", "APH": "rubber", "DRC": "rubber", "CSM": "rubber", "SRC": "rubber", "GVR": "rubber", "BRR": "rubber", "TRC": "rubber",
+    // Y tế & Dược phẩm (health)
+    "DHG": "health", "IMP": "health", "TRA": "health", "DVN": "health", "DBD": "health", "AMV": "health", "JVC": "health", "TNH": "health", "PMC": "health",
+    // Hàng không & Du lịch (travel)
+    "VJC": "travel", "HVN": "travel", "ACV": "travel", "AST": "travel", "SAS": "travel", "SKG": "travel", "VTD": "travel", "DAH": "travel", "OCH": "travel",
+    // Bảo hiểm (insurance)
+    "BVH": "insurance", "PVI": "insurance", "BMI": "insurance", "MIG": "insurance", "BIC": "insurance", "VNR": "insurance", "PTI": "insurance", "PRE": "insurance"
+  };
+
   try {
     const response = await fetch('sectors.json?' + new Date().getTime());
     if (response.ok) {
@@ -722,7 +764,7 @@ async function loadSectors() {
       buildTickerSectorMap();
       console.log("Đã tải thành công cấu hình phân ngành từ sectors.json");
     } else {
-      console.warn("Không thể tải sectors.json, dùng cơ chế fallback từ khóa");
+      console.warn("Không thể tải sectors.json, sử dụng danh sách mặc định cứng");
     }
   } catch (e) {
     console.error("Lỗi khi kết nối lấy sectors.json", e);
@@ -738,19 +780,19 @@ function buildTickerSectorMap() {
     "Ngân hàng": "bank",
     "Chứng khoán": "finance",
     "Bất động sản (Thương mại & Dân cư)": "bds",
-    "Bất động sản Khu công nghiệp": "bds",
+    "Bất động sản Khu công nghiệp": "bds-industrial",
     "Thép & Vật liệu xây dựng": "resources",
     "Dầu khí": "oil",
     "Xây dựng & Đầu tư công": "construction",
     "Điện & Năng lượng": "utilities",
     "Bán lẻ & Tiêu dùng": "retail",
     "Thực phẩm & Đồ uống": "food",
-    "Thủy sản": "household",
-    "Dệt may": "household",
+    "Thủy sản": "fishery",
+    "Dệt may": "textile",
     "Hóa chất & Phân bón": "chemicals",
-    "Cảng biển & Vận tải": "industrial",
+    "Cảng biển & Vận tải": "port",
     "Công nghệ & Viễn thông": "tech",
-    "Nhựa & Cao su": "chemicals",
+    "Nhựa & Cao su": "rubber",
     "Y tế & Dược phẩm": "health",
     "Hàng không & Du lịch": "travel",
     "Bảo hiểm": "insurance"
