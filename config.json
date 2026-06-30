@@ -1,7 +1,7 @@
 {
   "GeminiApiKey": "YOUR_GEMINI_API_KEY",
   "ScanIntervalSeconds": 900,
-  "MaxItemsPerScan": 5,
+  "MaxItemsPerScan": 3,
   "RssFeeds": [
     {
       "Name": "VnExpress Kinh Doanh",
@@ -11,6 +11,26 @@
     {
       "Name": "VnExpress Chứng Khoán",
       "Url": "https://vnexpress.net/rss/kinh-doanh/chung-khoan.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "VnEconomy Chứng Khoán",
+      "Url": "https://vneconomy.vn/rss/chung-khoan.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "VnEconomy Tài Chính",
+      "Url": "https://vneconomy.vn/rss/tai-chinh.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "VnBusiness Chứng Khoán",
+      "Url": "https://vnbusiness.vn/rss/chung-khoan.rss",
+      "Region": "Vietnam"
+    },
+    {
+      "Name": "VnBusiness Ngân Hàng",
+      "Url": "https://vnbusiness.vn/rss/ngan-hang.rss",
       "Region": "Vietnam"
     },
     {
@@ -24,9 +44,14 @@
       "Region": "Vietnam"
     },
     {
-      "Name": "CafeF Chứng Khoán",
-      "Url": "https://cafef.vn/rss/chung-khoan.rss",
+      "Name": "CafeF qua Google News",
+      "Url": "https://news.google.com/rss/search?q=site:cafef.vn+chứng+khoán&hl=vi&gl=VN&ceid=VN:vi",
       "Region": "Vietnam"
+    },
+    {
+      "Name": "Reuters/Bloomberg Vĩ mô",
+      "Url": "https://news.google.com/rss/search?q=(site:reuters.com+OR+site:bloomberg.com)+Vietnam+economy+market&hl=en&gl=VN&ceid=VN:en",
+      "Region": "Global"
     }
   ]
 }
