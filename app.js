@@ -607,7 +607,7 @@ function renderNewsFeed() {
             <a href="${item.Link || '#'}" target="_blank" onclick="event.stopPropagation()">${item.Title}</a>
           </h4>
           <div class="text-[12px] text-zinc-400 leading-relaxed font-medium mt-1">
-            <span class="text-zinc-500 font-bold">Phân tích tác động AI:</span> ${item.MarketImpact}
+            <span class="text-zinc-500 font-bold">Phân tích tác động AI:</span> ${item.TapeReaderNote || item.MarketImpact}
           </div>
         </div>
         ${tickersHtml}

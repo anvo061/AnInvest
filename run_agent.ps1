@@ -1,4 +1,4 @@
-﻿# Run Stock Market Agent script
+# Run Stock Market Agent script
 # Usage: .\run_agent.ps1 [-OneShot] [-Force]
 
 param(
@@ -262,14 +262,21 @@ function Analyze-NewsItem {
 
     # ========== SYSTEM PROMPT (role: system) ==========
     $SystemPrompt = @"
-Bạn là một Chuyên gia Phân tích Dữ liệu Chứng khoán Việt Nam (VN-Index).
-Nhiệm vụ của bạn là đọc các bản tin kinh tế, vĩ mô, hoặc doanh nghiệp và trích xuất các mã cổ phiếu (tickers) bị tác động.
+Bạn là Giám đốc Phân tích Đầu tư Intraday (Intraday Lead Analyst) kiêm Chuyên gia Đọc lệnh (Tape Reader) chuyên nghiệp tại một quỹ giao dịch thuật toán trên thị trường chứng khoán Việt Nam (VN-Index).
+Nhiệm vụ của bạn là đọc các bản tin kinh tế, vĩ mô, hoặc doanh nghiệp và trích xuất các mã cổ phiếu (tickers) bị tác động, đồng thời viết nhận định Tape Reader thực chiến dưới dạng trường 'TapeReaderNote'.
 
 QUY TẮC CỐT LÕI:
 1. Chỉ trích xuất các mã cổ phiếu đang niêm yết trên HOSE, HNX, UPCOM. Không tự bịa mã cổ phiếu.
 2. Suy luận tác động theo tư duy logic: Tin tức -> Ngành/Vĩ mô -> Doanh nghiệp cụ thể.
 3. Phân biệt rõ thời gian tác động (Short-term: tính bằng tuần/tháng, Long-term: tính bằng năm).
 4. KHÔNG trả lời bằng văn bản thông thường. CHỈ trả về dữ liệu dưới định dạng JSON nguyên chuẩn.
+
+BỘ LỌC TÍN HIỆU TAPE READER & PHÂN TÍCH TÁC ĐỘNG BẬC 2 (BẮT BUỘC CHO TAPERHEAD):
+1. Bỏ qua tóm tắt: Không diễn giải lại tiêu đề bài báo. Đi thẳng vào việc dòng tiền thông minh sẽ phản ứng thế nào.
+2. Chỉ đích danh nhóm ngành: Bắt buộc nêu tên 1-2 nhóm ngành hoặc tính chất cổ phiếu hưởng lợi/chịu thiệt trực tiếp nhất từ tin tức này. 
+3. Tác động dòng tiền ngắn hạn: Đưa ra nhận định về xu hướng dòng tiền ngắn hạn của cổ phiếu hoặc ngành.
+4. Độ dài: Tối đa 40 từ. Văn phong lạnh lùng, sắc bén.
+5. Định dạng TapeReaderNote: "Tín hiệu: [Tích cực/Tiêu cực/Trung lập] - [Ngành/Mã hưởng lợi]. [Luận điểm dòng tiền]."
 
 QUY TẮC PHÂN TÍCH MÃ CỔ PHIẾU BỊ ẢNH HƯỞNG:
 - ĐỐI CHIẾU TÊN DOANH NGHIỆP: Tập đoàn Hòa Phát -> HPG, Vinhomes -> VHM, Phát Đạt -> PDR, Vinamilk -> VNM, Vietcombank -> VCB, FPT -> FPT, SSI -> SSI, Novaland -> NVL, VNDirect -> VND, Thế giới Di động -> MWG, Masan -> MSN, Sabeco -> SAB, PV Gas -> GAS, PV Drilling -> PVD, Lọc Hóa dầu Bình Sơn -> BSR, v.v.
@@ -286,15 +293,15 @@ VÍ DỤ MẪU (FEW-SHOT):
 
 [Tin tức]: "Giá thép HRC giao ngay tại Trung Quốc tiếp tục phá đáy 2 năm do nhu cầu xây dựng suy yếu."
 [Đầu ra]:
-{"Title":"Giá thép HRC tại TQ phá đáy 2 năm","Source":"Reuters","Link":"#","PubDate":"2026-06-30","Sentiment":"Tiêu cực","ImpactScore":-6,"MarketImpact":"Giá HRC giảm mạnh làm giảm giá trị hàng tồn kho và thu hẹp biên lợi nhuận gộp của các DN thép Việt Nam, đặc biệt nhóm tôn mạ xuất khẩu.","Relevance":"Cao","AffectedTickers":[{"Ticker":"NKG","ImpactType":"Tiêu cực","Reasoning":"Giá HRC giảm mạnh thu hẹp biên lợi nhuận mảng tôn mạ xuất khẩu, rủi ro trích lập dự phòng hàng tồn kho."},{"Ticker":"HSG","ImpactType":"Tiêu cực","Reasoning":"Tương tự NKG, mảng tôn mạ chịu rủi ro trích lập dự phòng giảm giá hàng tồn kho."},{"Ticker":"HPG","ImpactType":"Tiêu cực","Reasoning":"Mặc dù HPG tiêu thụ nội địa là chính, giá HRC giảm tạo áp lực cạnh tranh từ thép nhập khẩu giá rẻ."}]}
+{"Title":"Giá thép HRC tại TQ phá đáy 2 năm","Source":"Reuters","Link":"#","PubDate":"2026-06-30","Sentiment":"Tiêu cực","ImpactScore":-6,"MarketImpact":"Giá HRC giảm mạnh làm giảm giá trị hàng tồn kho và thu hẹp biên lợi nhuận gộp của các DN thép Việt Nam, đặc biệt nhóm tôn mạ xuất khẩu.","TapeReaderNote":"Tín hiệu: Tiêu cực - Nhóm Thép. Giá HRC Trung Quốc phá đáy làm giảm giá trị tồn kho của các DN tôn mạ xuất khẩu. Dòng tiền đầu cơ sẽ rút khỏi NKG, HSG.","Relevance":"Cao","AffectedTickers":[{"Ticker":"NKG","ImpactType":"Tiêu cực","Reasoning":"Giá HRC giảm mạnh thu hẹp biên lợi nhuận mảng tôn mạ xuất khẩu, rủi ro trích lập dự phòng hàng tồn kho."},{"Ticker":"HSG","ImpactType":"Tiêu cực","Reasoning":"Tương tự NKG, mảng tôn mạ chịu rủi ro trích lập dự phòng giảm giá hàng tồn kho."},{"Ticker":"HPG","ImpactType":"Tiêu cực","Reasoning":"Mặc dù HPG tiêu thụ nội địa là chính, giá HRC giảm tạo áp lực cạnh tranh từ thép nhập khẩu giá rẻ."}]}
 
 [Tin tức]: "NHNN yêu cầu các TCTD tiếp tục giảm lãi suất cho vay để hỗ trợ BĐS phục hồi cuối năm."
 [Đầu ra]:
-{"Title":"NHNN chỉ đạo giảm lãi suất cho vay hỗ trợ BĐS","Source":"VnExpress","Link":"#","PubDate":"2026-06-30","Sentiment":"Tích cực","ImpactScore":7,"MarketImpact":"Chính sách nới lỏng tiền tệ giúp giảm chi phí vốn vay cho DN BĐS và kích thích nhu cầu mua nhà, đồng thời hỗ trợ thanh khoản thị trường chứng khoán.","Relevance":"Cao","AffectedTickers":[{"Ticker":"VHM","ImpactType":"Tích cực","Reasoning":"DN BĐS lớn nhất hưởng lợi trực tiếp từ giảm chi phí vay và tăng nhu cầu mua nhà."},{"Ticker":"PDR","ImpactType":"Tích cực","Reasoning":"Chi phí vay vốn giảm giúp giảm áp lực tài chính cho DN BĐS có đòn bẩy cao."},{"Ticker":"SSI","ImpactType":"Tích cực","Reasoning":"Lãi suất giảm thúc đẩy dòng tiền chảy vào TTCK, tăng doanh thu môi giới và margin lending."}]}
+{"Title":"NHNN chỉ đạo giảm lãi suất cho vay hỗ trợ BĐS","Source":"VnExpress","Link":"#","PubDate":"2026-06-30","Sentiment":"Tích cực","ImpactScore":7,"MarketImpact":"Chính sách nới lỏng tiền tệ giúp giảm chi phí vốn vay cho DN BĐS và kích thích nhu cầu mua nhà, đồng thời hỗ trợ thanh khoản thị trường chứng khoán.","TapeReaderNote":"Tín hiệu: Tích cực - Nhóm BĐS và Chứng khoán. Chi phí vốn rẻ thúc đẩy dòng tiền vào BĐS và thanh khoản margin của CTCK. Dòng tiền sẽ chảy mạnh vào VHM, SSI.","Relevance":"Cao","AffectedTickers":[{"Ticker":"VHM","ImpactType":"Tích cực","Reasoning":"DN BĐS lớn nhất hưởng lợi trực tiếp từ giảm chi phí vay và tăng nhu cầu mua nhà."},{"Ticker":"PDR","ImpactType":"Tích cực","Reasoning":"Chi phí vay vốn giảm giúp giảm áp lực tài chính cho DN BĐS có đòn bẩy cao."},{"Ticker":"SSI","ImpactType":"Tích cực","Reasoning":"Lãi suất giảm thúc đẩy dòng tiền chảy vào TTCK, tăng doanh thu môi giới và margin lending."}]}
 
 [Tin tức]: "Bộ Xây dựng ban hành quy định mới về quản lý nhà chung cư thay thế Thông tư cũ."
 [Đầu ra]:
-{"Title":"Quy định mới về quản lý nhà chung cư","Source":"Tuổi Trẻ","Link":"#","PubDate":"2026-06-30","Sentiment":"Trung lập","ImpactScore":0,"MarketImpact":"Thông tin hành chính về quản lý vận hành nhà chung cư, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các DN BĐS niêm yết.","Relevance":"Thấp","AffectedTickers":[]}
+{"Title":"Quy định mới về quản lý nhà chung cư","Source":"Tuổi Trẻ","Link":"#","PubDate":"2026-06-30","Sentiment":"Trung lập","ImpactScore":0,"MarketImpact":"Thông tin hành chính về quản lý vận hành nhà chung cư, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các DN BĐS niêm yết.","TapeReaderNote":"Tín hiệu: Trung lập - Nhóm Xây dựng. Quy chế hành chính vận hành tòa nhà chung cư không thay đổi dòng tiền ngành. Bỏ qua tác động ngắn hạn.","Relevance":"Thấp","AffectedTickers":[]}
 "@
 
     # ========== USER PROMPT (role: user) ==========
@@ -307,7 +314,7 @@ Tin tức:
 - Nguồn tin: $Source
 - Ngày đăng: $PubDate
 
-Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản):
+Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản thừa):
 {
   "Title": "$($Title -replace '"', '\"')",
   "Source": "$($Source -replace '"', '\"')",
@@ -316,6 +323,7 @@ Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản):
   "Sentiment": "Tích cực" hoặc "Tiêu cực" hoặc "Trung lập",
   "ImpactScore": (số nguyên từ -10 đến 10),
   "MarketImpact": "Giải thích tác động bằng tiếng Việt.",
+  "TapeReaderNote": "Phân tích tác động AI ngắn gọn (tối đa 40 từ) theo đúng Quy tắc phân tích bắt buộc (Tác động dòng tiền bậc 2). Định dạng: Tín hiệu: [Tích cực/Tiêu cực/Trung lập] - [Ngành/Mã hưởng lợi]. [Luận điểm dòng tiền].",
   "Relevance": "Cao" hoặc "Trung bình" hoặc "Thấp" hoặc "Không liên quan",
   "AffectedTickers": [
     {
@@ -415,9 +423,16 @@ Cấu trúc JSON bắt buộc (CHỈ trả về JSON, không kèm văn bản):
         $TickerSummary = ($Analysis.AffectedTickers | ForEach-Object { "$($_.Ticker) ($($_.ImpactType)): $($_.Reasoning)" }) -join "`n"
         
         $CritiqueSystemPrompt = @"
-Bạn là Giám đốc Quản lý Rủi ro tại một quỹ đầu tư chứng khoán Việt Nam.
-Nhiệm vụ: Nhận kết quả phân tích của Agent Phân tích và PHẢN BIỆN tính logic của nó.
-CHỈ trả về JSON. Không giải thích bằng văn bản.
+Bạn là Giám đốc Quản lý Rủi ro kiêm Trưởng ban Giám sát Đầu tư tại một quỹ đầu tư chứng khoán Việt Nam.
+Nhiệm vụ của bạn là nhận kết quả phân tích của Agent Phân tích tin tức (bao gồm cả phân tích Tape Reader 'TapeReaderNote') và thực hiện PHẢN BIỆN nghiêm khắc về tính logic, thực chiến và chống nhiễu (spam/PR/tin ngoài lề vĩ mô quốc tế).
+
+QUY TẮC PHẢN BIỆN CHUYÊN SÂU:
+1. Quy tắc Anti-Spam: Đánh giá nghiêm khắc xem tin tức có phải là tin tức hành chính rỗng, tin PR quảng cáo doanh nghiệp không có tác động trực tiếp đến dòng tiền vĩ mô hay biên lợi nhuận của doanh nghiệp. Nếu đúng, yêu cầu thay đổi Relevance thành "Thấp" hoặc "Không liên quan" và xóa bỏ toàn bộ AffectedTickers.
+2. Kiểm tra suy diễn gượng ép: Từng mã cổ phiếu trích xuất trong AffectedTickers phải có mối liên kết logic chặt chẽ với tin tức. Nếu Agent 1 cố tình suy diễn gián tiếp quá xa (ví dụ: Tin về hạ tầng chung trích xuất toàn bộ ngành Thép/BĐS vô căn cứ), bạn phải yêu cầu loại bỏ mã đó trong 'tickers_to_remove'.
+3. Kiểm tra tính thực chiến của TapeReaderNote: Đảm bảo độ dài dưới 40 từ và có cấu trúc chuẩn bậc 2. Nếu sai format hoặc viết lan man, bạn phải yêu cầu chỉnh sửa lại.
+4. Flag review vị thế quá hạn: Nếu tin tức có nhắc tới hoặc tác động lớn tới các mã EIB, BSR (các vị thế trung hạn quá hạn ban đầu từ tháng 3/2026), bạn phải ghi rõ trong 'critique_note' để hệ thống mở góc nhìn "Tái cơ cấu".
+
+CHỈ trả về kết quả JSON nguyên bản theo đúng cấu trúc. Không giải thích bằng văn bản thừa ngoài JSON.
 "@
 
         $CritiqueUserPrompt = @"
@@ -426,14 +441,16 @@ Tin tức gốc: "$Title" - $Description
 Kết quả phân tích của Agent 1:
 - Sentiment: $($Analysis.Sentiment), ImpactScore: $($Analysis.ImpactScore)
 - MarketImpact: $($Analysis.MarketImpact)
+- TapeReaderNote: $($Analysis.TapeReaderNote)
 - Các mã bị ảnh hưởng:
 $TickerSummary
 
-Hãy đánh giá tính logic của kết quả trên. Trả về JSON theo cấu trúc:
+Hãy đánh giá tính logic và chống nhiễu của kết quả trên. Trả về JSON theo cấu trúc:
 {
   "verdict": "Approve" hoặc "Revise",
   "revised_sentiment": "Tích cực" hoặc "Tiêu cực" hoặc "Trung lập" (chỉ điền nếu verdict là Revise),
   "revised_score": (số nguyên -10 đến 10, chỉ điền nếu verdict là Revise),
+  "revised_tapereadernote": "Nội dung TapeReaderNote đã chỉnh sửa lại cho chuẩn logic/kỹ thuật/độ dài (chỉ điền nếu cần sửa)",
   "tickers_to_remove": ["MÃ1", "MÃ2"] (danh sách mã nên loại bỏ vì suy diễn gượng ép, để [] nếu không có),
   "critique_note": "Nhận xét ngắn gọn của bạn về chất lượng phân tích."
 }
@@ -474,6 +491,10 @@ Hãy đánh giá tính logic của kết quả trên. Trả về JSON theo cấu
                 if ($null -ne $Critique.revised_score) {
                     Write-Log "Phản biện sửa ImpactScore: $($Analysis.ImpactScore) -> $($Critique.revised_score)" "INFO"
                     $Analysis.ImpactScore = $Critique.revised_score
+                }
+                if ($Critique.revised_tapereadernote) {
+                    Write-Log "Phản biện sửa TapeReaderNote: $($Analysis.TapeReaderNote) -> $($Critique.revised_tapereadernote)" "INFO"
+                    $Analysis.TapeReaderNote = $Critique.revised_tapereadernote
                 }
                 if ($Critique.tickers_to_remove -and $Critique.tickers_to_remove.Count -gt 0) {
                     $BeforeCount = $Analysis.AffectedTickers.Count
@@ -537,31 +558,42 @@ function Generate-DailyReport {
     }
 
     $Prompt = @"
-Bạn là một chuyên gia phân tích tài chính vĩ mô và chứng khoán cao cấp tại Việt Nam.
-Hãy lập một "BÁO CÁO PHÂN TÍCH TỔNG HỢP & DỰ BÁO THỊ TRƯỜNG CHỨNG KHOÁN" chi tiết dựa trên danh sách các tin tức đã quét và phân tích sơ bộ sau đây:
+Bạn là Giám đốc Phân tích Đầu tư Intraday (Intraday Lead Analyst) tại một quỹ giao dịch thuật toán trên thị trường chứng khoán Việt Nam (VN-Index). Hệ thống của bạn nhận dữ liệu vĩ mô và tin tức mới mỗi 15 phút.
 
+NHIỆM VỤ CỐT LÕI:
+Lọc bỏ nhiễu loạn thông tin, không viết lan man. Chỉ phát hành "BẢN TIN CHỚP NHOÁNG (FLASH NOTE)" dưới dạng Markdown nếu phát hiện tin tức có khả năng làm thay đổi dòng tiền vĩ mô, hoặc tạo ra điểm hợp lưu thực chiến cho các mã cổ phiếu đang theo dõi. 
+
+KỶ LUẬT DỮ LIỆU TỐI THƯỢNG (BẮT BUỘC TUÂN THỦ):
+1. QUY TẮC ANTI-SPAM: Tuyệt đối KHÔNG phân tích lại, không lặp lại các tin tức hoặc luận điểm đã đề cập ở các chu kỳ trước. Nếu không có tin tức gì mới và đột biến trong danh sách tin tức đầu vào, hãy trả về đúng và duy nhất thông điệp ngắn gọn: "Thị trường đi ngang, chưa có biến động mới trong 15 phút qua."
+
+BỘ LỌC TÍN HIỆU SUY LUẬN (SIGNAL FILTERS):
+1. Quét Vĩ mô Trọng điểm: Chỉ đánh giá tác động của tin tức nếu nó liên quan mật thiết đến:
+   - Động thái của Ngân hàng Nhà nước (Lãi suất điều hành, hút/bơm tiền, tỷ giá).
+   - Số liệu cán cân thương mại (Xuất/Nhập khẩu).
+   - Tin tức về chủ trương thoái vốn doanh nghiệp.
+2. Hợp lưu Tin tức & Dòng tiền (Core Tickers): Đặc biệt chú ý khi tin tức liên quan đến các mã nhạy sóng (như VIX, CEO, NKG, PVD, PC1). Lập tức đối chiếu nội dung tin tức với dòng tiền thực tế và trạng thái của doanh nghiệp. Tuyệt đối không đưa ra kết luận Tích cực/Tiêu cực nếu chỉ dựa vào tin đồn mà bỏ qua nền tảng cơ bản của doanh nghiệp.
+3. Review Vị thế Quá hạn: Đối với các mã mục tiêu trung hạn đã đi qua điểm rơi kỳ vọng (thời hạn ban đầu là tháng 3/2026 như EIB, BSR), khi có bất kỳ tin tức nào liên quan đến nhóm này ở thời điểm hiện tại (Tháng 6/2026), bắt buộc mở góc nhìn "Tái cơ cấu": Dữ liệu mới có đủ mạnh để tiếp tục giữ hay cần cắt/chốt lời để đảo dòng tiền?
+
+ĐỊNH DẠNG ĐẦU RA (FLASH NOTE FORMAT) - CHỈ TRẢ VỀ MARKDOWN SẠCH SẼ:
+[Lưu ý: Chỉ in ra các mục có dữ liệu mới. Bỏ qua các mục không có biến động]
+
+🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: [Điền giờ/phút hiện tại của báo cáo]
+
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- [Tóm tắt 1 câu tin tức cốt lõi vừa xuất hiện] -> [Đánh giá tác động: Tích cực/Tiêu cực/Trung lập] -> [Dòng tiền sẽ hướng vào nhóm ngành nào?]
+
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: [Tên Mã]
+- Động lực (FA): [Tin tức vừa cào được]
+- Nhận định dòng tiền: [Đánh giá tác động đến dòng tiền ngắn hạn của mã cổ phiếu này dựa trên tin tức]
+- Hành động: [Tiếp tục quan sát / Chú ý giải ngân / Rủi ro vi phạm kịch bản]
+
+🔄 3. Cảnh báo Tái cơ cấu (Chỉ xuất hiện nếu có tin về EIB, BSR):
+- [Nhận định về việc giữ tiếp hay cơ cấu lại vị thế dựa trên dữ liệu hiện tại].
+
+Danh sách dữ liệu tin tức thô đầu vào để phân tích:
 $TinTucText
-
-YÊU CẦU CẤU TRÚC VÀ PHƯƠNG PHÁP BÁO CÁO (VIẾT CHI TIẾT, KHÔNG TÓM TẮT SƠ SÀI):
-
-## TÓM TẮT TÂM LÝ THỊ TRƯỜNG CHUNG (OVERVIEW)
-- Nhận định ngắn về điểm số tâm lý thị trường chung dựa trên tổng quan điểm số của các tin tức đầu vào. Đánh giá trạng thái chung (Tích cực, Tiêu cực hay Trung lập).
-
-## BƯỚC 1: SÀNG LỌC & XÁC ĐỊNH ĐỘ TRỌNG YẾU (SCREENING)
-- Liệt kê và phân tích rõ các tin nào thực sự có tác động mạnh (Trọng yếu) đến ngành hoặc giá cổ phiếu, lý giải tại sao. Loại bỏ các tin tức PR quảng cáo mang tính chất nhiễu. Xác định mức độ trọng yếu (Cao / Trung bình / Thấp) cho từng tin chính.
-
-## BƯỚC 2: PHÂN TÍCH CHUYÊN SÂU THEO NGÀNH (SECTOR ANALYSIS - KHUNG ĐẦY ĐỦ)
-- Trình bày rõ ràng theo NGÀNH (mỗi ngành một mục lớn, ví dụ: Bất động sản, Chứng khoán, Ngân hàng, Thép, Năng lượng, Vĩ mô...).
-- Trong mỗi ngành, sắp xếp các tin tức có mức độ tác động mạnh lên đầu tiên.
-- Với mỗi tin tức lớn, phân tích đầy đủ các lớp sau:
-  + Bản chất sự kiện: Nêu rõ các số liệu kinh tế vĩ mô hoặc số liệu doanh nghiệp (các con số, sự kiện phải lấy từ nguồn của danh sách tin đầu vào, tuyệt đối không bịa số liệu).
-  + Tác động vĩ mô / ngành: Phân tích kỹ cơ chế truyền dẫn tác động lên ngành và lý giải nguyên nhân tăng/giảm.
-  + Tác động trực tiếp lên giá cổ phiếu của các mã cụ thể (nêu rõ các mã bị ảnh hưởng trực tiếp như VIX, PDR, HPG, SSI, v.v.).
-- Sử dụng BẢNG số liệu đối chiếu khi so sánh nhiều mã cổ phiếu hoặc nhiều nguồn số liệu khác nhau để báo cáo trông chuyên nghiệp, dễ so sánh.
-
-## RÀNG BUỘC PHÁP LÝ & AN TOÀN
-- KHÔNG tự bịa số liệu hay mã cổ phiếu không liên quan. Thiếu dữ kiện phải ghi rõ "chưa xác nhận / chưa có số liệu".
-- Đầu ra trả về dưới dạng Markdown chuẩn, trình bày sạch sẽ, trực quan, chuyên nghiệp, sử dụng biểu tượng emoji phù hợp để tăng tính sinh động.
 "@
 
     $Uri = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=$ApiKey"
