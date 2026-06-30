@@ -1,5 +1,333 @@
 ﻿[
   {
+    "Title": "Trump-Backed Golf Resort Advances as Vietnam Seizes Farmland - Bloomberg",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkI5NzZaRGRxaVU4WmozUi1EYjFxdHFkUXRQamxMRElqcHV5SGFDRXF3cHFSX0czaHJRVFByaVVhemV2OUNGTE9tM2k0bFhxWUUzUWxZaC1nTnYzbjlfbHNlcndnTUlsbXJMemFpYjdhbXV4R3cyN09EcXVVSkNldWVISGwxSWNobDVKcW9KM2g3eUVSVEl0Wm1KVTBMZUEzSlJ1TlFuSzBBNUczeHZhZw?oc=5",
+    "PubDate": "Thu, 25 Jun 2026 21:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về một dự án bất động sản nghỉ dưỡng cụ thể liên quan đến đối tác nước ngoài. Việc thu hồi đất là quy trình hành chính thông thường trong phát triển dự án, không tạo ra tác động lan tỏa đáng kể đến thị trường chứng khoán hoặc các doanh nghiệp niêm yết lớn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:18:50"
+  },
+  {
+    "Title": "Hanoi Bets Its Future on a Riverside to Rival World’s Great Cities - Bloomberg",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjYxUUJIMzl4THlvWHhHdUZBRHYwY0J1d1FEYjZVbmhrZzRyRDRrOUs1TU9BX0ZPT2NQdWREb1ZocmFnVkE5bWY0d0ZLWjF4bFVqMndWNzZRT1BIVGtMeDZYTUl5a0dKWHh2RmUxcGxXX3BHV25YTTl4aXpnTGJfY2tuN0FQeWZvNHZjemU2N2dscmZrb2RWQmFmZDdtSkE1V3dyU3lrOWJnQ013TjVzM29RcmhKUExfUVZLbThYRFRoUmc?oc=5",
+    "PubDate": "Thu, 25 Jun 2026 23:00:15 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Quy hoạch phát triển đô thị ven sông Hồng là động lực tăng trưởng dài hạn cho hạ tầng và bất động sản tại Hà Nội, tạo điều kiện cho các doanh nghiệp có quỹ đất lớn tại khu vực này triển khai dự án.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu quỹ đất lớn tại Hà Nội, hưởng lợi trực tiếp từ việc phát triển hạ tầng và đô thị hóa ven sông."
+      },
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp đầu ngành xây dựng hạ tầng, có khả năng trúng thầu các dự án cải tạo và phát triển hạ tầng đô thị ven sông."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:18:36"
+  },
+  {
+    "Title": "Một \"đại gia\" dầu khí có thể bị loại khỏi rổ VN30 trong kỳ cơ cấu tháng 6 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzMzakFPUVlEekJyZm1BQ1NCd0VEUUtWdzh4M0FneWp3V1ZPTkI4Sm9vVHIxWHJ5My0tTGRzcnlmM2hnaHY0TktTaXRUUExUb0s0RC1SYnpXczhGRWQwSXhTZGhzUVYtenRNbEZ3SDRNRXFRS1lVQU44VHNnT2JJYjl2R3RQdE9nR2RzcUZKX0tyQ2pxaWs1d3BuZF9uN1NKZmQ3cVg5RWVyUTBCWWxLMQ?oc=5",
+    "PubDate": "Mon, 29 Jun 2026 17:18:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc bị loại khỏi rổ VN30 sẽ dẫn đến áp lực bán từ các quỹ ETF mô phỏng chỉ số, làm giảm thanh khoản và gây áp lực giảm giá ngắn hạn lên cổ phiếu bị loại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PLX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là đại diện ngành dầu khí thường xuyên nằm trong rổ VN30, rủi ro bị loại khỏi rổ sẽ kích hoạt áp lực bán từ các quỹ ETF."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:18:20"
+  },
+  {
+    "Title": "Một cổ phiếu ngân hàng có thể bị loại khỏi rổ VN30 trong kỳ cơ cấu tháng 6 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHJXNHdmM2NwY0ZEMWRGbDZoUl9UVUREdEM4bE5ncWFoYUJqRTg1LXpoc0JXYzBWNzRLRzVfSTRBN01CSUtqR0xPU2pOVGpLWGprTloxTG1FMkk1bEExY3BseDFPU2lXTHNyc0JyS0pOYl9NT2xmcXNha1ZsNkVhVFJLWFIyWjg2UGNUWVprTGJ3Q19vSWhNaVlrWGVpZWQ3RWtXdUxRRzBLMUQ2RnFuY2FlTnk?oc=5",
+    "PubDate": "Mon, 29 Jun 2026 07:07:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc bị loại khỏi rổ VN30 sẽ dẫn đến áp lực bán từ các quỹ ETF mô phỏng chỉ số này, gây ảnh hưởng ngắn hạn đến thanh khoản và giá cổ phiếu bị loại.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh sách dự báo bị loại khỏi rổ VN30 do các tiêu chí về vốn hóa hoặc thanh khoản, gây áp lực bán từ các quỹ ETF."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:18:05"
+  },
+  {
+    "Title": "Quỹ ngoại tỷ USD hé lộ lý do bán sạch cổ phiếu 1 ngân hàng, tăng tỷ trọng loạt Bluechips phi tài chính - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVS1ZMzlzdE5SSU9jM1pyT09Mc0Q4cGxMLWR6VVBsSEw2cDIxSzhJUWdKa1F4ZWd6MkQtZ0F3czREbTdXSVo2TnpjemExYVlyZ2tYdHpZMGhTcE1fMG84SlhIR25Fd1FLY01YZWdiNWdoeW5SX1NoQnliTUtpSXAtZDZkaHAtaGdUNHU1RWQ5VDdnb012M2pnZTBVYkVIOHpsbEtyZmF3eG5Nc2FzN3M2VXlPbEVqVUgtRDJEOE1JV3dRUHdydXJDSlc2S19SMkFQY1BTWWhKYlQ?oc=5",
+    "PubDate": "Mon, 29 Jun 2026 04:09:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về hoạt động tái cơ cấu danh mục đầu tư của một quỹ ngoại cụ thể. Việc bán một mã ngân hàng và mua các mã phi tài chính phản ánh chiến lược riêng của quỹ, không phản ánh xu hướng vĩ mô hay thay đổi cơ bản của các doanh nghiệp liên quan.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:17:55"
+  },
+  {
+    "Title": "Chứng khoán 30-6: Nhóm ngành nào là động lực dẫn dắt thị trường nửa cuối năm 2026?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chung-khoan-30-6-nhom-nganh-nao-la-dong-luc-dan-dat-thi-truong-nua-cuoi-nam-2026-10026063003064431.htm",
+    "PubDate": "6/30/2026 8:08:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết phân tích, nhận định thị trường và dự báo xu hướng ngành, không phải là thông tin sự kiện cụ thể có tác động trực tiếp đến hoạt động kinh doanh hay tài chính của doanh nghiệp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:17:46"
+  },
+  {
+    "Title": "Đọc nhanh 30-6: Giá vàng giảm tiếp; Phát Đạt vay MBBank 8.835 tỉ rót vào siêu dự án ở Thủ Thiêm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/doc-nhanh-30-6-gia-vang-giam-tiep-phat-dat-vay-mbbank-8835-ti-rot-vao-sieu-du-an-o-thu-thiem-100260630080809839.htm",
+    "PubDate": "6/30/2026 8:20:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc Phát Đạt tiếp cận được nguồn vốn lớn từ MBBank cho thấy sự cải thiện trong khả năng huy động vốn và tiến độ triển khai các dự án trọng điểm, giúp củng cố niềm tin nhà đầu tư vào triển vọng tăng trưởng của doanh nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đảm bảo nguồn vốn triển khai dự án trọng điểm tại Thủ Thiêm, giúp đẩy nhanh tiến độ ghi nhận doanh thu trong tương lai."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Gia tăng dư nợ tín dụng chất lượng từ các dự án bất động sản có vị trí đắc địa, đóng góp vào thu nhập lãi thuần."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:17:32"
+  },
+  {
+    "Title": "Phó thủ tướng Phạm Gia Túc: Khắc phục tình trạng các địa phương cạnh tranh thu hút đầu tư chạy theo số lượng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/pho-thu-tuong-pham-gia-tuc-khac-phuc-tinh-trang-cac-dia-phuong-canh-tranh-thu-hut-dau-tu-chay-theo-so-luong-100260630091225511.htm",
+    "PubDate": "6/30/2026 9:48:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là định hướng chính sách mang tính quản lý vĩ mô nhằm nâng cao chất lượng dòng vốn FDI, tập trung vào các dự án công nghệ cao và bền vững thay vì số lượng. Tác động đến các doanh nghiệp bất động sản khu công nghiệp là dài hạn và mang tính điều tiết, không gây biến động trực tiếp đến hoạt động kinh doanh hiện tại.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:17:22"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 30/6/2026: 4 ngân hàng giảm lãi suất, nhiều nhà băng tăng trở lại",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-30-6-2026-4-ngan-hang-giam-nhieu-noi-tang-tro-lai-2530813.html",
+    "PubDate": "Tue, 30 Jun 2026 09:22:28 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc lãi suất huy động có sự biến động trái chiều (vừa tăng vừa giảm) cho thấy thanh khoản hệ thống đang ở trạng thái cân bằng, không tạo ra xu hướng lãi suất rõ rệt để tác động mạnh đến thị trường chứng khoán hay biên lợi nhuận doanh nghiệp.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:17:11"
+  },
+  {
+    "Title": "Ngân hàng cảnh báo thủ đoạn lừa đảo mới nhắm vào các hộ kinh doanh",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//ngan-hang-canh-bao-thu-doan-lua-dao-moi-nham-vao-cac-ho-kinh-doanh.html",
+    "PubDate": "Mon, 29 Jun 2026 05:45:59 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin cảnh báo an ninh mạng đối với người dùng cá nhân và hộ kinh doanh, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các ngân hàng niêm yết.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:17:01"
+  },
+  {
+    "Title": "Chính phủ muốn tăng tiền gửi Kho bạc Nhà nước tại ngân hàng để hỗ trợ thanh khoản",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//chinh-phu-muon-tang-tien-gui-kho-bac-nha-nuoc-tai-ngan-hang-de-ho-tro-thanh-khoan.html",
+    "PubDate": "Mon, 29 Jun 2026 08:50:46 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc tăng tỷ lệ tiền gửi Kho bạc Nhà nước được tính vào nguồn vốn huy động giúp các ngân hàng, đặc biệt là nhóm quốc doanh, có thêm dư địa cho vay, giảm áp lực thanh khoản và cải thiện biên lãi thuần (NIM).",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng quốc doanh lớn nhất, hưởng lợi trực tiếp từ việc tăng nguồn vốn giá rẻ từ Kho bạc Nhà nước để mở rộng tín dụng."
+      },
+      {
+        "Ticker": "BID",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng quốc doanh có quy mô tín dụng lớn, việc tăng dư địa cho vay giúp cải thiện doanh thu lãi thuần."
+      },
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ nguồn vốn huy động ổn định, giúp tối ưu hóa chi phí vốn và tăng trưởng dư nợ cho vay."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:16:47"
+  },
+  {
+    "Title": "Vì sao chưa thể “khai tử” room tín dụng trong năm nay?",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//vi-sao-chua-the-khai-tu-room-tin-dung-trong-nam-nay.html",
+    "PubDate": "Tue, 30 Jun 2026 01:41:54 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc NHNN linh hoạt điều chỉnh room tín dụng giúp các ngân hàng thương mại có thêm dư địa tăng trưởng tín dụng, cải thiện thu nhập lãi thuần (NIM) và hỗ trợ thanh khoản cho nền kinh tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng có quy mô tín dụng lớn, việc nới room giúp tối ưu hóa tăng trưởng thu nhập lãi."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ việc mở rộng tín dụng cho các phân khúc khách hàng doanh nghiệp và cá nhân chất lượng cao."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng tín dụng là động lực chính cho biên lợi nhuận của ngân hàng có khẩu vị rủi ro cao."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Dư địa tín dụng rộng mở giúp ngân hàng đẩy mạnh cho vay các dự án trọng điểm."
+      },
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cải thiện khả năng cung ứng vốn cho các doanh nghiệp sản xuất, thúc đẩy tăng trưởng doanh thu."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:16:33"
+  },
+  {
+    "Title": "Giữa vùng đỉnh lịch sử, chứng khoán chờ “bài kiểm tra sức khỏe” từ mùa báo cáo quý II",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//giua-vung-dinh-lich-su-chung-khoan-cho-bai-kiem-tra-suc-khoe-tu-mua-bao-cao-quy-ii.html",
+    "PubDate": "Tue, 30 Jun 2026 01:39:51 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết nhận định thị trường chung về kỳ vọng kết quả kinh doanh quý II, không có thông tin cụ thể về doanh nghiệp hay thay đổi chính sách vĩ mô tác động trực tiếp đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:16:23"
+  },
+  {
+    "Title": "Sau Louis Holdings, ông Đỗ Thành Nhân liên tiếp xuất hiện tại 3 doanh nghiệp niêm yết",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//sau-louis-holdings-ong-do-thanh-nhan-lien-tiep-xuat-hien-tai-3-doanh-nghiep-niem-yet.html",
+    "PubDate": "Tue, 30 Jun 2026 04:04:45 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc nhân vật có tiền sử liên quan đến thao túng chứng khoán quay trở lại nắm quyền tại các doanh nghiệp niêm yết tạo ra rủi ro quản trị và rủi ro pháp lý cho các cổ đông hiện hữu, gây tâm lý lo ngại về tính minh bạch của các mã cổ phiếu này.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "NRC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro về quản trị doanh nghiệp và biến động giá cổ phiếu khó lường khi có sự thay đổi cơ cấu cổ đông liên quan đến nhân vật có tiền sử thao túng."
+      },
+      {
+        "Ticker": "DST",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro về quản trị doanh nghiệp và biến động giá cổ phiếu khó lường khi có sự thay đổi cơ cấu cổ đông liên quan đến nhân vật có tiền sử thao túng."
+      },
+      {
+        "Ticker": "VKC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro về quản trị doanh nghiệp và biến động giá cổ phiếu khó lường khi có sự thay đổi cơ cấu cổ đông liên quan đến nhân vật có tiền sử thao túng."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:16:09"
+  },
+  {
+    "Title": "PLX trước bước ngoặt lớn: Áp lực rời VN30 và bài toán thu hẹp vị thế trên thị trường",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//plx-truoc-buoc-ngoat-lon-ap-luc-roi-vn30-va-bai-toan-thu-hep-vi-the-tren-thi-truong.html",
+    "PubDate": "Tue, 30 Jun 2026 05:13:22 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Việc rời rổ VN30 sẽ dẫn đến áp lực bán từ các quỹ ETF mô phỏng chỉ số, đồng thời làm giảm sức hấp dẫn của cổ phiếu đối với dòng tiền lớn, phản ánh sự suy giảm vị thế của doanh nghiệp đầu ngành xăng dầu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PLX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ các quỹ ETF khi bị loại khỏi rổ VN30 và tâm lý tiêu cực của nhà đầu tư trước thông tin thu hẹp vị thế thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:15:54"
+  },
+  {
+    "Title": "Công ty sản xuất cáp điện muốn 'lột xác' khi ông Đỗ Thành Nhân làm lãnh đạo",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/cong-ty-san-xuat-cap-dien-muon-lot-xac-khi-ong-do-thanh-nhan-lam-lanh-dao-5091343.html",
+    "PubDate": "Tue, 30 Jun 2026 05:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc thay đổi nhân sự cấp cao tại một doanh nghiệp cụ thể là thông tin quản trị nội bộ, chưa có tác động rõ ràng đến kết quả kinh doanh hay vị thế ngành của doanh nghiệp đó trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-06-30 06:15:43"
+  },
+  {
+    "Title": "Loạt ngân hàng có thể tăng trưởng lợi nhuận hai chữ số trong quý II",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/loat-ngan-hang-co-the-tang-truong-loi-nhuan-hai-chu-so-trong-quy-ii-5091290.html",
+    "PubDate": "Tue, 30 Jun 2026 07:06:16 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 8,
+    "MarketImpact": "Kết quả kinh doanh khả quan của nhóm ngân hàng trong quý II phản ánh sự phục hồi của tín dụng và cải thiện biên lãi thuần (NIM), tạo động lực tăng trưởng cho nhóm vốn hóa lớn nhất thị trường.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng đầu ngành với chất lượng tài sản tốt, hưởng lợi từ tăng trưởng tín dụng và NIM ổn định."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ sự phục hồi của thị trường bất động sản và tỷ lệ CASA cao giúp tối ưu chi phí vốn."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng tín dụng mạnh mẽ và hệ sinh thái đa dạng giúp duy trì đà tăng trưởng lợi nhuận hai chữ số."
+      },
+      {
+        "Ticker": "ACB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Quản trị rủi ro tốt và danh mục cho vay bán lẻ giúp ngân hàng duy trì biên lợi nhuận ổn định trong môi trường lãi suất biến động."
+      },
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tiến trình xử lý nợ xấu hoàn tất giúp giải phóng nguồn lực và cải thiện mạnh mẽ lợi nhuận sau thuế."
+      }
+    ],
+    "AnalyzedAt": "2026-06-30 06:15:29"
+  },
+  {
     "Title": "Chủ tịch Fed thay đổi 'luật chơi': Chứng khoán Việt Nam ảnh hưởng ra sao?",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/chu-tich-fed-thay-doi-luat-choi-chung-khoan-viet-nam-anh-huong-ra-sao-100260628140655716.htm",
