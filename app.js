@@ -10,10 +10,13 @@ let activeTickerFilter = null;
 let countdownTime = 30;
 let countdownTimerInterval = null;
 let sentimentChartInstance = null;
+let sectorsData = {};
+let tickerSectorMap = {};
 
 // Khởi chạy khi trang tải xong
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
   initEventListeners();
+  await loadSectors(); // Tải cấu hình phân loại ngành từ sectors.json
   loadData();
   startCountdown();
 });
@@ -484,63 +487,29 @@ function filterAndRender() {
     let matchesSector = true;
     if (activeSectorFilter && activeSectorFilter !== 'all') {
       const textToSearch = ((item.Title || '') + ' ' + (item.MarketImpact || '')).toLowerCase();
-      if (activeSectorFilter === 'bank') {
-        const keywords = ["ngân hàng", "lãi suất", "tín dụng", "vcb", "bid", "tcb", "mbb", "acb", "vib", "ctg", "shb", "vpbank", "stb"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'bds') {
-        const keywords = ["bất động sản", "bđs", "nhà đất", "địa ốc", "vinhomes", "vhm", "novaland", "pdr", "dxg", "dig", "nlg", "kdh", "ceo"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'finance') {
-        const keywords = ["chứng khoán", "cổ phiếu", "vn-index", "tự doanh", "vốn ngoại", "ssi", "vnd", "vci", "hcm", "vix", "fts", "shs", "cts"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'resources') {
-        const keywords = ["thép", "quặng", "hpg", "hsg", "nkg", "khai khoáng", "than", "mỏ", "sắt", "nhôm", "đồng", "titan"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'construction') {
-        const keywords = ["xây dựng", "vật liệu", "đầu tư công", "xi măng", "cát", "đá", "vgc", "vcg", "hhv", "c4g", "lcg", "fcn", "ctd"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'food') {
-        const keywords = ["thực phẩm", "đồ uống", "sữa", "vinamilk", "vnm", "masan", "msn", "sabeco", "sab", "lúa", "đường", "thịt", "heo", "gạo"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'chemicals') {
-        const keywords = ["hóa chất", "phân bón", "ure", "dpm", "dcm", "las", "cao su", "gvr", "phốt pho", "dgc"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'industrial') {
-        const keywords = ["cảng biển", "logistics", "vận tải", "gmd", "tcl", "hải an", "hah", "khu công nghiệp", "szc", "kbc", "ita"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'retail') {
-        const keywords = ["bán lẻ", "siêu thị", "mwg", "thế giới di động", "frt", "dgw", "digiworld", "pnj", "vàng bạc"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'tech') {
-        const keywords = ["công nghệ", "fpt", "viettel", "elcom", "cmg", "bán dẫn", "ai", "phần mềm", "viễn thông", "chip"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'utilities') {
-        const keywords = ["điện", "nước", "thủy điện", "nhiệt điện", "bwe", "pow", "geg", "ree", "twt"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'oil') {
-        const keywords = ["dầu khí", "xăng", "dầu", "brent", "pvd", "pvs", "plx", "oil", "lọc dầu", "bsr"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'health') {
-        const keywords = ["y tế", "dược", "bệnh viện", "thuốc", "dhg", "dht", "tra", "traphaco", "imp"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'telecom') {
-        const keywords = ["viễn thông", "mạng", "internet", "viettel", "mobifone", "vinaphone", "fox", "foc"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'insurance') {
-        const keywords = ["bảo hiểm", "bảo việt", "bvh", "pvi", "bic", "mig", "pti"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'travel') {
-        const keywords = ["du lịch", "khách sạn", "hàng không", "vietjet", "vjc", "hvn", "sân bay", "golf"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'auto') {
-        const keywords = ["ô tô", "xe máy", "lốp", "săm", "tmt", "haxaco", "hax"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'household') {
-        const keywords = ["dệt may", "sợi", "vải", "tng", "msh", "vgt", "thủy sản", "tôm", "cá tra", "vhc", "anv", "idi"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
-      } else if (activeSectorFilter === 'media') {
-        const keywords = ["truyền thông", "quảng cáo", "báo chí", "tạp chí", "sách", "yeg", "yeah1"];
-        matchesSector = keywords.some(k => textToSearch.includes(k));
+      
+      // Kiểm tra khớp theo mã cổ phiếu trước (Độ chính xác cao nhất)
+      let matchedByTicker = false;
+      let hasMappedTicker = false;
+      if (Array.isArray(item.AffectedTickers) && item.AffectedTickers.length > 0) {
+        for (const t of item.AffectedTickers) {
+          if (!t.Ticker) continue;
+          const symbol = t.Ticker.toUpperCase().trim();
+          if (tickerSectorMap[symbol]) {
+            hasMappedTicker = true;
+            if (tickerSectorMap[symbol] === activeSectorFilter) {
+              matchedByTicker = true;
+              break;
+            }
+          }
+        }
+      }
+
+      if (hasMappedTicker) {
+        matchesSector = matchedByTicker;
+      } else {
+        // Fallback: Lọc theo từ khóa nguyên từ (whole word) để tránh trùng từ con
+        matchesSector = checkKeywordsForSector(textToSearch, activeSectorFilter);
       }
     }
 
@@ -740,4 +709,140 @@ async function loadReport() {
       </div>
     `;
   }
+}
+
+// ======================== PHÂN LOẠI NGÀNH & BẢO VỆ CHỐNG TRÙNG TỪ TIẾNG VIỆT ========================
+
+// Tải tệp sectors.json từ máy chủ và xây dựng bản đồ
+async function loadSectors() {
+  try {
+    const response = await fetch('sectors.json?' + new Date().getTime());
+    if (response.ok) {
+      sectorsData = await response.json();
+      buildTickerSectorMap();
+      console.log("Đã tải thành công cấu hình phân ngành từ sectors.json");
+    } else {
+      console.warn("Không thể tải sectors.json, dùng cơ chế fallback từ khóa");
+    }
+  } catch (e) {
+    console.error("Lỗi khi kết nối lấy sectors.json", e);
+  }
+}
+
+// Xây dựng bản đồ ánh xạ từ Ticker sang Key phân loại của giao diện
+function buildTickerSectorMap() {
+  tickerSectorMap = {};
+  
+  // Ánh xạ các tên ngành trong sectors.json sang ID data-sector trong index.html
+  const sectorMappingKeys = {
+    "Ngân hàng": "bank",
+    "Chứng khoán": "finance",
+    "Bất động sản (Thương mại & Dân cư)": "bds",
+    "Bất động sản Khu công nghiệp": "bds",
+    "Thép & Vật liệu xây dựng": "resources",
+    "Dầu khí": "oil",
+    "Xây dựng & Đầu tư công": "construction",
+    "Điện & Năng lượng": "utilities",
+    "Bán lẻ & Tiêu dùng": "retail",
+    "Thực phẩm & Đồ uống": "food",
+    "Thủy sản": "household",
+    "Dệt may": "household",
+    "Hóa chất & Phân bón": "chemicals",
+    "Cảng biển & Vận tải": "industrial",
+    "Công nghệ & Viễn thông": "tech",
+    "Nhựa & Cao su": "chemicals",
+    "Y tế & Dược phẩm": "health",
+    "Hàng không & Du lịch": "travel",
+    "Bảo hiểm": "insurance"
+  };
+
+  for (const [vietnameseSector, tickers] of Object.entries(sectorsData)) {
+    const englishKey = sectorMappingKeys[vietnameseSector];
+    if (englishKey) {
+      tickers.forEach(ticker => {
+        const symbol = ticker.toUpperCase().trim();
+        tickerSectorMap[symbol] = englishKey;
+      });
+    }
+  }
+}
+
+// Kiểm tra khớp từ nguyên vẹn trong tiếng Việt (tránh các lỗi khớp từ con như "đá" trong "đánh giá", "sách" trong "chính sách")
+function includesWholeWord(text, keyword) {
+  // Nếu từ khóa chỉ toàn ký tự alphabet ASCII hoặc số (ví dụ mã cổ phiếu "vgc", "vix")
+  if (/^[a-zA-Z0-9]+$/.test(keyword)) {
+    const regex = new RegExp('\\b' + keyword + '\\b', 'i');
+    return regex.test(text);
+  }
+  
+  // Với tiếng Việt có dấu, ta dùng regex so khớp khoảng trống hoặc ký tự đặc biệt quanh từ
+  const escaped = keyword.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+  const boundaryPattern = '(^|[^a-zA-Z0-9_àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ])';
+  const regex = new RegExp(boundaryPattern + escaped + boundaryPattern, 'i');
+  return regex.test(text);
+}
+
+// Kiểm tra từ khóa tương ứng với từng ngành phân loại
+function checkKeywordsForSector(text, sector) {
+  let keywords = [];
+  switch (sector) {
+    case 'bank':
+      keywords = ["ngân hàng", "lãi suất", "tín dụng", "nợ xấu", "vcb", "bid", "tcb", "mbb", "acb", "vib", "ctg", "shb", "vpbank", "stb"];
+      break;
+    case 'bds':
+      keywords = ["bất động sản", "bđs", "nhà đất", "địa ốc", "chung cư", "vinhomes", "vhm", "novaland", "pdr", "dxg", "dig", "nlg", "kdh", "ceo"];
+      break;
+    case 'bds-industrial':
+      keywords = ["khu công nghiệp", "kcn", "szc", "kbc", "ita", "bcm", "idc", "lhg", "sip", "tip"];
+      break;
+    case 'finance':
+      keywords = ["chứng khoán", "cổ phiếu", "vn-index", "tự doanh", "vốn ngoại", "ssi", "vnd", "vci", "hcm", "vix", "fts", "shs", "cts"];
+      break;
+    case 'resources':
+      keywords = ["thép", "quặng", "hpg", "hsg", "nkg", "sắt", "tôn", "mạ", "phôi thép"];
+      break;
+    case 'oil':
+      keywords = ["dầu khí", "xăng", "dầu", "brent", "pvd", "pvs", "plx", "oil", "lọc dầu", "bsr"];
+      break;
+    case 'construction':
+      keywords = ["xây dựng", "vật liệu", "đầu tư công", "xi măng", "cát", "đá", "vgc", "vcg", "hhv", "c4g", "lcg", "fcn", "ctd", "hbc", "hút", "cii"];
+      break;
+    case 'utilities':
+      keywords = ["điện", "nước", "thủy điện", "nhiệt điện", "năng lượng", "bwe", "pow", "geg", "ree", "twt"];
+      break;
+    case 'retail':
+      keywords = ["bán lẻ", "siêu thị", "mwg", "thế giới di động", "frt", "dgw", "digiworld", "pnj", "tiêu dùng"];
+      break;
+    case 'food':
+      keywords = ["thực phẩm", "đồ uống", "sữa", "vinamilk", "vnm", "masan", "msn", "sabeco", "sab", "lúa", "đường", "thịt", "heo", "gạo"];
+      break;
+    case 'fishery':
+      keywords = ["thủy sản", "tôm", "cá tra", "vhc", "anv", "idi", "fmc", "mpc", "xuất khẩu thủy sản"];
+      break;
+    case 'textile':
+      keywords = ["dệt may", "sợi", "vải", "tng", "msh", "vgt", "tcm", "gil", "may mặc"];
+      break;
+    case 'chemicals':
+      keywords = ["hóa chất", "phân bón", "ure", "dpm", "dcm", "las", "phốt pho", "dgc"];
+      break;
+    case 'port':
+      keywords = ["cảng biển", "logistics", "vận tải", "gmd", "tcl", "hải an", "hah", "tầu biển", "vận chuyển"];
+      break;
+    case 'tech':
+      keywords = ["công nghệ", "fpt", "viettel", "elcom", "cmg", "bán dẫn", "ai", "phần mềm", "viễn thông", "chip"];
+      break;
+    case 'rubber':
+      keywords = ["nhựa", "cao su", "săm", "lốp", "bmp", "ntp", "aaa", "aph", "drc", "csm", "src", "gvr"];
+      break;
+    case 'health':
+      keywords = ["y tế", "dược", "bệnh viện", "thuốc", "dhg", "dht", "tra", "traphaco", "imp"];
+      break;
+    case 'travel':
+      keywords = ["du lịch", "khách sạn", "hàng không", "vietjet", "vjc", "hvn", "sân bay", "golf", "nghỉ dưỡng"];
+      break;
+    case 'insurance':
+      keywords = ["bảo hiểm", "bảo việt", "bvh", "pvi", "bic", "mig", "pti"];
+      break;
+  }
+  return keywords.some(k => includesWholeWord(text, k));
 }
