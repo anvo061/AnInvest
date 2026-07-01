@@ -1,21 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:15 - 30/06/2026
+⏱ Thời gian: 18:15 - 01/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tín hiệu kép từ tăng trưởng kinh tế và thuế quan:** GDP Việt Nam 2023 tăng trưởng chậm (5.05%), dự báo 2026 bị hạ xuống 6.6% do rủi ro từ chính sách thuế quan (100% của ông Trump) và sức cầu toàn cầu yếu -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm Xuất khẩu (VHC, TNG, MSH) và Logistics (GMD) do áp lực biên lợi nhuận bị bào mòn.
-- **Dòng vốn FDI chiến lược:** BMW khẳng định Việt Nam là thị trường tăng trưởng trọng điểm -> **Tích cực** -> Dòng tiền tìm kiếm cơ hội trú ẩn tại nhóm Bất động sản khu công nghiệp (KBC, SZC, GVR) để đón sóng dịch chuyển sản xuất dài hạn.
-- **Cú sốc cung dầu mỏ:** Eo biển Hormuz thông tuyến, 40 triệu thùng dầu chờ xả -> **Tiêu cực** -> Dòng tiền sẽ thoái lui khỏi nhóm thượng nguồn và hạ nguồn dầu khí (PVD, PVS, BSR, GAS).
+- **Xung đột Iran & Rủi ro chuỗi cung ứng:** Xung đột làm gián đoạn nguồn cung dầu khí toàn cầu, đẩy chi phí đầu vào lên cao -> [Tiêu cực] -> Nhóm ngành dầu khí hạ nguồn (Lọc hóa dầu, Phân bón) đối diện áp lực thu hẹp biên lợi nhuận.
+- **Phục hồi sản xuất toàn cầu (PMI):** Chỉ số sản xuất tích cực -> [Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm Logistics (Cảng biển) và Dệt may xuất khẩu.
+- **Đẩy mạnh giải ngân đầu tư công:** Thủ tướng yêu cầu công khai tiến độ dự án trọng điểm -> [Tích cực] -> Nhóm Xây lắp hạ tầng & Vật liệu xây dựng.
+- **Nới lỏng tín dụng tiêu dùng:** Nâng hạn mức vay nhỏ lên 400 triệu đồng -> [Tích cực] -> Nhóm Ngân hàng có tỷ trọng bán lẻ cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, BSR**
-  - Động lực (FA): Giá dầu thế giới chịu áp lực giảm mạnh do nguồn cung tăng đột biến từ việc thông tuyến Hormuz.
-  - Nhận định dòng tiền: Kỳ vọng ngắn hạn về giá dầu bị phá vỡ, áp lực bán kỹ thuật sẽ gia tăng mạnh.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc giảm tỷ trọng để quản trị rủi ro trước biến động giá dầu.
-- **Mã: HCM**
-  - Động lực (FA): Khối lượng giao dịch đột biến hơn 56 triệu cổ phiếu trong 2 phiên.
-  - Nhận định dòng tiền: Dòng tiền thông minh đang thực hiện tái cơ cấu mạnh mẽ, hỗ trợ tạo mặt bằng giá mới.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá khối lượng lớn (Volume profile) để xác định xu hướng tiếp theo.
-
-🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: PC1**
+    - Động lực (FA): CII gia tăng sở hữu lên gần 9%.
+    - Nhận định dòng tiền: Tạo động lực tích cực, thu hút dòng tiền đầu cơ và các tổ chức theo dõi chiến lược.
+    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật để rũ bỏ cung ngắn hạn.
+- **Mã: MBS**
+    - Động lực (FA): Chốt quyền chi trả cổ tức bằng tiền mặt tỷ lệ lớn (1.000 tỷ đồng).
+    - Nhận định dòng tiền: Củng cố niềm tin nhà đầu tư dài hạn, tạo lực đỡ cho giá cổ phiếu.
+    - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho mục tiêu cổ tức.
 - **Mã: BSR**
-  - Nhận định: Do dữ liệu vĩ mô hiện tại cho thấy áp lực giảm giá dầu thô cực lớn, vị thế trung hạn của BSR (vốn đang chịu áp lực trích lập hàng tồn kho) cần được xem xét lại. **Khuyến nghị: Cân nhắc chốt lời hoặc cơ cấu lại dòng tiền** sang các nhóm ngành phòng thủ hơn (KCN) do rủi ro ngành Dầu khí đang ở mức cao (Điểm tác động: -8).
+    - Động lực (FA): Áp lực biên lợi nhuận do biến động chi phí đầu vào (dầu thô) từ xung đột Iran.
+    - Nhận định dòng tiền: Tiêu cực trong ngắn hạn, nguy cơ bị chốt lời do lo ngại kết quả kinh doanh quý bị ảnh hưởng.
+    - Hành động: Xem mục 3 (Tái cơ cấu).
+- **Mã: PLX, FPT**
+    - Động lực (FA): Áp lực từ rổ VN30 và khối ngoại bán ròng.
+    - Nhận định dòng tiền: Áp lực cung tiềm năng mạnh, rủi ro điều chỉnh kỹ thuật cao.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng hạ tỷ trọng nếu mất các ngưỡng hỗ trợ quan trọng.
+
+🔄 3. Cảnh báo Tái cơ cấu (Mục tiêu BSR):
+- **BSR (Tháng 7/2026):** Dữ liệu vĩ mô mới về xung đột tại Iran gây áp lực trực tiếp lên biên lợi nhuận của doanh nghiệp lọc dầu. Vì đã qua thời điểm mục tiêu kỳ vọng từ tháng 3/2026, cần ưu tiên quản trị rủi ro. Khuyến nghị: Cân nhắc chốt lời hoặc giảm tỷ trọng để cơ cấu sang nhóm hưởng lợi từ đầu tư công (VCG, HHV) hoặc Logistics (GMD, HAH) để tối ưu hóa hiệu suất dòng tiền.
