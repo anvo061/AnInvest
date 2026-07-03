@@ -1,22 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:50 ngày 03/07/2026
+⏱ Thời gian: 03:30 - 04/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng Nhà nước ưu tiên tín dụng cho nhà ở xã hội và hạ tầng khu công nghiệp:** Tác động **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Bất động sản khu công nghiệp (KBC, SZC) và Bất động sản dân dụng phân khúc bình dân (NLG).
-- **Thu ngân sách 6 tháng đạt 1,54 triệu tỷ đồng:** Tác động **Tích cực** -> Củng cố dư địa giải ngân đầu tư công nửa cuối năm, hỗ trợ nhóm hạ tầng (VCG, HHV).
+- Khối ngoại bán ròng 3.000 tỷ đồng trong tuần khởi đầu Quý 3 kết hợp cùng danh sách 59 mã bị cắt Margin trên HoSE -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Chịu áp lực rút ròng mạnh tại nhóm Bluechips (VHM, HPG, VNM) và nhóm đầu cơ/thanh khoản cao (HVN, DGC, BCG) do hiệu ứng bán giải chấp/cắt margin].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** DPG
-  - **Động lực (FA):** Cá nhân bị phạt 1,5 tỷ đồng do thao túng cổ phiếu DPG.
-  - **Nhận định dòng tiền:** Rủi ro điều chỉnh mạnh do tâm lý bán tháo của nhà đầu tư cá nhân và lo ngại về tính minh bạch quản trị.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ kỹ thuật, ưu tiên hạ tỷ trọng nếu áp lực bán tháo gia tăng.
+- **Mã: HVN, DGC, BCG**
+    - Động lực (FA): Bị HoSE cắt margin trong danh sách quý 3.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ và lực cầu từ nhà đầu tư sử dụng đòn bẩy sẽ suy yếu đột ngột. Áp lực bán kỹ thuật để đưa tỷ lệ ký quỹ về ngưỡng an toàn sẽ gia tăng trong các phiên tới.
+    - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên hạ tỷ trọng, không bắt đáy khi chưa có tín hiệu cân bằng thanh khoản sau tin.
 
-- **Mã:** KBC, SZC
-  - **Động lực (FA):** Hợp lưu từ tin FDI tích cực và chính sách ưu tiên tín dụng của NHNN cho hạ tầng KCN.
-  - **Nhận định dòng tiền:** Hưởng lợi từ cả vĩ mô và dòng tiền đầu cơ, kỳ vọng duy trì đà tăng trưởng.
-  - **Hành động:** Chú ý giải ngân theo chiến lược gia tăng tỷ trọng khi có nhịp rung lắc.
+- **Mã: DPG**
+    - Động lực (FA): Cá nhân thao túng cổ phiếu bị phạt 1,5 tỷ đồng.
+    - Nhận định dòng tiền: Tổn hại uy tín doanh nghiệp ngắn hạn, nhà đầu tư cá nhân có xu hướng hoảng loạn (panic selling) để "thoát hàng" do lo ngại các rủi ro pháp lý hệ lụy.
+    - Hành động: **Tiếp tục quan sát**, tạm dừng giải ngân để kiểm tra vùng hỗ trợ cứng.
 
-- **Mã:** PNJ
-  - **Động lực (FA):** Việc kiểm soát P-Lab củng cố chuỗi giá trị và uy tín thương hiệu trong mảng trang sức.
-  - **Nhận định dòng tiền:** Tích cực trong trung hạn, tuy nhiên cần quan sát phản ứng của dòng tiền lớn trước thông tin vĩ mô.
-  - **Hành động:** Tiếp tục quan sát để tìm điểm vào tại các vùng tích lũy.
+- **Mã: VHM, HPG, VNM, MSN, VIC**
+    - Động lực (FA): Khối ngoại duy trì đà bán ròng mạnh.
+    - Nhận định dòng tiền: Áp lực từ các quỹ ETF ngoại gây cản trở xu hướng tăng giá của nhóm vốn hóa lớn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, chưa có điểm mua an toàn khi cung ngoại chiếm ưu thế tuyệt đối.
