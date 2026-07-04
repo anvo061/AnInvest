@@ -1,22 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:25 - 05/07/2026
+⏱ Thời gian: 04:55
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kinh tế 6 tháng tăng trưởng cao nhất trong nhiều nhiệm kỳ -> Tích cực -> Dòng tiền kỳ vọng lan tỏa vào nhóm ngành dẫn dắt (Ngân hàng, Chứng khoán, BĐS KCN).
-- Tăng ngưỡng thu nhập người phụ thuộc lên 3 triệu đồng -> Tích cực -> Kích thích tiêu dùng nội địa, hỗ trợ gián tiếp cho các mã ngành bán lẻ.
-- Rủi ro siết chặt quy hoạch điện mặt trời nổi sau phản ánh tiêu cực về môi trường -> Tiêu cực -> Áp lực kiểm soát pháp lý lên các dự án năng lượng tái tạo.
+- **Hạ tầng giao thông & Năng lượng:** Đầu tư công 2.500 tỷ vào sân bay Cam Ranh và tín hiệu giá dầu thế giới neo cao -> **Tích cực** -> Dòng tiền tập trung vào nhóm Xây lắp hạ tầng (VCG) và Dầu khí thượng nguồn (PVD, PVS).
+- **Rủi ro thời tiết:** Hiện tượng El Nino mạnh lên -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm Thủy điện (POW, REE) do áp lực chi phí huy động nhiệt điện và giảm sản lượng.
+- **Chi phí vận hành:** Giá xăng dầu trong nước giảm -> **Tích cực** -> Nhóm Logistic và Vận tải (GMD, HAH) hưởng lợi trực tiếp từ biên lợi nhuận cải thiện.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GEG**
-- Động lực (FA): Rủi ro pháp lý/môi trường đối với dự án điện mặt trời nổi đang được chú ý.
-- Nhận định dòng tiền: Tin tức mang tính chất kiểm soát/thanh tra có thể tạo áp lực bán kỹ thuật ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chờ diễn biến điều chỉnh.
-
-- Mã: **PNJ**
-- Động lực (FA): Mâu thuẫn thông tin giữa cam kết năng lực tài chính của ban lãnh đạo và tin đồn về khả năng hủy niêm yết/rời sàn.
-- Nhận định dòng tiền: Tin đồn về việc "rời sàn" (dù chưa kiểm chứng) đang tạo áp lực tâm lý tiêu cực cực mạnh (Đ điểm -9), gây rủi ro thanh khoản.
-- Hành động: Cảnh báo rủi ro cao, yêu cầu ưu tiên bảo toàn vốn, tránh bắt đáy khi dòng tiền đang bị nhiễu bởi tin đồn hủy niêm yết.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **EIB**
-- Nhận định: Xuất hiện trong thông tin tiêu cực liên quan đến luân chuyển dòng tiền (dù là tin cá nhân). Kết hợp với việc vị thế đã quá hạn kỳ vọng (Tháng 3/2026), dữ liệu hiện tại xác nhận trạng thái **cần tái cơ cấu quyết liệt**. Khuyến nghị chốt lời hoặc cắt lỗ để đảo dòng tiền sang các mã có câu chuyện tăng trưởng rõ ràng hơn, tránh rủi ro hệ thống từ các tin tức tiêu cực chồng chéo.
+- **Mã: VCG**
+    - Động lực (FA): Được chỉ định tham gia dự án 2.500 tỷ xây dựng, cải tạo hạ tầng sân bay Cam Ranh.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ hạ tầng sẽ đổ vào tạo sóng ngắn hạn.
+    - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu thế giới neo cao và dự báo lợi nhuận tích cực từ các hãng dầu khí Mỹ.
+    - Nhận định dòng tiền: Hợp lưu tin tức hỗ trợ đà tăng giá, duy trì sức mạnh thu hút dòng tiền.
+    - Hành động: Tiếp tục quan sát, giữ vị thế theo xu hướng.
+- **Mã: POW, REE**
+    - Động lực (FA): El Nino gây hạn hán, rủi ro thiếu hụt nước thủy điện.
+    - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại suy giảm lợi nhuận.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu mất các vùng hỗ trợ cứng.
+- **Mã: GMD, HAH**
+    - Động lực (FA): Chi phí vận hành giảm do giá xăng dầu trong nước hạ nhiệt.
+    - Nhận định dòng tiền: Phản ứng tích cực do tác động trực tiếp lên biên lợi nhuận.
+    - Hành động: Chú ý giải ngân theo đà tăng.
