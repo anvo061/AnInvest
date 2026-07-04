@@ -1,5 +1,160 @@
 ﻿[
   {
+    "Title": "Chứng khoán tuần qua: Cổ phiếu PNJ có “biến”, hơn 1,2 tỷ cổ phiếu có thể phải rời sàn - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanVYWE9YczRuZGZSZ1RXckdsemk1NHZpYTZ0S1hiaENmUmdiak1yX21uRlVyUkp3QVdzXzFuXzREOTFUTkdrckFXZUdfdy1WUnMyeWZ6TmkwSUlINWp0aENGdEg5WS1tTlpwRnk0b2RoemtUOTlkZmtxV3VpUXlZdjBBMjdMWktJVzRPeTZDSGlnTXNQR3hDN2dzS2JSVWI5ZmhUeUktZENyaDhaSTMza2FMT3lhRW1PQlprYQ?oc=5",
+    "PubDate": "Sat, 04 Jul 2026 10:15:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -9,
+    "MarketImpact": "Thông tin về việc hủy niêm yết hoặc rời sàn tạo ra rủi ro thanh khoản cực lớn, gây áp lực bán tháo mạnh mẽ từ các quỹ đầu tư và nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Tin đồn hủy niêm yết gây hoảng loạn, rủi ro thanh khoản cực cao. Khuyến nghị: Thoát vị thế ngay lập tức để bảo toàn vốn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro rời sàn gây mất thanh khoản, buộc các quỹ ETF và nhà đầu tư phải bán tháo cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-07-04 21:49:17"
+  },
+  {
+    "Title": "Shark Bình rửa tiền 320 tỉ đồng, luân chuyển qua hàng loạt ngân hàng VIB, Vietcombank, Techcombank, Eximbank, MBbank… - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFVIZU5mYkNUR0wtOTBJMEF0dGtiQTlIRTc3ajNEb1NMREtPRkNEbXRxZFN5ODhtdWlHUGhRVnVFdWJaazl6dVhEWV9QZzNxdzgtSE9VNEVzZDN3RlVBcDFROUswQ1pBU2lXWUlDR0dkenAxYTNXMjhXTVdQYnRGTHBWY1hEVUJBU1JwejlETGRQNjVSNkxGbHVBcHZya01ENGh3M0dLME5TOW9kUUthbXludGVpeGFxa2pMN3hDM3k2SmJwNFNMdS1nS2phTHFuVVQ1NzBBM2JOdmdfQ0ZwaWVrUWZXZw?oc=5",
+    "PubDate": "Sat, 04 Jul 2026 03:59:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Tin tức tiêu cực về cá nhân có thể gây nhiễu loạn tâm lý nhà đầu tư ngắn hạn đối với các ngân hàng liên quan, dù không ảnh hưởng trực tiếp đến hoạt động kinh doanh cốt lõi.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Tin tức tiêu cực về cá nhân gây nhiễu loạn tâm lý ngắn hạn. Cần theo dõi phản ứng dòng tiền tại các mã liên quan, đặc biệt là EIB.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tâm lý ngắn hạn do tên ngân hàng xuất hiện trong tin tức tiêu cực."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tâm lý ngắn hạn do tên ngân hàng xuất hiện trong tin tức tiêu cực."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tâm lý ngắn hạn do tên ngân hàng xuất hiện trong tin tức tiêu cực."
+      },
+      {
+        "Ticker": "EIB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tâm lý ngắn hạn do tên ngân hàng xuất hiện trong tin tức tiêu cực."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tâm lý ngắn hạn do tên ngân hàng xuất hiện trong tin tức tiêu cực."
+      }
+    ],
+    "AnalyzedAt": "2026-07-04 21:49:02"
+  },
+  {
+    "Title": "Tiến sĩ Ấn Độ: Sức hút của Việt Nam không chỉ đến từ cơ hội việc làm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tien-si-an-do-suc-hut-cua-viet-nam-khong-chi-den-tu-co-hoi-viec-lam-100260704163538836.htm",
+    "PubDate": "7/4/2026 7:08:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất quan điểm cá nhân, đánh giá về môi trường sống và văn hóa, không có tác động trực tiếp đến hoạt động kinh doanh hay tài chính của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Thông tin mang tính chất xã hội, không ảnh hưởng đến dòng tiền hay biên lợi nhuận của các doanh nghiệp trên sàn. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-04 21:48:50"
+  },
+  {
+    "Title": "Cổ phiếu trả cổ tức cao: Có phải 'món hời' hơn gửi tiết kiệm?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/co-phieu-tra-co-tuc-cao-co-phai-mon-hoi-hon-gui-tiet-kiem-100260704195948589.htm",
+    "PubDate": "7/4/2026 8:56:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết phân tích giáo dục tài chính về chiến lược đầu tư cổ tức, không chứa thông tin doanh nghiệp cụ thể hay thay đổi vĩ mô tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã cụ thể. Bài viết mang tính chất giáo dục, không tạo ra biến động dòng tiền hay thay đổi kỳ vọng lợi nhuận của bất kỳ doanh nghiệp nào trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-04 21:48:39"
+  },
+  {
+    "Title": "NCB Visa Tự Hào nhận giải ‘Sáng kiến thẻ tín dụng của năm’",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ncb-visa-tu-hao-nhan-giai-sang-kien-the-tin-dung-cua-nam-2532388.html",
+    "PubDate": "Sat, 04 Jul 2026 12:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là giải thưởng mang tính chất truyền thông và thương hiệu, không có tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của ngân hàng NCB trên thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Giải thưởng thương hiệu không thay đổi cấu trúc tài chính hay dòng tiền của ngân hàng. Không có tác động đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-04 21:48:30"
+  },
+  {
+    "Title": "Chi phí logistics ngốn hơn nửa lợi nhuận gộp của doanh nghiệp xuất khẩu",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chi-phi-logistics-ngon-hon-nua-loi-nhuan-gop-cua-doanh-nghiep-xuat-khau-5093378.html",
+    "PubDate": "Sat, 04 Jul 2026 18:00:37 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Chi phí logistics cao bào mòn biên lợi nhuận gộp của các doanh nghiệp xuất khẩu, đặc biệt là nhóm thủy sản và dệt may, làm giảm sức cạnh tranh trên thị trường quốc tế.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu. Chi phí logistics tăng cao bào mòn biên lợi nhuận gộp. Dòng tiền sẽ rút khỏi các mã xuất khẩu thâm dụng vận tải như VHC, TNG, ANV.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí logistics tăng trực tiếp làm giảm biên lợi nhuận gộp của doanh nghiệp xuất khẩu thủy sản."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biên lợi nhuận dệt may mỏng, chi phí vận tải cao gây áp lực lớn lên kết quả kinh doanh quý."
+      },
+      {
+        "Ticker": "ANV",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí vận chuyển quốc tế làm giảm khả năng cạnh tranh giá bán của sản phẩm cá tra."
+      }
+    ],
+    "AnalyzedAt": "2026-07-04 21:48:13"
+  },
+  {
+    "Title": "TP HCM cần huy động 880.000 tỷ đồng trong 6 tháng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/tp-hcm-can-huy-dong-880-000-ty-dong-trong-6-thang-5093534.html",
+    "PubDate": "Sat, 04 Jul 2026 20:32:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc đẩy mạnh huy động vốn cho đầu tư công tại TP.HCM sẽ thúc đẩy tiến độ các dự án hạ tầng trọng điểm, tạo động lực tăng trưởng cho nhóm xây dựng hạ tầng và vật liệu xây dựng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô, chưa có lộ trình giải ngân cụ thể. Cần theo dõi tiến độ thực tế trước khi dòng tiền vào nhóm xây lắp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp đầu ngành xây lắp hạ tầng, hưởng lợi trực tiếp từ các dự án đầu tư công tại TP.HCM."
+      },
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Năng lực thi công hạ tầng giao thông tốt, kỳ vọng trúng thầu các dự án mới từ nguồn vốn huy động."
+      },
+      {
+        "Ticker": "KSB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu các mỏ đá tại khu vực phía Nam, hưởng lợi trực tiếp từ nhu cầu vật liệu xây dựng hạ tầng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-04 21:47:57"
+  },
+  {
     "Title": "Lý do cổ phiếu DGC tiếp tục bị đưa vào diện cảnh báo - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVlJMTBWdi11ZDhldThjSTVCZGU4VEJDLWJnNERRYUZrOXZ4T1cyZjNZSXdmMUVHaDBsbnRpUG5JUEVYSGlUdWVMUW44UkY5RHF0RVp6TjZfMjNJTm9feXltTnYyQnhrMElGRTVLSzAxVmxhaDFiemNUWm45b0I5R3lMYjBtQkNodlM0UEtONXFpZmVvVk5z?oc=5",
