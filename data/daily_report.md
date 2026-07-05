@@ -1,23 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:33 - 05/07/2026
+⏱ Thời gian: 19:56:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- HoSE công bố 59 mã chứng khoán bị cắt margin trong quý III/2026 -> Tác động: Tiêu cực -> Dòng tiền sẽ chịu áp lực bán giải chấp tại các mã bị ảnh hưởng, gây suy giảm thanh khoản ngắn hạn trên diện rộng.
-- TP.HCM khởi công cảng quốc tế QTM (16 triệu tấn/năm) -> Tác động: Tích cực -> Dòng tiền sẽ hướng vào nhóm hạ tầng cảng biển (Logistics).
-- Dự án 2.500 tỷ tại sân bay Cam Ranh -> Tác động: Tích cực -> Dòng tiền ưu tiên nhóm xây lắp hạ tầng (Đầu tư công).
+- **Phát triển hạ tầng cảng biển và kinh tế biển (Long Sơn - Phú Mỹ 3 & Cảng quốc tế TP.HCM):** -> [Đánh giá tác động: Tích cực] -> [Dòng tiền kỳ vọng hướng vào nhóm ngành: Cảng biển, Logisitics, Bất động sản khu công nghiệp].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **SZC**
+- Động lực (FA): Hưởng lợi trực tiếp từ định hướng phát triển hạ tầng kinh tế biển tại khu vực Bà Rịa - Vũng Tàu (Long Sơn - Phú Mỹ 3).
+- Nhận định dòng tiền: Tin tức bổ trợ cho kỳ vọng tăng trưởng dài hạn của quỹ đất KCN, có khả năng kích hoạt dòng tiền đầu cơ ngắn hạn vào nhóm hạ tầng khu vực phía Nam.
+- Hành động: Chú ý giải ngân nếu có nhịp test hỗ trợ kỹ thuật gần nhất.
+
 - Mã: **GMD**
-- Động lực (FA): Hưởng lợi trực tiếp từ việc khởi công cảng quốc tế QTM tại TP.HCM, gia tăng năng lực khai thác trong dài hạn.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón đầu sự kiện khởi công, bù đắp áp lực điều chỉnh chung của thị trường.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-
-- Mã: **VCG**
-- Động lực (FA): Năng lực thi công các dự án sân bay trọng điểm (Cam Ranh) được xác nhận qua dòng vốn đầu tư công.
-- Nhận định dòng tiền: Dòng tiền có xu hướng bền bỉ với các doanh nghiệp có backlog dự án hạ tầng lớn.
-- Hành động: Tiếp tục quan sát kịch bản dòng tiền để gia tăng tỷ trọng.
-
-- Mã: **PNJ**
-- Động lực (FA): Sự cố P-Lab và phản ứng trấn an từ ban lãnh đạo.
-- Nhận định dòng tiền: Dù thông tin lãnh đạo cam kết xử lý đã làm giảm áp lực bán tháo, nhưng rủi ro uy tín quản trị cần thời gian để kiểm chứng. Áp lực margin (nếu có) có thể tạo biến động mạnh.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên nắm giữ quan sát, chưa mua mới.
+- Động lực (FA): Hưởng lợi trực tiếp từ việc mở rộng công suất cảng biển tại TP.HCM (tăng 16 triệu tấn/năm).
+- Nhận định dòng tiền: Củng cố vị thế doanh nghiệp đầu ngành, dòng tiền có xu hướng gia tăng thanh khoản tại các vùng nền giá vững chắc.
+- Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi có tín hiệu dòng tiền xác nhận.
