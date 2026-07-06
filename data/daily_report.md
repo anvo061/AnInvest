@@ -1,24 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:45 ngày 06/07/2026
+⏱ Thời gian: 19:25 ngày 06/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động neo cao (>9%/năm):** Đánh giá tiêu cực. Áp lực chi phí vốn (COF) tăng cao làm suy yếu biên lợi nhuận ròng (NIM) của nhóm Ngân hàng và bào mòn lợi nhuận của các doanh nghiệp BĐS có đòn bẩy tài chính cao.
-- **Sóng đầu tư AI & Công nghệ:** Đánh giá tích cực. Nhu cầu hạ tầng số toàn cầu tạo động lực tăng trưởng dài hạn cho nhóm công nghệ trong nước.
+- **Áp lực lãi suất và tỷ giá gia tăng từ quan điểm diều hâu của Fed cùng đà tăng của lãi suất huy động nội địa.** -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm có đòn bẩy tài chính cao (BĐS, Chứng khoán) và ưu tiên nhóm phòng thủ hoặc nhóm thượng nguồn hưởng lợi từ giá dầu (PVD, PVS).
+- **Siết chặt quản lý thuế ngành bán lẻ (MWG, MSN, PNJ).** -> **Tiêu cực** -> Tạo áp lực chi phí tuân thủ, có thể gây nhiễu động ngắn hạn đến biên lợi nhuận nhóm bán lẻ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PC1**
-  - Động lực (FA): Chủ tịch HĐQT bị tạm giam; công ty đối mặt áp lực thanh khoản phải mua lại lô trái phiếu 900 tỷ đồng.
-  - Nhận định dòng tiền: Rủi ro bán tháo rất cao do tâm lý hoảng loạn và áp lực dòng tiền thực tế để tất toán trái phiếu.
-  - Hành động: **Rủi ro vi phạm kịch bản (Cắt lỗ/Thoát vị thế ngay lập tức).**
-- **Mã: FPT, CMG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ xu hướng đầu tư AI và hạ tầng dữ liệu toàn cầu.
-  - Nhận định dòng tiền: Dòng tiền dài hạn có xu hướng gia tăng tại các mã đầu ngành khi câu chuyện AI tiếp tục được củng cố.
-  - Hành động: Tiếp tục nắm giữ, canh gia tăng tỷ trọng khi có nhịp điều chỉnh kỹ thuật.
-- **Mã: TCB, VHM, PDR, MBB**
-  - Động lực (FA): Lãi suất huy động cao gây áp lực chi phí lãi vay và rủi ro nợ xấu.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ suy yếu do áp lực từ môi trường chi phí vốn đắt đỏ.
-  - Hành động: Cảnh giác, hạn chế giải ngân mới cho đến khi có tín hiệu hạ nhiệt từ NHNN.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Giá dầu thế giới có xu hướng đi xuống làm suy giảm biên lợi nhuận lọc dầu (crack spread). Kết hợp với việc đã qua điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại xác nhận tín hiệu tiêu cực. **Khuyến nghị: Cơ cấu lại danh mục, giảm tỷ trọng để đảo dòng tiền sang các nhóm ngành có triển vọng tăng trưởng tốt hơn.**
+- **Mã: PVD**
+    - **Động lực (FA):** Nguồn cung dầu toàn cầu tiếp tục duy trì áp lực, giá dầu neo cao.
+    - **Nhận định dòng tiền:** Hưởng lợi khi nhà đầu tư tìm kiếm nơi trú ẩn an toàn từ nhóm năng lượng trong bối cảnh thị trường chứng khoán giảm mạnh (VN-Index giảm mạnh nhất 1 tháng).
+    - **Hành động:** Chú ý giải ngân (tận dụng rung lắc để gom).
+- **Mã: PNJ**
+    - **Động lực (FA):** Lãnh đạo xác nhận rủi ro pháp lý về nguồn gốc hàng hóa được kiểm soát.
+    - **Nhận định dòng tiền:** Giảm áp lực bán tháo, tín hiệu hồi phục kỹ thuật xuất hiện sau khi tin xấu được giải tỏa.
+    - **Hành động:** Quan sát (theo dõi ngưỡng hỗ trợ cứng sau tin tức).
+- **Mã: HDG**
+    - **Động lực (FA):** Áp lực bán kỹ thuật mạnh sau khi vốn hóa bốc hơi 2.300 tỉ đồng.
+    - **Nhận định dòng tiền:** Tiêu cực, lan tỏa tâm lý bán tháo sang nhóm BĐS/Năng lượng.
+    - **Hành động:** Rủi ro vi phạm kịch bản (cần hạ tỷ trọng nếu thủng vùng hỗ trợ gần nhất).
