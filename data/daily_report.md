@@ -1,29 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:15 - 07/07/2026
+⏱ Thời gian: 06:00 ngày 07/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng Logistics:** Căng thẳng tại eo biển Hormuz gây gián đoạn chuỗi cung ứng, đẩy cước vận tải tăng. -> **Tác động:** Tích cực cho nhóm Cảng biển/Vận tải biển (GMD, HAH), Tiêu cực cho nhóm Xuất khẩu (VHC, TNG) do áp lực chi phí.
-- **Ưu đãi thuế quỹ đầu tư:** Miễn thuế chuyển nhượng chứng chỉ quỹ trên 2 năm. -> **Tác động:** Tích cực cho nhóm Chứng khoán (SSI, VCI) nhờ kỳ vọng gia tăng dòng vốn dài hạn và phí quản lý quỹ.
-- **Áp lực từ Khối ngoại:** Bán ròng mạnh 2.800 tỷ đồng phiên 6/7 vào nhóm Bluechips (VHM, HPG, VNM, VCB). -> **Tác động:** Tiêu cực cho chỉ số chung, tạo lực cản tâm lý lên nhóm vốn hóa lớn.
-- **Chính sách tiền tệ Fed:** Quan điểm diều hâu từ Fed gây áp lực tỷ giá. -> **Tác động:** Tiêu cực đến thanh khoản thị trường và nhóm nhạy cảm với lãi suất (Chứng khoán, Bất động sản).
-- **Thị trường Dầu khí:** OPEC+ tăng sản lượng -> **Tác động:** Tiêu cực lên biên lợi nhuận nhóm thượng nguồn/hạ nguồn (PVD, PVS, BSR, GAS).
-- **Quản lý thuế bán lẻ:** Siết thuế ngành bán lẻ/dịch vụ tại TP.HCM. -> **Tác động:** Tiêu cực ngắn hạn cho biên lợi nhuận của MWG, MSN, PNJ.
+- Phê duyệt Hội đồng điều hành Trung tâm tài chính quốc tế tại Việt Nam -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm cổ phiếu **Tài chính (Công ty chứng khoán, Ngân hàng)** và **Bất động sản văn phòng**.
+- Ưu đãi miễn thuế chuyển nhượng chứng chỉ quỹ nắm giữ trên 2 năm -> **Tích cực** -> Dòng tiền hướng vào nhóm **Công ty chứng khoán có mảng Quản lý quỹ mạnh (SSI, VCI)** nhờ kỳ vọng gia tăng AUM (tài sản quản lý).
+- Căng thẳng eo biển Hormuz làm tăng chi phí logistics -> **Tiêu cực cho nhóm xuất khẩu** (VHC, TNG) nhưng **Tích cực ngắn hạn cho nhóm vận tải biển/cảng biển** (GMD, HAH) do neo giá cước cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** HAH, GMD
-- **Động lực (FA):** Khủng hoảng chuỗi cung ứng tại eo biển Hormuz làm tăng giá cước vận tải.
-- **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể luân chuyển sang nhóm vận tải biển để "trú ẩn" và đầu cơ theo tin tức.
-- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- Mã: **MBB**
+- Động lực (FA): Tổ chức tài chính khuyến nghị MUA với giá mục tiêu 30,900 đồng.
+- Nhận định dòng tiền: Tạo tâm lý tích cực, hỗ trợ nâng đỡ giá cổ phiếu trước áp lực bán ròng từ khối ngoại.
+- Hành động: Chú ý giải ngân nếu dòng tiền trong phiên xác nhận vượt cản tâm lý gần nhất.
 
-- **Mã:** BSR
-- **Động lực (FA):** Giá dầu thế giới chịu áp lực giảm do OPEC+ tăng sản xuất.
-- **Nhận định dòng tiền:** Áp lực từ xu hướng giá dầu thế giới sẽ làm suy yếu kỳ vọng tăng trưởng biên lợi nhuận ngắn hạn.
-- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ.
+- Mã: **PNJ**
+- Động lực (FA): Lãnh đạo xác nhận hàng lậu không vào hệ thống phân phối.
+- Nhận định dòng tiền: Giải tỏa áp lực bán tháo, ổn định tâm lý nhà đầu tư.
+- Hành động: Quan sát phản ứng tại vùng hỗ trợ kỹ thuật; rủi ro pháp lý đã được loại bỏ.
 
-- **Mã:** SSI, VCI
-- **Động lực (FA):** Chính sách miễn thuế cho chứng chỉ quỹ (động lực dài hạn) đối nghịch với áp lực tỷ giá/Fed (cản trở ngắn hạn).
-- **Nhận định dòng tiền:** Dòng tiền phân hóa, biến động mạnh theo áp lực bán ròng của khối ngoại.
-- **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro margin trước áp lực tỷ giá.
+- Mã: **HAG**
+- Động lực (FA): Tình trạng sầu riêng "xấu mã" tại Đắk Lắk gây khó khăn đầu ra.
+- Nhận định dòng tiền: Tiêu cực, có thể gây áp lực chốt lời ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản tăng trưởng lợi nhuận quý, ưu tiên quản trị rủi ro.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Dữ liệu mới (giá dầu giảm, OPEC+ tăng cung) tiêu cực cho biên lợi nhuận cốt lõi của doanh nghiệp lọc dầu. Đối chiếu với mục tiêu trung hạn đến 2026, các vị thế hiện tại cần xem xét hạ tỷ trọng nếu giá dầu không hồi phục nhanh, tránh neo vốn trong bối cảnh vĩ mô ngành không thuận lợi.
+- Mã: **VHM, VCB, HPG, VNM**
+- Động lực (FA): Áp lực bán ròng đột biến >2,800 tỷ đồng từ khối ngoại (phiên 6/7).
+- Nhận định dòng tiền: Tiếp tục bị bán ròng, gây áp lực tâm lý lên chỉ số chung.
+- Hành động: Cảnh giác, quan sát vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu dừng bán từ khối ngoại.
