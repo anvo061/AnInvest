@@ -1,20 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:25 ngày 06/07/2026
+⏱ Thời gian: 02:15 - 07/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực lãi suất và tỷ giá gia tăng từ quan điểm diều hâu của Fed cùng đà tăng của lãi suất huy động nội địa.** -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm có đòn bẩy tài chính cao (BĐS, Chứng khoán) và ưu tiên nhóm phòng thủ hoặc nhóm thượng nguồn hưởng lợi từ giá dầu (PVD, PVS).
-- **Siết chặt quản lý thuế ngành bán lẻ (MWG, MSN, PNJ).** -> **Tiêu cực** -> Tạo áp lực chi phí tuân thủ, có thể gây nhiễu động ngắn hạn đến biên lợi nhuận nhóm bán lẻ.
+- **Căng thẳng Logistics:** Căng thẳng tại eo biển Hormuz gây gián đoạn chuỗi cung ứng, đẩy cước vận tải tăng. -> **Tác động:** Tích cực cho nhóm Cảng biển/Vận tải biển (GMD, HAH), Tiêu cực cho nhóm Xuất khẩu (VHC, TNG) do áp lực chi phí.
+- **Ưu đãi thuế quỹ đầu tư:** Miễn thuế chuyển nhượng chứng chỉ quỹ trên 2 năm. -> **Tác động:** Tích cực cho nhóm Chứng khoán (SSI, VCI) nhờ kỳ vọng gia tăng dòng vốn dài hạn và phí quản lý quỹ.
+- **Áp lực từ Khối ngoại:** Bán ròng mạnh 2.800 tỷ đồng phiên 6/7 vào nhóm Bluechips (VHM, HPG, VNM, VCB). -> **Tác động:** Tiêu cực cho chỉ số chung, tạo lực cản tâm lý lên nhóm vốn hóa lớn.
+- **Chính sách tiền tệ Fed:** Quan điểm diều hâu từ Fed gây áp lực tỷ giá. -> **Tác động:** Tiêu cực đến thanh khoản thị trường và nhóm nhạy cảm với lãi suất (Chứng khoán, Bất động sản).
+- **Thị trường Dầu khí:** OPEC+ tăng sản lượng -> **Tác động:** Tiêu cực lên biên lợi nhuận nhóm thượng nguồn/hạ nguồn (PVD, PVS, BSR, GAS).
+- **Quản lý thuế bán lẻ:** Siết thuế ngành bán lẻ/dịch vụ tại TP.HCM. -> **Tác động:** Tiêu cực ngắn hạn cho biên lợi nhuận của MWG, MSN, PNJ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - **Động lực (FA):** Nguồn cung dầu toàn cầu tiếp tục duy trì áp lực, giá dầu neo cao.
-    - **Nhận định dòng tiền:** Hưởng lợi khi nhà đầu tư tìm kiếm nơi trú ẩn an toàn từ nhóm năng lượng trong bối cảnh thị trường chứng khoán giảm mạnh (VN-Index giảm mạnh nhất 1 tháng).
-    - **Hành động:** Chú ý giải ngân (tận dụng rung lắc để gom).
-- **Mã: PNJ**
-    - **Động lực (FA):** Lãnh đạo xác nhận rủi ro pháp lý về nguồn gốc hàng hóa được kiểm soát.
-    - **Nhận định dòng tiền:** Giảm áp lực bán tháo, tín hiệu hồi phục kỹ thuật xuất hiện sau khi tin xấu được giải tỏa.
-    - **Hành động:** Quan sát (theo dõi ngưỡng hỗ trợ cứng sau tin tức).
-- **Mã: HDG**
-    - **Động lực (FA):** Áp lực bán kỹ thuật mạnh sau khi vốn hóa bốc hơi 2.300 tỉ đồng.
-    - **Nhận định dòng tiền:** Tiêu cực, lan tỏa tâm lý bán tháo sang nhóm BĐS/Năng lượng.
-    - **Hành động:** Rủi ro vi phạm kịch bản (cần hạ tỷ trọng nếu thủng vùng hỗ trợ gần nhất).
+- **Mã:** HAH, GMD
+- **Động lực (FA):** Khủng hoảng chuỗi cung ứng tại eo biển Hormuz làm tăng giá cước vận tải.
+- **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể luân chuyển sang nhóm vận tải biển để "trú ẩn" và đầu cơ theo tin tức.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+
+- **Mã:** BSR
+- **Động lực (FA):** Giá dầu thế giới chịu áp lực giảm do OPEC+ tăng sản xuất.
+- **Nhận định dòng tiền:** Áp lực từ xu hướng giá dầu thế giới sẽ làm suy yếu kỳ vọng tăng trưởng biên lợi nhuận ngắn hạn.
+- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ.
+
+- **Mã:** SSI, VCI
+- **Động lực (FA):** Chính sách miễn thuế cho chứng chỉ quỹ (động lực dài hạn) đối nghịch với áp lực tỷ giá/Fed (cản trở ngắn hạn).
+- **Nhận định dòng tiền:** Dòng tiền phân hóa, biến động mạnh theo áp lực bán ròng của khối ngoại.
+- **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro margin trước áp lực tỷ giá.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR:** Dữ liệu mới (giá dầu giảm, OPEC+ tăng cung) tiêu cực cho biên lợi nhuận cốt lõi của doanh nghiệp lọc dầu. Đối chiếu với mục tiêu trung hạn đến 2026, các vị thế hiện tại cần xem xét hạ tỷ trọng nếu giá dầu không hồi phục nhanh, tránh neo vốn trong bối cảnh vĩ mô ngành không thuận lợi.
