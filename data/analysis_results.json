@@ -1,5 +1,211 @@
 ﻿[
   {
+    "Title": "Vietnam Q2 GDP growth accelerates; inflation pressure rises - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSF8zc1Jld0hBNEU3NmhQQzBvT1NDRHFnMk4tV2dGd015OUVWQ1pVWUhmbHVvNUY0MGZzdldwRWFFZERIYml0RHlXUmJrUjNybTRJVElQUlRWM1I5U25NR1pxdk8zMHRlTTJJdDhNQjBBU1lIOWU5UF85ZGxseG9YOGJlMjdIcE9XZjhNajdydXhwd3FiYWNlS1J5Wk5BMllTcjdjVDhNVWZHemM?oc=5",
+    "PubDate": "Fri, 28 Jun 2024 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tăng trưởng GDP tích cực củng cố niềm tin vào sự phục hồi kinh tế, tuy nhiên áp lực lạm phát gia tăng có thể khiến NHNN thận trọng hơn trong chính sách tiền tệ, gây áp lực lên nhóm tài chính.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. GDP tăng trưởng hỗ trợ nhóm sản xuất, nhưng áp lực lạm phát làm giảm kỳ vọng nới lỏng tiền tệ. Dòng tiền sẽ phân hóa mạnh giữa nhóm hưởng lợi từ tăng trưởng và nhóm chịu áp lực lãi suất.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Lạm phát tăng gây áp lực lên lãi suất, ảnh hưởng đến biên lợi nhuận (NIM) của các ngân hàng thương mại."
+      },
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lạm phát gia tăng làm giảm sức mua của người tiêu dùng, ảnh hưởng trực tiếp đến biên lợi nhuận ngành bán lẻ."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 05:39:38"
+  },
+  {
+    "Title": "Dragon Capital chỉ ra nghịch lý trên thị trường chứng khoán, gọi tên hai cổ phiếu đang bị định giá thấp hơn giá trị - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOEo3Z0dWTTVENkZvenNaWHJsZWJEWTcxVlRLOFZWQXh1Yzd6OVpZMjVlYVB1RFlwVUxoYmRGSEQyblJfcHp3N1l2d1prcUZfOTRabldGcVZqUUswU3hkaTdsZlFRaW9oQnZXQ1VnYzJUTV9VU0ZMTFlTM2JXcmotemY3YWw0SkhRbTFMSDRzeGdiemczZUVRd2M1RXlaWVFldmNMTDJBcWxhQVhCeG9VWTVuM0RVWjVQOEFYcnhfcjc0WXNSN3RTVGkzNzh4ODA2dlQ1Tzc0NldMY1Nrc0dNcUFaeFpHZkhRNkE?oc=5",
+    "PubDate": "Tue, 07 Jul 2026 17:03:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc quỹ ngoại lớn như Dragon Capital công khai định giá thấp tạo hiệu ứng tâm lý tích cực, thu hút dòng tiền thông minh tìm kiếm cơ hội tại các cổ phiếu bị định giá sai.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Sự xác nhận từ quỹ ngoại tạo hiệu ứng tâm lý, kích hoạt dòng tiền săn hàng giá trị tại các mã mục tiêu. Cần theo dõi thanh khoản thực tế để xác nhận lực cầu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Được Dragon Capital đánh giá cao về tiềm năng định giá, kỳ vọng dòng tiền khối ngoại quay lại mua ròng."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Được quỹ ngoại chỉ ra là cổ phiếu bị định giá thấp, tạo động lực tăng giá ngắn hạn nhờ sự chú ý của dòng tiền lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 05:39:18"
+  },
+  {
+    "Title": "HPG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3EyckMwTzJ5bDBaMUcxYkwzR28zeVBGRzR4Z0VXdUttZmtHbnBiWm1UeTVjV3JrRlhOSjJMS2NsNW15NTE4WGVsWTIwdHBQUW5nbEpPcGpSWWFVWllid25hMmMwYWc5YUJXMnUzMUV6WUxzdHBJaXpEZE5yRFpfWGEyRHktOXYtclV3SUhGSU1BaFpvczV3cnZhQVpHZVB3NmVvWTFVZEIzUkhuRDNlbzFBbE9BT2gzVGRUbnc0bE9URGhmRWwtVg?oc=5",
+    "PubDate": "Tue, 07 Jul 2026 07:07:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc thay đổi đăng ký niêm yết (thường liên quan đến phát hành cổ phiếu thưởng hoặc ESOP), không tác động trực tiếp đến hoạt động kinh doanh cốt lõi của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - HPG. Thay đổi đăng ký niêm yết là thủ tục hành chính định kỳ, không làm thay đổi giá trị nội tại hay dòng tiền ngắn hạn của cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:39:07"
+  },
+  {
+    "Title": "Thị phần môi giới HoSE quý 2/2026: VPS xuống thấp nhất 22 quý, SSI và TCBS áp sát - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3dUbzVBa3lUcGdnT0FGSUFqTjRtZWFpLWpTbHFIRTJ3M21CVXpiRzVQZmdLQk1jNjZCYzNaZ3VWUkpWU1l3U3RZU0pSeEtDNWhUTlRSclRpTXV0LWR4ZHdOWGtOcTJ6czBNYVlXaGtYUkEyVERvdVlMREVsUDJrZWs5TDJvQmdtclBkcEdLaHZtMW5IeXRpVnNLeWRHS0xVbTk3Vm1nTnYyd2R2SjlibHZVcWJtWUxuRWI0?oc=5",
+    "PubDate": "Mon, 06 Jul 2026 10:19:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Sự thay đổi thị phần môi giới phản ánh năng lực cạnh tranh và khả năng thu hút dòng tiền của các CTCK top đầu, củng cố vị thế của SSI và TCBS trong cuộc đua phí giao dịch và margin.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. SSI và TCBS gia tăng thị phần cho thấy lợi thế cạnh tranh về công nghệ và vốn. Dòng tiền thông minh sẽ ưu tiên nhóm dẫn đầu có thị phần tăng trưởng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị phần môi giới tăng trưởng củng cố vị thế dẫn đầu, thúc đẩy doanh thu phí và dư nợ margin."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "TCBS (công ty con) bứt phá thị phần giúp gia tăng giá trị cho hệ sinh thái ngân hàng mẹ TCB."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 05:38:52"
+  },
+  {
+    "Title": "Có thể khẳng định không khí Hà Nội, TP.HCM cải thiện nhờ dùng xăng sinh học?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/co-the-khang-dinh-khong-khi-ha-noi-tphcm-cai-thien-nho-dung-xang-sinh-hoc-100260707174906977.htm",
+    "PubDate": "7/7/2026 6:25:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính chất thảo luận về môi trường và chính sách sử dụng nhiên liệu, không có tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Đây là thông tin thảo luận vĩ mô về môi trường, không tạo ra thay đổi về biên lợi nhuận hay sản lượng tiêu thụ xăng dầu. Không có tác động dòng tiền.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:38:42"
+  },
+  {
+    "Title": "PNJ lập tổ giám sát đặc biệt tại P-Lab sau vụ 28.000 viên kim cương nhập lậu",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/pnj-lap-to-giam-sat-dac-biet-tai-p-lab-sau-vu-28000-vien-kim-cuong-nhap-lau-100260707182117129.htm",
+    "PubDate": "7/7/2026 6:35:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Vụ việc gây rủi ro về uy tín thương hiệu và khả năng bị xử phạt hành chính, ảnh hưởng đến niềm tin của nhà đầu tư trong ngắn hạn đối với PNJ.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Rủi ro pháp lý và uy tín thương hiệu gây áp lực bán tháo ngắn hạn. Dòng tiền thông minh sẽ đứng ngoài quan sát cho đến khi có kết luận chính thức từ cơ quan chức năng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro về uy tín thương hiệu, khả năng bị xử phạt hành chính và gián đoạn quy trình kiểm soát nội bộ tại P-Lab."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 05:38:28"
+  },
+  {
+    "Title": "Cách tỷ phú Phạm Nhật Vượng chuẩn bị người kế nghiệp khác gì các tập đoàn khác?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/cach-ty-phu-pham-nhat-vuong-chuan-bi-nguoi-ke-nghiep-khac-gi-cac-tap-doan-khac-2529692.html",
+    "PubDate": "Wed, 08 Jul 2026 05:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất phân tích quản trị doanh nghiệp và kế hoạch nhân sự cấp cao, không có tác động trực tiếp đến hoạt động kinh doanh hay tài chính của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Tin tức về quản trị nhân sự cấp cao không làm thay đổi dòng tiền hay biên lợi nhuận doanh nghiệp. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:38:16"
+  },
+  {
+    "Title": "Từ sân bay Long Thành đến trục chiến lược ven sông: Cực tăng trưởng 2 con số của Đồng Nai",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/tu-san-bay-long-thanh-den-truc-ven-song-cuc-tang-truong-2-con-so-cua-dong-nai-2529177.html",
+    "PubDate": "Wed, 08 Jul 2026 05:10:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc đẩy mạnh hạ tầng tại Đồng Nai tạo động lực tăng trưởng cho các doanh nghiệp BĐS khu công nghiệp và hạ tầng có quỹ đất lớn tại khu vực này.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất quy hoạch dài hạn, thiếu tác động dòng tiền ngắn hạn. Cần theo dõi tiến độ giải ngân thực tế tại các dự án hạ tầng trọng điểm.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:38:02"
+  },
+  {
+    "Title": "Ngân hàng bán cổ phần DN sở hữu nhà máy trứng gà sạch từng lớn nhất nước",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ngan-hang-ban-co-phan-dn-so-huu-nha-may-trung-ga-sach-lon-bac-nhat-ca-nuoc-2533371.html",
+    "PubDate": "Wed, 08 Jul 2026 05:20:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động thoái vốn tài sản đảm bảo của ngân hàng, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp nông nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Nông nghiệp. Hoạt động xử lý nợ xấu đơn lẻ của ngân hàng không tạo xu hướng dòng tiền cho nhóm cổ phiếu nông nghiệp. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:37:52"
+  },
+  {
+    "Title": "Chuyên gia: Doanh nghiệp nhỏ mới chuyển đổi số 'phần ngọn'",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chuyen-gia-doanh-nghiep-nho-moi-chuyen-doi-so-phan-ngon-5094673.html",
+    "PubDate": "Tue, 07 Jul 2026 19:57:24 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất nhận định chuyên môn về thực trạng quản trị và chiến lược kinh doanh, không tạo ra thay đổi trực tiếp đến doanh thu hay lợi nhuận của các doanh nghiệp công nghệ niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Công nghệ. Bài viết mang tính chất giáo dục, không tạo sóng dòng tiền ngắn hạn cho các mã công nghệ như FPT hay CMG.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:37:42"
+  },
+  {
+    "Title": "Đầu tư khu công nghiệp xanh cần tính tới bài toán chống bão lũ",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/dau-tu-khu-cong-nghiep-xanh-can-tinh-toi-bai-toan-chong-bao-lu-5094627.html",
+    "PubDate": "Tue, 07 Jul 2026 20:31:51 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính định hướng chính sách và khuyến nghị kỹ thuật trong quy hoạch hạ tầng, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp bất động sản khu công nghiệp trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS Khu công nghiệp. Khuyến nghị mang tính định hướng quy hoạch dài hạn, không tạo biến động dòng tiền tức thời. Không có tác động đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 05:37:33"
+  },
+  {
+    "Title": "Loạt hãng hàng không tung vé máy bay hè giá vài chục nghìn đồng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/loat-hang-hang-khong-tung-ve-may-bay-he-gia-vai-chuc-nghin-dong-5093913.html",
+    "PubDate": "Wed, 08 Jul 2026 00:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc kích cầu vé máy bay giá rẻ giúp tăng lưu lượng hành khách, thúc đẩy doanh thu ngành hàng không và các dịch vụ du lịch, khách sạn đi kèm trong mùa cao điểm hè.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Vé giá rẻ là chiến lược cạnh tranh biên lợi nhuận thấp, không phản ánh tăng trưởng doanh thu thực tế. Cần theo dõi áp lực chi phí nhiên liệu và biên lợi nhuận gộp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HVN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng sản lượng vận chuyển hành khách trong mùa cao điểm hè, cải thiện doanh thu."
+      },
+      {
+        "Ticker": "VJC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mô hình giá rẻ hưởng lợi trực tiếp từ chiến dịch kích cầu, tăng thị phần hành khách."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 05:37:18"
+  },
+  {
     "Title": "Record capital goods imports help to sharply widen US trade deficit in May - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXVGUWhvckhjbnlmLUN4ZUtvd3E1QnBGUEN6Z1h0MFZMU1lTYl9QUS1nV2tEYVBmUzFqdkxmb1ljYkxORGxtRnlkNm12WFZXOHNMb0Q4SWpDaklYaldtY19aSFdzMFJUNVliWTNPSkVTX0xLMklVellCZ2RNY1ExSVJnZFJqTkk1WW9LOHJjTzNQdFFEMWg5UWVMYzQyRGxGbkRWWU83WmwtRnRNZW1vVlZ5UU1BeEE1OEE?oc=5",

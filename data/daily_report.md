@@ -1,27 +1,24 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 01:45
+⏱ **Thời gian:** 05:40 - 08/07/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tháo gỡ mã vùng trồng:** Chính phủ sửa quy định cấp mã vùng trồng để gỡ vướng xuất khẩu nông sản -> **Tích cực** -> Dòng tiền sẽ ưu tiên các mã ngành nông nghiệp và logistics nông sản có tỷ trọng xuất khẩu cao (TAR, LTG).
-- **Hỗ trợ công nghệ bán dẫn:** TP.HCM hỗ trợ tài chính trực tiếp cho các dự án thiết kế chip nội địa -> **Tích cực** -> Tập trung dòng tiền vào nhóm công nghệ, hạ tầng khu công nghiệp công nghệ cao (FPT).
-- **Tăng trưởng nhà đầu tư cá nhân:** 1,5 triệu tài khoản chứng khoán mới từ đầu năm -> **Tích cực** -> Nhóm cổ phiếu chứng khoán hưởng lợi trực tiếp từ doanh thu môi giới và margin (SSI, VND).
-- **Nhu cầu sản xuất tại Mỹ phục hồi:** Nhập khẩu hàng hóa vốn của Mỹ tăng mạnh -> **Tích cực** -> Kỳ vọng gia tăng đơn hàng cho các doanh nghiệp xuất khẩu Việt Nam sang thị trường Mỹ.
-- **Áp lực rút vốn khối ngoại:** Dòng vốn ngoại bán ròng kỷ lục tại thị trường Châu Á -> **Tiêu cực** -> Gây sức ép giảm giá lên các mã vốn hóa lớn (VCB, VHM, HPG, MSN).
+- **Thị phần CTCK & Dòng tiền mới:** Thị phần môi giới quý 2/2026 ghi nhận sự chuyển dịch lớn (SSI, TCBS áp sát VPS) kết hợp với 1,5 triệu tài khoản mở mới từ đầu năm -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm **Chứng khoán (SSI, TCB/TCBS, VND)**.
+- **GDP & Lạm phát:** GDP tăng trưởng tốt nhưng lạm phát tạo áp lực lên chính sách tiền tệ -> **Trung lập/Thận trọng** -> Gây áp lực lên nhóm Tài chính (VCB) và làm suy giảm biên lợi nhuận nhóm Bán lẻ (MWG).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: FPT**
-    - Động lực (FA): Hưởng lợi trực tiếp từ chính sách hỗ trợ 15 tỷ đồng/dự án thiết kế chip bán dẫn.
-    - Nhận định dòng tiền: Kỳ vọng thu hút dòng tiền trung-dài hạn nhờ bệ đỡ chính sách rõ ràng.
-    - Hành động: **Chú ý giải ngân** nếu thị trường chung điều chỉnh do áp lực khối ngoại.
-- **Mã: SSI, VND**
-    - Động lực (FA): Sự gia tăng đột biến của 1,5 triệu tài khoản mới trực tiếp cải thiện nền tảng kinh doanh cốt lõi.
-    - Nhận định dòng tiền: Dòng tiền cá nhân mạnh mẽ sẽ duy trì thanh khoản cho nhóm này trong tháng 7.
-    - Hành động: **Chú ý giải ngân** theo đà tăng của thanh khoản thị trường.
+- **Mã: SSI**
+    - **Động lực (FA):** Thị phần môi giới tăng mạnh, hưởng lợi trực tiếp từ làn sóng nhà đầu tư cá nhân mới.
+    - **Nhận định dòng tiền:** Hợp lưu tích cực từ cả thị phần và thanh khoản thị trường, dòng tiền sẽ ưu tiên duy trì trạng thái nắm giữ hoặc gia tăng tỷ trọng.
+    - **Hành động:** Chú ý giải ngân (tăng tỷ trọng nếu có nhịp rung lắc).
+- **Mã: MWG**
+    - **Động lực (FA):** Lạm phát gây áp lực sức mua; ngược lại được Dragon Capital đánh giá định giá thấp.
+    - **Nhận định dòng tiền:** Xung đột giữa kỳ vọng định giá của quỹ ngoại và áp lực vĩ mô (lạm phát). Dòng tiền ngắn hạn có thể phân hóa.
+    - **Hành động:** Tiếp tục quan sát (chờ xác nhận phản ứng của dòng tiền tại các vùng hỗ trợ cứng).
 - **Mã: PNJ**
-    - Động lực (FA): Bị hạ dự phóng lợi nhuận 2026 và áp lực bán tháo kỹ thuật.
-    - Nhận định dòng tiền: Dòng tiền đang rút mạnh, tâm lý thị trường rất yếu.
-    - Hành động: **Rủi ro vi phạm kịch bản**, tránh bắt đáy trong giai đoạn "trắng bên mua".
-- **Mã: DIG**
-    - Động lực (FA): Lãnh đạo tiếp tục bị call margin.
-    - Nhận định dòng tiền: Áp lực cung giải chấp treo lơ lửng, cản trở nhịp hồi phục.
-    - Hành động: **Tiếp tục quan sát**, không giải ngân cho đến khi áp lực bán giải chấp dừng hẳn.
+    - **Động lực (FA):** Sự cố quản lý tại P-Lab gây rủi ro uy tín.
+    - **Nhận định dòng tiền:** Tiêu cực; nhà đầu tư tổ chức thường phản ứng mạnh với các sai phạm quản trị nội bộ.
+    - **Hành động:** Rủi ro vi phạm kịch bản (cần quản trị rủi ro, cân nhắc giảm vị thế để tránh biến động ngoài ý muốn).
+- **Mã: TCB**
+    - **Động lực (FA):** Hệ sinh thái TCBS bứt phá thị phần môi giới.
+    - **Nhận định dòng tiền:** Gia tăng giá trị nội tại cho ngân hàng mẹ, dòng tiền thông minh có xu hướng tìm đến các doanh nghiệp có hệ sinh thái toàn diện.
+    - **Hành động:** Chú ý giải ngân.
