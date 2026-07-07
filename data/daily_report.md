@@ -1,28 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:00 ngày 07/07/2026
+⏱ Thời gian: 17:45 - 07/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Phê duyệt Hội đồng điều hành Trung tâm tài chính quốc tế tại Việt Nam -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm cổ phiếu **Tài chính (Công ty chứng khoán, Ngân hàng)** và **Bất động sản văn phòng**.
-- Ưu đãi miễn thuế chuyển nhượng chứng chỉ quỹ nắm giữ trên 2 năm -> **Tích cực** -> Dòng tiền hướng vào nhóm **Công ty chứng khoán có mảng Quản lý quỹ mạnh (SSI, VCI)** nhờ kỳ vọng gia tăng AUM (tài sản quản lý).
-- Căng thẳng eo biển Hormuz làm tăng chi phí logistics -> **Tiêu cực cho nhóm xuất khẩu** (VHC, TNG) nhưng **Tích cực ngắn hạn cho nhóm vận tải biển/cảng biển** (GMD, HAH) do neo giá cước cao.
+- Khối ngoại đẩy mạnh bán ròng trên toàn châu Á do lo ngại định giá nhóm AI quá cao -> [Đánh giá: Tiêu cực] -> [Dòng tiền chịu áp lực rút khỏi nhóm Bluechip (VCB, HPG, MSN) và các cổ phiếu trụ cột thị trường].
+- Ngành chứng khoán ghi nhận lợi nhuận tăng trưởng mạnh và dư nợ margin kỷ lục trong Q2/2026 -> [Đánh giá: Tích cực] -> [Dòng tiền kỳ vọng xoay trục sang nhóm Công ty chứng khoán (SSI, VND, HCM)].
+- Khối ngân hàng đồng loạt chi trả cổ tức tiền mặt quy mô lớn -> [Đánh giá: Tích cực] -> [Dòng tiền dài hạn tập trung vào nhóm Ngân hàng (VCB, TCB, ACB, MBB)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **MBB**
-- Động lực (FA): Tổ chức tài chính khuyến nghị MUA với giá mục tiêu 30,900 đồng.
-- Nhận định dòng tiền: Tạo tâm lý tích cực, hỗ trợ nâng đỡ giá cổ phiếu trước áp lực bán ròng từ khối ngoại.
-- Hành động: Chú ý giải ngân nếu dòng tiền trong phiên xác nhận vượt cản tâm lý gần nhất.
+- Mã: PNJ
+- Động lực (FA): Hạ dự phóng lợi nhuận năm 2026 kết hợp áp lực bán tháo sàn liên tiếp.
+- Nhận định dòng tiền: Rủi ro giải chấp (call margin) đang hiện hữu rất cao, thanh khoản tắc nghẽn ở giá sàn cho thấy tâm lý hoảng loạn bao trùm.
+- Hành động: Tránh bắt đáy; ưu tiên quản trị rủi ro, quan sát vùng hỗ trợ cứng kế tiếp trước khi xem xét kỹ thuật.
+- Mã: DIG
+- Động lực (FA): Lãnh đạo bị "call margin".
+- Nhận định dòng tiền: Tạo áp lực cung đột biến; uy tín doanh nghiệp bị suy giảm nghiêm trọng trong ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản; đứng ngoài quan sát lực cầu tại vùng giá chiết khấu.
+- Mã: FPT
+- Động lực (FA): Nhu cầu chuyển đổi số và ứng dụng AI trong khối FDI tăng cao.
+- Nhận định dòng tiền: Ngược dòng xu hướng rút vốn của khối ngoại, FPT hưởng lợi từ câu chuyện tăng trưởng nền tảng.
+- Hành động: Tiếp tục quan sát điểm entry trong các nhịp điều chỉnh chung của thị trường.
 
-- Mã: **PNJ**
-- Động lực (FA): Lãnh đạo xác nhận hàng lậu không vào hệ thống phân phối.
-- Nhận định dòng tiền: Giải tỏa áp lực bán tháo, ổn định tâm lý nhà đầu tư.
-- Hành động: Quan sát phản ứng tại vùng hỗ trợ kỹ thuật; rủi ro pháp lý đã được loại bỏ.
-
-- Mã: **HAG**
-- Động lực (FA): Tình trạng sầu riêng "xấu mã" tại Đắk Lắk gây khó khăn đầu ra.
-- Nhận định dòng tiền: Tiêu cực, có thể gây áp lực chốt lời ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản tăng trưởng lợi nhuận quý, ưu tiên quản trị rủi ro.
-
-- Mã: **VHM, VCB, HPG, VNM**
-- Động lực (FA): Áp lực bán ròng đột biến >2,800 tỷ đồng từ khối ngoại (phiên 6/7).
-- Nhận định dòng tiền: Tiếp tục bị bán ròng, gây áp lực tâm lý lên chỉ số chung.
-- Hành động: Cảnh giác, quan sát vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu dừng bán từ khối ngoại.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên vị thế hiện tại.
