@@ -1,5 +1,216 @@
 ﻿[
   {
+    "Title": "Chưa đồng thuận dùng ngân sách hỗ trợ lắp điện mặt trời mái nhà: Thị trường có kém sôi động?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chua-dong-thuan-dung-ngan-sach-ho-tro-lap-dien-mat-troi-mai-nha-thi-truong-co-kem-soi-dong-100260708112526141.htm",
+    "PubDate": "7/8/2026 12:00:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Việc thiếu hỗ trợ ngân sách làm giảm động lực đầu tư vào điện mặt trời mái nhà, ảnh hưởng trực tiếp đến triển vọng tăng trưởng của các doanh nghiệp xây lắp và thiết bị điện năng lượng tái tạo.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Thiếu hỗ trợ ngân sách chỉ là rào cản ngắn hạn, chưa làm thay đổi cấu trúc doanh thu cốt lõi của các doanh nghiệp hạ tầng điện.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 14:45:29"
+  },
+  {
+    "Title": "Techcom Life ra mắt Infinite Care, nâng chuẩn bảo hiểm sức khỏe cao cấp",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/techcom-life-ra-mat-infinite-care-nang-chuan-bao-hiem-suc-khoe-cao-cap-100260708114037458.htm",
+    "PubDate": "7/8/2026 12:10:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc ra mắt sản phẩm bảo hiểm mới là hoạt động kinh doanh thông thường của Techcom Life (công ty liên kết của TCB), không tạo ra tác động đột biến đến kết quả kinh doanh hợp nhất của ngân hàng mẹ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Sản phẩm bảo hiểm mới là hoạt động nghiệp vụ bình thường, không đủ sức tạo sóng dòng tiền cho TCB trong ngắn hạn. Bỏ qua tác động.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Sản phẩm bảo hiểm mới đóng góp không đáng kể vào doanh thu phí dịch vụ tổng thể của ngân hàng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 14:45:19"
+  },
+  {
+    "Title": "Bầu Đức hoàn tất mua 4 triệu cổ phiếu HAG, nâng sở hữu lên 25,72%",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/bau-duc-hoan-tat-mua-4-trieu-co-phieu-hag-nang-so-huu-len-2572-100260708120045624.htm",
+    "PubDate": "7/8/2026 1:36:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc lãnh đạo cao nhất gia tăng sở hữu cổ phiếu thể hiện cam kết đồng hành và niềm tin vào triển vọng phục hồi của doanh nghiệp, giúp củng cố tâm lý nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - HAG. Hành động mua gom của cổ đông nội bộ lớn tạo tín hiệu niềm tin, giảm áp lực cung ngắn hạn và thu hút dòng tiền đầu cơ theo dấu chân lãnh đạo.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HAG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãnh đạo gia tăng sở hữu trực tiếp làm giảm lượng cung trôi nổi và củng cố niềm tin vào chiến lược tái cơ cấu của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 14:45:04"
+  },
+  {
+    "Title": "Lãi suất neo cao bào mòn lợi nhuận và nỗi lo nợ xấu doanh nghiệp",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//lai-suat-neo-cao-bao-mon-loi-nhuan-va-noi-lo-no-xau-doanh-nghiep.html",
+    "PubDate": "Wed, 08 Jul 2026 01:15:35 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Lãi suất cao làm tăng chi phí tài chính, bào mòn lợi nhuận doanh nghiệp và gia tăng áp lực trích lập dự phòng rủi ro tín dụng cho hệ thống ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất neo cao gây áp lực chi phí vốn và nợ xấu. Ưu tiên quản trị rủi ro, giảm tỷ trọng nhóm BĐS và ngân hàng có tỷ lệ nợ xấu cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực nợ xấu từ phân khúc khách hàng cá nhân và SME tăng cao trong môi trường lãi suất neo cao."
+      },
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có đòn bẩy tài chính lớn, chi phí lãi vay tăng cao bào mòn lợi nhuận ròng."
+      },
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực trích lập dự phòng nợ xấu tăng khi tài sản bảo đảm khó thanh khoản trong bối cảnh kinh tế khó khăn."
+      },
+      {
+        "Ticker": "DXG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vốn cao làm giảm biên lợi nhuận và khả năng triển khai dự án mới."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro nợ xấu từ nhóm khách hàng doanh nghiệp vừa và nhỏ tăng, ảnh hưởng đến chất lượng tài sản."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 14:44:45"
+  },
+  {
+    "Title": "Doanh nghiệp có đơn hàng vẫn khó vay vốn, Ngân hàng Nhà nước nói gì?",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//doanh-nghiep-co-don-hang-van-kho-vay-von-ngan-hang-nha-nuoc-noi-gi.html",
+    "PubDate": "Wed, 08 Jul 2026 07:35:05 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc NHNN chủ động rà soát và tháo gỡ nút thắt tín dụng cho doanh nghiệp xuất khẩu có đơn hàng giúp cải thiện thanh khoản và khả năng thực hiện hợp đồng cho nhóm thủy sản, dệt may.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. NHNN chỉ đang rà soát, chưa có chính sách nới lỏng cụ thể. Tác động thực tế lên biên lợi nhuận doanh nghiệp xuất khẩu còn bỏ ngỏ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí vốn lưu động, hỗ trợ doanh nghiệp đẩy mạnh xuất khẩu khi có đơn hàng."
+      },
+      {
+        "Ticker": "ANV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cải thiện khả năng tiếp cận tín dụng giúp duy trì chuỗi cung ứng và sản xuất."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hỗ trợ doanh nghiệp dệt may có đơn hàng lớn giải quyết bài toán vốn lưu động."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 14:44:29"
+  },
+  {
+    "Title": "VN-Index tích lũy đi lên, mở cơ hội cơ cấu danh mục đón chu kỳ tăng trưởng mới",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//vn-index-tich-luy-di-len-mo-co-hoi-co-cau-danh-muc-don-chu-ky-tang-truong-moi.html",
+    "PubDate": "Wed, 08 Jul 2026 01:14:18 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Thị trường trong giai đoạn củng cố nền giá, tạo điều kiện cho dòng tiền thông minh luân chuyển vào các nhóm ngành có triển vọng lợi nhuận cải thiện trước chu kỳ tăng trưởng mới.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Thị trường đang trong pha tích lũy nền giá. Cần quan sát dòng tiền tại các vùng hỗ trợ cứng, tránh giải ngân đuổi khi chưa có xác nhận bứt phá từ nhóm dẫn dắt.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 14:44:14"
+  },
+  {
+    "Title": "Leadvisors giảm mạnh tỷ lệ sở hữu tại Viconship sau hơn hai tháng trở thành cổ đông lớn",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//leadvisors-giam-manh-ty-le-so-huu-tai-viconship-sau-hon-hai-thang-tro-thanh-co-dong-lon.html",
+    "PubDate": "Wed, 08 Jul 2026 07:36:06 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc cổ đông lớn thoái vốn nhanh chóng trong bối cảnh kết quả kinh doanh suy giảm tạo áp lực tâm lý tiêu cực lên cổ phiếu VSC và làm suy yếu niềm tin của nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - VSC. Cổ đông lớn thoái vốn nhanh sau thời gian ngắn cho thấy sự thiếu đồng thuận về triển vọng doanh nghiệp. Dòng tiền sẽ tiếp tục chịu áp lực bán tháo trong ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VSC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực cung lớn từ cổ đông lớn thoái vốn kết hợp với kết quả kinh doanh suy giảm gây rủi ro điều chỉnh giá sâu hơn."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 14:43:59"
+  },
+  {
+    "Title": "Lãi suất thỏa thuận chạm mốc 9% một năm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/lai-suat-thoa-thuan-cham-moc-9-mot-nam-5094761.html",
+    "PubDate": "Wed, 08 Jul 2026 11:30:47 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Lãi suất huy động tăng gây áp lực lên chi phí vốn của doanh nghiệp, đồng thời làm giảm sức hấp dẫn của thị trường chứng khoán so với kênh gửi tiết kiệm.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất thỏa thuận 9% gây áp lực chi phí vốn toàn thị trường. Nhóm BĐS (đòn bẩy cao) và Chứng khoán (thanh khoản) chịu rủi ro điều chỉnh dòng tiền mạnh nhất.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí lãi vay tăng cao gây áp lực lên biên lợi nhuận và khả năng thanh toán nợ của doanh nghiệp BĐS."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lãi suất tăng làm giảm sức hấp dẫn của TTCK, ảnh hưởng đến thanh khoản và doanh thu từ mảng margin."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có đòn bẩy tài chính cao sẽ chịu áp lực chi phí lãi vay lớn hơn khi lãi suất thị trường tăng."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tương tự SSI, chi phí vốn tăng và thanh khoản thị trường giảm gây áp lực lên kết quả kinh doanh của CTCK."
+      }
+    ],
+    "AnalyzedAt": "2026-07-08 14:43:44"
+  },
+  {
+    "Title": "Phó thủ tướng yêu cầu doanh nghiệp chủ động tham gia thị trường carbon",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-doanh-nghiep-chu-dong-tham-gia-thi-truong-carbon-5094976.html",
+    "PubDate": "Wed, 08 Jul 2026 13:06:23 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc thúc đẩy thị trường carbon tạo động lực cho các doanh nghiệp sản xuất xanh hóa quy trình, đồng thời mở ra cơ hội doanh thu từ tín chỉ carbon cho các doanh nghiệp sở hữu quỹ rừng hoặc năng lượng tái tạo.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Chỉ đạo mang tính định hướng vĩ mô, chưa có lộ trình thực thi cụ thể. Tác động tài chính lên doanh nghiệp hiện tại là không đáng kể. Cần theo dõi thêm khung pháp lý.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 14:43:29"
+  },
+  {
+    "Title": "Đăk Lăk lần đầu đấu giá trái sầu riêng tại vườn",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/dak-lak-lan-dau-dau-gia-trai-sau-rieng-tai-vuon-5094973.html",
+    "PubDate": "Wed, 08 Jul 2026 14:03:27 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động xúc tiến thương mại và quảng bá nông sản địa phương, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp nông nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Hoạt động đấu giá mang tính chất quảng bá địa phương, không tạo đột biến về dòng tiền hay thay đổi cấu trúc doanh thu của các mã nông nghiệp niêm yết.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-08 14:43:19"
+  },
+  {
     "Title": "Vietnam Q2 GDP growth accelerates; inflation pressure rises - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSF8zc1Jld0hBNEU3NmhQQzBvT1NDRHFnMk4tV2dGd015OUVWQ1pVWUhmbHVvNUY0MGZzdldwRWFFZERIYml0RHlXUmJrUjNybTRJVElQUlRWM1I5U25NR1pxdk8zMHRlTTJJdDhNQjBBU1lIOWU5UF85ZGxseG9YOGJlMjdIcE9XZjhNajdydXhwd3FiYWNlS1J5Wk5BMllTcjdjVDhNVWZHemM?oc=5",

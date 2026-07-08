@@ -1,24 +1,27 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 05:40 - 08/07/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 14:45
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thị phần CTCK & Dòng tiền mới:** Thị phần môi giới quý 2/2026 ghi nhận sự chuyển dịch lớn (SSI, TCBS áp sát VPS) kết hợp với 1,5 triệu tài khoản mở mới từ đầu năm -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm **Chứng khoán (SSI, TCB/TCBS, VND)**.
-- **GDP & Lạm phát:** GDP tăng trưởng tốt nhưng lạm phát tạo áp lực lên chính sách tiền tệ -> **Trung lập/Thận trọng** -> Gây áp lực lên nhóm Tài chính (VCB) và làm suy giảm biên lợi nhuận nhóm Bán lẻ (MWG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Lãi suất thỏa thuận chạm mốc 9%/năm và áp lực nợ xấu tăng cao -> Tác động: Tiêu cực -> Dòng tiền sẽ chịu áp lực rút khỏi nhóm ngành thâm dụng vốn (Bất động sản, Chứng khoán) và chịu sức ép trích lập dự phòng tại nhóm Ngân hàng.
+- NHNN rà soát tháo gỡ nút thắt tín dụng cho doanh nghiệp xuất khẩu có đơn hàng -> Tác động: Tích cực -> Dòng tiền hướng vào nhóm Thủy sản, Dệt may (VHC, ANV, TNG).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: SSI**
-    - **Động lực (FA):** Thị phần môi giới tăng mạnh, hưởng lợi trực tiếp từ làn sóng nhà đầu tư cá nhân mới.
-    - **Nhận định dòng tiền:** Hợp lưu tích cực từ cả thị phần và thanh khoản thị trường, dòng tiền sẽ ưu tiên duy trì trạng thái nắm giữ hoặc gia tăng tỷ trọng.
-    - **Hành động:** Chú ý giải ngân (tăng tỷ trọng nếu có nhịp rung lắc).
-- **Mã: MWG**
-    - **Động lực (FA):** Lạm phát gây áp lực sức mua; ngược lại được Dragon Capital đánh giá định giá thấp.
-    - **Nhận định dòng tiền:** Xung đột giữa kỳ vọng định giá của quỹ ngoại và áp lực vĩ mô (lạm phát). Dòng tiền ngắn hạn có thể phân hóa.
-    - **Hành động:** Tiếp tục quan sát (chờ xác nhận phản ứng của dòng tiền tại các vùng hỗ trợ cứng).
-- **Mã: PNJ**
-    - **Động lực (FA):** Sự cố quản lý tại P-Lab gây rủi ro uy tín.
-    - **Nhận định dòng tiền:** Tiêu cực; nhà đầu tư tổ chức thường phản ứng mạnh với các sai phạm quản trị nội bộ.
-    - **Hành động:** Rủi ro vi phạm kịch bản (cần quản trị rủi ro, cân nhắc giảm vị thế để tránh biến động ngoài ý muốn).
-- **Mã: TCB**
-    - **Động lực (FA):** Hệ sinh thái TCBS bứt phá thị phần môi giới.
-    - **Nhận định dòng tiền:** Gia tăng giá trị nội tại cho ngân hàng mẹ, dòng tiền thông minh có xu hướng tìm đến các doanh nghiệp có hệ sinh thái toàn diện.
-    - **Hành động:** Chú ý giải ngân.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: HAG
+- Động lực (FA): Bầu Đức hoàn tất mua 4 triệu cổ phiếu, nâng tỷ lệ sở hữu lên 25,72%.
+- Nhận định dòng tiền: Tín hiệu nội bộ củng cố niềm tin, giúp giảm áp lực cung trôi nổi trong ngắn hạn.
+- Hành động: Chú ý giải ngân theo đà hồi phục.
+
+- Mã: VSC
+- Động lực (FA): Leadvisors giảm mạnh tỷ lệ sở hữu ngay sau khi trở thành cổ đông lớn.
+- Nhận định dòng tiền: Rủi ro cung bán tháo từ cổ đông lớn đè nặng lên thanh khoản và tâm lý.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế.
+
+- Mã: SSI
+- Động lực (FA): Thị phần môi giới quý 2/2026 tăng trưởng áp sát vị trí dẫn đầu.
+- Nhận định dòng tiền: Củng cố vị thế doanh thu phí và margin, là mã "phòng thủ" tốt nhất trong nhóm chứng khoán trước áp lực lãi suất.
+- Hành động: Tiếp tục quan sát để gom thêm khi thị trường rung lắc.
+
+- Mã: MWG
+- Động lực (FA): Được Dragon Capital đánh giá là cổ phiếu bị định giá thấp.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại hỗ trợ nền giá.
+- Hành động: Chú ý giải ngân vùng tích lũy.
