@@ -1,23 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:30 - 09/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 05:15 (09/07/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nga cấm xuất khẩu dầu diesel & Căng thẳng địa chính trị Iran - Mỹ leo thang -> [Đánh giá tác động: Tích cực đến nhóm Năng lượng, Tiêu cực đến thị trường chung/Nhóm vốn hóa lớn] -> [Dòng tiền sẽ hướng vào: Nhóm dầu khí thượng nguồn (PVD, PVS) và hạ nguồn (BSR, PLX); tâm lý thận trọng bao trùm nhóm Tài chính/Chứng khoán].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Fed Minutes diều hâu & Căng thẳng Iran:** Biên bản Fed cho thấy khả năng tăng lãi suất tháng 6, kết hợp rủi ro địa chính trị (Trump/Iran) gây áp lực lên tỷ giá và dòng vốn ngoại. -> **Tiêu cực (Ngắn hạn)** -> Dòng tiền có xu hướng rút khỏi nhóm vốn hóa lớn (VHM, SSI) và tìm đến nhóm phòng thủ hoặc hưởng lợi từ giá dầu (PVD, PVS).
+- **Xu hướng "Bắt buộc xanh" (ESG) trong BĐS KCN:** Quy định mới về tiêu chuẩn xanh cho FDI tạo ra bộ lọc chọn lọc doanh nghiệp. -> **Tích cực (Dài hạn)** -> Dòng tiền tập trung vào KBC, GVR, SZC có quỹ đất sạch và hạ tầng chuẩn ESG.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD, PVS**
-  - Động lực (FA): Giá dầu tăng dựng đứng do bất ổn địa chính trị.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ tập trung mạnh vào nhóm dầu khí thượng nguồn nhằm trú ẩn và tìm kiếm lợi nhuận ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu giữ được nền giá hỗ trợ.
-- Mã: **BSR**
-  - Động lực (FA): Nga cấm xuất khẩu dầu diesel trực tiếp làm tăng biên lợi nhuận lọc dầu (crack spread).
-  - Nhận định dòng tiền: Kỳ vọng đột biến lợi nhuận trong ngắn hạn, thu hút dòng tiền dẫn dắt.
-  - Hành động: Xem mục 3 (Tái cơ cấu).
-- Mã: **SSI**
-  - Động lực (FA): Tâm lý rủi ro toàn cầu (risk-off) và chứng khoán Mỹ đỏ lửa.
-  - Nhận định dòng tiền: Áp lực bán mạnh từ khối ngoại và nhà đầu tư cá nhân lo ngại suy giảm thanh khoản.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị tỷ trọng.
-
-🔄 3. Cảnh báo Tái cơ cấu (Mã mục tiêu BSR):
-- Dữ liệu mới (Nga cấm xuất khẩu dầu diesel) tạo ra cú hích trực tiếp vào biên lợi nhuận cốt lõi của BSR. Đây là yếu tố "Alpha" ngắn hạn cực mạnh. 
-- **Khuyến nghị:** Duy trì vị thế nắm giữ, tận dụng nhịp tăng giá từ tin tức này để tối ưu hóa lợi nhuận thay vì bán theo chiến lược cũ, trừ khi có tín hiệu phân phối kỹ thuật rõ rệt.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD, PVS**
+  - **Động lực (FA):** Giá dầu tăng mạnh do căng thẳng Iran.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và theo trend đang tập trung mạnh. Giá dầu neo cao trực tiếp cải thiện biên lợi nhuận cho thuê giàn khoan và dịch vụ dầu khí.
+  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
+- **Mã: PNJ**
+  - **Động lực (FA):** Lập kỷ lục thanh khoản, nhu cầu tiêu thụ trang sức cao cấp phục hồi.
+  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart Money) đang xác nhận vào xu hướng tăng.
+  - **Hành động:** Tiếp tục nắm giữ, bám sát hỗ trợ gần nhất.
+- **Mã: HAG**
+  - **Động lực (FA):** Giá sầu riêng giảm mạnh.
+  - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do biên lợi nhuận mảng trái cây bị đe dọa.
+  - **Hành động:** Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại vùng nền cứng.
+- **Mã: TCB**
+  - **Động lực (FA):** TCBS mở rộng kênh phân phối quỹ mở, tăng doanh thu phí.
+  - **Nhận định dòng tiền:** Củng cố sự bền vững của hệ sinh thái tài chính, dòng tiền trung hạn duy trì ổn định.
+  - **Hành động:** Tiếp tục quan sát để gom thêm nếu thị trường chung điều chỉnh.
