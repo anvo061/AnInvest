@@ -1,24 +1,24 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 05:15 (09/07/2026)
+⏱ **Thời gian:** 17:45 - 09/07/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Fed Minutes diều hâu & Căng thẳng Iran:** Biên bản Fed cho thấy khả năng tăng lãi suất tháng 6, kết hợp rủi ro địa chính trị (Trump/Iran) gây áp lực lên tỷ giá và dòng vốn ngoại. -> **Tiêu cực (Ngắn hạn)** -> Dòng tiền có xu hướng rút khỏi nhóm vốn hóa lớn (VHM, SSI) và tìm đến nhóm phòng thủ hoặc hưởng lợi từ giá dầu (PVD, PVS).
-- **Xu hướng "Bắt buộc xanh" (ESG) trong BĐS KCN:** Quy định mới về tiêu chuẩn xanh cho FDI tạo ra bộ lọc chọn lọc doanh nghiệp. -> **Tích cực (Dài hạn)** -> Dòng tiền tập trung vào KBC, GVR, SZC có quỹ đất sạch và hạ tầng chuẩn ESG.
+- **Dự báo GDP 2026 đạt 7.3% và Tăng trưởng Châu Á đạt 4.9%:** -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (VCB, TCB, MBB) nhờ kỳ vọng tăng trưởng tín dụng và nhóm Bán lẻ (MWG) nhờ cải thiện sức mua nội địa.
+- **Tỉ giá tăng gây áp lực lên chi phí vay ngoại tệ và rủi ro ngoại hối:** -> **Tiêu cực** -> Áp lực lên nhóm doanh nghiệp nợ vay USD lớn (POW, HPG) nhưng tạo dư địa tăng trưởng cho nhóm Xuất khẩu (VHC, TNG).
+- **Giá xăng giảm hỗ trợ chi phí logistics:** -> **Tích cực** -> Cải thiện biên lợi nhuận cho nhóm Vận tải, Logistics (VTP, GMD).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD, PVS**
-  - **Động lực (FA):** Giá dầu tăng mạnh do căng thẳng Iran.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và theo trend đang tập trung mạnh. Giá dầu neo cao trực tiếp cải thiện biên lợi nhuận cho thuê giàn khoan và dịch vụ dầu khí.
-  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: PNJ**
-  - **Động lực (FA):** Lập kỷ lục thanh khoản, nhu cầu tiêu thụ trang sức cao cấp phục hồi.
-  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart Money) đang xác nhận vào xu hướng tăng.
-  - **Hành động:** Tiếp tục nắm giữ, bám sát hỗ trợ gần nhất.
-- **Mã: HAG**
-  - **Động lực (FA):** Giá sầu riêng giảm mạnh.
-  - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do biên lợi nhuận mảng trái cây bị đe dọa.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại vùng nền cứng.
-- **Mã: TCB**
-  - **Động lực (FA):** TCBS mở rộng kênh phân phối quỹ mở, tăng doanh thu phí.
-  - **Nhận định dòng tiền:** Củng cố sự bền vững của hệ sinh thái tài chính, dòng tiền trung hạn duy trì ổn định.
-  - **Hành động:** Tiếp tục quan sát để gom thêm nếu thị trường chung điều chỉnh.
+- **Mã: PVD**
+    - **Động lực (FA):** Giá dầu duy trì đà bứt phá, hỗ trợ giá dịch vụ khoan.
+    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn đang phản ứng tích cực với giá dầu, tạo sự tách biệt so với xu hướng bán ròng của khối ngoại ở nhóm Bluechips.
+    - **Hành động:** Tiếp tục quan sát đà tăng tại vùng kháng cự, không mua đuổi nếu vol không đột biến.
+- **Mã: MWG**
+    - **Động lực (FA):** Hưởng lợi từ dự báo GDP cao và kỳ vọng phục hồi biên lợi nhuận quý 2/2026.
+    - **Nhận định dòng tiền:** Mặc dù chịu áp lực bán ròng từ khối ngoại, nhưng kỳ vọng tăng trưởng nội tại là điểm tựa giữ giá.
+    - **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh về vùng hỗ trợ do áp lực bán từ khối ngoại gây ra.
+- **Mã: VCB**
+    - **Động lực (FA):** Hưởng lợi từ tăng trưởng tín dụng, nhưng chịu áp lực nợ xấu tại tòa và áp lực bán ròng từ khối ngoại.
+    - **Nhận định dòng tiền:** Dòng tiền đang bị giằng co giữa yếu tố vĩ mô tích cực và áp lực rút vốn từ quỹ ngoại.
+    - **Hành động:** Tiếp tục quan sát, chưa giải ngân mới cho đến khi áp lực bán ròng của khối ngoại hạ nhiệt.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR (Danh mục trung hạn):** Giá xăng dầu biến động và giá dầu thế giới hỗ trợ biên lợi nhuận của BSR. Tuy nhiên, do đã qua thời điểm rơi kỳ vọng tháng 3/2026, nhà đầu tư cần chuyển trạng thái sang **quản trị rủi ro chặt chẽ**: Nếu biên lợi nhuận quý 2/2026 không đạt mức tăng trưởng đột biến, cần chủ động chốt lời để xoay vòng vốn sang các ngành có tăng trưởng GDP hỗ trợ trực tiếp.
