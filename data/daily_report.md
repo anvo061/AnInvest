@@ -1,21 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:45
+⏱ Thời gian: 06:05 - 10/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- GDP Việt Nam tăng trưởng vượt dự báo bất chấp thuế quan, củng cố vị thế dòng vốn FDI -> Tích cực cho nhóm Bất động sản khu công nghiệp (KCN).
-- Áp lực rút vốn từ quỹ Dragon Capital tại các mã Bluechips -> Tiêu cực cho thanh khoản thị trường chung và nhóm Ngân hàng/Thép/Vốn hóa lớn.
-- Khủng hoảng năng lượng toàn cầu (ADB hạ dự báo) -> Tiêu cực cho nhóm sản xuất thâm dụng năng lượng (Thép, Dệt may).
+- Tăng trưởng GDP vượt kỳ vọng bất chấp rào cản thương mại, củng cố vị thế Việt Nam trong chuỗi cung ứng toàn cầu -> [Tích cực] -> Dòng tiền dự báo tập trung vào nhóm Bất động sản Khu công nghiệp (KBC, GVR, SZC) và các doanh nghiệp có hạ tầng sản xuất bền vững.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: KBC
-  - Động lực (FA): Hưởng lợi kép từ dữ liệu GDP tăng trưởng ổn định và tiềm năng hạ tầng tại Bắc Ninh (lộ trình thành phố trực thuộc TƯ).
-  - Nhận định dòng tiền: Nhận tín hiệu hỗ trợ từ vĩ mô, khả năng chống chịu tốt hơn so với mặt bằng chung trước áp lực bán từ quỹ ngoại.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo thị trường chung.
-- Mã: HPG
-  - Động lực (FA): Chịu áp lực bán từ quỹ ngoại (Dragon Capital) và rủi ro biên lợi nhuận bị bào mòn do chi phí năng lượng tăng.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu, áp lực cung lớn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chưa vội bắt đáy.
-- Mã: GMD
-  - Động lực (FA): Hưởng lợi từ đề xuất cơ chế đặc thù cho các dự án logistics và cảng biển.
-  - Nhận định dòng tiền: Dòng tiền kỳ vọng vào các dự án hạ tầng chiến lược, tạo điểm tựa trung hạn.
-  - Hành động: Tiếp tục quan sát điểm entry an toàn.
+- Mã: **BSR**
+- Động lực (FA): Ký kết thành công hợp đồng tổng thầu dự án mở rộng nhà máy lọc dầu Dung Quất.
+- Nhận định dòng tiền: Tin tức xác nhận lộ trình tăng trưởng công suất dài hạn, kích hoạt dòng tiền vào nhóm cổ phiếu dầu khí vốn hóa lớn.
+- Hành động: **Chú ý giải ngân** theo kịch bản tái cơ cấu (xem mục 3).
+
+- Mã: **ACV**
+- Động lực (FA): Sự gia tăng nhanh chóng của đội tàu bay thương gia tại Việt Nam.
+- Nhận định dòng tiền: Nhu cầu dịch vụ hàng không cao cấp tăng trưởng tạo dư địa tăng biên lợi nhuận từ phí hạ tầng.
+- Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng cản kỹ thuật.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dự án mở rộng nhà máy lọc dầu vừa đạt cột mốc mới. Dữ liệu này là "chất xúc tác" mạnh mẽ cho tăng trưởng sau 2026. Thay vì cắt giảm theo lộ trình cũ, khuyến nghị **duy trì vị thế** và nâng mục tiêu nắm giữ sang giai đoạn hiện thực hóa công suất mới.
