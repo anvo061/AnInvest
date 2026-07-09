@@ -1,5 +1,272 @@
 ﻿[
   {
+    "Title": "Vietnam Economy Expands Despite Tariffs, Beating Estimates - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTM5ZnlkTVB6SGNNVXlqVjUtLWxnM1E1SW5jU3dicHhVaVB6Q3lqYnFidU5wYmc5aVlKanY5RXZoVkw2YWd2TlNaWVp3Q0IzUFZDNDhCaW9vcVl3Ul83RWJZb3FpZVJhNzdLUmJNR1JaWUdENUkzY28wMkM3U1gyMEFEVkNLSE9tWml0VEx6N1ZsajhDTmpqdUJwd2VoUks2UGZDd0hRS1ZXVkRXZUtDSVdBWQ?oc=5",
+    "PubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Tăng trưởng GDP vượt kỳ vọng bất chấp rào cản thuế quan khẳng định sức chống chịu của nền kinh tế, củng cố niềm tin cho dòng vốn ngoại (FDI) và nhóm cổ phiếu sản xuất, khu công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. GDP vượt kỳ vọng củng cố dòng vốn FDI. Tập trung nhóm Khu công nghiệp (KBC, GVR, SZC) nhờ lợi thế quỹ đất và nhu cầu thuê hạ tầng sản xuất.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ làn sóng FDI duy trì ổn định bất chấp rào cản thương mại."
+      },
+      {
+        "Ticker": "GVR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Quỹ đất khu công nghiệp lớn, hưởng lợi từ nhu cầu thuê đất sản xuất tăng cao."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng kinh tế tích cực thúc đẩy nhu cầu thuê đất tại các khu công nghiệp trọng điểm."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:35:45"
+  },
+  {
+    "Title": "Thống kê từ năm 2011 hé lộ một tín hiệu tích cực cho chứng khoán Việt Nam trong tháng 7 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHlpZlpUeUtQV0c5MFpYd0ZINTRvcXdoQW5BOTc1aHdhWlFBNlc1X3puZEtQMk9OOHMzWWpOTHpIaG1udUFkVmxBRGZaNGV4eG5uYW5BaUdmV1ZOM2cwMXNGR045VjRmYXVHZm1fMzIyWU5pY1NlMXAtSzB3SGprNlpaZHh6NUVnMld4T0V1Zms4M2hnWTc1WmpFTWd4SE9JUlBnRTFZWGN3am5IRkQtMF9mU0REY1Iwd3JxaDRFVk90RTQ0Snc?oc=5",
+    "PubDate": "Thu, 09 Jul 2026 17:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Dữ liệu thống kê lịch sử mang tính chất tham khảo, không tác động trực tiếp đến nền tảng tài chính hay hoạt động kinh doanh của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Thống kê lịch sử không phải là yếu tố thay đổi dòng tiền thông minh. Nhà đầu tư nên tập trung vào kết quả kinh doanh quý 2 thay vì dữ liệu quá khứ.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:35:31"
+  },
+  {
+    "Title": "Một công ty chứng khoán muốn chuyển trụ sở chính về TP trực thuộc Trung ương mới nhất của Việt Nam - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmR3dEx1S0xPMThsT0owY0p1cktvMGFvVlZuY1IwLUk2V1V4NG9CNEptbjI1bUhqd3RaVFBWWkxkck9EQVgySFVJY1V4eWY3UEFoZ1BxczBOaXowczU2MnBFa09HMVRycVFmMDNtY0p4aVdRaUM2OEJLNzdveWxzN05IS2ZzOU11VDk1QzNKR1ZHeFJRcDhDRFNydjBjb2dFckxGb1lVUVpnT0ZXczhGNV9RanNfMGFNNnM2RXpaeFVGVWNxU1RSWVJ5ZmROcDUweUdhNA?oc=5",
+    "PubDate": "Thu, 09 Jul 2026 17:13:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc thay đổi địa điểm trụ sở chính là hoạt động hành chính nội bộ, không làm thay đổi mô hình kinh doanh, doanh thu hay lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Thay đổi địa chỉ trụ sở là thủ tục hành chính, không ảnh hưởng đến dòng tiền hay vị thế cạnh tranh của doanh nghiệp trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:35:21"
+  },
+  {
+    "Title": "Quỹ ngoại tỷ USD do Dragon Capital quản lý chịu áp lực rút vốn - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDRVdXlUWGctT1JoTWs3cHpiS0VJSmJSOVJsRzBIQXpLU1RmVld2VUpLTUU2dVBkeXhhZjFCLVVreUg2VXQ4aVUxbjk3bnhJRi0tRlRhYkFodVJ0M1NCdG1IbnN5ZTBVT1VWa2JhUXE0WTRVbVVLWnY3MVdKeU1nRGNLWWV1LVItRWl1OHZRZFZhcnVOcjVhVDdwLVdQSTBFRU1ZUg?oc=5",
+    "PubDate": "Wed, 08 Jul 2026 17:01:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Áp lực rút vốn từ các quỹ lớn của Dragon Capital tạo tâm lý tiêu cực lên các mã cổ phiếu vốn hóa lớn (Bluechips) mà quỹ này đang nắm giữ tỷ trọng cao, gây áp lực bán ròng trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực rút vốn quỹ ngoại gây sức ép lên nhóm Bluechips. Cần theo dõi sát biến động cung cầu tại các mã có tỷ trọng sở hữu ngoại cao để tránh rủi ro bị bán giải chấp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu nằm trong danh mục nắm giữ lớn của Dragon Capital, chịu áp lực bán ròng trực tiếp."
+      },
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh mục đầu tư trọng điểm của các quỹ ngoại, chịu rủi ro bị thoái vốn."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu ngân hàng có tỷ trọng sở hữu cao từ khối ngoại, chịu áp lực cung ngắn hạn."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mã vốn hóa lớn chịu áp lực bán từ các quỹ ETF và quỹ chủ động khi có nhu cầu thanh khoản."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:35:07"
+  },
+  {
+    "Title": "Một hệ thống cầm đồ chào bán ra công chúng hơn 22 triệu cổ phiếu",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/mot-he-thong-cam-do-chao-ban-ra-cong-chung-hon-22-trieu-co-phieu-100260709204050402.htm",
+    "PubDate": "7/9/2026 9:17:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc chào bán cổ phiếu của một doanh nghiệp cầm đồ quy mô nhỏ không gây tác động đáng kể đến thanh khoản hay xu hướng chung của thị trường chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Đây là hoạt động huy động vốn riêng lẻ của doanh nghiệp nhỏ, không tạo sóng dòng tiền hay thay đổi cấu trúc thị trường. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:34:55"
+  },
+  {
+    "Title": "Giá vàng thế giới bất ngờ hồi phục, trong nước tăng 500.000 đồng/lượng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-hoi-phuc-len-tren-4100-usd-ounce-trong-nuoc-tang-500000-dong-100260709212957964.htm",
+    "PubDate": "7/9/2026 9:41:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng chủ yếu ảnh hưởng đến thị trường bán lẻ vàng miếng/trang sức, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng là kênh đầu tư thay thế, không tác động đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:34:46"
+  },
+  {
+    "Title": "Bắc Ninh tăng trưởng 10,56%, dồn lực cho tham vọng thành phố trực thuộc TƯ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/bac-ninh-tang-truong-10-56-don-luc-cho-tham-vong-thanh-pho-truc-thuoc-tu-2534064.html",
+    "PubDate": "Thu, 09 Jul 2026 20:02:31 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Tăng trưởng kinh tế mạnh mẽ và lộ trình lên thành phố trực thuộc Trung ương thúc đẩy nhu cầu hạ tầng, bất động sản công nghiệp và dân cư tại Bắc Ninh.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - BĐS KCN Bắc Ninh. Tin vĩ mô địa phương hỗ trợ tâm lý, nhưng tác động thực tế phụ thuộc vào tiến độ giải phóng mặt bằng và dòng vốn FDI thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu quỹ đất khu công nghiệp lớn tại Bắc Ninh, hưởng lợi trực tiếp từ làn sóng FDI và phát triển hạ tầng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:34:32"
+  },
+  {
+    "Title": "Trung Quốc miệt mài gom vàng suốt 19 tháng để làm điều chưa từng có",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/trung-quoc-miet-mai-gom-vang-suot-19-thang-de-lam-dieu-chua-tung-co-2533165.html",
+    "PubDate": "Thu, 09 Jul 2026 20:06:18 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc Trung Quốc liên tục mua vàng đẩy giá vàng thế giới neo cao, tạo tâm lý tích cực cho các doanh nghiệp kinh doanh vàng bạc và trang sức tại Việt Nam nhờ hưởng lợi từ giá trị tồn kho và nhu cầu đầu tư trú ẩn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá vàng cao gây áp lực chi phí đầu vào cho PNJ, biên lợi nhuận gộp có thể bị thu hẹp do khó chuyển chi phí sang người tiêu dùng. Cần theo dõi sức mua thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ giá vàng neo cao giúp tăng giá trị hàng tồn kho và biên lợi nhuận gộp từ mảng bán lẻ trang sức."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:34:17"
+  },
+  {
+    "Title": "Cổ phiếu 'đại gia' một thời sắp hủy niêm yết sau khi lãnh đạo bị khởi tố",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/co-phieu-dai-gia-mot-thoi-sap-huy-niem-yet-sau-khi-lanh-dao-bi-khoi-to-2534272.html",
+    "PubDate": "Thu, 09 Jul 2026 21:27:22 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc hủy niêm yết do lãnh đạo bị khởi tố gây tâm lý hoang mang, làm giảm niềm tin của nhà đầu tư vào quản trị doanh nghiệp và gây áp lực bán tháo cổ phiếu liên quan.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm cổ phiếu đầu cơ. Rủi ro pháp lý và hủy niêm yết kích hoạt làn sóng bán tháo. Dòng tiền thông minh sẽ tránh xa các mã có tiền sử quản trị yếu kém.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "FLC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro hủy niêm yết bắt buộc do vi phạm nghiêm trọng nghĩa vụ công bố thông tin và lãnh đạo bị khởi tố."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:34:02"
+  },
+  {
+    "Title": "Agribank tăng vốn gần 30.000 tỷ đồng, củng cố vai trò ngân hàng chủ lực",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//agribank-tang-von-gan-30000-ty-dong-cung-co-vai-tro-ngan-hang-chu-luc.html",
+    "PubDate": "Thu, 09 Jul 2026 00:34:22 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Agribank là ngân hàng thương mại nhà nước chưa niêm yết trên sàn chứng khoán. Việc tăng vốn điều lệ không tác động trực tiếp đến thanh khoản hay giá cổ phiếu của các ngân hàng thương mại cổ phần đang niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Agribank chưa niêm yết, việc tăng vốn không tạo biến động dòng tiền trực tiếp lên các mã ngân hàng trên sàn. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:33:52"
+  },
+  {
+    "Title": "Agribank chào bán 15.000 tỷ đồng trái phiếu ra công chúng năm 2026",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//agribank-chao-ban-15000-ty-dong-trai-phieu-ra-cong-chung-nam-2026.html",
+    "PubDate": "Thu, 09 Jul 2026 10:50:25 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc Agribank huy động vốn qua trái phiếu là hoạt động nghiệp vụ bình thường để tăng vốn cấp 2, không tác động trực tiếp đến giá cổ phiếu các ngân hàng niêm yết trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Đây là hoạt động huy động vốn thông thường của ngân hàng quốc doanh. Không tạo ra sự dịch chuyển dòng tiền đáng kể trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:33:43"
+  },
+  {
+    "Title": "Địa ốc Xây dựng 3 xin gia hạn thanh toán hơn 130 tỷ đồng gốc, lãi trái phiếu",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//dia-oc-xay-dung-3-xin-gia-han-thanh-toan-hon-130-ty-dong-goc-lai-trai-phieu.html",
+    "PubDate": "Thu, 09 Jul 2026 11:34:59 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Thông tin phản ánh rủi ro thanh khoản vẫn hiện hữu tại các doanh nghiệp bất động sản quy mô nhỏ, gây áp lực tâm lý lên nhóm cổ phiếu bất động sản có đòn bẩy tài chính cao.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS. Rủi ro trái phiếu doanh nghiệp vẫn là bóng ma tâm lý. Dòng tiền thông minh sẽ thận trọng với các mã BĐS có cấu trúc tài chính yếu, ưu tiên nhóm vốn hóa lớn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:33:34"
+  },
+  {
+    "Title": "ADB hạ dự báo tăng trưởng Đông Nam Á do khủng hoảng năng lượng toàn cầu",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/adb-ha-du-bao-tang-truong-dong-nam-a-do-khung-hoang-nang-luong-toan-cau-5095636.html",
+    "PubDate": "Thu, 09 Jul 2026 22:10:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Khủng hoảng năng lượng làm tăng chi phí đầu vào cho các ngành sản xuất, gây áp lực lên biên lợi nhuận doanh nghiệp và làm chậm đà tăng trưởng kinh tế chung.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Sản xuất. Chi phí năng lượng tăng gây áp lực biên lợi nhuận. Dòng tiền thận trọng với nhóm thâm dụng năng lượng như HPG, NKG, TNG.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngành thép thâm dụng năng lượng cao, chi phí sản xuất tăng làm giảm biên lợi nhuận gộp."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngành dệt may chịu áp lực chi phí vận hành và điện năng, ảnh hưởng trực tiếp đến lợi nhuận ròng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:33:20"
+  },
+  {
+    "Title": "Lãnh đạo F88: 'Được Ngân hàng Nhà nước quản lý có thể là cơ hội để công ty phát triển'",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/lanh-dao-f88-duoc-ngan-hang-nha-nuoc-quan-ly-co-the-la-co-hoi-de-cong-ty-phat-trien-5095604.html",
+    "PubDate": "Thu, 09 Jul 2026 23:29:27 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "F88 là doanh nghiệp tư nhân chưa niêm yết. Việc quản lý chặt chẽ hơn từ NHNN giúp minh bạch hóa thị trường tài chính tiêu dùng nhưng không tác động trực tiếp đến các mã cổ phiếu ngân hàng hay tài chính trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Tài chính. F88 chưa niêm yết, tin tức mang tính định hướng quản lý ngành, không tạo biến động dòng tiền cho các mã ngân hàng hay công ty tài chính trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 00:33:10"
+  },
+  {
+    "Title": "Đề xuất cơ chế đặc thù cho dự án đô thị lấn biển, logistics",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/de-xuat-co-che-dac-thu-cho-du-an-do-thi-lan-bien-logistics-5095614.html",
+    "PubDate": "Thu, 09 Jul 2026 23:30:23 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Cơ chế đặc thù tháo gỡ nút thắt pháp lý cho các dự án quy mô lớn, đặc biệt là các dự án đô thị lấn biển và hạ tầng cảng biển, giúp đẩy nhanh tiến độ ghi nhận doanh thu cho các doanh nghiệp BĐS và logistics.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Đề xuất cơ chế mới chỉ dừng ở mức chủ trương, chưa có văn bản pháp lý cụ thể. Cần theo dõi tiến độ thực thi trước khi giải ngân.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cơ chế đặc thù cho logistics thúc đẩy mở rộng hạ tầng cảng biển và hiệu suất khai thác."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 00:32:55"
+  },
+  {
     "Title": "ADB raises developing Asia 2026 growth forecast to 4.9% - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlNEb19qdmRaQWU5SFNHVERUTWs2ekEzc2wxVHR2NWc5ZjJVVTBYSkJXSmZadmY5SnlTeXdjWXJiaFRjeUZPRVM2enFrT2hwa3RiSU1kUmR0dFlhUXY3MU1GR2dpdVlDYWZQYW9ieGNuYzA2eno1YWhLSUlrR2dVU2p1QXZyNzc4NGRKZm1td3h3LTZ5SmV1TlhqOVp2V1U4bnlnRDhuQm4?oc=5",
