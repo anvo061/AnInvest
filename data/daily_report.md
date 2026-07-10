@@ -1,26 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:30 - 11/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 04:45 - 11/07/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- World Bank dự báo GDP Việt Nam 2025 đạt 6.8% -> Tích cực -> Dòng tiền kỳ vọng xoay trục vào nhóm Ngân hàng (VCB), Bất động sản khu công nghiệp (KBC) và Chứng khoán (SSI).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Căng thẳng địa chính trị Mỹ-Iran gia tăng:** Giá dầu thô có xu hướng tăng do lo ngại gián đoạn nguồn cung -> **Tích cực** cho nhóm Dầu khí (Thượng nguồn & Dịch vụ) -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **PVD, PVS, BSR**.
+- **Cải thiện hạ tầng thanh toán chứng khoán:** Bộ Tài chính lấy ý kiến về cơ chế bù trừ, thanh toán -> **Tích cực** (kỳ vọng nâng hạng) -> Dòng tiền hỗ trợ nhóm **Chứng khoán (SSI, VND)**.
+- **Huy động vốn ngoại thành công (HDB):** HDBank thu hút 721 triệu USD từ các định chế quốc tế -> **Tích cực** cho nhóm Ngân hàng nhờ tối ưu hóa chi phí vốn (NIM).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PNJ**
-  - Động lực (FA): Dữ liệu xung đột giữa việc VinaCapital thoái vốn (áp lực cung ngắn hạn) và nhu cầu tích trữ vàng trong khu vực tăng cao (hỗ trợ doanh thu bán lẻ).
-  - Nhận định dòng tiền: Tạo ra biến động nhiễu (volatility) lớn. Cần quan sát khả năng hấp thụ của dòng tiền nội tại trước lực bán từ quỹ ngoại.
-  - Hành động: Tiếp tục quan sát. Tránh giải ngân đuổi giá trong các phiên rung lắc do tin thoái vốn; chờ tín hiệu cân bằng tại vùng hỗ trợ cứng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD**
+    - **Động lực (FA):** Căng thẳng địa chính trị Trung Đông đẩy giá dầu tăng, cải thiện giá thuê giàn khoan.
+    - **Nhận định dòng tiền:** Hưởng lợi từ tâm lý FOMO của dòng tiền đầu cơ hàng hóa trước biến động vĩ mô.
+    - **Hành động:** Chú ý giải ngân (Canh rung lắc trong phiên để gia tăng vị thế).
+- **Mã: HDB**
+    - **Động lực (FA):** Huy động thành công 721 triệu USD từ ADB và các đối tác ngoại.
+    - **Nhận định dòng tiền:** Củng cố sức mạnh bảng cân đối, dòng tiền lớn có xu hướng gom hàng vùng giá nền tốt.
+    - **Hành động:** Tiếp tục quan sát (Chờ điểm xác nhận bứt phá kháng cự gần nhất).
+- **Mã: SSI**
+    - **Động lực (FA):** Câu chuyện nâng hạng thị trường qua cải thiện cơ chế thanh toán.
+    - **Nhận định dòng tiền:** Hưởng lợi từ kỳ vọng thanh khoản thị trường tăng, dòng tiền thông minh duy trì xu hướng tích lũy.
+    - **Hành động:** Tiếp tục quan sát.
 
-- **Mã: GDT**
-  - Động lực (FA): Thua kiện triệu USD với Amazon.
-  - Nhận định dòng tiền: Rủi ro tiêu cực cực cao, khả năng xuất hiện lực bán tháo theo tâm lý đám đông ngay khi mở phiên.
-  - Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, thoát vị thế nếu giá vi phạm các ngưỡng hỗ trợ kỹ thuật trọng yếu.
-
-- **Mã: POW**
-  - Động lực (FA): Điều chỉnh giá bán lẻ điện bình quân theo quy định mới.
-  - Nhận định dòng tiền: Tin tức trực diện giúp cải thiện biên lợi nhuận, có thể tạo lực kéo tích cực đối với nhóm tiện ích (điện).
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật với thanh khoản gia tăng.
-
-- **Mã: KTT**
-  - Động lực (FA): Duy trì diện cảnh báo.
-  - Nhận định dòng tiền: Mất thanh khoản và rủi ro bị cắt Margin.
-  - Hành động: Loại khỏi danh sách theo dõi thực chiến.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR:** Dữ liệu địa chính trị (giá dầu tăng) hiện tại hỗ trợ trực tiếp cho biên lợi nhuận lọc dầu. Dù đang trong giai đoạn nắm giữ mục tiêu tháng 3/2026, các yếu tố vĩ mô này củng cố luận điểm **tiếp tục nắm giữ** (Hold) để tối ưu hóa lợi nhuận kỳ vọng, chưa cần cơ cấu lại dòng tiền.
