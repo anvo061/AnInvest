@@ -1,5 +1,230 @@
 ﻿[
   {
+    "Title": "VE8: Quyết định đưa vào diện cảnh báo và Thông báo về trạng thái chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjRMUDhrMlphVnhxMVNhNkRvdE5FeHlkY2VXTU9LVklPSHZCTWhOV1J0MHBGSl9iVHdiYm1EZ0FrdU9HZEJ1WHJTN1NPdjNnUWY4TEJmaTI4WHpwN1YtbWtJZnpfWWZteXdKQ0h3NUk4Zkw1eDB2V2p2R0J4WndkYW9IZlc4SzZGRWJKcTdBWHZ2cXhNdVlaLXNVOXFlY3NDTjlZSF9uVUFZR1l5RUppbk1udjhzSWFHX2VPNGExeUpRY0JtMHh1WERuQWhJRklB?oc=5",
+    "PubDate": "Fri, 10 Jul 2026 09:51:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc đưa cổ phiếu vào diện cảnh báo phản ánh tình trạng tài chính hoặc tuân thủ công bố thông tin không đạt chuẩn, gây rủi ro thanh khoản và tâm lý tiêu cực cho cổ đông.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - VE8. Cổ phiếu bị cảnh báo thường đối mặt với áp lực bán tháo và hạn chế giao dịch ký quỹ. Dòng tiền thông minh sẽ rút lui để tránh rủi ro thanh khoản.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:39:35"
+  },
+  {
+    "Title": "SSI gọi tên 8 doanh nghiệp đáng chú ý trong nửa cuối năm - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2NzcmhkUzZtcV9VWTBEbEgzN2hXdHV0bl9Sck9BYWFvcGJQa3BmdEZ1TzRQZ1lYMVhsTHdyaVJIbFJkWjJHeVhhMkZqNTJCeDVLVnA3T2ZBSXFraUdzenR6aDJQRHI5bnpWUllGRmVNQlRrdEMweWtNRVZkMnVYcVpZVmVTN2k5WkNBd21KeXExc3d1VV90TG1Ed1g?oc=5",
+    "PubDate": "Thu, 09 Jul 2026 17:01:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là báo cáo phân tích định kỳ của công ty chứng khoán, mang tính chất tham khảo thông tin, không phải là sự kiện kinh tế vĩ mô hay thay đổi nội tại doanh nghiệp làm thay đổi cung cầu tức thời.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Báo cáo phân tích chỉ mang tính chất định hướng, không tạo ra biến động dòng tiền đột biến. Nhà đầu tư nên tập trung vào diễn biến cung cầu thực tế tại bảng điện.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:39:25"
+  },
+  {
+    "Title": "Cổ phiếu PNJ tiếp tục bị bán mạnh - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WWk9BYVQtV0xOQ0xEUjhlSld3ek9qeXAwZGpIUmRzR2llN2pVeHlPaTNtbXRwdExxNGotcnE2TUNyVVFnOUxfNnpseF9QRHo0djNBSlFRd0l6cHpJcEMxd3RIVGlLZ1E0RTRqaF83VncwVUhLLTJFVTZHaEJ0dw?oc=5",
+    "PubDate": "Fri, 10 Jul 2026 03:23:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Áp lực bán kỹ thuật mạnh tại PNJ phản ánh tâm lý thận trọng của nhà đầu tư đối với nhóm bán lẻ trang sức trong bối cảnh sức mua tiêu dùng suy giảm.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Áp lực bán tháo kỹ thuật cho thấy dòng tiền lớn đang rút lui. Cần quan sát vùng hỗ trợ cứng, tránh bắt dao rơi khi xu hướng ngắn hạn đang gãy.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán mạnh từ khối ngoại và nhà đầu tư cá nhân gây suy yếu cấu trúc giá ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 17:39:11"
+  },
+  {
+    "Title": "Sacombank bổ nhiệm ông Loic Faussier giữ chức tổng giám đốc",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/sacombank-bo-nhiem-ong-loic-faussier-giu-chuc-tong-giam-doc-10026071015294502.htm",
+    "PubDate": "7/10/2026 3:44:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ bình thường, không tác động trực tiếp đến biên lợi nhuận hay chiến lược kinh doanh cốt lõi của ngân hàng trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ, không tạo ra biến động dòng tiền đột biến. Thị trường sẽ phản ứng trung tính.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:39:01"
+  },
+  {
+    "Title": "Cổ phiếu PNJ tiếp tục giảm, 'bốc hơi' hơn 26% giá trị sau biến cố",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/co-phieu-pnj-tiep-tuc-giam-boc-hoi-hon-26-gia-tri-sau-bien-co-100260710152812385.htm",
+    "PubDate": "7/10/2026 3:52:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Áp lực bán tháo gia tăng do tâm lý hoang mang của nhà đầu tư trước các thông tin tiêu cực liên quan đến doanh nghiệp, gây tổn hại đến định giá và thanh khoản cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Đà bán tháo mạnh mẽ do rủi ro quản trị. Dòng tiền thông minh sẽ đứng ngoài quan sát cho đến khi có tín hiệu cân bằng tại vùng hỗ trợ cứng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tâm lý tiêu cực lan rộng sau biến cố doanh nghiệp, kích hoạt làn sóng bán tháo và cắt lỗ từ nhà đầu tư cá nhân."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 17:38:47"
+  },
+  {
+    "Title": "Nhiều dự án đồng loạt triển khai, Khánh Hòa tìm cách giải quyết thiếu vật liệu xây dựng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nhieu-du-an-dong-loat-trien-khai-khanh-hoa-tim-cach-giai-quyet-thieu-vat-lieu-xay-dung-100260710151759844.htm",
+    "PubDate": "7/10/2026 3:53:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc đẩy mạnh triển khai dự án tại Khánh Hòa tạo nhu cầu lớn về vật liệu xây dựng, đặc biệt là đá xây dựng, giúp các doanh nghiệp khai thác khoáng sản trong khu vực tăng sản lượng tiêu thụ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Nhu cầu hạ tầng Khánh Hòa tăng nhưng thiếu hụt vật liệu là rào cản thực thi. Cần theo dõi các doanh nghiệp có mỏ đá tại chỗ, tránh suy diễn lan man sang các mã không có dự án tại khu vực.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:38:32"
+  },
+  {
+    "Title": "Fumakilla Việt Nam mở rộng nhà máy sản xuất tại KCN Biên Hòa 2 - Đồng Nai",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/fumakilla-viet-nam-mo-rong-nha-may-san-xuat-tai-kcn-bien-hoa-2-dong-nai-2534595.html",
+    "PubDate": "Fri, 10 Jul 2026 17:20:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc mở rộng nhà máy tại KCN Biên Hòa 2 cho thấy nhu cầu thuê đất công nghiệp tại Đồng Nai vẫn duy trì ổn định, hỗ trợ triển vọng doanh thu cho các đơn vị sở hữu quỹ đất tại khu vực này.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất doanh nghiệp đơn lẻ, không tạo sóng ngành. Tác động đến giá thuê KCN tại Đồng Nai là không đáng kể trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:38:14"
+  },
+  {
+    "Title": "Huy động 100 đồng nhưng cho vay tới 117 đồng: Thanh khoản ngân hàng đang “căng”",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//huy-dong-100-dong-nhung-cho-vay-toi-117-dong-thanh-khoan-ngan-hang-dang-cang.html",
+    "PubDate": "Fri, 10 Jul 2026 00:47:11 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Tỷ lệ LDR (cho vay/huy động) vượt ngưỡng gây áp lực lên thanh khoản hệ thống, buộc các ngân hàng phải tăng lãi suất huy động, làm thu hẹp biên lãi ròng (NIM) và gây áp lực lên chi phí vốn của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. LDR vượt ngưỡng gây áp lực thanh khoản, buộc tăng lãi suất huy động. NIM thu hẹp, rủi ro chi phí vốn tăng cao. Thận trọng với các ngân hàng có tỷ trọng tín dụng nóng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ trọng cho vay BĐS cao, áp lực thanh khoản khiến chi phí huy động tăng, ảnh hưởng trực tiếp đến biên lợi nhuận."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tốc độ tăng trưởng tín dụng cao đòi hỏi huy động vốn lớn, áp lực thanh khoản làm tăng chi phí vốn đầu vào."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vốn tăng gây áp lực lớn lên biên lợi nhuận của ngân hàng có tỷ trọng cho vay tiêu dùng và SME cao."
+      },
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực thanh khoản hệ thống làm tăng chi phí huy động, gây khó khăn cho việc duy trì NIM trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 17:38:00"
+  },
+  {
+    "Title": "VIETBANK (VBB) sẽ chính thức chào sàn HOSE vào ngày 14/7",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//vietbank-vbb-se-chinh-thuc-chao-san-hose-vao-ngay-147.html",
+    "PubDate": "Fri, 10 Jul 2026 08:09:04 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc chuyển sàn sang HOSE giúp tăng tính minh bạch, thanh khoản và khả năng tiếp cận dòng vốn ngoại cho VBB, đồng thời cải thiện hình ảnh thương hiệu trên thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - VBB. Chuyển sàn HOSE là sự kiện hành chính, không thay đổi nội tại tài chính. Cần theo dõi thanh khoản thực tế sau niêm yết để xác định dòng tiền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chuyển sàn sang HOSE giúp cải thiện thanh khoản, tăng uy tín và thu hút sự chú ý của các quỹ đầu tư lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 17:37:44"
+  },
+  {
+    "Title": "Cổ phiếu phân bón: Hưng phấn ngắn, thử thách dài?",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//co-phieu-phan-bon-hung-phan-ngan-thu-thach-dai.html",
+    "PubDate": "Fri, 10 Jul 2026 00:47:38 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Nhóm phân bón đang đối mặt với sự phân hóa mạnh sau nhịp tăng nóng. Kỳ vọng giá phục hồi đã phản ánh vào giá, dòng tiền đang có dấu hiệu chốt lời ngắn hạn do lo ngại tính bền vững của biên lợi nhuận.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Phân bón. Dòng tiền đầu cơ đang rút lui sau nhịp tăng nóng. Cần quan sát vùng hỗ trợ kỹ thuật trước khi giải ngân trở lại vào DPM, DCM.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "DPM",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Áp lực chốt lời ngắn hạn sau nhịp tăng trần, cần tích lũy lại vùng giá mới."
+      },
+      {
+        "Ticker": "DCM",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tương tự DPM, dòng tiền thông minh đang thận trọng trước biến động giá phân bón thế giới."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 17:37:30"
+  },
+  {
+    "Title": "Ngành sản xuất Mỹ lao đao vì trung tâm dữ liệu 'khát' điện",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nganh-san-xuat-my-lao-dao-vi-trung-tam-du-lieu-khat-dien-5095854.html",
+    "PubDate": "Fri, 10 Jul 2026 15:06:28 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Nhu cầu điện năng khổng lồ từ trung tâm dữ liệu toàn cầu thúc đẩy triển vọng ngành thiết bị điện và hạ tầng năng lượng Việt Nam, đặc biệt là các doanh nghiệp sản xuất dây cáp điện và thiết bị điện công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức vĩ mô Mỹ chưa tác động trực tiếp đến biên lợi nhuận doanh nghiệp nội địa. Cần theo dõi sát đơn hàng thực tế của GEX, CAV.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:37:16"
+  },
+  {
+    "Title": "Cổ phiếu Gilimex nằm sàn sau khi thua kiện Amazon",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/co-phieu-gilimex-nam-san-sau-khi-thua-kien-amazon-5095954.html",
+    "PubDate": "Fri, 10 Jul 2026 16:10:53 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Việc thua kiện đối tác chiến lược lớn nhất gây thiệt hại nghiêm trọng về doanh thu, dòng tiền và uy tín của Gilimex, tạo áp lực bán tháo mạnh trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - GIL. Mất đối tác lớn làm suy giảm triển vọng tăng trưởng dài hạn. Dòng tiền thông minh sẽ thoát hàng quyết liệt, rủi ro dư bán sàn kéo dài.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GIL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mất nguồn thu trọng yếu từ Amazon, rủi ro tài chính và suy giảm lợi nhuận nghiêm trọng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-10 17:37:01"
+  },
+  {
+    "Title": "Suntory Pepsico đưa vào hoạt động nhà máy lớn nhất châu Á",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/suntory-pepsico-dua-vao-hoat-dong-nha-may-lon-nhat-chau-a-5095926.html",
+    "PubDate": "Fri, 10 Jul 2026 16:21:57 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc mở rộng quy mô sản xuất của Suntory Pepsico tạo hiệu ứng lan tỏa tích cực đến các doanh nghiệp cung ứng bao bì, logistics và nguyên liệu phụ trợ trong chuỗi cung ứng ngành đồ uống tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính PR doanh nghiệp FDI, tác động biên lợi nhuận các mã niêm yết không rõ ràng. Cần theo dõi sát hợp đồng cung ứng thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-10 17:36:46"
+  },
+  {
     "Title": "Vietnam Is Growing at 7%. Hanoi Can Do a Lot Better. - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREFJSUNiYlB5anFwX1pscUFBSUU4NDZtUm9rWnhhLVExQV8tZHVnVFBHVTNDZTNvRl9IWEdVa1BlRXJuRXdHLW5Zbm03MmhFdkQ2eHBnZ3ZCdU5WLWxpdVVWZlA4NzE2TEZzLU5UenNkajFnNHl6bGl6b0lUdnNkbS1RS2RkODNtS01lT2ZUbkxkV0VRakxTV3NpMHBDOGpxZm9MQ3k1bU1ydw?oc=5",
