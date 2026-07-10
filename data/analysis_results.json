@@ -1,5 +1,232 @@
 ﻿[
   {
+    "Title": "World Bank forecasts Vietnam's 2025 GDP growth at 6.8% - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0lVd0dyWkhjOFZiZXYwVmtwV0xDbVdQdEp0d3AySHEtQ3Y0Z0J6X0ZMUkk1YklMYnpkNUtrVWkzMnRLTXBSZHV6Vi1YLWR4bUNWV1pJb2pORl8yUC01M2hDMG1HbThLXy1Kd2NoUlBtaHFHeTNfbUNZSUhSczNqanRmcGF4bGpHZXdmVTEyaDhvMjNVaWhSVndBV0dNUQ?oc=5",
+    "PubDate": "Tue, 11 Mar 2025 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Dự báo tăng trưởng GDP cao củng cố niềm tin của nhà đầu tư nước ngoài, thúc đẩy dòng vốn FDI và cải thiện triển vọng lợi nhuận của các nhóm ngành ngân hàng, bất động sản khu công nghiệp và chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. GDP 6.8% củng cố kỳ vọng tăng trưởng tín dụng và FDI. Tập trung vào nhóm Ngân hàng và BĐS KCN có nền tảng cơ bản tốt.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng GDP cao thúc đẩy nhu cầu tín dụng, hỗ trợ tăng trưởng thu nhập lãi thuần cho ngân hàng quốc doanh."
+      },
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Triển vọng kinh tế tích cực thu hút dòng vốn FDI, trực tiếp hưởng lợi cho quỹ đất khu công nghiệp."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kinh tế vĩ mô ổn định và tăng trưởng giúp cải thiện thanh khoản thị trường, tăng doanh thu môi giới và margin."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:26:42"
+  },
+  {
+    "Title": "Vietnam's 2021 GDP growth slows, exports offer support - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1k3M0VSVHM4RzRpRFFXbTBUVWZ5N3BNaE4xZDBjUzJMRkNYX3c1cnoxMVlnSHFyLU8xT05fWHBBZ09uX2N5YUJGMXRST0NCLWJyaEFVdXU4bFFkX0ljeDFLNjNFR2VOZDJFSEx3bndzSzJxbUE2ZVhsTTg4cjR6aTNmYmlpSFY1Y3UtYnRXVVBlOGk4aXpIZmxPVUJGbnp0cHVn?oc=5",
+    "PubDate": "Tue, 28 Dec 2021 08:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Tăng trưởng GDP chậm lại do đại dịch nhưng xuất khẩu đóng vai trò trụ cột, tạo động lực phục hồi cho các nhóm ngành sản xuất và logistics trong giai đoạn hậu giãn cách.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức cũ (2021) không còn giá trị thực chiến. Dòng tiền hiện tại không phản ứng với dữ liệu quá khứ. Cần tập trung vào dữ liệu vĩ mô thời gian thực.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-11 00:26:26"
+  },
+  {
+    "Title": "KTT: Quyết định duy trì diện cảnh báo và Thông báo về trạng thái chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTHhyMVFmaUJEZ1RJQVFTZEZ6d0VUS1Z2dVBmdkhLQUV6WUhWUzFiY0VOOGlWaWQwNWtVeC1zZHRIXzdnUi1yU0JhWkdaTFBzcHJ5eGhWRDNndFRPQS15bmxWck54R1YzWWw2SkRWNTUyTUN1YTBZX0pLSFAxdWJQc1E1cEJrcS12dzZrYm5idnNETkRyOXpvbWZCRUIxcVZkM3AzUzI3YWRFYi1TX1Y2c3htYVJMUkpHQTBfWGZtTlZMaEs4dFhiX3UzNHo2d05t?oc=5",
+    "PubDate": "Fri, 10 Jul 2026 13:40:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc duy trì diện cảnh báo phản ánh tình trạng tài chính hoặc tuân thủ công bố thông tin chưa cải thiện, gây rủi ro thanh khoản và hạn chế khả năng giao dịch ký quỹ (margin) của cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - KTT. Việc duy trì diện cảnh báo làm giảm niềm tin nhà đầu tư, hạn chế margin và gây áp lực bán tháo ngắn hạn. Dòng tiền thông minh sẽ tiếp tục né tránh mã này.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KTT",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Duy trì diện cảnh báo làm giảm tính hấp dẫn, hạn chế giao dịch margin và gây áp lực tâm lý tiêu cực lên cổ đông."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:26:10"
+  },
+  {
+    "Title": "Chứng khoán \"đỏ lửa\" cuối tuần, VN-Index mất hơn 12 điểm dù khối ngoại mua ròng gần 1.400 tỷ đồng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjdiQWtRWk0tY0c0c2hicEFfbWR1TTNadHNmcFB5d1dQdGM4QW4weXNRMjZZcnBQaGNZTTZvb2xNUU9ONThxcTRub1hZOGJsY0pkbDJsV2VrNHVoQUxHNl9lZzIwM2Y0VF80TFFIZkVrMEdTam1kMEpSa1pja1FpbndPMEV5M1h0VWtGTm1FSzVfcUxlVmpZNkF4bVNPanFGaWNRenpjaFVUTEU0ODhITHNBeExkWjl2MHBsdXdHZ2lDUlBzd3IyQ0FrcS1nQQ?oc=5",
+    "PubDate": "Fri, 10 Jul 2026 09:52:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Tin tức phản ánh diễn biến thị trường đã xảy ra (dữ liệu quá khứ), không phải thông tin định hướng tương lai. Việc khối ngoại mua ròng là tín hiệu hỗ trợ tâm lý nhưng chưa đủ đảo chiều xu hướng ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực bán nội địa áp đảo, khối ngoại mua ròng chỉ mang tính chất đỡ giá kỹ thuật. Thị trường thiếu động lực tăng trưởng, rủi ro điều chỉnh tiếp diễn tại các vùng hỗ trợ.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-11 00:25:55"
+  },
+  {
+    "Title": "Giữa cơn biến động, VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTThnclRxYy1SNHh1Y2FScElCbURNS1lSNkVBWm0xb29NSFp0ZWdMV0I3UmZHV3NCQTl1bHBELTNaVWh0WWhZVmNhdV9HekJqRnF5YVhIbk5fd0pTVGVJWlZYOGhjMC0xLWpEX3E5MF9vR09JS254NW9tY1JwNk9ySnRFZngxM1FZZlVyRWFwRy1SNEFfSlVTNC10bGRUSDhIYjZkVjFhVWh4MjE3cUZVQlI0cmlLdDU3OG4waUFLTXcxZktm?oc=5",
+    "PubDate": "Fri, 10 Jul 2026 11:02:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc quỹ ngoại thoái vốn tạo áp lực cung ngắn hạn lên cổ phiếu PNJ, đồng thời gây tâm lý e ngại cho nhà đầu tư cá nhân về triển vọng tăng trưởng của doanh nghiệp trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Áp lực bán từ quỹ ngoại tạo rào cản tâm lý. Dòng tiền thông minh sẽ quan sát vùng hỗ trợ kỹ thuật trước khi giải ngân trở lại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ cổ đông lớn gây nhiễu cung cầu ngắn hạn và tâm lý tiêu cực cho nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:25:40"
+  },
+  {
+    "Title": "Agribank chào bán 15.000 tỉ đồng trái phiếu ra công chúng năm 2026",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/agribank-chao-ban-15000-ti-dong-trai-phieu-ra-cong-chung-nam-2026-10026071019275295.htm",
+    "PubDate": "7/10/2026 9:01:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc Agribank huy động vốn qua trái phiếu là hoạt động nghiệp vụ bình thường để tăng cường thanh khoản và nguồn vốn trung dài hạn, không tác động trực tiếp đến giá cổ phiếu trên sàn niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Đây là hoạt động huy động vốn thông thường của ngân hàng quốc doanh. Không tạo ra biến động dòng tiền đột biến trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-11 00:25:30"
+  },
+  {
+    "Title": "Cổ phiếu một doanh nghiệp ở TP.HCM có 'biến' sau tin thua kiện triệu USD với Amazon",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/co-phieu-mot-doanh-nghipe-o-tphcm-co-bien-sau-tin-thua-kien-trieu-usd-voi-amazon-100260710210117338.htm",
+    "PubDate": "7/10/2026 9:33:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Việc thua kiện Amazon gây áp lực tài chính lớn và tổn hại uy tín thương hiệu của doanh nghiệp, dẫn đến rủi ro bán tháo cổ phiếu từ nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Mã cổ phiếu liên quan. Khoản bồi thường triệu USD bào mòn lợi nhuận và gây áp lực tâm lý tiêu cực. Dòng tiền sẽ thoát hàng mạnh, tránh bắt đáy trong ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GDT",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp gỗ tại TP.HCM có liên quan trực tiếp đến vụ kiện với Amazon, chịu áp lực tài chính và rủi ro pháp lý."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:25:16"
+  },
+  {
+    "Title": "Chủ show 'Anh trai say hi' công bố báo cáo tài chính: Riêng quản lý nghệ sĩ mang về 559 tỉ, kiếm bộn tiền hơn Yeah1",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chu-show-anh-trai-say-hi-cong-bo-bao-cao-tai-chinh-rieng-quan-ly-nghe-sy-mang-ve-559-ti-kiem-bon-tien-hon-yeah1-100260710201459558.htm",
+    "PubDate": "7/10/2026 9:35:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Kết quả kinh doanh ấn tượng từ mảng quản lý nghệ sĩ và sản xuất nội dung cho thấy tiềm năng tăng trưởng của ngành truyền thông giải trí, tạo áp lực cạnh tranh và định giá lại nhóm cổ phiếu truyền thông.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Doanh thu từ quản lý nghệ sĩ là tin tức đặc thù của doanh nghiệp tư nhân, không phản ánh xu hướng dòng tiền ngành truyền thông niêm yết. Thiếu tác động trực tiếp đến định giá YEG.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-11 00:25:01"
+  },
+  {
+    "Title": "Điều chỉnh giá bán lẻ điện bình quân theo quy định mới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dieu-chinh-gia-ban-le-dien-binh-quan-theo-quy-dinh-moi-2534643.html",
+    "PubDate": "Fri, 10 Jul 2026 20:18:06 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc điều chỉnh giá điện giúp cải thiện biên lợi nhuận cho các doanh nghiệp sản xuất điện, đặc biệt là các đơn vị có giá bán theo khung giá mới, đồng thời giảm áp lực tài chính cho EVN.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tăng giá điện giúp cải thiện biên lợi nhuận EVN và các đơn vị phát điện, nhưng gây áp lực chi phí đầu vào cho nhóm sản xuất công nghiệp. Cần theo dõi phản ứng dòng tiền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ việc tăng giá bán điện bình quân, cải thiện biên lợi nhuận gộp cho các nhà máy điện khí và than."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:24:45"
+  },
+  {
+    "Title": "Làn sóng gom vàng lan khắp Đông Nam Á, xuất hiện những cái tên mới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lan-song-gom-vang-lan-khap-dong-nam-a-xuat-hien-nhung-cai-ten-moi-2533957.html",
+    "PubDate": "Fri, 10 Jul 2026 22:10:54 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Nhu cầu tích trữ vàng tăng cao tại khu vực thúc đẩy doanh thu mảng kinh doanh vàng trang sức của các doanh nghiệp bán lẻ, dù biên lợi nhuận vàng miếng bị kiểm soát chặt.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Nhu cầu vàng tăng chủ yếu là trú ẩn, không phản ánh tăng trưởng tiêu dùng nội tại. PNJ chịu áp lực biên lợi nhuận từ giá vàng biến động mạnh. Cần quan sát dòng tiền.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ nhu cầu mua vàng trang sức tăng cao, củng cố doanh thu bán lẻ."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:24:30"
+  },
+  {
+    "Title": "Động thái mới của nhóm quỹ thuộc VinaCapital giữa lúc cổ phiếu PNJ lao dốc",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dong-thai-moi-cua-nhom-quy-thuoc-vinacapital-giua-luc-co-phieu-pnj-lao-doc-2526517.html",
+    "PubDate": "Fri, 10 Jul 2026 23:06:54 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc quỹ lớn gia tăng tỷ trọng hoặc duy trì vị thế khi giá cổ phiếu điều chỉnh sâu cho thấy niềm tin vào giá trị nội tại của doanh nghiệp, giúp ổn định tâm lý nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - PNJ. Hành động mua gom của quỹ lớn khi giá giảm tạo vùng hỗ trợ cứng. Dòng tiền thông minh đang hấp thụ cung giá thấp, kỳ vọng hồi phục kỹ thuật ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hoạt động mua gom từ tổ chức lớn giúp giảm áp lực bán tháo và tạo tín hiệu tích cực cho nhà đầu tư nhỏ lẻ."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:24:15"
+  },
+  {
+    "Title": "VinaCapital không còn là cổ đông lớn của PNJ",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vinacapital-khong-con-la-co-dong-lon-cua-pnj-5096078.html",
+    "PubDate": "Fri, 10 Jul 2026 21:47:51 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Việc quỹ ngoại thoái vốn tạo áp lực cung ngắn hạn trên thị trường, gây tâm lý e ngại cho nhà đầu tư cá nhân về triển vọng tăng trưởng của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - PNJ. Thoái vốn là hoạt động tái cơ cấu danh mục quỹ ngoại. Cần theo dõi lực hấp thụ tại vùng hỗ trợ kỹ thuật thay vì phản ứng thái quá.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ cổ đông lớn gây nhiễu cung cầu ngắn hạn, tạo tâm lý tiêu cực cho nhà đầu tư nhỏ lẻ."
+      }
+    ],
+    "AnalyzedAt": "2026-07-11 00:23:56"
+  },
+  {
+    "Title": "Chứng khoán Việt Nam ra sao nửa cuối năm?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chung-khoan-viet-nam-ra-sao-nua-cuoi-nam-5095207.html",
+    "PubDate": "Sat, 11 Jul 2026 00:05:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Triển vọng tăng trưởng kinh tế và kỳ vọng nâng hạng thị trường thúc đẩy tâm lý nhà đầu tư, cải thiện thanh khoản và dòng tiền vào nhóm cổ phiếu tài chính, chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tổng quan vĩ mô, thiếu dữ liệu định lượng cụ thể. Cần quan sát dòng tiền thực tế tại nhóm chứng khoán thay vì kỳ vọng định tính.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-11 00:23:41"
+  },
+  {
     "Title": "VE8: Quyết định đưa vào diện cảnh báo và Thông báo về trạng thái chứng khoán - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjRMUDhrMlphVnhxMVNhNkRvdE5FeHlkY2VXTU9LVklPSHZCTWhOV1J0MHBGSl9iVHdiYm1EZ0FrdU9HZEJ1WHJTN1NPdjNnUWY4TEJmaTI4WHpwN1YtbWtJZnpfWWZteXdKQ0h3NUk4Zkw1eDB2V2p2R0J4WndkYW9IZlc4SzZGRWJKcTdBWHZ2cXhNdVlaLXNVOXFlY3NDTjlZSF9uVUFZR1l5RUppbk1udjhzSWFHX2VPNGExeUpRY0JtMHh1WERuQWhJRklB?oc=5",
