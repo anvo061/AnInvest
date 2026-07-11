@@ -1,28 +1,31 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:20 - 11/07/2026
+⏱ Thời gian: 17:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Năng lượng & Dầu khí:** Căng thẳng địa chính trị Iran - Mỹ và việc tồn đọng dầu trên biển hỗ trợ giá dầu neo cao -> **Tích cực** cho nhóm Thượng nguồn và Dịch vụ dầu khí.
-- **Pháp lý điện lực:** Hoàn thiện hành lang pháp lý điện lực tạo tiền đề tháo gỡ nút thắt đầu tư -> **Tích cực** cho nhóm Xây lắp điện và Thiết bị năng lượng.
+- Căng thẳng địa chính trị leo thang do lệnh trừng phạt mới của Mỹ với Iran -> [Đánh giá tác động: Tiêu cực (Lạm phát chi phí đẩy)] -> [Dòng tiền sẽ hướng vào nhóm Năng lượng (Dầu khí) để trú ẩn ngắn hạn và né tránh nhóm Vận tải biển/Logistics].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: PVD**
-    - Động lực (FA): Giá dầu neo cao do lo ngại gián đoạn nguồn cung (dầu Iran kẹt trên biển, rủi ro địa chính trị).
-    - Nhận định dòng tiền: Kỳ vọng gia tăng nhu cầu thuê giàn khoan và cải thiện đơn giá dịch vụ trong ngắn hạn.
-    - Hành động: Tiếp tục quan sát để tìm điểm gia tăng tỷ trọng theo sóng giá dầu.
-- **Mã: ABS**
-    - Động lực (FA): Lợi nhuận 6 tháng đầu năm đạt mức kỷ lục.
-    - Nhận định dòng tiền: Tạo hiệu ứng tâm lý tích cực, kích thích dòng tiền đầu cơ vào nhóm chứng khoán vốn hóa vừa và nhỏ.
-    - Hành động: Chú ý giải ngân nếu xuất hiện xác nhận khối lượng đột biến.
-- **Mã: DIG**
-    - Động lực (FA): Lãnh đạo tiếp tục bị bán giải chấp cổ phiếu.
-    - Nhận định dòng tiền: Tạo áp lực cung treo lơ lửng, gây suy yếu tâm lý nhà đầu tư và gây nhiễu cho xu hướng kỹ thuật.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy trong giai đoạn áp lực bán giải chấp chưa dứt.
-- **Mã: BCG**
-    - Động lực (FA): Rủi ro quản trị doanh nghiệp sau thông tin xin lỗi cổ đông.
-    - Nhận định dòng tiền: Tâm lý tiêu cực lan tỏa, áp lực bán tháo ngắn hạn gia tăng.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc giảm tỷ trọng.
+    - Động lực (FA): Giá dầu dự báo tăng do bất ổn địa chính trị tại Trung Đông.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ kỳ vọng giá dịch vụ khoan tăng, dòng tiền đầu cơ sẽ dịch chuyển mạnh vào nhóm dầu khí thượng nguồn.
+    - Hành động: **Chú ý giải ngân** nếu giá dầu duy trì đà tăng trên thị trường thế giới.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Dữ liệu hiện tại (giá dầu neo cao hỗ trợ giá trị hàng tồn kho và biên lợi nhuận) củng cố luận điểm giữ vị thế. Tuy nhiên, do đã đi qua mốc thời hạn trung hạn (tháng 3/2026), yêu cầu thiết lập mức chặn lãi (trailing stop) chặt chẽ để bảo toàn lợi nhuận thay vì nắm giữ thuần túy theo kỳ vọng cũ.
+- **Mã: HAH**
+    - Động lực (FA): Chi phí nhiên liệu tăng (giá dầu) kết hợp áp lực chi phí nhân sự vận tải container lên cao.
+    - Nhận định dòng tiền: Áp lực kép gây tiêu cực lên biên lợi nhuận, dự báo dòng tiền thoát vị thế để bảo toàn vốn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc giảm tỷ trọng.
+
+- **Mã: PNJ**
+    - Động lực (FA): Lùm xùm về chất lượng sản phẩm (kim cương) gây khủng hoảng truyền thông.
+    - Nhận định dòng tiền: Dòng tiền thoát tháo do tâm lý lo ngại về uy tín thương hiệu.
+    - Hành động: **Tiếp tục quan sát** phản ứng của vùng hỗ trợ gần nhất, chưa bắt đáy khi tin tức chưa được kiểm chứng làm rõ.
+
+- **Mã: TNG**
+    - Động lực (FA): Quan hệ thương mại Việt - Mỹ ổn định, đặc biệt trong xuất khẩu may mặc và nhập khẩu nguyên liệu bông.
+    - Nhận định dòng tiền: Tích cực, kỳ vọng ổn định doanh thu tạo nền giá vững chắc so với thị trường chung đang "lười" giao dịch.
+    - Hành động: **Tiếp tục quan sát** điểm rơi kỹ thuật để gia tăng tỷ trọng.
+
+- **Mã: DIG**
+    - Động lực (FA): Lãnh đạo tiếp tục bị bán giải chấp.
+    - Nhận định dòng tiền: Nguồn cung tiềm ẩn lớn, triệt tiêu động lực tăng giá ngắn hạn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, tuyệt đối không giải ngân mới trong giai đoạn giải chấp.
