@@ -1,5 +1,198 @@
 ﻿[
   {
+    "Title": "Bank of Japan sees growing inflation pressures from Iran war - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjhGY1RXd3JYMmRZN1hsYW45YlpIeVZEZTl2ekQtdlUzWU9XVmliUC1LVG9hY1NYZk92YjlwOThzam9XdGN1MjRlbDFMTV9fcTk1Q1psVVUyT04yUWRxcVN5S05XLTYwLXN0ZnBxSkZwMXl1NGtHLWlQYzNnZzFTVlVucGZ3NFJveUNOVzdUSzVPdlZvaEUyS1BGX2RLTjJMUXJFelZpd0I5TDUwNG1naDM0UFJIeWJ3NUpmUnhn?oc=5",
+    "PubDate": "Thu, 09 Jul 2026 08:11:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Xung đột địa chính trị gây áp lực lạm phát toàn cầu, đẩy giá năng lượng tăng cao, ảnh hưởng tiêu cực đến chi phí đầu vào của các doanh nghiệp sản xuất và vận tải tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Rủi ro lạm phát từ xung đột địa chính trị đẩy giá năng lượng tăng, gây áp lực biên lợi nhuận nhóm sản xuất/vận tải. Dòng tiền có xu hướng rút khỏi các mã thâm dụng năng lượng.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu tăng làm tăng chi phí vận hành đội tàu và logistics, gây áp lực lên biên lợi nhuận."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí năng lượng và vận chuyển nguyên liệu đầu vào tăng cao làm thu hẹp biên lợi nhuận gộp."
+      }
+    ],
+    "AnalyzedAt": "2026-07-13 03:39:30"
+  },
+  {
+    "Title": "Cập nhật BCTC quý 2/2026 ngày 12/7: Một doanh nghiệp lỗ lũy kế hơn 1.200 tỷ đồng, vốn chủ sở hữu âm 377 tỷ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORUp1OFdMZjlidEpVZDhmUWo1cmlLR01iT1lDX09sV1JkVk44eGh3SzBoOEcxemxaZHczMXBEZmtUUDFVN083bWVncGxCU29zSTdydlJpUE1LY1FLSnJucmswWm9zV2xFcGhRVTQxN3JnVDFXZXlpcFRIWHpnRlBlTjZHMVJuZWhIVnV5QmlGV3BGMEtrQnJHVGhHdFNCSG5aaUZqLU9OMl9VRV82SzlZU3hYbTJsZExpY2o4Q0NxMHRoWmFLRlg3QkE4UHVzRjk3bThWSU83bHc?oc=5",
+    "PubDate": "Sat, 11 Jul 2026 17:02:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức về một doanh nghiệp cụ thể có tình trạng tài chính yếu kém, không đại diện cho xu hướng chung của ngành hay thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã hưởng lợi. Tin tức mang tính chất riêng lẻ của một doanh nghiệp, không tác động đến dòng tiền thị trường chung. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-13 03:39:14"
+  },
+  {
+    "Title": "TVS: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnFfVVdDT1huQXV1VjZXZGpRUjU4cWNFSE5KR2V4eE96RlBYQWV0TVBKR2hEMG1BaTZHSFF6bGE0VFE3anhXcExWR1FESF9Ud2JZSEpmR2tyWi05MzlvczVZM2dnVWJhSjhBS0VOdU8zWXIyUkFsTkNlU1VtcmtlWWdTbWZTTXdfd3BXMWtXWlE1cmQyMnE3UEozRXNBYlEwbWRMWTlubkNkMjh4cHBN?oc=5",
+    "PubDate": "Thu, 09 Jul 2026 03:06:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TVS. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không tạo ra biến động dòng tiền đáng kể cho cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-13 03:39:04"
+  },
+  {
+    "Title": "E1VFVN30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 09/07/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0poTmZGU0xYeWxqdUlNUnI4Q3ZWQmYxY0c1WjROa19WWEM5bG9TUHlwTFd4TmY3UkJ4ZEZwTV9hMTFaVXN2UWs1TDJfblJXMm1ieUppQkt6N2hBTHdxZS1WbzJlUmlwQkR2enhFYUFCaU10OVI2NjNUTUhOSVoxbHVNU01rNTVPeTZKN0h1aTFqb1AyRkZ0S09HYmRVWFNSYWRucUdHTnluOUhjdGRmZTBNbHNmM0ZKSkE?oc=5",
+    "PubDate": "Thu, 09 Jul 2026 02:04:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF E1VFVN30, không mang tính chất thay đổi chiến lược đầu tư hay tác động đến hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra biến động dòng tiền bất thường cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-13 03:38:55"
+  },
+  {
+    "Title": "Qua thời ‘đốt tiền’ quảng cáo, bán hàng online tìm đường ‘sống’ mới",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/qua-thoi-dot-tien-quang-cao-ban-hang-online-tim-duong-song-moi-100260712071400381.htm",
+    "PubDate": "7/12/2026 8:22:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc chuyển dịch từ đốt tiền quảng cáo sang tối ưu hóa vận hành giúp các doanh nghiệp bán lẻ cải thiện biên lợi nhuận ròng, tạo nền tảng tăng trưởng bền vững thay vì tăng trưởng nóng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tổng quan thị trường, thiếu dữ liệu định lượng cụ thể. Cần theo dõi sát biên lợi nhuận thực tế trong báo cáo tài chính quý tới thay vì kỳ vọng từ tin tức định hướng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tối ưu hóa chi phí vận hành và quảng cáo giúp cải thiện biên lợi nhuận mảng bán lẻ trực tuyến."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tập trung vào hiệu quả kinh doanh tại WinCommerce giúp gia tăng lợi nhuận từ kênh bán lẻ hiện đại."
+      }
+    ],
+    "AnalyzedAt": "2026-07-13 03:38:40"
+  },
+  {
+    "Title": "Nhận hoa hồng quá thấp, doanh nghiệp bán lẻ xăng dầu nêu giải pháp để cung ứng bền vững",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nhan-hoa-hong-qua-thap-doanh-nghiep-ban-le-xang-dau-neu-giai-phap-de-cung-ung-ben-vung-100260711173538926.htm",
+    "PubDate": "7/12/2026 8:47:00 AM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Áp lực chiết khấu thấp kéo dài gây khó khăn cho các doanh nghiệp bán lẻ xăng dầu, đe dọa biên lợi nhuận và tính ổn định của chuỗi cung ứng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm bán lẻ xăng dầu. Chiết khấu thấp gây áp lực lên biên lợi nhuận. Cần theo dõi sát dòng tiền tại các mã phân phối do rủi ro chi phí vận hành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PLX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chiết khấu thấp ảnh hưởng trực tiếp đến biên lợi nhuận mảng bán lẻ của tập đoàn."
+      },
+      {
+        "Ticker": "OIL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biên lợi nhuận bán lẻ bị thu hẹp do cơ chế chiết khấu không đảm bảo chi phí vận hành."
+      }
+    ],
+    "AnalyzedAt": "2026-07-13 03:38:26"
+  },
+  {
+    "Title": "Băn khoăn hóa đơn điện tăng vọt: Đưa loạt thiết bị dùng mùa nóng vào diện 'giám sát đặc biệt'",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ban-khoan-hoa-don-dien-tang-vot-dua-loat-thiet-bi-dung-mua-nong-vao-dien-giam-sat-dac-biet-100260712110937785.htm",
+    "PubDate": "7/12/2026 11:20:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về quản lý tiêu dùng cá nhân và cảnh báo tiết kiệm điện, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Thông tin mang tính chất khuyến nghị tiêu dùng cá nhân, không làm thay đổi cấu trúc dòng tiền hay triển vọng kinh doanh của các doanh nghiệp điện hoặc bán lẻ điện máy.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-13 03:38:16"
+  },
+  {
+    "Title": "SHB SAHA thêm tính năng ‘Sinh lời nhàn tênh’: Tự động sinh lời tới 6%/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/shb-saha-them-tinh-nang-sinh-loi-nhan-tenh-tu-dong-sinh-loi-toi-6-nam-2534435.html",
+    "PubDate": "Fri, 10 Jul 2026 13:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc ra mắt tính năng mới giúp SHB tăng cường khả năng huy động vốn giá rẻ từ tiền gửi không kỳ hạn (CASA), cải thiện biên lãi thuần (NIM) và giữ chân khách hàng trong hệ sinh thái số.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SHB. Tính năng huy động vốn mới là hoạt động nghiệp vụ thông thường, tác động đến NIM không đáng kể trong ngắn hạn. Cần theo dõi biến động CASA thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SHB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cải thiện tỷ lệ CASA và giảm chi phí vốn, hỗ trợ biên lợi nhuận ròng (NIM) của ngân hàng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-13 03:38:02"
+  },
+  {
+    "Title": "Triển khai hệ thống pin lưu trữ năng lượng của VinEnergo trên lưới điện Thủ đô",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/trien-khai-he-thong-pin-luu-tru-nang-luong-cua-vinenergo-tren-luoi-dien-thu-do-2534445.html",
+    "PubDate": "Fri, 10 Jul 2026 13:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc triển khai hệ thống lưu trữ năng lượng (BESS) giúp ổn định lưới điện, tạo tiền đề cho các dự án năng lượng tái tạo và thúc đẩy nhu cầu thiết bị điện, hạ tầng lưới điện thông minh.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Dự án BESS quy mô nhỏ, chưa tác động trực tiếp đến biên lợi nhuận doanh nghiệp niêm yết. Cần theo dõi thêm quy mô vốn và đối tác thực thi.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-13 03:37:47"
+  },
+  {
+    "Title": "HDBank tung loạt ưu đãi tài chính tiếp sức doanh nghiệp",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/hdbank-tung-loat-uu-dai-tai-chinh-tiep-suc-doanh-nghiep-2534464.html",
+    "PubDate": "Fri, 10 Jul 2026 14:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc tung gói ưu đãi lãi suất giúp HDBank tăng trưởng tín dụng, mở rộng thị phần khách hàng doanh nghiệp và cải thiện thu nhập từ dịch vụ trong bối cảnh cạnh tranh gay gắt.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR hành chính, không tạo đột biến về biên lợi nhuận hay dòng tiền thực tế. Tác động đến giá cổ phiếu không đáng kể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-13 03:37:32"
+  },
+  {
+    "Title": "Xuất khẩu phân bón Việt tăng đột biến",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/xuat-khau-phan-bon-viet-tang-dot-bien-5095897.html",
+    "PubDate": "Fri, 10 Jul 2026 15:07:53 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Sản lượng xuất khẩu tăng mạnh giúp các doanh nghiệp phân bón cải thiện biên lợi nhuận, giải phóng hàng tồn kho và tăng doanh thu ngoại tệ trong bối cảnh giá phân bón thế giới ổn định.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Phân bón. Xuất khẩu tăng đột biến hỗ trợ giải phóng tồn kho, cải thiện biên lợi nhuận. Tập trung vào DPM, DCM nhờ năng lực xuất khẩu trực tiếp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DPM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ tăng trưởng sản lượng xuất khẩu, cải thiện doanh thu và biên lợi nhuận."
+      },
+      {
+        "Ticker": "DCM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Năng lực sản xuất lớn giúp tối ưu hóa lợi thế xuất khẩu khi nhu cầu quốc tế tăng cao."
+      }
+    ],
+    "AnalyzedAt": "2026-07-13 03:37:17"
+  },
+  {
     "Title": "MBS gọi tên 3 doanh nghiệp BĐS hưởng lợi nhờ phát triển hạ tầng và loạt dự án lớn - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEZjR3JEX3BwZmI4U2hkdUpIcUZwNDVoZGFhZmxMNnJvdElpOFIzcXp3RWxGX2dOdWRmblh2dm9fM3RKMWhPcDZqb0dqTWhoNzRSOVRrZ1dmUFhqMFp2SzFRRG05ZkRZM0NjQnl4eWxsVzBlRXJvTkE3LTl0UDIwVUlhal9nZTJVcU5ndXgzN0gydjVnZW5tN2xpSjJtWEhRVW0tLU9zeURyeWhaZldaQnBVTXVrN1c1VU4xbmdB?oc=5",
