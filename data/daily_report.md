@@ -1,24 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:45 ngày 13/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 06:45
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Xung đột địa chính trị (Iran):** Áp lực lạm phát từ giá năng lượng tăng cao đe dọa biên lợi nhuận nhóm sản xuất và vận tải -> **Tiêu cực** -> Dòng tiền có xu hướng phòng thủ, rút khỏi các mã chịu chi phí năng lượng cao.
-- **Xuất khẩu phân bón tăng trưởng:** Nhu cầu quốc tế cải thiện mạnh hỗ trợ doanh thu ngoại tệ -> **Tích cực** -> Dòng tiền hướng vào nhóm ngành Phân bón (DPM, DCM).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **NHNN định hướng ưu tiên tăng trưởng tín dụng và duy trì lãi suất thấp:** Đánh giá **Tích cực** -> Dòng tiền kỳ vọng xoay trục mạnh mẽ vào nhóm **Tài chính - Ngân hàng (VCB, TCB, SSI)**.
+- **Rủi ro lạm phát chi phí đẩy từ xung đột địa chính trị (Iran):** Đánh giá **Tiêu cực** -> Gây áp lực biên lợi nhuận nhóm Sản xuất, Thép và Logistics (**HPG, VHC, GMD**). 
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: GMD, HPG**
-    - **Động lực (FA):** Giá dầu tăng do căng thẳng địa chính trị làm đội chi phí vận hành và nguyên liệu đầu vào.
-    - **Nhận định dòng tiền:** Áp lực bán kỹ thuật có thể gia tăng do lo ngại thu hẹp biên lợi nhuận.
-    - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn, cần theo dõi sát hỗ trợ gần nhất.
-- **Mã: DPM, DCM**
-    - **Động lực (FA):** Sản lượng xuất khẩu tăng đột biến, cải thiện dòng tiền ngoại tệ.
-    - **Nhận định dòng tiền:** Tín hiệu tích cực cho dòng tiền đầu cơ ngành hàng xuất khẩu nông nghiệp/vật tư.
-    - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản cứng.
-- **Mã: PLX, OIL**
-    - **Động lực (FA):** Áp lực chiết khấu bán lẻ xăng dầu thấp gây khó khăn cho vận hành.
-    - **Nhận định dòng tiền:** Dòng tiền tiêu cực, thiếu động lực bứt phá trong ngắn hạn.
-    - **Hành động:** Tiếp tục quan sát, hạn chế vị thế mới.
-- **Mã: SHB**
-    - **Động lực (FA):** Triển khai tính năng sinh lời mới hỗ trợ tăng CASA và NIM.
-    - **Nhận định dòng tiền:** Tác động tích cực đến niềm tin nhà đầu tư vào hệ sinh thái số của ngân hàng.
-    - **Hành động:** Tiếp tục quan sát sự chuyển biến của thanh khoản.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PNJ**
+    - Động lực (FA): Xung đột thông tin giữa việc lãnh đạo đăng ký mua vào (tích cực) và rủi ro pháp lý từ đối tác giám định (tiêu cực).
+    - Nhận định dòng tiền: Biến động mạnh, áp lực bán rủi ro từ yếu tố pháp lý có thể triệt tiêu nỗ lực mua gom của lãnh đạo trong ngắn hạn.
+    - Hành động: **Tiếp tục quan sát**, tạm dừng mọi vị thế mua mới cho đến khi có thông tin làm rõ về mức độ ảnh hưởng của vụ việc pháp lý đến uy tín thương hiệu.
+- **Mã: UNI**
+    - Động lực (FA): Tổ chức mua gom 6,1 triệu cổ phiếu.
+    - Nhận định dòng tiền: Dòng tiền lớn xác nhận tham gia, hỗ trợ thanh khoản và tạo lực đỡ kỹ thuật.
+    - Hành động: **Chú ý giải ngân** theo đà tăng ngắn hạn nếu có tín hiệu khối lượng khớp lệnh duy trì ở mức cao.
+- **Mã: QCG**
+    - Động lực (FA): Rủi ro pháp lý kép đe dọa khả năng hoạt động.
+    - Nhận định dòng tiền: Xu hướng thoái vốn mạnh từ dòng tiền thông minh, rủi ro rơi vào trạng thái mất thanh khoản.
+    - Hành động: **Rủi ro vi phạm kịch bản** – Ưu tiên quản trị rủi ro, thoát vị thế nếu còn nắm giữ.
+- **Mã: VCG, HHV**
+    - Động lực (FA): Tiến độ dự án Long Thành được đẩy nhanh.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ đón sóng đầu tư công vẫn duy trì sức mạnh.
+    - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
