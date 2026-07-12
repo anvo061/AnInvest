@@ -1,20 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ Thời gian: 18:46 (Ngày 12/07/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 21:50 - 12/07/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Áp lực lạm phát chi phí đẩy:** Giá nhiều loại hàng hóa tiếp tục tăng trong tháng 7 gây rủi ro biên lợi nhuận cho nhóm bán lẻ và sản xuất tiêu dùng thiết yếu. -> **Đánh giá: Tiêu cực** -> Dòng tiền có xu hướng thận trọng với nhóm ngành: Bán lẻ, Sản xuất sữa, Hàng tiêu dùng (MSN, MWG, VNM).
-- **Quy hoạch nhà ở xã hội tại TP.HCM:** Chính sách tập trung nguồn lực vào phân khúc giá rẻ, tháo gỡ nút thắt quỹ đất. -> **Đánh giá: Tích cực** -> Dòng tiền hướng vào nhóm ngành: Bất động sản dân cư (NLG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Nga hạn chế xuất khẩu dầu diesel làm thắt chặt nguồn cung toàn cầu -> Tích cực (tác động trực tiếp đến biên lợi nhuận lọc dầu) -> Dòng tiền sẽ hướng vào nhóm dầu khí & lọc hóa dầu.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PNJ**
-    - **Động lực (FA):** Tổng giám đốc đăng ký mua vào 1 triệu cổ phiếu.
-    - **Nhận định dòng tiền:** Tín hiệu củng cố niềm tin mạnh, tạo lực đỡ tâm lý tốt trước áp lực lạm phát tiêu cực chung của ngành bán lẻ.
-    - **Hành động:** Chú ý giải ngân (vùng hỗ trợ cứng).
-- **Mã: LTG**
-    - **Động lực (FA):** Bị đưa vào diện cảnh báo từ 14/7/2026.
-    - **Nhận định dòng tiền:** Áp lực bán tháo kỹ thuật từ các quỹ và nhà đầu tư margin sẽ gia tăng mạnh.
-    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế.
-- **Mã: NLG**
-    - **Động lực (FA):** Hưởng lợi từ chính sách quy hoạch nhà ở xã hội tại vị trí đắc địa của TP.HCM.
-    - **Nhận định dòng tiền:** Có khả năng thu hút dòng tiền đầu cơ dựa trên kỳ vọng tháo gỡ pháp lý/quỹ đất.
-    - **Hành động:** Tiếp tục quan sát điểm entry.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **BSR**
+- Động lực (FA): Nga ra quyết định hạn chế xuất khẩu dầu diesel, đẩy giá thành phẩm tăng cao.
+- Nhận định dòng tiền: Tin tức bổ trợ mạnh cho xu hướng tăng giá của BSR trong ngắn hạn nhờ hưởng lợi từ chênh lệch giá (crack spread).
+- Hành động: Theo dõi sát lực cầu tại vùng kháng cự, có thể gia tăng tỷ trọng nếu dòng tiền xác nhận vượt nền giá.
+
+- Mã: **PNJ**
+- Động lực (FA): Áp lực bán tháo ngắn hạn do tâm lý tiêu cực từ các báo cáo phân tích kỹ thuật.
+- Nhận định dòng tiền: Dòng tiền có dấu hiệu suy yếu do tâm lý nhà đầu tư cá nhân hoảng loạn, rủi ro điều chỉnh kỹ thuật sâu.
+- Hành động: Hạn chế bắt đáy, chờ tín hiệu cân bằng tại các vùng hỗ trợ cứng.
+
+- Mã: **MWG, FRT**
+- Động lực (FA): Sức mua mỹ phẩm (chi tiêu 2,7 tỷ USD) tăng mạnh trong bối cảnh hồi phục tiêu dùng.
+- Nhận định dòng tiền: Hưởng lợi từ xu hướng tiêu dùng, dòng tiền có thể phân hóa vào các mã có chuỗi bán lẻ dược/mỹ phẩm mạnh.
+- Hành động: Tiếp tục quan sát nhịp tích lũy của dòng tiền lớn, ưu tiên giải ngân nếu thị trường chung ổn định.
+
+🔄 3. Cảnh báo Tái cơ cấu (Chỉ xuất hiện nếu có tin về EIB, BSR):
+- **BSR (Tháng 06/2026):** Dữ liệu vĩ mô về thị trường dầu diesel toàn cầu hiện tại là động lực bổ sung quan trọng cho luận điểm đầu tư trung hạn. Tiếp tục nắm giữ (Hold) cho đến khi đạt mục tiêu lợi nhuận hoặc khi nguồn cung diesel toàn cầu hạ nhiệt đột ngột.
