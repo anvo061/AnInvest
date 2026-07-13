@@ -1,22 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:25 - 14/07/2026
+⏱ Thời gian: 04:45 - 14/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam được định vị là "con hổ kinh tế" mới với mục tiêu GDP 10% cùng kỳ vọng dòng vốn FDI tăng mạnh -> **Đánh giá: Tích cực** -> Dòng tiền sẽ hướng vào nhóm Bất động sản khu công nghiệp (KBC, SZC, GVR) và Logistics (GMD).
-- Áp lực từ xu hướng tăng lãi suất huy động và áp lực bán ròng từ khối ngoại tại nhóm VN30 -> **Đánh giá: Tiêu cực** -> Dòng tiền ngắn hạn sẽ phân hóa mạnh, gây sức ép lên nhóm Ngân hàng và các mã vốn hóa lớn (VHM, HPG, VCB).
+- Chính phủ đặt mục tiêu tăng trưởng GDP 8.3%-8.5% năm 2026 và 10% cho năm kế tiếp, đồng thời xác nhận lộ trình nâng hạng MSCI vào 2030 -> **Tích cực (Dài hạn)** -> Dòng tiền kỳ vọng phân bổ mạnh vào nhóm BĐS Khu công nghiệp (KBC, GVR, SZC) và Tài chính/Ngân hàng (VCB, SSI).
+- Xu hướng tăng lãi suất huy động cục bộ và áp lực tỷ giá từ nợ công Mỹ -> **Tiêu cực (Ngắn hạn)** -> Gây áp lực lên chi phí tài chính của các mã có đòn bẩy cao (NVL, PDR) và nhóm chứng khoán (SSI).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC**
-- Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI và kỳ vọng tăng trưởng kinh tế 10%/năm.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sẽ tìm đến nhóm BĐS KCN như một "hầm trú ẩn" tăng trưởng trước bối cảnh lãi suất huy động tăng.
-- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo VN30, ưu tiên vùng nền tích lũy.
+- Mã: **HDB**
+  - Động lực (FA): Fitch Ratings lần đầu xếp hạng tín nhiệm, ghi nhận nền tảng tài chính vững mạnh.
+  - Nhận định dòng tiền: Tín hiệu uy tín giúp tối ưu hóa chi phí vốn ngoại, hỗ trợ định giá lại (re-rating) trong ngắn hạn.
+  - Hành động: **Chú ý giải ngân** nếu thị trường rung lắc do áp lực lãi suất chung.
+- Mã: **BSR**
+  - Động lực (FA): Châu Âu đối diện rủi ro thiếu hụt nhiên liệu bay, dự báo đẩy giá dầu Jet A1 toàn cầu.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận lọc dầu mở rộng.
+  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ kỹ thuật.
 
-- Mã: **VCB**
-- Động lực (FA): Đối mặt với áp lực từ lãi suất huy động tăng (ép NIM) và lực bán ròng từ khối ngoại, dù FA vẫn tốt.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn có dấu hiệu suy yếu do áp lực chốt lời/cơ cấu của khối ngoại tại nhóm VN30.
-- Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản ngắn hạn nếu mất các mốc hỗ trợ cứng.
-
-- Mã: **GMD**
-- Động lực (FA): Hưởng lợi từ sự tăng trưởng xuất nhập khẩu đi kèm mục tiêu GDP 10%.
-- Nhận định dòng tiền: Dòng tiền có tính phòng thủ và tăng trưởng ổn định, ít chịu ảnh hưởng trực tiếp từ lãi suất huy động như khối Ngân hàng.
-- Hành động: Tiếp tục quan sát vùng giá mua tích lũy.
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- **BSR**: Dữ liệu vĩ mô mới về sự thiếu hụt nhiên liệu tại Châu Âu củng cố luận điểm nắm giữ. Duy trì vị thế, chưa cần cơ cấu.
+- **EIB**: Chưa có thông tin mới biến động trọng yếu. Giữ nguyên trạng thái quan sát.
