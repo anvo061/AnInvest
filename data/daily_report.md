@@ -1,21 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:50
+⏱ Thời gian: 06:45 - 15/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lạm phát tháng 5 tăng, thâm hụt thương mại kỷ lục đi kèm kỳ vọng Fed giữ nguyên lãi suất -> [Tác động trái chiều: Áp lực tỷ giá/thắt chặt thanh khoản nội tại đối trọng với kỳ vọng giảm chi phí vốn từ vĩ mô toàn cầu] -> [Dòng tiền phân hóa mạnh: Nhóm Tài chính/Chứng khoán hưởng lợi kỳ vọng lãi suất, nhóm BĐS/Năng lượng chịu áp lực chi phí tài chính/tỷ giá].
+- **Thuế quan Mỹ:** Mỹ dự kiến áp thuế 20% lên hàng xuất khẩu Việt Nam -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm Xuất khẩu (Dệt may, Gỗ, Thủy sản có tỷ trọng lớn tại Mỹ).
+- **Cán cân thương mại/Thị trường xuất khẩu:** Trung Quốc vượt Mỹ trở thành thị trường nhập khẩu thủy sản lớn nhất -> **Tích cực (đối trọng)** -> Dòng tiền có xu hướng xoay trục sang nhóm Thủy sản có thị phần lớn tại Trung Quốc (VHC, ANV, IDI).
+- **Vĩ mô cốt lõi:** Lạm phát tăng & thâm hụt thương mại kỷ lục -> **Tiêu cực** -> Gây áp lực tỷ giá, buộc NHNN thắt chặt thanh khoản, tăng chi phí vốn (Ảnh hưởng tiêu cực nhóm BĐS dùng đòn bẩy cao: VHM, NVL).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD
-  - Động lực (FA): Giá dầu tăng sốc do biến động địa chính trị.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận kỳ vọng tăng trong bối cảnh giá dầu thế giới neo cao.
-  - Hành động: Chú ý giải ngân nếu dòng tiền giữ nhịp trên vùng hỗ trợ kỹ thuật, tận dụng sóng giá dầu ngắn hạn.
-
-- Mã: PTB, GVR
-  - Động lực (FA): Áp lực tuân thủ quy định chống phá rừng (EUDR) của EU (thời hạn 5 tháng).
-  - Nhận định dòng tiền: Rủi ro chi phí tuân thủ gia tăng có thể làm giảm biên lợi nhuận xuất khẩu, tạo áp lực bán từ khối ngoại hoặc các quỹ đầu tư ESG.
-  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên quản trị rủi ro, quan sát phản ứng giá tại các vùng hỗ trợ cứng.
-
-- Mã: VHM, NVL
-  - Động lực (FA): Lạm phát tăng và tỷ giá căng thẳng.
-  - Nhận định dòng tiền: Áp lực nợ vay bằng ngoại tệ và chi phí tài chính tăng cao gây tổn thương trực tiếp lên bảng cân đối kế toán.
-  - Hành động: Tiếp tục quan sát, hạn chế bắt đáy trong môi trường vĩ mô đang có tín hiệu bất lợi về lãi suất/tỷ giá.
+- **Mã:** TNG, MSH, PTB
+  - **Động lực (FA):** Rủi ro thuế quan 20% từ thị trường Mỹ.
+  - **Nhận định dòng tiền:** Áp lực bán tháo diện rộng do lo ngại biên lợi nhuận bị bào mòn.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
+- **Mã:** VHC, ANV, IDI
+  - **Động lực (FA):** Dịch chuyển thị trường xuất khẩu sang Trung Quốc bù đắp rủi ro Mỹ.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ tìm đến để trú ẩn trước áp lực thuế quan.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền giữ giá tốt tại các vùng hỗ trợ cứng.
+- **Mã:** PNJ
+  - **Động lực (FA):** Thị trường vàng chuẩn hóa, các tiệm vàng nhỏ lẻ đóng cửa.
+  - **Nhận định dòng tiền:** Hưởng lợi từ sự gia tăng thị phần và tính minh bạch.
+  - **Hành động:** Tiếp tục quan sát để mua vào khi có nhịp điều chỉnh theo thị trường chung.
+- **Mã:** PVX
+  - **Động lực (FA):** Bị loại khỏi danh mục ETF.
+  - **Nhận định dòng tiền:** Áp lực bán cơ cấu từ quỹ thụ động làm suy yếu thanh khoản.
+  - **Hành động:** Cảnh báo rủi ro thanh khoản, tránh bắt đáy.
