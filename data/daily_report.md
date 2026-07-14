@@ -1,28 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:20
+⏱ Thời gian: 03:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thô thế giới tăng gần 10% -> Tích cực cho nhóm năng lượng thượng nguồn -> Dòng tiền sẽ tập trung vào các mã dịch vụ dầu khí có đòn bẩy lợi nhuận cao.
-- Chính sách thúc đẩy hạ tầng hàng hải quốc gia -> Tích cực cho nhóm cảng biển & logistics -> Dòng tiền kỳ vọng vào các mã đầu ngành có năng lực khai thác hạ tầng.
-- Siết chặt quản lý thị trường đá quý/trang sức (khởi tố các tiệm vàng tư nhân) -> Tích cực cho doanh nghiệp bán lẻ trang sức niêm yết (PNJ) -> Dòng tiền dịch chuyển về thị phần minh bạch.
+- Lạm phát tháng 5 tăng, thâm hụt thương mại kỷ lục đi kèm kỳ vọng Fed giữ nguyên lãi suất -> [Tác động trái chiều: Áp lực tỷ giá/thắt chặt thanh khoản nội tại đối trọng với kỳ vọng giảm chi phí vốn từ vĩ mô toàn cầu] -> [Dòng tiền phân hóa mạnh: Nhóm Tài chính/Chứng khoán hưởng lợi kỳ vọng lãi suất, nhóm BĐS/Năng lượng chịu áp lực chi phí tài chính/tỷ giá].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-  - Động lực (FA): Giá dầu tăng mạnh 10% thúc đẩy nhu cầu thuê giàn khoan và giá dịch vụ.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp về biên lợi nhuận, kỳ vọng dòng tiền đầu cơ nhóm dầu khí sẽ đẩy mạnh vị thế.
-  - Hành động: Chú ý giải ngân theo kịch bản bứt phá nền giá.
+- Mã: PVD
+  - Động lực (FA): Giá dầu tăng sốc do biến động địa chính trị.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận kỳ vọng tăng trong bối cảnh giá dầu thế giới neo cao.
+  - Hành động: Chú ý giải ngân nếu dòng tiền giữ nhịp trên vùng hỗ trợ kỹ thuật, tận dụng sóng giá dầu ngắn hạn.
 
-- Mã: **PNJ**
-  - Động lực (FA): Các đối thủ tư nhân nhỏ lẻ đóng cửa sau thông tin khởi tố/siết quản lý.
-  - Nhận định dòng tiền: Hưởng lợi từ việc chiếm lĩnh thị phần, tạo đà tăng trưởng doanh thu bán lẻ trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát điểm cân bằng dòng tiền để gia tăng tỷ trọng.
+- Mã: PTB, GVR
+  - Động lực (FA): Áp lực tuân thủ quy định chống phá rừng (EUDR) của EU (thời hạn 5 tháng).
+  - Nhận định dòng tiền: Rủi ro chi phí tuân thủ gia tăng có thể làm giảm biên lợi nhuận xuất khẩu, tạo áp lực bán từ khối ngoại hoặc các quỹ đầu tư ESG.
+  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên quản trị rủi ro, quan sát phản ứng giá tại các vùng hỗ trợ cứng.
 
-- Mã: **PC1**
-  - Động lực (FA): VietinBank Capital chính thức trở thành cổ đông lớn, khẳng định uy tín cơ cấu cổ đông.
-  - Nhận định dòng tiền: Củng cố niềm tin dài hạn, giảm bớt áp lực bán tháo, dòng tiền có xu hướng tích lũy trở lại.
-  - Hành động: Tiếp tục quan sát, chú ý giải ngân nếu dòng tiền duy trì trạng thái ổn định trên vùng hỗ trợ.
-
-- Mã: **GMD**
-  - Động lực (FA): Định hướng phát triển công nghiệp hàng hải quốc gia.
-  - Nhận định dòng tiền: Kỳ vọng dài hạn về chính sách tạo nền tảng vững chắc, thu hút dòng tiền dẫn dắt nhóm cảng biển.
-  - Hành động: Chú ý giải ngân theo nhịp tích lũy của thị trường chung.
+- Mã: VHM, NVL
+  - Động lực (FA): Lạm phát tăng và tỷ giá căng thẳng.
+  - Nhận định dòng tiền: Áp lực nợ vay bằng ngoại tệ và chi phí tài chính tăng cao gây tổn thương trực tiếp lên bảng cân đối kế toán.
+  - Hành động: Tiếp tục quan sát, hạn chế bắt đáy trong môi trường vĩ mô đang có tín hiệu bất lợi về lãi suất/tỷ giá.
