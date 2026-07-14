@@ -1,20 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:45 - 14/07/2026
+⏱ Thời gian: 13:15 ngày 14/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ đặt mục tiêu tăng trưởng GDP 8.3%-8.5% năm 2026 và 10% cho năm kế tiếp, đồng thời xác nhận lộ trình nâng hạng MSCI vào 2030 -> **Tích cực (Dài hạn)** -> Dòng tiền kỳ vọng phân bổ mạnh vào nhóm BĐS Khu công nghiệp (KBC, GVR, SZC) và Tài chính/Ngân hàng (VCB, SSI).
-- Xu hướng tăng lãi suất huy động cục bộ và áp lực tỷ giá từ nợ công Mỹ -> **Tiêu cực (Ngắn hạn)** -> Gây áp lực lên chi phí tài chính của các mã có đòn bẩy cao (NVL, PDR) và nhóm chứng khoán (SSI).
+- GDP 6 tháng đầu năm tăng trưởng vượt kỳ vọng (8,18%) và mục tiêu tăng trưởng cả năm được nâng lên 8,3%-8,5% -> **Tích cực** -> Dòng tiền kỳ vọng phân hóa vào nhóm Ngân hàng (hưởng lợi tín dụng), Bất động sản KCN (hưởng lợi dòng vốn FDI), Chứng khoán (hưởng lợi thanh khoản).
+- Áp lực lãi suất cho vay thực tế đang "nóng" dần lên -> **Tiêu cực** -> Gây áp lực trực tiếp lên biên lợi nhuận của các doanh nghiệp thâm dụng vốn vay cao (Bất động sản dân cư như NVL, PDR).
+- Xuất khẩu đối mặt rủi ro dư thừa nguồn cung và sụt giảm đơn hàng toàn cầu -> **Tiêu cực** -> Dòng tiền thận trọng với các mã logistics, thủy sản, dệt may (GMD, VHC, TNG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **HDB**
-  - Động lực (FA): Fitch Ratings lần đầu xếp hạng tín nhiệm, ghi nhận nền tảng tài chính vững mạnh.
-  - Nhận định dòng tiền: Tín hiệu uy tín giúp tối ưu hóa chi phí vốn ngoại, hỗ trợ định giá lại (re-rating) trong ngắn hạn.
-  - Hành động: **Chú ý giải ngân** nếu thị trường rung lắc do áp lực lãi suất chung.
-- Mã: **BSR**
-  - Động lực (FA): Châu Âu đối diện rủi ro thiếu hụt nhiên liệu bay, dự báo đẩy giá dầu Jet A1 toàn cầu.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận lọc dầu mở rộng.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ kỹ thuật.
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- **BSR**: Dữ liệu vĩ mô mới về sự thiếu hụt nhiên liệu tại Châu Âu củng cố luận điểm nắm giữ. Duy trì vị thế, chưa cần cơ cấu.
-- **EIB**: Chưa có thông tin mới biến động trọng yếu. Giữ nguyên trạng thái quan sát.
+  - Động lực (FA): Được Fitch xếp hạng tín nhiệm quốc tế lần đầu.
+  - Nhận định dòng tiền: Tạo bệ đỡ uy tín, khả năng tiếp cận vốn quốc tế giá rẻ tốt hơn trong môi trường lãi suất nội địa đang tăng. Dòng tiền có thể duy trì trạng thái tích lũy tại vùng giá cao.
+  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc theo thị trường chung.
+- Mã: **SSI**
+  - Động lực (FA): Hưởng lợi từ tăng trưởng kinh tế/thanh khoản nhưng chịu áp lực bán giải chấp ngắn hạn (bán tháo đồng loạt).
+  - Nhận định dòng tiền: Trạng thái giằng co mạnh. Rủi ro giải chấp margin lấn át kỳ vọng tăng trưởng vĩ mô trong ngắn hạn.
+  - Hành động: **Tiếp tục quan sát**, chờ xác nhận lực cầu tại các vùng hỗ trợ cứng.
+- Mã: **PNJ**
+  - Động lực (FA): Gãy hỗ trợ kỹ thuật 15 tháng, tâm lý cổ đông tiêu cực.
+  - Nhận định dòng tiền: Dòng tiền thoát mạnh, chưa có tín hiệu tạo đáy.
+  - Hành động: **Rủi ro vi phạm kịch bản**, tránh bắt đáy sớm.
+- Mã: **HSG**
+  - Động lực (FA): Lợi nhuận vượt kế hoạch nhưng chịu áp lực bán kỹ thuật.
+  - Nhận định dòng tiền: Dòng tiền đang ở trạng thái phân kỳ giữa FA (tốt) và TA (yếu).
+  - Hành động: **Tiếp tục quan sát** cho đến khi áp lực bán diện rộng trên thị trường hạ nhiệt.
