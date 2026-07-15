@@ -1,28 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 23:55 (15/07/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng GDP vượt kỳ vọng và FDI đạt mức cao:** -> Tích cực -> Dòng tiền hướng vào nhóm Khu công nghiệp (SZC, KBC), Logistics (GMD) và các nhóm ngành được hưởng lợi từ chuỗi cung ứng Hàn Quốc (FPT).
-- **Thị trường vốn trước vận hội nâng hạng & Nhu cầu huy động vốn:** -> Tích cực -> Dòng tiền hướng vào nhóm Chứng khoán (SSI, VND, VCI, HCM) bất chấp áp lực thị trường chung.
-- **Cảnh báo thận trọng từ NHNN:** -> Tiêu cực -> Áp lực lên nhóm nhạy cảm với lãi suất, cần lưu ý biến động giảm ngắn hạn.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Lãi suất tiết kiệm tăng kết hợp VN-Index gãy mốc 1.800 điểm** -> **Tiêu cực** -> Dòng tiền rút mạnh khỏi nhóm Tài chính - Chứng khoán do chi phí vốn tăng và áp lực bán giải chấp (margin call) trên diện rộng.
+- **Việt Nam duy trì vị thế chuỗi cung ứng toàn cầu & FDI tích cực** -> **Tích cực** -> Dòng tiền dài hạn vẫn neo tại nhóm Bất động sản KCN (KBC, SZC) và Logistics (GMD) bất chấp biến động chỉ số.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MCH**
-  - Động lực (FA): Chính thức gia nhập rổ VN30.
-  - Nhận định dòng tiền: Kỳ vọng lực mua từ các quỹ ETF thụ động sẽ cải thiện thanh khoản và nâng đỡ định giá.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo thị trường chung.
-
-- **Mã: PVD**
-  - Động lực (FA): Mỹ siết trừng phạt dầu mỏ Iran, hỗ trợ giá dầu neo cao.
-  - Nhận định dòng tiền: Dòng tiền thượng nguồn dầu khí sẽ duy trì trạng thái tích cực do hưởng lợi từ giá dầu thế giới.
-  - Hành động: Tiếp tục quan sát để tìm điểm vào lệnh theo xu hướng.
-
-- **Mã: GMD, SZC**
-  - Động lực (FA): GDP tăng trưởng mạnh và FDI hồi phục.
-  - Nhận định dòng tiền: Cổ phiếu có nền tảng cơ bản hưởng lợi trực tiếp từ vĩ mô, dòng tiền sẽ tập trung vào các mã có tăng trưởng thực chất.
-  - Hành động: Tiếp tục quan sát xu hướng dòng tiền trong phiên.
-
-- **Mã: SSI, VND (Nhóm Chứng khoán)**
-  - Động lực (FA): Tác động kép giữa kỳ vọng nâng hạng và tâm lý tiêu cực do VN-Index thủng hỗ trợ kỹ thuật.
-  - Nhận định dòng tiền: Sự phân hóa cao; áp lực bán giải chấp (force sell) đang đè nặng lên ngắn hạn, mặc dù câu chuyện dài hạn (nâng hạng) vẫn rất mạnh.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy khi chưa có tín hiệu cân bằng của Index.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: MCH, TCX**
+  - **Động lực (FA):** Chính thức lọt rổ VN30 trong kỳ cơ cấu tháng 7.
+  - **Nhận định dòng tiền:** Lực cầu bị động từ các quỹ ETF sẽ tạo đối trọng ngắn hạn, giúp hai mã này tách biệt khỏi xu hướng bán tháo chung của thị trường.
+  - **Hành động:** Chú ý giải ngân theo nhịp cơ cấu quỹ (ưu tiên mua trong các phiên quét thanh khoản).
+- **Mã: SSI, VND, VCI**
+  - **Động lực (FA):** Thanh khoản sụt giảm mạnh và áp lực lãi suất tiết kiệm.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ rời bỏ, rủi ro vi phạm kịch bản kỹ thuật tăng cao do áp lực bán giải chấp.
+  - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, hạ tỷ trọng margin.
+- **Mã: PNJ, FPT**
+  - **Động lực (FA):** PNJ giảm sàn, FPT thủng đáy 2 năm.
+  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart Money) đang thoát vị thế. Mất vai trò cổ phiếu dẫn dắt (Leader).
+  - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên quan sát chặt chẽ, không bắt đáy khi chưa có tín hiệu tạo đáy kỹ thuật.
+- **Mã: PLX**
+  - **Động lực (FA):** Petrolimex nhập lượng xăng dầu kỷ lục 1,3 triệu m³.
+  - **Nhận định dòng tiền:** Đảm bảo doanh thu cốt lõi, tạo vùng đệm phòng thủ trong danh mục.
+  - **Hành động:** Tiếp tục quan sát giữ vị thế.
