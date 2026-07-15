@@ -1,24 +1,19 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 23:55 (15/07/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 03:55 (16/07/2026)
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất tiết kiệm tăng kết hợp VN-Index gãy mốc 1.800 điểm** -> **Tiêu cực** -> Dòng tiền rút mạnh khỏi nhóm Tài chính - Chứng khoán do chi phí vốn tăng và áp lực bán giải chấp (margin call) trên diện rộng.
-- **Việt Nam duy trì vị thế chuỗi cung ứng toàn cầu & FDI tích cực** -> **Tích cực** -> Dòng tiền dài hạn vẫn neo tại nhóm Bất động sản KCN (KBC, SZC) và Logistics (GMD) bất chấp biến động chỉ số.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Việt Nam tăng cường phát hành trái phiếu và đẩy mạnh chi tiêu công để đối ứng rủi ro thuế quan xuất khẩu -> Đánh giá: Tích cực (trong ngắn hạn đối với nhóm Đầu tư công) -> Dòng tiền sẽ hướng vào nhóm Xây dựng hạ tầng (VCG, HHV) để bù đắp cho sự suy yếu của nhóm xuất khẩu (VHC, TNG).
+- Tin đồn tiêu cực về rủi ro pháp lý ngành trang sức (liên quan đến buôn lậu) -> Đánh giá: Tiêu cực -> Dòng tiền có khả năng rút khỏi nhóm Bán lẻ trang sức (PNJ).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: MCH, TCX**
-  - **Động lực (FA):** Chính thức lọt rổ VN30 trong kỳ cơ cấu tháng 7.
-  - **Nhận định dòng tiền:** Lực cầu bị động từ các quỹ ETF sẽ tạo đối trọng ngắn hạn, giúp hai mã này tách biệt khỏi xu hướng bán tháo chung của thị trường.
-  - **Hành động:** Chú ý giải ngân theo nhịp cơ cấu quỹ (ưu tiên mua trong các phiên quét thanh khoản).
-- **Mã: SSI, VND, VCI**
-  - **Động lực (FA):** Thanh khoản sụt giảm mạnh và áp lực lãi suất tiết kiệm.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ rời bỏ, rủi ro vi phạm kịch bản kỹ thuật tăng cao do áp lực bán giải chấp.
-  - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, hạ tỷ trọng margin.
-- **Mã: PNJ, FPT**
-  - **Động lực (FA):** PNJ giảm sàn, FPT thủng đáy 2 năm.
-  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart Money) đang thoát vị thế. Mất vai trò cổ phiếu dẫn dắt (Leader).
-  - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên quan sát chặt chẽ, không bắt đáy khi chưa có tín hiệu tạo đáy kỹ thuật.
-- **Mã: PLX**
-  - **Động lực (FA):** Petrolimex nhập lượng xăng dầu kỷ lục 1,3 triệu m³.
-  - **Nhận định dòng tiền:** Đảm bảo doanh thu cốt lõi, tạo vùng đệm phòng thủ trong danh mục.
-  - **Hành động:** Tiếp tục quan sát giữ vị thế.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: VCG
+  - Động lực (FA): Hưởng lợi trực tiếp từ kế hoạch đẩy mạnh giải ngân đầu tư công làm đối trọng với rủi ro tăng trưởng.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ tập trung vào nhóm hạ tầng khi nhà đầu tư tìm kiếm các mã có câu chuyện hỗ trợ tăng trưởng nội tại.
+  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự với thanh khoản gia tăng.
+- Mã: PNJ
+  - Động lực (FA): Áp lực tâm lý từ thông tin tiêu cực liên quan đến kiểm soát nguồn gốc nguyên liệu và rủi ro pháp lý.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng thoát khỏi mã này do rủi ro thông tin bất lợi.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chờ phản ứng của thị trường tại các vùng hỗ trợ cứng.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Chưa có tin tức mới liên quan trực tiếp đến danh mục EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái quan sát.
