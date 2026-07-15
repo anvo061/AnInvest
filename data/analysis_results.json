@@ -1,5 +1,280 @@
 ﻿[
   {
+    "Title": "Vietnam quarterly growth hits two-year high on exports, investment - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0F1Vml3YjJCakxsb0xWOWhvMnNLc0dHUFNBV0dUNjR2UFp5RXM2M0ZrMUtScmhhTGd2d1NWb25CQUFUMzhDSG93NjdfQTg1dHV2YTNIeUw3UXh6YlZZRFFGMGk4Nm1NS19aVU1ZUEdBY2xqRVIyMWN3RmlfUDVueXhLNk14a0t3SFlsS0dkaDRJR0ZOY3R2dEJXVWVNam9LeFA1WmxoSGVTTHYtanc?oc=5",
+    "PubDate": "Sat, 05 Oct 2024 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Tăng trưởng GDP cao nhờ xuất khẩu và đầu tư FDI tạo động lực lan tỏa cho nhóm sản xuất, logistics và bất động sản khu công nghiệp, củng cố niềm tin dòng tiền vào thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. GDP tăng trưởng mạnh củng cố dòng vốn FDI và xuất khẩu. Dòng tiền ưu tiên nhóm hạ tầng cảng biển và KCN có quỹ đất sẵn sàng. Tập trung: GMD, SZC.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Xuất khẩu tăng trưởng mạnh trực tiếp thúc đẩy nhu cầu vận tải và khai thác cảng biển."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu tư FDI tăng cao giúp gia tăng tỷ lệ lấp đầy và giá thuê tại các khu công nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:10:06"
+  },
+  {
+    "Title": "South Korea, Vietnam agree to boost economic ties amid looming US tariffs - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeXFiWkxNUVl1clhSTUFrUk9CWWpMRTV3Qjc1OG41aGtXZVktWjh0Q20yb2VfeU9VanBaTEhaNUxJeHNpT3ZoMXdxc29uVUNNSk1BQUVHSGtkM0VIZTdNbWs3aVpuMnVRZUtINDZUcFc3SkFMcWZNT3VmMHJwSUp4TlZLM1dUUjJIWVZfMUJnd29YS0d6VGpBRVdnV3pscV9YRW5iLU1US3k2YTVLZ0dzNFNDbG5STnFEOURLNTdUV2h4UQ?oc=5",
+    "PubDate": "Mon, 14 Apr 2025 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc tăng cường quan hệ kinh tế với Hàn Quốc giúp Việt Nam thu hút thêm vốn FDI, đặc biệt trong lĩnh vực điện tử và công nghiệp phụ trợ, giảm thiểu rủi ro từ các rào cản thuế quan của Mỹ.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. FDI Hàn Quốc tập trung vào sản xuất điện tử. Ưu tiên KBC, SZC có quỹ đất sẵn sàng. FPT hưởng lợi gián tiếp từ nhu cầu chuyển đổi số.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Quỹ đất lớn tại các khu công nghiệp trọng điểm thu hút dòng vốn FDI từ các tập đoàn Hàn Quốc."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ làn sóng dịch chuyển chuỗi cung ứng và mở rộng sản xuất của doanh nghiệp Hàn Quốc."
+      },
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hợp tác kinh tế sâu rộng thúc đẩy nhu cầu chuyển đổi số và cung ứng nhân lực CNTT cho các doanh nghiệp Hàn Quốc tại Việt Nam."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:09:50"
+  },
+  {
+    "Title": "Vietnam central bank says global risks complicate policymaking - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlVhRWtnZTNWSHVCOW5Rc0NJRUgwV3U2V0dDVTFxWUpQazZNQXpkcTZodnJkMnAtTG9qVzNiQVMyN083cjdrQm5IUjlRX0JkTTJFQzJvdTZGLTJpRUowNWJ6VW9LT1FpR2ktdzVndGpiTV9uYzlDMjNMNnZSQnpoakVmY0FhUHBjODNjYXMtcDNzWGtPOGJSUUlFTFBSQXlKZlNqWGJhUFlOY21WaTJSMktyRUZhdm9B?oc=5",
+    "PubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Thông tin mang tính cảnh báo vĩ mô về sự bất định toàn cầu, cho thấy NHNN sẽ thận trọng hơn trong việc nới lỏng chính sách tiền tệ, gây áp lực tâm lý lên nhóm cổ phiếu nhạy cảm với lãi suất.",
+    "TapeReaderNote": "Vĩ mô: NHNN phát tín hiệu thận trọng trước rủi ro toàn cầu. Kỳ vọng nới lỏng tiền tệ bị trì hoãn. Dòng tiền sẽ rút khỏi nhóm nhạy cảm lãi suất, ưu tiên phòng thủ.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Kỳ vọng giảm lãi suất bị trì hoãn làm giảm động lực tăng trưởng ngắn hạn cho nhóm chứng khoán."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "NHNN duy trì sự thận trọng giúp kiểm soát rủi ro hệ thống nhưng hạn chế dư địa tăng trưởng tín dụng đột biến."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:09:35"
+  },
+  {
+    "Title": "650 doanh nghiệp mang công nghệ điện hiện đại, năng lượng xanh đến TP.HCM",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/650-doanh-nghiep-mang-cong-nghe-dien-hien-dai-nang-luong-xanh-den-tphcm-100260715155153611.htm",
+    "PubDate": "7/15/2026 4:53:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Sự kiện thúc đẩy xu hướng chuyển đổi năng lượng và hạ tầng điện thông minh, tạo cơ hội kinh doanh cho các doanh nghiệp cung cấp thiết bị điện và giải pháp năng lượng tái tạo.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất hội thảo, quảng bá công nghệ, thiếu tác động trực tiếp đến biên lợi nhuận hoặc dòng tiền ngắn hạn của doanh nghiệp.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-15 19:09:20"
+  },
+  {
+    "Title": "Cổ phiếu chính thức vào rổ VN30, Masan Consumer ghi nhận cột mốc mới",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/co-phieu-chinh-thuc-vao-ro-vn30-masan-consumer-ghi-nhan-cot-moc-moi-10026071516431062.htm",
+    "PubDate": "7/15/2026 5:30:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc gia nhập rổ VN30 giúp cổ phiếu thu hút dòng vốn từ các quỹ ETF thụ động, tăng thanh khoản và cải thiện vị thế định giá của doanh nghiệp trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - MCH vào VN30. Kỳ vọng dòng vốn ETF thụ động giải ngân. Theo dõi thanh khoản thực tế tại vùng giá mới để xác nhận lực cầu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MCH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Gia nhập VN30 giúp tăng uy tín, thanh khoản và thu hút dòng vốn từ các quỹ đầu tư chỉ số (ETF)."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:09:04"
+  },
+  {
+    "Title": "Phó bí thư Thành uỷ khảo sát hoạt động của Chi bộ Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-khao-sat-hoat-dong-cua-chi-bo-tong-cong-ty-san-xuat-xuat-nhap-khau-binh-duong-100260715171956546.htm",
+    "PubDate": "7/15/2026 5:40:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động kiểm tra, giám sát công tác Đảng thông thường tại doanh nghiệp, không mang tính chất thay đổi chiến lược kinh doanh hay tác động đến kết quả tài chính của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã cổ phiếu. Đây là hoạt động hành chính Đảng bộ, không tác động đến dòng tiền hay biên lợi nhuận doanh nghiệp. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-15 19:08:55"
+  },
+  {
+    "Title": "Regent Phú Quốc vào Top 100 khách sạn tốt nhất thế giới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/regent-phu-quoc-vao-top-100-khach-san-tot-nhat-the-gioi-2536022.html",
+    "PubDate": "Wed, 15 Jul 2026 16:40:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Tin tức mang tính chất quảng bá thương hiệu du lịch, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Du lịch. Tin tức mang tính chất truyền thông, không thay đổi cấu trúc doanh thu hay dòng tiền của các mã niêm yết. Không có tác động giao dịch.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-15 19:08:45"
+  },
+  {
+    "Title": "Doanh nghiệp Việt chuẩn bị thế hệ lãnh đạo cho hành trình vươn ra thế giới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/doanh-nghiep-viet-chuan-bi-the-he-lanh-dao-cho-hanh-trinh-vuon-ra-the-gioi-2536036.html",
+    "PubDate": "Wed, 15 Jul 2026 17:20:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về quản trị doanh nghiệp và phát triển nhân sự cấp cao, mang tính chất định hướng dài hạn, không có tác động trực tiếp đến kết quả kinh doanh hay dòng tiền ngắn hạn của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có nhóm ngành cụ thể. Thông tin quản trị nhân sự mang tính định hướng dài hạn, không tạo biến động dòng tiền trong ngắn hạn. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-15 19:08:36"
+  },
+  {
+    "Title": "EVNNPT và ADB thúc đẩy triển khai 2 dự án truyền tải điện 500kV tại Sơn La",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/evnnpt-va-va-adb-thuc-day-trien-khai-2-du-an-truyen-tai-dien-500kv-tai-son-la-2536051.html",
+    "PubDate": "Wed, 15 Jul 2026 17:20:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc đẩy mạnh các dự án truyền tải điện 500kV giúp giải tỏa công suất nguồn điện, tạo khối lượng công việc lớn cho các doanh nghiệp xây lắp điện và cung cấp thiết bị điện.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Dự án truyền tải điện 500kV là tin tức hạ tầng vĩ mô dài hạn, chưa tạo đột biến dòng tiền ngắn hạn cho các doanh nghiệp xây lắp điện quy mô nhỏ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-15 19:08:22"
+  },
+  {
+    "Title": "Mập mờ thông tin nợ trái phiếu, CVS Holdings của nhà Sơn Kim dính phạt lần 2",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//map-mo-thong-tin-no-trai-phieu-cvs-holdings-cua-nha-son-kim-dinh-phat-lan-2.html",
+    "PubDate": "Wed, 15 Jul 2026 00:44:55 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin xử phạt hành chính đối với một doanh nghiệp chưa niêm yết, không gây tác động trực tiếp đến các mã cổ phiếu trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Doanh nghiệp bị phạt không niêm yết trên sàn. Tin tức mang tính chất quản lý hành chính, không tác động đến dòng tiền của các mã cổ phiếu niêm yết.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-15 19:08:12"
+  },
+  {
+    "Title": "Giải \"cơn khát\" 38 triệu tỷ đồng: Thị trường vốn trước vận hội nâng hạng",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//giai-con-khat-38-trieu-ty-dong-thi-truong-van-hoi-nang-hang.html",
+    "PubDate": "Wed, 15 Jul 2026 08:11:35 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Nhu cầu vốn khổng lồ thúc đẩy phát triển thị trường chứng khoán và trái phiếu, tạo động lực nâng hạng thị trường, tăng thanh khoản và doanh thu cho các công ty chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Nhu cầu vốn lớn thúc đẩy nghiệp vụ IB và thanh khoản. Tập trung vào các CTCK có năng lực bảo lãnh phát hành và thị phần môi giới dẫn đầu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ tăng trưởng thanh khoản và nhu cầu tư vấn phát hành, bảo lãnh phát hành vốn."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Năng lực cung cấp dịch vụ tài chính và tư vấn vốn lớn giúp gia tăng doanh thu trong chu kỳ nâng hạng."
+      },
+      {
+        "Ticker": "VCI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lợi thế lớn trong mảng ngân hàng đầu tư (IB) khi nhu cầu huy động vốn của doanh nghiệp tăng mạnh."
+      },
+      {
+        "Ticker": "HCM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị phần môi giới lớn giúp hưởng lợi từ sự gia tăng quy mô giao dịch toàn thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:07:57"
+  },
+  {
+    "Title": "Được \"cởi trói\", cổ phiếu HVN của Vietnam Airlines vẫn đối mặt áp lực điều chỉnh",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//duoc-coi-troi-co-phieu-hvn-cua-vietnam-airlines-van-doi-mat-ap-luc-dieu-chinh.html",
+    "PubDate": "Wed, 15 Jul 2026 09:47:17 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc HVN ra khỏi diện hạn chế giao dịch là tin tức đã phản ánh vào giá, áp lực điều chỉnh hiện tại chủ yếu đến từ hoạt động chốt lời của nhà đầu tư ngắn hạn sau giai đoạn tăng nóng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Hàng không. Tin tức đã phản ánh vào giá (priced-in). Dòng tiền thông minh đang chốt lời ngắn hạn, cổ phiếu cần tích lũy lại trước khi có xu hướng mới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HVN",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tin tức tích cực về mặt pháp lý đã phản ánh vào giá, hiện tại cổ phiếu chịu áp lực cung chốt lời kỹ thuật."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:07:43"
+  },
+  {
+    "Title": "Mỹ siết trừng phạt dầu mỏ, tiền số của Iran",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/my-siet-trung-phat-dau-mo-tien-so-cua-iran-5097759.html",
+    "PubDate": "Wed, 15 Jul 2026 15:27:34 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc siết trừng phạt nguồn cung dầu từ Iran làm giảm nguồn cung toàn cầu, tạo áp lực tăng giá dầu thô, hỗ trợ giá bán và biên lợi nhuận cho các doanh nghiệp thượng nguồn ngành dầu khí Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Trừng phạt Iran gây nhiễu cung cầu ngắn hạn. Cần theo dõi biến động giá dầu Brent. Ưu tiên PVD, PVS nếu giá dầu duy trì đà tăng bền vững.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu thuê giàn khoan và cải thiện đơn giá dịch vụ khoan."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác được đẩy mạnh khi giá dầu neo ở mức cao."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:07:27"
+  },
+  {
+    "Title": "VN-Index xuống mức thấp nhất ba tháng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vn-index-xuong-muc-thap-nhat-ba-thang-5097789.html",
+    "PubDate": "Wed, 15 Jul 2026 15:35:39 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "VN-Index thủng các mốc hỗ trợ kỹ thuật quan trọng kích hoạt lệnh bán giải chấp (force sell) và tâm lý hoảng loạn, làm suy yếu dòng tiền ngắn hạn trên toàn thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. VN-Index thủng hỗ trợ kỹ thuật kích hoạt force sell diện rộng. Thanh khoản suy yếu, rủi ro margin call gia tăng. Khuyến nghị: Ưu tiên quản trị rủi ro, tạm dừng giải ngân mới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán giải chấp margin và thanh khoản thị trường sụt giảm trực tiếp ảnh hưởng doanh thu môi giới."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tâm lý thị trường yếu làm giảm nhu cầu giao dịch, ảnh hưởng tiêu cực đến mảng tự doanh và môi giới."
+      }
+    ],
+    "AnalyzedAt": "2026-07-15 19:07:12"
+  },
+  {
     "Title": "Vietnam GDP Rises 5.42% in 2013; Estimate 5.3% Gain - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVG9KX0pfaktnNTdGaGV3REI2R3JNZ2doM2RTWEZWQjhjSkFVaTJxNmpnOU1SSW9Qd015d1RfSmN1SF91anRGVjhPcEpjcmQzNkszckZ6bDBNdWtyZjlmM2dwU0tXNmRobUxMU1U3Tl9iYm5UOS1ING9mcVM3cENvblZUSnNwYU9fOGJpNTl0dmhNcUdTU1ppRmxSWnNpbjdK?oc=5",
