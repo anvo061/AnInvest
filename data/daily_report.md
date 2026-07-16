@@ -1,24 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 20:20 - 16/07/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 01:05 - 17/07/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giải ngân 27.000 tỷ đồng cho dự án cao tốc trọng điểm:** Đánh giá **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Đầu tư công và Vật liệu xây dựng**.
-- **Việt Nam định vị tâm điểm AI châu Á:** Đánh giá **Tích cực (Dài hạn)** -> Dòng tiền duy trì quan tâm nhóm **Công nghệ**.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Xuất hiện khoản lỗ quý 2/2026 của doanh nghiệp chứng khoán cùng với sự phân hóa mạnh kết quả kinh doanh ngành -> Đánh giá tác động: **Tiêu cực (Ngắn hạn)** -> Dòng tiền sẽ chịu áp lực bán tại nhóm Chứng khoán, thay vào đó có thể chuyển dịch sang các mã có câu chuyện hưởng lợi từ đầu tư công.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: VCG, HHV, HPG, KSB**
-    - **Động lực (FA):** Được hưởng lợi trực tiếp từ gói tín dụng 27.000 tỷ đồng triển khai cao tốc TP.HCM - Trung Lương - Mỹ Thuận.
-    - **Nhận định dòng tiền:** Gia tăng lực cầu tích lũy khi dự án hạ tầng lớn được khơi thông nguồn vốn.
-    - **Hành động:** Chú ý giải ngân theo nhịp điều chỉnh trong phiên (buy on dip).
-- **Mã: LPB**
-    - **Động lực (FA):** Ký kết hợp tác chiến lược với Vietnam Post.
-    - **Nhận định dòng tiền:** Kỳ vọng gia tăng CASA từ mạng lưới bưu điện, dòng tiền có thể sẽ phản ứng tích cực trong ngắn hạn.
-    - **Hành động:** Tiếp tục quan sát phản ứng dòng tiền tại vùng kháng cự kỹ thuật.
-- **Mã: FPT**
-    - **Động lực (FA):** Đối nghịch giữa tin tăng trưởng AI dài hạn và báo cáo doanh thu Q2 chững lại kèm áp lực bán ròng khối ngoại.
-    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn đang chịu áp lực rút ra do lo ngại tăng trưởng, tạo vùng nhiễu giá mạnh.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát vùng hỗ trợ cứng trước khi xem xét giải ngân.
-- **Mã: NVL**
-    - **Động lực (FA):** Thông tin tích cực về pháp lý dự án và tái cấu trúc nợ, dòng tiền bắt đáy quay trở lại.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ nhập cuộc mạnh, cải thiện thanh khoản rõ rệt.
-    - **Hành động:** Theo dõi sát kịch bản hồi phục kỹ thuật, tránh FOMO khi mã đã bật mạnh từ đáy.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **SSI, VND, VCI**
+- Động lực (FA): Áp lực từ thông tin doanh nghiệp chứng khoán thua lỗ quý 2/2026, làm dấy lên lo ngại về danh mục tự doanh.
+- Nhận định dòng tiền: Nhóm này đang gặp áp lực chốt lời/cắt lỗ ngắn hạn do tâm lý tiêu cực lan tỏa.
+- Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, quan sát phản ứng của vùng hỗ trợ gần nhất.
+
+- Mã: **HPG**
+- Động lực (FA): Hợp lưu tích cực từ dòng tiền khối ngoại mua ròng và hưởng lợi từ dự án cao tốc TP.HCM - Trung Lương - Mỹ Thuận.
+- Nhận định dòng tiền: Dòng tiền thông minh (khối ngoại) đang củng cố nền tảng kỹ thuật cho HPG.
+- Hành động: **Tiếp tục quan sát**, ưu tiên nắm giữ cho mục tiêu trung hạn theo đà giải ngân đầu tư công.
+
+- Mã: **PNJ**
+- Động lực (FA): Nâng cao uy tín thương hiệu thông qua kiểm định kim cương quốc tế.
+- Nhận định dòng tiền: Tích cực dài hạn nhờ củng cố biên lợi nhuận mảng cao cấp; dòng tiền ngắn hạn phản ứng trung lập.
+- Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng tích lũy.
