@@ -1,23 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 ngày 17/07/2026
+⏱ Thời gian: 14:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dịch chuyển chuỗi cung ứng:** Mỹ áp thuế cao lên hàng Trung Quốc thúc đẩy nhu cầu thuê đất KCN và gia tăng đơn hàng xuất khẩu tại VN -> Tích cực -> Nhóm KCN (KBC, SZC), Dệt may (TNG), Cảng biển (GMD).
-- **Đẩy mạnh Đầu tư công:** Chính phủ phê duyệt vay 27.000 tỷ đồng cho các dự án cao tốc trọng điểm -> Tích cực -> Nhóm Xây lắp hạ tầng (VCG, HHV) và Vật liệu xây dựng (KSB).
-- **Cấu trúc danh mục VN30:** MCH và TCBS gia nhập rổ VN30 từ tháng 8 -> Tích cực -> Tạo lực cầu từ các quỹ ETF cho MCH và TCB.
+- Dòng vốn ngoại ghi nhận mức vào ròng lớn nhất trong gần 6 năm qua cùng sự dịch chuyển chuỗi cung ứng từ Trung Quốc sang Việt Nam -> **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Blue-chips (VCB, HPG, VHM)** và nhóm **Bất động sản khu công nghiệp/Xuất khẩu (KBC, SZC, GMD, TNG)**.
+- Áp lực từ nợ xấu lĩnh vực BĐS ảnh hưởng đến chi phí trích lập dự phòng của khối ngân hàng -> **Tiêu cực/Cảnh báo** -> Dòng tiền có thể phân hóa mạnh, ưu tiên các mã có kết quả kinh doanh tăng trưởng thực chất (VPB) thay vì nhóm có rủi ro nợ xấu cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: FPT**
-  - Động lực (FA): Lợi nhuận tăng trưởng hai con số, tuy nhiên chịu áp lực bán ròng từ khối ngoại.
-  - Nhận định dòng tiền: Tin tức tích cực về kết quả kinh doanh là nền tảng bền vững, nhưng áp lực bán ròng từ ngoại khối sẽ khiến cổ phiếu cần thời gian tích lũy tại vùng giá chiết khấu.
-  - Hành động: Chú ý giải ngân từng phần tại các nhịp điều chỉnh kỹ thuật, không "all-in" do áp lực bán từ khối ngoại còn hiện hữu.
+- **Mã: VPB**
+    - **Động lực (FA):** Báo lãi kỷ lục gần 11.000 tỷ đồng trong quý 2/2026.
+    - **Nhận định dòng tiền:** Kết quả kinh doanh đột biến đủ sức át đi các lo ngại chung về nợ xấu toàn ngành, tạo lực cầu "smart money" mạnh mẽ.
+    - **Hành động:** Chú ý giải ngân (Canh điểm vào khi thị trường rung lắc).
+- **Mã: VKC**
+    - **Động lực (FA):** Thay đổi nhân sự cấp cao và bị phong tỏa tài khoản.
+    - **Nhận định dòng tiền:** Hiện tượng tăng trần đối nghịch với tin xấu là bẫy thanh khoản kinh điển (Bull-trap), rủi ro quản trị cực lớn.
+    - **Hành động:** Tuyệt đối tránh xa, ưu tiên quản trị rủi ro.
 
-- **Mã: HAG**
-  - Động lực (FA): Giá sầu riêng giảm sâu (30-50%).
-  - Nhận định dòng tiền: Tiêu cực trực tiếp lên kỳ vọng biên lợi nhuận, dòng tiền có khả năng rút lui hoặc né tránh nhóm nông nghiệp xuất khẩu trong ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản nắm giữ; cần quản trị danh mục chặt chẽ.
-
-- **Mã: VCG, HHV, KSB**
-  - Động lực (FA): Nhận vốn 27.000 tỷ cho cao tốc trọng điểm.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng với tin tức hạ tầng.
-  - Hành động: Theo dõi sát dư địa tăng trong phiên sáng, giải ngân nếu khối lượng khớp lệnh bùng nổ vượt trung bình 20 phiên.
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Chưa có dữ liệu cập nhật mới liên quan đến EIB, BSR trong khung 15 phút qua).
