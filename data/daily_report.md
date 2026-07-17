@@ -1,27 +1,18 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:20 - 18/07/2026
+⏱ Thời gian: 06:30 - 18/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hậu quả thiên tai bão Yagi (thiệt hại 1.6 tỷ USD) và suy giảm GDP kỷ lục do giãn cách xã hội gây áp lực tiêu cực lên toàn bộ chuỗi cung ứng và chi phí doanh nghiệp -> **Tác động: Tiêu cực** -> Dòng tiền có xu hướng phòng thủ, rút khỏi các nhóm ngành nhạy cảm với chu kỳ kinh tế (Bán lẻ, Thép, Xây dựng).
+- **Tháo gỡ pháp lý đất đai tại TP.HCM:** Đẩy nhanh định giá đất giúp khơi thông nút thắt dự án -> Tích cực -> Nhóm Bất động sản (đặc biệt các mã có quỹ đất sạch tại TP.HCM).
+- **Áp lực bán ròng khối ngoại:** Tiếp tục bán ròng hơn 2.100 tỷ đồng/tuần trên các mã Bluechips -> Tiêu cực -> Gây rủi ro điều chỉnh cho chỉ số chung (VN-Index) và nhóm trụ (VHM, VIC, HPG).
+- **Gián đoạn cung ứng quặng sắt (BHP):** Đình công tại hub của BHP gây lo ngại tăng giá quặng sắt toàn cầu -> Trung lập/Tích cực -> Hưởng lợi cho nhóm thép nội địa (HPG) có tồn kho và nguồn cung ổn định.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: BVH**
-  - Động lực (FA): Áp lực chi phí bồi thường bảo hiểm tăng cao sau bão Yagi.
-  - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do lo ngại biên lợi nhuận bị bào mòn.
-  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ cứng, tránh bắt đáy sớm.
-- **Mã: MWG**
-  - Động lực (FA): Giãn cách xã hội và suy giảm GDP ảnh hưởng trực tiếp sức mua nội địa.
-  - Nhận định dòng tiền: Áp lực cung lớn, dòng tiền sẽ né tránh nhóm bán lẻ trong ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
-- **Mã: HPG**
-  - Động lực (FA): Nhu cầu xây dựng và tiêu thụ thép nội địa suy giảm do đình trệ hoạt động kinh tế.
-  - Nhận định dòng tiền: Áp lực tiêu cực từ vĩ mô, khả năng đi ngang tích lũy với biên độ hẹp hoặc điều chỉnh.
-  - Hành động: Tiếp tục quan sát, chưa có điểm giải ngân an toàn.
-- **Mã: VCB**
-  - Động lực (FA): Rủi ro nợ xấu gia tăng do sức khỏe doanh nghiệp suy giảm trong bối cảnh vĩ mô khó khăn.
-  - Nhận định dòng tiền: Dòng tiền khối ngoại có thể thận trọng, tác động tiêu cực đến chỉ số VN-Index.
-  - Hành động: Tiếp tục quan sát.
-- **Mã: PNJ**
-  - Động lực (FA): Sức mua trang sức cao cấp giảm và áp lực tâm lý bán tháo trên thị trường vàng vật chất.
-  - Nhận định dòng tiền: Chịu áp lực điều chỉnh theo tâm lý tiêu dùng.
-  - Hành động: Rủi ro vi phạm kịch bản.
+- **Mã:** KDH, NLG
+- **Động lực (FA):** Chính quyền TP.HCM đẩy mạnh xác định giá đất để tăng thu ngân sách, trực tiếp gỡ vướng pháp lý dự án.
+- **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể luân chuyển mạnh vào nhóm BĐS có quỹ đất sạch do kỳ vọng vào sự chuyển biến của tiến độ bàn giao và ghi nhận doanh thu.
+- **Hành động:** Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền xác nhận vượt cản kỹ thuật ngắn hạn.
+
+- **Mã:** VHM, HPG
+- **Động lực (FA):** Bị khối ngoại xả ròng mạnh trong tuần qua.
+- **Nhận định dòng tiền:** Áp lực cung lớn từ khối ngoại làm suy yếu đà tăng, bất chấp tin tức hỗ trợ (như với HPG). 
+- **Hành động:** Tiếp tục quan sát; tạm dừng giải ngân bắt đáy cho đến khi áp lực bán ngoại đạt trạng thái bão hòa hoặc có lực cầu đối ứng mạnh.
