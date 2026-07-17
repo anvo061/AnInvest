@@ -1,5 +1,114 @@
 ﻿[
   {
+    "Title": "Chứng khoán VPBankS báo lãi quý 2 cao gấp 4 lần cùng kỳ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0JVMkFKRUNfSUprTEh2OVJmdFhXdXBCMkkwS0ZYaGg5bXo1RUNhZ3dUSmMzRVd0YWp4RnpZaFZkZDNXdHVFTUJicGZnVTBqejFDM0xjd01wZS02R2VPTjU1eU5Fcnl2RU1aVGFwWmFIa0x1OGVINUhxY1RzVU9WMjJ5SmF1TkJEUGFSMG1ocGxzT0g0bG1sQ09aRQ?oc=5",
+    "PubDate": "Fri, 17 Jul 2026 09:02:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Kết quả kinh doanh đột biến của VPBankS phản ánh sự phục hồi mạnh mẽ của nhóm công ty chứng khoán nhờ thanh khoản thị trường tăng cao và hoạt động tự doanh hiệu quả.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Lợi nhuận VPBankS tăng mạnh nhờ thanh khoản thị trường. Cần quan sát dòng tiền lan tỏa sang các mã đầu ngành có thị phần lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ tâm lý tích cực của nhóm ngành chứng khoán khi thanh khoản thị trường duy trì ở mức cao."
+      }
+    ],
+    "AnalyzedAt": "2026-07-17 23:38:48"
+  },
+  {
+    "Title": "Một cổ phiếu ngân hàng bị tự doanh CTCK \"xả\" mạnh phiên cuối tuần - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXFYc2NCNGF5TGk4Z0NOYTdycGktVy11dC1jbnRkaTdDdFliTHcyRTN1dFV1bUpCa2k1Zjk5RENoOHREZGZMT1FEbEtwZHBqbXY0bEIzUEMzX1A1UHlITWpwUWUxN2FCNVVZUDlFd19hOURVaTd3WjZHaExzTkJuSU9IT3VVc2V6SklBaXEta2NOLV9fbGJxbkltRHEyZGZud3FZeQ?oc=5",
+    "PubDate": "Fri, 17 Jul 2026 10:17:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc tự doanh CTCK bán mạnh tạo áp lực cung ngắn hạn, gây tâm lý lo ngại cho nhà đầu tư cá nhân và có thể làm suy yếu xu hướng giá của mã cổ phiếu đó trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Áp lực bán từ khối tự doanh tạo rủi ro điều chỉnh kỹ thuật. Dòng tiền thông minh sẽ quan sát vùng hỗ trợ cứng trước khi giải ngân trở lại.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-17 23:38:36"
+  },
+  {
+    "Title": "Chứng khoán Rồng Việt báo lãi sau thuế Quý 2/2026 gần 45 tỷ đồng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0FQUXJoX2VOa0h3bjVKdTBaQUQtQV9lNE5fMm50US12TktNN0JoTk9RdjJvSmhHd3NFZjBvR3NIeHBOa050NUlqRF94ZldTS0lvMWNjWnJ4NUFGdnhIMTNMOWxuQWVtTGptZU43WndQN3dzYzdVM0MxOXdzS0VKV1VzSXRKdjJMdEhfYnl5cDh2NFBVd3V2cG12OTNhdXF1Z0xRTDVfRQ?oc=5",
+    "PubDate": "Fri, 17 Jul 2026 12:30:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 2,
+    "MarketImpact": "Kết quả kinh doanh phản ánh sự phục hồi của mảng môi giới và tự doanh trong bối cảnh thanh khoản thị trường cải thiện, tạo tâm lý tích cực cho nhóm cổ phiếu chứng khoán quy mô vừa.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành Chứng khoán. Lợi nhuận VDS tăng trưởng củng cố kỳ vọng phục hồi nhóm mid-cap. Dòng tiền tập trung vào cổ phiếu có kết quả kinh doanh thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VDS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kết quả kinh doanh khả quan củng cố đà tăng giá ngắn hạn và cải thiện chỉ số định giá."
+      }
+    ],
+    "AnalyzedAt": "2026-07-17 23:38:21"
+  },
+  {
+    "Title": "Thu ngân sách vượt 1,56 triệu tỷ, Bộ trưởng yêu cầu rà soát kịch bản tăng trưởng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/thu-ngan-sach-vuot-1-56-trieu-ty-bo-truong-yeu-cau-ra-soat-kich-ban-tang-truong-2536739.html",
+    "PubDate": "Fri, 17 Jul 2026 19:37:43 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Thu ngân sách vượt dự toán tạo dư địa cho Chính phủ đẩy mạnh đầu tư công và các gói kích cầu kinh tế, hỗ trợ tăng trưởng GDP trong nửa cuối năm.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Thu ngân sách vượt dự toán là chỉ báo vĩ mô tích cực nhưng chưa trực tiếp chuyển hóa thành dòng tiền giải ngân ngay. Cần theo dõi sát tiến độ thực tế tại các dự án trọng điểm.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-17 23:38:01"
+  },
+  {
+    "Title": "Không giảm phát thải, hơn 2.000 doanh nghiệp sẽ phải bỏ tiền mua tín chỉ carbon",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/khong-giam-phat-thai-hon-2-000-doanh-nghiep-se-phai-bo-tien-mua-tin-chi-carbon-2536762.html",
+    "PubDate": "Fri, 17 Jul 2026 22:12:34 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc bắt buộc mua tín chỉ carbon làm tăng chi phí vận hành, gây áp lực lên biên lợi nhuận của các doanh nghiệp sản xuất thâm dụng năng lượng và phát thải lớn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm sản xuất thâm dụng năng lượng. Chi phí tuân thủ carbon trực tiếp bào mòn biên lợi nhuận. Dòng tiền sẽ phân hóa mạnh, ưu tiên doanh nghiệp có lộ trình xanh hóa rõ ràng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngành thép tiêu thụ năng lượng lớn, chi phí mua tín chỉ carbon sẽ trực tiếp làm tăng giá vốn hàng bán."
+      }
+    ],
+    "AnalyzedAt": "2026-07-17 23:37:46"
+  },
+  {
+    "Title": "Ông Nguyễn Bá Dương: Chọn dự án có kỹ thuật cao thay vì mở rộng bằng mọi giá",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ong-nguyen-ba-duong-chon-du-an-co-ky-thuat-cao-thay-vi-mo-rong-bang-moi-gia-5098329.html",
+    "PubDate": "Fri, 17 Jul 2026 07:24:12 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Chiến lược tập trung vào các dự án kỹ thuật cao giúp Newtecons (liên quan gián tiếp đến các đối tác xây dựng niêm yết) tối ưu hóa biên lợi nhuận và giảm rủi ro nợ xấu trong bối cảnh ngành xây dựng đang tái cấu trúc.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Phát biểu mang tính định hướng quản trị, thiếu tác động trực tiếp đến dòng tiền ngắn hạn. Không có dữ liệu tài chính cụ thể để thay đổi vị thế thị trường.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-17 23:37:28"
+  },
+  {
+    "Title": "'Lực lượng doanh nghiệp nông nghiệp ở Việt Nam còn khiêm tốn'",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/luc-luong-doanh-nghiep-nong-nghiep-o-viet-nam-con-khiem-ton-5098286.html",
+    "PubDate": "Fri, 17 Jul 2026 07:32:15 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là nhận định mang tính vĩ mô về cấu trúc ngành nông nghiệp, không tạo ra tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Nông nghiệp. Thông tin mang tính chất đánh giá vĩ mô, không có tác động trực tiếp đến biên lợi nhuận hay dòng tiền của các mã cổ phiếu nông nghiệp trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-17 23:37:18"
+  },
+  {
     "Title": "Why G7 aims to crack Vietnam's coal fix with $15.5 billion deal - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3JCc0REZkhpOEVtWTRqdmVCNXdOWXh3UlRaQU1SQkhBcWNzdjhMbnRPaHhVdTJFN2RFaW9Iam5wZENyNGpKVVdONnpfM25VX0JQSEJDVm5hWDBUdnAxS0lSUWg5TGNQRXpvLVRQXy1QajFvZmIxWlQydDRnZGgtcnhpS2FsTjhBcm5wNjZCTDRmSGJaUVFpQm03LUN1a3BJdjhHbXVFWTluTDdhNmJxeWJSejBreVlk?oc=5",
@@ -18635,126 +18744,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-06-30 15:26:57"
-  },
-  {
-    "Title": "Doanh nghiệp do nữ làm chủ đối diện khoảng trống vốn 5 tỷ USD",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/doanh-nghiep-do-nu-lam-chu-doi-dien-khoang-trong-von-5-ty-usd-5089903.html",
-    "PubDate": "Mon, 29 Jun 2026 09:01:48 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin mang tính chất thống kê vĩ mô về nhu cầu vốn của nhóm doanh nghiệp do nữ làm chủ, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của bất kỳ doanh nghiệp cụ thể nào trên sàn chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-06-30 15:26:47"
-  },
-  {
-    "Title": "Mỹ mua vải thiều Việt gấp đôi cùng kỳ",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/my-mua-vai-thieu-viet-gap-doi-cung-ky-5091059.html",
-    "PubDate": "Mon, 29 Jun 2026 12:03:52 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc xuất khẩu nông sản sang thị trường khó tính như Mỹ tăng trưởng mạnh giúp cải thiện kim ngạch xuất khẩu và hỗ trợ doanh thu cho các doanh nghiệp logistics và xuất khẩu nông sản.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-06-30 15:26:33"
-  },
-  {
-    "Title": "Vietnam Excites Investors With Dramatic Economic Reform Program: New Economy - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVFIxYXJWSDVnYlJNdkVtVWNwQjdVM1I0ZU5PenNubWM5MGFxOVJuTllVRVVDNjJ5VHBxUmVzbXNyTlNiR1ZQMGoyeEJobVBpS2RveC1rbkxDWm9tQWJlbU5uSFdBSGZxdXRNWVJ3cUhWSnJ3YW5xSUxZVjBsMWl0Z083eUdvVVh4ek1sQkU1Y3Y2eW1fUVMxbEQzNk5NcmNUQUl3ZHFoNm9oUG9vdzlSQmIzZGpYNXFyM09HNWdtcHAydVlkSFJVOQ?oc=5",
-    "PubDate": "Sat, 11 Oct 2025 07:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Các chương trình cải cách kinh tế mạnh mẽ giúp cải thiện môi trường đầu tư, thu hút dòng vốn FDI và nâng cao niềm tin của nhà đầu tư quốc tế vào thị trường chứng khoán Việt Nam, tạo động lực tăng trưởng dài hạn cho nền kinh tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng quốc doanh lớn nhất hưởng lợi trực tiếp từ sự ổn định vĩ mô và tăng trưởng tín dụng khi kinh tế cải cách."
-      },
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cải cách kinh tế thúc đẩy xuất nhập khẩu và dòng vốn FDI, trực tiếp hỗ trợ lưu lượng hàng hóa qua cảng."
-      },
-      {
-        "Ticker": "KBC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ làn sóng dịch chuyển FDI nhờ các chính sách cải cách môi trường đầu tư thông thoáng hơn."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Niềm tin nhà đầu tư tăng cao thúc đẩy thanh khoản thị trường và dòng vốn ngoại vào TTCK."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sự phát triển kinh tế bền vững giúp cải thiện sức mua và nhu cầu bất động sản nhà ở cũng như khu công nghiệp."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 15:24:31"
-  },
-  {
-    "Title": "Temasek Unit, Oman Fund Join Vinpearl’s Private Credit Deal - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1N5WVFLYmV6OHRsT19SalFXX1JtcU0zN3ctcjROVk1rZTNpLXZ2c2hRNzBka3hjOW90ZzkyZGFjZ2dVQU1la1hDTVM1NGUteTNDZzVBZUJFeDRULXhpOXVzUm5fc3NyRDRRUHBBR2dlMk0wRkdSUzY4Z3ZMR01OUUhqYy1Kc2VZcGNPUEhvVWc2X1A4QTVLU3JiMi1wclg3eE9Mbnk4TWNXVzJZRFA4dw?oc=5",
-    "PubDate": "Wed, 24 Jun 2026 06:30:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc Vinpearl huy động thành công vốn tín dụng tư nhân từ các quỹ đầu tư quốc tế uy tín như Temasek và Oman Fund cho thấy khả năng tiếp cận nguồn vốn ngoại tệ lớn, giúp cải thiện cấu trúc tài chính và giảm áp lực nợ vay cho hệ sinh thái Vingroup.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Vinpearl là công ty con quan trọng của Vingroup; việc huy động vốn thành công giúp giảm áp lực tài chính cho tập đoàn mẹ."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tác động lan tỏa tích cực đến tâm lý nhà đầu tư đối với các cổ phiếu trong hệ sinh thái Vingroup khi khả năng huy động vốn quốc tế được khẳng định."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 15:24:16"
-  },
-  {
-    "Title": "MSCI Upgrades Bulgaria to Frontier; Vietnam, Argentina Unchanged - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2RHNVF5a0J0UmhsMlNCN0VQQ2xWcTR5ZWhJOXNRYnJKLTdlZjI5SU9TZk5yRm5DdWdtbG45Y2tRT2dpWHN1Yldpc0k1N0h6MnpKNDNEb3JUZzgxREZrbFE2UU9hcUNHV2tWNko0OTNFSGNqTkNNOWxwNnpSYXdnc1Z6QUt1ajRPMG43ZVRKa1h1QWRoLU50WXlMelBfVXJHaXpsQWJuRlhFZmxPNUhWc2R3NA?oc=5",
-    "PubDate": "Tue, 23 Jun 2026 21:26:49 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc MSCI giữ nguyên trạng thái phân hạng của Việt Nam là thông tin phản ánh đúng kỳ vọng hiện tại của thị trường, không tạo ra sự thay đổi đột biến về dòng vốn ngoại trong ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-06-30 15:24:06"
-  },
-  {
-    "Title": "BVB: Bản cáo bạch và các Phụ lục đính kèm - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjhlb1gwNFpNenZBTTFpYmRpbVZwaUpBcnhXVVI5elQ5cG16Ukdmdy1LQ19LQVVqcTNmdzdKSEZjS1VsYUZXYlhWQVJhR0xBemtmem0zRUdWaFpDaGJKdVFQMmZtTWx0UmhlaXlWTWVaczBybnBBdE5GQlM0RzRaR3BxX2tqRU8yZmlQZHd6LXE3LTMzdGttYk9rOFNNUWc2NGc?oc=5",
-    "PubDate": "Tue, 30 Jun 2026 08:12:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin công bố thông tin định kỳ hoặc thủ tục hành chính liên quan đến việc niêm yết/phát hành của ngân hàng, không tác động trực tiếp đến kết quả kinh doanh hay giá trị nội tại của doanh nghiệp.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-06-30 15:23:57"
-  },
-  {
-    "Title": "VND: Thông báo về việc vay vốn tại tổ chức tín dụng - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzNlZUN2YmFVV1FMNFFuckxaNmlSUzlBS01WRmRRbG9IOVZOOUdhZE9BQUJlT09sU0ZUVDZrMU93VXQ1cnhBNHFuczBfcTNiRzQybktHSGhBNm1ScXVJYVBWZDdoZVIwNFdFbXBMRWp2ODdJaGMwbmJrcjdQRThXSG0tNHFTS2FqZVl2OFhMMFRiNXNYOWJ6VGw3M0pnWG16ZXdyS3UxMVg4TG1GUGhv?oc=5",
-    "PubDate": "Tue, 30 Jun 2026 07:17:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc doanh nghiệp vay vốn tại tổ chức tín dụng là hoạt động nghiệp vụ bình thường nhằm bổ sung vốn lưu động hoặc phục vụ hoạt động kinh doanh, không mang tính chất đột biến hay thay đổi căn bản tình hình tài chính của doanh nghiệp.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-06-30 15:23:48"
   }
 ]
