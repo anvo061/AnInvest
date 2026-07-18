@@ -1,5 +1,99 @@
 ﻿[
   {
+    "Title": "Tiền thuê đất có địa phương tăng tới 35 lần, doanh nghiệp đề xuất tránh 'điều chỉnh đột biến'",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tien-thue-dat-co-dia-phuong-tang-toi-35-lan-doanh-nghiep-de-xuat-tranh-dieu-chinh-dot-bien-100260718134957963.htm",
+    "PubDate": "7/18/2026 2:44:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc tăng chi phí thuê đất đột biến làm tăng chi phí vận hành, bào mòn biên lợi nhuận của các doanh nghiệp sản xuất và bất động sản khu công nghiệp có quỹ đất lớn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS KCN. Chi phí thuê đất tăng gây áp lực biên lợi nhuận. Cần thận trọng với các mã có quỹ đất mới chưa đền bù xong như KBC, SZC.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí thuê đất đầu vào tăng làm giảm biên lợi nhuận gộp của các dự án khu công nghiệp mới."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí vận hành tăng cao ảnh hưởng trực tiếp đến hiệu quả tài chính của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-07-19 05:35:19"
+  },
+  {
+    "Title": "Tự doanh sa sút, lợi nhuận của Chứng khoán VIX 'bốc hơi' 94%",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tu-doanh-sa-sut-loi-nhuan-cua-chung-khoan-vix-boc-hoi-94-100260718143228714.htm",
+    "PubDate": "7/18/2026 2:54:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Kết quả kinh doanh kém khả quan do mảng tự doanh suy giảm gây áp lực tâm lý lên cổ phiếu VIX và nhóm chứng khoán có tỷ trọng tự doanh cao.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chứng khoán. Lợi nhuận tự doanh sụt giảm mạnh làm suy yếu kỳ vọng tăng trưởng ngắn hạn. Dòng tiền thông minh sẽ thận trọng với các mã có danh mục tự doanh biến động lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lợi nhuận giảm 94% do tự doanh kém hiệu quả, gây áp lực bán tháo trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-07-19 05:35:05"
+  },
+  {
+    "Title": "Nhựa Bình Minh báo lãi quý 2 cao kỷ lục",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nhua-binh-minh-bao-lai-quy-2-cao-ky-luc-100260718151550968.htm",
+    "PubDate": "7/18/2026 3:34:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Kết quả kinh doanh kỷ lục khẳng định vị thế đầu ngành và khả năng duy trì biên lợi nhuận cao của BMP, tạo động lực tăng giá mạnh mẽ cho cổ phiếu trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - BMP. Lợi nhuận kỷ lục xác nhận biên lợi nhuận mở rộng. Dòng tiền tập trung vào cổ phiếu đầu ngành, kỳ vọng phản ứng giá tích cực theo kết quả kinh doanh.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "BMP",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lợi nhuận kỷ lục phản ánh hiệu quả kinh doanh vượt trội, thu hút dòng tiền đầu tư tăng trưởng."
+      }
+    ],
+    "AnalyzedAt": "2026-07-19 05:34:51"
+  },
+  {
+    "Title": "Giá xăng dầu hôm nay 17/7: Dầu thế giới hạ nhiệt, trong nước có giá mới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-17-7-dau-the-gioi-ha-nhiet-trong-nuoc-co-gia-moi-2536493.html",
+    "PubDate": "Fri, 17 Jul 2026 08:27:27 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá xăng dầu giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát, tạo dư địa cho chính sách tiền tệ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm nhẹ là yếu tố chi phí, chưa đủ tạo đột biến biên lợi nhuận. Cần theo dõi áp lực lạm phát và sức cầu tiêu dùng thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu là biến phí lớn, giá dầu giảm trực tiếp hỗ trợ lợi nhuận doanh nghiệp vận tải biển."
+      }
+    ],
+    "AnalyzedAt": "2026-07-19 05:34:36"
+  },
+  {
+    "Title": "11 trường hợp ngừng, tạm ngừng sử dụng hóa đơn điện tử theo quy định mới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/11-truong-hop-ngung-tam-ngung-su-dung-hoa-don-dien-tu-theo-quy-dinh-moi-2536385.html",
+    "PubDate": "Fri, 17 Jul 2026 08:27:44 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là quy định hành chính về quản lý thuế và hóa đơn, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Đây là quy định quản lý hành chính, không tạo ra biến động dòng tiền hay thay đổi cơ bản về lợi nhuận doanh nghiệp. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-07-19 05:34:26"
+  },
+  {
     "Title": "TCI: Nghị quyết HĐQT về việc thông qua hồ sơ đăng ký chào bán thêm cổ phiếu ra công chúng cho CĐHH - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcGNQNTFHZHQ4WkN3YTMwYW9neFBQME1QWkU3YXNuTF9ZZzZ0ajVxNHZWTnhHVDMzTGRnTFFWRnMydVNteDNwMTRrR3BDVklzZWU2QzloODlEaE5ybXJNZmwxckJGQ3p5TVpycndHaVNGaWhFNEJIc0lKakFHUTV3ZERNc1lCbEFaeGE5OVlLQWc5Y01XamdJb0g4Vjd6VFktaUltY1Rtd2ctbnY5cFUySElTQ3IwbEItN01MM0JXWXY0TFRyc1NiTWRZcHRvbGdzbGJhUEcxVkM2MmpqNUg4QVJtNDVxX0h6Rzg2Y1NR?oc=5",
@@ -18127,135 +18221,5 @@
       }
     ],
     "AnalyzedAt": "2026-06-30 19:20:59"
-  },
-  {
-    "Title": "Những \"con sóng ngầm\" phía sau biểu niêm yết lãi suất",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//nhung-con-song-ngam-phia-sau-bieu-niem-yet-lai-suat.html",
-    "PubDate": "Wed, 17 Jun 2026 01:27:34 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -5,
-    "MarketImpact": "Việc lãi suất huy động thực tế tăng cao gây áp lực lên chi phí vốn (COF) của các ngân hàng, từ đó thu hẹp biên lãi thuần (NIM) hoặc buộc các ngân hàng phải tăng lãi suất cho vay, gây khó khăn cho doanh nghiệp vay vốn và làm giảm sức hấp dẫn của thị trường chứng khoán.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vốn tăng gây áp lực lên biên lợi nhuận NIM của ngân hàng."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực lãi suất huy động cao làm tăng chi phí vốn, ảnh hưởng đến khả năng duy trì NIM cao."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lãi suất cho vay tăng làm tăng chi phí tài chính cho doanh nghiệp BĐS và giảm nhu cầu vay mua nhà của khách hàng."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí lãi vay tăng làm giảm lợi nhuận ròng của các doanh nghiệp sản xuất có đòn bẩy tài chính."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lãi suất thị trường tăng làm giảm sức hấp dẫn của kênh đầu tư chứng khoán và tăng chi phí vốn cho hoạt động margin."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 19:20:44"
-  },
-  {
-    "Title": "Cổ phiếu ngân hàng đón lực đẩy từ làn sóng tăng vốn kỷ lục",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//co-phieu-ngan-hang-don-luc-day-tu-lan-song-tang-von-ky-luc.html",
-    "PubDate": "Wed, 17 Jun 2026 01:22:41 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Việc tăng vốn giúp các ngân hàng cải thiện hệ số an toàn vốn (CAR), mở rộng dư địa tăng trưởng tín dụng và nâng cao năng lực tài chính, từ đó củng cố niềm tin của nhà đầu tư vào nhóm cổ phiếu vốn hóa lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng dẫn đầu ngành, việc tăng vốn giúp củng cố vị thế tài chính và khả năng mở rộng quy mô tín dụng."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng vốn giúp ngân hàng duy trì đà tăng trưởng tín dụng mạnh mẽ và tối ưu hóa chi phí vốn."
-      },
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cải thiện hệ số an toàn vốn, hỗ trợ mục tiêu tăng trưởng tín dụng trong dài hạn."
-      },
-      {
-        "Ticker": "CTG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng vốn giúp ngân hàng có thêm nguồn lực để xử lý nợ xấu và mở rộng danh mục cho vay."
-      },
-      {
-        "Ticker": "VPB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Việc tăng vốn quy mô lớn giúp ngân hàng củng cố bảng cân đối kế toán và hỗ trợ chiến lược phát triển hệ sinh thái."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 19:20:29"
-  },
-  {
-    "Title": "HVA bị hạn chế giao dịch, kiểm toán nêu hàng loạt rủi ro liên quan ONUS",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//hva-bi-han-che-giao-dich-kiem-toan-neu-hang-loat-rui-ro-lien-quan-onus.html",
-    "PubDate": "Wed, 17 Jun 2026 04:30:21 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -8,
-    "MarketImpact": "Việc kiểm toán từ chối đưa ra ý kiến và cổ phiếu bị hạn chế giao dịch cho thấy rủi ro minh bạch tài chính nghiêm trọng, gây ảnh hưởng tiêu cực đến niềm tin của nhà đầu tư đối với doanh nghiệp.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HVA",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Bị hạn chế giao dịch và kiểm toán từ chối đưa ra ý kiến về BCTC làm gia tăng rủi ro thanh khoản và rủi ro pháp lý cho cổ đông."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 19:20:14"
-  },
-  {
-    "Title": "DRH mất “vé” margin, bài toán phục hồi thêm áp lực",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//drh-mat-ve-margin-bai-toan-phuc-hoi-them-ap-luc.html",
-    "PubDate": "Tue, 30 Jun 2026 11:57:31 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -5,
-    "MarketImpact": "Việc cổ phiếu bị cắt margin làm giảm tính thanh khoản và sức cầu đối với cổ phiếu, gây áp lực bán giải chấp và ảnh hưởng tiêu cực đến tâm lý nhà đầu tư đối với doanh nghiệp.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DRH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Mất khả năng giao dịch ký quỹ làm giảm sức cầu, tăng áp lực bán và hạn chế khả năng huy động vốn gián tiếp qua thị trường chứng khoán."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 19:20:00"
-  },
-  {
-    "Title": "Vingroup sẽ rót 20.000 tỷ đồng xây điện mặt trời trên hồ thủy điện Lai Châu",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vingroup-se-rot-20-000-ty-dong-xay-dien-mat-troi-tren-ho-thuy-dien-lai-chau-5091638.html",
-    "PubDate": "Tue, 30 Jun 2026 18:16:51 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc Vingroup đầu tư vào năng lượng tái tạo giúp đa dạng hóa danh mục kinh doanh, tận dụng xu hướng chuyển dịch năng lượng xanh và tiềm năng từ các dự án điện mặt trời nổi.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Dự án quy mô lớn khẳng định chiến lược mở rộng sang lĩnh vực năng lượng sạch, tạo động lực tăng trưởng dài hạn cho tập đoàn."
-      }
-    ],
-    "AnalyzedAt": "2026-06-30 19:19:45"
   }
 ]
