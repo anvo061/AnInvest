@@ -1,23 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:55 - 18/07/2026
+⏱ Thời gian: 21:50 - 18/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng toàn cầu hạ dự báo (IMF) kết hợp kinh tế Trung Quốc suy yếu:** -> Tiêu cực -> Gây áp lực giảm giá trị xuất khẩu lên các nhóm ngành: Thép (NKG, HPG), Thủy sản (VHC), Dệt may (TNG) và Cảng biển (GMD).
-- **Áp lực lãi suất huy động thực tế cao:** -> Tiêu cực -> Làm tăng chi phí vốn (Cost of Funds), gây rủi ro thu hẹp biên lợi nhuận (NIM) cho nhóm Ngân hàng (đặc biệt các ngân hàng nhỏ/quy mô vừa như STB).
-- **VDB đẩy mạnh tín dụng hạ tầng:** -> Tích cực -> Dòng tiền có khả năng luân chuyển vào nhóm xây dựng hạ tầng (VCG, HHV).
+- **Giá dầu thế giới tăng vọt:** Tác động tích cực đến nhóm dầu khí thượng nguồn và hạ nguồn do cải thiện biên lợi nhuận và giá trị tồn kho.
+- **Dự báo tăng trưởng toàn cầu (IMF) và Tăng trưởng Trung Quốc Q2 thấp hơn kỳ vọng:** Tác động tiêu cực đến triển vọng xuất khẩu của các ngành thủy sản, dệt may, cảng biển và thép do rủi ro suy giảm nhu cầu quốc tế.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VIX**
-- Động lực (FA): Lợi nhuận quý 2 giảm sốc 95% so với cùng kỳ.
-- Nhận định dòng tiền: Tin tức xác nhận sự suy yếu về nội lực kinh doanh, dự kiến kích hoạt lực bán giải chấp hoặc cơ cấu danh mục mạnh từ phía nhà đầu tư cá nhân và khối ngoại.
-- Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, thoát vị thế trong các nhịp hồi kỹ thuật.
+- **Mã: SHB**
+    - Động lực (FA): Chuẩn bị hoàn tất thương vụ bán SHBFinance, thu về nguồn thặng dư vốn lớn.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ phản ứng tích cực trước thông tin thoái vốn giúp cải thiện CAR và tăng trưởng đột biến.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, theo dõi khối lượng giao dịch xác nhận tin tức.
+- **Mã: PVD, PVS**
+    - Động lực (FA): Giá dầu tăng hỗ trợ trực tiếp giá thuê giàn khoan và dịch vụ kỹ thuật.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ có xu hướng xoay vòng sang nhóm năng lượng khi các nhóm ngành xuất khẩu bị ảnh hưởng bởi tin vĩ mô tiêu cực.
+    - Hành động: Tiếp tục quan sát điểm nổ khối lượng.
+- **Mã: VIX**
+    - Động lực (FA): Lợi nhuận Q2 giảm "sốc" 95% so với cùng kỳ.
+    - Nhận định dòng tiền: Áp lực bán tháo khả năng cao xuất hiện ngay đầu phiên.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
 
-- Mã: **NKG**
-- Động lực (FA): Tăng trưởng GDP Trung Quốc gây thất vọng, ảnh hưởng nhu cầu tiêu thụ thép khu vực.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ suy yếu do tâm lý thận trọng với triển vọng biên lợi nhuận ngành thép.
-- Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu cân bằng.
-
-- Mã: **VCG, HHV**
-- Động lực (FA): Định hướng giải ngân tín dụng của VDB cho các dự án hạ tầng.
-- Nhận định dòng tiền: Có khả năng thu hút dòng tiền đầu cơ nhờ kỳ vọng vào khối lượng công việc được bảo đảm trong nửa cuối 2026.
-- Hành động: **Chú ý giải ngân** nếu xuất hiện điểm nổ khối lượng đi kèm với sự đồng thuận của nhóm ngành.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+    - Nhận định: Giá dầu tăng là yếu tố hỗ trợ mạnh cho BSR trong bối cảnh đã quá thời hạn kỳ vọng tháng 3/2026. Dữ liệu mới (giá dầu) cho thấy dư địa ngắn hạn vẫn còn. Tuy nhiên, khuyến nghị nhà đầu tư giữ vị thế theo dõi sát biên lợi nhuận; nếu giá dầu đảo chiều hoặc cổ phiếu mất mốc hỗ trợ kỹ thuật, cần dứt khoát cơ cấu lại để chuyển sang các nhóm ngành có tiềm năng tăng trưởng bền vững hơn.
