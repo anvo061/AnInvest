@@ -1,32 +1,27 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 19/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 14:45 - 19/07/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu biến động hai chiều: Giá dầu thế giới có tín hiệu tăng do căng thẳng địa chính trị (hỗ trợ nhóm thượng nguồn dầu khí) nhưng giá xăng dầu trong nước hạ nhiệt (giảm áp lực chi phí cho nhóm vận tải). -> Đánh giá: Trung lập (Dòng tiền phân hóa).
-- Tăng chi phí thuê đất công nghiệp: Quy định tăng phí thuê đất tới 35 lần tạo áp lực lên biên lợi nhuận nhóm BĐS khu công nghiệp. -> Đánh giá: Tiêu cực -> Dòng tiền có xu hướng rút khỏi nhóm BĐS KCN.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Nguồn cung BĐS tăng & Dự án Bình Quới - Thanh Đa tái khởi động:** Tích cực -> Kỳ vọng phục hồi thanh khoản nhóm BĐS dân dụng và hạ tầng, giảm áp lực nợ xấu ngành BĐS.
+- **Giá dầu thế giới tăng mạnh:** Tích cực -> Hỗ trợ trực tiếp nhóm thượng nguồn (PVD, PVS, BSR) tăng giá trị tồn kho và biên lợi nhuận.
+- **Thanh khoản thị trường thấp:** Tiêu cực -> Áp lực lên nhóm chứng khoán (SSI, VND) do sụt giảm doanh thu phí và margin.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **BMP**
-  - Động lực (FA): Lợi nhuận quý 2/2026 đạt kỷ lục.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền tăng trưởng (Growth) sẽ tập trung mạnh vào mã này.
-  - Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật để gia tăng tỷ trọng.
-- Mã: **VIX**
-  - Động lực (FA): Lợi nhuận tự doanh giảm 94%.
-  - Nhận định dòng tiền: Áp lực bán tháo ngắn hạn cực cao, rủi ro điều chỉnh sâu.
-  - Hành động: Quản trị rủi ro, ưu tiên hạ tỷ trọng nếu đang nắm giữ.
-- Mã: **HAG**
-  - Động lực (FA): Giá nông sản xuất khẩu giảm mạnh (Sầu riêng, chôm chôm, măng cụt).
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu do kỳ vọng lợi nhuận biên giảm.
-  - Hành động: Đứng ngoài quan sát, chưa giải ngân.
-- Mã: **HAH**
-  - Động lực (FA): Chi phí nhiên liệu vận tải giảm.
-  - Nhận định dòng tiền: Hưởng lợi từ biên lợi nhuận gộp cải thiện, dòng tiền có thể chuyển dịch vào nhóm logistics.
-  - Hành động: Chú ý giải ngân khi có xác nhận dòng tiền đồng thuận.
-- Mã: **PVD**
-  - Động lực (FA): Giá dầu kỳ vọng neo cao do rủi ro địa chính trị.
-  - Nhận định dòng tiền: Nhận lực hỗ trợ từ giá dầu thế giới, tuy nhiên cần đối trọng với áp lực tỷ giá từ USD mạnh.
-  - Hành động: Tiếp tục quan sát phản ứng giá tại ngưỡng hỗ trợ.
-- Mã: **KBC, SZC**
-  - Động lực (FA): Chi phí thuê đất tăng đột biến.
-  - Nhận định dòng tiền: Áp lực chốt lời gia tăng mạnh.
-  - Hành động: Rủi ro vi phạm kịch bản cơ bản, nên ưu tiên thu gọn danh mục.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD**
+  - **Động lực (FA):** Giá dầu thế giới tăng mạnh trở lại trong tuần qua.
+  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về mặt tâm lý và kỳ vọng biên lợi nhuận, dòng tiền có khả năng luân chuyển sang nhóm dầu khí khi nhóm chứng khoán đang thiếu thanh khoản.
+  - **Hành động:** Chú ý giải ngân nếu có nhịp test hỗ trợ, kỳ vọng vào sự bứt phá từ giá dầu.
+
+- **Mã: VIX**
+  - **Động lực (FA):** Lợi nhuận quý 2 sụt giảm 94% do tự doanh kém hiệu quả.
+  - **Nhận định dòng tiền:** Tiêu cực. Áp lực bán kỹ thuật sẽ diễn ra mạnh mẽ khi báo cáo tài chính được thị trường phản ánh tiêu cực.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy.
+
+- **Mã: VHM, NLG, PDR, KDH**
+  - **Động lực (FA):** Tín hiệu nguồn cung tăng 33.000 sản phẩm và dự án siêu đô thị tái khởi động.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể quay lại nhóm này để "đón sóng" kỳ vọng phục hồi cuối năm.
+  - **Hành động:** Tiếp tục quan sát khối lượng giao dịch tại vùng cản, giải ngân thận trọng.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã: BSR**
+  - **Nhận định:** Dữ liệu mới (giá dầu tăng) tác động tích cực đến biên lợi nhuận lọc dầu ngắn hạn. Với kỳ hạn đầu tư tháng 3/2026 đã qua, đây là thời điểm tối ưu để hiện thực hóa lợi nhuận hoặc nâng mức chặn lãi. Dữ liệu hiện tại **không đủ mạnh** để giữ vị thế dài hạn nếu biên lợi nhuận lọc dầu có dấu hiệu tạo đỉnh. Khuyến nghị: Chốt lời từng phần để đảo dòng tiền sang các nhóm có câu chuyện tăng trưởng mới.
