@@ -1,23 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:45 ngày 20/07/2026
+⏱ Thời gian: 07:00 ngày 20/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dữ liệu xuất khẩu Q3 tăng trưởng mạnh nhưng áp lực lạm phát gia tăng**: Đánh giá **Trung lập/Tiêu cực**. Mặc dù xuất khẩu khẳng định chuỗi cung ứng Việt Nam hưởng lợi (FDI), áp lực lạm phát sẽ buộc NHNN duy trì thái độ thận trọng trong chính sách tiền tệ, gây áp lực lên chi phí vốn của các doanh nghiệp sử dụng đòn bẩy cao. Dòng tiền sẽ ưu tiên các nhóm có lợi thế xuất khẩu thực tế hơn là nhóm nhạy cảm lãi suất (Ngân hàng, Chứng khoán).
+- Xác nhận dư địa giảm lãi suất điều hành kết hợp với sự bùng nổ xuất khẩu và đầu tư công đang tạo thế "kiềng ba chân" hỗ trợ thị trường -> Tích cực (cân bằng lại áp lực lạm phát) -> Dòng tiền sẽ tập trung vào nhóm Bất động sản KCN, Logistics và Ngân hàng có tăng trưởng thực chất.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: GMD, TNG, VHC**
-  - **Động lực (FA):** Số liệu xuất khẩu tháng 8 duy trì đà tăng trưởng mạnh mẽ, xác nhận nhu cầu toàn cầu với hàng hóa Việt Nam vẫn cao.
-  - **Nhận định dòng tiền:** Dòng tiền sẽ phân hóa vào nhóm Logistics (GMD) và xuất khẩu trực tiếp (TNG, VHC). Đây là nhóm trú ẩn an toàn trước rủi ro lạm phát/lãi suất.
-  - **Hành động:** Tiếp tục quan sát các vùng hỗ trợ cứng, ưu tiên gia tăng tỷ trọng nếu có nhịp điều chỉnh theo thị trường chung.
-- **Mã: SSI, VND**
-  - **Động lực (FA):** Kết quả kinh doanh Q2 ghi nhận "đi lùi" cùng thanh khoản thị trường chạm đáy.
-  - **Nhận định dòng tiền:** Áp lực cung ngắn hạn cao do tâm lý thất vọng về tăng trưởng lợi nhuận và doanh thu môi giới sụt giảm. 
-  - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng. Ưu tiên quản trị rủi ro, hạn chế bắt đáy cho đến khi có tín hiệu cải thiện thanh khoản hệ thống.
-- **Mã: PNJ**
-  - **Động lực (FA):** Sự suy yếu của các đơn vị bán lẻ nhỏ lẻ phản ánh sức mua xa xỉ suy giảm.
-  - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do thay đổi hành vi tiêu dùng và rủi ro biên lợi nhuận bị bào mòn.
-  - **Hành động:** Quan sát chặt chẽ tại các vùng hỗ trợ kỹ thuật; thận trọng với các nhịp hồi phục thiếu khối lượng.
-- **Mã: NKG**
-  - **Động lực (FA):** Tăng trưởng Trung Quốc chững lại làm suy yếu nhu cầu nguyên liệu và áp lực giá thép xuất khẩu.
-  - **Nhận định dòng tiền:** Tiêu cực. Triển vọng biên lợi nhuận thu hẹp khiến cổ phiếu thiếu động lực dẫn sóng.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cân nhắc cơ cấu danh mục sang nhóm hưởng lợi trực tiếp từ FDI/Xuất khẩu mạnh hơn.
+- Mã: VCB
+  - Động lực (FA): Lợi nhuận Q2 tăng trưởng mạnh, vị thế ngân hàng dẫn đầu.
+  - Nhận định dòng tiền: Hưởng lợi từ sự phân hóa kết quả kinh doanh; dư địa giảm lãi suất là chất xúc tác giữ vững NIM trong khi các ngân hàng nhỏ chịu áp lực nợ xấu.
+  - Hành động: Tiếp tục quan sát, ưu tiên tích lũy nếu có rung lắc về vùng hỗ trợ.
+- Mã: SSI
+  - Động lực (FA): Kỳ vọng giảm lãi suất và thanh khoản thị trường cải thiện (ghi nhận tăng trưởng Q2).
+  - Nhận định dòng tiền: Dòng tiền kỳ vọng quay lại nhóm tài chính dẫn dắt thị trường, bất chấp áp lực lạm phát đang được kiểm soát.
+  - Hành động: Chú ý giải ngân khi thị trường xác nhận sóng tăng nhờ chính sách tiền tệ.
+- Mã: KBC, SZC
+  - Động lực (FA): Làn sóng FDI từ Mỹ và sự bùng nổ xuất khẩu 'Made in Vietnam'.
+  - Nhận định dòng tiền: Dòng tiền thông minh sẽ tìm đến nhóm BĐS KCN có quỹ đất sạch và hạ tầng kết nối tốt.
+  - Hành động: Tiếp tục quan sát vị thế, giữ tỷ trọng cho mục tiêu trung hạn.
+- Mã: VCG, HHV
+  - Động lực (FA): Đẩy mạnh hạ tầng quốc gia theo báo cáo S&P Ratings.
+  - Nhận định dòng tiền: Dòng tiền ổn định, ít nhạy cảm với biến động vĩ mô ngắn hạn nhờ khối lượng công việc được đảm bảo.
+  - Hành động: Tiếp tục quan sát.
+- Mã: POW, REE
+  - Động lực (FA): Báo cáo Q2 cho thấy nhóm thủy điện/tiện ích suy giảm.
+  - Nhận định dòng tiền: Rủi ro rút vốn do kết quả kinh doanh "hụt hơi" so với nhóm tài chính.
+  - Hành động: Rủi ro vi phạm kịch bản, cân nhắc giảm tỷ trọng nếu đã đạt ngưỡng cắt lỗ.
