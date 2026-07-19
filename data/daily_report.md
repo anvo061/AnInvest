@@ -1,27 +1,24 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 14:45 - 19/07/2026
+⏱ **Thời gian:** 18:50 - 19/07/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Nguồn cung BĐS tăng & Dự án Bình Quới - Thanh Đa tái khởi động:** Tích cực -> Kỳ vọng phục hồi thanh khoản nhóm BĐS dân dụng và hạ tầng, giảm áp lực nợ xấu ngành BĐS.
-- **Giá dầu thế giới tăng mạnh:** Tích cực -> Hỗ trợ trực tiếp nhóm thượng nguồn (PVD, PVS, BSR) tăng giá trị tồn kho và biên lợi nhuận.
-- **Thanh khoản thị trường thấp:** Tiêu cực -> Áp lực lên nhóm chứng khoán (SSI, VND) do sụt giảm doanh thu phí và margin.
+- **Nguồn cung BĐS tăng 33.000 sản phẩm & Dự án Bình Quới - Thanh Đa tái khởi động:** -> Đánh giá tác động: Tích cực (Trung hạn) -> Dòng tiền sẽ tập trung vào nhóm Bất động sản có quỹ đất lớn và năng lực pháp lý (VHM, PDR, NLG, KDH).
+- **Thiếu hụt động cơ hàng không (17 tàu bay dừng hoạt động):** -> Đánh giá tác động: Tiêu cực -> Dòng tiền sẽ rút khỏi nhóm Hàng không/Dịch vụ hàng không (HVN, ACV) do áp lực chi phí và giảm hiệu suất khai thác.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-  - **Động lực (FA):** Giá dầu thế giới tăng mạnh trở lại trong tuần qua.
-  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về mặt tâm lý và kỳ vọng biên lợi nhuận, dòng tiền có khả năng luân chuyển sang nhóm dầu khí khi nhóm chứng khoán đang thiếu thanh khoản.
-  - **Hành động:** Chú ý giải ngân nếu có nhịp test hỗ trợ, kỳ vọng vào sự bứt phá từ giá dầu.
-
-- **Mã: VIX**
-  - **Động lực (FA):** Lợi nhuận quý 2 sụt giảm 94% do tự doanh kém hiệu quả.
-  - **Nhận định dòng tiền:** Tiêu cực. Áp lực bán kỹ thuật sẽ diễn ra mạnh mẽ khi báo cáo tài chính được thị trường phản ánh tiêu cực.
-  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy.
-
-- **Mã: VHM, NLG, PDR, KDH**
-  - **Động lực (FA):** Tín hiệu nguồn cung tăng 33.000 sản phẩm và dự án siêu đô thị tái khởi động.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể quay lại nhóm này để "đón sóng" kỳ vọng phục hồi cuối năm.
-  - **Hành động:** Tiếp tục quan sát khối lượng giao dịch tại vùng cản, giải ngân thận trọng.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-  - **Nhận định:** Dữ liệu mới (giá dầu tăng) tác động tích cực đến biên lợi nhuận lọc dầu ngắn hạn. Với kỳ hạn đầu tư tháng 3/2026 đã qua, đây là thời điểm tối ưu để hiện thực hóa lợi nhuận hoặc nâng mức chặn lãi. Dữ liệu hiện tại **không đủ mạnh** để giữ vị thế dài hạn nếu biên lợi nhuận lọc dầu có dấu hiệu tạo đỉnh. Khuyến nghị: Chốt lời từng phần để đảo dòng tiền sang các nhóm có câu chuyện tăng trưởng mới.
+- **Mã: HAG**
+    - **Động lực (FA):** Giá sầu riêng giảm xuống mức thấp nhất từ đầu năm, chịu áp lực cạnh tranh từ hàng nhập khẩu.
+    - **Nhận định dòng tiền:** Áp lực bán ngắn hạn sẽ gia tăng do kỳ vọng lợi nhuận bị ảnh hưởng trực tiếp.
+    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát lực đỡ tại vùng hỗ trợ cứng gần nhất.
+- **Mã: PNJ**
+    - **Động lực (FA):** Thị trường trang sức cao cấp suy yếu, loạt thương hiệu đóng cửa phản ánh sức mua tiêu dùng xa xỉ suy giảm.
+    - **Nhận định dòng tiền:** Dòng tiền sẽ trở nên thận trọng, thiếu động lực bứt phá trong ngắn hạn.
+    - **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro.
+- **Mã: HTN**
+    - **Động lực (FA):** Dự kiến phát hành cổ phiếu thưởng tỷ lệ 50%.
+    - **Nhận định dòng tiền:** Kích thích dòng tiền đầu cơ ngắn hạn tham gia do hiệu ứng tăng vốn.
+    - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự với thanh khoản đột biến.
+- **Mã: FPT**
+    - **Động lực (FA):** Hưởng lợi từ làn sóng đầu tư AI và bán dẫn tại TP.HCM.
+    - **Nhận định dòng tiền:** Duy trì sức hút đối với dòng tiền dài hạn và khối ngoại.
+    - **Hành động:** Tiếp tục nắm giữ, vị thế tăng trưởng bền vững.
