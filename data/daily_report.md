@@ -1,27 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 ngày 20/07/2026
+⏱ Thời gian: 17:45 - 20/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Xác nhận dư địa giảm lãi suất điều hành kết hợp với sự bùng nổ xuất khẩu và đầu tư công đang tạo thế "kiềng ba chân" hỗ trợ thị trường -> Tích cực (cân bằng lại áp lực lạm phát) -> Dòng tiền sẽ tập trung vào nhóm Bất động sản KCN, Logistics và Ngân hàng có tăng trưởng thực chất.
+- **Dữ liệu mâu thuẫn:** Bloomberg báo cáo cắt giảm lãi suất 100 bps, trong khi dữ liệu thực tế tại thị trường nội địa cho thấy lãi suất huy động và cho vay mua nhà đang trong xu hướng tăng. -> **Đánh giá: Tiêu cực.** Lãi suất thực tế tăng sẽ làm lu mờ hoàn toàn thông tin cắt giảm lãi suất lý thuyết, gây áp lực mạnh lên định giá cổ phiếu và chi phí vốn doanh nghiệp. -> **Dòng tiền:** Có xu hướng rút khỏi nhóm nhạy cảm lãi suất (Bất động sản, Chứng khoán) để trú ẩn hoặc chờ đợi vùng cân bằng mới.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VCB
-  - Động lực (FA): Lợi nhuận Q2 tăng trưởng mạnh, vị thế ngân hàng dẫn đầu.
-  - Nhận định dòng tiền: Hưởng lợi từ sự phân hóa kết quả kinh doanh; dư địa giảm lãi suất là chất xúc tác giữ vững NIM trong khi các ngân hàng nhỏ chịu áp lực nợ xấu.
-  - Hành động: Tiếp tục quan sát, ưu tiên tích lũy nếu có rung lắc về vùng hỗ trợ.
-- Mã: SSI
-  - Động lực (FA): Kỳ vọng giảm lãi suất và thanh khoản thị trường cải thiện (ghi nhận tăng trưởng Q2).
-  - Nhận định dòng tiền: Dòng tiền kỳ vọng quay lại nhóm tài chính dẫn dắt thị trường, bất chấp áp lực lạm phát đang được kiểm soát.
-  - Hành động: Chú ý giải ngân khi thị trường xác nhận sóng tăng nhờ chính sách tiền tệ.
-- Mã: KBC, SZC
-  - Động lực (FA): Làn sóng FDI từ Mỹ và sự bùng nổ xuất khẩu 'Made in Vietnam'.
-  - Nhận định dòng tiền: Dòng tiền thông minh sẽ tìm đến nhóm BĐS KCN có quỹ đất sạch và hạ tầng kết nối tốt.
-  - Hành động: Tiếp tục quan sát vị thế, giữ tỷ trọng cho mục tiêu trung hạn.
-- Mã: VCG, HHV
-  - Động lực (FA): Đẩy mạnh hạ tầng quốc gia theo báo cáo S&P Ratings.
-  - Nhận định dòng tiền: Dòng tiền ổn định, ít nhạy cảm với biến động vĩ mô ngắn hạn nhờ khối lượng công việc được đảm bảo.
-  - Hành động: Tiếp tục quan sát.
-- Mã: POW, REE
-  - Động lực (FA): Báo cáo Q2 cho thấy nhóm thủy điện/tiện ích suy giảm.
-  - Nhận định dòng tiền: Rủi ro rút vốn do kết quả kinh doanh "hụt hơi" so với nhóm tài chính.
-  - Hành động: Rủi ro vi phạm kịch bản, cân nhắc giảm tỷ trọng nếu đã đạt ngưỡng cắt lỗ.
+- **Mã: SSI, VND (Chứng khoán)**
+  - Động lực (FA): Dư nợ margin toàn thị trường vẫn ở mức cao (theo dữ liệu VPS), nhưng bị áp lực bởi lãi suất huy động tăng sát 8%/năm.
+  - Nhận định dòng tiền: Kỳ vọng từ báo cáo tài chính tích cực (lãi tăng) sẽ bị triệt tiêu bởi rủi ro chi phí vốn tăng, gây áp lực bán ròng từ khối ngoại và nhà đầu tư ngắn hạn.
+  - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên hạ tỷ trọng margin, quan sát vùng hỗ trợ cứng, tránh giải ngân mới.
+
+- **Mã: NVL, DXG, DIG, NLG (Bất động sản)**
+  - Động lực (FA): Lãi suất vay mua nhà tiếp tục đi lên.
+  - Nhận định dòng tiền: Tiêu cực trực diện. Chi phí tài chính tăng cao làm giảm tốc độ hấp thụ dự án và biên lợi nhuận, dòng tiền có thể sẽ rút mạnh khỏi nhóm này.
+  - Hành động: **Tiếp tục quan sát**, không bắt đáy khi lãi suất cho vay chưa có tín hiệu tạo đỉnh.
+
+- **Mã: FPT, REE, GEX (Công nghệ & Năng lượng xanh)**
+  - Động lực (FA): Hưởng lợi từ xu hướng AI toàn cầu và tín dụng xanh.
+  - Nhận định dòng tiền: Nhóm cổ phiếu phòng thủ có tăng trưởng nền tảng, ít bị ảnh hưởng bởi biến động lãi suất ngắn hạn so với BĐS.
+  - Hành động: **Chú ý giải ngân** nếu thị trường chung điều chỉnh sâu về vùng hỗ trợ, ưu tiên nắm giữ cho mục tiêu dài hạn.
