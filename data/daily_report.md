@@ -1,27 +1,32 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 16:45 - 21/07/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 23:00, 21/07/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tỷ giá USD tự do lao dốc:** Giảm áp lực chi phí tài chính cho các doanh nghiệp vay nợ ngoại tệ lớn và dư địa chính sách cho NHNN -> **Tích cực** -> Dòng tiền ưu tiên nhóm hưởng lợi: **POW, HPG**; thận trọng nhóm xuất khẩu: **VHC, TNG**.
-- **Áp lực thanh khoản hệ thống (Tăng lãi suất huy động):** Ngân hàng thương mại cạnh tranh gay gắt nguồn vốn -> **Tiêu cực** -> Dòng tiền ngắn hạn suy yếu tại nhóm BĐS đòn bẩy cao (**PDR, VHM**) và áp lực lên biên NIM nhóm ngân hàng (**TCB, MBB**).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Căng thẳng địa chính trị (Trung Đông/Biển Đỏ) leo thang & Chính sách thuế quan Mỹ:** Giá dầu dự báo biến động mạnh, rủi ro lạm phát chi phí đẩy và áp lực thuế lên hàng xuất khẩu (dệt may, thủy sản) -> **Tiêu cực/Phân hóa** -> Dòng tiền có xu hướng luân chuyển từ nhóm xuất khẩu sang nhóm hưởng lợi từ giá năng lượng/vận tải (PVD, PVS, HAH).
+- **Kết quả kinh doanh Quý 2:** TCB công bố lợi nhuận kỷ lục -> **Tích cực** -> Củng cố sức mạnh nhóm Ngân hàng làm trụ đỡ cho VN-Index.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: LPB**
-    - Động lực (FA): Lợi nhuận 6 tháng đạt 6.000 tỷ, thu ngoài lãi tăng 33%.
-    - Nhận định dòng tiền: Ngược dòng với tâm lý tiêu cực chung của nhóm ngân hàng đang chịu áp lực huy động. Hiệu quả kinh doanh là "neo" chặn lỗ ngắn hạn tốt.
-    - Hành động: **Chú ý giải ngân** nếu thị trường chung cân bằng.
-- **Mã: PNJ**
-    - Động lực (FA): Tin giãn tiến độ thanh toán kim cương kết hợp với áp lực bán sàn kỹ thuật.
-    - Nhận định dòng tiền: Dòng tiền rút mạnh, phản ánh sự nghi ngại về thanh khoản nội tại.
-    - Hành động: **Rủi ro vi phạm kịch bản** – Quan sát phản ứng tại vùng hỗ trợ cứng, tuyệt đối không bắt đáy khi chưa có tín hiệu ngưng bán.
-- **Mã: DIG**
-    - Động lực (FA): Thông tin bán giải chấp cổ phiếu Chủ tịch.
-    - Nhận định dòng tiền: Áp lực cung cưỡng bức, tâm lý đám đông sẽ bị ảnh hưởng tiêu cực mạnh trong ngắn hạn.
-    - Hành động: **Tiếp tục quan sát**, ưu tiên quản trị rủi ro, tránh bắt dao rơi.
-- **Mã: PVS, PVD**
-    - Động lực (FA): Dòng tiền đầu cơ rút mạnh theo đà bán tháo chung.
-    - Nhận định dòng tiền: Gãy xu hướng ngắn hạn, dòng tiền thông minh đang ưu tiên rút lui để bảo toàn vốn.
-    - Hành động: **Rủi ro vi phạm kịch bản** – Cân nhắc hạ tỷ trọng để tránh tổn thất gia tăng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** **TCB**
+  - Động lực (FA): Lợi nhuận Quý 2 đạt mức cao nhất từ trước tới nay.
+  - Nhận định dòng tiền: Hỗ trợ đà tăng ngắn hạn, tạo niềm tin cho nhóm Ngân hàng giữa bối cảnh thị trường biến động.
+  - Hành động: **Tiếp tục quan sát**, ưu tiên nắm giữ cho mục tiêu tăng trưởng theo kết quả kinh doanh.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Hiện chưa có tin tức mới đột biến từ BSR và EIB trong khung dữ liệu này. Tiếp tục duy trì vị thế quan sát theo kế hoạch tái cơ cấu kỳ tháng 6/2026.
+- **Mã:** **PVD, PVS**
+  - Động lực (FA): Căng thẳng Biển Đỏ đẩy giá cước vận tải và giá dầu neo cao; nhu cầu thăm dò khai thác gia tăng.
+  - Nhận định dòng tiền: Hưởng lợi từ sự dịch chuyển dòng tiền tìm kiếm nhóm phòng thủ/hưởng lợi vĩ mô trong bối cảnh thị trường chung suy yếu.
+  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc kỹ thuật do ảnh hưởng tâm lý từ nhóm dầu khí (theo dữ liệu tiêu cực ngắn hạn).
+
+- **Mã:** **DIG**
+  - Động lực (FA): Áp lực bán giải chấp cổ phiếu của Chủ tịch.
+  - Nhận định dòng tiền: Cung ngắn hạn áp đảo, tâm lý nhà đầu tư cá nhân tiêu cực.
+  - Hành động: **Rủi ro vi phạm kịch bản**, tránh bắt đáy khi chưa có tín hiệu hấp thụ hết lượng cung giải chấp.
+
+- **Mã:** **VHC, TNG**
+  - Động lực (FA): Rủi ro bị áp thuế quan mới từ chính quyền Mỹ.
+  - Nhận định dòng tiền: Áp lực điều chỉnh mạnh do lo ngại về biên lợi nhuận xuất khẩu.
+  - Hành động: **Rủi ro vi phạm kịch bản**, quản trị rủi ro chặt chẽ.
+
+- **Mã:** **PNJ**
+  - Động lực (FA): Sự cố vận hành và biến động giá vàng làm tổn hại uy tín.
+  - Nhận định dòng tiền: Dòng tiền thoát mạnh (dư bán sàn), mất xu hướng kỹ thuật.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế để bảo toàn vốn.
