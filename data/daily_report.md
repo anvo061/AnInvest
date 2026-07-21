@@ -1,24 +1,22 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:10 - 21/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 07:30 - 21/07/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ đặt mục tiêu GDP 8% (2025) và đẩy mạnh quan hệ thương mại Việt-Mỹ -> Tích cực -> Dòng tiền hướng vào nhóm BĐS Khu công nghiệp (KBC) và Logistics (GMD).
-- Căng thẳng địa chính trị gia tăng trên biển Đông -> Tiêu cực -> Gây áp lực điều chỉnh ngắn hạn lên nhóm Dầu khí (PVD, PVS).
-- Dư nợ Margin toàn thị trường thiết lập đỉnh mới (SSI báo cáo >40.000 tỷ) -> Tích cực -> Củng cố sức mạnh cho nhóm Tài chính, đặc biệt là các CTCK đầu ngành (SSI, HCM).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chính sách:** Chính phủ chỉ đạo NHNN dỡ bỏ hạn mức tăng trưởng tín dụng từ 2026; GDP tăng trưởng vượt kỳ vọng (7.09%) -> **Đánh giá: Tích cực (Bản lề)** -> Dòng tiền kỳ vọng xoay trục mạnh mẽ vào nhóm **Ngân hàng (VCB, TCB)** và các cổ phiếu đầu ngành có đòn bẩy tài chính tốt.
+- **Thị trường:** VN-Index điều chỉnh kỹ thuật (-44 điểm) kết hợp với dư nợ margin kỷ lục -> **Đánh giá: Tiêu cực (Ngắn hạn)** -> Áp lực bán giải chấp sẽ là rào cản tâm lý cực lớn trong phiên sáng, tạo sự phân hóa khốc liệt.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC**
-  - Động lực (FA): Hưởng lợi kép từ làn sóng FDI (đối tác Mỹ) và mục tiêu tăng trưởng GDP 8%.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sẽ chú ý vào nhóm BĐS KCN như một kênh trú ẩn tăng trưởng.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: PVD**
-  - Động lực (FA): Rủi ro từ tin tức địa chính trị tại khu vực biển Đông.
-  - Nhận định dòng tiền: Tâm lý thận trọng có thể gây áp lực bán ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy cho đến khi thông tin hạ nhiệt.
-- **Mã: SSI**
-  - Động lực (FA): Dư nợ cho vay margin đạt kỷ lục, minh chứng cho thanh khoản thị trường vẫn rất mạnh bất chấp tin tức nâng hạng.
-  - Nhận định dòng tiền: Dòng tiền nội địa đang "gánh" thay cho khối ngoại, giữ vững cấu trúc giá cổ phiếu.
-  - Hành động: Tiếp tục quan sát tín hiệu giữ nền để duy trì vị thế.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **SSI, VCB**
+    - **Động lực (FA):** Dỡ bỏ hạn mức tín dụng & GDP tăng trưởng mạnh (VCB); Thị phần môi giới lớn & dư nợ margin kỷ lục (SSI).
+    - **Nhận định dòng tiền:** Dù VN-Index điều chỉnh sâu tạo áp lực bán tháo, các cổ phiếu đầu ngành này có nền tảng nội tại để hấp thụ lực cầu bắt đáy khi định giá về vùng chiết khấu. 
+    - **Hành động:** **Chú ý giải ngân (Canh giá đỏ)** khi thị trường hoảng loạn, không đuổi giá xanh.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Chưa ghi nhận dữ liệu mới liên quan đến EIB, BSR trong 15 phút qua. Tiếp tục giữ nguyên chiến lược hiện tại.
+- **Mã:** **PVD**
+    - **Động lực (FA):** Căng thẳng địa chính trị tại vùng biển chủ quyền.
+    - **Nhận định dòng tiền:** Tin tức tiêu cực về địa chính trị thường gây phản ứng thái quá (overreact) trong ngắn hạn đối với nhóm dầu khí thượng nguồn.
+    - **Hành động:** **Rủi ro vi phạm kịch bản** – tạm dừng mua mới, ưu tiên quản trị rủi ro nếu có vị thế sẵn.
+
+- **Mã:** **HAG, VHC**
+    - **Động lực (FA):** Nhu cầu xuất khẩu nông/thủy sản sang Trung Quốc tăng vọt & giá sầu riêng lập đỉnh.
+    - **Nhận định dòng tiền:** Nhóm này có tính chất phòng thủ và tăng trưởng độc lập với biến động Index, dòng tiền thông minh có xu hướng trú ẩn vào các mã có câu chuyện xuất khẩu rõ ràng.
+    - **Hành động:** **Tiếp tục quan sát** sức mạnh giá so với VN-Index; nếu giữ được nền giá, đây là cơ hội tích lũy.
