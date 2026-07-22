@@ -1,26 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 ngày 22/07/2026
+⏱ Thời gian: 15:03:44
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dòng tiền hạ tầng & Xây lắp:** VCB giải ngân vốn mở rộng cao tốc TP.HCM - Trung Lương - Mỹ Thuận -> **Tích cực** -> Dòng tiền hướng vào nhóm hạ tầng (HHV, VCG) và Ngân hàng quốc doanh.
-- **Ngành Chứng khoán:** Lợi nhuận ngành quý 2 đạt 15.200 tỷ đồng, khẳng định vị thế dẫn dắt thanh khoản -> **Tích cực** -> Dòng tiền vào nhóm SSI, VCI.
-- **Ngành Bán lẻ/Trang sức:** PNJ có dấu hiệu áp lực thanh khoản (trả chậm 120 ngày cho khách bán kim cương) -> **Tiêu cực** -> Rủi ro tâm lý cực lớn đối với cổ phiếu PNJ.
-- **Ngành Chăn nuôi:** Giá thịt lợn Trung Quốc giảm tạo áp lực cạnh tranh -> **Tiêu cực** -> Thận trọng với DBC, BAF.
+- **VN-Index sụt giảm mạnh 66 điểm, kèm áp lực bán giải chấp (margin call) diện rộng:** -> [Tác động: Tiêu cực] -> [Dòng tiền: Rút mạnh khỏi các nhóm cổ phiếu trụ (Bluechips) và nhóm có tỷ lệ đòn bẩy cao; tập trung vào phòng thủ tiền mặt.]
+- **Giá dầu thế giới tăng do căng thẳng địa chính trị:** -> [Tác động: Tích cực (cục bộ)] -> [Dòng tiền: Có khả năng tìm đến nhóm Dầu khí (PVD, PVS) như một kênh trú ẩn tạm thời trước lạm phát chi phí đẩy.]
+- **Chính sách ưu tiên tín dụng cho nhà ở xã hội và KCN:** -> [Tác động: Tích cực (trung hạn)] -> [Dòng tiền: Phân hóa vào nhóm BĐS dân dụng (NLG) và BĐS KCN (KBC, SZC) có nền tảng pháp lý/quỹ đất sạch.]
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VCG, HHV
-  - **Động lực (FA):** Được hưởng lợi trực tiếp từ dự án hạ tầng trọng điểm do VCB cấp vốn.
-  - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào nhóm xây lắp đầu tư công, tạo đà bứt phá cho các phiên giao dịch tới.
-  - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã:** PNJ
-  - **Động lực (FA):** Tin tức về chính sách thanh toán chậm cho khách hàng cá nhân.
-  - **Nhận định dòng tiền:** Rủi ro bán tháo do lo ngại đòn bẩy tài chính và uy tín.
-  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng tại các ngưỡng hỗ trợ cứng.
-- **Mã:** VGC
-  - **Động lực (FA):** Thông báo chốt quyền cổ tức tiền mặt 2025.
-  - **Nhận định dòng tiền:** Thu hút dòng tiền đầu tư dài hạn tìm kiếm cổ tức ổn định trong giai đoạn thị trường biến động.
-  - **Hành động:** Tiếp tục nắm giữ, theo dõi vùng kháng cự ngắn hạn.
-- **Mã:** DSN
-  - **Động lực (FA):** Lỗ lũy kế 400 tỷ đồng, rủi ro tài chính cao.
-  - **Nhận định dòng tiền:** Áp lực bán mạnh, thanh khoản có thể bị thắt chặt do tâm lý lo ngại hủy niêm yết.
-  - **Hành động:** Rủi ro vi phạm kịch bản, khuyến nghị thoát vị thế nếu còn nắm giữ.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới tăng do căng thẳng địa chính trị Trung Đông.
+  - Nhận định dòng tiền: Hưởng lợi từ tâm lý phòng thủ của dòng tiền khi thị trường chung đang "hoảng loạn" (panic selling).
+  - Hành động: Quan sát phản ứng tại vùng hỗ trợ, ưu tiên vị thế nắm giữ, tránh giải ngân đuổi theo trong nhịp thị trường chung đang bị bán tháo.
+- **Mã: PNJ**
+  - Động lực (FA): Áp lực thanh khoản doanh nghiệp, cổ phiếu thủng đáy 5 năm.
+  - Nhận định dòng tiền: Tiêu cực. Áp lực bán mạnh theo tin tức cơ bản, rủi ro rơi tự do khi mất vùng hỗ trợ tâm lý dài hạn.
+  - Hành động: Dứt khoát loại bỏ/cắt lỗ, rủi ro vi phạm kịch bản định giá nghiêm trọng.
+- **Mã: SSI**
+  - Động lực (FA): Áp lực bán giải chấp margin + thị trường mất thanh khoản chung.
+  - Nhận định dòng tiền: Tiêu cực. Doanh thu môi giới sẽ bị ảnh hưởng trực tiếp từ sụt giảm quy mô giao dịch.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên giảm tỷ trọng trong các nhịp hồi kỹ thuật ngắn hạn.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này).
