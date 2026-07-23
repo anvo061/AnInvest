@@ -1,26 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:55, 23/07/2026
+⏱ Thời gian: 13:47:22
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thanh khoản thị trường suy kiệt xuống mức thấp nhất 6 quý kèm áp lực bán tháo (VN-Index mất 60 điểm)** -> [Đánh giá tác động: **Tiêu cực**] -> [Dòng tiền: Rút khỏi nhóm Tài chính - Chứng khoán và Bất động sản vốn hóa lớn; trú ẩn vào các doanh nghiệp có lượng tiền mặt ròng dồi dào, ít phụ thuộc đòn bẩy].
+- **Lãi suất và áp lực đòn bẩy:** Lãi suất cho vay vượt ngưỡng 10% kết hợp dư nợ margin kỷ lục đang tạo áp lực bán giải chấp (force sell) diện rộng -> **Tiêu cực:** Dòng tiền ngắn hạn sẽ có xu hướng rút mạnh khỏi các nhóm ngành nhạy cảm với lãi suất và có tỷ lệ đòn bẩy cao (Bất động sản, Chứng khoán).
+- **Cơ chế giá xăng dầu:** Bộ Công Thương đề xuất doanh nghiệp tự quyết giá xăng dầu -> **Tích cực:** Cải thiện biên lợi nhuận cho nhóm ngành bán lẻ/phân phối xăng dầu (PLX, OIL).
+- **Khối ngoại:** Bán ròng mạnh 2.000 tỷ đồng, tập trung vào nhóm Bluechips -> **Tiêu cực:** Gây áp lực giảm điểm chỉ số VN-Index, tâm lý hoảng loạn lan tỏa.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND, VCI**
-  - Động lực (FA): Lượng tiền chờ trên tài khoản thấp kỷ lục kết hợp với áp lực bán giải chấp (margin call) sau phiên giảm mạnh 60 điểm.
-  - Nhận định dòng tiền: Nhóm chứng khoán chịu tác động kép từ doanh thu môi giới sụt giảm và rủi ro danh mục tự doanh/cho vay margin. Dòng tiền hiện đang ưu tiên thoát vị thế để quản trị rủi ro.
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên đóng vị thế margin, đứng ngoài thị trường.
-
 - **Mã: PNJ**
-  - Động lực (FA): Cổ phiếu thủng đáy kỹ thuật; các CTCK (SSI, VND,...) đồng loạt cắt margin; chịu áp lực thanh tra kinh doanh vàng.
-  - Nhận định dòng tiền: Tâm lý nhà đầu tư hoảng loạn, áp lực bán giải chấp sẽ tiếp tục làm suy yếu thanh khoản.
-  - Hành động: **Rủi ro vi phạm kịch bản**; không bắt đáy khi chưa có tín hiệu cân bằng ở vùng hỗ trợ tiếp theo.
-
-- **Mã: VCB, VHM**
-  - Động lực (FA): Dòng kiều hối 6 tháng đầu năm đạt 4 tỉ USD hỗ trợ thanh khoản hệ thống, tuy nhiên đang bị áp lực bán ròng từ khối ngoại và ETF do cấu trúc thị trường xấu.
-  - Nhận định dòng tiền: Dòng tiền nội địa yếu không đủ hấp thụ áp lực bán từ khối ngoại lên các cổ phiếu trụ.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng; chưa ưu tiên giải ngân mới.
-
-- **Mã: VEF**
-  - Động lực (FA): Duy trì nguồn thu tài chính ổn định (5 tỷ đồng/ngày) từ cho vay và đầu tư.
-  - Nhận định dòng tiền: Trong bối cảnh thanh khoản thị trường chung suy yếu, doanh nghiệp sở hữu tiền mặt dồi dào trở thành "trú ẩn" tạm thời.
-  - Hành động: **Chú ý quan sát**; đây là trường hợp ngoại lệ có thể giữ nền giá tốt hơn thị trường chung.
+    - Động lực (FA): Dragon Capital thoái vốn, bị siết margin, khối ngoại rời đi.
+    - Nhận định dòng tiền: Áp lực cung lớn từ cả quỹ ngoại và hoạt động bán giải chấp ngắn hạn, cấu trúc kỹ thuật đang bị suy yếu nghiêm trọng.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn, tránh bắt đáy trong bối cảnh bị siết margin.
+- **Mã: PLX, OIL**
+    - Động lực (FA): Đề xuất doanh nghiệp tự quyết giá bán để tối ưu hóa biên lợi nhuận.
+    - Nhận định dòng tiền: Điểm sáng hiếm hoi trong thị trường giảm điểm, có thể thu hút dòng tiền đầu cơ tìm kiếm lợi nhuận ngắn hạn.
+    - Hành động: **Chú ý giải ngân** nếu thị trường chung cân bằng.
+- **Mã: VHM, HPG, VCB, NVL, PDR**
+    - Động lực (FA): Chịu áp lực kép từ khối ngoại bán ròng và chi phí lãi vay tăng cao.
+    - Nhận định dòng tiền: Dòng tiền lớn đang rút ra, cần quan sát sự hỗ trợ tại các vùng hỗ trợ cứng, chưa có tín hiệu đảo chiều.
+    - Hành động: **Tiếp tục quan sát**, không bắt đáy khi thị trường đang trong nhịp force sell.
