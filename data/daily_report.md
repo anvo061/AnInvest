@@ -1,21 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:47:22
+⏱ Thời gian: 19:30 - 23/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất và áp lực đòn bẩy:** Lãi suất cho vay vượt ngưỡng 10% kết hợp dư nợ margin kỷ lục đang tạo áp lực bán giải chấp (force sell) diện rộng -> **Tiêu cực:** Dòng tiền ngắn hạn sẽ có xu hướng rút mạnh khỏi các nhóm ngành nhạy cảm với lãi suất và có tỷ lệ đòn bẩy cao (Bất động sản, Chứng khoán).
-- **Cơ chế giá xăng dầu:** Bộ Công Thương đề xuất doanh nghiệp tự quyết giá xăng dầu -> **Tích cực:** Cải thiện biên lợi nhuận cho nhóm ngành bán lẻ/phân phối xăng dầu (PLX, OIL).
-- **Khối ngoại:** Bán ròng mạnh 2.000 tỷ đồng, tập trung vào nhóm Bluechips -> **Tiêu cực:** Gây áp lực giảm điểm chỉ số VN-Index, tâm lý hoảng loạn lan tỏa.
+- **Định hướng giảm phụ thuộc vốn ngân hàng, thúc đẩy thị trường vốn:** -> [Đánh giá: Tích cực] -> Dòng tiền sẽ hướng mạnh vào nhóm **Chứng khoán (SSI, VCI, VND, HCM)** do kỳ vọng tăng trưởng doanh thu từ phí tư vấn IB và margin khi thanh khoản thị trường tiệm cận vùng 1.700 điểm.
+- **Thanh tra doanh nghiệp kinh doanh vàng, đá quý:** -> [Đánh giá: Tiêu cực] -> Áp lực tâm lý ngắn hạn lên nhóm bán lẻ trang sức (**PNJ**).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PNJ**
-    - Động lực (FA): Dragon Capital thoái vốn, bị siết margin, khối ngoại rời đi.
-    - Nhận định dòng tiền: Áp lực cung lớn từ cả quỹ ngoại và hoạt động bán giải chấp ngắn hạn, cấu trúc kỹ thuật đang bị suy yếu nghiêm trọng.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn, tránh bắt đáy trong bối cảnh bị siết margin.
-- **Mã: PLX, OIL**
-    - Động lực (FA): Đề xuất doanh nghiệp tự quyết giá bán để tối ưu hóa biên lợi nhuận.
-    - Nhận định dòng tiền: Điểm sáng hiếm hoi trong thị trường giảm điểm, có thể thu hút dòng tiền đầu cơ tìm kiếm lợi nhuận ngắn hạn.
-    - Hành động: **Chú ý giải ngân** nếu thị trường chung cân bằng.
-- **Mã: VHM, HPG, VCB, NVL, PDR**
-    - Động lực (FA): Chịu áp lực kép từ khối ngoại bán ròng và chi phí lãi vay tăng cao.
-    - Nhận định dòng tiền: Dòng tiền lớn đang rút ra, cần quan sát sự hỗ trợ tại các vùng hỗ trợ cứng, chưa có tín hiệu đảo chiều.
-    - Hành động: **Tiếp tục quan sát**, không bắt đáy khi thị trường đang trong nhịp force sell.
+- **Mã: DGC**
+    - Động lực (FA): Khởi tố 3 lãnh đạo cấp cao, kết quả kinh doanh suy giảm 50%.
+    - Nhận định dòng tiền: Rủi ro quản trị cực lớn, khả năng xảy ra hiệu ứng bán tháo (panic sell) cao trong phiên tới.
+    - Hành động: **Rủi ro vi phạm kịch bản**, khuyến nghị đứng ngoài/thoát vị thế ngay khi có thanh khoản.
+- **Mã: VHM, GEX**
+    - Động lực (FA): Dẫn dắt đà hồi phục của VN-Index, dòng tiền đầu cơ nhập cuộc mạnh.
+    - Nhận định dòng tiền: Dòng tiền lan tỏa từ trụ sang nhóm có câu chuyện riêng (GEX), xác nhận xu hướng ngắn hạn tích cực.
+    - Hành động: **Tiếp tục quan sát** lực cầu tại vùng đỉnh mới.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: EIB**
+    - Nhận định: Tin tức về dàn nhân sự mới gia nhập là chất xúc tác mạnh (catalyst) để cải thiện quản trị. Với vị thế trung hạn, đây là dữ liệu bổ trợ cho khả năng "đảo chiều xu hướng". **Khuyến nghị:** Giữ vị thế theo dõi sát phản ứng dòng tiền tại các vùng kháng cự kỹ thuật, tin tức nhân sự đủ mạnh để cân nhắc nắm giữ tiếp thay vì chốt lời sớm.
