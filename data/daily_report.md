@@ -1,20 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:06:50
+⏱ Thời gian: 03:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá xăng tăng gần 900 đồng/lít và giá dầu thế giới tiến sát mốc 100 USD/thùng -> Tác động: Tiêu cực (Lạm phát chi phí đẩy) và Tích cực (Nhóm dầu khí thượng nguồn) -> Dòng tiền sẽ phân hóa mạnh giữa nhóm Vận tải/Logistics (hút ròng chi phí) và nhóm Dầu khí (hưởng lợi từ giá bán/dịch vụ).
+- Giá dầu thế giới vượt ngưỡng 100 USD/thùng và tăng 30% trong 3 tuần -> [Đánh giá: Tiêu cực cho thị trường chung do áp lực lạm phát và chi phí đầu vào] -> [Dòng tiền hướng vào nhóm Dầu khí (thượng nguồn) và thoát khỏi nhóm Vận tải, Logistics, Sản xuất thép].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD
-- Động lực (FA): Giá dầu thế giới neo cao tiến sát mốc 100 USD, thúc đẩy nhu cầu và giá thuê giàn khoan.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể gia tăng mạnh vào nhóm dầu khí thượng nguồn do tính chất phòng thủ lạm phát và hưởng lợi trực tiếp từ biên lợi nhuận mở rộng.
-- Hành động: Chú ý giải ngân nếu giá cổ phiếu vượt kháng cự với khối lượng lớn.
-
-- Mã: HAH, GMD
-- Động lực (FA): Chi phí xăng dầu tăng đột biến (~900 đồng/lít) làm trực tiếp bào mòn biên lợi nhuận gộp của doanh nghiệp vận tải.
-- Nhận định dòng tiền: Dòng tiền có thể suy yếu do áp lực chốt lời ngắn hạn từ các nhà đầu tư lo ngại kết quả kinh doanh quý tới bị thu hẹp biên lợi nhuận.
-- Hành động: Rủi ro vi phạm kịch bản kỹ thuật, quan sát chặt chẽ vùng hỗ trợ gần nhất.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-- Nhận định: Giá dầu neo ở ngưỡng 100 USD/thùng mang lại lợi thế về giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Đối với vị thế trung hạn, đây là tín hiệu giữ (Hold) để tối ưu hóa biên lợi nhuận trong ngắn hạn thay vì cơ cấu ngay lập tức. Cần theo dõi sát kịch bản điều chỉnh giá bán lẻ xăng dầu của Nhà nước trong các kỳ tiếp theo.
+- Mã: **PVD, PVS, GAS**
+  - Động lực (FA): Giá dầu neo cao thúc đẩy khối lượng công việc, giá thuê giàn khoan và cải thiện biên lợi nhuận.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự báo dòng tiền trú ẩn sẽ tập trung mạnh tại đây.
+  - Hành động: Chú ý giải ngân theo đà tăng, quản trị rủi ro tại vùng kháng cự.
+- Mã: **HAH, GMD, HPG**
+  - Động lực (FA): Chi phí nhiên liệu và năng lượng tăng vọt gây áp lực biên lợi nhuận.
+  - Nhận định dòng tiền: Rủi ro chịu áp lực bán cắt lỗ trong ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ cứng.
+- Mã: **GEG, REE**
+  - Động lực (FA): Mở rộng cơ chế mua bán điện trực tiếp (DPPA).
+  - Nhận định dòng tiền: Phản ứng tích cực do tính chủ động trong doanh thu.
+  - Hành động: Tiếp tục quan sát điểm cân bằng dòng tiền.
+- Mã: **GVR, PHR**
+  - Động lực (FA): Thương mại hóa tín chỉ carbon.
+  - Nhận định dòng tiền: Tiềm năng tăng trưởng dài hạn, thu hút dòng tiền đầu tư giá trị.
+  - Hành động: Quan sát nhịp điều chỉnh để giải ngân.
