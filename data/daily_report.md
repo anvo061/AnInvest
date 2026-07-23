@@ -1,20 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:30 - 23/07/2026
+⏱ Thời gian: 00:06:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Định hướng giảm phụ thuộc vốn ngân hàng, thúc đẩy thị trường vốn:** -> [Đánh giá: Tích cực] -> Dòng tiền sẽ hướng mạnh vào nhóm **Chứng khoán (SSI, VCI, VND, HCM)** do kỳ vọng tăng trưởng doanh thu từ phí tư vấn IB và margin khi thanh khoản thị trường tiệm cận vùng 1.700 điểm.
-- **Thanh tra doanh nghiệp kinh doanh vàng, đá quý:** -> [Đánh giá: Tiêu cực] -> Áp lực tâm lý ngắn hạn lên nhóm bán lẻ trang sức (**PNJ**).
+- Giá xăng tăng gần 900 đồng/lít và giá dầu thế giới tiến sát mốc 100 USD/thùng -> Tác động: Tiêu cực (Lạm phát chi phí đẩy) và Tích cực (Nhóm dầu khí thượng nguồn) -> Dòng tiền sẽ phân hóa mạnh giữa nhóm Vận tải/Logistics (hút ròng chi phí) và nhóm Dầu khí (hưởng lợi từ giá bán/dịch vụ).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: DGC**
-    - Động lực (FA): Khởi tố 3 lãnh đạo cấp cao, kết quả kinh doanh suy giảm 50%.
-    - Nhận định dòng tiền: Rủi ro quản trị cực lớn, khả năng xảy ra hiệu ứng bán tháo (panic sell) cao trong phiên tới.
-    - Hành động: **Rủi ro vi phạm kịch bản**, khuyến nghị đứng ngoài/thoát vị thế ngay khi có thanh khoản.
-- **Mã: VHM, GEX**
-    - Động lực (FA): Dẫn dắt đà hồi phục của VN-Index, dòng tiền đầu cơ nhập cuộc mạnh.
-    - Nhận định dòng tiền: Dòng tiền lan tỏa từ trụ sang nhóm có câu chuyện riêng (GEX), xác nhận xu hướng ngắn hạn tích cực.
-    - Hành động: **Tiếp tục quan sát** lực cầu tại vùng đỉnh mới.
+- Mã: PVD
+- Động lực (FA): Giá dầu thế giới neo cao tiến sát mốc 100 USD, thúc đẩy nhu cầu và giá thuê giàn khoan.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể gia tăng mạnh vào nhóm dầu khí thượng nguồn do tính chất phòng thủ lạm phát và hưởng lợi trực tiếp từ biên lợi nhuận mở rộng.
+- Hành động: Chú ý giải ngân nếu giá cổ phiếu vượt kháng cự với khối lượng lớn.
+
+- Mã: HAH, GMD
+- Động lực (FA): Chi phí xăng dầu tăng đột biến (~900 đồng/lít) làm trực tiếp bào mòn biên lợi nhuận gộp của doanh nghiệp vận tải.
+- Nhận định dòng tiền: Dòng tiền có thể suy yếu do áp lực chốt lời ngắn hạn từ các nhà đầu tư lo ngại kết quả kinh doanh quý tới bị thu hẹp biên lợi nhuận.
+- Hành động: Rủi ro vi phạm kịch bản kỹ thuật, quan sát chặt chẽ vùng hỗ trợ gần nhất.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: EIB**
-    - Nhận định: Tin tức về dàn nhân sự mới gia nhập là chất xúc tác mạnh (catalyst) để cải thiện quản trị. Với vị thế trung hạn, đây là dữ liệu bổ trợ cho khả năng "đảo chiều xu hướng". **Khuyến nghị:** Giữ vị thế theo dõi sát phản ứng dòng tiền tại các vùng kháng cự kỹ thuật, tin tức nhân sự đủ mạnh để cân nhắc nắm giữ tiếp thay vì chốt lời sớm.
+- Mã: BSR
+- Nhận định: Giá dầu neo ở ngưỡng 100 USD/thùng mang lại lợi thế về giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Đối với vị thế trung hạn, đây là tín hiệu giữ (Hold) để tối ưu hóa biên lợi nhuận trong ngắn hạn thay vì cơ cấu ngay lập tức. Cần theo dõi sát kịch bản điều chỉnh giá bán lẻ xăng dầu của Nhà nước trong các kỳ tiếp theo.
