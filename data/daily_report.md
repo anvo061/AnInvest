@@ -1,22 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:15 - 24/07/2026
+⏱ Thời gian: 20:25
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thành lập khu thương mại tự do 4.200ha tại TP.HCM:** Động lực FDI mạnh mẽ -> **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm Bất động sản KCN (SZC, KBC) và Logistics (GMD).
-- **Mỹ áp thuế nhập khẩu mới & Section 301:** Rào cản thương mại gia tăng -> **Tiêu cực** -> Áp lực lên biên lợi nhuận nhóm xuất khẩu (TNG, VHC, MSH).
-- **Áp lực lãi suất lên BĐS & Thanh khoản thị trường sụt giảm:** Dòng tiền đầu cơ co hẹp -> **Tiêu cực** -> Rủi ro điều chỉnh nhóm BĐS dân cư (NVL, DIG, DXG) và chứng khoán (SSI, VND).
+- Mỹ áp thuế cưỡng bức lao động -> [Tiêu cực] -> Nhóm xuất khẩu dệt may (TNG, MSH) chịu áp lực giảm điểm do rào cản thị trường chủ lực.
+- Áp lực giải chấp PNJ và KQKD yếu kém của BFC -> [Tiêu cực] -> Lan tỏa tâm lý tiêu cực lên nhóm bán lẻ và phân bón.
+- Tín dụng toàn nền kinh tế duy trì nhu cầu cao -> [Tích cực] -> Nhóm Ngân hàng thương mại (VCB, TCB, MBB) hưởng lợi dài hạn từ tăng trưởng NIM.
+- Giải ngân dự án điện Ô Môn IV (7.300 tỷ) -> [Tích cực] -> Ngành năng lượng/xây lắp điện (POW) đón dòng tiền đầu tư công.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SZC, KBC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ chủ trương khu thương mại tự do tại TP.HCM.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón sóng đầu cơ hạ tầng KCN.
-  - Hành động: Chú ý giải ngân nếu xuất hiện điểm nén kỹ thuật tại vùng hỗ trợ.
-- **Mã: DIG**
-  - Động lực (FA): Áp lực giải chấp lãnh đạo kết hợp với thông tin lãi suất cao.
-  - Nhận định dòng tiền: Dòng tiền suy yếu, tâm lý hoang mang lan rộng.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát lực cầu tại vùng đáy cũ.
+- Mã: **PNJ**
+  - Động lực (FA): Áp lực bán sàn lan tỏa, mất niềm tin dòng tiền sau tin tiêu cực.
+  - Nhận định dòng tiền: Dòng tiền thoát chạy bất chấp thanh khoản "giải cứu", rủi ro điều chỉnh kỹ thuật sâu.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn, tuyệt đối không bắt đáy khi chưa có tín hiệu cân bằng tại vùng hỗ trợ cứng.
+- Mã: **POW**
+  - Động lực (FA): Ký hợp đồng tín dụng 7.300 tỷ cho nhiệt điện Ô Môn IV.
+  - Nhận định dòng tiền: Dòng tiền đầu tư công sẽ tập trung vào nhóm hạ tầng năng lượng, POW có điểm tựa cơ bản chắc chắn.
+  - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì được ngưỡng hỗ trợ gần nhất.
+- Mã: **TNG, MSH**
+  - Động lực (FA): Thuế quan cưỡng bức lao động từ Mỹ.
+  - Nhận định dòng tiền: Rủi ro bị khối ngoại và dòng tiền đầu cơ chốt lời mạnh do lo ngại biên lợi nhuận bị bào mòn.
+  - Hành động: **Tiếp tục quan sát**, hạ tỷ trọng nếu gãy xu hướng ngắn hạn.
+- Mã: **BFC**
+  - Động lực (FA): Lợi nhuận giảm, tồn kho nợ vay tăng cao.
+  - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng mạnh.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc cơ cấu lại danh mục để tránh kẹt vốn trong bối cảnh nội tại doanh nghiệp suy yếu.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: EIB**
-  - Nhận định: Lợi nhuận 730 tỷ đồng/6 tháng đầu năm là kết quả khiêm tốn so với kỳ vọng tái cơ cấu ngân hàng. Dữ liệu hiện tại chưa đủ mạnh để tạo đột phá trong bối cảnh thanh khoản thị trường chung đang sụt giảm. 
-  - Hành động: Duy trì quan điểm "Quan sát thận trọng", chưa đủ cơ sở để gia tăng tỷ trọng, cân nhắc chốt lời/cơ cấu lại nếu mã vi phạm ngưỡng hỗ trợ kỹ thuật gần nhất.
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- Hiện chưa có biến động mới về dữ liệu cơ bản cho EIB và BSR trong chu kỳ 15 phút này. Duy trì chiến lược quan sát theo kế hoạch đã định.
