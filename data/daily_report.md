@@ -1,28 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 01:20 (25/07/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 04:50
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Áp lực khối ngoại:** Áp lực bán ròng gần 4.000 tỷ đồng tập trung vào nhóm Bluechips (VHM, HPG, VCB, VNM, MSN) đang tạo hiệu ứng tâm lý tiêu cực lan tỏa, gây sức ép lên chỉ số chung -> **Tiêu cực** -> Dòng tiền tạm thời né tránh các mã vốn hóa lớn, ưu tiên chọn lọc nhóm ngành hưởng lợi từ xu hướng tiêu dùng và vận tải.
-- **Rào cản xuất khẩu:** Mỹ áp thuế lao động cưỡng bức đối với hàng nhập khẩu -> **Tiêu cực** -> Gây áp lực giảm giá ngắn hạn lên nhóm dệt may (TNG, MSH) do rủi ro pháp lý tại thị trường Mỹ.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tăng lãi suất huy động:** Các ngân hàng đồng loạt đẩy mạnh huy động chứng chỉ tiền gửi lãi suất cao -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực rút ròng từ kênh chứng khoán (nhóm CK, BĐS) sang kênh tiết kiệm].
+- **Áp lực bán ròng khối ngoại:** Dữ liệu cho thấy khối ngoại duy trì bán mạnh các mã Bluechips (VHM, HPG, VCB, VNM, MSN) -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền ngắn hạn suy yếu trên nhóm vốn hóa lớn].
+- **Hạ tầng kết nối:** Hoàn thiện nút giao Mỹ Thủy -> [Đánh giá tác động: Tích cực] -> [Dòng tiền tập trung nhóm Cảng biển (GMD) và BĐS khu Đông TP.HCM (KDH)].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PNJ**
-    - **Động lực (FA):** Khối lượng giao dịch đột biến, 13% cổ phần được trao tay trong 3 tuần.
-    - **Nhận định dòng tiền:** Dòng tiền lớn đang tái cơ cấu sở hữu mạnh mẽ, tạo thanh khoản cao.
-    - **Hành động:** Chú ý giải ngân (Canh nhịp điều chỉnh theo thị trường chung để lấy vị thế).
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: GMD**
+    - Động lực (FA): Hưởng lợi trực tiếp từ việc tối ưu hóa logistics tại cảng Cát Lái nhờ nút giao Mỹ Thủy 4 tầng.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền nội tại tăng mạnh nhờ cải thiện hiệu quả vận hành.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- **Mã: NVL**
+    - Động lực (FA): Chủ tịch bị giải chấp cổ phiếu, mất tư cách cổ đông lớn.
+    - Nhận định dòng tiền: Tạo áp lực bán tháo kỹ thuật và rủi ro tâm lý cực lớn trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
 - **Mã: VIX**
-    - **Động lực (FA):** Thông tin chi trả cổ tức.
-    - **Nhận định dòng tiền:** Kích thích tâm lý tích cực, hỗ trợ lực cầu ngắn hạn.
-    - **Hành động:** Tiếp tục quan sát (Quan sát phản ứng tại vùng hỗ trợ trước ngày GDKHQ).
-- **Mã: HPG**
-    - **Động lực (FA):** Vừa bị khối ngoại xả mạnh, vừa công bố góp 8.000 tỷ vào dự án BĐS.
-    - **Nhận định dòng tiền:** Điểm cộng về chiến lược dài hạn bị lu mờ bởi áp lực bán ròng từ khối ngoại.
-    - **Hành động:** Rủi ro vi phạm kịch bản (Cần đợi tín hiệu ngưng bán từ khối ngoại).
-- **Mã: HAH**
-    - **Động lực (FA):** Giá cước vận tải biển tăng do tàu dầu né khu vực chiến sự.
-    - **Nhận định dòng tiền:** Hưởng lợi từ chi phí vận tải toàn cầu tăng cao.
-    - **Hành động:** Chú ý giải ngân (Nhóm ngành phòng thủ hưởng lợi từ địa chính trị).
-- **Mã: SAB**
-    - **Động lực (FA):** Hưởng lợi từ xu hướng đẩy mạnh đầu tư của các hãng bia quốc tế vào Việt Nam.
-    - **Nhận định dòng tiền:** Dòng tiền có tính bền vững, ít biến động theo thị trường chung.
-    - **Hành động:** Tiếp tục quan sát (Cơ hội trú ẩn an toàn).
+    - Động lực (FA): Thông tin trả cổ tức.
+    - Nhận định dòng tiền: Hỗ trợ tâm lý ngắn hạn, khả năng giữ nhịp tốt hơn so với nhóm ngành chứng khoán đang chịu áp lực từ chi phí vận hành.
+    - Hành động: Tiếp tục quan sát biến động dòng tiền quanh vùng hỗ trợ.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Hiện chưa có tin tức mới đột biến từ EIB và BSR trong 15 phút qua. Giữ nguyên vị thế quan sát theo kế hoạch tái cơ cấu đã lập.
