@@ -1,29 +1,28 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:25
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 01:20 (25/07/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mỹ áp thuế cưỡng bức lao động -> [Tiêu cực] -> Nhóm xuất khẩu dệt may (TNG, MSH) chịu áp lực giảm điểm do rào cản thị trường chủ lực.
-- Áp lực giải chấp PNJ và KQKD yếu kém của BFC -> [Tiêu cực] -> Lan tỏa tâm lý tiêu cực lên nhóm bán lẻ và phân bón.
-- Tín dụng toàn nền kinh tế duy trì nhu cầu cao -> [Tích cực] -> Nhóm Ngân hàng thương mại (VCB, TCB, MBB) hưởng lợi dài hạn từ tăng trưởng NIM.
-- Giải ngân dự án điện Ô Môn IV (7.300 tỷ) -> [Tích cực] -> Ngành năng lượng/xây lắp điện (POW) đón dòng tiền đầu tư công.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Áp lực khối ngoại:** Áp lực bán ròng gần 4.000 tỷ đồng tập trung vào nhóm Bluechips (VHM, HPG, VCB, VNM, MSN) đang tạo hiệu ứng tâm lý tiêu cực lan tỏa, gây sức ép lên chỉ số chung -> **Tiêu cực** -> Dòng tiền tạm thời né tránh các mã vốn hóa lớn, ưu tiên chọn lọc nhóm ngành hưởng lợi từ xu hướng tiêu dùng và vận tải.
+- **Rào cản xuất khẩu:** Mỹ áp thuế lao động cưỡng bức đối với hàng nhập khẩu -> **Tiêu cực** -> Gây áp lực giảm giá ngắn hạn lên nhóm dệt may (TNG, MSH) do rủi ro pháp lý tại thị trường Mỹ.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PNJ**
-  - Động lực (FA): Áp lực bán sàn lan tỏa, mất niềm tin dòng tiền sau tin tiêu cực.
-  - Nhận định dòng tiền: Dòng tiền thoát chạy bất chấp thanh khoản "giải cứu", rủi ro điều chỉnh kỹ thuật sâu.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn, tuyệt đối không bắt đáy khi chưa có tín hiệu cân bằng tại vùng hỗ trợ cứng.
-- Mã: **POW**
-  - Động lực (FA): Ký hợp đồng tín dụng 7.300 tỷ cho nhiệt điện Ô Môn IV.
-  - Nhận định dòng tiền: Dòng tiền đầu tư công sẽ tập trung vào nhóm hạ tầng năng lượng, POW có điểm tựa cơ bản chắc chắn.
-  - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì được ngưỡng hỗ trợ gần nhất.
-- Mã: **TNG, MSH**
-  - Động lực (FA): Thuế quan cưỡng bức lao động từ Mỹ.
-  - Nhận định dòng tiền: Rủi ro bị khối ngoại và dòng tiền đầu cơ chốt lời mạnh do lo ngại biên lợi nhuận bị bào mòn.
-  - Hành động: **Tiếp tục quan sát**, hạ tỷ trọng nếu gãy xu hướng ngắn hạn.
-- Mã: **BFC**
-  - Động lực (FA): Lợi nhuận giảm, tồn kho nợ vay tăng cao.
-  - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng mạnh.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc cơ cấu lại danh mục để tránh kẹt vốn trong bối cảnh nội tại doanh nghiệp suy yếu.
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- Hiện chưa có biến động mới về dữ liệu cơ bản cho EIB và BSR trong chu kỳ 15 phút này. Duy trì chiến lược quan sát theo kế hoạch đã định.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PNJ**
+    - **Động lực (FA):** Khối lượng giao dịch đột biến, 13% cổ phần được trao tay trong 3 tuần.
+    - **Nhận định dòng tiền:** Dòng tiền lớn đang tái cơ cấu sở hữu mạnh mẽ, tạo thanh khoản cao.
+    - **Hành động:** Chú ý giải ngân (Canh nhịp điều chỉnh theo thị trường chung để lấy vị thế).
+- **Mã: VIX**
+    - **Động lực (FA):** Thông tin chi trả cổ tức.
+    - **Nhận định dòng tiền:** Kích thích tâm lý tích cực, hỗ trợ lực cầu ngắn hạn.
+    - **Hành động:** Tiếp tục quan sát (Quan sát phản ứng tại vùng hỗ trợ trước ngày GDKHQ).
+- **Mã: HPG**
+    - **Động lực (FA):** Vừa bị khối ngoại xả mạnh, vừa công bố góp 8.000 tỷ vào dự án BĐS.
+    - **Nhận định dòng tiền:** Điểm cộng về chiến lược dài hạn bị lu mờ bởi áp lực bán ròng từ khối ngoại.
+    - **Hành động:** Rủi ro vi phạm kịch bản (Cần đợi tín hiệu ngưng bán từ khối ngoại).
+- **Mã: HAH**
+    - **Động lực (FA):** Giá cước vận tải biển tăng do tàu dầu né khu vực chiến sự.
+    - **Nhận định dòng tiền:** Hưởng lợi từ chi phí vận tải toàn cầu tăng cao.
+    - **Hành động:** Chú ý giải ngân (Nhóm ngành phòng thủ hưởng lợi từ địa chính trị).
+- **Mã: SAB**
+    - **Động lực (FA):** Hưởng lợi từ xu hướng đẩy mạnh đầu tư của các hãng bia quốc tế vào Việt Nam.
+    - **Nhận định dòng tiền:** Dòng tiền có tính bền vững, ít biến động theo thị trường chung.
+    - **Hành động:** Tiếp tục quan sát (Cơ hội trú ẩn an toàn).
