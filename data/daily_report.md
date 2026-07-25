@@ -1,24 +1,23 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:50
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 13:45 ngày 25/07/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng lãi suất huy động:** Các ngân hàng đồng loạt đẩy mạnh huy động chứng chỉ tiền gửi lãi suất cao -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực rút ròng từ kênh chứng khoán (nhóm CK, BĐS) sang kênh tiết kiệm].
-- **Áp lực bán ròng khối ngoại:** Dữ liệu cho thấy khối ngoại duy trì bán mạnh các mã Bluechips (VHM, HPG, VCB, VNM, MSN) -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền ngắn hạn suy yếu trên nhóm vốn hóa lớn].
-- **Hạ tầng kết nối:** Hoàn thiện nút giao Mỹ Thủy -> [Đánh giá tác động: Tích cực] -> [Dòng tiền tập trung nhóm Cảng biển (GMD) và BĐS khu Đông TP.HCM (KDH)].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Rủi ro kép từ áp lực khối ngoại và chính sách bảo hộ thương mại:** Áp lực bán ròng gần 1.400 tỷ đồng tập trung ở nhóm Bluechips kết hợp với rủi ro từ hàng rào thuế quan mới của ông Trump (Mỹ) gây rủi ro điều chỉnh cho nhóm xuất khẩu (Dệt may, Gỗ) -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi các mã vốn hóa lớn (VHM, HPG, VCB) và nhóm xuất khẩu sang Mỹ (TNG, VGT, PTB).
+- **Căng thẳng địa chính trị Biển Đông:** Gia tăng tranh chấp tại khu vực tác động tiêu cực tới nhóm dầu khí thượng nguồn -> **Tiêu cực** -> Áp lực bán tiềm ẩn tại **PVD**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: GMD**
-    - Động lực (FA): Hưởng lợi trực tiếp từ việc tối ưu hóa logistics tại cảng Cát Lái nhờ nút giao Mỹ Thủy 4 tầng.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền nội tại tăng mạnh nhờ cải thiện hiệu quả vận hành.
-    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
-- **Mã: NVL**
-    - Động lực (FA): Chủ tịch bị giải chấp cổ phiếu, mất tư cách cổ đông lớn.
-    - Nhận định dòng tiền: Tạo áp lực bán tháo kỹ thuật và rủi ro tâm lý cực lớn trong ngắn hạn.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
-- **Mã: VIX**
-    - Động lực (FA): Thông tin trả cổ tức.
-    - Nhận định dòng tiền: Hỗ trợ tâm lý ngắn hạn, khả năng giữ nhịp tốt hơn so với nhóm ngành chứng khoán đang chịu áp lực từ chi phí vận hành.
-    - Hành động: Tiếp tục quan sát biến động dòng tiền quanh vùng hỗ trợ.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD**
+    - **Động lực (FA):** Căng thẳng địa chính trị Biển Đông gia tăng (Trung Quốc - Philippines).
+    - **Nhận định dòng tiền:** Tâm lý thận trọng sẽ bao trùm, nhà đầu tư ngắn hạn có xu hướng hạ tỷ trọng do rủi ro gián đoạn hoạt động tại các vùng biển tranh chấp.
+    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát chặt vùng hỗ trợ kỹ thuật gần nhất.
+- **Mã: GMD, KDH**
+    - **Động lực (FA):** Hoàn thiện nút giao Mỹ Thủy (Cửa ngõ Cát Lái).
+    - **Nhận định dòng tiền:** Hưởng lợi từ hạ tầng giúp tối ưu chi phí logistics và gia tăng giá trị quỹ đất. Đây là điểm sáng dòng tiền có tính chọn lọc cao.
+    - **Hành động:** Chú ý giải ngân nếu có sự rung lắc chung của thị trường.
+- **Mã: PNJ**
+    - **Động lực (FA):** Xu hướng tích trữ vàng quy mô lớn của Trung Quốc đẩy giá vàng thế giới đi lên.
+    - **Nhận định dòng tiền:** Hỗ trợ biên lợi nhuận gộp và tâm lý nhà đầu tư tích cực.
+    - **Hành động:** Tiếp tục quan sát đà tăng của giá vàng để xác nhận điểm vào.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Hiện chưa có tin tức mới đột biến từ EIB và BSR trong 15 phút qua. Giữ nguyên vị thế quan sát theo kế hoạch tái cơ cấu đã lập.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện chưa có dữ liệu đột biến về EIB và BSR trong chu kỳ cập nhật này. Giữ nguyên trạng thái quan sát.
