@@ -1,29 +1,28 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:35 - 26/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 18:55 - 26/07/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng Nhà nước giảm lãi suất điều hành:** -> **Tích cực** -> Dòng tiền ưu tiên nhóm Tài chính (Chứng khoán: SSI, VND) và Bất động sản có đòn bẩy cao (VHM, PDR).
-- **Giá dầu thế giới tăng & Căng thẳng địa chính trị:** -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí thượng nguồn và Vận tải dầu (PVD, PVS, PVT, BSR).
-- **Thuế quan mới từ Mỹ & Chi phí năng lượng tăng:** -> **Tiêu cực** -> Áp lực lên nhóm xuất khẩu (TNG, VHC) và sản xuất thâm dụng điện (HPG, NKG).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Áp lực từ lãi suất toàn cầu (BOJ & Fed):** Nhật Bản có khả năng tăng lãi suất, Mỹ duy trì nền lãi suất cao -> **Tiêu cực** cho tỷ giá JPY/VND và USD/VND -> Tăng chi phí tài chính doanh nghiệp vay ngoại tệ.
+- **Hạ tầng hàng không:** Hoàn thành đường băng mới tại Phú Quốc -> **Tích cực** cho nhóm Dịch vụ hàng không và Vận tải hành khách.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu thế giới tăng mạnh kết hợp rủi ro chiến sự làm tăng nhu cầu thuê giàn khoan.
-  - Nhận định dòng tiền: Hợp lưu tích cực từ vĩ mô ngành. Khả năng cao thu hút dòng tiền đầu cơ xoay vòng mạnh.
-  - Hành động: Chú ý giải ngân theo đà tăng.
-- **Mã: DGC**
-  - Động lực (FA): TGĐ bị khởi tố.
-  - Nhận định dòng tiền: Rủi ro quản trị cực lớn, tâm lý hoang mang dễ kích hoạt lệnh bán tháo (Force sell/Panic selling).
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
-- **Mã: NKG**
-  - Động lực (FA): Chịu kép áp lực từ chi phí năng lượng tăng và rủi ro thuế quan Mỹ.
-  - Nhận định dòng tiền: Dòng tiền có xu hướng suy yếu do biên lợi nhuận bị bào mòn.
-  - Hành động: Tiếp tục quan sát, ưu tiên quản trị rủi ro.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: EIB**
-  - Tin tức: Cựu CEO Techcombank ứng cử vào HĐQT.
-  - Nhận định: Đây là tín hiệu "đảo chiều" chất lượng quản trị quan trọng. Dữ liệu này đủ mạnh để giữ vị thế, kỳ vọng vào quá trình tái cơ cấu bộ máy lãnh đạo sẽ làm thay đổi cấu trúc chi phí và hiệu quả vận hành của EIB. Khuyến nghị nắm giữ, theo dõi sát diễn biến Đại hội cổ đông.
-- **Mã: BSR**
-  - Tin tức: Giá dầu tăng liên tục giúp cải thiện biên lợi nhuận lọc dầu và giá trị hàng tồn kho.
-  - Nhận định: Cần giữ vị thế do bối cảnh vĩ mô đang hỗ trợ trực tiếp cho lợi nhuận cốt lõi của BSR. Chưa đến lúc chốt lời, tiếp tục duy trì trạng thái.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+*   **Mã: REE**
+    *   **Động lực (FA):** Dư nợ vay đồng Yên chịu áp lực tỷ giá khi BOJ tăng lãi suất.
+    *   **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do chi phí tài chính dự kiến tăng trong kỳ tới.
+    *   **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+*   **Mã: POW**
+    *   **Động lực (FA):** Dư nợ vay USD lớn dưới áp lực tỷ giá từ chính sách lãi suất của Fed.
+    *   **Nhận định dòng tiền:** Suy yếu do nỗi lo về lỗ tỷ giá và chi phí vốn gia tăng.
+    *   **Hành động:** Tiếp tục quan sát biến động tỷ giá USD/VND trước khi giải ngân.
+*   **Mã: CTD**
+    *   **Động lực (FA):** Thu hồi nợ xấu từ Tân Hoàng Minh.
+    *   **Nhận định dòng tiền:** Tin tức giúp cải thiện bảng cân đối kế toán, tạo dòng tiền thông minh vào nhóm xây dựng hạ tầng.
+    *   **Hành động:** Chú ý giải ngân nếu có tín hiệu dòng tiền xác nhận.
+*   **Mã: ACV, VJC**
+    *   **Động lực (FA):** Hạ tầng sân bay Phú Quốc tăng công suất.
+    *   **Nhận định dòng tiền:** Hưởng lợi từ kỳ vọng tăng trưởng doanh thu vận tải và dịch vụ hàng không.
+    *   **Hành động:** Chú ý giải ngân theo sóng hạ tầng du lịch.
+*   **Mã: BAF, TCM**
+    *   **Động lực (FA):** BAF (pha loãng cổ phiếu), TCM (bán giải chấp nội bộ).
+    *   **Nhận định dòng tiền:** Áp lực cung ngắn hạn đè nặng lên giá.
+    *   **Hành động:** Rủi ro vi phạm kịch bản, tạm dừng giải ngân.
