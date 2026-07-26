@@ -1,28 +1,30 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 18:55 - 26/07/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 22:50
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Áp lực từ lãi suất toàn cầu (BOJ & Fed):** Nhật Bản có khả năng tăng lãi suất, Mỹ duy trì nền lãi suất cao -> **Tiêu cực** cho tỷ giá JPY/VND và USD/VND -> Tăng chi phí tài chính doanh nghiệp vay ngoại tệ.
-- **Hạ tầng hàng không:** Hoàn thành đường băng mới tại Phú Quốc -> **Tích cực** cho nhóm Dịch vụ hàng không và Vận tải hành khách.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Rủi ro thương mại và địa chính trị:** Mỹ áp thuế diện rộng lên 60 đối tác kết hợp với xung đột Trung Đông leo thang gây áp lực đứt gãy chuỗi cung ứng toàn cầu. -> **Tiêu cực** -> Dòng tiền có xu hướng phòng thủ, rút khỏi nhóm xuất khẩu (TNG, VHC) và logistics (GMD); chú ý nhóm dầu khí (PVD, PVS) như một kênh trú ẩn ngắn hạn trước biến động giá năng lượng.
+- **Pháp lý Bất động sản (TP.HCM):** Loạt dự án được gỡ vướng pháp lý. -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục về nhóm BĐS dân cư có quỹ đất sạch (DXG, KDH, NLG).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-*   **Mã: REE**
-    *   **Động lực (FA):** Dư nợ vay đồng Yên chịu áp lực tỷ giá khi BOJ tăng lãi suất.
-    *   **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do chi phí tài chính dự kiến tăng trong kỳ tới.
-    *   **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
-*   **Mã: POW**
-    *   **Động lực (FA):** Dư nợ vay USD lớn dưới áp lực tỷ giá từ chính sách lãi suất của Fed.
-    *   **Nhận định dòng tiền:** Suy yếu do nỗi lo về lỗ tỷ giá và chi phí vốn gia tăng.
-    *   **Hành động:** Tiếp tục quan sát biến động tỷ giá USD/VND trước khi giải ngân.
-*   **Mã: CTD**
-    *   **Động lực (FA):** Thu hồi nợ xấu từ Tân Hoàng Minh.
-    *   **Nhận định dòng tiền:** Tin tức giúp cải thiện bảng cân đối kế toán, tạo dòng tiền thông minh vào nhóm xây dựng hạ tầng.
-    *   **Hành động:** Chú ý giải ngân nếu có tín hiệu dòng tiền xác nhận.
-*   **Mã: ACV, VJC**
-    *   **Động lực (FA):** Hạ tầng sân bay Phú Quốc tăng công suất.
-    *   **Nhận định dòng tiền:** Hưởng lợi từ kỳ vọng tăng trưởng doanh thu vận tải và dịch vụ hàng không.
-    *   **Hành động:** Chú ý giải ngân theo sóng hạ tầng du lịch.
-*   **Mã: BAF, TCM**
-    *   **Động lực (FA):** BAF (pha loãng cổ phiếu), TCM (bán giải chấp nội bộ).
-    *   **Nhận định dòng tiền:** Áp lực cung ngắn hạn đè nặng lên giá.
-    *   **Hành động:** Rủi ro vi phạm kịch bản, tạm dừng giải ngân.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PVD**
+- Động lực (FA): Bất ổn địa chính trị toàn cầu đẩy giá dầu thế giới lên cao.
+- Nhận định dòng tiền: Hưởng lợi từ tâm lý trú ẩn vào nhóm năng lượng; dự báo dòng tiền ngắn hạn sẽ tích cực.
+- Hành động: Chú ý giải ngân nếu giữ vững nền giá hỗ trợ.
+
+- Mã: **TNG, VHC**
+- Động lực (FA): Rào cản thuế quan từ Mỹ và suy giảm kinh tế toàn cầu.
+- Nhận định dòng tiền: Áp lực bán chủ động có thể gia tăng do lo ngại rủi ro xuất khẩu.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
+
+- Mã: **DIG, HDC**
+- Động lực (FA): Áp lực bán giải chấp cổ đông nội bộ và thoái vốn từ gia đình người sáng lập.
+- Nhận định dòng tiền: Dòng tiền thoát ra mạnh, tạo hiệu ứng tâm lý tiêu cực lan tỏa.
+- Hành động: Tiếp tục quan sát, tuyệt đối không bắt đáy khi chưa có tín hiệu ngưng áp lực cung.
+
+- Mã: **MWG**
+- Động lực (FA): Áp lực xả kho điện máy và sức cầu yếu.
+- Nhận định dòng tiền: Suy giảm lợi nhuận kỳ vọng trong ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Hiện chưa có dữ liệu mới đột biến về EIB, BSR trong 15 phút qua so với các chiến lược đã xác lập).
