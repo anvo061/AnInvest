@@ -1,23 +1,19 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15, 27/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 01:20 (28/07/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tài chính/Ngân hàng & Chứng khoán:** Làn sóng tăng vốn điều lệ và thay đổi cơ cấu cổ đông chiến lược đang tạo sóng mạnh -> **Tích cực** -> Dòng tiền tập trung vào nhóm Ngân hàng (TCB, VPB, MBB, LPB) và Chứng khoán (SSI, VND, VCI, HCM).
-- **Xuất khẩu:** Hiện tượng El Niño (rủi ro lạm phát) và hàng rào thuế quan Mỹ với dệt may gây áp lực -> **Tiêu cực** -> Dòng tiền có xu hướng thoái lui khỏi nhóm Dệt may (TNG, MSH, VGT) và Thực phẩm/Tiêu dùng (VNM, MSN).
-- **Năng lượng:** Khó khăn nguồn cung xăng dầu nội địa -> **Tiêu cực** -> Rủi ro biên lợi nhuận cho PLX, OIL.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Lãi suất vay mua nhà chạm ngưỡng 16%/năm & Tỷ giá USD/VND tăng mạnh:** -> **Tiêu cực** -> Dòng tiền sẽ chịu áp lực bán mạnh ở nhóm **Bất động sản (VHM, NVL, DXG)** và **Ngân hàng (TCB, VPB)** do rủi ro nợ xấu và chi phí tài chính leo thang; đồng thời nhóm **Điện/Tiện ích (POW)** bị bào mòn biên lợi nhuận do nợ vay ngoại tệ.
+- **Rào cản thuế quan Mỹ (Trump Tariffs) kéo dài:** -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm **Xuất khẩu (VHC, TNG, MSH, GMD)** do lo ngại sụt giảm đơn hàng và biên lợi nhuận.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **LPB**
-- Động lực (FA): Công bố cổ đông chiến lược mới (liên quan hệ sinh thái Vingroup) và thông tin tăng trưởng vốn.
-- Nhận định dòng tiền: Kỳ vọng về quản trị và "game" tài chính đang thu hút dòng tiền đầu cơ cực mạnh, khả năng cao sẽ kéo thanh khoản trong ngắn hạn.
-- Hành động: **Chú ý giải ngân** nếu giá duy trì vùng nền hỗ trợ, theo dõi sát khối lượng giao dịch.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **PNJ**
+  - **Động lực (FA):** Nhu cầu tích trữ vàng thế giới (đặc biệt tại Trung Quốc) và chênh lệch giá cao.
+  - **Nhận định dòng tiền:** Trong bối cảnh vĩ mô bất ổn (tỷ giá, lạm phát), PNJ đóng vai trò là "nơi trú ẩn" tạm thời, dòng tiền có xu hướng luân chuyển vào nhóm này để phòng thủ.
+  - **Hành động:** Tiếp tục quan sát điểm vào kỹ thuật, kỳ vọng biên lợi nhuận mảng trang sức cải thiện.
+- **Mã:** **SBT**
+  - **Động lực (FA):** "Đại phẫu" quản trị và mở rộng kinh doanh ngoài ngành đường.
+  - **Nhận định dòng tiền:** Tin tức mang tính tái cấu trúc doanh nghiệp, tạo kỳ vọng thay đổi định giá dài hạn. Cần đối chiếu với khối lượng giao dịch để xác nhận dòng tiền thông minh nhập cuộc.
+  - **Hành động:** Chú ý giải ngân nếu có phiên bùng nổ khối lượng xác nhận xu hướng.
 
-- Mã: **PNJ**
-- Động lực (FA): Phản ứng hồi phục kỹ thuật mạnh mẽ sau khi các tin đồn tiêu cực về pháp lý/vụ việc kim cương được kiểm soát.
-- Nhận định dòng tiền: Dòng tiền bắt đáy chủ động, tâm lý thị trường chuyển từ hoảng loạn sang tích cực nhanh chóng.
-- Hành động: **Tiếp tục quan sát** phản ứng tại các ngưỡng kháng cự cũ; không đuổi giá nếu đã hồi phục quá nhanh trong phiên.
-
-- Mã: **FPT**
-- Động lực (FA): Vốn hóa bốc hơi mạnh do áp lực định giá lại thị trường, dù nền tảng kinh doanh tăng trưởng 2 chữ số không đổi.
-- Nhận định dòng tiền: Cơ hội cho dòng tiền trung - dài hạn "gom hàng" ở vùng giá chiết khấu.
-- Hành động: **Chú ý giải ngân** theo chiến lược tích lũy dần (DCA) cho danh mục dài hạn.
+🔄 **3. Cảnh báo Tái cơ cấu (EIB, BSR):**
+- *Chưa có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái giám sát danh mục trung hạn.*
