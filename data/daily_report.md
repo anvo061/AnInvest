@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 ngày 27/07/2026
+⏱ Thời gian: 19:15, 27/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá USD/VND chịu áp lực mạnh do USD đạt đỉnh 40 năm:** Tác động tiêu cực đến các doanh nghiệp nợ vay USD lớn, tạo rủi ro lỗ tỷ giá -> Dòng tiền sẽ có xu hướng rút khỏi nhóm ngành thâm dụng vốn vay USD (điện, công nghiệp nặng) và tìm trú ẩn ở nhóm xuất khẩu (thủy sản, dệt may).
-- **Áp lực giải chấp cổ phiếu lãnh đạo:** Tác động tiêu cực trực tiếp đến tâm lý thị trường, kích hoạt hiệu ứng Call Margin chéo -> Dòng tiền sẽ thận trọng, tránh xa các mã có tỷ lệ đòn bẩy cao và nhạy cảm với tin tức giải chấp.
-- **Tăng trưởng ngành bán lẻ online:** Tác động tích cực, tạo kỳ vọng cải thiện biên lợi nhuận cho các doanh nghiệp bán lẻ đa kênh trong môi trường kinh tế khó khăn -> Dòng tiền có thể duy trì trạng thái phân hóa tích cực tại nhóm Bán lẻ (MWG, DGW).
+- **Tài chính/Ngân hàng & Chứng khoán:** Làn sóng tăng vốn điều lệ và thay đổi cơ cấu cổ đông chiến lược đang tạo sóng mạnh -> **Tích cực** -> Dòng tiền tập trung vào nhóm Ngân hàng (TCB, VPB, MBB, LPB) và Chứng khoán (SSI, VND, VCI, HCM).
+- **Xuất khẩu:** Hiện tượng El Niño (rủi ro lạm phát) và hàng rào thuế quan Mỹ với dệt may gây áp lực -> **Tiêu cực** -> Dòng tiền có xu hướng thoái lui khỏi nhóm Dệt may (TNG, MSH, VGT) và Thực phẩm/Tiêu dùng (VNM, MSN).
+- **Năng lượng:** Khó khăn nguồn cung xăng dầu nội địa -> **Tiêu cực** -> Rủi ro biên lợi nhuận cho PLX, OIL.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: CTD**
-    - Động lực (FA): Thông tin thu hồi 500 tỷ nợ xấu từ Tân Hoàng Minh, cải thiện dòng tiền và hoàn nhập dự phòng.
-    - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp đến lợi nhuận, có thể tạo lực đỡ kỹ thuật cho CTD trong bối cảnh thị trường chung đang chịu áp lực điều chỉnh mạnh.
-    - Hành động: Chú ý quan sát phản ứng dòng tiền tại vùng hỗ trợ, ưu tiên vị thế phòng thủ có sẵn cổ phiếu.
-- **Mã: PNJ**
-    - Động lực (FA): Khối ngoại đã bán 35 triệu đơn vị, vẫn còn áp lực bán từ hơn 211 triệu đơn vị dư thừa.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn tiêu cực do nguồn cung treo lơ lửng, thiếu động lực để hấp thụ lực bán của khối ngoại.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy cho đến khi có tín hiệu dừng bán từ khối ngoại.
-- **Mã: POW**
-    - Động lực (FA): Rủi ro chi phí tài chính tăng cao do dư nợ vay USD lớn trong bối cảnh tỷ giá biến động mạnh.
-    - Nhận định dòng tiền: Dòng tiền sẽ chịu áp lực rút ra do kỳ vọng biên lợi nhuận suy giảm.
-    - Hành động: Rủi ro vi phạm kịch bản, cần kiểm soát tỷ trọng nắm giữ.
+- Mã: **LPB**
+- Động lực (FA): Công bố cổ đông chiến lược mới (liên quan hệ sinh thái Vingroup) và thông tin tăng trưởng vốn.
+- Nhận định dòng tiền: Kỳ vọng về quản trị và "game" tài chính đang thu hút dòng tiền đầu cơ cực mạnh, khả năng cao sẽ kéo thanh khoản trong ngắn hạn.
+- Hành động: **Chú ý giải ngân** nếu giá duy trì vùng nền hỗ trợ, theo dõi sát khối lượng giao dịch.
+
+- Mã: **PNJ**
+- Động lực (FA): Phản ứng hồi phục kỹ thuật mạnh mẽ sau khi các tin đồn tiêu cực về pháp lý/vụ việc kim cương được kiểm soát.
+- Nhận định dòng tiền: Dòng tiền bắt đáy chủ động, tâm lý thị trường chuyển từ hoảng loạn sang tích cực nhanh chóng.
+- Hành động: **Tiếp tục quan sát** phản ứng tại các ngưỡng kháng cự cũ; không đuổi giá nếu đã hồi phục quá nhanh trong phiên.
+
+- Mã: **FPT**
+- Động lực (FA): Vốn hóa bốc hơi mạnh do áp lực định giá lại thị trường, dù nền tảng kinh doanh tăng trưởng 2 chữ số không đổi.
+- Nhận định dòng tiền: Cơ hội cho dòng tiền trung - dài hạn "gom hàng" ở vùng giá chiết khấu.
+- Hành động: **Chú ý giải ngân** theo chiến lược tích lũy dần (DCA) cho danh mục dài hạn.
