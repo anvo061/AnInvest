@@ -1,19 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 01:20 (28/07/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 05:10
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất vay mua nhà chạm ngưỡng 16%/năm & Tỷ giá USD/VND tăng mạnh:** -> **Tiêu cực** -> Dòng tiền sẽ chịu áp lực bán mạnh ở nhóm **Bất động sản (VHM, NVL, DXG)** và **Ngân hàng (TCB, VPB)** do rủi ro nợ xấu và chi phí tài chính leo thang; đồng thời nhóm **Điện/Tiện ích (POW)** bị bào mòn biên lợi nhuận do nợ vay ngoại tệ.
-- **Rào cản thuế quan Mỹ (Trump Tariffs) kéo dài:** -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm **Xuất khẩu (VHC, TNG, MSH, GMD)** do lo ngại sụt giảm đơn hàng và biên lợi nhuận.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tín dụng & Năng lượng:** BIDV và VietinBank tài trợ 7.300 tỷ đồng cho dự án Nhiệt điện Ô Môn IV -> **Tích cực** -> Dòng tiền tập trung nhóm Ngân hàng thương mại (BID, CTG) và Năng lượng (POW).
+- **Pháp lý hạ tầng:** Chính phủ tháo gỡ vướng mắc cho các dự án điện gió -> **Tích cực** -> Nhóm Năng lượng tái tạo (GEG, REE) có cơ sở để cải thiện kỳ vọng dòng tiền.
+- **Tiêu dùng & Bán lẻ:** Masan đạt lãi kỷ lục 3.800 tỷ đồng -> **Tích cực** -> Củng cố đà hồi phục nhóm Bán lẻ/Tiêu dùng (MSN).
+- **Rủi ro xuất khẩu:** Mỹ gia tăng hàng rào thuế quan và khả năng duy trì lâu dài -> **Tiêu cực** -> Áp lực lên nhóm Xuất khẩu (VHC, TNG) và Logistics (GMD).
+- **Tài chính BĐS:** Lãi suất vay mua nhà chạm ngưỡng 16%/năm -> **Tiêu cực** -> Rủi ro nợ xấu gia tăng cho nhóm Ngân hàng bán lẻ (TCB, VPB) và đình trệ thanh khoản nhóm Bất động sản (VHM, NVL, DXG).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **PNJ**
-  - **Động lực (FA):** Nhu cầu tích trữ vàng thế giới (đặc biệt tại Trung Quốc) và chênh lệch giá cao.
-  - **Nhận định dòng tiền:** Trong bối cảnh vĩ mô bất ổn (tỷ giá, lạm phát), PNJ đóng vai trò là "nơi trú ẩn" tạm thời, dòng tiền có xu hướng luân chuyển vào nhóm này để phòng thủ.
-  - **Hành động:** Tiếp tục quan sát điểm vào kỹ thuật, kỳ vọng biên lợi nhuận mảng trang sức cải thiện.
-- **Mã:** **SBT**
-  - **Động lực (FA):** "Đại phẫu" quản trị và mở rộng kinh doanh ngoài ngành đường.
-  - **Nhận định dòng tiền:** Tin tức mang tính tái cấu trúc doanh nghiệp, tạo kỳ vọng thay đổi định giá dài hạn. Cần đối chiếu với khối lượng giao dịch để xác nhận dòng tiền thông minh nhập cuộc.
-  - **Hành động:** Chú ý giải ngân nếu có phiên bùng nổ khối lượng xác nhận xu hướng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** **SSI**
+- **Động lực (FA):** Tự doanh gom ròng 500 tỷ trong phiên giảm điểm bất chấp khó khăn chung từ mảng môi giới (do thanh khoản thị trường thấp).
+- **Nhận định dòng tiền:** Dòng tiền thông minh đang "đỡ giá" chủ động, tạo vùng đệm kỹ thuật trước áp lực bán tháo theo tâm lý đám đông.
+- **Hành động:** Chú ý giải ngân nếu giữ được vùng hỗ trợ cứng; theo dõi sát áp lực từ thanh khoản thị trường chung.
 
-🔄 **3. Cảnh báo Tái cơ cấu (EIB, BSR):**
-- *Chưa có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái giám sát danh mục trung hạn.*
+- **Mã:** **MSN**
+- **Động lực (FA):** Lợi nhuận kỷ lục 3.800 tỷ đồng.
+- **Nhận định dòng tiền:** Điểm sáng hiếm hoi trong bối cảnh vĩ mô chịu áp lực lãi suất, kỳ vọng dẫn dắt chỉ số.
+- **Hành động:** Tiếp tục quan sát lực cầu tại vùng kháng cự gần nhất.
+
+- **Mã:** **TCB, VPB, VHM, NVL**
+- **Động lực (FA):** Lãi suất vay mua nhà 16%/năm gây áp lực nợ xấu và thanh khoản.
+- **Nhận định dòng tiền:** Tiêu cực. Áp lực bán có thể gia tăng khi nhà đầu tư phản ứng với rủi ro nợ xấu.
+- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro danh mục.
