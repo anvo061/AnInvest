@@ -1,25 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:10
+⏱ Thời gian: 14:50 - 28/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tín dụng & Năng lượng:** BIDV và VietinBank tài trợ 7.300 tỷ đồng cho dự án Nhiệt điện Ô Môn IV -> **Tích cực** -> Dòng tiền tập trung nhóm Ngân hàng thương mại (BID, CTG) và Năng lượng (POW).
-- **Pháp lý hạ tầng:** Chính phủ tháo gỡ vướng mắc cho các dự án điện gió -> **Tích cực** -> Nhóm Năng lượng tái tạo (GEG, REE) có cơ sở để cải thiện kỳ vọng dòng tiền.
-- **Tiêu dùng & Bán lẻ:** Masan đạt lãi kỷ lục 3.800 tỷ đồng -> **Tích cực** -> Củng cố đà hồi phục nhóm Bán lẻ/Tiêu dùng (MSN).
-- **Rủi ro xuất khẩu:** Mỹ gia tăng hàng rào thuế quan và khả năng duy trì lâu dài -> **Tiêu cực** -> Áp lực lên nhóm Xuất khẩu (VHC, TNG) và Logistics (GMD).
-- **Tài chính BĐS:** Lãi suất vay mua nhà chạm ngưỡng 16%/năm -> **Tiêu cực** -> Rủi ro nợ xấu gia tăng cho nhóm Ngân hàng bán lẻ (TCB, VPB) và đình trệ thanh khoản nhóm Bất động sản (VHM, NVL, DXG).
+- **Áp lực kép từ thuế quan và lãi suất:** Mỹ gia tăng kiểm soát/áp thuế lên hàng hóa VN (đặc biệt là nhóm FDI và xuất khẩu) kết hợp với lãi suất huy động có dấu hiệu "ngầm" tăng. -> **Đánh giá: Tiêu cực** -> Dòng tiền sẽ rút khỏi các mã chịu rủi ro thuế quan (KCN, Dệt may, Thủy sản) và thận trọng với nhóm Ngân hàng quy mô nhỏ.
+- **Điều chỉnh khung giá điện khí:** Khung giá điện khí tăng lên mức 3.410 đồng/kWh. -> **Đánh giá: Tích cực** -> Dòng tiền hướng vào nhóm Năng lượng & Điện khí (POW, PC1).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** **SSI**
-- **Động lực (FA):** Tự doanh gom ròng 500 tỷ trong phiên giảm điểm bất chấp khó khăn chung từ mảng môi giới (do thanh khoản thị trường thấp).
-- **Nhận định dòng tiền:** Dòng tiền thông minh đang "đỡ giá" chủ động, tạo vùng đệm kỹ thuật trước áp lực bán tháo theo tâm lý đám đông.
-- **Hành động:** Chú ý giải ngân nếu giữ được vùng hỗ trợ cứng; theo dõi sát áp lực từ thanh khoản thị trường chung.
-
-- **Mã:** **MSN**
-- **Động lực (FA):** Lợi nhuận kỷ lục 3.800 tỷ đồng.
-- **Nhận định dòng tiền:** Điểm sáng hiếm hoi trong bối cảnh vĩ mô chịu áp lực lãi suất, kỳ vọng dẫn dắt chỉ số.
-- **Hành động:** Tiếp tục quan sát lực cầu tại vùng kháng cự gần nhất.
-
-- **Mã:** **TCB, VPB, VHM, NVL**
-- **Động lực (FA):** Lãi suất vay mua nhà 16%/năm gây áp lực nợ xấu và thanh khoản.
-- **Nhận định dòng tiền:** Tiêu cực. Áp lực bán có thể gia tăng khi nhà đầu tư phản ứng với rủi ro nợ xấu.
-- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro danh mục.
+- **Mã: KBC, SZC**
+  - Động lực (FA): Rủi ro bị Mỹ kiểm tra nguồn gốc xuất xứ hàng hóa và thắt chặt FDI Trung Quốc.
+  - Nhận định dòng tiền: Khả năng chịu áp lực bán tháo ngắn hạn do tâm lý lo ngại chính sách thuế quan.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng để quản trị rủi ro chính sách.
+- **Mã: PC1**
+  - Động lực (FA): VietinBank Capital giải ngân lớn trở thành cổ đông chiến lược + Hưởng lợi từ khung giá điện khí mới.
+  - Nhận định dòng tiền: Hợp lưu tích cực từ dòng tiền tổ chức và hưởng lợi chính sách ngành.
+  - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì vùng nền hỗ trợ.
+- **Mã: VCI**
+  - Động lực (FA): Lãnh đạo đăng ký mua 31 triệu cổ phiếu.
+  - Nhận định dòng tiền: Tín hiệu nội bộ tích cực, hỗ trợ giá trong giai đoạn thị trường chung đang chịu áp lực bán ròng từ khối ngoại.
+  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng đỉnh cũ.
+- **Mã: MWG**
+  - Động lực (FA): Thông tin chấp thuận niêm yết Điện Máy Xanh.
+  - Nhận định dòng tiền: Định giá lại tài sản (re-rating) thu hút dòng vốn ngoại.
+  - Hành động: **Chú ý giải ngân** trong các nhịp chỉnh của thị trường.
+- **Mã: PET**
+  - Động lực (FA): VietinBank Capital gia tăng sở hữu.
+  - Nhận định dòng tiền: Giảm cung trôi nổi, củng cố kỳ vọng tăng trưởng.
+  - Hành động: **Tiếp tục quan sát** tín hiệu dòng tiền lớn.
