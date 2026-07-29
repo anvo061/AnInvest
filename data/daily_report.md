@@ -1,30 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 30/07/2026
+⏱ Thời gian: 06:45 ngày 30/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng GDP vượt 7% và dòng vốn ngoại đổ mạnh:** Tác động Tích cực -> Dòng tiền ưu tiên nhóm Logistics, Xuất khẩu (thủy sản/dệt may) và Tài chính (Chứng khoán/Ngân hàng).
-- **Rủi ro thương mại (Mỹ trì hoãn quy chế kinh tế thị trường):** Tác động Tiêu cực -> Cần thận trọng với nhóm xuất khẩu chủ lực sang Mỹ (VHC, TNG, ANV) do rủi ro thuế quan.
-- **Đầu tư công (Mở rộng nhà ga T1 Đà Nẵng 11.000 tỷ):** Tác động Tích cực -> Dòng tiền hướng vào nhóm xây lắp hạ tầng (VCG, HHV).
-- **Kỳ vọng tăng giá bán lẻ xăng dầu:** Tác động Tích cực -> Hưởng lợi nhóm phân phối đầu mối (PLX, OIL).
+- Hơn 20.000 tỉ đồng rút khỏi các quỹ đầu tư cổ phiếu -> **Tiêu cực**: Áp lực bán giải chấp/cơ cấu danh mục diện rộng lên nhóm vốn hóa lớn (Bluechips), gây nhiễu và làm suy yếu thanh khoản chung của VN-Index.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VCB, VHM, HPG**
+    - Động lực (FA): Áp lực bán tháo từ làn sóng rút vốn các quỹ đầu tư.
+    - Nhận định dòng tiền: Dòng tiền ngắn hạn đang bị rút mạnh; nhóm này đóng vai trò trụ cột nên áp lực bán sẽ gây hiệu ứng domino tiêu cực lên chỉ số.
+    - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên quản trị rủi ro, hạn chế bắt đáy trong phiên sáng khi áp lực bán từ các quỹ chưa có dấu hiệu chững lại.
 - **Mã: VCG, HHV**
-  - Động lực (FA): Dự án nhà ga T1 Đà Nẵng (11.000 tỷ) vừa được cấp vốn.
-  - Nhận định dòng tiền: Kỳ vọng gia tăng khối lượng công việc, tạo sóng ngắn hạn cho nhóm xây lắp.
-  - Hành động: Chú ý giải ngân nếu dòng tiền bồi đắp thanh khoản ngay trong phiên.
-- **Mã: PLX, OIL**
-  - Động lực (FA): Tình trạng khan hiếm diesel cục bộ, kỳ vọng tăng giá bán.
-  - Nhận định dòng tiền: Cải thiện biên lợi nhuận, dòng tiền có thể trú ẩn vào nhóm này khi thị trường biến động.
-  - Hành động: Tiếp tục quan sát tín hiệu bứt phá nền giá.
-- **Mã: VHC, TNG, ANV**
-  - Động lực (FA): Tin trì hoãn công nhận quy chế kinh tế thị trường từ Mỹ.
-  - Nhận định dòng tiền: Áp lực bán tâm lý ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+    - Động lực (FA): Dự án nhà ga T1 Đà Nẵng (11.000 tỉ đồng) chính thức được thông qua.
+    - Nhận định dòng tiền: Dòng tiền kỳ vọng vào nhóm đầu tư công có thể giúp các mã này giữ nhịp tốt hơn thị trường chung.
+    - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì được vùng hỗ trợ cứng trước áp lực điều chỉnh chung của thị trường.
+- **Mã: CTG**
+    - Động lực (FA): Việc hạ giá tài sản đảm bảo liên quan vụ bà Trương Mỹ Lan làm tăng rủi ro trích lập dự phòng.
+    - Nhận định dòng tiền: Tín hiệu tiêu cực về mặt kỹ thuật và tâm lý, dòng tiền có xu hướng thoái lui để chờ đợi báo cáo quý cụ thể hơn.
+    - Hành động: **Tiếp tục quan sát**, không ưu tiên giải ngân cho đến khi chi phí trích lập dự phòng được xác định rõ biên độ.
 - **Mã: SAM**
-  - Động lực (FA): Cổ đông lớn đăng ký bán 10 triệu cổ phiếu.
-  - Nhận định dòng tiền: Áp lực cung lớn, gây cản trở đà tăng.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro.
-- **Mã: TVS, DSN, VTR**
-  - Động lực (FA): Kết quả kinh doanh suy giảm (TVS, DSN) và vi phạm quản trị (VTR).
-  - Nhận định dòng tiền: Suy yếu rõ rệt, dòng tiền rút chạy.
-  - Hành động: Né tránh, không tham gia bắt đáy.
+    - Động lực (FA): Cổ đông lớn (Chứng khoán Quốc Gia) đăng ký bán 10 triệu cổ phiếu.
+    - Nhận định dòng tiền: Nguồn cung lớn gây áp lực trực tiếp lên thị giá, chặn đà tăng ngắn hạn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, tránh giải ngân cho đến khi lượng cung này hấp thụ hết.
