@@ -1,28 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 29/07/2026
+⏱ Thời gian: 17:35 - 29/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá trung tâm lập kỷ lục:** -> **Tiêu cực** -> Dòng tiền sẽ chịu áp lực bán ở các doanh nghiệp có dư nợ ngoại tệ lớn (POW, HVN) và phân hóa mạnh sang nhóm xuất khẩu (VHC, TNG) để phòng thủ rủi ro tỷ giá.
-- **Mục tiêu vốn ngoại đạt 15% GDP vào 2030:** -> **Tích cực (dài hạn)** -> Kỳ vọng nâng hạng thị trường thúc đẩy dòng tiền vào nhóm Bluechips (SSI, VHM, VCB, FPT).
-- **VN-Index đảo chiều tăng:** -> **Tích cực** -> Tâm lý thị trường cải thiện, dòng tiền ngắn hạn ưu tiên nhóm chứng khoán và vốn hóa lớn.
+- **Ngân hàng:** Xuất hiện tín hiệu phân cực mạnh; nhóm ngân hàng hưởng lợi từ sự dẫn dắt của cổ phiếu trụ (VIC, VHM) giúp VN-Index vượt 1.700 điểm, đối trọng với rủi ro chi phí huy động vốn (COF) tăng cao do làn sóng chứng chỉ tiền gửi lãi suất 9%/năm. -> **Đánh giá: Trung lập (Cần quan sát kỹ biên lãi thuần NIM).** -> Dòng tiền sẽ phân hóa, ưu tiên các ngân hàng có CASA tốt, hạn chế các ngân hàng phụ thuộc vào huy động vốn lãi suất cao.
+- **Bất động sản:** Đề xuất áp thuế cao với đất bỏ hoang tạo áp lực trực tiếp lên các doanh nghiệp có quỹ đất lớn nhưng chậm tiến độ (NVL, DIG, DXG). -> **Đánh giá: Tiêu cực.** -> Dòng tiền có xu hướng rút khỏi nhóm đầu cơ quỹ đất, dịch chuyển sang các cổ phiếu có tiến độ bàn giao rõ ràng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: SSI**
-  - Động lực (FA): Hưởng lợi kép từ kỳ vọng thanh khoản tăng (nhờ mục tiêu vốn ngoại) và tâm lý hưng phấn từ phiên đảo chiều.
-  - Nhận định dòng tiền: Dòng tiền có sự đồng thuận cao, củng cố vị thế dẫn dắt.
-  - Hành động: **Chú ý giải ngân** theo kịch bản break vùng cản ngắn hạn.
-
-- **Mã: POW, HVN**
-  - Động lực (FA): Áp lực chi phí tài chính gia tăng do tỷ giá trung tâm lập kỷ lục.
-  - Nhận định dòng tiền: Rủi ro bị khối ngoại bán ròng để tái cơ cấu danh mục giảm thiểu rủi ro tỷ giá.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
-
-- **Mã: VHC, TNG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ biên lợi nhuận quy đổi khi tỷ giá tăng.
-  - Nhận định dòng tiền: Dòng tiền phòng thủ (defensive play) có xu hướng dịch chuyển vào các mã xuất khẩu.
-  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng đỉnh cũ để gia tăng vị thế.
-
-- **Mã: MWG**
-  - Động lực (FA): Tín hiệu mua vào từ lãnh đạo tạo vùng đệm tâm lý.
-  - Nhận định dòng tiền: Dòng tiền nội bộ ổn định, tạo vùng hỗ trợ kỹ thuật cứng.
-  - Hành động: **Tiếp tục quan sát** tích lũy.
+  - Động lực (FA): Chốt quyền trả cổ tức và phát hành cổ phiếu thưởng + hưởng lợi từ thanh khoản thị trường tăng mạnh.
+  - Nhận định dòng tiền: Tích cực ngắn hạn nhờ kỳ vọng vào ngày chốt quyền, nhưng cần lưu ý áp lực cạnh tranh từ kênh tiền gửi tiết kiệm lãi suất cao.
+  - Hành động: Tiếp tục nắm giữ, theo dõi vùng hỗ trợ gần nhất, quan sát áp lực bán sau khi chốt quyền.
+- **Mã: DBC**
+  - Động lực (FA): Lợi nhuận Q2 giảm 43%, xu hướng kỹ thuật gãy trend từ đỉnh.
+  - Nhận định dòng tiền: Dòng tiền thoát mạnh, tâm lý tiêu cực bao trùm.
+  - Hành động: Rủi ro vi phạm kịch bản trung hạn, ưu tiên cắt giảm vị thế để tránh sụt giảm thêm.
+- **Mã: VHM**
+  - Động lực (FA): Dẫn dắt chỉ số tăng điểm nhưng chịu áp lực bán ròng từ quỹ PYN Elite Fund.
+  - Nhận định dòng tiền: Dòng tiền đang giằng co giữa lực kéo trụ của khối nội và áp lực bán tái cơ cấu từ khối ngoại.
+  - Hành động: Quan sát phản ứng tại vùng giá hiện tại, chỉ giải ngân nếu áp lực bán từ quỹ hạ nhiệt.
