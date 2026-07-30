@@ -1,23 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:45 ngày 30/07/2026
+⏱ Thời gian: 08:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hơn 20.000 tỉ đồng rút khỏi các quỹ đầu tư cổ phiếu -> **Tiêu cực**: Áp lực bán giải chấp/cơ cấu danh mục diện rộng lên nhóm vốn hóa lớn (Bluechips), gây nhiễu và làm suy yếu thanh khoản chung của VN-Index.
+- **Fed giữ nguyên lãi suất & Áp lực rút vốn quỹ đầu tư:** Tin tức Fed duy trì lãi suất tạo áp lực tỷ giá, kết hợp với làn sóng rút ròng hơn 20.000 tỷ đồng từ các quỹ cổ phiếu -> **Tiêu cực** -> Dòng tiền ngắn hạn sẽ chịu áp lực bán giải chấp mạnh tại nhóm **Bluechips (VCB, VHM, HPG)**.
+- **Đẩy mạnh giải ngân cao tốc (2.280 tỷ đồng) & Giá dầu thế giới tăng:** Chính phủ đẩy nhanh giải phóng mặt bằng cao tốc và giá dầu neo cao -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Xây lắp hạ tầng (VCG, HHV, LCG)** và **Dầu khí (PVD, PVS)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCB, VHM, HPG**
-    - Động lực (FA): Áp lực bán tháo từ làn sóng rút vốn các quỹ đầu tư.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn đang bị rút mạnh; nhóm này đóng vai trò trụ cột nên áp lực bán sẽ gây hiệu ứng domino tiêu cực lên chỉ số.
-    - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên quản trị rủi ro, hạn chế bắt đáy trong phiên sáng khi áp lực bán từ các quỹ chưa có dấu hiệu chững lại.
-- **Mã: VCG, HHV**
-    - Động lực (FA): Dự án nhà ga T1 Đà Nẵng (11.000 tỉ đồng) chính thức được thông qua.
-    - Nhận định dòng tiền: Dòng tiền kỳ vọng vào nhóm đầu tư công có thể giúp các mã này giữ nhịp tốt hơn thị trường chung.
-    - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì được vùng hỗ trợ cứng trước áp lực điều chỉnh chung của thị trường.
-- **Mã: CTG**
-    - Động lực (FA): Việc hạ giá tài sản đảm bảo liên quan vụ bà Trương Mỹ Lan làm tăng rủi ro trích lập dự phòng.
-    - Nhận định dòng tiền: Tín hiệu tiêu cực về mặt kỹ thuật và tâm lý, dòng tiền có xu hướng thoái lui để chờ đợi báo cáo quý cụ thể hơn.
-    - Hành động: **Tiếp tục quan sát**, không ưu tiên giải ngân cho đến khi chi phí trích lập dự phòng được xác định rõ biên độ.
-- **Mã: SAM**
-    - Động lực (FA): Cổ đông lớn (Chứng khoán Quốc Gia) đăng ký bán 10 triệu cổ phiếu.
-    - Nhận định dòng tiền: Nguồn cung lớn gây áp lực trực tiếp lên thị giá, chặn đà tăng ngắn hạn.
-    - Hành động: **Rủi ro vi phạm kịch bản**, tránh giải ngân cho đến khi lượng cung này hấp thụ hết.
+- **Mã: MWG**
+    - Động lực (FA): Được duyệt niêm yết Điện Máy Xanh độc lập.
+    - Nhận định dòng tiền: Kỳ vọng định giá lại tài sản (re-rating) có thể tạo lực đỡ ngược dòng thị trường chung đang chịu áp lực bán.
+    - Hành động: Chú ý giải ngân nếu giữ được nền giá hỗ trợ.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu thế giới tăng mạnh.
+    - Nhận định dòng tiền: Hưởng lợi từ biên lợi nhuận kỳ vọng tăng, dòng tiền có xu hướng luân chuyển sang nhóm năng lượng để trú ẩn.
+    - Hành động: Tiếp tục quan sát điểm entry khi có rung lắc theo chỉ số chung.
+- **Mã: Nhóm Ngân hàng (TCB, VPB, STB, MBB)**
+    - Động lực (FA): Kết quả kinh doanh Q2 suy giảm do nợ xấu và chi phí dự phòng.
+    - Nhận định dòng tiền: Áp lực bán gia tăng; tâm lý nhà đầu tư thận trọng cực độ.
+    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+    - Nhận định: Giá dầu tăng là chất xúc tác ngắn hạn giúp cải thiện giá trị hàng tồn kho. Tuy nhiên, ở thời điểm tháng 6/2026, cần quan sát nếu dòng tiền không giữ được mốc hỗ trợ kỹ thuật cứng thì nên chốt lời để bảo toàn vốn trước áp lực bán giải chấp từ các quỹ lớn trên toàn thị trường.
