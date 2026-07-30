@@ -1,24 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:25 (Ngày 31/07/2026)
+⏱ Thời gian: 03:05 - 31/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Rủi ro chuỗi cung ứng:** Căng thẳng Biển Đỏ leo thang (mở rộng vùng rủi ro cao) cùng với tăng trưởng kinh tế Mỹ suy yếu tạo áp lực kép lên biên lợi nhuận nhóm xuất khẩu. -> **Tiêu cực** -> Dòng tiền có xu hướng thận trọng với nhóm Thủy sản (VHC), Dệt may (TNG) và Vận tải biển (HAH).
-- **Thanh tra nông nghiệp:** Bắt giữ cán bộ liên quan đến mã số vùng trồng sầu riêng làm gián đoạn kênh xuất khẩu chính ngạch. -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi các doanh nghiệp nông nghiệp xuất khẩu (HAG).
+- **Khởi động Khu thương mại tự do Hải Phòng (6.200 ha):** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Bất động sản khu công nghiệp (đặc biệt tại phía Bắc) và nhóm Logistics/Cảng biển.
+- **Lãi suất huy động kỳ hạn từ 6 tháng trở lên đồng loạt giảm:** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ ưu tiên các mã ngành Chứng khoán (hưởng lợi từ thanh khoản và dư nợ margin).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PNJ
-  - **Động lực (FA):** Báo lỗ 283 tỉ đồng do trích lập dự phòng kim cương.
-  - **Nhận định dòng tiền:** Cú sốc lợi nhuận bất ngờ sẽ tạo làn sóng bán tháo ngắn hạn do mất niềm tin vào tăng trưởng quý.
-  - **Hành động:** Rủi ro vi phạm kịch bản; Ưu tiên thoát vị thế để quản trị rủi ro.
-- **Mã:** HAG
-  - **Động lực (FA):** Rủi ro pháp lý về mã số vùng trồng sầu riêng xuất khẩu.
-  - **Nhận định dòng tiền:** Áp lực tâm lý từ tin tức tiêu cực có thể khiến cổ phiếu điều chỉnh mạnh về kỹ thuật.
-  - **Hành động:** Quan sát chặt chẽ, dừng giải ngân mới.
-- **Mã:** MWG
-  - **Động lực (FA):** Mở rộng danh mục hàng cồng kềnh trên TMĐT.
-  - **Nhận định dòng tiền:** Tín hiệu tích cực giúp duy trì sức cầu trong bối cảnh thị trường chung rung lắc.
-  - **Hành động:** Tiếp tục quan sát điểm vào lệnh theo dòng tiền dẫn dắt.
-- **Mã:** GMD
-  - **Động lực (FA):** Hưởng lợi nhu cầu logistics hàng cồng kềnh, dù chịu áp lực từ chi phí vận tải quốc tế.
-  - **Nhận định dòng tiền:** Đang có sự phân hóa giữa lợi thế nội địa và rủi ro ngoại quan.
-  - **Hành động:** Quan sát vùng hỗ trợ cứng, chưa vội gia tăng vị thế.
+- **Mã: KBC**
+  - Động lực (FA): Sở hữu quỹ đất lớn tại Hải Phòng, hưởng lợi trực tiếp từ chính sách ưu đãi của Khu thương mại tự do mới thành lập.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức tập trung gom vị thế đón đầu làn sóng FDI mới.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc, xác nhận tín hiệu dòng tiền vào mạnh.
+- **Mã: GMD**
+  - Động lực (FA): Lưu lượng hàng hóa xuất nhập khẩu dự kiến tăng trưởng mạnh tại cảng Hải Phòng.
+  - Nhận định dòng tiền: Dòng tiền trung hạn sẽ cải thiện rõ rệt nhờ kỳ vọng doanh thu cảng biển gia tăng.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi vùng hỗ trợ được giữ vững.
+- **Mã: SSI**
+  - Động lực (FA): Hưởng lợi từ mặt bằng lãi suất giảm, kích thích dòng tiền cá nhân đổ vào chứng khoán.
+  - Nhận định dòng tiền: Nhạy sóng tốt nhất với thông tin hạ lãi suất, thanh khoản dự kiến cải thiện trong các phiên tới.
+  - Hành động: Chú ý giải ngân theo đà tăng của thị trường chung.
