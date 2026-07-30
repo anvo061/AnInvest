@@ -1,20 +1,23 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:05 - 31/07/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 04:10 - 31/07/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Khởi động Khu thương mại tự do Hải Phòng (6.200 ha):** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Bất động sản khu công nghiệp (đặc biệt tại phía Bắc) và nhóm Logistics/Cảng biển.
-- **Lãi suất huy động kỳ hạn từ 6 tháng trở lên đồng loạt giảm:** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ ưu tiên các mã ngành Chứng khoán (hưởng lợi từ thanh khoản và dư nợ margin).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tin tức:** Chính thức khởi động Khu kinh tế và Khu thương mại tự do Hải Phòng -> **Tác động: Tích cực** -> **Dòng tiền:** Nhóm Bất động sản khu công nghiệp (KBC) và Logistics/Cảng biển (GMD, HAH) được kỳ vọng hưởng lợi dài hạn từ thu hút FDI.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC**
-  - Động lực (FA): Sở hữu quỹ đất lớn tại Hải Phòng, hưởng lợi trực tiếp từ chính sách ưu đãi của Khu thương mại tự do mới thành lập.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức tập trung gom vị thế đón đầu làn sóng FDI mới.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc, xác nhận tín hiệu dòng tiền vào mạnh.
-- **Mã: GMD**
-  - Động lực (FA): Lưu lượng hàng hóa xuất nhập khẩu dự kiến tăng trưởng mạnh tại cảng Hải Phòng.
-  - Nhận định dòng tiền: Dòng tiền trung hạn sẽ cải thiện rõ rệt nhờ kỳ vọng doanh thu cảng biển gia tăng.
-  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi vùng hỗ trợ được giữ vững.
-- **Mã: SSI**
-  - Động lực (FA): Hưởng lợi từ mặt bằng lãi suất giảm, kích thích dòng tiền cá nhân đổ vào chứng khoán.
-  - Nhận định dòng tiền: Nhạy sóng tốt nhất với thông tin hạ lãi suất, thanh khoản dự kiến cải thiện trong các phiên tới.
-  - Hành động: Chú ý giải ngân theo đà tăng của thị trường chung.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **KBC**
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ chủ trương hình thành Khu thương mại tự do Hải Phòng; sở hữu quỹ đất trọng điểm tại khu vực này.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể kích hoạt sớm nhờ kỳ vọng chính sách, củng cố đà tăng kỹ thuật nếu khối lượng khớp lệnh tăng đột biến vượt trung bình 20 phiên.
+  - **Hành động:** Chú ý giải ngân nếu có nhịp test hỗ trợ, theo dõi sát tiến độ thực thi chính sách tại địa phương.
+- **Mã:** **MWG**
+  - **Động lực (FA):** Áp lực bán tháo kỹ thuật bất chấp nền tảng cơ bản không suy giảm đột biến.
+  - **Nhận định dòng tiền:** Hiện tượng "call margin" hoặc thoái vốn từ khối ngoại đang lấn át các chỉ số cơ bản.
+  - **Hành động:** Rủi ro vi phạm kịch bản, tuyệt đối không bắt đáy khi dòng tiền chưa xuất hiện tín hiệu đảo chiều (phân kỳ dương trên RSI hoặc volume phục hồi).
+- **Mã:** **PVD**
+  - **Động lực (FA):** Giá dầu thế giới giảm sâu.
+  - **Nhận định dòng tiền:** Tác động trực tiếp làm giảm tâm lý tích cực của dòng tiền ngắn hạn vào nhóm thượng nguồn, cần thận trọng với vị thế mua mới.
+  - **Hành động:** Rủi ro vi phạm kịch bản, tiếp tục quan sát vùng hỗ trợ cứng.
+- **Mã:** **XMC**
+  - **Động lực (FA):** Cổ đông lớn gia tăng sở hữu 13.567.100 cp.
+  - **Nhận định dòng tiền:** Cải thiện niềm tin, giảm cung trôi nổi, tạo dư địa cho các nhịp tăng giá bền vững.
+  - **Hành động:** Tiếp tục quan sát để tìm điểm mua theo dòng tiền lớn.
