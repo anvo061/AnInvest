@@ -1,23 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:30
+⏱ Thời gian: 20:15 - 30/07/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng doanh nghiệp phân hóa:** Sự phục hồi mạnh mẽ từ nhóm bán lẻ (MWG), hàng không (HVN, ACV) và khai khoáng (MSR) đối trọng với rủi ro thanh khoản nhóm Bất động sản (NVL, PDR, DXG) từ tin tức quốc tế. -> **Đánh giá: Trung lập (Phân hóa mạnh)** -> **Dòng tiền:** Dịch chuyển từ nhóm BĐS sang các doanh nghiệp có câu chuyện tăng trưởng lợi nhuận cụ thể và nhóm ngành ngân hàng (đang thu hút smart money).
+- **Đầu tư công:** Chính phủ đẩy nhanh tiến độ dự án Metro Bến Thành - Suối Tiên và Sân bay Long Thành -> **Tích cực** -> Dòng tiền tập trung nhóm Xây lắp hạ tầng & Vật liệu xây dựng.
+- **Xuất khẩu nông sản:** Sầu riêng chính thức xuất khẩu chính ngạch sang Ấn Độ -> **Tích cực** -> Dòng tiền hướng vào nhóm Nông nghiệp quy mô lớn.
+- **Năng lượng:** Nối lại vận chuyển LNG qua Hormuz -> **Tích cực (ổn định)** -> Giảm áp lực chi phí đầu vào cho nhóm Điện/Phân bón.
+- **Logistics & Hàng không:** Sự chuyển dịch vận tải hàng không sang linh kiện công nghệ cao (tác động từ AI) -> **Tích cực** -> Dòng tiền hướng vào nhóm hạ tầng cảng hàng không.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: FPT**
-    - Động lực (FA): Mở rộng Trung tâm Công nghệ toàn cầu tại Nhật Bản.
-    - Nhận định dòng tiền: Củng cố vị thế doanh nghiệp xuất khẩu phần mềm, gia tăng doanh thu ngoại tệ bền vững.
-    - Hành động: Chú ý giải ngân (tích lũy quanh vùng giá nền).
-- **Mã: MWG**
-    - Động lực (FA): Lợi nhuận 6 tháng tăng gấp đôi, hiệu quả tái cấu trúc.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ tập trung mạnh do kết quả kinh doanh vượt kỳ vọng.
-    - Hành động: Tiếp tục quan sát đà tăng, chú ý điểm break-out.
-- **Mã: DCM**
-    - Động lực (FA): Dòng tiền kinh doanh âm hơn 1.000 tỷ đồng dù lãi tăng.
-    - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do lo ngại chất lượng lợi nhuận và thanh khoản.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
-- **Mã: NVL, PDR, DXG**
-    - Động lực (FA): Áp lực tâm lý tiêu cực từ thông tin đế chế BĐS sụp đổ.
-    - Nhận định dòng tiền: Áp lực bán tháo theo tâm lý (panic selling) gia tăng, rủi ro cao.
-    - Hành động: Rủi ro vi phạm kịch bản, tuyệt đối không bắt đáy trong ngắn hạn.
+- **Mã: HAG**
+    - Động lực (FA): Thị trường xuất khẩu chính ngạch sầu riêng mở rộng sang Ấn Độ.
+    - Nhận định dòng tiền: Kỳ vọng gia tăng biên lợi nhuận từ việc đa dạng hóa thị trường, giảm rủi ro tập trung.
+    - Hành động: Chú ý giải ngân nếu có nhịp test lại hỗ trợ cứng.
+- **Mã: VCG, HHV, LCG**
+    - Động lực (FA): Đẩy nhanh các dự án hạ tầng trọng điểm quốc gia.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ tiến độ giải ngân đầu tư công, duy trì xu hướng tích cực trong ngắn hạn.
+    - Hành động: Tiếp tục quan sát điểm vào theo kỹ thuật, ưu tiên VCG cho vị thế dẫn dắt nhóm xây lắp.
+- **Mã: GAS**
+    - Động lực (FA): Nguồn cung LNG ổn định giúp bình ổn biên lợi nhuận.
+    - Nhận định dòng tiền: Cải thiện tâm lý nhà đầu tư sau chuỗi lo ngại về chi phí năng lượng.
+    - Hành động: Tiếp tục quan sát.
+- **Mã: ACV**
+    - Động lực (FA): Sự thay đổi cơ cấu vận chuyển hàng không (hàng công nghệ cao thay hàng tiêu dùng).
+    - Nhận định dòng tiền: Tạo dư địa tăng trưởng doanh thu dịch vụ hàng không ổn định.
+    - Hành động: Chú ý giải ngân (tầm nhìn trung hạn).
