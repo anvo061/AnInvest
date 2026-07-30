@@ -1,24 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:15
+⏱ Thời gian: 10:52:27
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Fed giữ nguyên lãi suất & Áp lực rút vốn quỹ đầu tư:** Tin tức Fed duy trì lãi suất tạo áp lực tỷ giá, kết hợp với làn sóng rút ròng hơn 20.000 tỷ đồng từ các quỹ cổ phiếu -> **Tiêu cực** -> Dòng tiền ngắn hạn sẽ chịu áp lực bán giải chấp mạnh tại nhóm **Bluechips (VCB, VHM, HPG)**.
-- **Đẩy mạnh giải ngân cao tốc (2.280 tỷ đồng) & Giá dầu thế giới tăng:** Chính phủ đẩy nhanh giải phóng mặt bằng cao tốc và giá dầu neo cao -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Xây lắp hạ tầng (VCG, HHV, LCG)** và **Dầu khí (PVD, PVS)**.
+- Chứng khoán Mỹ giảm sâu (1.152 điểm) gây tâm lý tiêu cực toàn cầu, trong khi áp lực chi phí vốn (COF) của hệ thống ngân hàng đang gia tăng -> [Đánh giá: Tiêu cực] -> [Dòng tiền phòng thủ: Dịch chuyển sang nhóm hàng tiêu dùng thiết yếu (Sữa, thực phẩm) và Dầu khí hưởng lợi từ căng thẳng địa chính trị].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MWG**
-    - Động lực (FA): Được duyệt niêm yết Điện Máy Xanh độc lập.
-    - Nhận định dòng tiền: Kỳ vọng định giá lại tài sản (re-rating) có thể tạo lực đỡ ngược dòng thị trường chung đang chịu áp lực bán.
-    - Hành động: Chú ý giải ngân nếu giữ được nền giá hỗ trợ.
 - **Mã: PVD**
-    - Động lực (FA): Giá dầu thế giới tăng mạnh.
-    - Nhận định dòng tiền: Hưởng lợi từ biên lợi nhuận kỳ vọng tăng, dòng tiền có xu hướng luân chuyển sang nhóm năng lượng để trú ẩn.
-    - Hành động: Tiếp tục quan sát điểm entry khi có rung lắc theo chỉ số chung.
-- **Mã: Nhóm Ngân hàng (TCB, VPB, STB, MBB)**
-    - Động lực (FA): Kết quả kinh doanh Q2 suy giảm do nợ xấu và chi phí dự phòng.
-    - Nhận định dòng tiền: Áp lực bán gia tăng; tâm lý nhà đầu tư thận trọng cực độ.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Giá dầu tăng là chất xúc tác ngắn hạn giúp cải thiện giá trị hàng tồn kho. Tuy nhiên, ở thời điểm tháng 6/2026, cần quan sát nếu dòng tiền không giữ được mốc hỗ trợ kỹ thuật cứng thì nên chốt lời để bảo toàn vốn trước áp lực bán giải chấp từ các quỹ lớn trên toàn thị trường.
+  - Động lực (FA): Giá dầu thế giới tăng do lo ngại gián đoạn nguồn cung tại Biển Đỏ.
+  - Nhận định dòng tiền: Tích cực ngắn hạn nhờ sự cộng hưởng giữa giá dầu và kỳ vọng cải thiện giá thuê giàn khoan.
+  - Hành động: Chú ý giải ngân nếu dòng tiền duy trì trên nền giá hiện tại.
+- **Mã: SSI, VND, VHM**
+  - Động lực (FA): Áp lực bán tháo theo tâm lý thị trường quốc tế (Dow Jones giảm mạnh).
+  - Nhận định dòng tiền: Rủi ro điều chỉnh mạnh do nhóm chứng khoán có Beta cao và áp lực khối ngoại trên nhóm VHM.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế bắt đáy.
+- **Mã: POW**
+  - Động lực (FA): Đẩy nhanh hạ tầng cảng than cho dự án Quảng Trạch 1.
+  - Nhận định dòng tiền: Kỳ vọng tích cực về tăng trưởng doanh thu dài hạn.
+  - Hành động: Tiếp tục quan sát điểm rơi kỹ thuật khi dự án hoàn thiện hạ tầng.
+- **Mã: VNM, MCH, IDP**
+  - Động lực (FA): Kết quả kinh doanh tăng trưởng, vị thế "hầm trú ẩn" trong bối cảnh thị trường biến động.
+  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến nhóm này để trú ẩn.
+  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ tỷ trọng an toàn.
+- **Mã: HAG, BCE**
+  - Động lực (FA): Rủi ro tài chính cao (HAG phụ thuộc lợi nhuận tài chính, BCE chi phí lãi vay bào mòn lợi nhuận).
+  - Nhận định dòng tiền: Tiêu cực, áp lực bán khả năng gia tăng do chất lượng lợi nhuận suy giảm.
+  - Hành động: Rủi ro vi phạm kịch bản, xem xét hạ tỷ trọng.
