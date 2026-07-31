@@ -1,25 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 06:15 - 31/07/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 07:15 - 31/07/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Hạ tầng giao thông:** TP.HCM nâng mục tiêu quy hoạch metro lên 255km vào năm 2030 -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Xây lắp hạ tầng (Đầu tư công)**.
-- **Quản lý xăng dầu:** Chính thức cơ chế doanh nghiệp tự quyết giá xăng dầu -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Đầu mối xăng dầu (Thương mại năng lượng)**.
-- **Bán lẻ trang sức:** Siết chặt quản lý thị trường vàng/kim cương -> **Tiêu cực** -> Áp lực lên nhóm **Bán lẻ cao cấp**.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Fed hạ lãi suất mở dư địa chính sách:** Kỳ vọng NHNN nới lỏng tiền tệ, giảm chi phí vốn cho doanh nghiệp vay nợ cao và tăng thanh khoản thị trường -> **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND)** và **Ngân hàng (VCB, TCB, MBB)**.
+- **Giá xăng dầu tăng mạnh:** Áp lực chi phí đẩy lên biên lợi nhuận nhóm vận tải và sản xuất -> **Tiêu cực** -> Rủi ro biên lợi nhuận cho nhóm **Logistics/Vận tải biển (GMD, HAH)**; Ngược lại, **PLX** hưởng lợi từ biên lợi nhuận kinh doanh xăng dầu.
+- **Quy hoạch hạ tầng Metro TP.HCM:** Đẩy mạnh giải ngân đầu tư công giai đoạn 2026-2030 -> **Tích cực** -> Nhóm **Xây lắp hạ tầng (VCG, HHV)** được hưởng lợi trực tiếp từ khối lượng backlog dự kiến.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** VCG, HHV
-    - **Động lực (FA):** Hưởng lợi trực tiếp từ quy mô vốn và khối lượng công việc khổng lồ từ quy hoạch metro mới của TP.HCM.
-    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào backlog công việc dài hạn, dự kiến thu hút dòng tiền đầu cơ nhóm xây dựng hạ tầng ngay phiên sáng.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc đầu phiên.
-- **Mã:** PLX, OIL
-    - **Động lực (FA):** Cơ chế tự quyết giá giúp giảm độ trễ, bảo vệ biên lợi nhuận trước biến động giá dầu thế giới.
-    - **Nhận định dòng tiền:** Phản ứng tích cực ngắn hạn khi rủi ro chính sách được tháo gỡ.
-    - **Hành động:** Quan sát lực cầu tại vùng hỗ trợ cứng.
-- **Mã:** PNJ
-    - **Động lực (FA):** Rủi ro quản lý thị trường vàng/kim cương gia tăng chi phí tuân thủ.
-    - **Nhận định dòng tiền:** Áp lực tâm lý tiêu cực có thể gây nhiễu trong ngắn hạn.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ tâm lý.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-    - **Nhận định:** Tin tức về năng lực tối ưu hóa sản phẩm củng cố nền tảng cơ bản. Dù đã qua điểm rơi kỳ vọng tháng 3/2026, dữ liệu hiện tại cho thấy khả năng duy trì biên lợi nhuận tốt. Khuyến nghị: **Giữ tiếp** để quan sát báo cáo quý, chưa cần đảo dòng tiền.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VIX**
+    - Động lực (FA): Tâm lý hưng phấn từ thông tin giao dịch nhóm cổ phiếu VIC/VHM.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ đang tập trung mạnh vào các mã chứng khoán có beta cao, VIX đang phản ứng tích cực với hiệu ứng lan tỏa.
+    - Hành động: **Tiếp tục quan sát** ngưỡng kháng cự kỹ thuật, ưu tiên nắm giữ nếu thanh khoản thị trường duy trì đà tăng.
+- **Mã: NVL**
+    - Động lực (FA): Công bố lợi nhuận 6 tháng đạt 1.800 tỷ đồng.
+    - Nhận định dòng tiền: Số liệu tích cực giúp giải tỏa áp lực bán tháo, thu hút dòng tiền bắt đáy quay trở lại nhóm BĐS.
+    - Hành động: **Chú ý giải ngân** theo kịch bản phục hồi khi dòng tiền khối ngoại quay lại hỗ trợ.
+- **Mã: SSI**
+    - Động lực (FA): Hưởng lợi từ quyết định của Fed và sự bùng nổ thanh khoản thị trường.
+    - Nhận định dòng tiền: Dòng tiền thông minh xác nhận nhóm chứng khoán là leader trong nhịp tăng điểm này.
+    - Hành động: **Chú ý giải ngân** theo chiến lược tăng vị thế khi VN-Index duy trì xu hướng tăng 40 điểm.
