@@ -1,23 +1,31 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:35 ngày 01/08/2026
+⏱ Thời gian: 06:45 ngày 01/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kết quả kinh doanh HDB tăng trưởng 31% và các doanh nghiệp lớn (MCH, SSI) đồng loạt thông báo chia cổ tức bằng tiền mặt -> Đánh giá tác động: Tích cực -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng và các mã có nền tảng tài chính/cổ tức ổn định để trú ẩn và gia tăng giá trị.
+- Các doanh nghiệp đầu ngành (HPG, VNM) ghi nhận lượng tiền mặt kỷ lục, củng cố nền tảng tài chính vững mạnh -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Blue-chips tài chính lành mạnh và Sản xuất - Tiêu dùng**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **HPG**
+  - Động lực (FA): Tiền mặt dồi dào, chủ động nguồn vốn cho dự án Dung Quất 2.
+  - Nhận định dòng tiền: Giảm áp lực tài chính ngắn hạn, tạo kỳ vọng tăng trưởng bền vững, hỗ trợ dòng tiền khối ngoại và tổ chức.
+  - Hành động: **Chú ý giải ngân** quanh các nhịp rung lắc.
+- Mã: **VNM**
+  - Động lực (FA): Vị thế tiền mặt lớn, khả năng duy trì cổ tức cao.
+  - Nhận định dòng tiền: Thu hút dòng vốn đầu tư giá trị, ổn định tâm lý nhà đầu tư trong giai đoạn thị trường biến động.
+  - Hành động: **Tiếp tục quan sát** xu hướng tích lũy.
 - Mã: **HDB**
-  - Động lực (FA): Lợi nhuận tăng trưởng 31%, gia nhập câu lạc bộ ngân hàng triệu tỷ.
-  - Nhận định dòng tiền: Tin tức hỗ trợ mạnh cho tâm lý nhà đầu tư, kỳ vọng dòng tiền khối ngoại quay lại nhóm ngân hàng tầm trung.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
-- Mã: **MSN**
-  - Động lực (FA): Masan Consumer (MCH) tạm ứng cổ tức lớn, MSN hưởng lợi trực tiếp về dòng tiền và tâm lý cổ đông.
-  - Nhận định dòng tiền: Lực đỡ tâm lý tốt trước kỳ cơ cấu ETF, giảm áp lực bán tháo.
-  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho mục tiêu trung hạn.
+  - Động lực (FA): Lợi nhuận tăng trưởng 31%, gia nhập nhóm ngân hàng triệu tỷ.
+  - Nhận định dòng tiền: Động lực tăng giá trực tiếp, thu hút dòng tiền dẫn dắt nhóm ngân hàng.
+  - Hành động: **Chú ý giải ngân** theo đà tăng trưởng.
 - Mã: **SSI**
-  - Động lực (FA): Phát hành cổ phiếu thưởng và chi trả cổ tức tiền mặt, tăng vốn điều lệ.
-  - Nhận định dòng tiền: Gia tăng thanh khoản và năng lực margin, thu hút dòng tiền đầu tư dài hạn.
-  - Hành động: Chú ý giải ngân tại các vùng hỗ trợ cứng.
-- Mã: **HAH, GMD**
-  - Động lực (FA): Giá dầu thế giới giảm mạnh.
-  - Nhận định dòng tiền: Cải thiện trực tiếp biên lợi nhuận vận tải/logistics.
-  - Hành động: Theo dõi sát diễn biến giá dầu, chú ý giải ngân nếu giá cổ phiếu tích lũy nền tốt.
+  - Động lực (FA): Chi trả cổ tức tiền mặt & phát hành cổ phiếu thưởng tăng vốn.
+  - Nhận định dòng tiền: Gia tăng thanh khoản và kỳ vọng mở rộng room margin, hỗ trợ tâm lý tích cực cho dòng cổ phiếu chứng khoán.
+  - Hành động: **Chú ý giải ngân**.
+- Mã: **MCH / MSN**
+  - Động lực (FA): Tạm ứng cổ tức tiền mặt đợt 1/2026.
+  - Nhận định dòng tiền: Tạo lực đỡ tâm lý cho MSN trước áp lực bán cơ cấu ETF; củng cố niềm tin cho MCH.
+  - Hành động: **Tiếp tục quan sát**.
+- Mã: **MBS**
+  - Động lực (FA): Chốt quyền trả cổ tức tiền mặt (1.000 đ/cp).
+  - Nhận định dòng tiền: Lực đỡ giá ngắn hạn trước ngày GDKHQ.
+  - Hành động: **Tiếp tục quan sát**.
