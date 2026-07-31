@@ -1,23 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:15 - 01/08/2026
+⏱ Thời gian: 01:50 - 01/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất liên ngân hàng qua đêm giảm mạnh xuống 0,7%: -> Tích cực -> Dòng tiền hướng vào nhóm Ngân hàng (tối ưu NIM) và Chứng khoán (đòn bẩy tài chính).
-- Chính phủ đơn giản hóa thủ tục cấp mã số vùng trồng xuất khẩu: -> Tích cực -> Dòng tiền hướng vào nhóm Nông nghiệp xuất khẩu (sầu riêng).
-- Hoàn thành đóng điện đường dây 500/220kV Nho Quan - Phủ Lý - Thường Tín: -> Tích cực -> Dòng tiền hướng vào nhóm Xây lắp điện & Hạ tầng năng lượng (đặc biệt lưu ý các mã thầu xây lắp).
+- **Lãi suất huy động vượt 9% gây áp lực chi phí vốn (COF):** Dòng tiền có xu hướng phân hóa mạnh, rút khỏi các kênh đầu tư rủi ro (BĐS, CK) để trú ẩn vào tiền gửi -> **Tiêu cực** cho nhóm Ngân hàng bán lẻ (TCB) và BĐS (VHM, PDR).
+- **Quy hoạch hành lang logistics cảng biển - sân bay Long Thành:** Tạo động lực tăng trưởng trung hạn cho hạ tầng vận tải -> **Tích cực** cho nhóm Cảng biển & Logistics (GMD, HAH).
+- **Thanh khoản liên ngân hàng dồi dào (lãi suất qua đêm 0,7%):** Đối trọng với lãi suất huy động, cung cấp thanh khoản ngắn hạn cho hệ thống -> **Tích cực** cho nhóm Chứng khoán (SSI) nhờ kỳ vọng nới lỏng margin.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCB**
-  - Động lực (FA): Lãi suất liên ngân hàng thấp giúp giảm chi phí vốn đầu vào, cải thiện biên lợi nhuận ròng (NIM) trong môi trường thanh khoản dồi dào.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức gia tăng tỷ trọng tại vùng giá hiện tại để đón đầu kết quả kinh doanh quý tới.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
-
-- Mã: **SSI**
-  - Động lực (FA): Lãi suất thấp là chất xúc tác trực tiếp nhất kích hoạt dòng tiền đầu cơ chảy mạnh vào thị trường chứng khoán, tăng doanh thu phí môi giới và lãi vay margin.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn có xu hướng gia tăng thanh khoản, tạo tiền đề cho nhịp bứt phá kỹ thuật.
-  - Hành động: Tiếp tục nắm giữ, gia tăng tỷ trọng nếu vượt vùng kháng cự với khối lượng đột biến.
-
-- Mã: **HAG**
-  - Động lực (FA): Việc gỡ bỏ nút thắt thủ tục xuất khẩu chính ngạch sầu riêng là "cú hích" trực tiếp lên doanh thu và cải thiện dòng tiền hoạt động của doanh nghiệp.
-  - Nhận định dòng tiền: Tin tức tạo kỳ vọng tăng trưởng biên lợi nhuận, thu hút dòng tiền đầu cơ mạnh mẽ.
-  - Hành động: Chú ý giải ngân theo đà tăng (Breakout), quản trị rủi ro chặt chẽ nếu thanh khoản không tương xứng với kỳ vọng.
+- **Mã: GMD, HAH**
+    - Động lực (FA): Hưởng lợi từ quy hoạch hành lang logistics chiến lược nối cảng biển và sân bay Long Thành.
+    - Nhận định dòng tiền: Dòng tiền đầu tư dài hạn sẽ luân chuyển vào nhóm hạ tầng khi hạ tầng giao thông bắt đầu triển khai.
+    - Hành động: **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật trong phiên.
+- **Mã: HAG**
+    - Động lực (FA): Nghị quyết đơn giản hóa thủ tục xuất khẩu nông sản (mã số vùng trồng) gỡ nút thắt doanh thu sầu riêng.
+    - Nhận định dòng tiền: Tin tức mang tính chất hỗ trợ cơ bản, kỳ vọng cải thiện biên lợi nhuận quý tới.
+    - Hành động: **Tiếp tục quan sát** khối lượng giao dịch tại vùng hỗ trợ.
+- **Mã: MSB**
+    - Động lực (FA): Lãi bán niên đạt 3.423 tỷ đồng, thể hiện sự ổn định trong bối cảnh chung còn khó khăn.
+    - Nhận định dòng tiền: Thu hút dòng tiền tìm kiếm "trú ẩn" tại các ngân hàng tầm trung có chỉ số tài chính lành mạnh.
+    - Hành động: **Tiếp tục quan sát**.
+- **Mã: VHM, PDR, TCB**
+    - Động lực (FA): Áp lực lãi suất huy động tăng vọt ảnh hưởng biên lợi nhuận và chi phí tài chính.
+    - Nhận định dòng tiền: Rủi ro chịu áp lực bán cơ cấu lại danh mục để tối ưu dòng tiền.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn khi lãi suất huy động tiếp tục duy trì đà tăng.
