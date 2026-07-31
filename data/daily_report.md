@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:38
+⏱ Thời gian: 16:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực nợ trái phiếu doanh nghiệp (BĐS):** Reuters/Bloomberg đưa tin về sự gia tăng vi phạm nợ trái phiếu tại Việt Nam -> **Tiêu cực:** Kích hoạt tâm lý bán tháo trên diện rộng, đặc biệt nhóm BĐS và Ngân hàng có tỷ trọng trái phiếu/nợ BĐS cao.
-- **Kết quả kinh doanh nhóm Ngân hàng:** Sự phân hóa rõ rệt giữa tăng trưởng tín dụng quốc tế (HDB) và rủi ro nợ xấu nội địa (BID) -> **Trung lập:** Dòng tiền sẽ ưu tiên các mã có nguồn vốn ngoại rẻ/tốt (HDB) và rút khỏi các mã có chi phí dự phòng nợ xấu tăng cao (BID).
-- **Rào cản thương mại ngành Dệt may:** Thuế quan mới gây áp lực lên chuỗi cung ứng -> **Tiêu cực:** Biên lợi nhuận nhóm dệt may (TNG, MSH, VGT) có nguy cơ bị bào mòn.
+- **Nới lỏng nguồn vốn giá rẻ:** Từ 01/08, ngân hàng được tiếp cận nguồn tiền gửi Kho bạc Nhà nước (KBNN) để cho vay -> [Tích cực] -> Dòng tiền ưu tiên nhóm **Ngân hàng quốc doanh (VCB, BID, CTG)** nhờ ưu thế chi phí vốn (COF) giảm, hỗ trợ NIM.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HDB**
-  - Động lực (FA): Huy động thành công khoản vay quốc tế 721 triệu USD.
-  - Nhận định dòng tiền: Kháng cự tốt trước áp lực thị trường chung nhờ củng cố thanh khoản.
-  - Hành động: **Chú ý giải ngân** nếu thị trường chung điều chỉnh về vùng hỗ trợ, HDB là điểm sáng phòng thủ.
-- **Mã: NVL, PDR, VHM, TCB, VPB**
-  - Động lực (FA): Tâm lý tiêu cực lan rộng từ tin tức vi phạm trái phiếu.
-  - Nhận định dòng tiền: Áp lực bán chủ động gia tăng mạnh do lo ngại rủi ro thanh khoản.
-  - Hành động: **Rủi ro vi phạm kịch bản**; hạn chế bắt đáy trong giai đoạn thị trường đang chịu tác động trực tiếp từ thông tin vĩ mô tiêu cực.
-- **Mã: VIC**
-  - Động lực (FA): Kết quả kinh doanh khả quan và mở rộng thị phần xe điện sang Châu Âu.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể tìm đến như một lựa chọn "trú ẩn" nhờ câu chuyện tăng trưởng mảng xe điện, đi ngược xu hướng giảm của nhóm BĐS.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
+- **Mã: MWG**
+    - Động lực (FA): Tiếp nhận dòng vốn 13.000 tỷ đồng, củng cố bảng cân đối kế toán.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn sẽ quay trở lại nhóm bán lẻ khi rủi ro tài chính giảm, tạo nền tảng cho sự phục hồi định giá.
+    - Hành động: Chú ý giải ngân khi có nhịp rung lắc tích lũy quanh vùng giá hiện tại.
+- **Mã: VIC, VHM**
+    - Động lực (FA): Lợi nhuận 6 tháng đạt hơn 20.000 tỷ đồng, xác nhận đà phục hồi thực tế.
+    - Nhận định dòng tiền: Hiệu ứng lan tỏa từ kết quả kinh doanh ấn tượng sẽ đóng vai trò trụ đỡ cho VN-Index trong bối cảnh thị trường điều chỉnh.
+    - Hành động: Tiếp tục quan sát đà bứt phá của dòng tiền khối ngoại tại các vùng cản tâm lý.
+- **Mã: VHC**
+    - Động lực (FA): Lợi nhuận "đi lùi", khoản phải thu tăng mạnh gây lo ngại về chất lượng tài sản.
+    - Nhận định dòng tiền: Tiêu cực. Áp lực bán khả năng gia tăng khi báo cáo tài chính xác nhận đà suy yếu của doanh nghiệp.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu mất hỗ trợ gần nhất.
+- **Mã: FRT, TAL**
+    - Động lực (FA): Trắng bên bán bất chấp VN-Index mất 9 điểm.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ cực mạnh và cô đặc, tách biệt khỏi vận động chung của thị trường.
+    - Hành động: Tiếp tục quan sát, chỉ giao dịch nếu có điểm "re-test" an toàn, tránh đuổi giá cao.
