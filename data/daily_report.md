@@ -1,25 +1,23 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 22:45 | 31/07/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 00:15 - 01/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Nới lỏng thanh khoản cho ngân hàng quốc doanh:** NHNN tiếp tục ưu tiên thanh khoản cho khối Big4 -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng (VCB, BID, CTG) và có thể lan tỏa ra nhóm Bất động sản KCN do dư địa tín dụng dồi dào.
-- **Giá xăng dầu hạ nhiệt:** Giảm chi phí đầu vào -> **Tích cực** -> Nhóm Vận tải biển (HAH) hưởng lợi trực tiếp nhờ cải thiện biên lợi nhuận.
-- **Chính sách ưu tiên thép nội địa:** Đẩy mạnh tiêu thụ nội địa -> **Tích cực** -> Dòng tiền hướng vào các doanh nghiệp thép đầu ngành (HPG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Lãi suất liên ngân hàng qua đêm giảm mạnh xuống 0,7%: -> Tích cực -> Dòng tiền hướng vào nhóm Ngân hàng (tối ưu NIM) và Chứng khoán (đòn bẩy tài chính).
+- Chính phủ đơn giản hóa thủ tục cấp mã số vùng trồng xuất khẩu: -> Tích cực -> Dòng tiền hướng vào nhóm Nông nghiệp xuất khẩu (sầu riêng).
+- Hoàn thành đóng điện đường dây 500/220kV Nho Quan - Phủ Lý - Thường Tín: -> Tích cực -> Dòng tiền hướng vào nhóm Xây lắp điện & Hạ tầng năng lượng (đặc biệt lưu ý các mã thầu xây lắp).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** HPG
-  - **Động lực (FA):** Thỏa thuận tiêu thụ 168.000 tấn thép nội địa theo chủ trương ưu tiên của chính quyền.
-  - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào tăng trưởng doanh thu trong Q3, dòng tiền khả năng cao sẽ cô đặc tại nhóm thép lớn.
-  - **Hành động:** Chú ý giải ngân nếu có nhịp retest hỗ trợ cứng.
-- **Mã:** HAH
-  - **Động lực (FA):** Giá dầu thế giới hạ nhiệt, trực tiếp hỗ trợ biên lợi nhuận vận hành.
-  - **Nhận định dòng tiền:** Tích cực trong bối cảnh lạm phát chi phí đẩy được kiểm soát, hỗ trợ giá cổ phiếu duy trì xu hướng.
-  - **Hành động:** Tiếp tục quan sát tín hiệu dòng tiền tại vùng nền.
-- **Mã:** VCB, BID, CTG
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ thanh khoản dồi dào từ NHNN.
-  - **Nhận định dòng tiền:** Đóng vai trò là "trụ" đỡ thị trường, khả năng hút dòng tiền khối ngoại và tổ chức.
-  - **Hành động:** Chú ý giải ngân theo xu hướng thị trường chung.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VCB**
+  - Động lực (FA): Lãi suất liên ngân hàng thấp giúp giảm chi phí vốn đầu vào, cải thiện biên lợi nhuận ròng (NIM) trong môi trường thanh khoản dồi dào.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức gia tăng tỷ trọng tại vùng giá hiện tại để đón đầu kết quả kinh doanh quý tới.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: EIB**
-  - **Nhận định:** Việc Quyền tổng giám đốc từ nhiệm ngay thời điểm tháng 07/2026 (gần mốc soát xét trung hạn tháng 3/2026 đã qua) là tín hiệu bất ổn quản trị nghiêm trọng. Dữ liệu mới tiêu cực, không đủ nền tảng giữ vị thế dài hạn. **Khuyến nghị: Cắt vị thế để đảo dòng tiền sang các mã ngân hàng quốc doanh đang được nới thanh khoản.**
+- Mã: **SSI**
+  - Động lực (FA): Lãi suất thấp là chất xúc tác trực tiếp nhất kích hoạt dòng tiền đầu cơ chảy mạnh vào thị trường chứng khoán, tăng doanh thu phí môi giới và lãi vay margin.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn có xu hướng gia tăng thanh khoản, tạo tiền đề cho nhịp bứt phá kỹ thuật.
+  - Hành động: Tiếp tục nắm giữ, gia tăng tỷ trọng nếu vượt vùng kháng cự với khối lượng đột biến.
+
+- Mã: **HAG**
+  - Động lực (FA): Việc gỡ bỏ nút thắt thủ tục xuất khẩu chính ngạch sầu riêng là "cú hích" trực tiếp lên doanh thu và cải thiện dòng tiền hoạt động của doanh nghiệp.
+  - Nhận định dòng tiền: Tin tức tạo kỳ vọng tăng trưởng biên lợi nhuận, thu hút dòng tiền đầu cơ mạnh mẽ.
+  - Hành động: Chú ý giải ngân theo đà tăng (Breakout), quản trị rủi ro chặt chẽ nếu thanh khoản không tương xứng với kỳ vọng.
