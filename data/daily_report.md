@@ -1,25 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:50 - 01/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 03:15 ngày 01/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động vượt 9% gây áp lực chi phí vốn (COF):** Dòng tiền có xu hướng phân hóa mạnh, rút khỏi các kênh đầu tư rủi ro (BĐS, CK) để trú ẩn vào tiền gửi -> **Tiêu cực** cho nhóm Ngân hàng bán lẻ (TCB) và BĐS (VHM, PDR).
-- **Quy hoạch hành lang logistics cảng biển - sân bay Long Thành:** Tạo động lực tăng trưởng trung hạn cho hạ tầng vận tải -> **Tích cực** cho nhóm Cảng biển & Logistics (GMD, HAH).
-- **Thanh khoản liên ngân hàng dồi dào (lãi suất qua đêm 0,7%):** Đối trọng với lãi suất huy động, cung cấp thanh khoản ngắn hạn cho hệ thống -> **Tích cực** cho nhóm Chứng khoán (SSI) nhờ kỳ vọng nới lỏng margin.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Đẩy mạnh hạ tầng chiến lược:** Việc thành lập tổ công tác dự án đường vượt biển Cần Giờ - Vũng Tàu và quy hoạch hành lang logistics kết nối cảng biển với sân bay Long Thành tạo xung lực tăng trưởng mạnh cho nhóm Xây dựng Hạ tầng & Logistics. -> **Tác động: Tích cực** -> **Dòng tiền hướng vào:** Nhóm Xây dựng (VCG, HHV) và Cảng biển/Logistics (GMD, HAH).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: GMD, HAH**
-    - Động lực (FA): Hưởng lợi từ quy hoạch hành lang logistics chiến lược nối cảng biển và sân bay Long Thành.
-    - Nhận định dòng tiền: Dòng tiền đầu tư dài hạn sẽ luân chuyển vào nhóm hạ tầng khi hạ tầng giao thông bắt đầu triển khai.
-    - Hành động: **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: HAG**
-    - Động lực (FA): Nghị quyết đơn giản hóa thủ tục xuất khẩu nông sản (mã số vùng trồng) gỡ nút thắt doanh thu sầu riêng.
-    - Nhận định dòng tiền: Tin tức mang tính chất hỗ trợ cơ bản, kỳ vọng cải thiện biên lợi nhuận quý tới.
-    - Hành động: **Tiếp tục quan sát** khối lượng giao dịch tại vùng hỗ trợ.
-- **Mã: MSB**
-    - Động lực (FA): Lãi bán niên đạt 3.423 tỷ đồng, thể hiện sự ổn định trong bối cảnh chung còn khó khăn.
-    - Nhận định dòng tiền: Thu hút dòng tiền tìm kiếm "trú ẩn" tại các ngân hàng tầm trung có chỉ số tài chính lành mạnh.
-    - Hành động: **Tiếp tục quan sát**.
-- **Mã: VHM, PDR, TCB**
-    - Động lực (FA): Áp lực lãi suất huy động tăng vọt ảnh hưởng biên lợi nhuận và chi phí tài chính.
-    - Nhận định dòng tiền: Rủi ro chịu áp lực bán cơ cấu lại danh mục để tối ưu dòng tiền.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn khi lãi suất huy động tiếp tục duy trì đà tăng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **PNJ**
+- **Động lực (FA):** Công bố thông tin báo lỗ kỷ lục do trích lập dự phòng lớn cho việc mua lại hàng tồn kho (kim cương, vàng).
+- **Nhận định dòng tiền:** Áp lực bán tháo khả năng cao xuất hiện ngay đầu phiên do tâm lý hoảng loạn sau thông tin về quản trị rủi ro hàng tồn kho. 
+- **Hành động:** Rủi ro vi phạm kịch bản nắm giữ. Cần quan sát phản ứng tại các mốc hỗ trợ cứng hoặc chờ thông báo giải trình chi tiết từ doanh nghiệp; tránh bắt đáy trong trạng thái thông tin chưa minh bạch.
+
+- **Mã:** **VCG, HHV**
+- **Động lực (FA):** Thông tin thành lập tổ công tác đặc biệt hỗ trợ triển khai dự án hạ tầng lớn.
+- **Nhận định dòng tiền:** Đây là điểm hợp lưu hỗ trợ kỹ thuật mạnh, tạo kỳ vọng cho dòng tiền đầu cơ nhóm đầu tư công nhập cuộc.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền có sự xác nhận ở phiên sáng (Vol tăng vượt trung bình 20 phiên).
+
+- **Mã:** **GMD, HAH**
+- **Động lực (FA):** Quy hoạch hành lang logistics chiến lược cảng - sân bay.
+- **Nhận định dòng tiền:** Hưởng lợi dài hạn từ câu chuyện hạ tầng, dòng tiền thông minh có xu hướng tích lũy dần ở các nhịp điều chỉnh.
+- **Hành động:** Tiếp tục quan sát để gia tăng tỷ trọng khi có nhịp kiểm định cung cầu thành công.
