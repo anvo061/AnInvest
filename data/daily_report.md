@@ -1,23 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:45
+⏱ Thời gian: 18:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nới lỏng nguồn vốn giá rẻ:** Từ 01/08, ngân hàng được tiếp cận nguồn tiền gửi Kho bạc Nhà nước (KBNN) để cho vay -> [Tích cực] -> Dòng tiền ưu tiên nhóm **Ngân hàng quốc doanh (VCB, BID, CTG)** nhờ ưu thế chi phí vốn (COF) giảm, hỗ trợ NIM.
+- NHNN điều chỉnh cách tính tỷ lệ LDR (cho phép tính 50% tiền gửi kỳ hạn của Kho bạc vào nguồn huy động): **Tích cực** -> Giảm áp lực thanh khoản, mở rộng dư địa tăng trưởng tín dụng cho khối Ngân hàng thương mại trong nửa cuối năm.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MWG**
-    - Động lực (FA): Tiếp nhận dòng vốn 13.000 tỷ đồng, củng cố bảng cân đối kế toán.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn sẽ quay trở lại nhóm bán lẻ khi rủi ro tài chính giảm, tạo nền tảng cho sự phục hồi định giá.
-    - Hành động: Chú ý giải ngân khi có nhịp rung lắc tích lũy quanh vùng giá hiện tại.
-- **Mã: VIC, VHM**
-    - Động lực (FA): Lợi nhuận 6 tháng đạt hơn 20.000 tỷ đồng, xác nhận đà phục hồi thực tế.
-    - Nhận định dòng tiền: Hiệu ứng lan tỏa từ kết quả kinh doanh ấn tượng sẽ đóng vai trò trụ đỡ cho VN-Index trong bối cảnh thị trường điều chỉnh.
-    - Hành động: Tiếp tục quan sát đà bứt phá của dòng tiền khối ngoại tại các vùng cản tâm lý.
-- **Mã: VHC**
-    - Động lực (FA): Lợi nhuận "đi lùi", khoản phải thu tăng mạnh gây lo ngại về chất lượng tài sản.
-    - Nhận định dòng tiền: Tiêu cực. Áp lực bán khả năng gia tăng khi báo cáo tài chính xác nhận đà suy yếu của doanh nghiệp.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu mất hỗ trợ gần nhất.
-- **Mã: FRT, TAL**
-    - Động lực (FA): Trắng bên bán bất chấp VN-Index mất 9 điểm.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ cực mạnh và cô đặc, tách biệt khỏi vận động chung của thị trường.
-    - Hành động: Tiếp tục quan sát, chỉ giao dịch nếu có điểm "re-test" an toàn, tránh đuổi giá cao.
+- Mã: **TCB, MBB, VPB**
+  - Động lực (FA): Hưởng lợi trực tiếp từ thay đổi quy định LDR, giúp tối ưu hóa chi phí vốn và dư địa tín dụng.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sẽ tìm đến nhóm ngân hàng có tỷ lệ LDR căng thẳng trước đó để đón đầu kỳ nới room tín dụng.
+  - Hành động: **Chú ý giải ngân** theo chiến lược gom dần tại các vùng hỗ trợ kỹ thuật.
+- Mã: **MCH**
+  - Động lực (FA): Chính thức gia nhập rổ VN30, dự kiến thu hút ~2,2 triệu cổ phiếu từ các quỹ ETF.
+  - Nhận định dòng tiền: Lực cầu bị động (passive flow) sẽ tạo bệ đỡ cho giá trong ngắn hạn.
+  - Hành động: **Tiếp tục quan sát** phản ứng giá tại các phiên ETF cơ cấu.
+- Mã: **PC1**
+  - Động lực (FA): Ghi nhận dòng tiền lớn từ hoạt động đầu tư tài chính của các tổ chức khác, xác nhận vùng giá trị hấp dẫn.
+  - Nhận định dòng tiền: Củng cố niềm tin dòng tiền tổ chức, hỗ trợ xu hướng hồi phục.
+  - Hành động: **Tiếp tục quan sát** ngưỡng kháng cự gần nhất.
