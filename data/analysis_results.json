@@ -1,5 +1,87 @@
 ﻿[
   {
+    "Title": "TDM: Thông báo giao dịch quyền mua cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Chứng khoán Vietcap - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMTBhS3hHUW5nX09pSUhyZmpUdEhhMGZ4T2hlOVdDUWt2Z3RIM242RVh1OVhpdDQyS3BRT3RMUTlpd3o1dTVPUXlxRG5FSl9tYmdpV3U2YWI4a1JQT2NudkQtWnF4bjhKS19xY2RjT0ZMTUcxMXZ4T3FaaFllLVFtZGJ0SHBOWEQ2WE1UTXZ3a0hMMExvaGhCR3ZET1ZmY09yYW1KY2I5bWtROEFZRE9adm5zYkhMX2pUZ01FZHZ4dUs0NlctQzUteldQUjRwdHpyOEVhXzIzbzNMbkdQa1RUMjVITXNHY2N6MVJrQng4cGpONmU1cC1BZTB1RURKX3V4QmlQd0xjQm1SZG5s?oc=5",
+    "PubDate": "Thu, 30 Jul 2026 10:43:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin giao dịch quyền mua của tổ chức liên quan đến người nội bộ, mang tính chất quản trị và thay đổi sở hữu nội bộ, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TDM. Giao dịch quyền mua của tổ chức liên quan là hoạt động quản trị thông thường, không tạo ra biến động dòng tiền đột biến trên thị trường. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-01 21:21:17"
+  },
+  {
+    "Title": "VND: Báo cáo tình hình Quản trị công ty 6 tháng đầu năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlcyXzhxNFAtMFdwb0ZHQVF1WnNVVE5TY2xaVFJvX0dSWWtSempMRXNwcWhPTFlaazlEZ0JaVkxVVEZmVVVrYWIyYThNM0pNZVVyeU1vQ1RMeTcwR0lnbXNvWDRCekx1TUJDVTNxZEdYU3JocDVjWkxSMVQ2RnRibEQ2RVNpbW9DS25ENGUtVDBjSkhEMGw2RjRUOWhOaHYtNTc3R2FhVTAwc1ViVS1sbXhpNFFHbTEzSm80?oc=5",
+    "PubDate": "Fri, 31 Jul 2026 07:16:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là báo cáo định kỳ theo quy định công bố thông tin, không chứa đựng các thay đổi trọng yếu về chiến lược kinh doanh hay tài chính của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Chứng khoán. Báo cáo quản trị định kỳ là thủ tục hành chính, không tác động đến dòng tiền hay xu hướng giá của VND.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-01 21:21:07"
+  },
+  {
+    "Title": "Khu nghỉ dưỡng Sheraton hơn ngàn tỉ bỏ hoang giữa 'đất vàng' Phú Quốc",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/khu-nghi-duong-sheraton-hon-ngan-ti-bo-hoang-giua-dat-vang-phu-quoc-100260801165536469.htm",
+    "PubDate": "8/1/2026 6:51:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Thông tin về dự án bỏ hoang phản ánh rủi ro pháp lý và thanh khoản tại thị trường BĐS nghỉ dưỡng Phú Quốc, gây áp lực tâm lý lên các doanh nghiệp có quỹ đất lớn tại khu vực này.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - BĐS nghỉ dưỡng. Tin tức dự án bỏ hoang tại Phú Quốc làm gia tăng rủi ro pháp lý và thanh khoản. Dòng tiền sẽ thận trọng với các mã có dự án tại khu vực này.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "CEO",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có quỹ đất và dự án lớn tại Phú Quốc, chịu ảnh hưởng tâm lý từ rủi ro pháp lý chung của khu vực."
+      }
+    ],
+    "AnalyzedAt": "2026-08-01 21:20:53"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 22/7/2026: Lãi suất chứng chỉ tiền gửi 8,2%/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-22-7-2026-lai-suat-chung-chi-tien-gui-8-2-nam-2537950.html",
+    "PubDate": "Wed, 22 Jul 2026 10:28:49 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Lãi suất huy động cao gây áp lực lên chi phí vốn của các ngân hàng và làm giảm sức hấp dẫn tương đối của thị trường chứng khoán so với kênh gửi tiết kiệm.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động 8,2% gây áp lực lên chi phí vốn toàn thị trường, làm giảm sức hấp dẫn tương đối của cổ phiếu so với tiền gửi. Cần thận trọng với nhóm ngành sử dụng đòn bẩy cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vốn vay tăng gây áp lực lên biên lợi nhuận và khả năng hấp thụ nợ của doanh nghiệp BĐS."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Áp lực chi phí vốn tăng nhưng có thể cải thiện biên lãi thuần (NIM) nếu ngân hàng tăng lãi suất cho vay tương ứng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-01 21:20:27"
+  },
+  {
+    "Title": "Đào ‘mỏ vàng’ ngay trong bãi rác, biến đồ điện tử bỏ đi thành đất hiếm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dao-mo-vang-ngay-trong-bai-rac-bien-do-dien-tu-bo-di-thanh-dat-hiem-2539606.html",
+    "PubDate": "Sat, 01 Aug 2026 19:55:40 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về công nghệ tái chế rác thải điện tử, chưa có doanh nghiệp niêm yết nào tại Việt Nam triển khai quy mô công nghiệp hoặc ghi nhận doanh thu từ hoạt động này.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Môi trường. Công nghệ tái chế đất hiếm từ rác thải điện tử còn ở giai đoạn nghiên cứu, chưa tác động đến dòng tiền của các mã niêm yết hiện tại.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-01 21:20:16"
+  },
+  {
     "Title": "Vietnam Frees Its Gold Market But Shoppers Pause as Prices Dip - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0wweEE0emRxQ1hoVF80X0VhTThOTzhsdzdsaHplLWhhRmFubC1zUXl6ZWVlSkl0Q2ZWc2lxV1lKTXZmSHdBdzdOb0NKRXpmY01XTmdsOFdyX1RPSmN6THJVRTNRS3RmMzBPTTJrRHNuSHVqYXpBSVl2dTBwUUZiQ1VJU0hqX0stOUh0MDNrazF5bkVkS0xweTRWc05ycjM0NDJENFgtX3prNWlVczZ6R1pMVQ?oc=5",
@@ -18202,87 +18284,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-18 17:49:53"
-  },
-  {
-    "Title": "Trung tâm kinh tế hàng không - Đòn bẩy cho tăng trưởng đột phá",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/trung-tam-kinh-te-hang-khong-don-bay-cho-tang-truong-dot-pha-2536833.html",
-    "PubDate": "Sat, 18 Jul 2026 09:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc phát triển các trung tâm kinh tế hàng không thúc đẩy nhu cầu hạ tầng, logistics và dịch vụ sân bay, tạo động lực tăng trưởng dài hạn cho các doanh nghiệp trong hệ sinh thái hàng không và bất động sản khu công nghiệp lân cận.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chính sách dài hạn, thiếu lộ trình giải ngân cụ thể. Tác động dòng tiền ngắn hạn không rõ ràng. Theo dõi sát ACV.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "ACV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ việc mở rộng và nâng cấp hạ tầng sân bay theo quy hoạch trung tâm kinh tế."
-      }
-    ],
-    "AnalyzedAt": "2026-07-18 17:49:37"
-  },
-  {
-    "Title": "Vì sao chuyển khoản thành công nhưng tiền chưa vào tài khoản người nhận?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vi-sao-chuyen-khoan-thanh-cong-nhung-tien-chua-vao-tai-khoan-nguoi-nhan-2536824.html",
-    "PubDate": "Sat, 18 Jul 2026 09:21:21 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin giải đáp thắc mắc người dùng về quy trình vận hành hệ thống ngân hàng, không tác động đến kết quả kinh doanh hay vị thế thị trường của các ngân hàng niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Thông tin giải thích quy trình vận hành kỹ thuật thông thường, không ảnh hưởng đến dòng tiền hay biên lợi nhuận của các ngân hàng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-18 17:49:27"
-  },
-  {
-    "Title": "VDB đặt mục tiêu tăng trưởng tín dụng trong 6 tháng cuối năm 2026",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vdb-dat-muc-tieu-tang-truong-tin-dung-trong-6-thang-cuoi-nam-2026-2536896.html",
-    "PubDate": "Sat, 18 Jul 2026 14:00:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc Ngân hàng Phát triển Việt Nam (VDB) đẩy mạnh tín dụng hỗ trợ các dự án hạ tầng và công nghiệp trọng điểm, tạo hiệu ứng lan tỏa tích cực cho nhóm xây dựng hạ tầng và vật liệu xây dựng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Hạ tầng. VDB tăng tín dụng hỗ trợ dự án trọng điểm, kỳ vọng đẩy nhanh tiến độ giải ngân. Dòng tiền tập trung vào các nhà thầu có backlog lớn như VCG, HHV.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ việc đẩy mạnh giải ngân tín dụng cho các dự án hạ tầng giao thông trọng điểm."
-      },
-      {
-        "Ticker": "HHV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Được hỗ trợ nguồn vốn cho các dự án BOT và hạ tầng đang triển khai, cải thiện thanh khoản doanh nghiệp."
-      }
-    ],
-    "AnalyzedAt": "2026-07-18 17:49:13"
-  },
-  {
-    "Title": "Thủ tướng đề nghị doanh nghiệp góp ý thẳng, 'khen để dịp khác'",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/thu-tuong-de-nghi-doanh-nghiep-gop-y-thang-khen-de-dip-khac-5098870.html",
-    "PubDate": "Sat, 18 Jul 2026 11:06:15 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin mang tính chất chỉ đạo điều hành và đối thoại chính sách, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Thông tin mang tính chất hành chính và đối thoại chính sách, không tạo ra biến động dòng tiền tức thời trên bảng điện. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-18 17:49:03"
-  },
-  {
-    "Title": "Chủ tịch VCCI: Doanh nghiệp vẫn lo nhiều về rủi ro pháp lý",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/chu-tich-vcci-doanh-nghiep-van-lo-nhieu-ve-rui-ro-phap-ly-5098933.html",
-    "PubDate": "Sat, 18 Jul 2026 15:50:24 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin phản ánh tâm lý chung của cộng đồng doanh nghiệp về môi trường pháp lý, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết cụ thể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Thông tin mang tính chất định tính về môi trường kinh doanh, không tạo ra biến động dòng tiền tức thời trên bảng điện. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-18 17:48:54"
   }
 ]
