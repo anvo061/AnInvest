@@ -1,17 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:14:02 - 01/08/2026
+⏱ Thời gian: 16:35
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá gas bán lẻ trong nước tăng từ ngày 1-8 -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào nhóm ngành: Năng lượng, Phân phối khí đốt].
-- Nhập khẩu hạt điều thô vượt mốc 3 tỷ USD -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào nhóm ngành: Chế biến nông sản xuất khẩu].
+- Doanh thu dịch vụ BĐS tại Đà Nẵng tăng hơn 20% bất chấp lãi suất neo cao -> Đánh giá: Tích cực -> Dòng tiền sẽ hướng vào: Nhóm Bất động sản có quỹ đất khu vực miền Trung.
+- Giá gas bán lẻ điều chỉnh tăng từ 01/08 -> Đánh giá: Tích cực -> Dòng tiền sẽ hướng vào: Nhóm dầu khí hạ nguồn (GAS).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GAS**
-- Động lực (FA): Giá gas bán lẻ điều chỉnh tăng từ ngày 01/08.
-- Nhận định dòng tiền: Tin tức tác động trực tiếp lên biên lợi nhuận ngắn hạn, tạo kỳ vọng cải thiện kết quả kinh doanh quý III. Có khả năng thu hút dòng tiền đầu cơ nhóm năng lượng.
-- Hành động: Chú ý giải ngân (quan sát vùng hỗ trợ kỹ thuật gần nhất).
+- Mã: DXG
+- Động lực (FA): Doanh thu dịch vụ BĐS tại Đà Nẵng tăng trưởng mạnh (20%), xác nhận nhu cầu thực tại khu vực doanh nghiệp đang nắm giữ nhiều quỹ đất.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ chú ý vào DXG nhờ thông tin hỗ trợ về phục hồi thanh khoản cục bộ.
+- Hành động: Chú ý giải ngân (tăng tỷ trọng nếu thanh khoản phiên hiện tại duy trì trên mức trung bình 20 phiên).
 
-- Mã: **VIC**
-- Động lực (FA): Có tổ chức nông nghiệp thực hiện giải ngân 220 tỷ đồng mua cổ phiếu.
-- Nhận định dòng tiền: Lực cầu từ tổ chức tạo vùng đỡ tâm lý ngắn hạn, giảm áp lực cung vùng giá thấp.
-- Hành động: Tiếp tục quan sát (xác nhận xem dòng tiền này là tái cơ cấu danh mục hay là sự gia tăng tỷ trọng mang tính chiến lược của bên mua).
+- Mã: GAS
+- Động lực (FA): Giá gas bán lẻ tăng từ ngày 1/8 giúp cải thiện biên lợi nhuận cho các doanh nghiệp phân phối và kinh doanh khí.
+- Nhận định dòng tiền: Tác động tích cực đến tâm lý ngắn hạn, hỗ trợ đà tăng giá của GAS.
+- Hành động: Tiếp tục quan sát (theo dõi sát biến động cung cầu tại vùng cản kỹ thuật).
