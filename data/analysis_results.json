@@ -1,5 +1,61 @@
 ﻿[
   {
+    "Title": "Khối ngoại bán ròng 2.500 tỷ đồng tuần cuối tháng 7, ngược chiều \"gom\" mạnh một cổ phiếu của tỷ phú Phạm Nhật Vượng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaVVpbWFKNXBXV09jV1ZLMVJoWmEtVHdybVBNX3ptNVI5ejIzSjFENXk2NDlSM25fR3BCeVFZNGZEaGRQM2FPZjRkRHA3R2h3YmxvYU1ZRS02MFg3ajg1bTF0Y21EN0FCOXJYZE4td3FZNVAtVnNFX3BidXUtaDBLVTB3ZHo2WTFZS1RTYVpvWVFFMDI3b25WRmYtRW5QYm9XcHU5YlVpbWFJVmw1c2RmcGxPcGpiaHpwWm5CX2U2cmp1NUtQamhwVU1TVVU3UUdjMmhJOFpySWlsZmZ0Z0lhMC1yZnl4UQ?oc=5",
+    "PubDate": "Fri, 31 Jul 2026 18:42:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Áp lực bán ròng diện rộng từ khối ngoại gây tâm lý thận trọng cho thị trường chung, dù dòng tiền tập trung vào mã trụ cột của Vingroup giúp nâng đỡ chỉ số.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực bán ròng 2.500 tỷ đồng từ khối ngoại gây rủi ro thanh khoản diện rộng. Dòng tiền gom VIC/VHM chỉ mang tính cục bộ, không đủ bù đắp áp lực rút vốn chung.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Được khối ngoại mua ròng mạnh, tạo lực đỡ cho cổ phiếu và chỉ số chung."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu trụ cột của hệ sinh thái Vingroup, hưởng lợi từ dòng tiền khối ngoại tập trung."
+      }
+    ],
+    "AnalyzedAt": "2026-08-02 04:34:06"
+  },
+  {
+    "Title": "Giá xăng dầu hôm nay 16/7: Dầu thế giới đi lên, trong nước chiều nay điều chỉnh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-16-7-dau-the-gioi-di-len-trong-nuoc-chieu-nay-dieu-chinh-2536142.html",
+    "PubDate": "Thu, 16 Jul 2026 15:04:53 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá dầu tăng hỗ trợ biên lợi nhuận cho các doanh nghiệp thượng nguồn và trung nguồn trong ngành dầu khí, đồng thời phản ánh xu hướng hồi phục của giá năng lượng toàn cầu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu tăng gây áp lực lên chi phí đầu vào vận tải và sản xuất. BSR cần theo dõi sát biên lợi nhuận lọc dầu. Cần tái cơ cấu vị thế BSR do quá hạn trung hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-02 04:33:48"
+  },
+  {
+    "Title": "Vay 30 tỷ đồng, doanh nghiệp xin miễn lãi quá hạn nhưng vẫn phải trả hơn 10,5 tỷ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vay-30-ty-dong-doanh-nghiep-xin-mien-lai-qua-han-nhung-van-phai-tra-hon-10-5-ty-2536075.html",
+    "PubDate": "Thu, 16 Jul 2026 08:24:12 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là vụ việc tranh chấp dân sự/kinh tế đơn lẻ giữa một doanh nghiệp và ngân hàng, không phản ánh xu hướng vĩ mô hay rủi ro hệ thống của ngành ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động ngành. Đây là tranh chấp dân sự đơn lẻ, không ảnh hưởng đến biên lợi nhuận hay chất lượng tài sản của các ngân hàng niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-02 04:33:38"
+  },
+  {
     "Title": "SBS: Công văn của UBCKNN về hồ sơ đăng ký chào bán riêng lẻ của Công ty - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtvS25HQWk4WXhLNzBWVlZxYV9naGU2cTdBZmp6OEt3eDZqRjZyT0pkZUJTcXpZRl82UkJaT1B5dmVmMTA5SzFLRWo4VEc3NVFMX0ZSUGJVRF92SUE1TG1ZTWtKMkFaampEY3BmdjV5US13ajdmYXAtTGxjRlJSNFNCOS1fVklHQmhQblhVLXRqSk5KRzNybXd1NGlHX2FOYmgtcXVTZmF5NTZIUFJPWmxiZHB5V3Z6T2w4U2QwSTJDUEFGOVhncG5R?oc=5",
@@ -18222,71 +18278,5 @@
       }
     ],
     "AnalyzedAt": "2026-07-19 14:39:58"
-  },
-  {
-    "Title": "Nguồn cung mới tăng 33.000 sản phẩm, thị trường bất động sản 6 tháng cuối năm ra sao?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/nguon-cung-moi-tang-33000-san-pham-thi-truong-bat-dong-san-6-thang-cuoi-nam-ra-sao-100260719102929245.htm",
-    "PubDate": "7/19/2026 10:56:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Nguồn cung tăng mạnh cho thấy sự phục hồi của các dự án trọng điểm, giúp cải thiện thanh khoản và doanh thu cho các doanh nghiệp bất động sản trong nửa cuối năm.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Nguồn cung tăng 33.000 sản phẩm gây áp lực cạnh tranh về giá. Cần chọn lọc doanh nghiệp có dự án pháp lý sạch, tránh các mã đầu cơ theo tin tức vĩ mô chung.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nguồn cung lớn từ các đại dự án giúp duy trì vị thế dẫn đầu và đảm bảo doanh số bán hàng cuối năm."
-      },
-      {
-        "Ticker": "PDR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Các dự án mới được tháo gỡ pháp lý và đưa ra thị trường giúp cải thiện dòng tiền hoạt động kinh doanh."
-      },
-      {
-        "Ticker": "NLG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sản phẩm tập trung vào phân khúc nhà ở thực có nguồn cung mới giúp đẩy nhanh tốc độ ghi nhận doanh thu."
-      },
-      {
-        "Ticker": "KDH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Các dự án mới tại TP.HCM giúp củng cố biên lợi nhuận và tăng trưởng doanh thu trong nửa cuối năm."
-      }
-    ],
-    "AnalyzedAt": "2026-07-19 14:39:43"
-  },
-  {
-    "Title": "Doanh nghiệp Mỹ hiến kế giúp TP.HCM xây hệ sinh thái AI, bán dẫn",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/doanh-nghiep-my-hien-ke-giup-tphcm-xay-he-sinh-thai-ai-ban-dan-100260719110038533.htm",
-    "PubDate": "7/19/2026 11:22:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc hợp tác phát triển AI và bán dẫn tạo tiền đề thu hút FDI công nghệ cao, thúc đẩy nhu cầu hạ tầng CNTT và bất động sản khu công nghiệp tại TP.HCM.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng, chưa có cam kết vốn cụ thể. Cần theo dõi tiến độ thực tế trước khi giải ngân vào nhóm BĐS KCN.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp đầu ngành CNTT, hưởng lợi trực tiếp từ làn sóng đầu tư AI và chuyển đổi số tại Việt Nam."
-      }
-    ],
-    "AnalyzedAt": "2026-07-19 14:39:28"
-  },
-  {
-    "Title": "Siêu dự án gần 4 tỉ USD làm khu đô thị mới Bình Quới - Thanh Đa sẽ xây dựng những gì?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/sieu-du-an-gan-4-ti-usd-lam-khu-do-thi-moi-binh-quoi-thanh-da-se-xay-dung-nhung-gi-100260719120254169.htm",
-    "PubDate": "7/19/2026 12:30:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Dự án quy mô lớn tại TP.HCM tái khởi động tạo kỳ vọng về nguồn cung BĐS cao cấp và hạ tầng, tác động tích cực đến tâm lý nhóm cổ phiếu BĐS và xây dựng hạ tầng tại khu vực phía Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Dự án Bình Quới - Thanh Đa mang tính chất kỳ vọng dài hạn, chưa có tác động dòng tiền thực tế. Cần thận trọng với các tin tức mang tính chất quy hoạch kéo dài.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-19 14:39:13"
   }
 ]
