@@ -1,5 +1,87 @@
 ﻿[
   {
+    "Title": "SBS: Công văn của UBCKNN về hồ sơ đăng ký chào bán riêng lẻ của Công ty - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWtvS25HQWk4WXhLNzBWVlZxYV9naGU2cTdBZmp6OEt3eDZqRjZyT0pkZUJTcXpZRl82UkJaT1B5dmVmMTA5SzFLRWo4VEc3NVFMX0ZSUGJVRF92SUE1TG1ZTWtKMkFaampEY3BmdjV5US13ajdmYXAtTGxjRlJSNFNCOS1fVklHQmhQblhVLXRqSk5KRzNybXd1NGlHX2FOYmgtcXVTZmF5NTZIUFJPWmxiZHB5V3Z6T2w4U2QwSTJDUEFGOVhncG5R?oc=5",
+    "PubDate": "Fri, 31 Jul 2026 23:40:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc UBCKNN phản hồi hồ sơ chào bán riêng lẻ là bước tiến pháp lý quan trọng giúp SBS tăng vốn điều lệ, cải thiện năng lực tài chính và hạn mức cho vay margin.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SBS. Công văn UBCKNN chỉ là thủ tục hành chính, chưa đảm bảo thành công chào bán. Cần theo dõi tiến độ thực tế trước khi kỳ vọng dòng tiền.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SBS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn giúp cải thiện chỉ số tài chính và mở rộng quy mô hoạt động kinh doanh chứng khoán."
+      }
+    ],
+    "AnalyzedAt": "2026-08-02 03:39:43"
+  },
+  {
+    "Title": "Chủ đầu tư dự án khu dân cư Cồn Tân Lập Nha Trang bị phạt",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chu-dau-tu-du-an-khu-dan-cu-con-tan-lap-nha-trang-bi-phat-100260731214856032.htm",
+    "PubDate": "8/1/2026 8:07:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin xử phạt hành chính đối với một dự án cụ thể, không gây tác động trọng yếu đến hoạt động kinh doanh hay tài chính của các doanh nghiệp bất động sản niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Tin tức xử phạt hành chính đơn lẻ không làm thay đổi xu hướng dòng tiền ngành. Không có tác động đến các mã niêm yết.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-02 03:39:32"
+  },
+  {
+    "Title": "Siêu bão Dolphin dự kiến gây sóng, gió trên Biển Đông thế nào?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/sieu-bao-dolphin-du-kien-gay-song-gio-tren-bien-dong-the-nao-100260801082625628.htm",
+    "PubDate": "8/1/2026 8:50:00 AM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Bão lớn gây gián đoạn hoạt động khai thác dầu khí ngoài khơi và vận tải biển, làm chậm tiến độ các dự án hạ tầng hàng hải.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Bão gây đình trệ hoạt động khai thác ngoài khơi. Dòng tiền ngắn hạn thận trọng với PVD, PVS. GMD ít chịu ảnh hưởng trực tiếp từ bão Biển Đông.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Hoạt động khoan và khai thác ngoài khơi phải tạm dừng để đảm bảo an toàn, ảnh hưởng tiến độ dự án."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Các dịch vụ kỹ thuật dầu khí ngoài khơi bị gián đoạn do điều kiện thời tiết cực đoan."
+      }
+    ],
+    "AnalyzedAt": "2026-08-02 03:39:18"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 16/7/2026: Gửi 100 triệu, nhận 4,25 triệu sau 6 tháng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-16-7-2026-gui-100-trieu-nhan-4-25-trieu-sau-6-thang-2536176.html",
+    "PubDate": "Thu, 16 Jul 2026 10:00:37 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về lãi suất huy động thực tế không có biến động đột biến so với mặt bằng chung, phản ánh trạng thái thanh khoản ổn định của hệ thống ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Lãi suất huy động đi ngang cho thấy thanh khoản hệ thống ổn định. Không có tín hiệu dòng tiền dịch chuyển mạnh từ kênh tiết kiệm sang chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-02 03:39:07"
+  },
+  {
+    "Title": "Ngân hàng số xây dựng đội ngũ đồng hành cùng mô hình tăng trưởng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ngan-hang-so-xay-dung-doi-ngu-dong-hanh-cung-mo-hinh-tang-truong-2536203.html",
+    "PubDate": "Sun, 19 Jul 2026 23:11:53 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về quản trị nhân sự và định hướng phát triển nội bộ của một ngân hàng, không có tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các mã cổ phiếu ngân hàng trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Tin tức mang tính chất quản trị nội bộ, không tạo ra thay đổi về biên lợi nhuận hay dòng tiền đầu cơ ngắn hạn. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-02 03:38:58"
+  },
+  {
     "Title": "CCL: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0JFYUxRaDIyNVJQT0xXREFhblFsYTgtX1g5TFZpNUR4TlVDcHh0SDJoN3hUS3FqbG9oakRqYWNpUWlNUy0yVFprUDQwQ3RiWXdvYTNSeHZnRVdHNTVPSUY2RUREVTRleXprcnlBU1A4LVJrMjVwcHdqemZ5Y3l3LVpmbVVaeTNmMW1HTldROW96VUU5ZTEzcWJxYXRXSXREbERzc19YNHl5aTl5cnpSZWFORW9xZmhualVzYnN4U1ctc1E1YjRJUnlPQkw4dw?oc=5",
@@ -18206,97 +18288,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-19 14:39:13"
-  },
-  {
-    "Title": "Những khoản tiền lương, tiền công được miễn thuế thu nhập cá nhân từ năm 2026",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/nhung-khoan-tien-luong-tien-cong-duoc-mien-thue-thu-nhap-ca-nhan-tu-nam-2026-2536802.html",
-    "PubDate": "Sun, 19 Jul 2026 06:18:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là các quy định hành chính về thuế, không làm thay đổi đáng kể thu nhập khả dụng của người tiêu dùng hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Đây là quy định hành chính về thuế, không tác động trực tiếp đến dòng tiền doanh nghiệp. Không có tín hiệu giao dịch.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-19 14:39:03"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 19/7: Dầu thế giới có tuần tăng mạnh, trong nước đi lên",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-19-7-dau-the-gioi-co-tuan-tang-manh-trong-nuoc-di-len-2537000.html",
-    "PubDate": "Sun, 19 Jul 2026 09:02:45 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Giá dầu tăng hỗ trợ biên lợi nhuận khai thác của các doanh nghiệp thượng nguồn và tăng giá trị hàng tồn kho cho các doanh nghiệp phân phối, lọc hóa dầu.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá dầu neo cao hỗ trợ biên lợi nhuận thượng nguồn và giá trị tồn kho. Tập trung vào PVD, PVS, BSR.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu thuê giàn khoan và đơn giá dịch vụ khoan, cải thiện trực tiếp doanh thu."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác gia tăng khi giá dầu duy trì xu hướng tăng."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng giúp tăng giá trị hàng tồn kho và biên lợi nhuận lọc dầu trong ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-07-19 14:38:49"
-  },
-  {
-    "Title": "Giám đốc DN kim cương bị khởi tố là ai; động thái mạnh của Cục Thuế với nửa triệu DN",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/giam-doc-dn-kim-cuong-bi-khoi-to-la-ai-dong-thai-manh-voi-nua-trieu-dn-2537002.html",
-    "PubDate": "Sun, 19 Jul 2026 09:41:52 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về việc khởi tố cá nhân và các biện pháp hành chính thuế mang tính chất quản lý nhà nước, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Đây là tin tức quản lý hành chính và pháp luật cá nhân, không gây biến động dòng tiền lên các mã cổ phiếu niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-19 14:38:39"
-  },
-  {
-    "Title": "EU cấm các hãng thời trang tiêu hủy quần áo không bán được",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/eu-cam-cac-hang-thoi-trang-tieu-huy-quan-ao-khong-ban-duoc-5099127.html",
-    "PubDate": "Sun, 19 Jul 2026 13:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Quy định mới của EU gia tăng áp lực tuân thủ và chi phí vận hành cho các doanh nghiệp dệt may Việt Nam xuất khẩu sang thị trường này, buộc phải thay đổi quy trình quản lý tồn kho và logistics.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Quy định EU tác động dài hạn đến quản trị tồn kho, chưa ảnh hưởng tức thời đến biên lợi nhuận. Cần theo dõi khả năng chuyển dịch chi phí sang đối tác.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "TNG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực chi phí tuân thủ quy định môi trường EU tăng cao, ảnh hưởng biên lợi nhuận xuất khẩu."
-      },
-      {
-        "Ticker": "MSH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí quản lý hàng tồn kho và logistics tăng do quy định cấm tiêu hủy sản phẩm tại thị trường EU."
-      }
-    ],
-    "AnalyzedAt": "2026-07-19 14:38:23"
-  },
-  {
-    "Title": "Nhiều ngân hàng đóng tài khoản không đủ số dư",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/nhieu-ngan-hang-dong-tai-khoan-khong-du-so-du-5099153.html",
-    "PubDate": "Sun, 19 Jul 2026 14:10:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc rà soát và đóng các tài khoản không hoạt động giúp ngân hàng tối ưu hóa chi phí vận hành hệ thống, giảm rủi ro an ninh mạng và cải thiện chất lượng dữ liệu khách hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc đóng tài khoản không hoạt động là nghiệp vụ quản trị định kỳ, không tạo đột biến về doanh thu hay biên lợi nhuận. Tác động thực tế đến dòng tiền là không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-19 14:38:09"
   }
 ]

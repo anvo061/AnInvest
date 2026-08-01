@@ -1,25 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:55
+⏱ Thời gian: 03:45 - 02/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giá dầu thế giới duy trì xu hướng tăng:** -> Đánh giá: Tích cực cho nhóm thượng nguồn và dịch vụ dầu khí -> Dòng tiền sẽ ưu tiên các mã thuộc nhóm Dầu khí (PVS, PVD, BSR).
-- **Áp lực từ trích lập dự phòng tài chính:** -> Đánh giá: Tiêu cực đối với nhóm doanh nghiệp có danh mục đầu tư chứng khoán lớn (điển hình như REE) do áp lực bào mòn lợi nhuận ngắn hạn.
-- **Dòng tiền "Người mua trả tiền trước" ngành BĐS cải thiện:** -> Đánh giá: Tích cực cho nhóm BĐS có dự án trọng điểm, giúp tối ưu hóa chi phí vốn.
+- **Thời tiết cực đoan (Siêu bão Dolphin):** Dự báo gián đoạn khai thác ngoài khơi -> **Tiêu cực** -> Dòng tiền tạm thời rút khỏi nhóm Dịch vụ dầu khí.
+- **Dòng tiền người mua trả tiền trước (BĐS):** Lượng tiền cọc lớn đảm bảo doanh thu tương lai -> **Tích cực** -> Dòng tiền kỳ vọng xoay chuyển vào nhóm BĐS có quỹ đất sạch và tiến độ bán hàng tốt.
+- **Biến động giá dầu:** Giá dầu thế giới tăng cao -> **Tích cực** -> Hỗ trợ biên lợi nhuận nhóm Dầu khí (bất chấp rủi ro thời tiết ngắn hạn).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD, PVS
-  - Động lực (FA): Giá dầu thế giới tăng, cải thiện giá thuê giàn khoan và hiệu suất dự án.
-  - Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng giá ngắn hạn; dòng tiền có khả năng xoay trục vào nhóm này để tìm kiếm biên lợi nhuận trong bối cảnh vĩ mô biến động.
-  - Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu củng cố trên đồ thị kỹ thuật.
-- **Mã:** VHM, PDR
-  - Động lực (FA): Chỉ số "Người mua trả tiền trước" khả quan, đảm bảo nguồn thu và giảm áp lực nợ vay.
-  - Nhận định dòng tiền: Phản ứng tích cực, củng cố nền tảng cơ bản cho các vị thế nắm giữ.
-  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi có điểm re-test hỗ trợ.
-- **Mã:** REE
+- **Mã: PVD**
+  - Động lực (FA): Siêu bão Dolphin làm gián đoạn vận hành giàn khoan nhưng giá dầu neo cao hỗ trợ giá thuê.
+  - Nhận định dòng tiền: Áp lực chốt lời ngắn hạn do tin bão có thể lấn át động lực từ giá dầu.
+  - Hành động: Tiếp tục quan sát, ưu tiên giữ vị thế, chưa gia tăng tỷ trọng cho đến khi bão tan.
+- **Mã: VHM, PDR**
+  - Động lực (FA): Sở hữu lượng "Người mua trả tiền trước" lớn, đảm bảo dòng tiền doanh nghiệp ổn định.
+  - Nhận định dòng tiền: Củng cố niềm tin dòng tiền trung hạn, dòng tiền thông minh có khả năng tìm đến các mã này để trú ẩn.
+  - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật.
+- **Mã: SBS**
+  - Động lực (FA): UBCKNN phản hồi hồ sơ chào bán riêng lẻ, mở đường tăng vốn.
+  - Nhận định dòng tiền: Tích cực, kỳ vọng tăng tính thanh khoản cho cổ phiếu sau khi năng lực cho vay margin được cải thiện.
+  - Hành động: Chú ý giải ngân theo sát hỗ trợ cứng.
+- **Mã: REE**
   - Động lực (FA): Áp lực trích lập dự phòng giảm giá chứng khoán kinh doanh.
-  - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do tâm lý nhà đầu tư e ngại lợi nhuận suy giảm.
-  - Hành động: Rủi ro vi phạm kịch bản, cần đánh giá lại vùng hỗ trợ cứng.
+  - Nhận định dòng tiền: Tiêu cực, dòng tiền có thể thoái lui do lo ngại hiệu quả lợi nhuận tài chính suy giảm.
+  - Hành động: Rủi ro vi phạm kịch bản, cân nhắc giảm tỷ trọng nếu thủng vùng hỗ trợ.
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - **Mã: BSR**
-  - Nhận định: Dữ liệu giá dầu tăng là yếu tố bổ trợ tốt cho biên lợi nhuận lọc dầu. Tuy nhiên, do đã qua thời điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại xác nhận BSR vẫn giữ được giá trị nội tại trong bối cảnh giá dầu thế giới tăng. Khuyến nghị: **Tiếp tục nắm giữ**, chưa cần cơ cấu lại danh mục nhưng cần theo dõi sát biên lợi nhuận lọc dầu trong báo cáo quý gần nhất.
+  - Nhận định: Dữ liệu giá dầu thế giới tăng là tín hiệu hỗ trợ quan trọng cho biên lợi nhuận lọc dầu. Với vị thế đã qua điểm rơi trung hạn, đây là thời điểm tối ưu để tái đánh giá: Nếu giá dầu tiếp tục neo cao, giữ tiếp để tối đa hóa lợi nhuận kỳ vọng cuối kỳ; ngược lại, nếu biên lợi nhuận lọc dầu (crack spread) thu hẹp, cần chủ động chốt lời để xoay chuyển vốn sang các mã BĐS có dòng tiền "người mua trả tiền trước" an toàn hơn.
