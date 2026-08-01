@@ -1,16 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 01:45 - 02/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 02:55
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Hàng hóa hàng không:** Chính phủ thúc đẩy phát triển đội bay chở hàng chuyên dụng -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm logistics hạ tầng hàng không (ACV, SGN, NCT).
-- **Xuất khẩu Nông nghiệp:** Gỡ vướng mã số vùng trồng sầu riêng -> **Tích cực** -> Nhóm cổ phiếu nông nghiệp có quỹ đất/vùng nguyên liệu lớn hưởng lợi.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Giá dầu thế giới duy trì xu hướng tăng:** -> Đánh giá: Tích cực cho nhóm thượng nguồn và dịch vụ dầu khí -> Dòng tiền sẽ ưu tiên các mã thuộc nhóm Dầu khí (PVS, PVD, BSR).
+- **Áp lực từ trích lập dự phòng tài chính:** -> Đánh giá: Tiêu cực đối với nhóm doanh nghiệp có danh mục đầu tư chứng khoán lớn (điển hình như REE) do áp lực bào mòn lợi nhuận ngắn hạn.
+- **Dòng tiền "Người mua trả tiền trước" ngành BĐS cải thiện:** -> Đánh giá: Tích cực cho nhóm BĐS có dự án trọng điểm, giúp tối ưu hóa chi phí vốn.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** PVD, PVS, GAS, BSR
-- **Động lực (FA):** Giá dầu thế giới tiếp đà tăng, tuy nhiên dòng tiền kỹ thuật đang có dấu hiệu bán tháo do lo ngại đạt đỉnh biên lợi nhuận.
-- **Nhận định dòng tiền:** Dòng tiền đang có sự phân kỳ giữa kỳ vọng cơ bản (giá dầu tăng) và áp lực chốt lời kỹ thuật ngắn hạn.
-- **Hành động:** Quan sát vùng hỗ trợ cứng. Tránh giải ngân đuổi khi tâm lý thị trường đang ưu tiên chốt lời.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** PVD, PVS
+  - Động lực (FA): Giá dầu thế giới tăng, cải thiện giá thuê giàn khoan và hiệu suất dự án.
+  - Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng giá ngắn hạn; dòng tiền có khả năng xoay trục vào nhóm này để tìm kiếm biên lợi nhuận trong bối cảnh vĩ mô biến động.
+  - Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu củng cố trên đồ thị kỹ thuật.
+- **Mã:** VHM, PDR
+  - Động lực (FA): Chỉ số "Người mua trả tiền trước" khả quan, đảm bảo nguồn thu và giảm áp lực nợ vay.
+  - Nhận định dòng tiền: Phản ứng tích cực, củng cố nền tảng cơ bản cho các vị thế nắm giữ.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi có điểm re-test hỗ trợ.
+- **Mã:** REE
+  - Động lực (FA): Áp lực trích lập dự phòng giảm giá chứng khoán kinh doanh.
+  - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do tâm lý nhà đầu tư e ngại lợi nhuận suy giảm.
+  - Hành động: Rủi ro vi phạm kịch bản, cần đánh giá lại vùng hỗ trợ cứng.
 
-🔄 **3. Cảnh báo Tái cơ cấu (EIB, BSR):**
-- **EIB:** Tin tức bất ổn nhân sự cấp cao là tín hiệu rủi ro quản trị nghiêm trọng. Khuyến nghị **Cơ cấu lại/Giảm tỷ trọng** để bảo toàn vốn, chờ sự ổn định về cấu trúc thượng tầng.
-- **BSR:** Dòng tiền đang rút khỏi nhóm dầu khí, cần theo dõi sát mốc hỗ trợ kỹ thuật. Nếu giá thủng các vùng hỗ trợ quan trọng, ưu tiên **Cơ cấu dòng tiền** sang các ngành đang có xung lực chính sách hỗ trợ rõ nét (Logistics/Nông nghiệp) để tối ưu hiệu quả vốn.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Nhận định: Dữ liệu giá dầu tăng là yếu tố bổ trợ tốt cho biên lợi nhuận lọc dầu. Tuy nhiên, do đã qua thời điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại xác nhận BSR vẫn giữ được giá trị nội tại trong bối cảnh giá dầu thế giới tăng. Khuyến nghị: **Tiếp tục nắm giữ**, chưa cần cơ cấu lại danh mục nhưng cần theo dõi sát biên lợi nhuận lọc dầu trong báo cáo quý gần nhất.
