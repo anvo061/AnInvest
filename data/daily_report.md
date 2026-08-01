@@ -1,31 +1,17 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 23:45 - 01/08/2026
+⏱ **Thời gian:** 00:50
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Ngân hàng:** TCB đạt lợi nhuận kỷ lục Quý II/2026 -> **Tích cực** -> Củng cố sức mạnh dòng tiền vào nhóm Ngân hàng thương mại cổ phần lớn.
-- **Bất động sản:** Áp lực đáo hạn trái phiếu 60.000 tỷ đồng nửa cuối năm 2026 -> **Tiêu cực** -> Rủi ro thanh khoản nhóm BĐS dân cư, phân hóa mạnh theo năng lực tài chính.
-- **Dịch vụ môi giới BĐS:** Rủi ro truy thu thuế -> **Tiêu cực** -> Áp lực lên biên lợi nhuận nhóm doanh nghiệp dịch vụ/môi giới.
-- **Bán lẻ:** MWG (công ty con ĐMX chào sàn) -> **Tích cực** -> Định giá lại tài sản (re-rating) nhóm Bán lẻ tiêu dùng.
-- **Nông nghiệp:** Đơn giản hóa thủ tục xuất khẩu sầu riêng -> **Tích cực** -> Cải thiện biên lợi nhuận nhóm nông nghiệp xuất khẩu.
+- **Phát triển đội bay chở hàng chuyên dụng:** Động thái thúc đẩy hạ tầng logistics hàng không -> **Tích cực** -> Dòng tiền hướng vào nhóm ngành: **Dịch vụ hàng không, Logistics (ACV, SGN, NCT).**
+- **Áp lực nợ trái phiếu BĐS:** 60.000 tỷ đồng trái phiếu đáo hạn nửa cuối 2026 -> **Tiêu cực** -> Dòng tiền cần thận trọng với nhóm: **Bất động sản (NVL, PDR).**
+- **Kết quả kinh doanh ngân hàng suy giảm:** Áp lực nợ xấu và tăng trưởng tín dụng chậm -> **Tiêu cực** -> Dòng tiền cần thận trọng với nhóm: **Ngân hàng (VCB, TCB, MBB, VPB, STB).**
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: TCB**
-    - **Động lực (FA):** Lãi kỷ lục Quý II/2026, vượt kỳ vọng thị trường.
-    - **Nhận định dòng tiền:** Gia tăng kỳ vọng, khả năng hút dòng tiền dẫn dắt nhóm ngân hàng phiên tới.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh trong phiên.
-- **Mã: NVL, PDR**
-    - **Động lực (FA):** Áp lực đáo hạn trái phiếu 60.000 tỷ đồng (2H/2026).
-    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do rủi ro thanh khoản.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng tối đa.
-- **Mã: HAG**
-    - **Động lực (FA):** Chính sách thủ tục xuất khẩu sầu riêng thông thoáng hơn.
-    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp, dòng tiền kỳ vọng tăng trưởng biên lợi nhuận.
-    - **Hành động:** Tiếp tục quan sát đà tăng.
-- **Mã: DXG, CRE**
-    - **Động lực (FA):** Đối diện diện truy thu thuế.
-    - **Nhận định dòng tiền:** Tiêu cực ngắn hạn do rủi ro pháp lý và tài chính.
-    - **Hành động:** Tiếp tục quan sát, ưu tiên bảo toàn vốn.
-- **Mã: MWG**
-    - **Động lực (FA):** Công ty con ĐMX lên sàn, vốn hóa lớn.
-    - **Nhận định dòng tiền:** Tích cực từ việc định giá lại tài sản.
-    - **Hành động:** Chú ý giải ngân.
+- **Mã: PVD, PVS**
+    - **Động lực (FA):** Phân kỳ giữa giá dầu tăng (thúc đẩy nhu cầu thăm dò/khoan) và áp lực bán kỹ thuật/tâm lý chốt lời.
+    - **Nhận định dòng tiền:** Dòng tiền đang có sự giằng co giữa kỳ vọng lợi nhuận từ giá dầu neo cao và rủi ro chậm tiến độ dự án.
+    - **Hành động:** **Tiếp tục quan sát.** Chỉ giải ngân nếu có tín hiệu dòng tiền tạo đáy kỹ thuật tại các vùng hỗ trợ cứng, tránh bắt dao rơi khi áp lực bán tháo còn chiếm ưu thế.
+
+🔄 **3. Cảnh báo Tái cơ cấu (EIB, BSR):**
+- **EIB:** Tin tức bất ổn nhân sự cấp cao lặp lại gây rủi ro quản trị nghiêm trọng. Khuyến nghị **Cơ cấu lại/Giảm tỷ trọng** để tránh rủi ro biến động không kiểm soát trong ngắn hạn.
+- **BSR:** Chịu áp lực kép từ biến động giá dầu và tâm lý chốt lời theo nhóm ngành. Theo dõi vùng hỗ trợ giá. Nếu dữ liệu lợi nhuận quý tới không đột phá, cần **cân nhắc đảo dòng tiền** sang các mã có câu chuyện tăng trưởng rõ ràng hơn trong quý IV.
