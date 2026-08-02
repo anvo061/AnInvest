@@ -1,25 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 23:50 ngày 02/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 00:50 - 03/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thị trường mới nổi (Emerging Markets) suy yếu:** Áp lực rút vốn ngoại từ các quỹ ETF đang gia tăng do tâm lý tiêu cực bao trùm các thị trường EM -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi các mã trụ cột vốn hóa lớn (VCB, VHM, VIC, MSN).
-- **Giá dầu thế giới duy trì xu hướng tăng:** Đẩy mạnh kỳ vọng biên lợi nhuận cho nhóm thượng nguồn và lọc hóa dầu -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí (PVD, PVS, BSR).
-- **Đẩy nhanh tiến độ cấp mã vùng trồng sầu riêng xuất khẩu:** Giúp chuẩn hóa và tăng sản lượng chính ngạch sang Trung Quốc -> **Tích cực** -> Dòng tiền hướng vào nhóm Nông nghiệp (HAG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tăng trưởng địa phương:** Quảng Ninh đặt mục tiêu tăng trưởng 13% thông qua thúc đẩy đầu tư công và hạ tầng -> **Tích cực** -> Nhóm Bất động sản khu công nghiệp và Xây dựng hạ tầng tại phía Bắc.
+- **Xuất khẩu nông sản:** Đẩy nhanh tiến độ cấp mã vùng trồng sầu riêng sang Trung Quốc -> **Tích cực** -> Nhóm Nông nghiệp có quy mô xuất khẩu lớn.
+- **Năng lượng:** Giá dầu thế giới tăng cao -> **Tích cực** -> Nhóm Dịch vụ dầu khí (thượng nguồn).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: HAG**
-    - Động lực (FA): Cơ hội tăng biên lợi nhuận nhờ đẩy nhanh mã vùng trồng sầu riêng xuất khẩu chính ngạch.
-    - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp lên doanh thu, tạo điểm tựa tâm lý tích cực ngắn hạn.
-    - Hành động: Chú ý giải ngân nếu xuất hiện sự đồng thuận về khối lượng.
-- **Mã: PVD, PVS**
-    - Động lực (FA): Giá dầu thế giới tăng mạnh, thúc đẩy nhu cầu và đơn giá dịch vụ khai thác.
-    - Nhận định dòng tiền: Duy trì sức mạnh dòng tiền nhờ sự ổn định của giá hàng hóa đầu vào.
-    - Hành động: Tiếp tục quan sát để tối ưu điểm mua gia tăng khi giá dầu giữ ổn định mức cao.
-- **Mã: STB**
-    - Động lực (FA): Sụt giảm lợi nhuận mạnh do trích lập dự phòng rủi ro tín dụng.
-    - Nhận định dòng tiền: Gây áp lực bán mạnh trong ngắn hạn, tiêu cực cho cấu trúc giá hiện tại.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy khi áp lực trích lập chưa hạ nhiệt.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-    - Nhận định: Giá dầu thế giới tăng mạnh là dữ liệu hỗ trợ tích cực cho biên lợi nhuận lọc hóa dầu. Mặc dù đã qua thời điểm rơi kỳ vọng tháng 3/2026, nhưng với bối cảnh giá dầu hiện tại, vị thế nên được giữ để quan sát thêm động lực từ lợi nhuận quý, chưa cần thiết phải đảo dòng tiền ngay lập tức nếu chưa vi phạm ngưỡng hỗ trợ kỹ thuật.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** HAG
+  - Động lực (FA): Việc chuẩn hóa và đẩy nhanh tiến độ cấp mã vùng trồng sầu riêng giúp gia tăng sản lượng xuất khẩu chính ngạch sang Trung Quốc.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức tập trung vào các doanh nghiệp có chuỗi giá trị nông sản khép kín, cải thiện biên lợi nhuận kỳ vọng.
+  - Hành động: **Chú ý giải ngân** theo đà tăng kỹ thuật nếu có xác nhận khối lượng.
+- **Mã:** PVD
+  - Động lực (FA): Giá dầu thế giới neo cao thúc đẩy nhu cầu thuê giàn khoan và cải thiện đơn giá dịch vụ.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ nhạy sóng thường phản ứng tức thời với đà tăng giá dầu, củng cố vị thế ngắn hạn.
+  - Hành động: **Tiếp tục quan sát** phản ứng của vùng hỗ trợ gần nhất, ưu tiên nắm giữ.
+- **Mã:** ACV
+  - Động lực (FA): Tối ưu hóa hơn 2.300 nhân sự giúp tiết giảm chi phí quản lý doanh nghiệp.
+  - Nhận định dòng tiền: Cải thiện biên lợi nhuận thuần, phù hợp với các chiến lược đầu tư giá trị (Value Investing) trong bối cảnh thị trường hồi phục.
+  - Hành động: **Chú ý giải ngân** cho mục tiêu trung hạn.
