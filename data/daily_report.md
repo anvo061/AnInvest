@@ -1,20 +1,22 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 01:50 ngày 03/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 03:00 - 03/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Fed giữ nguyên lãi suất:** Giảm áp lực tỷ giá, tạo dư địa cho NHNN Việt Nam duy trì chính sách tiền tệ nới lỏng -> **Tích cực** -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng, Chứng khoán) nhờ kỳ vọng thanh khoản cải thiện và chi phí vốn ổn định.
-- **Áp lực lãi suất huy động:** Các ngân hàng ngoại neo lãi suất cao tạo sức ép cạnh tranh lãi suất nội địa -> **Tiêu cực nhẹ** -> Cần theo dõi biên lãi ròng (NIM) của nhóm Ngân hàng quy mô vừa/nhỏ.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Fed giữ nguyên lãi suất:** Giảm áp lực tỷ giá, tạo dư địa cho NHNN duy trì chính sách tiền tệ nới lỏng, hỗ trợ tâm lý thị trường chứng khoán. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI)** và **Ngân hàng (VCB, TCB)**.
+- **Hạ nhiệt căng thẳng Mỹ - Iran:** Giảm rủi ro địa chính trị toàn cầu, ổn định tỷ giá và giá hàng hóa thiết yếu trong nước. -> **Tích cực** -> Giảm áp lực chi phí đầu vào cho các nhóm ngành chịu ảnh hưởng từ tỷ giá.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **SSI, VCB, TCB**
-  - **Động lực (FA):** Fed giữ nguyên lãi suất giúp ổn định tỷ giá và thanh khoản hệ thống.
-  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ tâm lý thị trường hồi phục và chi phí vốn được kiểm soát.
-  - **Hành động:** Chú ý giải ngân tại các vùng hỗ trợ cứng nếu thanh khoản thị trường chung xác nhận xu hướng tăng trong phiên.
-- **Mã:** **VEA**
-  - **Động lực (FA):** Vị thế vững chắc trong chuỗi cung ứng linh kiện FDI (Honda, Ford, Toyota), dòng tiền ổn định từ cổ tức.
-  - **Nhận định dòng tiền:** Hưởng lợi từ sự ổn định ngành sản xuất ô tô.
-  - **Hành động:** Tiếp tục quan sát, ưu tiên nắm giữ do nền tảng cơ bản mạnh.
-- **Mã:** **ACV**
-  - **Động lực (FA):** Tối ưu hóa bộ máy nhân sự (cắt giảm >2.300 người).
-  - **Nhận định dòng tiền:** Tích cực trong trung hạn nhờ cải thiện biên lợi nhuận vận hành.
-  - **Hành động:** Tiếp tục quan sát phản ứng giá tại vùng cản kỹ thuật.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: SSI**
+    - Động lực (FA): Hưởng lợi trực tiếp từ việc Fed giữ nguyên lãi suất, kỳ vọng thanh khoản thị trường hồi phục.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và nhà đầu tư cá nhân quay trở lại khi tâm lý ổn định.
+    - Hành động: Chú ý giải ngân tại các nhịp rung lắc kỹ thuật.
+
+- **Mã: VCB, TCB**
+    - Động lực (FA): Áp lực tỷ giá hạ nhiệt giúp giảm rủi ro trích lập dự phòng và ổn định chi phí vốn (Cost of Funds).
+    - Nhận định dòng tiền: Củng cố vị thế nhóm dẫn dắt trong giai đoạn ổn định vĩ mô.
+    - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có tín hiệu dòng tiền vào mạnh ở vùng giá hỗ trợ.
+
+- **Mã: VEA**
+    - Động lực (FA): Sự tăng trưởng mạnh mẽ của các đối tác FDI trong chuỗi cung ứng linh kiện ô tô (Honda, Ford, Toyota) củng cố vị thế của VEAM.
+    - Nhận định dòng tiền: Tiềm năng tăng trưởng ổn định trong dài hạn thu hút dòng tiền bền vững.
+    - Hành động: Tiếp tục quan sát nhịp tích lũy trước khi mở vị thế mua mới.
