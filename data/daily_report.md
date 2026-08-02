@@ -1,21 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:50 - 03/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 01:50 ngày 03/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng địa phương:** Quảng Ninh đặt mục tiêu tăng trưởng 13% thông qua thúc đẩy đầu tư công và hạ tầng -> **Tích cực** -> Nhóm Bất động sản khu công nghiệp và Xây dựng hạ tầng tại phía Bắc.
-- **Xuất khẩu nông sản:** Đẩy nhanh tiến độ cấp mã vùng trồng sầu riêng sang Trung Quốc -> **Tích cực** -> Nhóm Nông nghiệp có quy mô xuất khẩu lớn.
-- **Năng lượng:** Giá dầu thế giới tăng cao -> **Tích cực** -> Nhóm Dịch vụ dầu khí (thượng nguồn).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Fed giữ nguyên lãi suất:** Giảm áp lực tỷ giá, tạo dư địa cho NHNN Việt Nam duy trì chính sách tiền tệ nới lỏng -> **Tích cực** -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng, Chứng khoán) nhờ kỳ vọng thanh khoản cải thiện và chi phí vốn ổn định.
+- **Áp lực lãi suất huy động:** Các ngân hàng ngoại neo lãi suất cao tạo sức ép cạnh tranh lãi suất nội địa -> **Tiêu cực nhẹ** -> Cần theo dõi biên lãi ròng (NIM) của nhóm Ngân hàng quy mô vừa/nhỏ.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** HAG
-  - Động lực (FA): Việc chuẩn hóa và đẩy nhanh tiến độ cấp mã vùng trồng sầu riêng giúp gia tăng sản lượng xuất khẩu chính ngạch sang Trung Quốc.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức tập trung vào các doanh nghiệp có chuỗi giá trị nông sản khép kín, cải thiện biên lợi nhuận kỳ vọng.
-  - Hành động: **Chú ý giải ngân** theo đà tăng kỹ thuật nếu có xác nhận khối lượng.
-- **Mã:** PVD
-  - Động lực (FA): Giá dầu thế giới neo cao thúc đẩy nhu cầu thuê giàn khoan và cải thiện đơn giá dịch vụ.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ nhạy sóng thường phản ứng tức thời với đà tăng giá dầu, củng cố vị thế ngắn hạn.
-  - Hành động: **Tiếp tục quan sát** phản ứng của vùng hỗ trợ gần nhất, ưu tiên nắm giữ.
-- **Mã:** ACV
-  - Động lực (FA): Tối ưu hóa hơn 2.300 nhân sự giúp tiết giảm chi phí quản lý doanh nghiệp.
-  - Nhận định dòng tiền: Cải thiện biên lợi nhuận thuần, phù hợp với các chiến lược đầu tư giá trị (Value Investing) trong bối cảnh thị trường hồi phục.
-  - Hành động: **Chú ý giải ngân** cho mục tiêu trung hạn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **SSI, VCB, TCB**
+  - **Động lực (FA):** Fed giữ nguyên lãi suất giúp ổn định tỷ giá và thanh khoản hệ thống.
+  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ tâm lý thị trường hồi phục và chi phí vốn được kiểm soát.
+  - **Hành động:** Chú ý giải ngân tại các vùng hỗ trợ cứng nếu thanh khoản thị trường chung xác nhận xu hướng tăng trong phiên.
+- **Mã:** **VEA**
+  - **Động lực (FA):** Vị thế vững chắc trong chuỗi cung ứng linh kiện FDI (Honda, Ford, Toyota), dòng tiền ổn định từ cổ tức.
+  - **Nhận định dòng tiền:** Hưởng lợi từ sự ổn định ngành sản xuất ô tô.
+  - **Hành động:** Tiếp tục quan sát, ưu tiên nắm giữ do nền tảng cơ bản mạnh.
+- **Mã:** **ACV**
+  - **Động lực (FA):** Tối ưu hóa bộ máy nhân sự (cắt giảm >2.300 người).
+  - **Nhận định dòng tiền:** Tích cực trong trung hạn nhờ cải thiện biên lợi nhuận vận hành.
+  - **Hành động:** Tiếp tục quan sát phản ứng giá tại vùng cản kỹ thuật.
