@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "Giá vàng SJC tiếp tục bốc hơi, liệu có cú sốc mới cho vàng?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-sjc-tiep-tuc-boc-hoi-lieu-co-cu-soc-moi-cho-vang-2535402.html",
+    "PubDate": "Tue, 14 Jul 2026 08:14:41 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng SJC chủ yếu chịu sự điều tiết hành chính của NHNN, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Giá vàng SJC biến động do chính sách quản lý, không tạo ra dòng tiền dịch chuyển sang các mã cổ phiếu niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-02 22:34:52"
+  },
+  {
+    "Title": "Bị từ chối đầu tư, chợ hàng nghìn mét vuông vẫn sừng sững mọc lên ở Thanh Hóa",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/thanh-hoa-bi-tu-choi-dau-tu-cho-hang-nghin-met-vuong-van-moc-len-trai-phep-2534368.html",
+    "PubDate": "Tue, 14 Jul 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là tin tức về vi phạm trật tự xây dựng tại địa phương, không có tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Tin tức vi phạm hành chính tại địa phương không tác động đến dòng tiền của các doanh nghiệp niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-02 22:34:42"
+  },
+  {
+    "Title": "Lý do sụt giảm nghìn tỷ lợi nhuận tại Sacombank",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ly-do-sacombank-giam-loi-nhuan-gan-nua-nghin-ty-boc-hoi-2535313.html",
+    "PubDate": "Tue, 14 Jul 2026 06:00:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc sụt giảm lợi nhuận do tăng trích lập dự phòng rủi ro phản ánh áp lực nợ xấu và chi phí tín dụng cao, gây tâm lý thận trọng cho nhà đầu tư đối với nhóm ngân hàng có chất lượng tài sản chưa ổn định.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Ngành Ngân hàng. Lợi nhuận sụt giảm do tăng trích lập dự phòng gây áp lực lên định giá. Dòng tiền thông minh sẽ tạm thời rút khỏi STB và các mã ngân hàng có nợ xấu cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lợi nhuận giảm mạnh do tăng trích lập dự phòng, gây áp lực bán ngắn hạn lên cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-02 22:34:28"
+  },
+  {
     "Title": "Ugly Month in Emerging Markets May Be a Taste of What’s Ahead - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1RoMmt4bTlYeC1iTVdGUGNlRXRUN1FZTXloV0lkMG9iaktOa0JwUUZmQ1h5Rmk5MElSVnQtYUFKWmRaUUJKR2RXZU80OXF6cFc1QkQ0ZzYzT0lkODBXcFZHRk5jOFVOXzc5Uy1LbndPbEFMNGVTaTFqcnhLTGxWdjVad1JmVEZ4SEV6MHFlWGlhRnRqbklRSXItUkQ4bWlaQnVzOXlSWjRoWEktckUwRXdR?oc=5",
@@ -18025,65 +18070,5 @@
       }
     ],
     "AnalyzedAt": "2026-07-20 17:32:41"
-  },
-  {
-    "Title": "Xe điện không cần bằng lái hút khách, rộ dịch vụ độ pin",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/xe-dien-khong-can-bang-lai-hut-khach-ro-dich-vu-do-pin-100260720131606112.htm",
-    "PubDate": "7/20/2026 2:10:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về xu hướng tiêu dùng xe điện cá nhân và dịch vụ độ pin tự phát, không tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Xu hướng độ pin tự phát là thị trường ngách nhỏ lẻ, không ảnh hưởng đến doanh thu các doanh nghiệp sản xuất xe điện niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-20 17:32:31"
-  },
-  {
-    "Title": "Cần Thơ: 100% tiểu thương thanh toán không tiền mặt vào năm 2030",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/can-tho-100-tieu-thuong-thanh-toan-khong-tien-mat-vao-nam-2030-100260720145629964.htm",
-    "PubDate": "7/20/2026 3:34:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là mục tiêu hành chính dài hạn của địa phương, không tạo ra tác động trực tiếp đến doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Công nghệ/Ngân hàng. Mục tiêu hành chính dài hạn, không có tác động tức thời đến dòng tiền doanh nghiệp. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-20 17:32:21"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 20/7/2026: Lãi suất tiết kiệm tăng sát 8%/năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-20-7-2026-lai-suat-tiet-kiem-tang-sat-8-nam-2537199.html",
-    "PubDate": "Mon, 20 Jul 2026 09:51:54 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Lãi suất huy động tăng gây áp lực lên chi phí vốn của các ngân hàng và làm giảm sức hấp dẫn của thị trường chứng khoán, gây áp lực lên định giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực lên chi phí vốn toàn thị trường, đặc biệt nhóm BĐS đòn bẩy cao và CTCK do giảm sức hấp dẫn của margin.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lãi suất tăng làm giảm thanh khoản thị trường và nhu cầu sử dụng margin, ảnh hưởng trực tiếp doanh thu CTCK."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vốn vay tăng gây áp lực lên biên lợi nhuận và làm giảm nhu cầu mua nhà trả góp của khách hàng."
-      },
-      {
-        "Ticker": "PDR",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Doanh nghiệp BĐS có đòn bẩy cao sẽ chịu áp lực chi phí tài chính lớn hơn khi lãi suất huy động neo cao."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Tương tự SSI, lãi suất tăng làm giảm sức hấp dẫn của kênh đầu tư chứng khoán so với tiền gửi tiết kiệm."
-      }
-    ],
-    "AnalyzedAt": "2026-07-20 17:32:07"
   }
 ]

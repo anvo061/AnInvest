@@ -1,26 +1,26 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:30 - 02/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 22:45 - 02/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Tâm lý tiêu cực tại các thị trường mới nổi (EM) toàn cầu gia tăng nguy cơ rút vốn ngoại (ETF) khỏi Việt Nam -> **Tiêu cực** -> Áp lực lên các mã vốn hóa lớn (VCB, VHM, VIC, MSN).
-- Giá dầu thế giới tăng mạnh và kết quả kinh doanh GAS khả quan -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Dầu khí (PVD, PVS, GAS, BSR).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tâm lý tiêu cực tại thị trường mới nổi (Emerging Markets) gia tăng rủi ro rút vốn ngoại (ETF):** -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng thoát khỏi các mã trụ cột nhạy cảm với tỷ giá và khối ngoại (VCB, VHM, VIC, MSN).
+- **Giá dầu thế giới tăng mạnh:** -> Đánh giá: **Tích cực** -> Dòng tiền tập trung nhóm thượng nguồn và lọc hóa dầu (PVD, PVS, BSR).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu thế giới tăng mạnh, trực tiếp cải thiện biên lợi nhuận và nhu cầu thuê giàn khoan.
-    - Nhận định dòng tiền: Hưởng lợi từ sự phân hóa khi dòng tiền rút khỏi nhóm vốn hóa lớn sẽ có xu hướng tìm đến các nhóm có câu chuyện hỗ trợ cụ thể.
-    - Hành động: **Chú ý giải ngân** theo kịch bản giá dầu duy trì xu hướng tăng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **STB**
+  - Động lực (FA): Lợi nhuận sụt giảm mạnh do tăng trích lập dự phòng rủi ro.
+  - Nhận định dòng tiền: Gây áp lực bán giải tỏa tâm lý tiêu cực ngắn hạn đối với nhóm ngân hàng có nợ xấu cao.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cần thận trọng với vị thế mua mới.
 
-- **Mã: GAS**
-    - Động lực (FA): Lãi ròng 6 tháng đạt hơn 8.000 tỷ đồng, hoàn thành trên 70% kế hoạch năm.
-    - Nhận định dòng tiền: Chỉ số tài chính vững mạnh tạo "neo" an toàn cho dòng tiền trong bối cảnh thị trường chung rung lắc bởi tâm lý khối ngoại.
-    - Hành động: **Tiếp tục quan sát** để gia tăng vị thế khi có tín hiệu dòng tiền duy trì.
+- **Mã:** **GAS**
+  - Động lực (FA): Lãi 6 tháng hơn 8.000 tỷ, hoàn thành 70% kế hoạch năm.
+  - Nhận định dòng tiền: Kết quả kinh doanh vượt kỳ vọng, tạo lực đỡ tốt trước áp lực chung của thị trường.
+  - Hành động: **Tiếp tục quan sát** để tìm điểm vào theo xu hướng giá dầu.
 
-- **Mã: VIC**
-    - Động lực (FA): Được chọn đầu tư dự án điện gió ven bờ 9.100 tỷ đồng tại Quảng Trị.
-    - Nhận định dòng tiền: Dù có tin tốt về dự án, nhưng bị kéo lùi bởi áp lực bán ròng từ khối ngoại do tâm lý tiêu cực tại thị trường mới nổi.
-    - Hành động: **Rủi ro vi phạm kịch bản**; cần thận trọng với biến động ngắn hạn từ khối ngoại.
+- **Mã:** **VIC**
+  - Động lực (FA): Được chọn đầu tư dự án điện gió 9.100 tỷ đồng tại Quảng Trị.
+  - Nhận định dòng tiền: Tin tức tích cực về dự án mới đối chọi lại áp lực bán ròng từ khối ngoại (do tác động vĩ mô EM).
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Giá dầu tăng là chất xúc tác mạnh cho giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Với mốc thời gian tháng 6/2026, dữ liệu hiện tại cho thấy BSR vẫn đang vận hành hiệu quả theo kỳ vọng. Khuyến nghị: **Tiếp tục giữ vị thế**, chưa cần cơ cấu lại dòng tiền.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã:** **BSR**
+  - Nhận định: Dữ liệu giá dầu thế giới tăng mạnh là yếu tố hỗ trợ mạnh mẽ cho biên lợi nhuận của BSR trong kỳ báo cáo tới. Dù đã qua điểm rơi kỳ vọng tháng 3/2026, các tín hiệu cơ bản hiện tại vẫn ủng hộ việc **giữ vị thế (Hold)** để hưởng lợi từ đà tăng của giá hàng hóa, chưa cần thực hiện đảo dòng tiền ngay lập tức.
