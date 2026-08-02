@@ -1,5 +1,86 @@
 ﻿[
   {
+    "Title": "Chứng khoán sau cú rơi mạnh nhất từ đầu năm: Tháng 8 có 'dễ thở' hơn? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2l6N0l6S3BSbHd3VFhZZW51MEExX2c0RG1yQ2ZuaGx6a0JzemtYc2VYYzNaZWllRlF2Yk5EU21WOTF6M0VZSkNWSnBFaXNOLTN6ZzVMREdkZ2tnR1REYzdGQXlkUDdwTENNZ0d4LUEweFE5SlhlQ29aQUNoWHZpS3Q3SG11SzNwZ2d6bWMwbXBtVk80dGtkdXNrazdpcGtlazI1blRQcG4wc0U?oc=5",
+    "PubDate": "Sun, 02 Aug 2026 17:06:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết nhận định thị trường mang tính chất quan điểm cá nhân, không chứa thông tin vĩ mô hay doanh nghiệp mới làm thay đổi cấu trúc cung cầu của thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất quan điểm, không tác động trực tiếp đến dòng tiền. Nhà đầu tư nên tập trung vào dữ liệu kỹ thuật và thanh khoản thực tế.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 06:38:50"
+  },
+  {
+    "Title": "Cập nhật BCTC quý 2/202 ngày 3/8: Chứng khoán và thép thăng hoa, các hãng hàng không gặp khó, nhóm bất động sản và ngân hàng phân hóa mạnh - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeFZ0TVFHbFE1TXY3cVNvZjl1azFKcVJlcXh2ejI0NWdrbU4tZ3RiSXo3T0tnZHEtTE5ISFZUSVNtZFdIaTVodHlBckNseGowOVdFb0RVcWtXS0RLV1ZWWWt2ZVJuSUFNVWk0bEt4YUJWRmRtLTNPblNwYVE1OGFhMWQ5NTF6MG8tMDFMXzE2LW9oV29DZ1ExWkpNY0FCczhFelF3TlJaWHQ3ZFJFTUpBNjYzSWM2R25SY29XWEdwdUNWYk9ZTXFfUFJDWVdCN0x0R3VBa1pVOW8yaWFQSHBFYnM0alBrRGNQNENER2pEWnczTmlpZjJNS2cyQmNzVGYweVRVYjZB?oc=5",
+    "PubDate": "Sun, 02 Aug 2026 23:33:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Kết quả kinh doanh quý 2 phản ánh sự phân hóa rõ rệt, dòng tiền sẽ tập trung vào nhóm có tăng trưởng lợi nhuận thực tế (Chứng khoán, Thép) và tránh xa nhóm suy yếu (Hàng không).",
+    "TapeReaderNote": "Tín hiệu: Phân hóa. Dòng tiền tập trung vào nhóm có tăng trưởng lợi nhuận thực tế (Chứng khoán, Thép). Cần thận trọng với nhóm Hàng không do áp lực chi phí và tỷ giá.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kết quả kinh doanh tăng trưởng mạnh nhờ thanh khoản thị trường cải thiện."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lợi nhuận phục hồi nhờ sản lượng tiêu thụ và biên lợi nhuận cải thiện."
+      },
+      {
+        "Ticker": "HVN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Kết quả kinh doanh suy giảm do chi phí vận hành và áp lực tỷ giá."
+      }
+    ],
+    "AnalyzedAt": "2026-08-03 06:38:35"
+  },
+  {
+    "Title": "Từ thung lũng gió Savannakhet đến hành trình tỷ đô",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/tu-thung-lung-gio-savannakhet-den-hanh-trinh-ty-do-2541434.html",
+    "PubDate": "Mon, 03 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Dự án điện gió tại Lào giúp các doanh nghiệp năng lượng Việt Nam mở rộng công suất, tận dụng nguồn tài nguyên gió dồi dào để xuất khẩu điện, cải thiện triển vọng tăng trưởng dài hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR dự án tại Lào, thiếu thông tin cụ thể về tiến độ giải ngân và cơ chế giá điện. Chưa tác động trực tiếp đến dòng tiền ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 06:38:20"
+  },
+  {
+    "Title": "Giá vàng hôm nay 3/8/2026: Vàng thế giới chịu sức ép, SJC tiếp tục giảm?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-3-8-2026-vang-the-gioi-chiu-suc-ep-sjc-tiep-tuc-giam-2541185.html",
+    "PubDate": "Mon, 03 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng trong nước hiện nay chủ yếu chịu sự quản lý hành chính và điều tiết của NHNN, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng hiện tại là vấn đề điều tiết vĩ mô, không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 06:38:10"
+  },
+  {
+    "Title": "Cách các nước quy định thời hạn sở hữu chung cư",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/cach-cac-nuoc-quy-dinh-thoi-han-so-huu-chung-cu-5103935.html",
+    "PubDate": "Mon, 03 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất tham khảo, cung cấp thông tin về kinh nghiệm quốc tế trong quản lý bất động sản, không phải là văn bản quy phạm pháp luật hay thay đổi chính sách trực tiếp tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Bài viết mang tính tham khảo quốc tế, không tác động đến khung pháp lý hiện tại. Không có tín hiệu dòng tiền ngắn hạn cho các mã BĐS.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 06:38:00"
+  },
+  {
     "Title": "Áp lực đáo hạn 60.000 tỷ đồng trái phiếu bất động sản: Phân hóa gay gắt và bài toán rủi ro cho ngân hàng - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaFZfSWtpV0Z2eTAtcGZZV2ZpRFUzMUtOcElPUnp2SDk1X3o5VHJIRFh3cmJCVDFnRzNTemNNMWg2YUl0VHlvbTZkeGlOdl9rUW9Md3ZWWG5aWXBFaE50LVpaaDRqX1RsdVhGcWlzdFE2Z1VCRURydUN1N1lwVDdQMmI5OVY2MEJWb3gybjRnQWZReVNZUGFHcngwR3pxaVBETGNhNjJEbG16WDJMUkc1TDZJVlNWUVdRVF9xZ0ZRVENQTGpNVjJzMlJ6MXRhVzY4RWhvNjcwZ28?oc=5",
@@ -17900,109 +17981,5 @@
       }
     ],
     "AnalyzedAt": "2026-07-21 07:14:09"
-  },
-  {
-    "Title": "Cuộc đua của chủ hai show 'Anh trai' trên sàn chứng khoán",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/cuoc-dua-cua-chu-hai-show-anh-trai-tren-san-chung-khoan-5097917.html",
-    "PubDate": "Mon, 20 Jul 2026 06:05:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Sự thành công của các chương trình giải trí thực tế giúp gia tăng giá trị thương hiệu, doanh thu quảng cáo và vị thế thị trường của các đơn vị sản xuất nội dung niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR giải trí, không tác động trọng yếu đến biên lợi nhuận cốt lõi. Dòng tiền đầu cơ ngắn hạn có thể phản ứng nhưng thiếu bền vững.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "YEG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đơn vị sản xuất nội dung hưởng lợi trực tiếp từ doanh thu quảng cáo và giá trị thương hiệu tăng cao nhờ các show thực tế."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 07:13:54"
-  },
-  {
-    "Title": "How to Make Vietnam a Powerful Trade Ally for the U.S. - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYU42bkVkS3JFYTdsNTJaUWt0T1BTSGJSTmVlbVA4U2xWb1k5ei14UlNXLVhlOXA1ZG1XTTlxemJOTmkzUWdvZjNYTG1FVzducDJwNFhTTkZ1TmxpU3IwRUxYMkZPM05KeC0xRDNCQUxhMmQ5MEN2dExsLWNxQ2k5YUxyQ2xFb1VMUXNfdXlPZ0VPWHhLU0R6R29NeVo5TE5XMldLVUhGYw?oc=5",
-    "PubDate": "Sun, 29 Aug 2021 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc tăng cường quan hệ thương mại Việt-Mỹ thúc đẩy dòng vốn FDI, mở rộng xuất khẩu và củng cố vị thế chuỗi cung ứng toàn cầu, trực tiếp hỗ trợ nhóm Bất động sản khu công nghiệp và Logistics.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chính sách dài hạn, thiếu tác động dòng tiền ngắn hạn. Cần theo dõi lộ trình thực thi cụ thể để đánh giá hiệu quả thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "KBC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ làn sóng dịch chuyển FDI và nhu cầu thuê đất khu công nghiệp từ các đối tác Mỹ."
-      },
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu xuất nhập khẩu tăng trưởng kéo theo lưu lượng hàng hóa qua cảng biển, trực tiếp tăng doanh thu cho doanh nghiệp khai thác cảng."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 03:53:36"
-  },
-  {
-    "Title": "Vietnam demands Chinese ship leave its exclusive economic zone - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3piaXR6LUpzM1N4SmJwVlJOVG12OGstZU9YNWJGRlZIZ1BTOGhoMFBEY3ZaWUYtX3lub0Z4RUN3WmxtQ3BzUDQwNEI5aHRjN0N0aTJTM2xoZ3BQb19aVTBhX2RRbmkxRDZrOTNaUXEwdjVrMzlXNE4xVDRadjBWdmttejQyVzFDNjFqMjRUeXR1empiSkxVeXpiSHFLX2x4aTQwWlJYYjVTY1BibEJV?oc=5",
-    "PubDate": "Thu, 25 May 2023 07:00:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Căng thẳng địa chính trị gia tăng có thể gây tâm lý thận trọng ngắn hạn trên thị trường chứng khoán, đặc biệt ảnh hưởng đến các doanh nghiệp có hoạt động khai thác dầu khí tại khu vực biển Đông.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Căng thẳng địa chính trị gây áp lực tâm lý ngắn hạn lên các mã thượng nguồn (PVS, PVD). Dòng tiền có xu hướng thận trọng, ưu tiên phòng thủ.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Rủi ro gián đoạn hoạt động thăm dò, khai thác tại các dự án ngoài khơi do căng thẳng địa chính trị."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Tương tự PVS, các giàn khoan hoạt động tại khu vực biển Đông chịu rủi ro về an ninh và vận hành."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 03:53:19"
-  },
-  {
-    "Title": "Vietnam PM Says Government Aims for 8% Economic Growth in 2025 - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjJMRUVOYy1xd1FTQUNpUEIzNzJySE5LbkZ5UU1md0pVaHpYcmUteTkzYkVmQ1hqUEE1YkdIeHBxc0dZNERuV0JfQVhRU0dkVHRiMy1LdkVfR1lwNWlwbGQtcXUwcWxZeVZadjk1M0Jnc1JJN3BndmFNMmRuTTNFNFdkR3F5Y3hYS3FVdXhWZmtFYnN5YmdvR1RZekwxbVMwZ3lKZEpueDBKS2xkU2k2cHJR?oc=5",
-    "PubDate": "Sun, 01 Dec 2024 08:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 5,
-    "MarketImpact": "Mục tiêu tăng trưởng GDP 8% tạo kỳ vọng lớn vào sự bùng nổ của các ngành sản xuất, hạ tầng và tài chính, thúc đẩy dòng vốn ngoại và tâm lý nhà đầu tư trên thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Mục tiêu GDP 8% mang tính định hướng chính trị, chưa có giải pháp cụ thể. Cần quan sát dòng tiền thực tế vào nhóm vốn hóa lớn thay vì kỳ vọng lan tỏa diện rộng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng đầu ngành hưởng lợi trực tiếp từ nhu cầu tín dụng tăng cao khi kinh tế tăng trưởng mạnh."
-      },
-      {
-        "Ticker": "KBC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng kinh tế cao thu hút FDI, trực tiếp thúc đẩy nhu cầu thuê đất khu công nghiệp."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 03:53:03"
-  },
-  {
-    "Title": "Cập nhật số liệu CTCK ngày 21/7: 6 công ty báo lãi nghìn tỷ, “ngôi vương” bất ngờ đổi chủ, một tên tuổi lớn giảm lãi 95% - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXhDOWtCc09wOVVzN0I3em9FOHN4TWE5cG1Oc0lQY0QxaVc3ODM2ODdrdDBmaEgwend0YmZ1Q2c2STFZcVhSc21KNUNDTHhtTHJwMU0xTFFYdHlqR0lCRkpraHRLb2YyYlc2Q2dCLVl1NGZlaDNnc3ZEMmZFTlQzckJIRFVZUnBSSnB0cmlINlNVUGpMenQtSC0wYW5EQ19TcFdEWGdPdGpJamJmYjF5bGdOTkVFQzFZM3ctWXYtNVYtVUJYa29rNTd0b1AzT0VPUkpQZWY3ZDBvQ2stUnpRakVWUG5LRFdldWc?oc=5",
-    "PubDate": "Mon, 20 Jul 2026 17:33:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin phản ánh kết quả kinh doanh đã diễn ra, mang tính chất tổng hợp dữ liệu quá khứ, không tạo ra thay đổi đột biến về kỳ vọng tăng trưởng tương lai cho toàn ngành.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Dữ liệu quá khứ đã phản ánh vào giá. Dòng tiền sẽ phân hóa theo câu chuyện riêng thay vì kết quả kinh doanh cũ.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-21 03:52:48"
   }
 ]
