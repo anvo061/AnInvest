@@ -1,18 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:55, ngày 03/08/2026
+⏱ Thời gian: 04:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Fed giữ nguyên lãi suất giúp giảm áp lực tỷ giá, mở dư địa cho chính sách tiền tệ nới lỏng trong nước -> Tích cực -> Dòng tiền hướng vào nhóm Ngân hàng (VCB, TCB) và Chứng khoán (SSI).
-- NVIDIA đẩy mạnh giải pháp AI tại Việt Nam -> Tích cực -> Dòng tiền hướng vào nhóm Hạ tầng viễn thông và Công nghệ.
-- Lãi suất huy động từ khối ngân hàng ngoại duy trì ở mức cao (7.8%) -> Tiêu cực -> Tạo áp lực lên chi phí vốn chung của hệ thống ngân hàng nội địa.
+- FED giữ nguyên lãi suất giúp giảm áp lực tỷ giá, tạo dư địa để NHNN duy trì chính sách tiền tệ nới lỏng -> Tích cực -> Dòng tiền hướng vào nhóm Chứng khoán (SSI) và Ngân hàng (VCB, TCB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VEA
-- Động lực (FA): Xác nhận doanh nghiệp nắm giữ thị phần trọng yếu trong chuỗi cung ứng linh kiện ô tô cho các tập đoàn FDI lớn (Honda, Ford, Toyota) với lưu lượng dòng tiền lớn.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh dịch chuyển vào các nhóm ngành sản xuất có nền tảng giá trị thực, giảm phụ thuộc vào đầu cơ ngắn hạn.
-- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (Buy on dip).
+- Mã: **VEA**
+- Động lực (FA): Dòng vốn đầu tư lớn từ các đối tác FDI (Honda, Ford, Toyota) củng cố vị thế của VEAM trong chuỗi cung ứng linh kiện ô tô tại Việt Nam.
+- Nhận định dòng tiền: Tin tức xác nhận lợi thế cạnh tranh cốt lõi, củng cố đà tăng trưởng bền vững cho cổ phiếu.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
 
-- Mã: SSI
-- Động lực (FA): Tâm lý thị trường cải thiện nhờ kỳ vọng nới lỏng tiền tệ và thanh khoản hệ thống được kỳ vọng tăng lên.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp từ doanh thu môi giới và nghiệp vụ margin khi thị trường ổn định trở lại.
-- Hành động: Tiếp tục quan sát để gia tăng tỷ trọng nếu khối lượng giao dịch (Volume) phiên hôm nay tăng vượt mức trung bình 20 phiên.
+- Mã: **VJC**
+- Động lực (FA): Đề xuất sáng kiến "Vietnam Halal Connect" nhằm thâm nhập thị trường khách du lịch Hồi giáo tiềm năng.
+- Nhận định dòng tiền: Gia tăng kỳ vọng vào tăng trưởng doanh thu hàng không và dịch vụ du lịch, tạo dòng tiền đầu cơ tích cực ngắn hạn.
+- Hành động: Tiếp tục quan sát phản ứng dòng tiền tại các vùng cản ngắn hạn.
+
+- Mã: **TAL**
+- Động lực (FA): Mở rộng quỹ đất và góp vốn thành lập công ty mới tại Ninh Bình.
+- Nhận định dòng tiền: Tín hiệu tích cực về mở rộng quy mô, hỗ trợ tâm lý tích cực cho cổ phiếu trong giai đoạn tới.
+- Hành động: Tiếp tục quan sát.
