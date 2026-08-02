@@ -1,5 +1,37 @@
 ﻿[
   {
+    "Title": "NVIDIA phát triển giải pháp ‘AI chuyên biệt’ cho quốc gia, doanh nghiệp",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/nvidia-phat-trien-giai-phap-ai-chuyen-biet-cho-quoc-gia-doanh-nghiep-2534216.html",
+    "PubDate": "Thu, 09 Jul 2026 18:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc NVIDIA đẩy mạnh giải pháp AI tại Việt Nam thúc đẩy nhu cầu hạ tầng số, trung tâm dữ liệu và chuyển đổi số, tạo động lực tăng trưởng cho các doanh nghiệp công nghệ và hạ tầng viễn thông.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô, chưa có hợp đồng cụ thể. Cần theo dõi tiến độ giải ngân hạ tầng AI thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 03:41:48"
+  },
+  {
+    "Title": "Giá xăng dầu hôm nay 10/7: Dầu thế giới giảm, trong nước có giá mới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-10-7-dau-the-gioi-giam-trong-nuoc-co-gia-moi-2534343.html",
+    "PubDate": "Fri, 10 Jul 2026 07:29:42 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Giá xăng dầu trong nước giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm là biến số vĩ mô bình thường. Tác động biên lợi nhuận logistics không đáng kể trong ngắn hạn do cơ chế điều chỉnh giá cước trễ. Cần theo dõi sát biên lợi nhuận thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PLX",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Giá bán lẻ giảm theo giá thế giới, tác động đến doanh thu nhưng biên lợi nhuận ổn định nhờ cơ chế điều hành."
+      }
+    ],
+    "AnalyzedAt": "2026-08-03 03:41:32"
+  },
+  {
     "Title": "Mỹ - Israel tạm hoãn tấn công Iran, giá vàng tuần này sẽ ra sao?",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/my-israel-tam-hoan-tan-cong-iran-gia-vang-tuan-nay-se-ra-sao-100260803000621568.htm",
@@ -17946,37 +17978,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-21 03:51:11"
-  },
-  {
-    "Title": "Hãng tương ớt Cholimex bình quân mỗi ngày thu 12 tỷ đồng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/hang-tuong-ot-cholimex-binh-quan-moi-ngay-thu-12-ty-dong-5099686.html",
-    "PubDate": "Tue, 21 Jul 2026 02:34:30 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về kết quả kinh doanh của Cholimex (công ty chưa niêm yết) không tác động trực tiếp đến các doanh nghiệp hàng tiêu dùng đang niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Hàng tiêu dùng. Kết quả kinh doanh của doanh nghiệp chưa niêm yết không tạo biến động dòng tiền cho các mã trên sàn. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-21 03:50:59"
-  },
-  {
-    "Title": "Chứng khoán SSI cho vay kỷ lục hơn 40.000 tỷ đồng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/chung-khoan-ssi-cho-vay-ky-luc-hon-40-000-ty-dong-5099699.html",
-    "PubDate": "Tue, 21 Jul 2026 02:40:35 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Dư nợ margin kỷ lục phản ánh nhu cầu giao dịch cao và niềm tin của nhà đầu tư vào thị trường, trực tiếp gia tăng doanh thu lãi vay và phí môi giới cho các công ty chứng khoán đầu ngành.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Dư nợ margin SSI đạt đỉnh cho thấy thanh khoản thị trường cải thiện. Tập trung vào các CTCK đầu ngành có lợi thế vốn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ doanh thu lãi margin kỷ lục và phí môi giới tăng trưởng mạnh."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 03:50:45"
   }
 ]
