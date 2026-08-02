@@ -1,16 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:57
+⏱ Thời gian: 19:10
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Quy định mới về niên hạn sử dụng chung cư giúp minh bạch hóa thị trường và đẩy nhanh tiến độ cải tạo đô thị -> **Tích cực (ngắn hạn)** -> Dòng tiền dự kiến hướng vào nhóm **Bất động sản dân dụng** có quỹ đất sạch và năng lực thực thi dự án.
+- Petrovietnam (PVN) thúc đẩy hợp tác năng lượng quốc tế và kết quả kinh doanh ấn tượng từ các doanh nghiệp dầu khí thượng nguồn -> [Tích cực] -> Dòng tiền có xu hướng tập trung vào nhóm dầu khí (GAS, PVD).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** DIG
-- **Động lực (FA):** Gia đình chủ tịch liên tục bị bán giải chấp cổ phiếu.
-- **Nhận định dòng tiền:** Áp lực cung treo lơ lửng từ hoạt động bán giải chấp sẽ làm suy yếu cấu trúc kỹ thuật, gây tâm lý hoảng loạn cho cổ đông nhỏ lẻ. Dòng tiền thông minh sẽ có xu hướng rút lui để tránh rủi ro "call margin" chéo.
-- **Hành động:** Rủi ro vi phạm kịch bản. Khuyến nghị đứng ngoài, ưu tiên quản trị rủi ro, tuyệt đối không bắt đáy khi chưa thấy lực cầu hấp thụ hết lượng cung giải chấp.
+- **Mã: GAS**
+    - Động lực (FA): Lãi hơn 8.000 tỷ đồng sau 6 tháng, hoàn thành 70% kế hoạch năm.
+    - Nhận định dòng tiền: Tin tức hỗ trợ củng cố vị thế dẫn dắt nhóm dầu khí, tạo tâm lý tích cực ngắn hạn.
+    - Hành động: Chú ý giải ngân theo kịch bản quản trị rủi ro; ưu tiên các nhịp điều chỉnh trong phiên.
 
-- **Mã:** PLX
-- **Động lực (FA):** Xác lập vị thế doanh nghiệp có lợi nhuận theo ngày cao nhất thị trường, vượt qua các tập đoàn lớn như Vingroup, Hòa Phát.
-- **Nhận định dòng tiền:** Củng cố luận điểm đầu tư giá trị, thu hút dòng tiền ổn định (smart money) vào nhóm vốn hóa lớn có nền tảng tài chính bền vững.
-- **Hành động:** Chú ý giải ngân khi có nhịp rung lắc, nắm giữ theo mục tiêu dài hạn.
+- **Mã: DIG**
+    - Động lực (FA): Lãnh đạo liên tục bị bán giải chấp cổ phiếu.
+    - Nhận định dòng tiền: Áp lực cung lớn từ nội bộ gây tổn thương kỹ thuật, rủi ro điều chỉnh mạnh trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản; ưu tiên bảo toàn vốn, tránh bắt đáy khi chưa có tín hiệu cân bằng cung cầu.
+
+- **Mã: VIC**
+    - Động lực (FA): Được chọn đầu tư dự án điện gió ven bờ 9.100 tỉ tại Quảng Trị.
+    - Nhận định dòng tiền: Thông tin mang tính định hướng dài hạn, tạo kỳ vọng mở rộng sang năng lượng tái tạo.
+    - Hành động: Tiếp tục quan sát sự xác nhận của dòng tiền lớn tại các vùng hỗ trợ cứng.
