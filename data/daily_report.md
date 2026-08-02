@@ -1,21 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:50
+⏱ Thời gian: 05:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- FED giữ nguyên lãi suất giúp giảm áp lực tỷ giá, tạo dư địa để NHNN duy trì chính sách tiền tệ nới lỏng -> Tích cực -> Dòng tiền hướng vào nhóm Chứng khoán (SSI) và Ngân hàng (VCB, TCB).
+- Áp lực đáo hạn 60.000 tỷ đồng trái phiếu BĐS kết hợp với xu hướng tăng lãi suất huy động kỳ hạn 6 tháng tại 4 ngân hàng -> **Tác động: Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút ròng hoặc phân hóa mạnh, đặc biệt gây rủi ro điều chỉnh cho nhóm Ngân hàng và BĐS có đòn bẩy cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **NVL, PDR**
+- Động lực (FA): Áp lực đáo hạn trái phiếu lớn trong bối cảnh thị trường BĐS chưa hồi phục hoàn toàn.
+- Nhận định dòng tiền: Rủi ro thanh khoản cao, dòng tiền có xu hướng thoát vị thế để tránh rủi ro tái cơ cấu nợ.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế bắt đáy.
+
+- Mã: **VPB, TCB, MBB**
+- Động lực (FA): Tỷ trọng cho vay và nắm giữ trái phiếu BĐS cao, kết hợp chi phí vốn đầu vào tăng do lãi suất huy động nhích lên.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể suy yếu do áp lực nợ xấu tiềm ẩn và biên lợi nhuận bị thu hẹp.
+- Hành động: Tiếp tục quan sát phản ứng giá tại vùng hỗ trợ cứng, tránh giải ngân gia tăng trong phiên nay.
+
 - Mã: **VEA**
-- Động lực (FA): Dòng vốn đầu tư lớn từ các đối tác FDI (Honda, Ford, Toyota) củng cố vị thế của VEAM trong chuỗi cung ứng linh kiện ô tô tại Việt Nam.
-- Nhận định dòng tiền: Tin tức xác nhận lợi thế cạnh tranh cốt lõi, củng cố đà tăng trưởng bền vững cho cổ phiếu.
-- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+- Động lực (FA): Xác nhận vị thế đầu chuỗi cung ứng FDI (Honda, Ford, Toyota) với dòng tiền ổn định 9 năm qua.
+- Nhận định dòng tiền: Dòng tiền phòng thủ dài hạn, ít chịu ảnh hưởng bởi rung lắc vĩ mô ngắn hạn.
+- Hành động: Chú ý giải ngân nếu có nhịp chiết khấu theo thị trường chung.
 
 - Mã: **VJC**
-- Động lực (FA): Đề xuất sáng kiến "Vietnam Halal Connect" nhằm thâm nhập thị trường khách du lịch Hồi giáo tiềm năng.
-- Nhận định dòng tiền: Gia tăng kỳ vọng vào tăng trưởng doanh thu hàng không và dịch vụ du lịch, tạo dòng tiền đầu cơ tích cực ngắn hạn.
-- Hành động: Tiếp tục quan sát phản ứng dòng tiền tại các vùng cản ngắn hạn.
-
-- Mã: **TAL**
-- Động lực (FA): Mở rộng quỹ đất và góp vốn thành lập công ty mới tại Ninh Bình.
-- Nhận định dòng tiền: Tín hiệu tích cực về mở rộng quy mô, hỗ trợ tâm lý tích cực cho cổ phiếu trong giai đoạn tới.
-- Hành động: Tiếp tục quan sát.
+- Động lực (FA): Sáng kiến "Vietnam Halal Connect" mở rộng thị trường khách du lịch Hồi giáo.
+- Nhận định dòng tiền: Kỳ vọng gia tăng biên lợi nhuận từ mảng dịch vụ phụ trợ.
+- Hành động: Tiếp tục quan sát vùng tích lũy.

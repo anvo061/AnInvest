@@ -1,5 +1,70 @@
 ﻿[
   {
+    "Title": "Áp lực đáo hạn 60.000 tỷ đồng trái phiếu bất động sản: Phân hóa gay gắt và bài toán rủi ro cho ngân hàng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaFZfSWtpV0Z2eTAtcGZZV2ZpRFUzMUtOcElPUnp2SDk1X3o5VHJIRFh3cmJCVDFnRzNTemNNMWg2YUl0VHlvbTZkeGlOdl9rUW9Md3ZWWG5aWXBFaE50LVpaaDRqX1RsdVhGcWlzdFE2Z1VCRURydUN1N1lwVDdQMmI5OVY2MEJWb3gybjRnQWZReVNZUGFHcngwR3pxaVBETGNhNjJEbG16WDJMUkc1TDZJVlNWUVdRVF9xZ0ZRVENQTGpNVjJzMlJ6MXRhVzY4RWhvNjcwZ28?oc=5",
+    "PubDate": "Sun, 02 Aug 2026 03:14:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Áp lực đáo hạn trái phiếu lớn tạo rủi ro thanh khoản cho các doanh nghiệp BĐS yếu kém và làm tăng nợ xấu tiềm ẩn cho hệ thống ngân hàng, gây tâm lý thận trọng trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS và Ngân hàng. Áp lực đáo hạn 60k tỷ gây rủi ro thanh khoản hệ thống. Dòng tiền sẽ phân hóa mạnh, ưu tiên ngân hàng có tỷ lệ bao phủ nợ xấu cao, tránh xa BĐS đòn bẩy lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực đáo hạn trái phiếu lớn gây rủi ro thanh khoản và áp lực tái cơ cấu nợ."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro từ áp lực đáo hạn trái phiếu trong bối cảnh thị trường BĐS chưa phục hồi hoàn toàn."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngân hàng có tỷ trọng cho vay BĐS và trái phiếu doanh nghiệp cao, chịu rủi ro nợ xấu tăng."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Dù quản trị rủi ro tốt, nhưng áp lực từ danh mục trái phiếu BĐS vẫn là yếu tố gây lo ngại cho dòng tiền."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro tiềm ẩn từ các khoản vay liên quan đến các chủ đầu tư BĐS đang gặp khó khăn về dòng tiền."
+      }
+    ],
+    "AnalyzedAt": "2026-08-03 05:36:27"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 9/7/2026: 4 nhà băng niêm yết kỳ hạn 6 tháng từ 7%/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-hom-nay-9-7-2026-4-nha-bang-gui-ky-han-6-thang-tu-7-nam-2533967.html",
+    "PubDate": "Thu, 09 Jul 2026 10:04:37 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Lãi suất huy động tăng gây áp lực lên chi phí vốn của các doanh nghiệp vay nợ lớn và làm giảm sức hấp dẫn tương đối của thị trường chứng khoán so với kênh gửi tiết kiệm.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực lên chi phí vốn doanh nghiệp và làm giảm sức hấp dẫn của kênh chứng khoán so với tiền gửi tiết kiệm.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 05:36:10"
+  },
+  {
+    "Title": "Aeon Đà Nẵng Thanh Khê vừa khai trương đã đón hàng vạn lượt khách",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/aeon-da-nang-thanh-khe-vua-khai-truong-da-don-hang-van-luot-khach-2534085.html",
+    "PubDate": "Thu, 09 Jul 2026 14:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Sự kiện khai trương Aeon Mall tại Đà Nẵng thúc đẩy lưu lượng tiêu dùng tại khu vực miền Trung, tạo hiệu ứng lan tỏa tích cực cho nhóm bán lẻ và bất động sản thương mại lân cận.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Sự kiện khai trương Aeon Mall là tin tức địa phương, không tác động trực tiếp đến biên lợi nhuận hay dòng tiền của MWG, MSN trong ngắn hạn. Cần tránh suy diễn gượng ép.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-03 05:35:55"
+  },
+  {
     "Title": "Taseco Land ‘rót’ 220 tỷ đồng góp vốn thành lập công ty tại Ninh Bình - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmdTTS1mcXVUbVdMTTVrYi1ySW41YXA0a1pEUTU2Q1p0ZU5ldUNkVUNRTktsaEVPMXotZXJWYWl4dlJrWEpYcDIwaVhkaGhvN2U4SXdPYVBQY1NmcXpLREoxSi0yNmpINmZTQTJUTjNHLTFHMmFrNGNjT1hIcDE0aWs1Vm0tSWc3YTkxQzE4V2ZLUjQ5R1lBOXUxQml1QkswQ3JiSWh0dF96UVk?oc=5",
@@ -17939,56 +18004,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-21 03:52:48"
-  },
-  {
-    "Title": "Một công ty chứng khoán báo lãi gấp 5 lần cùng kỳ, tạm thắng lớn với cổ phiếu Vingroup - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWm8zSVU2Q3pjZWdzQmNabWhqNnh1bk5Vd1FmQlJ4X0RWalA0ZDFVSEVvY3ZpalJjaUN2RUtqVk0tSnpYanVaYlV4MUFkc25xQUd5Tks2Mk5VOXhGc0xWVDZvR29FbVJOOTFSR1g1UW9VdUtRdWFpVElsWTlXZml6TDA2clhjY09xTzFiSnZSRjd6eFBSQ0t3LXNXb2hvVEsxMUphZDFmV0JSaEJqcjZMOVZBaC0yRFlSRjhudTQ4QVNDazQ?oc=5",
-    "PubDate": "Mon, 20 Jul 2026 17:08:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Kết quả kinh doanh đột biến từ hoạt động tự doanh chứng minh khả năng quản trị danh mục hiệu quả, tạo tâm lý tích cực cho cổ phiếu ngành chứng khoán và nhóm Vingroup.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Lợi nhuận tự doanh là biến số đơn lẻ của một công ty, không đại diện cho toàn ngành. Cần thận trọng với các mã có danh mục tập trung cao vào VIC.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Việc cổ phiếu Vingroup đóng góp lớn vào lợi nhuận tự doanh cho thấy sức hút và sự phục hồi của mã này trong danh mục đầu tư."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 03:52:32"
-  },
-  {
-    "Title": "Công ty chứng khoán \"họ\" Sunshine báo lãi đột biến 800 tỷ trong quý 2 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1fUXg0cFhiX2htREE4eEU0YzJuN1prQWhza3dIa2VTbk9TcXZoby0yMWFJM21lV2V4aDNQNjJQU0I1VHVRTXp4TlNQcHpzTG1zSVZPcHBxYkVTN0Fyb2pnU21RRUV3NHhYNWpqMmZYSlRpTGZOVmthbThGYUh4ZzRJOW5IM1hHUGZfSVVrcHNaVmRHUTR0Sk9Pay1jWEwzMGpmS0c4dlpEWlE?oc=5",
-    "PubDate": "Mon, 20 Jul 2026 17:58:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Lợi nhuận đột biến từ hoạt động tự doanh hoặc nghiệp vụ chứng khoán của nhóm Sunshine tạo hiệu ứng tâm lý tích cực ngắn hạn cho cổ phiếu cùng hệ sinh thái và nhóm chứng khoán vốn hóa nhỏ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Lợi nhuận đột biến từ hoạt động tài chính không phản ánh nội tại kinh doanh cốt lõi. Cảnh báo rủi ro thanh khoản thấp và tính minh bạch của hệ sinh thái Sunshine.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "KSF",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ tâm lý tích cực của hệ sinh thái Sunshine sau báo cáo tài chính ấn tượng."
-      }
-    ],
-    "AnalyzedAt": "2026-07-21 03:52:17"
-  },
-  {
-    "Title": "Việt Nam xuất khẩu tôm vượt 2,3 tỉ USD",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/viet-nam-xuat-khau-tom-vuot-23-ti-usd-100260720172500124.htm",
-    "PubDate": "7/20/2026 7:33:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Kim ngạch xuất khẩu tôm tăng trưởng mạnh khẳng định sự phục hồi của nhu cầu tại các thị trường lớn, trực tiếp cải thiện doanh thu và biên lợi nhuận cho các doanh nghiệp thủy sản đầu ngành.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Thủy sản. Xuất khẩu tôm tăng trưởng mạnh. Dòng tiền tập trung vào doanh nghiệp có tỷ trọng tôm lớn như FMC, MPC. Lưu ý: VHC, ANV chủ yếu là cá tra.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-21 03:52:02"
   }
 ]
