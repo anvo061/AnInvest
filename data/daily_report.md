@@ -1,25 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:30 - 02/08/2026
+⏱ Thời gian: 17:57
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mỹ công bố chính sách áp thuế quan mới (Presidential Tariff Actions) -> [Tác động: Tiêu cực] -> [Dòng tiền: Áp lực rút vốn khỏi nhóm xuất khẩu chủ lực sang Mỹ (Dệt may, Thủy sản)].
-- Giá dầu thế giới tăng cao (Brent/WTI) -> [Tác động: Tích cực] -> [Dòng tiền: Hướng vào nhóm năng lượng/dầu khí thượng nguồn (PVD, PVS)].
+- Quy định mới về niên hạn sử dụng chung cư giúp minh bạch hóa thị trường và đẩy nhanh tiến độ cải tạo đô thị -> **Tích cực (ngắn hạn)** -> Dòng tiền dự kiến hướng vào nhóm **Bất động sản dân dụng** có quỹ đất sạch và năng lực thực thi dự án.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PLX**
-- Động lực (FA): Lợi nhuận hàng ngày dẫn đầu nhóm vốn hóa lớn (Vingroup, Hòa Phát, Masan).
-- Nhận định dòng tiền: Khẳng định vị thế dòng tiền ổn định; thu hút khối ngoại và dòng tiền đầu tư giá trị trong bối cảnh thị trường biến động.
-- Hành động: **Chú ý giải ngân** nếu giá test lại hỗ trợ ngắn hạn.
+- **Mã:** DIG
+- **Động lực (FA):** Gia đình chủ tịch liên tục bị bán giải chấp cổ phiếu.
+- **Nhận định dòng tiền:** Áp lực cung treo lơ lửng từ hoạt động bán giải chấp sẽ làm suy yếu cấu trúc kỹ thuật, gây tâm lý hoảng loạn cho cổ đông nhỏ lẻ. Dòng tiền thông minh sẽ có xu hướng rút lui để tránh rủi ro "call margin" chéo.
+- **Hành động:** Rủi ro vi phạm kịch bản. Khuyến nghị đứng ngoài, ưu tiên quản trị rủi ro, tuyệt đối không bắt đáy khi chưa thấy lực cầu hấp thụ hết lượng cung giải chấp.
 
-- Mã: **PVD, PVS**
-- Động lực (FA): Giá dầu thế giới tăng hỗ trợ trực tiếp biên lợi nhuận và giá thuê giàn khoan.
-- Nhận định dòng tiền: Mặc dù có áp lực bán ngắn hạn (như dữ liệu ngày 16/3), nhưng yếu tố vĩ mô giá dầu đang hỗ trợ xu hướng phục hồi.
-- Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá hiện tại, tránh đua lệnh khi chưa thấy dòng tiền quay lại đồng thuận.
-
-- Mã: **VHC, TNG**
-- Động lực (FA): Chính sách thuế quan mới từ Mỹ.
-- Nhận định dòng tiền: Rủi ro biên lợi nhuận bị thu hẹp, khả năng xảy ra áp lực bán tháo ngắn hạn từ khối ngoại.
-- Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu thủng ngưỡng hỗ trợ cứng.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dữ liệu giá dầu thế giới tăng hỗ trợ triển vọng biên lợi nhuận lọc hóa dầu. Tuy nhiên, đã đi qua thời điểm kỳ vọng tháng 3/2026, nhà đầu tư cần đánh giá lại hiệu suất dòng tiền. **Khuyến nghị:** Nếu không có tin tức đột biến về dự án mở rộng, đây là cơ hội tốt để **chốt lời (Exit)** hoặc cơ cấu lại danh mục sang các mã có câu chuyện tăng trưởng mới trong nửa cuối năm 2026.
+- **Mã:** PLX
+- **Động lực (FA):** Xác lập vị thế doanh nghiệp có lợi nhuận theo ngày cao nhất thị trường, vượt qua các tập đoàn lớn như Vingroup, Hòa Phát.
+- **Nhận định dòng tiền:** Củng cố luận điểm đầu tư giá trị, thu hút dòng tiền ổn định (smart money) vào nhóm vốn hóa lớn có nền tảng tài chính bền vững.
+- **Hành động:** Chú ý giải ngân khi có nhịp rung lắc, nắm giữ theo mục tiêu dài hạn.
