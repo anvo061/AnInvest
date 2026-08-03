@@ -1,24 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:35
+⏱ Thời gian: 05:45 ngày 04/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tác động từ lãi suất:** Bloomberg dự báo Việt Nam có khả năng cắt giảm lãi suất điều hành để thúc đẩy tăng trưởng tín dụng -> [Đánh giá: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm **Chứng khoán (SSI, VIX)** nhờ cải thiện thanh khoản và **Bất động sản (VHM, CEO)** nhờ giảm chi phí vốn.
-- **Dòng vốn ngoại:** Khối ngoại quay lại mua ròng mạnh (>1.000 tỷ) trong phiên VN-Index tăng điểm -> [Đánh giá: Tích cực] -> Dòng tiền tập trung vào các mã trụ có tính thanh khoản cao (**HPG, VCB, VHM**).
-- **Hạ tầng năng lượng:** Chủ trương lập tổ công tác đặc biệt gỡ vướng dự án điện hạt nhân -> [Đánh giá: Tích cực] -> Kỳ vọng dòng tiền vào nhóm xây lắp hạ tầng năng lượng và cung ứng thiết bị điện (**PC1, PVD**).
+- NHNN dự kiến cắt giảm lãi suất để hỗ trợ tăng trưởng kinh tế -> [Tích cực] -> Dòng tiền ưu tiên nhóm **Chứng khoán (SSI, VIX)** và **Bất động sản (VHM, KBC, SZC)** nhờ chi phí vốn giảm và thanh khoản thị trường kỳ vọng bùng nổ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PNJ**
-  - Động lực (FA): Lập tổ giám sát đặc biệt sau vụ việc nhân sự cấp cao tại công ty con.
-  - Nhận định dòng tiền: Rủi ro tâm lý tiêu cực ngắn hạn, khả năng xảy ra áp lực bán tháo kiểm định vùng hỗ trợ.
-  - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại các mốc hỗ trợ cứng trước khi xem xét giải ngân.
-- **Mã: TCB, CTG, MBB**
-  - Động lực (FA): Nhóm ngân hàng đồng loạt tăng mạnh, tạo dẫn dắt cho chỉ số VN-Index.
-  - Nhận định dòng tiền: Dòng tiền lan tỏa mạnh mẽ, xác nhận xu hướng ngắn hạn tích cực.
-  - Hành động: Chú ý giải ngân theo đà tăng, quản trị rủi ro tại các vùng kháng cự kỹ thuật.
-- **Mã: DHC**
-  - Động lực (FA): Cổ đông lớn đăng ký mua lượng lớn cổ phiếu.
-  - Nhận định dòng tiền: Tín hiệu hỗ trợ cung trôi nổi, tạo tâm lý tích cực ngắn hạn.
-  - Hành động: Tiếp tục quan sát phản ứng giá tại vùng giá hiện tại.
+- Mã: **PNJ**
+- Động lực (FA): Thông tin thành lập tổ giám sát sau sự cố nhân sự tại P-Lab.
+- Nhận định dòng tiền: Dù cổ phiếu đang ở vùng giá hưng phấn, tin tức quản trị rủi ro này tạo áp lực bán kỹ thuật ngắn hạn.
+- Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên chốt lời một phần để bảo toàn lợi nhuận, quan sát phản ứng của lực cầu tại các vùng hỗ trợ cứng.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Hiện chưa có dữ liệu tin tức mới mang tính đột biến trực tiếp ảnh hưởng đến trạng thái cơ bản của EIB hoặc BSR trong khung 15 phút vừa qua. Duy trì chiến lược hiện tại.
+- Mã: **MBB**
+- Động lực (FA): Được UBCKNN chấp thuận hồ sơ chào bán thêm và trả cổ tức.
+- Nhận định dòng tiền: Củng cố kỳ vọng tăng trưởng dài hạn, tạo dư địa cho sóng tăng của nhóm ngân hàng đang có dòng tiền vào mạnh.
+- Hành động: **Tiếp tục quan sát** khối lượng giao dịch trong phiên để xác nhận lực mua đỡ giá khi có tin pha loãng.
+
+- Mã: **DBC, BAF**
+- Động lực (FA): Dịch tả châu Phi bùng phát cục bộ tại các cơ sở nhỏ lẻ.
+- Nhận định dòng tiền: Dòng tiền đầu cơ nhóm chăn nuôi sẽ phản ứng mạnh trước thông tin thiếu hụt nguồn cung cục bộ.
+- Hành động: **Chú ý giải ngân** nếu xuất hiện điểm nổ khối lượng trên nền tích lũy.
+
+- Mã: **FPT**
+- Động lực (FA): Dẫn dắt nhóm công nghệ, thu hút mạnh dòng tiền tổ chức và ngoại khối.
+- Nhận định dòng tiền: Trạng thái dẫn sóng VN-Index, tâm lý nhà đầu tư cực kỳ hưng phấn.
+- Hành động: **Tiếp tục quan sát**, không đuổi giá nếu cổ phiếu đã xa vùng nền hỗ trợ quá 7-10%.
