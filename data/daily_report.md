@@ -1,24 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:30 - 03/08/2026
+⏱ Thời gian: 23:50, 03/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thủ tướng chỉ đạo giảm thuế TNDN cho DNNVV trong năm 2026 và tín hiệu đồng Yên tăng giá giúp hạ áp lực tỷ giá -> [Tích cực] -> Dòng tiền kỳ vọng xoay trục vào nhóm doanh nghiệp sản xuất quy mô vừa, các mã có nợ vay ngoại tệ lớn và nhóm bán lẻ đang hút dòng tiền (PNJ).
-- Thâm hụt thương mại tháng 7 mở rộng do chi phí nhiên liệu -> [Tiêu cực] -> Áp lực lên biên lợi nhuận nhóm vận tải (GMD, VSC) và sản xuất thép (HPG).
+- **Căng thẳng địa chính trị (Nga - drone tấn công nhà máy năng lượng):** Đẩy giá dầu thô tăng, tạo lợi thế ngắn hạn cho nhóm thượng nguồn dầu khí tại Việt Nam. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí (PVD, PVS)**.
+- **Biến động giá heo hơi (giảm xuống mức thấp nhất từ đầu năm):** Gây áp lực trực tiếp lên biên lợi nhuận của doanh nghiệp chăn nuôi. -> **Tiêu cực** -> Dòng tiền có xu hướng thoát khỏi nhóm **Chăn nuôi (DBC, BAF)**.
+- **Thị trường Bất động sản (Thanh khoản căn hộ suy giảm):** Áp lực giá neo cao và tồn kho chậm bán tiếp tục gây khó cho dòng tiền kinh doanh. -> **Tiêu cực** -> Cần thận trọng với nhóm **BĐS dân dụng (VHM, DXG, NLG)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PNJ**
-  - Động lực (FA): Dẫn dắt nhóm bán lẻ, thu hút dòng tiền mạnh mẽ trong phiên đầu tháng 8.
-  - Nhận định dòng tiền: Dòng tiền thông minh xác nhận sự hưng phấn, PNJ đang đóng vai trò trụ cột tâm lý.
-  - Hành động: Tiếp tục quan sát đà tăng, chú ý điểm chốt lời ngắn hạn khi chạm kháng cự kỹ thuật.
-- Mã: **VHM, DXG, NLG**
-  - Động lực (FA): Thanh khoản căn hộ Hà Nội/TP.HCM suy giảm do neo giá cao.
-  - Nhận định dòng tiền: Rủi ro kẹt vốn, áp lực bán có thể gia tăng khi tâm lý nhà đầu tư bất động sản thận trọng hơn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu giá mất các hỗ trợ cứng.
-- Mã: **HPG**
-  - Động lực (FA): Tác động trái chiều giữa hưởng lợi tỷ giá (Yên) và chi phí nguyên liệu đầu vào tăng (thâm hụt thương mại).
-  - Nhận định dòng tiền: Biến động giằng co, thiếu động lực bứt phá rõ rệt trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát.
-- Mã: **FPT, MBB**
-  - Động lực (FA): Dòng tiền bắt đáy xác nhận xu hướng tăng tại nhóm Bluechips.
-  - Nhận định dòng tiền: Dòng tiền chủ động (smart money) đang quay lại nhóm vốn hóa lớn.
-  - Hành động: Chú ý giải ngân theo đà tăng (trend following).
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu thô thế giới tăng do gián đoạn nguồn cung từ Nga.
+    - Nhận định dòng tiền: Hưởng lợi từ sự kỳ vọng cải thiện giá thuê giàn khoan và biên lợi nhuận ngắn hạn.
+    - Hành động: **Chú ý giải ngân** theo chiến lược đánh sóng năng lượng.
+- **Mã: VPH**
+    - Động lực (FA): Rủi ro pháp lý liên quan đến ban lãnh đạo cấp cao (khởi tố/tạm hoãn xuất cảnh).
+    - Nhận định dòng tiền: Áp lực bán tháo do tâm lý hoảng loạn và rủi ro thanh khoản cổ phiếu.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế để quản trị rủi ro.
+- **Mã: DBC, BAF**
+    - Động lực (FA): Giá heo hơi giảm sâu tạo áp lực lên biên lợi nhuận gộp.
+    - Nhận định dòng tiền: Dòng tiền suy yếu do kết quả kinh doanh kỳ tới dự báo kém khả quan.
+    - Hành động: **Tiếp tục quan sát**, không bắt đáy khi chưa có tín hiệu phục hồi giá đầu ra.
