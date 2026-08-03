@@ -1,26 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:45 - 03/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 19:10 - 03/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đề xuất tăng cường phân cấp, giao quyền cho Petrovietnam (PVN):** -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Dịch vụ kỹ thuật dầu khí (PVS, PVD)** nhờ kỳ vọng đẩy nhanh tiến độ dự án.
-- **Thâm hụt thương mại 3.59 tỷ USD kết hợp áp lực lãi suất USD:** -> **Tiêu cực** -> Dòng tiền sẽ thận trọng với các doanh nghiệp có nợ vay ngoại tệ lớn và phụ thuộc nhập khẩu (Điện, Khí: **POW, GAS**).
-- **Mỹ hạn chế nhập khẩu từ Trung Quốc:** -> **Tích cực** -> Nhóm **Dệt may (TNG, MSH)** hưởng lợi từ dịch chuyển đơn hàng.
-- **Dòng vốn FDI ổn định:** -> **Trung lập/Tích cực** -> Củng cố nền tảng cho nhóm **BĐS Khu công nghiệp (KBC, SZC, IDC)** trong trung hạn.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Động thái lãi suất & Tỷ giá:** Tín hiệu trái chiều từ việc Yên Nhật tăng giá (giảm áp lực tỷ giá) đối trọng với xu hướng tăng lãi suất huy động nội địa. -> **Trung lập.** -> Dòng tiền phân hóa: Nhóm sản xuất có nợ vay ngoại tệ lớn (HPG) có lợi thế tài chính, nhưng nhóm BĐS/Chứng khoán chịu áp lực chi phí vốn.
+- **Dòng vốn ngoại:** Khối ngoại giải ngân mạnh (>1.000 tỷ đồng) dẫn dắt VN-Index bứt phá. -> **Tích cực.** -> Dòng tiền tập trung mạnh vào nhóm Vốn hóa lớn (VN30) và nhóm Chứng khoán.
+- **Thương mại:** Thâm hụt thương mại tăng do giá nhiên liệu. -> **Tiêu cực.** -> Biên lợi nhuận nhóm Vận tải (GMD, VSC) chịu sức ép ngắn hạn.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS**
-  - Động lực (FA): Đề xuất phân cấp, giao quyền giúp tháo gỡ nút thắt thủ tục cho các dự án dầu khí trọng điểm.
-  - Nhận định dòng tiền: Tin tức trực diện làm gia tăng kỳ vọng về khối lượng công việc (backlog), hỗ trợ lực cầu ngắn hạn.
-  - Hành động: **Chú ý giải ngân** theo kịch bản giá vượt nền tích lũy.
-- **Mã: MSN**
-  - Động lực (FA): Thông tin lọt rổ chỉ số FTSE.
-  - Nhận định dòng tiền: Lực mua bị động từ các quỹ ETF sẽ tạo "đỡ giá" và cải thiện thanh khoản rõ rệt trong các phiên tới.
-  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng kháng cự kỹ thuật để tối ưu điểm mua.
-- **Mã: VTP**
-  - Động lực (FA): Lợi nhuận suy giảm và áp lực pha loãng cổ phiếu.
-  - Nhận định dòng tiền: Tâm lý tiêu cực chiếm ưu thế, áp lực bán có thể duy trì khi các quỹ/nhà đầu tư cá nhân cơ cấu lại danh mục.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
 - **Mã: HPG**
-  - Động lực (FA): Giá quặng sắt thế giới chạm đáy 1 năm.
-  - Nhận định dòng tiền: Biên lợi nhuận gộp kỳ vọng cải thiện tạo điểm tựa tâm lý, giúp mã giữ nhịp trong bối cảnh thị trường biến động.
-  - Hành động: **Tiếp tục quan sát** sự xác nhận của dòng tiền khối ngoại.
+    - **Động lực (FA):** Đồng Yên tăng giá giúp giảm chi phí vay ngoại tệ; giá quặng sắt thế giới chạm đáy 1 năm giúp giảm giá vốn đầu vào.
+    - **Nhận định dòng tiền:** Hưởng lợi kép từ vĩ mô quốc tế, dòng tiền ngoại hỗ trợ củng cố vị thế dẫn dắt.
+    - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc.
+- **Mã: SSI**
+    - **Động lực (FA):** Thanh khoản thị trường bùng nổ nhờ dòng tiền ngoại; hưởng lợi trực tiếp từ sự phục hồi của VN-Index.
+    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn đang cực kỳ hưng phấn, SSI là "proxy" chính cho thanh khoản thị trường.
+    - **Hành động:** Tiếp tục nắm giữ, theo dõi vùng kháng cự kỹ thuật tiếp theo.
+- **Mã: TNG, MSH**
+    - **Động lực (FA):** Mỹ gia tăng hạn chế nhập khẩu từ Trung Quốc, tạo lợi thế dịch chuyển đơn hàng sang Việt Nam.
+    - **Nhận định dòng tiền:** Dòng tiền cơ bản sẽ tìm đến nhóm dệt may trong các phiên tới khi hiệu ứng tin tức lan tỏa.
+    - **Hành động:** Chú ý giải ngân theo nhịp tích lũy của cổ phiếu.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện chưa có dữ liệu biến động mới từ EIB và BSR trong chu kỳ 15 phút này. Giữ nguyên vị thế quan sát theo chiến lược tháng 6/2026.
