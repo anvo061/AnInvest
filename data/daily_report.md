@@ -1,24 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 ngày 03/08/2026
+⏱ Thời gian: 08:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kết quả kinh doanh Quý 2/2026 phân hóa mạnh**: Nhóm Chứng khoán (SSI) và Thép (HPG) tăng trưởng thực tế, trong khi nhóm BĐS và Ngân hàng chịu áp lực từ nợ xấu trái phiếu -> **Tác động: Trung lập (Phân hóa)** -> Dòng tiền ưu tiên dịch chuyển vào nhóm có tăng trưởng lợi nhuận (Chứng khoán, Thép), rút khỏi nhóm có rủi ro thanh khoản cao (BĐS, Ngân hàng liên quan trái phiếu).
-- **Áp lực đáo hạn trái phiếu BĐS (60.000 tỷ đồng)** -> **Tác động: Tiêu cực** -> Tạo rủi ro hệ thống cho nhóm Ngân hàng (VPB, TCB, MBB) và áp lực bán giải chấp tại nhóm BĐS (NVL, PDR).
+- **Áp lực thanh khoản hệ thống:** Tín dụng bứt tốc mạnh hơn huy động vốn, kết hợp với áp lực đáo hạn 60.000 tỷ đồng trái phiếu BĐS -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm Ngân hàng (chịu áp lực NIM) và Bất động sản (rủi ro thanh khoản/nợ xấu); ưu tiên nhóm bán lẻ (MWG) có vị thế tiền mặt dồi dào.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: MWG**
+  - Động lực (FA): Vị thế doanh nghiệp có lượng tiền mặt lớn thứ 2 toàn sàn, giúp giảm áp lực chi phí vốn trong bối cảnh lãi suất huy động đang có dấu hiệu tăng.
+  - Nhận định dòng tiền: Dòng tiền phòng thủ sẽ tìm đến các mã có bảng cân đối kế toán "sạch" và dồi dào tiền mặt để trú ẩn trước biến động vĩ mô.
+  - Hành động: Chú ý giải ngân (tỷ trọng vừa phải) như một mã cổ phiếu phòng thủ trong danh mục.
+
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới giảm mạnh gây áp lực trực tiếp lên triển vọng doanh thu dịch vụ khoan.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ chịu áp lực chốt lời/cắt lỗ do triển vọng biên lợi nhuận bị thu hẹp đột ngột.
+  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ kỹ thuật, cân nhắc hạ tỷ trọng nếu mất ngưỡng hỗ trợ gần nhất.
+
 - **Mã: SSI**
-    - Động lực (FA): Kết quả kinh doanh Q2 tăng trưởng mạnh nhờ thanh khoản thị trường.
-    - Nhận định dòng tiền: Hưởng lợi từ sự phân hóa, dòng tiền thông minh sẽ tìm đến nhóm có số liệu thực tế.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (test vùng hỗ trợ).
-- **Mã: HPG**
-    - Động lực (FA): Lợi nhuận phục hồi nhờ sản lượng và biên lợi nhuận cải thiện.
-    - Nhận định dòng tiền: Động lực tăng trưởng ổn định, là trụ cột phòng thủ cho danh mục trong bối cảnh thị trường phân hóa.
-    - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
-- **Mã: NVL, PDR**
-    - Động lực (FA): Áp lực đáo hạn trái phiếu lớn, rủi ro thanh khoản.
-    - Nhận định dòng tiền: Áp lực bán tiềm ẩn cao, rủi ro điều chỉnh sâu.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-- **Mã: VPB, TCB, MBB**
-    - Động lực (FA): Rủi ro từ danh mục trái phiếu BĐS/nợ xấu.
-    - Nhận định dòng tiền: Tâm lý thận trọng khiến dòng tiền yếu, khó bứt phá trong ngắn hạn.
-    - Hành động: Tiếp tục quan sát, ưu tiên quản trị rủi ro.
+  - Động lực (FA): BCTC Quý 2 tăng trưởng nhờ thanh khoản thị trường cải thiện.
+  - Nhận định dòng tiền: Dòng tiền thông minh vẫn duy trì sự phân hóa, tập trung vào các mã có tăng trưởng thực chất thay vì đầu cơ theo tin tức chung.
+  - Hành động: Tiếp tục quan sát để tìm điểm gia tăng khi thị trường xác nhận đáy.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Tin tức giá dầu biến động mạnh 2 chiều (tăng ngắn hạn, giảm sau đó) tạo áp lực lên giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Với thời điểm tháng 8/2026, khuyến nghị **cơ cấu lại**: Dữ liệu vĩ mô hiện tại không ủng hộ việc nắm giữ dài hạn; ưu tiên chốt lời khi có nhịp hồi để đảo dòng tiền sang nhóm bán lẻ hoặc các nhóm có tăng trưởng thực tế đã phản ánh trong BCTC Q2.
