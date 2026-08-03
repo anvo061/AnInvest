@@ -1,21 +1,28 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:50, 03/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 01:45 (04/08/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị (Nga - drone tấn công nhà máy năng lượng):** Đẩy giá dầu thô tăng, tạo lợi thế ngắn hạn cho nhóm thượng nguồn dầu khí tại Việt Nam. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí (PVD, PVS)**.
-- **Biến động giá heo hơi (giảm xuống mức thấp nhất từ đầu năm):** Gây áp lực trực tiếp lên biên lợi nhuận của doanh nghiệp chăn nuôi. -> **Tiêu cực** -> Dòng tiền có xu hướng thoát khỏi nhóm **Chăn nuôi (DBC, BAF)**.
-- **Thị trường Bất động sản (Thanh khoản căn hộ suy giảm):** Áp lực giá neo cao và tồn kho chậm bán tiếp tục gây khó cho dòng tiền kinh doanh. -> **Tiêu cực** -> Cần thận trọng với nhóm **BĐS dân dụng (VHM, DXG, NLG)**.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Lãi suất huy động tăng lên mức 9,2%/năm:** -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm cổ phiếu thị trường (Chứng khoán, Bất động sản) để tìm đến kênh trú ẩn hoặc tối ưu hóa tiền gửi; gây áp lực tăng chi phí vốn doanh nghiệp.
+- **Căng thẳng địa chính trị tại Nga (tấn công nhà máy năng lượng):** -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí (PVD, PVS) do kỳ vọng giá dầu neo cao.
+- **Giá heo hơi giảm sâu:** -> **Tiêu cực** -> Áp lực giảm biên lợi nhuận lên nhóm ngành Chăn nuôi (DBC, BAF).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
 - **Mã: PVD**
-    - Động lực (FA): Giá dầu thô thế giới tăng do gián đoạn nguồn cung từ Nga.
-    - Nhận định dòng tiền: Hưởng lợi từ sự kỳ vọng cải thiện giá thuê giàn khoan và biên lợi nhuận ngắn hạn.
-    - Hành động: **Chú ý giải ngân** theo chiến lược đánh sóng năng lượng.
-- **Mã: VPH**
-    - Động lực (FA): Rủi ro pháp lý liên quan đến ban lãnh đạo cấp cao (khởi tố/tạm hoãn xuất cảnh).
-    - Nhận định dòng tiền: Áp lực bán tháo do tâm lý hoảng loạn và rủi ro thanh khoản cổ phiếu.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế để quản trị rủi ro.
+    - **Động lực (FA):** Căng thẳng tại Nga làm gián đoạn nguồn cung năng lượng toàn cầu, đẩy giá dầu thô tăng.
+    - **Nhận định dòng tiền:** Hưởng lợi từ sự dịch chuyển dòng tiền sang nhóm năng lượng để phòng thủ rủi ro vĩ mô và đầu cơ giá dầu.
+    - **Hành động:** Chú ý giải ngân nếu giữ vững nền hỗ trợ ngắn hạn.
+
+- **Mã: SSI, VND**
+    - **Động lực (FA):** Lãi suất huy động tăng lên 9,2% làm giảm sức hấp dẫn của thị trường chứng khoán so với tiền gửi.
+    - **Nhận định dòng tiền:** Áp lực bán gia tăng do chi phí margin tăng và tâm lý dịch chuyển dòng vốn sang tiết kiệm.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát thanh khoản, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
+
 - **Mã: DBC, BAF**
-    - Động lực (FA): Giá heo hơi giảm sâu tạo áp lực lên biên lợi nhuận gộp.
-    - Nhận định dòng tiền: Dòng tiền suy yếu do kết quả kinh doanh kỳ tới dự báo kém khả quan.
-    - Hành động: **Tiếp tục quan sát**, không bắt đáy khi chưa có tín hiệu phục hồi giá đầu ra.
+    - **Động lực (FA):** Giá heo hơi giảm xuống mức thấp nhất từ đầu năm.
+    - **Nhận định dòng tiền:** Suy yếu do biên lợi nhuận gộp bị bào mòn trực tiếp.
+    - **Hành động:** Tiếp tục quan sát, hạn chế bắt đáy cho đến khi giá heo hơi tạo đáy kỹ thuật.
+
+- **Mã: NVL, PDR**
+    - **Động lực (FA):** Chi phí lãi vay tăng cao do lãi suất huy động của hệ thống ngân hàng tăng mạnh.
+    - **Nhận định dòng tiền:** Tiêu cực do áp lực tài chính đối với doanh nghiệp đòn bẩy cao.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần ưu tiên quản trị rủi ro.
