@@ -1,18 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:15 - 04/08/2026
+⏱ Thời gian: 01:15 - 05/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đề xuất khôi phục Quỹ rủi ro tìm kiếm, thăm dò dầu khí:** -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm thượng nguồn (PVD, PVS) do tháo gỡ được nút thắt tài chính cho các dự án khai thác mới.
-- **Áp lực tăng lãi suất huy động:** -> **Tiêu cực** -> Gây áp lực lên biên lãi thuần (NIM) của nhóm Ngân hàng và làm giảm sức hấp dẫn của thị trường chứng khoán trong ngắn hạn khi chi phí vốn (COF) tăng.
-- **Giá tôm nguyên liệu giảm sâu:** -> **Tiêu cực** -> Cảnh báo rủi ro biên lợi nhuận cho nhóm xuất khẩu thủy sản.
+- **Phê duyệt mã số vùng trồng cho sầu riêng:** Việc tháo gỡ rào cản kỹ thuật xuất khẩu sang các thị trường lớn giúp cải thiện triển vọng biên lợi nhuận nhóm nông nghiệp. -> **Tích cực** -> Dòng tiền hướng vào: **Nhóm Nông nghiệp (Trọng tâm: HAG).**
+- **Đầu tư dự án điện mặt trời Dầu Tiếng 5 (7.774 tỷ VNĐ):** Quy mô dự án lớn thúc đẩy nhu cầu xây lắp hạ tầng năng lượng. -> **Tích cực** -> Dòng tiền hướng vào: **Nhóm Xây lắp điện & Thiết bị năng lượng (Core ticker: PC1).**
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-- **Động lực (FA):** Chủ tịch Petrovietnam đề xuất khôi phục Quỹ rủi ro thăm dò và Bộ Công Thương đẩy mạnh chính sách thu hút đầu tư dầu khí.
-- **Nhận định dòng tiền:** Củng cố kỳ vọng về khối lượng công việc (backlog) tăng trưởng bền vững, hỗ trợ duy trì dòng tiền ổn định tại nhóm cổ phiếu dầu khí.
-- **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, hưởng lợi từ sóng chính sách.
+- **Mã:** HAG
+- **Động lực (FA):** Được phê duyệt mã số vùng trồng xuất khẩu sầu riêng chính ngạch.
+- **Nhận định dòng tiền:** Tin tức hỗ trợ trực tiếp vào câu chuyện tăng trưởng lợi nhuận, kỳ vọng tạo lực cầu tích cực trong ngắn hạn.
+- **Hành động:** Chú ý giải ngân (Canh điểm mua theo kỹ thuật intraday, tránh đua lệnh giá xanh mạnh).
 
-- **Mã:** MBS
-- **Động lực (FA):** Ngày GDKHQ trả cổ tức 2025 (1.000 đ/cp) vào 17/8/2026.
-- **Nhận định dòng tiền:** Tạo tâm lý tích cực, giữ chân dòng tiền đầu tư giá trị trong bối cảnh thanh khoản thị trường chung đang biến động do áp lực lãi suất.
-- **Hành động:** Tiếp tục quan sát vị thế, nắm giữ cho mục tiêu nhận cổ tức.
+- **Mã:** PC1
+- **Động lực (FA):** Hưởng lợi gián tiếp từ làn sóng đầu tư hạ tầng điện mới (Dự án điện mặt trời Dầu Tiếng 5).
+- **Nhận định dòng tiền:** Nhu cầu xây lắp điện hạ tầng đang duy trì ổn định, tin tức này củng cố trạng thái tích cực cho dòng tiền vào nhóm xây lắp điện.
+- **Hành động:** Tiếp tục quan sát (Canh nhịp điều chỉnh để gia tăng vị thế).
