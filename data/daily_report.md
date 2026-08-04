@@ -1,23 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:00 - 05/08/2026
+⏱ Thời gian: 04:15 - 05/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất liên ngân hàng vọt lên 6,3%: Đánh giá **Tiêu cực** -> Dòng tiền sẽ rút khỏi các nhóm ngành có đòn bẩy tài chính cao (Bất động sản) và nhóm chứng khoán (áp lực giảm margin), ưu tiên dịch chuyển sang nhóm có tiền mặt lớn hoặc doanh nghiệp vận tải hưởng lợi từ chi phí nhiên liệu giảm.
+- Lãi suất liên ngân hàng vọt lên 6,3% tạo áp lực thanh khoản hệ thống -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi các nhóm cổ phiếu nhạy cảm với đòn bẩy (Chứng khoán, Bất động sản) và chuyển dịch sang phòng thủ.
+- Ngược chiều, lãi suất huy động tại một số ngân hàng giảm -> **Trung lập (nhiễu)** -> Sự phân hóa tín hiệu lãi suất cho thấy thanh khoản đang mất cân bằng giữa các định chế tài chính, ưu tiên kiểm soát rủi ro danh mục thay vì mở rộng margin.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND, VCB, TCB**
-  - Động lực (FA): Lãi suất qua đêm tăng đột biến gây căng thẳng thanh khoản hệ thống.
-  - Nhận định dòng tiền: Áp lực bán mạnh ngắn hạn do chi phí vốn tăng bào mòn biên lợi nhuận và nhu cầu sử dụng đòn bẩy giảm.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên quản trị rủi ro, hạ tỷ trọng đối với các vị thế lướt sóng margin.
-- **Mã: GMD, HAH**
-  - Động lực (FA): Giá dầu thế giới giảm, chi phí vận hành đội tàu/xe giảm.
-  - Nhận định dòng tiền: Dòng tiền phòng thủ có xu hướng tìm đến nhóm ngành giảm được chi phí đầu vào trong bối cảnh vĩ mô biến động.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ gần nhất.
-- **Mã: HAG**
-  - Động lực (FA): Mở rộng xuất khẩu sầu riêng chính ngạch qua Trung Quốc.
-  - Nhận định dòng tiền: Điểm sáng riêng lẻ giúp cổ phiếu tách rời đà giảm chung của thị trường.
-  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc theo chỉ số chung.
-- **Mã: NVL, PDR, MWG**
-  - Động lực (FA): Lãi suất tăng làm tăng chi phí lãi vay và giảm sức mua tiêu dùng.
-  - Nhận định dòng tiền: Dòng tiền thoái lui do áp lực chi phí tài chính đè nặng lên lợi nhuận quý tới.
-  - Hành động: **Rủi ro vi phạm kịch bản**, hạn chế bắt đáy.
+- **Mã: SSI, VND (Nhóm Chứng khoán)**
+    - Động lực (FA): Lãi suất liên ngân hàng tăng vọt làm thắt chặt thanh khoản, giảm nhu cầu sử dụng đòn bẩy (margin).
+    - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng do chi phí vốn tăng, gây tiêu cực trực tiếp lên lợi nhuận mảng nguồn vốn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, cần giảm tỷ trọng margin ngay lập tức.
+- **Mã: ACV, SCS (Nhóm Hạ tầng hàng không)**
+    - Động lực (FA): Các hãng bay quốc tế khảo sát sân bay Long Thành, tập trung mảng logistics.
+    - Nhận định dòng tiền: Hưởng lợi kỳ vọng dài hạn, tuy nhiên trong bối cảnh thanh khoản vĩ mô đang căng thẳng, dòng tiền đầu cơ có thể chưa đẩy giá mạnh ngay.
+    - Hành động: **Tiếp tục quan sát** phản ứng tại các vùng hỗ trợ cứng, chưa vội giải ngân đuổi theo tin tức.
+- **Mã: NVL, PDR (Nhóm Bất động sản)**
+    - Động lực (FA): Môi trường lãi suất cao kéo dài làm tăng mạnh chi phí tài chính.
+    - Nhận định dòng tiền: Dòng tiền thông minh sẽ né tránh các mã có tỷ lệ nợ vay cao trong môi trường thanh khoản liên ngân hàng 6,3%.
+    - Hành động: **Rủi ro vi phạm kịch bản**, cơ cấu danh mục sang nhóm ít nợ vay.
+- **Mã: GMD, HAH (Nhóm Vận tải)**
+    - Động lực (FA): Giá dầu thế giới giảm, hỗ trợ biên lợi nhuận.
+    - Nhận định dòng tiền: Nhóm cổ phiếu phòng thủ hưởng lợi từ chi phí đầu vào, có thể là điểm trú ẩn ngắn hạn khi thị trường rung lắc do tin lãi suất.
+    - Hành động: **Chú ý giải ngân** nếu thị trường chung điều chỉnh sâu.
