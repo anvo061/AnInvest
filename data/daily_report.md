@@ -1,27 +1,29 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 19:15 ngày 04/08/2026
+⏱ **Thời gian:** 20:45 - 04/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất huy động của các ngân hàng thương mại lớn tiếp tục tăng mạnh:** -> [Đánh giá tác động: **Tiêu cực**] -> [Dòng tiền sẽ chịu áp lực rút ròng khỏi các nhóm ngành có đòn bẩy tài chính cao (Bất động sản) và nhóm Chứng khoán do chi phí vốn tăng].
-- **TP.HCM đẩy mạnh hạ tầng Trung tâm dữ liệu:** -> [Đánh giá tác động: **Tích cực**] -> [Dòng tiền kỳ vọng phân hóa vào nhóm Công nghệ & Hạ tầng số].
+- **Lãi suất huy động tăng:** Áp lực chi phí vốn (COF) lên toàn thị trường, đặc biệt nhóm Bất động sản và các doanh nghiệp đòn bẩy tài chính cao -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm đầu cơ, trú ẩn vào nhóm có kết quả kinh doanh đột biến.
+- **Thúc đẩy đầu tư dầu khí:** Đề xuất khôi phục Quỹ rủi ro tìm kiếm, thăm dò dầu khí và nới lỏng chính sách đầu tư ngành -> **Tích cực** -> Dòng tiền tập trung nhóm thượng nguồn (PVD, PVS).
+- **Hạ tầng Trung tâm dữ liệu tại TP.HCM:** Đẩy mạnh làn sóng đầu tư hạ tầng số -> **Tích cực** -> Dòng tiền hướng vào nhóm Công nghệ (FPT, CMG).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **MWG**
-  - **Động lực (FA):** Bách Hóa Xanh dự kiến đạt lợi nhuận gần 1.000 tỷ đồng, khẳng định thành công trong tái cấu trúc.
-  - **Nhận định dòng tiền:** Cải thiện niềm tin đầu tư, tạo động lực tăng trưởng bền vững cho biên lợi nhuận hợp nhất.
-  - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh theo áp lực thị trường chung.
 
-- **Mã:** **VHM, PDR, SSI**
-  - **Động lực (FA):** Áp lực từ việc lãi suất huy động tăng, làm tăng chi phí lãi vay (đối với VHM, PDR) và tăng chi phí vốn margin (đối với SSI).
-  - **Nhận định dòng tiền:** Rủi ro điều chỉnh ngắn hạn do áp lực định giá từ chi phí vốn tăng.
-  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu gãy các mốc hỗ trợ kỹ thuật quan trọng.
+*   **Mã: PVD**
+    *   **Động lực (FA):** Chủ tịch PVN đề xuất khôi phục Quỹ rủi ro tìm kiếm thăm dò + Định hướng nới lỏng chính sách đầu tư dầu khí.
+    *   **Nhận định dòng tiền:** Gia tăng kỳ vọng vào khối lượng việc làm (backlog) thượng nguồn, củng cố đà tăng giá ngắn hạn.
+    *   **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì trên nền giá hiện tại.
 
-- **Mã:** **FPT, CMG**
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ định hướng phát triển hạ tầng trung tâm dữ liệu tại TP.HCM.
-  - **Nhận định dòng tiền:** Thu hút dòng tiền trung và dài hạn nhờ câu chuyện tăng trưởng hạ tầng số rõ ràng.
-  - **Hành động:** Tiếp tục nắm giữ, quan sát tín hiệu dòng tiền gia tăng tại các vùng tích lũy.
+*   **Mã: MWG**
+    *   **Động lực (FA):** Bách Hóa Xanh dự kiến đạt lãi 1.000 tỷ đồng, xác nhận điểm rơi lợi nhuận từ tái cấu trúc.
+    *   **Nhận định dòng tiền:** Hỗ trợ giá mạnh mẽ, tách biệt khỏi biến động tiêu cực của lãi suất chung.
+    *   **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc kỹ thuật.
 
-- **Mã:** **HBC**
-  - **Động lực (FA):** Hoàn tất trả nợ 514 tỷ đồng bằng cổ phiếu.
-  - **Nhận định dòng tiền:** Giảm áp lực nợ vay ngắn hạn, cải thiện bảng cân đối kế toán.
-  - **Hành động:** Tiếp tục quan sát để đánh giá sự ổn định của cấu trúc tài chính sau khi pha loãng cổ phiếu.
+*   **Mã: MBS**
+    *   **Động lực (FA):** Ngày 17/8 GDKHQ trả cổ tức tiền mặt 1.000 đ/cp.
+    *   **Nhận định dòng tiền:** Tác động tích cực, tạo lực đỡ cho cổ phiếu trong giai đoạn thị trường nhạy cảm với lãi suất.
+    *   **Hành động:** Quan sát nhịp tích lũy trước ngày GDKHQ.
+
+*   **Mã: VHM, PDR**
+    *   **Động lực (FA):** Lãi suất huy động tăng mạnh.
+    *   **Nhận định dòng tiền:** Áp lực bán gia tăng do chi phí tài chính dự kiến phình to.
+    *   **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật gần nhất.
