@@ -1,5 +1,106 @@
 ﻿[
   {
+    "Title": "HOSE công bố 57 mã cổ phiếu bị cắt margin tháng 8 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2xYTXJpd3c5WUpkcjRsTm1FQmc0V3dQM0xYdWV1MlIwTzBGaVVCbkNISXhLOWVQLXVtSzZFbm9Hc3dlZk5XMUtHV0ZTUFh4Z1VLaFV6cGxJWXpPYWx4SkhfYjUyZVI1RlhkTGFqVTdKS2RuQ2dzV0hCZVhmVGNUdWdXVG5QTG10dEJNSWpCZmwyV0E?oc=5",
+    "PubDate": "Tue, 04 Aug 2026 03:36:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Việc cắt margin làm giảm sức mua của nhà đầu tư đối với các mã bị ảnh hưởng, gây áp lực bán giải chấp và làm giảm thanh khoản ngắn hạn của các cổ phiếu này.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Việc cắt margin trực tiếp làm giảm sức mua, gây áp lực bán giải chấp ngắn hạn. Dòng tiền đầu cơ sẽ rút lui, ưu tiên quản trị rủi ro tại các mã bị ảnh hưởng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu có tính đầu cơ cao, việc cắt margin dễ gây áp lực bán tháo."
+      },
+      {
+        "Ticker": "DIG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhà đầu tư cá nhân ưa thích margin, việc cắt margin làm giảm lực cầu đáng kể."
+      }
+    ],
+    "AnalyzedAt": "2026-08-04 11:29:22"
+  },
+  {
+    "Title": "Thị trường chứng khoán Việt Nam sẽ diễn biến ra sao trong phần còn lại của năm 2026? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcG13VTA5bGVBZVM1d1B3d0FmS2dsVjBfU2JJTXdQbElzMmVpSlR4UVQyRFRvclZQUElnME5pN1dlVnJEMnhxZjY0T1ZPRHRLLWExamxLaWtKdTE5V0lBeUZKdUNmQ2VzM3d0RVdsLUVkbGFIcGI0VUwxc0J1S0tXd2J6bFpGbU1JdlR0cXFkSkNyRllfS3ltYmJ1SmJ1VWRVSndHZG95a2xoXzkza0xWMThfdTdQVk4zTk83b3pia0I?oc=5",
+    "PubDate": "Tue, 04 Aug 2026 03:12:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất nhận định, dự báo tổng quan về thị trường, không chứa thông tin sự kiện cụ thể hay thay đổi vĩ mô tác động trực tiếp đến doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất quan điểm cá nhân, không có dữ liệu mới tác động đến dòng tiền thông minh. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-04 11:29:12"
+  },
+  {
+    "Title": "Ai vừa tung hàng trăm tỷ \"bắt đáy\" PNJ? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkFGSlRNejJXdV9pLUxkNDhJMzZ4THZNTTN3d2VDa0ZpX3c1dm02QXdpZEpGSm10LXpNOGd6OXdlbkY2S0NPZEh6dnExbzM3Q2c5bmtNSnkzanAtMm1hU21kdnkzN1NDODNjaWoxaUNLc3hCZ0l2QzVmT01NdnAwQzRn?oc=5",
+    "PubDate": "Mon, 03 Aug 2026 08:45:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc dòng tiền lớn tham gia bắt đáy PNJ cho thấy vùng giá hiện tại đã được các tổ chức xác nhận là vùng hỗ trợ mạnh, giúp cải thiện tâm lý nhà đầu tư đối với nhóm bán lẻ trang sức.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - PNJ. Dòng tiền bắt đáy mang tính đầu cơ ngắn hạn, chưa xác nhận xu hướng đảo chiều trung hạn. Cần quan sát thêm thanh khoản tại vùng hỗ trợ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Dòng tiền lớn giải ngân bắt đáy xác nhận vùng hỗ trợ kỹ thuật, giảm áp lực bán tháo và tạo động lực hồi phục ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-04 11:28:57"
+  },
+  {
+    "Title": "Cà phê Robusta: Không còn 'lấy nhân, bỏ vỏ'",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ca-phe-robusta-khong-con-lay-nhan-bo-vo-10026080313475267.htm",
+    "PubDate": "8/4/2026 10:00:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc tối ưu hóa chuỗi giá trị cà phê, tận dụng phụ phẩm giúp doanh nghiệp tăng biên lợi nhuận, giảm chi phí sản xuất và nâng cao giá trị xuất khẩu bền vững.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất định hướng ngành, chưa có tác động trực tiếp đến báo cáo tài chính quý gần nhất. Cần theo dõi thêm khả năng thương mại hóa phụ phẩm.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-04 11:28:41"
+  },
+  {
+    "Title": "Giảm thuế cho doanh nghiệp nhỏ: Không chỉ là câu chuyện thuế suất",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/giam-thue-cho-doanh-nghiec-nho-khong-chi-la-cau-chuyen-thue-suat-100260804093929896.htm",
+    "PubDate": "8/4/2026 11:06:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc giảm thuế thu nhập doanh nghiệp giúp cải thiện biên lợi nhuận ròng cho các doanh nghiệp vừa và nhỏ, tăng khả năng tái đầu tư và cải thiện dòng tiền hoạt động.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách thuế là tin vĩ mô định hướng, chưa có tác động dòng tiền tức thời. Cần theo dõi lộ trình thực thi cụ thể để đánh giá biên lợi nhuận thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-04 11:28:26"
+  },
+  {
+    "Title": "ACB góp mặt trong Top 20 VNSI 2026",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//acb-gop-mat-trong-top-20-vnsi-2026.html",
+    "PubDate": "Tue, 04 Aug 2026 02:00:06 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc lọt vào rổ chỉ số VNSI giúp ACB thu hút dòng vốn từ các quỹ đầu tư theo tiêu chuẩn ESG, gia tăng uy tín và thanh khoản cho cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Việc vào rổ VNSI là tin tức định tính, tác động dòng vốn thụ động không đáng kể trong ngắn hạn. Cần quan sát thêm thanh khoản thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "ACB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Được đưa vào rổ chỉ số VNSI giúp tăng sự chú ý từ các quỹ đầu tư bền vững, hỗ trợ thanh khoản và giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-04 11:28:08"
+  },
+  {
     "Title": "Southeast Asia’s Factory Activity Bounces Back From 11-Month Low - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHJObVdrRUVTcjVqeEF4VUNWZEJKM0tUZ3JMUmZoVVVHOWhnMlNYSUpvU1hERkYwVGo0emZ5WG1ReFZ0RDNUUXB0bDNUZ3hOckxuZWd3X1FIOU53VWtYSDgyUTZHR0ltaVhLWUdiT0tKZ0FMQ3hmRnVXcDljLUNQVk1pTnBBamd2c3VVRmYwb1NWanFxcU5zRFBDOXZLODZhNTd5QWR4M1Vldi05QThrdjRUN2Z5QQ?oc=5",
@@ -17743,126 +17844,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-23 13:46:01"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 23/7/2026: Gửi tiết kiệm kỳ hạn dài lên tới 7,8%/năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-23-7-2026-gui-tiet-kiem-ky-han-dai-len-toi-7-8-nam-2538303.html",
-    "PubDate": "Thu, 23 Jul 2026 10:44:40 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Lãi suất huy động tăng gây áp lực lên chi phí vốn của các ngân hàng và làm giảm sức hấp dẫn của thị trường chứng khoán so với kênh tiền gửi tiết kiệm.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực lên chi phí vốn toàn thị trường, làm giảm định giá P/E và sức hấp dẫn của cổ phiếu so với kênh tiết kiệm.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-23 13:45:47"
-  },
-  {
-    "Title": "Bộ Tài chính: Sai sót về thuế đất, cơ quan quản lý phải tự đính chính",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/bo-tai-chinh-sai-sot-ve-thue-dat-co-quan-quan-ly-phai-tu-dinh-chinh-2538253.html",
-    "PubDate": "Thu, 23 Jul 2026 10:46:41 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là quy định mang tính chất hành chính, hướng dẫn quy trình xử lý sai sót nghiệp vụ của cơ quan thuế, không làm thay đổi nghĩa vụ tài chính hay biên lợi nhuận của các doanh nghiệp bất động sản.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là quy trình hành chính nội bộ của cơ quan quản lý, không ảnh hưởng đến dòng tiền hay định giá cổ phiếu bất động sản.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-23 13:45:37"
-  },
-  {
-    "Title": "Bộ Công Thương đề xuất doanh nghiệp tự quyết, tự công bố giá xăng dầu",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/bo-cong-thuong-de-xuat-doanh-nghiep-tu-quyet-tu-cong-bo-gia-xang-dau-2538349.html",
-    "PubDate": "Thu, 23 Jul 2026 11:31:26 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Việc tự quyết giá giúp các doanh nghiệp đầu mối xăng dầu chủ động hơn trong việc bù đắp chi phí kinh doanh, giảm thiểu rủi ro thua lỗ do độ trễ của cơ chế điều hành giá cũ, cải thiện biên lợi nhuận.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Phân phối xăng dầu. Cơ chế thị trường giúp doanh nghiệp chủ động biên lợi nhuận, giảm rủi ro tồn kho. Dòng tiền sẽ tập trung vào các mã đầu mối có hệ thống phân phối lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PLX",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp đầu mối lớn nhất, hưởng lợi trực tiếp từ việc chủ động giá bán để tối ưu hóa biên lợi nhuận."
-      },
-      {
-        "Ticker": "OIL",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cơ chế mới giúp giảm áp lực tài chính và cải thiện hiệu quả kinh doanh cho hệ thống phân phối của PVOIL."
-      }
-    ],
-    "AnalyzedAt": "2026-07-23 13:45:22"
-  },
-  {
-    "Title": "Lãi suất cho vay âm thầm vượt ngưỡng 10%",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//lai-suat-cho-vay-am-tham-vuot-nguong-10.html",
-    "PubDate": "Thu, 23 Jul 2026 00:54:57 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -8,
-    "MarketImpact": "Lãi suất cho vay tăng cao làm tăng chi phí tài chính, bào mòn biên lợi nhuận của các doanh nghiệp sử dụng đòn bẩy cao, đồng thời gây áp lực lên định giá cổ phiếu trên thị trường.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm thâm dụng vốn. Lãi suất vay >10% bào mòn biên lợi nhuận doanh nghiệp nợ cao. Dòng tiền sẽ rút khỏi các mã có đòn bẩy tài chính lớn và rủi ro thanh khoản.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "NVL",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực chi phí lãi vay lớn trong bối cảnh nợ vay cao, ảnh hưởng trực tiếp đến lợi nhuận ròng."
-      },
-      {
-        "Ticker": "PDR",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vốn tăng làm giảm hiệu quả sử dụng vốn và gây áp lực lên dòng tiền hoạt động."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lãi suất cao làm giảm nhu cầu vay mua nhà của khách hàng, ảnh hưởng tiến độ bán hàng."
-      }
-    ],
-    "AnalyzedAt": "2026-07-23 13:45:08"
-  },
-  {
-    "Title": "Margin lập đỉnh, thị trường lại thấp thỏm nỗi lo call margin",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//margin-lap-dinh-thi-truong-lai-thap-thom-noi-lo-call-margin.html",
-    "PubDate": "Thu, 23 Jul 2026 00:55:25 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -7,
-    "MarketImpact": "Dư nợ margin cao kỷ lục trong bối cảnh thanh khoản suy giảm tạo rủi ro bán giải chấp (force sell) dây chuyền, gây áp lực điều chỉnh mạnh lên các cổ phiếu có tỷ lệ đòn bẩy cao.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chứng khoán. Margin lập đỉnh khi thanh khoản yếu là tín hiệu rủi ro cao. Dòng tiền thông minh sẽ ưu tiên hạ tỷ trọng cổ phiếu có beta cao để tránh hiệu ứng bán giải chấp.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực bán giải chấp danh mục margin của khách hàng làm giảm doanh thu phí và rủi ro nợ xấu cho CTCK."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Rủi ro thanh khoản từ danh mục cho vay margin cao khi thị trường rung lắc mạnh."
-      },
-      {
-        "Ticker": "VCI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực bán tháo cổ phiếu trong danh mục margin gây rủi ro cho hoạt động môi giới và cho vay."
-      }
-    ],
-    "AnalyzedAt": "2026-07-23 13:44:53"
-  },
-  {
-    "Title": "Nữ tỷ phú Nguyễn Thị Phương Thảo khai phiên chứng khoán Luân Đôn",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//nu-ty-phu-nguyen-thi-phu-nguyen-thi-phuong-thao-khai-phien-chung-khoan-luan-don.html",
-    "PubDate": "Thu, 23 Jul 2026 04:40:59 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là sự kiện mang tính chất ngoại giao và quảng bá hình ảnh doanh nghiệp tại thị trường quốc tế, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết tại Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Sự kiện mang tính chất ngoại giao, không thay đổi cấu trúc dòng tiền hay kỳ vọng lợi nhuận của doanh nghiệp trên sàn chứng khoán Việt Nam.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-23 13:44:42"
   }
 ]
