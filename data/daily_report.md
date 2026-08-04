@@ -1,21 +1,19 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 11:45 - 04/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 14:30 - 04/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Phục hồi sản xuất tại Đông Nam Á:** Chỉ số hoạt động sản xuất khu vực phục hồi từ mức thấp nhất 11 tháng -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm **Khu công nghiệp (KBC, GVR, SZC)** và **Logistics/Cảng biển (GMD, HAH)**.
-- **Áp lực nợ xấu ngành ngân hàng:** Gánh nặng dự phòng gia tăng ảnh hưởng đến lợi nhuận nhóm nhà băng -> **Tiêu cực** -> Thận trọng với các mã có rủi ro nợ xấu cao.
-- **Thay đổi chính sách Margin:** HOSE cắt margin 57 mã cổ phiếu -> **Tiêu cực** -> Áp lực bán giải chấp ngắn hạn tại nhóm đầu cơ (NVL, DIG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Giá quặng sắt thế giới chạm mức thấp nhất 13 tháng -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến phân bổ vào nhóm **Thép (HPG)** nhờ kỳ vọng cải thiện biên lợi nhuận gộp từ chi phí đầu vào giảm.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** PNJ
-  - **Động lực (FA):** Dòng tiền lớn xác nhận giải ngân tại vùng hỗ trợ kỹ thuật.
-  - **Nhận định dòng tiền:** Lực cầu đối ứng mạnh giúp hấp thụ áp lực bán, tạo nền giá ngắn hạn vững chắc.
-  - **Hành động:** Chú ý giải ngân tại vùng hỗ trợ, quản trị rủi ro nếu thủng nền giá bắt đáy của tổ chức.
-- **Mã:** ACB
-  - **Động lực (FA):** Được đưa vào rổ chỉ số VNSI 2026.
-  - **Nhận định dòng tiền:** Thu hút dòng vốn bền vững (ESG), hỗ trợ thanh khoản và tạo tâm lý tích cực vượt trội so với mặt bằng chung ngành ngân hàng đang bị áp lực dự phòng.
-  - **Hành động:** Tiếp tục nắm giữ, theo dõi vùng tích lũy.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: EIB**
-  - **Nhận định:** Dữ liệu cho thấy gánh nặng nợ xấu và chi phí dự phòng đang ăn mòn lợi nhuận. Đối chiếu với kỳ vọng trung hạn tháng 3/2026 đã qua, tình trạng tài chính hiện tại không cho thấy sự cải thiện đột biến. **Khuyến nghị: Cắt giảm tỷ trọng/Đảo dòng tiền sang các mã có nền tảng tài chính lành mạnh hơn.**
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **HDB**
+  - Động lực (FA): Kế hoạch chia cổ tức và cổ phiếu thưởng tổng tỷ lệ 30%.
+  - Nhận định dòng tiền: Tin tức củng cố sức khỏe tài chính, tạo tín hiệu tích cực cho tâm lý nhà đầu tư ngắn hạn, dự báo dòng tiền mua vào gia tăng.
+  - Hành động: Chú ý giải ngân tại vùng hỗ trợ hiện tại.
+- Mã: **HBC**
+  - Động lực (FA): Phát hành cổ phiếu hoán đổi nợ kết hợp với áp lực tài chính kéo dài (vết sẹo tài chính).
+  - Nhận định dòng tiền: Pha loãng cổ phiếu đi kèm rủi ro nợ xấu dai dẳng, dòng tiền khả năng tiếp tục suy yếu và chịu áp lực bán.
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng cao độ.
+- Mã: **ACV**
+  - Động lực (FA): Gánh nặng nợ khó đòi 2.700 tỷ từ Bamboo Airways.
+  - Nhận định dòng tiền: Tác động tiêu cực trực tiếp đến lợi nhuận ngắn hạn, gây áp lực điều chỉnh lên thị giá.
+  - Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ cứng.
