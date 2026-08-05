@@ -1,23 +1,23 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 00:15 (06/08/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 01:25 - 06/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tăng lãi suất huy động tại nhóm ngân hàng quốc doanh:** -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi các nhóm cổ phiếu nhạy cảm với lãi suất (Bất động sản như VHM, NVL) và gây áp lực thu hẹp biên lợi nhuận (NIM) lên nhóm Ngân hàng.
-- **Leo thang căng thẳng thương mại Mỹ - Trung:** -> **Tiêu cực** -> Rủi ro đứt gãy chuỗi cung ứng toàn cầu gây áp lực bán lên nhóm xuất khẩu và logistics (GMD, HAH, VHC, TNG).
-- **Thỏa thuận thương mại Việt - Mỹ & Phát triển KCN công nghệ số (VNPT-GVR):** -> **Tích cực** -> Dòng tiền kỳ vọng phân hóa vào nhóm Bất động sản khu công nghiệp có quỹ đất sẵn sàng và hưởng lợi từ dịch chuyển FDI (KBC, SZC, GVR).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Việt Nam ghi nhận tốc độ tăng trưởng kinh tế nhanh nhất Đông Nam Á trong 2 năm qua và kỳ vọng nâng hạng thị trường chứng khoán -> **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Vốn hóa lớn (Large-cap)** và **Bất động sản khu công nghiệp**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: GVR**
-    - **Động lực (FA):** Hợp tác với VNPT phát triển khu công nghiệp công nghệ số.
-    - **Nhận định dòng tiền:** Hỗ trợ tích cực, giúp cân bằng lại tâm lý tiêu cực từ vĩ mô lãi suất.
-    - **Hành động:** Theo dõi sát diễn biến khối lượng giao dịch tại vùng hỗ trợ, có thể giải ngân thăm dò nếu dòng tiền lan tỏa sang nhóm KCN.
-
-- **Mã: GMD, HAH, VHC, TNG**
-    - **Động lực (FA):** Tác động tiêu cực từ rào cản thuế quan Mỹ - Trung.
-    - **Nhận định dòng tiền:** Áp lực cung ngắn hạn tăng do tâm lý e ngại rủi ro.
-    - **Hành động:** Thắt chặt quản trị rủi ro, quan sát điểm hỗ trợ cứng; hạn chế mở vị thế mua mới trong giai đoạn tin tức thương mại chưa hạ nhiệt.
-
-- **Mã: VHM, NVL**
-    - **Động lực (FA):** Lãi suất huy động tăng gây áp lực chi phí vốn và nhu cầu vay.
-    - **Nhận định dòng tiền:** Suy yếu ngắn hạn, rủi ro bị bán mạnh do tâm lý lo ngại đòn bẩy tài chính.
-    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VCB**
+    - Động lực (FA): Vị thế dẫn đầu hưởng lợi từ tăng trưởng tín dụng và sự ổn định vĩ mô; vừa gia tăng giá trị tài sản ròng qua việc thâu tóm tòa tháp trung tâm TP.HCM.
+    - Nhận định dòng tiền: Hưởng lợi kép từ vĩ mô và kỳ vọng nâng hạng, là ưu tiên hàng đầu của khối ngoại.
+    - Hành động: Chú ý giải ngân (vị thế dẫn dắt chỉ số).
+- **Mã: HPG**
+    - Động lực (FA): Chấm dứt dự án mỏ sắt lớn nhất Đông Nam Á tại Hà Tĩnh.
+    - Nhận định dòng tiền: Áp lực tiêu cực lên kỳ vọng tự chủ nguyên liệu dài hạn, có thể gây nhiễu tâm lý ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản (Quan sát vùng hỗ trợ kỹ thuật gần nhất).
+- **Mã: VHC, TNG, ANV**
+    - Động lực (FA): Rào cản kỹ thuật về bao bì tái chế từ thị trường EU.
+    - Nhận định dòng tiền: Áp lực chi phí ngắn hạn, rủi ro biên lợi nhuận bị bào mòn.
+    - Hành động: Tiếp tục quan sát (Chờ phản ứng giá tại ngưỡng hỗ trợ).
+- **Mã: KBC**
+    - Động lực (FA): Tăng trưởng kinh tế mạnh mẽ thúc đẩy nhu cầu thuê đất KCN.
+    - Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ luân chuyển mạnh vào nhóm BĐS KCN theo sóng vĩ mô.
+    - Hành động: Chú ý giải ngân.
