@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 06/08/2026
+⏱ Thời gian: 06:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động ghi nhận mức tăng lên 9,2%/năm -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi các kênh tài sản rủi ro (Chứng khoán, BĐS) để trú ẩn vào tiền gửi ngân hàng, gây áp lực mạnh lên thanh khoản thị trường.
+- Áp lực bán ròng khối ngoại (700 tỷ đồng) và xu hướng ngân hàng phát hành trái phiếu lãi suất cao (10%) -> [Tác động: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực chốt lời tại nhóm VN30 và rủi ro điều chỉnh kỹ thuật ở nhóm cổ phiếu tài chính/ngân hàng].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC**
-    - Động lực (FA): Đề xuất nâng cấp đơn vị hành chính thành phố tại Bắc Ninh.
-    - Nhận định dòng tiền: Tin tức hỗ trợ định giá quỹ đất khu công nghiệp trong dài hạn, tuy nhiên mức độ hưng phấn sẽ bị kiềm chế bởi áp lực lãi suất tăng chung.
-    - Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật, không vội vàng giải ngân đuổi giá.
-- **Mã: MWG**
-    - Động lực (FA): Lộ trình xóa lỗ lũy kế của Bách Hóa Xanh trong 2-3 năm tới.
-    - Nhận định dòng tiền: Tin tức củng cố luận điểm đầu tư cơ bản; dòng tiền trung dài hạn có thể tìm điểm cân bằng, nhưng ngắn hạn sẽ chịu áp lực bán chung theo thị trường (do biến động lãi suất).
-    - Hành động: Tiếp tục quan sát, ưu tiên tích lũy nếu giá chiết khấu về vùng hỗ trợ cứng.
-- **Mã: NVL, PDR, VHM, SSI, VND**
-    - Động lực (FA): Lãi suất huy động tăng lên 9,2%/năm.
-    - Nhận định dòng tiền: Áp lực chi phí tài chính (đối với BĐS) và áp lực giảm margin/thanh khoản (đối với Chứng khoán). Dòng tiền có xu hướng thoát ròng khỏi nhóm này để giảm đòn bẩy.
-    - Hành động: Rủi ro vi phạm kịch bản quản trị rủi ro; ưu tiên hạ tỷ trọng nếu thủng nền giá hỗ trợ gần nhất.
-- **Mã: PNJ**
-    - Động lực (FA): Rủi ro pháp lý tại đơn vị giám định trực thuộc.
-    - Nhận định dòng tiền: Tác động tiêu cực trực tiếp đến tâm lý nhà đầu tư (Sentiment), khả năng xuất hiện các lệnh bán tháo kỹ thuật trong ngắn hạn.
-    - Hành động: Cảnh giác cao độ, tạm dừng giải ngân mới.
+- Mã: **PSH**
+- Động lực (FA): Quyết định thu hồi giấy chứng nhận đăng ký doanh nghiệp bị hủy bỏ.
+- Nhận định dòng tiền: Tin tức mang tính giải tỏa "cái chết lâm sàng" về mặt pháp lý, có thể kích hoạt dòng tiền đầu cơ bắt đáy ngắn hạn.
+- Hành động: **Chú ý giải ngân** (theo dõi thanh khoản phiên sáng để xác nhận lực cầu đối ứng).
+
+- Mã: **KBC**
+- Động lực (FA): Đề xuất lập thành phố Bắc Ninh trình Quốc hội.
+- Nhận định dòng tiền: Hợp lưu tích cực với quỹ đất sẵn có; củng cố xu hướng dòng tiền trung hạn vào BĐS khu công nghiệp.
+- Hành động: **Tiếp tục quan sát** (vùng giá hỗ trợ hiện tại).
+
+- Mã: **ACV**
+- Động lực (FA): Sân bay Cà Mau tái khai thác vào tháng 11.
+- Nhận định dòng tiền: Tác động tích cực nhưng mang tính chất bổ trợ dài hạn, chưa đủ lực kích hoạt bùng nổ dòng tiền ngắn hạn.
+- Hành động: **Tiếp tục quan sát**.
