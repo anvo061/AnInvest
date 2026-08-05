@@ -1,23 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:15 - 05/08/2026
+⏱ Thời gian: 10:55 - 05/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nghị quyết 21 tháo gỡ pháp lý BĐS**: Tác động Tích cực -> Dòng tiền kỳ vọng xoay trục mạnh mẽ vào nhóm Bất động sản có quỹ đất sạch, sẵn sàng triển khai dự án (NVL, DIG, PDR).
-- **Lãi suất neo cao**: Tác động Tiêu cực -> Gây áp lực chi phí vốn lên nhóm BĐS có nợ vay cao (NVL, PDR), nhưng củng cố biên lãi thuần (NIM) cho nhóm ngân hàng (TCB, VCB).
-- **Giá dầu thế giới giảm**: Tác động Tích cực (chi phí) cho ngành Logistic/Vận tải (GMD, HAH); Tiêu cực cho mảng bán lẻ xăng dầu (PLX).
+- **Lãi suất huy động giảm (đầu tháng 8/2026):** -> **Tích cực** -> Dòng tiền kỳ vọng dịch chuyển từ tiết kiệm sang kênh chứng khoán; nhóm Chứng khoán (SSI, VND) hưởng lợi trực tiếp từ thanh khoản và dư nợ margin.
+- **Nghị quyết 21 tháo gỡ pháp lý BĐS:** -> **Tích cực** -> Nhóm Bất động sản (NVL, DIG, PDR) có kỳ vọng khơi thông dự án và dòng tiền.
+- **Giá dầu thế giới giảm mạnh:** -> **Tiêu cực** -> Áp lực lên nhóm Năng lượng (PVD, PVS, GAS, BSR).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã**: NVL
-- **Động lực (FA)**: Hưởng lợi trực tiếp từ Nghị quyết 21 trong việc tháo gỡ pháp lý dự án, nhưng đối mặt với rủi ro chi phí tài chính cao do lãi suất neo ở mức lớn.
-- **Nhận định dòng tiền**: Dòng tiền đầu cơ có thể nhập cuộc do kỳ vọng chính sách, cần quan sát lực mua tại các vùng hỗ trợ cứng.
-- **Hành động**: Chú ý giải ngân với tỷ trọng thấp, ưu tiên lướt sóng theo dòng tiền tin tức, không nắm giữ dài hạn nếu chưa có cải thiện về cơ cấu nợ.
+- **Mã: SSI, VND**
+    - Động lực (FA): Lãi suất huy động giảm, tăng thanh khoản thị trường.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón sóng nhóm Chứng khoán.
+    - Hành động: **Chú ý giải ngân** tại các vùng hỗ trợ cứng.
+- **Mã: NVL, DIG, PDR**
+    - Động lực (FA): Nghị quyết 21 tạo hành lang pháp lý tháo gỡ dự án tồn đọng.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ có thể nhập cuộc mạnh mẽ.
+    - Hành động: **Tiếp tục quan sát** phản ứng của khối ngoại và thanh khoản phiên chiều để xác nhận xu hướng.
+- **Mã: PVD, PVS, GAS**
+    - Động lực (FA): Giá dầu thế giới thấp nhất 3 tuần.
+    - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng, dòng tiền có thể rút ra khỏi nhóm năng lượng.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn.
 
-- **Mã**: GMD, HAH
-- **Động lực (FA)**: Chi phí đầu vào (giá dầu) giảm, trực tiếp cải thiện biên lợi nhuận gộp trong ngắn hạn.
-- **Nhận định dòng tiền**: Dòng tiền phòng thủ có xu hướng tìm đến nhóm hưởng lợi từ chi phí thấp trong bối cảnh thị trường biến động.
-- **Hành động**: Tiếp tục quan sát điểm entry phù hợp tại các phiên rung lắc.
-
-- **Mã**: CMG
-- **Động lực (FA)**: Tin tiêu cực liên quan đến lãnh đạo (liên quan đến Shark Bình).
-- **Nhận định dòng tiền**: Áp lực bán kỹ thuật ngắn hạn do tâm lý hoang mang của nhà đầu tư cá nhân là rất lớn.
-- **Hành động**: Rủi ro vi phạm kịch bản kỹ thuật cao, ưu tiên quản trị rủi ro, quan sát phản ứng tại vùng hỗ trợ gần nhất trước khi có quyết định bắt đáy.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+    - Nhận định: Giá dầu giảm mạnh tác động tiêu cực đến biên lợi nhuận lọc dầu và rủi ro trích lập dự phòng hàng tồn kho. Xét trong bối cảnh tháng 6/2026 đã qua điểm rơi kỳ vọng, cần **cân nhắc chốt lời hoặc giảm tỷ trọng** để đảo dòng tiền sang nhóm ngành đang được hưởng lợi từ xu hướng giảm lãi suất.
