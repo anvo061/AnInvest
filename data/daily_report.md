@@ -1,25 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:55 - 05/08/2026
+⏱ Thời gian: 13:30 - 05/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động giảm (đầu tháng 8/2026):** -> **Tích cực** -> Dòng tiền kỳ vọng dịch chuyển từ tiết kiệm sang kênh chứng khoán; nhóm Chứng khoán (SSI, VND) hưởng lợi trực tiếp từ thanh khoản và dư nợ margin.
-- **Nghị quyết 21 tháo gỡ pháp lý BĐS:** -> **Tích cực** -> Nhóm Bất động sản (NVL, DIG, PDR) có kỳ vọng khơi thông dự án và dòng tiền.
-- **Giá dầu thế giới giảm mạnh:** -> **Tiêu cực** -> Áp lực lên nhóm Năng lượng (PVD, PVS, GAS, BSR).
+- HDBank (HDB) huy động thành công 721 triệu USD từ thị trường quốc tế, vượt 60% kế hoạch -> Tích cực -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng có năng lực huy động vốn ngoại và quản trị rủi ro tốt.
+- Quy định mới trao quyền tự định giá bán lẻ xăng dầu -> Tích cực -> Cải thiện biên lợi nhuận cho nhóm ngành Bán lẻ xăng dầu (PLX, OIL).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND**
-    - Động lực (FA): Lãi suất huy động giảm, tăng thanh khoản thị trường.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón sóng nhóm Chứng khoán.
-    - Hành động: **Chú ý giải ngân** tại các vùng hỗ trợ cứng.
-- **Mã: NVL, DIG, PDR**
-    - Động lực (FA): Nghị quyết 21 tạo hành lang pháp lý tháo gỡ dự án tồn đọng.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ có thể nhập cuộc mạnh mẽ.
-    - Hành động: **Tiếp tục quan sát** phản ứng của khối ngoại và thanh khoản phiên chiều để xác nhận xu hướng.
-- **Mã: PVD, PVS, GAS**
-    - Động lực (FA): Giá dầu thế giới thấp nhất 3 tuần.
-    - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng, dòng tiền có thể rút ra khỏi nhóm năng lượng.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Giá dầu giảm mạnh tác động tiêu cực đến biên lợi nhuận lọc dầu và rủi ro trích lập dự phòng hàng tồn kho. Xét trong bối cảnh tháng 6/2026 đã qua điểm rơi kỳ vọng, cần **cân nhắc chốt lời hoặc giảm tỷ trọng** để đảo dòng tiền sang nhóm ngành đang được hưởng lợi từ xu hướng giảm lãi suất.
+- Mã: **HDB**
+  - Động lực (FA): Huy động vốn ngoại vượt 60% mục tiêu, quy mô 721 triệu USD.
+  - Nhận định dòng tiền: Tạo bệ đỡ vững chắc cho NIM và thanh khoản. Dòng tiền lớn sẽ ưu tiên tích lũy khi có rung lắc.
+  - Hành động: Chú ý giải ngân theo vùng hỗ trợ cứng.
+- Mã: **MWG**
+  - Động lực (FA): Chi trả cổ tức tiền mặt 8.000 đồng/cp trong 1 năm.
+  - Nhận định dòng tiền: Củng cố vị thế nhóm cổ phiếu giá trị (value stock), tạo lực đỡ tâm lý vững chắc trong bối cảnh thị trường biến động.
+  - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi điều chỉnh.
+- Mã: **SAB**
+  - Động lực (FA): Lợi nhuận đột biến và chốt cổ tức tiền mặt 25%.
+  - Nhận định dòng tiền: Dòng tiền trú ẩn (defensive flow) sẽ tìm đến, hỗ trợ cải thiện thanh khoản ngắn hạn.
+  - Hành động: Tiếp tục quan sát biến động dòng tiền theo phiên.
+- Mã: **HAG**
+  - Động lực (FA): Được chấp thuận IPO công ty con.
+  - Nhận định dòng tiền: Kỳ vọng tái cấu trúc nợ giúp giảm áp lực tài chính, tạo hưng phấn ngắn hạn cho nhà đầu tư cá nhân.
+  - Hành động: Chú ý quan sát kỹ thuật, tránh FOMO tại vùng cản.
+- Mã: **VPI**
+  - Động lực (FA): Lợi nhuận tăng nhưng dòng tiền kinh doanh âm nặng (1.500 tỷ) và nợ vay cao.
+  - Nhận định dòng tiền: Tiềm ẩn rủi ro "bẫy lợi nhuận", áp lực bán có thể gia tăng khi nhà đầu tư quan tâm sâu đến chất lượng tài sản.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
