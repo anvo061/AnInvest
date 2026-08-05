@@ -1,11 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:15
+⏱ Thời gian: 04:30 - 06/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Trung Quốc thực hiện các biện pháp đáp trả thuế quan đối với Mỹ -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền ngắn hạn sẽ chịu áp lực bán tại nhóm Xuất khẩu (VHC, TNG) và Logistics/Cảng biển (GMD, HAH) do rủi ro đứt gãy chuỗi cung ứng].
+- **GDP tăng trưởng 8,18%:** Đánh giá Tích cực -> Dòng tiền ưu tiên nhóm Tài chính (VCB, TCB, SSI) nhờ kỳ vọng mở rộng tín dụng và thanh khoản thị trường.
+- **Trung Quốc trả đũa thuế quan Mỹ:** Đánh giá Tiêu cực -> Gây áp lực lên nhóm Xuất khẩu (VHC, TNG) và Logistics (GMD, HAH) do rủi ro gián đoạn chuỗi cung ứng toàn cầu.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: GMD, HAH, VHC, TNG
-- Động lực (FA): Căng thẳng thương mại Mỹ - Trung leo thang thông qua hàng rào thuế quan.
-- Nhận định dòng tiền: Áp lực điều chỉnh mạnh do tâm lý lo ngại rủi ro về doanh thu xuất khẩu và lưu lượng hàng hóa vận tải quốc tế.
-- Hành động: Hạ tỷ trọng hoặc kích hoạt lệnh dừng lỗ nếu thủng vùng hỗ trợ kỹ thuật gần nhất; tránh bắt đáy cho đến khi có tín hiệu hạ nhiệt từ xung đột thuế quan.
+- **Mã: MWG**
+  - Động lực (FA): Bách Hóa Xanh lộ trình xóa lỗ lũy kế 7.000 tỷ trong 2-3 năm tới.
+  - Nhận định dòng tiền: Tích cực. Tin tức làm rõ chuyển biến tích cực từ mảng bán lẻ thực phẩm, giúp cải thiện định giá P/E cho tập đoàn mẹ.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc, xác nhận vùng hỗ trợ ngắn hạn.
+
+- **Mã: HAG**
+  - Động lực (FA): Kế hoạch niêm yết BAPI Hoàng Anh Gia Lai.
+  - Nhận định dòng tiền: Tích cực. Gia tăng tính minh bạch tài sản và tạo kỳ vọng về dòng tiền thoái vốn/huy động vốn mới.
+  - Hành động: Quan sát phản ứng tại vùng cản kỹ thuật, ưu tiên nắm giữ theo trend.
