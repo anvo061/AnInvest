@@ -1,21 +1,26 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 20:45 - 06/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 22:45
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giá xăng dầu giảm (E10 >500đ/lít):** Tác động **Tích cực** lên nhóm ngành vận tải và logistics nhờ cắt giảm chi phí nhiên liệu, cải thiện trực tiếp biên lợi nhuận ròng.
-- **Rào cản kỹ thuật bao bì từ EU:** Tác động **Tiêu cực** lên nhóm xuất khẩu (Thủy sản, Dệt may) do gia tăng chi phí tuân thủ và nguy cơ gián đoạn đơn hàng.
-- **Khởi công nhà máy điện mặt trời 7.700 tỷ đồng tại Tây Ninh:** Tác động **Tích cực** lên nhóm xây lắp hạ tầng điện, thiết bị năng lượng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Tổng Giám đốc MB khẳng định lãi suất điều hành không tăng đến cuối năm -> [Tác động: Tích cực] -> [Dòng tiền tập trung: Ngành Ngân hàng (MBB, BID) và Chứng khoán (SSI) nhờ chi phí vốn ổn định và thanh khoản thị trường được củng cố.]
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: HAH, GMD**
-    - **Động lực (FA):** Giá xăng dầu đầu vào giảm mạnh.
-    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về chi phí vận hành, dự báo dòng tiền ngắn hạn sẽ có sự phân hóa tích cực so với thị trường chung.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: VHC, TNG**
-    - **Động lực (FA):** EU siết chuẩn bao bì, tăng áp lực chi phí tuân thủ.
-    - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng từ khối nhà đầu tư lo ngại biên lợi nhuận quý tới bị thu hẹp.
-    - **Hành động:** Rủi ro vi phạm kịch bản, cần kiểm tra vùng hỗ trợ gần nhất để quyết định cắt giảm tỷ trọng.
-- **Mã: BID**
-    - **Động lực (FA):** Triển khai gói ưu đãi cho SME Thủ đô.
-    - **Nhận định dòng tiền:** Gia tăng dư nợ tín dụng và hệ sinh thái khách hàng, giữ nhịp ổn định cho cổ phiếu ngân hàng vốn hóa lớn.
-    - **Hành động:** Tiếp tục quan sát, tích lũy theo xu hướng trung hạn.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **MSR**
+- Động lực (FA): Mỹ siết xuất khẩu Vonfram, giá thế giới dự kiến tăng do khan hiếm nguồn cung.
+- Nhận định dòng tiền: Tin tức mang tính đột biến về cung cầu hàng hóa chiến lược, khả năng cao tạo sóng dòng tiền vào nhóm khoáng sản.
+- Hành động: Chú ý giải ngân (theo dõi phản ứng giá tại vùng kháng cự kỹ thuật).
+
+- Mã: **GAS**
+- Động lực (FA): Sở hữu lượng tiền mặt lớn (42.200 tỷ), hưởng lợi từ lãi suất tiền gửi ổn định.
+- Nhận định dòng tiền: Mang tính chất phòng thủ, bổ trợ cho bảng cân đối kế toán, giúp gia tăng doanh thu tài chính.
+- Hành động: Tiếp tục quan sát (Phù hợp cho danh mục phòng thủ dài hạn hơn là trading ngắn hạn).
+
+- Mã: **NNC**
+- Động lực (FA): GDKHQ chi trả cổ tức tiền mặt 1.000 đ/cp vào 25.8.2026.
+- Nhận định dòng tiền: Dòng tiền đầu cơ tìm kiếm lợi tức thường sẽ duy trì quanh mã này cho đến trước ngày chốt.
+- Hành động: Tiếp tục quan sát.
+
+- Mã: **BID**
+- Động lực (FA): Đẩy mạnh gói tín dụng SME và chuyển đổi số.
+- Nhận định dòng tiền: Tăng trưởng tín dụng tập trung vào phân khúc SME giúp đa dạng hóa rủi ro và tăng NIM.
+- Hành động: Tiếp tục quan sát.
