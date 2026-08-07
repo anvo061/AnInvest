@@ -1,26 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:45
+⏱ Thời gian: 07:50 - 07/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Tổng Giám đốc MB khẳng định lãi suất điều hành không tăng đến cuối năm -> [Tác động: Tích cực] -> [Dòng tiền tập trung: Ngành Ngân hàng (MBB, BID) và Chứng khoán (SSI) nhờ chi phí vốn ổn định và thanh khoản thị trường được củng cố.]
+- **Tâm lý thị trường phân hóa cực độ**: Dự báo VN-Index lên 1.885 điểm (tích cực) bị đối trọng bởi số liệu tài khoản mở mới sụt giảm và 56 mã bị cắt Margin (tiêu cực). -> Đánh giá tác động: **Trung lập hướng tiêu cực trong ngắn hạn** do áp lực thanh khoản bị siết chặt. -> Dòng tiền sẽ rút khỏi các mã đầu cơ bị cắt margin, tập trung vào nhóm vốn hóa lớn có bảng cân đối kế toán khỏe hoặc hưởng lợi từ chi phí đầu vào (Logistics, Hàng không).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **MSR**
-- Động lực (FA): Mỹ siết xuất khẩu Vonfram, giá thế giới dự kiến tăng do khan hiếm nguồn cung.
-- Nhận định dòng tiền: Tin tức mang tính đột biến về cung cầu hàng hóa chiến lược, khả năng cao tạo sóng dòng tiền vào nhóm khoáng sản.
-- Hành động: Chú ý giải ngân (theo dõi phản ứng giá tại vùng kháng cự kỹ thuật).
+- **Mã: GMD, HAH, VTP**
+  - Động lực (FA): Giá xăng dầu trong nước giảm giúp tối ưu hóa chi phí vận hành.
+  - Nhận định dòng tiền: Nhóm Logistics và vận tải đang hưởng lợi trực tiếp từ biên lợi nhuận cải thiện, dòng tiền có xu hướng tìm đến các mã có nền tảng chi phí thấp khi thị trường chung biến động.
+  - Hành động: **Chú ý giải ngân** nếu xuất hiện điểm mua kỹ thuật, ưu tiên mã có nền giá tích lũy.
 
-- Mã: **GAS**
-- Động lực (FA): Sở hữu lượng tiền mặt lớn (42.200 tỷ), hưởng lợi từ lãi suất tiền gửi ổn định.
-- Nhận định dòng tiền: Mang tính chất phòng thủ, bổ trợ cho bảng cân đối kế toán, giúp gia tăng doanh thu tài chính.
-- Hành động: Tiếp tục quan sát (Phù hợp cho danh mục phòng thủ dài hạn hơn là trading ngắn hạn).
+- **Mã: ACV, HVN**
+  - Động lực (FA): Việt Nam trở thành thị trường hàng không lớn thứ 2 Đông Nam Á.
+  - Nhận định dòng tiền: Tin tức hỗ trợ dài hạn, tuy nhiên cần quan sát phản ứng của dòng tiền lớn tại các vùng kháng cự hiện tại.
+  - Hành động: **Tiếp tục quan sát**, không đuổi giá trong phiên hưng phấn.
 
-- Mã: **NNC**
-- Động lực (FA): GDKHQ chi trả cổ tức tiền mặt 1.000 đ/cp vào 25.8.2026.
-- Nhận định dòng tiền: Dòng tiền đầu cơ tìm kiếm lợi tức thường sẽ duy trì quanh mã này cho đến trước ngày chốt.
-- Hành động: Tiếp tục quan sát.
+- **Mã: SSI, VND, VCI**
+  - Động lực (FA): Tài khoản mở mới giảm mạnh kết hợp với 56 mã bị cắt margin.
+  - Nhận định dòng tiền: Áp lực tiêu cực lên nhóm chứng khoán. Dù VCI có thông tin dự báo tích cực, nhưng rủi ro thanh khoản toàn ngành đang hiện hữu.
+  - Hành động: **Rủi ro vi phạm kịch bản**, hạn chế gia tăng tỷ trọng nhóm này cho đến khi có tín hiệu ổn định lại thanh khoản thị trường.
 
-- Mã: **BID**
-- Động lực (FA): Đẩy mạnh gói tín dụng SME và chuyển đổi số.
-- Nhận định dòng tiền: Tăng trưởng tín dụng tập trung vào phân khúc SME giúp đa dạng hóa rủi ro và tăng NIM.
-- Hành động: Tiếp tục quan sát.
+- **Mã: GAS**
+  - Động lực (FA): Lượng tiền gửi khổng lồ (42.200 tỷ đồng) hưởng lợi từ lãi suất.
+  - Nhận định dòng tiền: Mã mang tính chất phòng thủ, ổn định trong giai đoạn thị trường có tin tiêu cực về margin.
+  - Hành động: **Tiếp tục quan sát** như một tài sản neo giữ danh mục.
