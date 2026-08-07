@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "Điện mặt trời mái nhà: Được bán điện dư vượt 50% trong một số trường hợp",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dien-mat-troi-mai-nha-duoc-ban-dien-du-vuot-50-trong-mot-so-truong-hop-2529859.html",
+    "PubDate": "Fri, 26 Jun 2026 20:29:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Cơ chế mới tháo gỡ nút thắt pháp lý cho điện mặt trời mái nhà, khuyến khích đầu tư hạ tầng năng lượng tái tạo và giảm áp lực thiếu hụt điện cho các khu công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Chính sách cho phép bán điện dư tháo gỡ nút thắt pháp lý, trực tiếp hỗ trợ biên lợi nhuận nhóm năng lượng tái tạo và tăng giá trị hạ tầng KCN. Dòng tiền tập trung: REE, PC1.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp đầu ngành trong lĩnh vực cơ điện và đầu tư danh mục năng lượng tái tạo."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 06:55:04"
+  },
+  {
+    "Title": "Muốn phủ trạm sạc xe điện, TPHCM phải chi ít nhất 7 tỷ USD",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/muon-phu-tram-sac-xe-dien-tphcm-phai-chi-it-nhat-7-ty-usd-2529755.html",
+    "PubDate": "Fri, 26 Jun 2026 21:45:13 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Kế hoạch đầu tư hạ tầng trạm sạc quy mô lớn tạo dư địa tăng trưởng dài hạn cho các doanh nghiệp xây lắp điện, thiết bị điện và hạ tầng kỹ thuật.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Dự án quy mô 7 tỷ USD mang tính định hướng vĩ mô dài hạn, chưa có lộ trình giải ngân cụ thể. Chưa tác động trực tiếp đến dòng tiền ngắn hạn của các doanh nghiệp xây lắp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 06:54:48"
+  },
+  {
+    "Title": "Vụ mất 5 tỷ đồng trong tài khoản: Thiếu sinh trắc sống chính chủ, tiền vẫn đi?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vu-mat-5-ty-dong-trong-tai-khoan-khach-hang-da-lay-lai-duoc-2-5-ty-dong-2527866.html",
+    "PubDate": "Tue, 21 Jul 2026 11:07:32 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Sự cố bảo mật làm suy giảm niềm tin của người dùng vào hệ thống ngân hàng số, buộc các ngân hàng phải tăng chi phí đầu tư cho an ninh mạng và rủi ro pháp lý.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Sự cố bảo mật gây áp lực chi phí vận hành và rủi ro pháp lý. Dòng tiền ngắn hạn có thể thận trọng với các ngân hàng có tỷ trọng giao dịch số cao.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 06:54:34"
+  },
+  {
     "Title": "HNX: Số liệu Quản lý Sở hữu của Nhà đầu tư nước ngoài tại ngày 06/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd21HX2lEbll2NjRkc0FjaVFZM2hLbm83N2J3LXJIM1QySUwyeXktWHlWRWZTX1pSREQ2c19DTnhKX3dldzJ0eGcxbHhqX3lpR1Jtc2liZzJacW94SHlGeWFSMGNXMmItTFEtelUwVFI3S29zeHhLbEZsQU1VWjBudU9Od2hoeDFCUDhDQ2R1YU9OQUFzdG03YXZ6OFZHT3FodF81bFh6MWtIUk53NXotU3JtSUQ1RmNCTnVZbDRwR0YtUjRQYjljNGp3?oc=5",
@@ -17072,44 +17117,5 @@
       }
     ],
     "AnalyzedAt": "2026-07-30 22:12:35"
-  },
-  {
-    "Title": "Một thế lực vừa \"xả\" gần 200 tỷ đồng trong phiên Index tăng 40 điểm - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXlZY2hCTjRzZU8zNEs3bjk4SDJFNlpxTGpvblV5MTU3d0VKWndDWHJKekpUbk1SY2NvMnN3Vl9GZVdRdmVsSkVtbGhNMU1iaENKY21DT3k4d2J6LTc3aV83UWJiNEEzX3ZDSndZNjlOM1BUWDNMRlhodHp3bDFkV0IySTVGYk10aHVEekN4SGNLbzlNeWE1bG5aZ3lXV3cycmtXOGJaZmw?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 11:17:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về hoạt động bán ròng của một nhóm nhà đầu tư không xác định trong phiên tăng điểm mạnh mang tính chất quan sát thị trường, không phản ánh xu hướng vĩ mô hay thay đổi nội tại doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Hoạt động chốt lời cục bộ trong phiên tăng mạnh là bình thường. Dòng tiền thông minh vẫn đang kiểm soát xu hướng, chưa có tín hiệu đảo chiều kỹ thuật.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 22:12:25"
-  },
-  {
-    "Title": "TP.HCM phê duyệt đề án phát triển đô thị thông minh giai đoạn 2026 - 2030, tầm nhìn đến năm 2045",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-phe-duyet-de-an-phat-trien-do-thi-thong-minh-giai-doan-2026-2030-tam-nhin-den-nam-2045-100260730203030662.htm",
-    "PubDate": "7/30/2026 9:02:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Đề án thúc đẩy nhu cầu hạ tầng số, giải pháp công nghệ và xây dựng hạ tầng kỹ thuật đô thị, tạo dư địa tăng trưởng dài hạn cho các doanh nghiệp CNTT và hạ tầng viễn thông.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Đề án mang tính định hướng dài hạn, thiếu lộ trình giải ngân cụ thể. Tác động dòng tiền ngắn hạn không đáng kể. Cần theo dõi các gói thầu thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 22:12:10"
-  },
-  {
-    "Title": "Doanh nghiệp và người nuôi cá trong hồ thủy lợi Ia Mơ đạt 'tiếng nói chung'",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/doanh-nghiep-va-nguoi-nuoi-ca-trong-ho-thuy-loi-ia-mo-dat-tieng-noi-chung-100260730190455394.htm",
-    "PubDate": "7/30/2026 9:32:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là vấn đề tranh chấp dân sự và quản lý hành chính tại địa phương, không có tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp thủy sản niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là tranh chấp dân sự cục bộ tại địa phương, không tác động đến dòng tiền hay kết quả kinh doanh của các doanh nghiệp thủy sản niêm yết.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 22:11:59"
   }
 ]
