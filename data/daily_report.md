@@ -1,23 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:50 - 07/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 23:45 - 07/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Việt Nam phê duyệt kế hoạch thành lập trung tâm tài chính quốc tế:** -> Tác động: Tích cực -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (VCB) và Chứng khoán (SSI) nhờ kỳ vọng gia tăng dòng vốn ngoại và dịch vụ tài chính chất lượng cao.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Thông tin:** Chính phủ phê duyệt kế hoạch thành lập Trung tâm Tài chính Quốc tế tại Việt Nam trong bối cảnh áp lực thương mại từ Hoa Kỳ. -> **Tác động:** Tích cực -> **Dòng tiền:** Nhóm Tài chính (Chứng khoán, Ngân hàng vốn hóa lớn) và Bất động sản thương mại cao cấp.
+- **Thông tin:** Phí tái chế pin điện mặt trời tăng cao gây áp lực lên biên lợi nhuận nhóm ngành năng lượng tái tạo. -> **Tác động:** Tiêu cực -> **Dòng tiền:** Áp lực bán tiềm ẩn tại nhóm Điện tái tạo (GEG).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VIC, VHM**
-  - Động lực (FA): Vingroup triển khai đồng loạt 3 dự án hạ tầng trọng điểm tại TP.HCM.
-  - Nhận định dòng tiền: Kỳ vọng gia tăng giá trị quỹ đất và cải thiện thanh khoản dự án. Dòng tiền có khả năng phản ứng sớm ở nhóm BĐS có hạ tầng bao quanh.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận phiên Break-out kèm thanh khoản.
-- **Mã: HAG**
-  - Động lực (FA): Sầu riêng xuất khẩu sang Trung Quốc đón tin vui ngay trước cao điểm thu hoạch.
-  - Nhận định dòng tiền: Tác động trực tiếp vào kỳ vọng doanh thu quý tới. Dòng tiền đầu cơ nông nghiệp thường phản ứng nhạy với tin xuất khẩu.
-  - Hành động: Quan sát phản ứng tại vùng hỗ trợ, ưu tiên gia tăng tỷ trọng nếu xuất hiện lực mua chủ động.
-- **Mã: MWG**
-  - Động lực (FA): Hợp tác với EVO Money hỗ trợ vay tiêu dùng tại Điện Máy Xanh.
-  - Nhận định dòng tiền: Hỗ trợ cải thiện doanh thu mảng bán lẻ trong bối cảnh sức mua phục hồi.
-  - Hành động: Tiếp tục quan sát sự chuyển dịch của dòng tiền bán lẻ.
-- **Mã: GVR**
-  - Động lực (FA): Đồng Nai cam kết cải cách thủ tục hành chính, đẩy nhanh phê duyệt dự án.
-  - Nhận định dòng tiền: Tác động trung hạn lên tiến độ dự án KCN.
-  - Hành động: Quan sát, chú ý giải ngân nếu có xác nhận từ dòng tiền thông minh vào nhóm KCN.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **HAG**
+  - **Động lực (FA):** Chào bán doanh nghiệp nắm giữ 7.000 ha đất tại Lào với giá 60.600 đồng/cp, thu về nguồn tiền mặt lớn.
+  - **Nhận định dòng tiền:** Cải thiện trực tiếp trạng thái tài chính (giảm nợ), tạo kỳ vọng vào việc làm sạch bảng cân đối kế toán. Khả năng thu hút dòng tiền đầu cơ gia tăng mạnh trong ngắn hạn.
+  - **Hành động:** Chú ý giải ngân (quan sát vùng hỗ trợ kỹ thuật gần nhất).
+- **Mã:** **GEG**
+  - **Động lực (FA):** Chi phí tái chế pin mặt trời tăng cao ngoài dự kiến.
+  - **Nhận định dòng tiền:** Tiêu cực. Rủi ro biên lợi nhuận bị thu hẹp đáng kể sẽ khiến dòng tiền thông minh ưu tiên thoái lui để chuyển sang nhóm ngành có triển vọng lợi nhuận rõ ràng hơn.
+  - **Hành động:** Rủi ro vi phạm kịch bản (cần hạ tỷ trọng nếu thủng hỗ trợ cứng).
+- **Mã:** **VCB, SSI**
+  - **Động lực (FA):** Hưởng lợi gián tiếp từ chủ trương thành lập Trung tâm Tài chính Quốc tế.
+  - **Nhận định dòng tiền:** Tích cực, đây là nhóm dẫn dắt chỉ số VN-Index hưởng lợi từ kỳ vọng thu hút dòng vốn ngoại dài hạn.
+  - **Hành động:** Tiếp tục quan sát (theo dõi sát khối lượng mua ròng từ khối ngoại).
+- **Mã:** **GVR**
+  - **Động lực (FA):** Thủ tục hành chính tại Đồng Nai được cải thiện, đẩy nhanh tiến độ triển khai quỹ đất KCN.
+  - **Nhận định dòng tiền:** Trung lập tích cực. Hỗ trợ tâm lý nắm giữ dài hạn.
+  - **Hành động:** Tiếp tục quan sát.
