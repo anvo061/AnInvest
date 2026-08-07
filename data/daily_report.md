@@ -1,19 +1,21 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 03:00 - 08/08/2026
+⏱ **Thời gian:** 03:50
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tin tức:** FTSE xác nhận nâng hạng thị trường Việt Nam lên Emerging Market kết hợp với việc nới lỏng quy định pre-funding cho nhà đầu tư ngoại. -> **Đánh giá: Cực kỳ Tích cực** -> **Dòng tiền:** Nhóm Ngân hàng (VCB) và các mã Bluechip/VN30 (SSI, VHM) sẽ là đích đến chính của dòng vốn khối ngoại (ETF & Quỹ chủ động).
-- **Tin tức:** Ngân hàng Nhà nước nới room tín dụng, tăng dư địa cho vay. -> **Đánh giá: Tích cực** -> **Dòng tiền:** Nhóm Ngân hàng (VCB, TCB, MBB) nhận lực đẩy kép từ cả nâng hạng và mở rộng biên lợi nhuận (NIM).
+- **Nâng hạng thị trường & Nới room tín dụng:** FTSE chính thức xác nhận nâng hạng lên thị trường mới nổi (Emerging Market) kết hợp với động thái nới lỏng quy định pre-funding và mở rộng dư địa tín dụng từ NHNN. -> **Tác động: Cực kỳ Tích cực.** -> **Dòng tiền sẽ hướng vào:** Nhóm Ngân hàng (VCB, TCB, MBB) và Chứng khoán (SSI, VCI) do hưởng lợi trực tiếp từ thanh khoản và hạn mức tăng trưởng.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: VCB, SSI, VHM**
-  - **Động lực (FA):** Hưởng lợi kép từ việc nâng hạng thị trường và nới lỏng quy định pre-funding (thúc đẩy thanh khoản, tăng trọng số trong các rổ chỉ số ngoại).
-  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart Money) có khả năng xoay trục mạnh vào nhóm vốn hóa lớn (Bluechips) sau tin tức này.
-  - **Hành động:** Chú ý giải ngân (tập trung vào vùng nền giá tích lũy, ưu tiên VCB làm trụ đỡ).
-- **Mã: DGC**
-  - **Động lực (FA):** Cổ phiếu bị HOSE cắt margin, tạo áp lực cung ngắn hạn.
-  - **Nhận định dòng tiền:** Mâu thuẫn giữa tin tích cực (tăng trần, sức mạnh giá mạnh) và tin tiêu cực (cắt margin). Sự hưng phấn có thể bị chặn đứng bởi lực bán giải chấp/giảm đòn bẩy.
-  - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn, quan sát kỹ vùng giá tại điểm giao cắt với đường MA20, tránh bắt đáy khi đang có áp lực bán từ việc cắt margin.
+- **Mã: SSI, VCI, VCB, TCB, MBB**
+    - **Động lực (FA):** Nâng hạng thị trường (FTSE) và nới lỏng quy định pre-funding; Chính sách nới room tín dụng mới.
+    - **Nhận định dòng tiền:** Dòng vốn ngoại dự kiến đổ vào các mã vốn hóa lớn (Blue-chips) để đón sóng ETF. Các mã chứng khoán sẽ là nhóm đầu tiên phản ứng với kỳ vọng về phí môi giới và margin.
+    - **Hành động:** Tập trung giải ngân vào nhóm dẫn dắt (VCB, SSI) theo kịch bản thị trường nâng hạng.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Hiện chưa có dữ liệu mới về EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái quan sát chờ tín hiệu dòng tiền xoay vòng từ nhóm Bluechip sang nhóm Midcap/tái cơ cấu.
+- **Mã: HAG**
+    - **Động lực (FA):** Công ty con sở hữu 7.000 ha đất chính thức được cấp phép IPO.
+    - **Nhận định dòng tiền:** Tin tức hỗ trợ tái cấu trúc bảng cân đối kế toán, kỳ vọng giảm áp lực nợ vay. Dòng tiền có xu hướng tích cực do câu chuyện thoái vốn/hiện thực hóa tài sản.
+    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
+
+- **Mã: DGC**
+    - **Động lực (FA):** Lực mua đột biến, giá tăng trần bất chấp thị trường chung.
+    - **Nhận định dòng tiền:** Sức mạnh giá (Relative Strength) vượt trội, xác nhận dòng tiền thông minh đang trú ẩn vào cổ phiếu có tăng trưởng riêng biệt.
+    - **Hành động:** Tiếp tục nắm giữ, bám sát mức chặn lãi kỹ thuật.
