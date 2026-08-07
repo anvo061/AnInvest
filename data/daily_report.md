@@ -1,20 +1,31 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:15 - 07/08/2026
+⏱ Thời gian: 16:05
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giải ngân đầu tư công (350.000 tỷ) & Đề xuất giảm 30% thuế cho DNNVV:** Tác động Tích cực -> Dòng tiền tập trung vào nhóm Hạ tầng, Vật liệu xây dựng (VCG, HHV, KSB) và các doanh nghiệp quy mô vừa hưởng lợi từ tối ưu chi phí.
-- **Căng thẳng Biển Đông & Rủi ro thuế xuất khẩu thủy sản sang Mỹ:** Tác động Tiêu cực -> Áp lực bán tiềm ẩn lên nhóm Thủy sản (VHC, ANV, IDI) và rủi ro gián đoạn hoạt động thượng nguồn dầu khí (PVD, PVS).
-- **Kỳ vọng nâng hạng FTSE GEIS tháng 9:** Tác động Tích cực -> Tạo lực cầu đón đầu từ các quỹ ngoại đối với các mã trong danh sách dự kiến (cần quan sát kỹ dòng tiền khối ngoại).
+- NHNN loại trừ 18 dự án trọng điểm khỏi room tín dụng -> **Tích cực**: Tháo gỡ nút thắt vốn, thúc đẩy tiến độ dự án -> Dòng tiền ưu tiên nhóm Bất động sản (đại đô thị) và Xây lắp/Hạ tầng.
+- Quyết định mới về cơ cấu vốn nhà nước (thoái vốn) -> **Tích cực**: Kích hoạt sóng đầu cơ tại các doanh nghiệp có vốn nhà nước chi phối.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu neo cao do bất ổn Trung Đông (Hỗ trợ) vs. Căng thẳng Biển Đông đe dọa dự án ngoài khơi (Rủi ro).
-  - Nhận định dòng tiền: Giằng co mạnh do xung đột tin tức cơ bản; dòng tiền khả năng phân hóa giữa kỳ vọng giá dầu và lo ngại địa chính trị.
-  - Hành động: Tiếp tục quan sát, ưu tiên giữ tỷ trọng an toàn, tránh mở vị thế mua đuổi khi tin tức địa chính trị chưa ổn định.
-- **Mã: VIX**
-  - Động lực (FA): Nghị quyết trả cổ tức bằng cổ phiếu năm 2025.
-  - Nhận định dòng tiền: Thông tin mang tính kỹ thuật/tâm lý, giúp duy trì thanh khoản nhưng không thay đổi giá trị nội tại trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát vùng hỗ trợ kỹ thuật gần nhất.
+- Mã: **VHM**
+  - Động lực (FA): Hưởng lợi trực tiếp từ việc dự án trọng điểm được cấp tín dụng ngoài room.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn quay trở lại nhóm BĐS vốn hóa lớn.
+  - Hành động: Chú ý giải ngân theo tín hiệu dòng tiền bùng nổ tại vùng hỗ trợ.
+- Mã: **VCG**
+  - Động lực (FA): Hưởng lợi từ việc khơi thông dòng vốn cho các dự án hạ tầng trọng điểm.
+  - Nhận định dòng tiền: Động lực tăng trưởng được củng cố bởi chính sách vĩ mô.
+  - Hành động: Tiếp tục quan sát điểm entry.
+- Mã: **VPB**
+  - Động lực (FA): Nợ xấu giảm, cải thiện bảng cân đối.
+  - Nhận định dòng tiền: Thu hút dòng tiền tổ chức và khối ngoại trong bối cảnh nhóm ngân hàng phân hóa.
+  - Hành động: Tiếp tục quan sát.
+- Mã: **GVR, SAB**
+  - Động lực (FA): Kỳ vọng thoái vốn nhà nước theo quy định mới.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ đang đổ mạnh; rủi ro biến động theo tin tức chính sách.
+  - Hành động: Chú ý giải ngân với tỷ trọng vừa phải, bám sát hỗ trợ kỹ thuật.
+- Mã: **NAB**
+  - Động lực (FA): Nợ nhóm 5 chiếm tỷ trọng cao (>80%), rủi ro trích lập lớn.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại chất lượng tài sản.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Chưa có tin tức đột biến mới về BSR, EIB trong chu kỳ 15 phút này. Duy trì chiến lược theo kế hoạch quản trị rủi ro đã thiết lập trước đó.
+- **BSR**: Dữ liệu vĩ mô (giá dầu neo cao do căng thẳng Trung Đông) tiếp tục hỗ trợ biên lợi nhuận lọc dầu và giá trị hàng tồn kho. Dữ liệu hiện tại **đủ mạnh để tiếp tục giữ** vị thế, chưa cần cơ cấu lại dòng tiền dù đã qua mốc kỳ vọng tháng 3/2026.
