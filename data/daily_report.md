@@ -1,25 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:30 - 08/08/2026
+⏱ Thời gian: 02:30 - 08/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dòng vốn ngoại đảo chiều mua ròng mạnh mẽ (2.200 tỷ đồng/5 phiên):** -> [Tích cực] -> Dòng tiền tập trung mạnh vào nhóm Bluechips (VN30), củng cố vùng hỗ trợ kỹ thuật của VN-Index.
-- **Sửa Luật Đất đai theo hướng quản lý phát triển:** -> [Tích cực] -> Kỳ vọng tháo gỡ điểm nghẽn pháp lý, tập trung vào nhóm BĐS có quỹ đất sạch và năng lực thực thi dự án.
-- **HOSE cập nhật danh sách cắt margin loạt cổ phiếu "hot":** -> [Tiêu cực] -> Tăng áp lực bán giải chấp ngắn hạn tại nhóm vốn hóa trung bình, giảm thanh khoản cục bộ.
+- Nới lỏng quy định ký quỹ (pre-funding) và FTSE chính thức nâng hạng thị trường Việt Nam -> **Tích cực (Cốt lõi)** -> Dòng tiền sẽ tập trung mạnh vào nhóm Chứng khoán (SSI, VCI) và nhóm Cổ phiếu vốn hóa lớn/VN30 (VCB, VHM).
+- Ngân hàng Nhà nước nới room tín dụng -> **Tích cực** -> Dòng tiền kỳ vọng vào nhóm Ngân hàng thương mại (VCB, TCB, MBB).
+- HOSE công bố danh sách cắt margin mới -> **Tiêu cực** -> Tạo áp lực bán giải chấp ngắn hạn đối với HVN, DGC.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HAG**
-  - Động lực (FA): Công ty con sở hữu 7.000 ha đất được cấp phép IPO.
-  - Nhận định dòng tiền: Tin tức trực diện làm tăng giá trị sổ sách, kỳ vọng thu hút dòng tiền đầu cơ tìm kiếm sự đột biến tài chính.
-  - Hành động: Chú ý giải ngân (theo dõi phản ứng giá tại vùng cản kỹ thuật).
+- Mã: **SSI, VCI**
+  - Động lực (FA): Hưởng lợi trực tiếp từ việc nâng hạng thị trường và bỏ pre-funding, gia tăng thanh khoản và doanh thu mảng IB/môi giới.
+  - Nhận định dòng tiền: Dòng tiền khối ngoại và các quỹ ETF sẽ tìm đến nhóm này đầu tiên. Xu hướng tăng giá ngắn hạn được củng cố.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
+
+- Mã: **VCB, VHM**
+  - Động lực (FA): Nâng hạng thị trường + Nới room tín dụng (với VCB) + Tháo gỡ pháp lý Luật Đất đai (với VHM).
+  - Nhận định dòng tiền: Trụ cột của chỉ số, thu hút dòng vốn thụ động. Dòng tiền lớn sẽ duy trì ổn định.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
+
 - Mã: **HVN, DGC**
-  - Động lực (FA): Bị HOSE đưa vào danh sách cắt margin.
-  - Nhận định dòng tiền: Áp lực cung sẽ gia tăng từ nhà đầu tư cá nhân sử dụng đòn bẩy cao; rủi ro điều chỉnh kỹ thuật ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản (cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng).
-- Mã: **VHM, PDR, NLG**
-  - Động lực (FA): Hưởng lợi từ thay đổi tư duy quản lý pháp lý đất đai.
-  - Nhận định dòng tiền: Dòng tiền có tính chất tích lũy dài hạn, kết hợp với xu hướng mua ròng của khối ngoại (đối với VHM).
-  - Hành động: Tiếp tục quan sát (đợi điểm nổ khối lượng).
-- Mã: **VCG, HHV**
-  - Động lực (FA): Dự án cao tốc Quảng Ngãi - Kon Tum được điều chỉnh phương án đầu tư để đẩy nhanh tiến độ.
-  - Nhận định dòng tiền: Củng cố kỳ vọng lợi nhuận cho các nhà thầu thi công hạ tầng.
-  - Hành động: Tiếp tục quan sát.
+  - Động lực (FA): Bị cắt margin trên HOSE.
+  - Nhận định dòng tiền: Áp lực bán từ nhà đầu tư cá nhân sử dụng đòn bẩy sẽ tăng mạnh, rủi ro điều chỉnh ngắn hạn cao.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng nếu chạm ngưỡng cắt lỗ.
+
+- Mã: **HAG**
+  - Động lực (FA): IPO công ty con sở hữu quỹ đất 7.000 ha.
+  - Nhận định dòng tiền: Cải thiện cấu trúc tài chính, tạo kỳ vọng dài hạn.
+  - Hành động: Chú ý giải ngân theo nhịp điều chỉnh.
