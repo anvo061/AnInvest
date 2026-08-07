@@ -1,16 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:50 - 07/08/2026
+⏱ Thời gian: 17:50 - 07/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam duy trì tăng trưởng sản xuất bất chấp thuế quan, khẳng định vị thế trung tâm FDI -> Tích cực -> Dòng tiền hướng vào nhóm Bất động sản khu công nghiệp (KCN).
-- TP.HCM đẩy mạnh 4 công trình hạ tầng chiến lược (6,7 tỉ USD) -> Tích cực -> Dòng tiền hướng vào nhóm Xây lắp hạ tầng và Vật liệu xây dựng.
+- **Áp lực chi phí vốn:** Các ngân hàng đồng loạt đẩy mạnh khuyến mãi lãi suất huy động -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm Tài chính & Bất động sản do áp lực biên lãi thuần (NIM) và chi phí vay tăng].
+- **Đẩy mạnh giải ngân hạ tầng:** TP.HCM lập tổ chuyên gia tư vấn 4 công trình trọng điểm 6,7 tỷ USD -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Xây lắp hạ tầng & Vật liệu xây dựng].
+- **Chính sách ngành năng lượng:** Hà Tĩnh chấp thuận 4 dự án điện gió (7.810 tỷ đồng) đối trọng với rủi ro thuế quan polysilicon từ Mỹ -> [Tác động: Trung lập/Phân hóa] -> [Dòng tiền dịch chuyển từ xuất khẩu tấm pin sang thi công lắp đặt điện gió].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC, SZC, IDC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI và tăng trưởng sản xuất ổn định.
-  - Nhận định dòng tiền: Dòng tiền có tính ổn định cao, kỳ vọng break-out vùng tích lũy nhờ dư địa FDI lớn.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (pullback).
-- Mã: **VCG, HHV**
-  - Động lực (FA): Hưởng lợi từ khối lượng công việc hạ tầng khổng lồ tại TP.HCM.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ và đầu tư trung hạn sẽ tập trung mạnh vào các nhà thầu có năng lực thi công lớn.
-  - Hành động: Tiếp tục quan sát khối lượng giao dịch, ưu tiên nắm giữ cho kỳ vọng giải ngân đầu tư công.
+- **Mã: PC1**
+    - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng phê duyệt dự án điện gió mới tại Hà Tĩnh (nhóm xây lắp điện).
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ phân hóa tích cực vào các mã có năng lực thực thi dự án điện gió thay vì các mã xuất khẩu thiết bị năng lượng chịu thuế.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận bứt phá khỏi vùng nền tích lũy hiện tại.
+- **Mã: CTG**
+    - Động lực (FA): Thủ tướng chỉ đạo nâng tỷ lệ sở hữu Nhà nước lên tối thiểu 65%.
+    - Nhận định dòng tiền: Tin tức mang tính chất củng cố vị thế, tạo nền tảng vững chắc cho dòng tiền dài hạn.
+    - Hành động: Tiếp tục quan sát biến động khối lượng; rủi ro vi phạm kịch bản nếu áp lực thanh khoản toàn ngành ngân hàng (từ việc tăng lãi suất huy động) lấn át câu chuyện riêng của cổ phiếu.
+- **Mã: VCG, HHV**
+    - Động lực (FA): Hưởng lợi trực tiếp từ 4 công trình hạ tầng chiến lược tại TP.HCM (6,7 tỷ USD).
+    - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng với các thông tin đẩy nhanh đầu tư công.
+    - Hành động: Chú ý giải ngân theo kịch bản "mua khi nhúng" nếu thị trường chung rung lắc.
