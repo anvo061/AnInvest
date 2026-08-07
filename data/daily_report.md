@@ -1,21 +1,22 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 03:50
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 04:30 - 08/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Nâng hạng thị trường & Nới room tín dụng:** FTSE chính thức xác nhận nâng hạng lên thị trường mới nổi (Emerging Market) kết hợp với động thái nới lỏng quy định pre-funding và mở rộng dư địa tín dụng từ NHNN. -> **Tác động: Cực kỳ Tích cực.** -> **Dòng tiền sẽ hướng vào:** Nhóm Ngân hàng (VCB, TCB, MBB) và Chứng khoán (SSI, VCI) do hưởng lợi trực tiếp từ thanh khoản và hạn mức tăng trưởng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Nâng hạng thị trường & Nới lỏng quy định Pre-funding:** FTSE xác nhận nâng hạng Việt Nam lên thị trường mới nổi (Emerging Market) kết hợp nới lỏng ký quỹ trước giao dịch -> **Tích cực (Cực đại)** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Chứng khoán (SSI, VCI)** và **Nhóm Bluechip/Trụ chỉ số (VCB, VHM, GAS, GVR)**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: SSI, VCI, VCB, TCB, MBB**
-    - **Động lực (FA):** Nâng hạng thị trường (FTSE) và nới lỏng quy định pre-funding; Chính sách nới room tín dụng mới.
-    - **Nhận định dòng tiền:** Dòng vốn ngoại dự kiến đổ vào các mã vốn hóa lớn (Blue-chips) để đón sóng ETF. Các mã chứng khoán sẽ là nhóm đầu tiên phản ứng với kỳ vọng về phí môi giới và margin.
-    - **Hành động:** Tập trung giải ngân vào nhóm dẫn dắt (VCB, SSI) theo kịch bản thị trường nâng hạng.
-
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: GVR, BCM, GAS**
+  - Động lực (FA): Dòng vốn ngoại đổ vào thị trường nâng hạng cộng hưởng với sóng thoái vốn nhà nước.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại đẩy giá mạnh, tạo hiệu ứng dẫn dắt chỉ số.
+  - Hành động: Chú ý quan sát điểm vào cho nhịp trung hạn, ưu tiên nắm giữ các mã đang dẫn dắt sóng nhà nước.
 - **Mã: HAG**
-    - **Động lực (FA):** Công ty con sở hữu 7.000 ha đất chính thức được cấp phép IPO.
-    - **Nhận định dòng tiền:** Tin tức hỗ trợ tái cấu trúc bảng cân đối kế toán, kỳ vọng giảm áp lực nợ vay. Dòng tiền có xu hướng tích cực do câu chuyện thoái vốn/hiện thực hóa tài sản.
-    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
-
+  - Động lực (FA): Công ty con chốt thời gian IPO, giúp cải thiện sức khỏe tài chính và tăng tính minh bạch.
+  - Nhận định dòng tiền: Kích hoạt kỳ vọng định giá lại tài sản, tạo dư địa tăng giá ngắn hạn.
+  - Hành động: Tiếp tục quan sát thanh khoản, điểm mua theo kỹ thuật khi dòng tiền lan tỏa.
 - **Mã: DGC**
-    - **Động lực (FA):** Lực mua đột biến, giá tăng trần bất chấp thị trường chung.
-    - **Nhận định dòng tiền:** Sức mạnh giá (Relative Strength) vượt trội, xác nhận dòng tiền thông minh đang trú ẩn vào cổ phiếu có tăng trưởng riêng biệt.
-    - **Hành động:** Tiếp tục nắm giữ, bám sát mức chặn lãi kỹ thuật.
+  - Động lực (FA): Sức mạnh giá vượt trội, dòng tiền thông minh duy trì tập trung bất chấp biến động chung.
+  - Nhận định dòng tiền: Dòng tiền cô đặc, sức mạnh nội tại mạnh.
+  - Hành động: Tiếp tục giữ, theo sát chặn lãi theo sóng tăng.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này. Duy trì chiến lược hiện tại).
