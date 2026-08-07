@@ -1,21 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:15 - 08/08/2026
+⏱ Thời gian: 06:40 ngày 08/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nhóm vốn hóa lớn có vốn nhà nước (GVR, BCM, GAS) bùng nổ nhờ kỳ vọng thoái vốn và dẫn dắt chỉ số -> Tích cực -> Dòng tiền tập trung vào nhóm Bluechip và Bất động sản khu công nghiệp.
-- Giá dầu thế giới giảm -> Tác động phân hóa (Tích cực: GMD, HAH do giảm chi phí; Tiêu cực: BSR, PVD do áp lực biên lợi nhuận và nhu cầu đầu tư).
+- Nhóm cổ phiếu có vốn nhà nước chi phối (GVR, BCM, GAS) bùng nổ dẫn dắt chỉ số -> **Tích cực**: Dòng tiền thông minh đang dịch chuyển mạnh vào nhóm Bluechips/Nhà nước, tạo hiệu ứng lan tỏa thay vì tập trung vào đầu cơ vốn hóa nhỏ.
+- Áp lực bán ròng từ quỹ ngoại (hiệu suất tháng 7 kém) -> **Tiêu cực**: Tiếp tục gây áp lực cản lên các trụ cột VHM, VCB, MSN, cần quan sát lực hấp thụ tại các vùng hỗ trợ cứng.
+- Giá dầu thế giới lao dốc -> **Trung lập/Phân hóa**: Cải thiện biên lợi nhuận nhóm Logistics (GMD, HAH) nhưng gây áp lực trực tiếp lên PVD và BSR.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: MWG
-- Động lực (FA): Chuyển đổi 3.000 cửa hàng thành điểm dịch vụ tài chính, xử lý 56.000 tỷ đồng giao dịch/6 tháng.
-- Nhận định dòng tiền: Tích cực. Tối ưu hóa hiệu suất trên mỗi mét vuông cửa hàng sẽ cải thiện biên lợi nhuận cốt lõi, thu hút dòng tiền trung-dài hạn.
-- Hành động: Chú ý giải ngân (Canh rung lắc tại các mốc hỗ trợ kỹ thuật).
-
-- Mã: HAG
-- Động lực (FA): Công ty con chốt thời gian IPO 18,8 triệu cổ phiếu.
-- Nhận định dòng tiền: Cải thiện tâm lý tích cực do kỳ vọng hiện thực hóa giá trị tài sản và giảm áp lực nợ vay.
-- Hành động: Tiếp tục quan sát (Chờ xác nhận vol đột biến trước khi vào lệnh).
+- Mã: **MWG**
+    - Động lực (FA): Chuyển đổi 3.000 cửa hàng thành điểm dịch vụ tài chính, xử lý 56.000 tỷ đồng giao dịch trong 6 tháng.
+    - Nhận định dòng tiền: Tối ưu hóa hiệu suất trên mỗi mét vuông cửa hàng, tạo nguồn thu ổn định ngoài bán lẻ thuần túy; kỳ vọng dòng tiền quay lại nhóm bán lẻ khi tâm lý thị trường hồi phục.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (test MA20).
+- Mã: **GVR, BCM, GAS**
+    - Động lực (FA): Kỳ vọng thoái vốn nhà nước và vai trò trụ cột dẫn dắt chỉ số.
+    - Nhận định dòng tiền: Dòng tiền lớn đang vào mạnh, tạo thanh khoản đột biến.
+    - Hành động: Tiếp tục nắm giữ theo đà tăng (trend-following), chặn lãi theo sát vùng hỗ trợ gần nhất.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-- Nhận định: Giá dầu thế giới lao dốc gây áp lực trực tiếp lên biên lợi nhuận lọc dầu và rủi ro trích lập tồn kho. Kết hợp với việc mã đã qua điểm rơi kỳ vọng (tháng 3/2026), đây là tín hiệu cảnh báo rủi ro cao. Khuyến nghị chủ động hạ tỷ trọng hoặc cơ cấu lại dòng tiền sang nhóm ngành có chi phí đầu vào được hưởng lợi từ giá dầu giảm (Logistics/Vận tải biển như GMD, HAH).
+- **BSR**: Dữ liệu giá dầu thế giới lao dốc kết hợp với yếu tố thời điểm (tháng 8/2026) đang gây áp lực lên biên lợi nhuận lọc dầu. Cần hạ tỷ trọng nếu giá vi phạm ngưỡng cắt lỗ kỹ thuật để tránh rủi ro trích lập dự phòng hàng tồn kho, ưu tiên đảo dòng tiền sang các mã khu công nghiệp đang có động lực thoái vốn (GVR, BCM).

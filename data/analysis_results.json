@@ -1,5 +1,86 @@
 ﻿[
   {
+    "Title": "HNX: Số liệu Quản lý Sở hữu của Nhà đầu tư nước ngoài tại ngày 06/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd21HX2lEbll2NjRkc0FjaVFZM2hLbm83N2J3LXJIM1QySUwyeXktWHlWRWZTX1pSREQ2c19DTnhKX3dldzJ0eGcxbHhqX3lpR1Jtc2liZzJacW94SHlGeWFSMGNXMmItTFEtelUwVFI3S29zeHhLbEZsQU1VWjBudU9Od2hoeDFCUDhDQ2R1YU9OQUFzdG03YXZ6OFZHT3FodF81bFh6MWtIUk53NXotU3JtSUQ1RmNCTnVZbDRwR0YtUjRQYjljNGp3?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 01:52:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là báo cáo định kỳ về dữ liệu sở hữu của nhà đầu tư nước ngoài, không chứa thông tin thay đổi đột biến hay sự kiện bất thường ảnh hưởng đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Đây là dữ liệu thống kê hành chính định kỳ, không tạo ra tín hiệu giao dịch hay thay đổi xu hướng dòng tiền trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 06:23:47"
+  },
+  {
+    "Title": "Quỹ ngoại tỷ USD có tháng 7 tệ nhất trong lịch sử hoạt động - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0hFWHZRalhFWmpDYlVvZUFTUFZYeFkwY2FNVEFBcGR4NUpaX3VJLVlkWVpkSDhUOFNrR3R4akswWDVmcmlUWjQzSm9uaHMxQ3BuM1d3ZmNaRlhJM0JpeHI4c2ZDTUNEWHdJbTBYOFdhQm1PYWI3cUtFZjJ6N05YSXVKXzVyQjMzX1RWMGhaM0xYWmgxNHl2a2xlYjlMXzdy?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 22:01:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc quỹ ngoại lớn ghi nhận hiệu suất kém phản ánh áp lực bán ròng kéo dài, gây sức ép lên các mã vốn hóa lớn (Bluechips) và tâm lý nhà đầu tư trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực bán ròng khối ngoại kéo dài gây sức ép lên nhóm VN30. Cần thận trọng với các mã trụ có tỷ trọng sở hữu nước ngoài cao trong ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường là mục tiêu bán ròng chính của các quỹ ngoại lớn, gây áp lực giảm giá."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu trụ cột chịu áp lực bán từ khối ngoại khi quỹ cơ cấu danh mục."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh mục bị bán ròng mạnh khi hiệu suất quỹ suy giảm."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 06:23:32"
+  },
+  {
+    "Title": "FUESSV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 21/01/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDJBN2pxdUpwUnBob1RpUVFVOWRrdWVyTXBVX044NDgyRkZza2ZyRmp5bGl0NW9oN05fakhsd2thUkdwU29fTUs4UTFSYkdmcGtTMHA3b29YR1NMT0M1ZUc1QzhiOHd4NzFJMk5TSUZSR1EtWlI1U2ZrSDMybkdoUHlrSEhhb2dZNGNTREl0WVphTmRneHpfZHdYd2g0ZTJackE0U1gtbnpBcnFlTlJPd1ZGV0JYaFl3VnpWc1dQN1RRRVF5S0Itdko3bU85aEZ4ODVZ?oc=5",
+    "PubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục hoán đổi của quỹ ETF, không phản ánh thay đổi chiến lược hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 06:23:22"
+  },
+  {
+    "Title": "Ngân hàng rao bán tài sản bảo đảm của DN liên quan bộ sách giáo khoa Cánh Diều",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ngan-hang-rao-ban-khoan-no-cua-dn-lien-quan-bo-sach-giao-khoa-canh-dieu-2529745.html",
+    "PubDate": "Sat, 27 Jun 2026 15:35:45 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc ngân hàng rao bán tài sản bảo đảm cho thấy rủi ro nợ xấu trong lĩnh vực xuất bản/giáo dục, gây áp lực lên bảng cân đối kế toán của các ngân hàng liên quan.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Nợ xấu phát sinh từ tài sản đảm bảo khó thanh khoản gây áp lực trích lập dự phòng. Dòng tiền thận trọng với các ngân hàng có tỷ trọng nợ xấu cao.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 06:23:11"
+  },
+  {
+    "Title": "Vì sao bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vi-sao-bong-dung-dung-ten-doanh-nghiep-ho-kinh-doanh-5106236.html",
+    "PubDate": "Sat, 08 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin cảnh báo về rủi ro pháp lý cá nhân liên quan đến việc bị lợi dụng thông tin để đăng ký kinh doanh, không tác động đến hoạt động kinh doanh hay tài chính của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là vấn đề quản lý hành chính và rủi ro pháp lý cá nhân, không ảnh hưởng đến dòng tiền hay định giá của bất kỳ mã cổ phiếu nào trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 06:23:00"
+  },
+  {
     "Title": "Hộ kinh doanh chuyển lên doanh nghiệp: Loạt chính sách ưu đãi thuế, tín dụng",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/ho-kinh-doanh-chuyen-len-doanh-nghiep-loat-chinh-sach-uu-dai-thue-tin-dung-2528845.html",
@@ -17030,93 +17111,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-30 22:11:59"
-  },
-  {
-    "Title": "Sân vận động 135.000 chỗ tại Hà Nội chính thức mang tên VinFast",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/san-van-dong-135000-cho-tai-ha-noi-chinh-thuc-mang-ten-vinfast-100260730210035478.htm",
-    "PubDate": "7/30/2026 9:41:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc đặt tên sân vận động giúp gia tăng nhận diện thương hiệu VinFast, củng cố vị thế hệ sinh thái Vingroup trong mắt công chúng và nhà đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR thương hiệu, không tác động trực tiếp đến dòng tiền kinh doanh hay biên lợi nhuận của VIC, VHM. Cần theo dõi thanh khoản thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Gia tăng giá trị thương hiệu và nhận diện cho VinFast, hỗ trợ tâm lý nhà đầu tư đối với tập đoàn mẹ."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 22:11:45"
-  },
-  {
-    "Title": "Ai nên chọn gửi tiết kiệm kỳ hạn 3 tháng?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/ai-nen-chon-gui-tiet-kiem-ky-han-3-thang-2539462.html",
-    "PubDate": "Thu, 30 Jul 2026 09:29:33 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết tư vấn tài chính cá nhân về quản lý dòng tiền, không chứa thông tin vĩ mô hay thay đổi chính sách tiền tệ tác động đến doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Bài viết mang tính chất tư vấn cá nhân, không ảnh hưởng đến thanh khoản thị trường hay biên lợi nhuận doanh nghiệp. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 22:11:35"
-  },
-  {
-    "Title": "1 giờ cà phê, 24 giờ hồ sơ và những cái bắt tay đưa vốn tỷ USD vào Phú Thọ",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/1-gio-ca-phe-24-gio-ho-so-va-nhung-cai-bat-tay-dua-von-ty-usd-vao-phu-tho-2540399.html",
-    "PubDate": "Thu, 30 Jul 2026 10:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc thu hút vốn FDI quy mô tỷ USD vào Phú Thọ tạo động lực tăng trưởng cho hạ tầng khu công nghiệp tại khu vực phía Bắc, thúc đẩy nhu cầu thuê đất và dịch vụ logistics.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR hành chính, thiếu thông tin cụ thể về dự án/doanh nghiệp. Tác động thực tế đến dòng tiền ngắn hạn không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 22:11:20"
-  },
-  {
-    "Title": "Vợ ông Phạm Nhật Vượng mua thêm gần 5% vốn LPBank",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vo-ong-pham-nhat-vuong-mua-them-gan-5-von-lpbank-5099980.html",
-    "PubDate": "Mon, 27 Jul 2026 09:37:30 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Việc cổ đông lớn gia tăng sở hữu tạo tâm lý tích cực về sự ổn định và kỳ vọng chiến lược dài hạn, giúp củng cố niềm tin nhà đầu tư vào LPB.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - LPB. Cổ đông lớn gia tăng sở hữu tạo hiệu ứng tâm lý mạnh, giảm cung trôi nổi. Kỳ vọng dòng tiền lớn nhập cuộc, hỗ trợ xu hướng tăng ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "LPB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Gia tăng sở hữu từ cổ đông lớn giúp củng cố niềm tin và giảm áp lực cung cổ phiếu trên thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 22:11:03"
-  },
-  {
-    "Title": "Vietnam Airlines lãi hơn 3.800 tỷ đồng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vietnam-airlines-lai-hon-3-800-ty-dong-5103370.html",
-    "PubDate": "Thu, 30 Jul 2026 17:05:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Kết quả kinh doanh khả quan của HVN phản ánh sự phục hồi mạnh mẽ của ngành hàng không, cải thiện tâm lý nhà đầu tư đối với nhóm vận tải và dịch vụ du lịch.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành Hàng không. Lợi nhuận HVN cải thiện bảng cân đối, tạo hiệu ứng lan tỏa tích cực lên nhóm dịch vụ cảng hàng không và vận tải hành khách.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HVN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lợi nhuận tăng trưởng mạnh giúp cải thiện bảng cân đối kế toán và tâm lý nhà đầu tư."
-      },
-      {
-        "Ticker": "ACV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sự phục hồi của các hãng hàng không trực tiếp thúc đẩy doanh thu dịch vụ cảng hàng không."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 22:10:48"
   }
 ]
