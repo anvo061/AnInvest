@@ -1,28 +1,19 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:30 - 08/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 03:00 - 08/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nới lỏng quy định ký quỹ (pre-funding) và FTSE chính thức nâng hạng thị trường Việt Nam -> **Tích cực (Cốt lõi)** -> Dòng tiền sẽ tập trung mạnh vào nhóm Chứng khoán (SSI, VCI) và nhóm Cổ phiếu vốn hóa lớn/VN30 (VCB, VHM).
-- Ngân hàng Nhà nước nới room tín dụng -> **Tích cực** -> Dòng tiền kỳ vọng vào nhóm Ngân hàng thương mại (VCB, TCB, MBB).
-- HOSE công bố danh sách cắt margin mới -> **Tiêu cực** -> Tạo áp lực bán giải chấp ngắn hạn đối với HVN, DGC.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tin tức:** FTSE xác nhận nâng hạng thị trường Việt Nam lên Emerging Market kết hợp với việc nới lỏng quy định pre-funding cho nhà đầu tư ngoại. -> **Đánh giá: Cực kỳ Tích cực** -> **Dòng tiền:** Nhóm Ngân hàng (VCB) và các mã Bluechip/VN30 (SSI, VHM) sẽ là đích đến chính của dòng vốn khối ngoại (ETF & Quỹ chủ động).
+- **Tin tức:** Ngân hàng Nhà nước nới room tín dụng, tăng dư địa cho vay. -> **Đánh giá: Tích cực** -> **Dòng tiền:** Nhóm Ngân hàng (VCB, TCB, MBB) nhận lực đẩy kép từ cả nâng hạng và mở rộng biên lợi nhuận (NIM).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI, VCI**
-  - Động lực (FA): Hưởng lợi trực tiếp từ việc nâng hạng thị trường và bỏ pre-funding, gia tăng thanh khoản và doanh thu mảng IB/môi giới.
-  - Nhận định dòng tiền: Dòng tiền khối ngoại và các quỹ ETF sẽ tìm đến nhóm này đầu tiên. Xu hướng tăng giá ngắn hạn được củng cố.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VCB, SSI, VHM**
+  - **Động lực (FA):** Hưởng lợi kép từ việc nâng hạng thị trường và nới lỏng quy định pre-funding (thúc đẩy thanh khoản, tăng trọng số trong các rổ chỉ số ngoại).
+  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart Money) có khả năng xoay trục mạnh vào nhóm vốn hóa lớn (Bluechips) sau tin tức này.
+  - **Hành động:** Chú ý giải ngân (tập trung vào vùng nền giá tích lũy, ưu tiên VCB làm trụ đỡ).
+- **Mã: DGC**
+  - **Động lực (FA):** Cổ phiếu bị HOSE cắt margin, tạo áp lực cung ngắn hạn.
+  - **Nhận định dòng tiền:** Mâu thuẫn giữa tin tích cực (tăng trần, sức mạnh giá mạnh) và tin tiêu cực (cắt margin). Sự hưng phấn có thể bị chặn đứng bởi lực bán giải chấp/giảm đòn bẩy.
+  - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn, quan sát kỹ vùng giá tại điểm giao cắt với đường MA20, tránh bắt đáy khi đang có áp lực bán từ việc cắt margin.
 
-- Mã: **VCB, VHM**
-  - Động lực (FA): Nâng hạng thị trường + Nới room tín dụng (với VCB) + Tháo gỡ pháp lý Luật Đất đai (với VHM).
-  - Nhận định dòng tiền: Trụ cột của chỉ số, thu hút dòng vốn thụ động. Dòng tiền lớn sẽ duy trì ổn định.
-  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
-
-- Mã: **HVN, DGC**
-  - Động lực (FA): Bị cắt margin trên HOSE.
-  - Nhận định dòng tiền: Áp lực bán từ nhà đầu tư cá nhân sử dụng đòn bẩy sẽ tăng mạnh, rủi ro điều chỉnh ngắn hạn cao.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng nếu chạm ngưỡng cắt lỗ.
-
-- Mã: **HAG**
-  - Động lực (FA): IPO công ty con sở hữu quỹ đất 7.000 ha.
-  - Nhận định dòng tiền: Cải thiện cấu trúc tài chính, tạo kỳ vọng dài hạn.
-  - Hành động: Chú ý giải ngân theo nhịp điều chỉnh.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện chưa có dữ liệu mới về EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái quan sát chờ tín hiệu dòng tiền xoay vòng từ nhóm Bluechip sang nhóm Midcap/tái cơ cấu.

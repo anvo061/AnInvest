@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "RAL: Thông báo và Nghị quyết HĐQT về việc thay đổi thời gian thực hiện chi trả tạm ứng cổ tức đợt 1 năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTnYtZkpMYnEyMWg3Rzg2RDhWT0lmVTNpLWc5WWk3dklEQ0EtWDRxY1E0T0U4THdWNEJCOGNqa1JNMERkQ1pWVWdVN0FvdUhMLWw1THI3enRnQk9CaVpQTEFhczdsWFgyNU1Ldzl5bS1CYjhCS255QWZoRlViRTk3Vm1rZ2lTUHRkM2FOWGZxanF4Q281ZmRNYllHNzhBWGstQ3pJM1o0VUdRRUk0SUZMZnNpbk5zYWtpcEhjN3ZuNEpUUXlpSGFHWTB4Zmw1YVk1MjVjN1V2TE9zblZReHowY1B4ZjhDN3hWNXRsMjROMDFLVDVVR3dVUVMwcw?oc=5",
+    "PubDate": "Fri, 07 Aug 2026 09:47:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc thay đổi thời gian chi trả cổ tức là hoạt động quản trị doanh nghiệp thông thường, không làm thay đổi giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - RAL. Thay đổi lịch chi trả cổ tức là điều chỉnh hành chính, không tác động đến dòng tiền hay xu hướng giá cổ phiếu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 02:59:18"
+  },
+  {
+    "Title": "Sắc đỏ bao trùm, cổ phiếu Hoá chất Đức Giang vẫn tăng kịch trần - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2IxQTBZbURNZnFlNTdaa3c3S2J3UHFHZy1EdEVfdElnY3FKVGNpc05LZ1BsVWxIc05QMzY3dklhekRZQVc2eVZZdU1VT0o2N1lscXdkWnFMRmNzcjdSazhNN0o2NHkyWEFJVXMzVW5pUVU2bmNMdHlJcm5XN0xyZVM1OW9ZMHdDY2ViMTBhT2ktbkRlQ002bjV6UllYTElzMWVOYQ?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 11:28:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Dòng tiền thông minh đang tập trung vào các cổ phiếu có câu chuyện tăng trưởng riêng biệt hoặc hưởng lợi từ giá hàng hóa, bất chấp xu hướng điều chỉnh chung của thị trường.",
+    "TapeReaderNote": "DGC: Dòng tiền đột biến, sức mạnh giá vượt trội. CSV: Hưởng lợi tâm lý ngành, cần quan sát thanh khoản xác nhận xu hướng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DGC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Dòng tiền mạnh mẽ đẩy giá kịch trần, cho thấy sức mạnh giá vượt trội so với thị trường chung."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 02:59:03"
+  },
+  {
+    "Title": "Đắk Lắk công bố 257 dự án, kêu gọi hơn 1 triệu tỷ đồng vốn đầu tư",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dak-lak-cong-bo-257-du-an-keu-goi-hon-1-trieu-ty-dong-von-dau-tu-2529958.html",
+    "PubDate": "Tue, 21 Jul 2026 11:07:04 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc công bố danh mục dự án lớn tại Đắk Lắk tạo kỳ vọng về làn sóng đầu tư hạ tầng và bất động sản khu công nghiệp, thúc đẩy nhu cầu xây dựng và phát triển hạ tầng tại khu vực Tây Nguyên.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất kêu gọi đầu tư hành chính, chưa có lộ trình giải ngân cụ thể. Tác động thực tế đến dòng tiền ngắn hạn là không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 02:58:42"
+  },
+  {
     "Title": "Vietnam Eases Rule for Foreign Investors Ahead of Market Upgrade - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTJlYXR0N0tNWG4zcXlWV2RybXlNbFRubmQ1SkJza3NicFNuYzZDMUJvWnY5NTFiYVJ2WGprWWdqclFXaF9FeUFyQTNyRnJuLTZCUHNNdm5lVi0xWkRaVmJSY2dubTAxb2Y1TjNLbmRxSWx5MTRrUVZNLVF0b09TY0hoUEp0U0JDVTFYTHU0dk9jOGFqcWdHSWhPWUtvLXVQWXlHTDB6cERiY0x0ckJWT2tyakhEUQ?oc=5",
@@ -17047,50 +17092,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-30 18:21:28"
-  },
-  {
-    "Title": "Doanh nghiệp Việt mở Trung tâm Công nghệ toàn cầu tại Nhật Bản",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/doanh-nghiep-viet-mo-trung-tam-cong-nghe-toan-cau-tai-nhat-ban-100260730153519117.htm",
-    "PubDate": "7/30/2026 5:19:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc mở rộng thị trường tại Nhật Bản khẳng định năng lực cạnh tranh của doanh nghiệp công nghệ Việt, giúp gia tăng doanh thu ngoại tệ và củng cố vị thế trong chuỗi cung ứng phần mềm toàn cầu.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành CNTT. Mở rộng thị trường Nhật Bản giúp FPT gia tăng biên lợi nhuận từ các hợp đồng giá trị cao. Dòng tiền thông minh sẽ tiếp tục duy trì xu hướng tích lũy tại FPT.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp công nghệ hàng đầu Việt Nam với thị trường Nhật Bản là trọng điểm, việc mở rộng trung tâm giúp tăng trưởng doanh thu bền vững."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 18:21:14"
-  },
-  {
-    "Title": "Đề xuất Vĩnh Long làm dự án cao tốc nối TP.HCM đến Sóc Trăng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/de-xuat-vinh-long-lam-du-an-cao-toc-noi-tphcm-den-soc-trang-100260730144338703.htm",
-    "PubDate": "7/30/2026 5:22:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Dự án hạ tầng giao thông trọng điểm thúc đẩy giải ngân đầu tư công, tạo động lực tăng trưởng cho các doanh nghiệp xây lắp hạ tầng và vật liệu xây dựng tại khu vực phía Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mới ở mức đề xuất, chưa có phê duyệt ngân sách hay lộ trình cụ thể. Tác động thực tế lên backlog doanh nghiệp còn xa, cần theo dõi thêm.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 18:20:59"
-  },
-  {
-    "Title": "Doanh nghiệp Việt bứt phá trên sàn TMĐT nhờ chuẩn hóa vận hành",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/doanh-nghiep-viet-but-pha-tren-san-tmdt-nho-chuan-hoa-van-hanh-2540392.html",
-    "PubDate": "Thu, 30 Jul 2026 13:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin mang tính chất tuyên truyền về xu hướng chuyển đổi số và vận hành doanh nghiệp, không có tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các mã cổ phiếu cụ thể trên sàn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ/Logistics. Tin tức mang tính chất định hướng chung, không tạo ra biến động dòng tiền tức thời cho các mã niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 18:20:49"
   }
 ]
