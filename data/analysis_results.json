@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "Lãi suất ngân hàng hôm nay 23/6/2026: Nhà băng trả cao nhất kỳ hạn dưới 6 tháng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-23-6-2026-nha-bang-tra-cao-nhat-ky-han-duoi-6-thang-2528366.html",
+    "PubDate": "Tue, 21 Jul 2026 11:14:36 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc điều chỉnh lãi suất huy động kỳ hạn ngắn là hoạt động quản trị thanh khoản thông thường của các ngân hàng thương mại, không phản ánh xu hướng thay đổi lãi suất điều hành hay chính sách tiền tệ vĩ mô.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Đây là điều chỉnh lãi suất huy động cục bộ, không tác động đến biên lãi ròng (NIM) toàn ngành. Dòng tiền sẽ không phản ứng mạnh với thông tin này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 06:17:02"
+  },
+  {
+    "Title": "Ông Phạm Nhật Vượng xuất hiện trong danh sách cổ đông của LPBank",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ong-pham-nhat-vuong-xuat-hien-trong-danh-sach-co-dong-cua-lpbank-2528444.html",
+    "PubDate": "Tue, 23 Jun 2026 15:28:39 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc cổ đông lớn có tầm ảnh hưởng tham gia vào cơ cấu cổ đông LPB tạo kỳ vọng về sự thay đổi chiến lược, quản trị và khả năng tiếp cận nguồn vốn, thúc đẩy tâm lý tích cực cho nhà đầu tư.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - LPB. Tin tức về cổ đông lớn tạo sóng tâm lý, kích hoạt dòng tiền đầu cơ. Cần theo dõi chặt chẽ thanh khoản và khối lượng giao dịch để xác nhận xu hướng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "LPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kỳ vọng thay đổi chiến lược và quản trị từ cổ đông lớn, tạo động lực tăng giá ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 06:16:48"
+  },
+  {
+    "Title": "Giá vàng hôm nay 9/8/2026 vọt lên 144 triệu đồng/lượng, SJC còn tăng tiếp?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-9-8-2026-vot-len-144-trieu-dong-luong-sjc-con-tang-tiep-2543312.html",
+    "PubDate": "Sun, 09 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Giá vàng tăng mạnh phản ánh tâm lý trú ẩn rủi ro hoặc lạm phát, tuy nhiên không tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Giá vàng tăng là biến số vĩ mô, không tác động trực tiếp đến biên lợi nhuận doanh nghiệp niêm yết. Dòng tiền không phản ứng với tin này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 06:16:38"
+  },
+  {
     "Title": "Tin tức sáng 9-8: Quốc hội thảo luận sửa Luật Phòng, chống rửa tiền; Lãi suất qua đêm giảm mạnh",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/tin-tuc-sang-9-8-quoc-hoi-thao-luan-sua-luat-phong-chong-rua-tien-lai-suat-qua-dem-giam-manh-100260808220659366.htm",
@@ -16855,44 +16900,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 01:44:36"
-  },
-  {
-    "Title": "E1VFVN30: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXp5aVNrNHJjaXpTcVU2bzZBOV9OdVRwQWw3ZEtrcEZYdnZDYkQySHFRUDFRWDVpcjNiV29QY0YyWExzdE9HU1Q5VUtESmpkaXFrR1NfZ0lIWmZIdzFzeDhUbEJ3WThtcVJMQmR6MTdrZVFGWFZ0UnFBOEppNHE2UHMtbEYweXdCNU5jNnFvckFZNTZqc2pMdnpkU185SEZVaVhINkdLRnlmdGlmeTJnQ3NRYVpfaTltNm5HWmtabTE5bkhaNkZvT3ctZDVUTmFTWnc5dnR1azNjMGhDQmtLMGJGOA?oc=5",
-    "PubDate": "Fri, 31 Jul 2026 02:18:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về thay đổi niêm yết chứng chỉ quỹ, không tác động đến hoạt động kinh doanh hay dòng tiền của các doanh nghiệp trong danh mục VN30.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Thay đổi niêm yết chứng chỉ quỹ là thủ tục hành chính thông thường, không ảnh hưởng đến giá trị nội tại hay xu hướng dòng tiền của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 01:44:26"
-  },
-  {
-    "Title": "FUEVFVND: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEZwY2JsMlBDam1LdkVtY2d5SGYxbVhxZU43NVU0T05QM2tDVVRnZU1OYmJwc3hzV1FJSnZ6R05HRFBITS1JNTFsWXduYU5DYm9xNWdwRDdSdnFrdEZ4M2JBMGhQeFJsX3NTMnJVWlR4aFR2bDhkenBtQWhXeGZieC1ObkxwbXBNU05ZZVB4ZDc1Y3FwRE1CZlp1YWdVYTFCRWNuVVNnVWNySzNXZ3hPN2tlR2FBMHlVaEpEaTNORzBJeDBRbXpYSWd3?oc=5",
-    "PubDate": "Fri, 31 Jul 2026 02:18:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về thay đổi niêm yết chứng chỉ quỹ ETF, không làm thay đổi giá trị tài sản ròng (NAV) hay chiến lược đầu tư của quỹ, do đó không tác động đến thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Thay đổi niêm yết là thủ tục hành chính định kỳ, không ảnh hưởng đến dòng tiền hay danh mục đầu tư của quỹ. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 01:44:16"
-  },
-  {
-    "Title": "Thị trường chưa khởi sắc, nhiều 'đại gia' bất động sản vẫn lập kỷ lục doanh thu, nhờ đâu?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/thi-truong-chua-khoi-sac-nhieu-dai-gia-bat-dong-san-van-lap-ky-luc-doanh-thu-nho-dau-10026073116463039.htm",
-    "PubDate": "7/31/2026 5:02:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc các doanh nghiệp BĐS ghi nhận doanh thu kỷ lục nhờ bàn giao dự án cho thấy sự phân hóa mạnh mẽ, dòng tiền đang tập trung vào các chủ đầu tư có quỹ đất sạch và tiến độ triển khai tốt.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Doanh thu kỷ lục từ bàn giao dự án cũ không phản ánh sức cầu mới. Cần thận trọng với rủi ro dòng tiền trong bối cảnh thị trường chung chưa khởi sắc.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 01:44:01"
   }
 ]

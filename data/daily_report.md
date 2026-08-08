@@ -1,24 +1,32 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 06:15 - 09/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 06:30 - 09/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Ngân hàng Nhà nước (NHNN) nới lỏng tín dụng & lãi suất hạ nhiệt:** NHNN ban hành cơ chế tín dụng đặc thù cho dự án trọng điểm (BĐS & Hạ tầng) cùng lãi suất qua đêm giảm mạnh -> **Tích cực** -> Dòng tiền dự kiến hướng mạnh vào nhóm **Ngân hàng (VCB, TCB, MBB)**, **Bất động sản (VHM, NVL, PDR)** và **Xây lắp hạ tầng (VCG, HHV, LCG)**.
-- **Áp lực cung thịt ngoại:** Lượng lớn thịt nhập khẩu giá rẻ gây áp lực biên lợi nhuận -> **Tiêu cực** -> Cần thận trọng với nhóm chăn nuôi (**DBC, BAF**).
-- **Hỗ trợ tín dụng xanh:** Chính sách ưu đãi 2% cho vốn vay xanh -> **Tích cực** -> Dòng tiền tiềm năng vào nhóm năng lượng tái tạo (**REE, GEG**).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- NHNN hướng dẫn cơ chế tín dụng đặc thù cho dự án BĐS trọng điểm và lãi suất qua đêm giảm mạnh -> [Tích cực] -> Dòng tiền tập trung vào nhóm Ngân hàng (hưởng lợi NIM, thanh khoản) và Bất động sản (tháo gỡ nút thắt tài chính).
+- Nguồn cung thịt nhập khẩu tăng đột biến -> [Tiêu cực] -> Áp lực lên nhóm Nông nghiệp/Chăn nuôi (DBC, BAF).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **VHM, NVL, PDR**
-  - **Động lực (FA):** Được NHNN hỗ trợ tín dụng đặc thù cho các dự án trọng điểm, tháo gỡ trực tiếp nút thắt thanh khoản.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và khối ngoại khả năng cao sẽ "đón sóng" kỳ vọng giải ngân dự án.
-  - **Hành động:** Chú ý giải ngân khi có xác nhận dòng tiền vào phiên sáng.
-- **Mã:** **VCG, HHV, LCG**
-  - **Động lực (FA):** Hưởng lợi kép từ vốn đầu tư công và cơ chế tín dụng ưu đãi cho các dự án hạ tầng lớn.
-  - **Nhận định dòng tiền:** Xung lực tích cực, dòng tiền tập trung vào các nhà thầu có backlog lớn.
-  - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu nền giá tích lũy đi kèm khối lượng đột biến.
-- **Mã:** **DBC, BAF**
-  - **Động lực (FA):** Nguồn cung thịt nhập khẩu giá rẻ gia tăng áp lực lên biên lợi nhuận.
-  - **Nhận định dòng tiền:** Có thể chịu áp lực bán ngắn hạn.
-  - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên giảm vị thế nếu áp lực bán vượt ngưỡng hỗ trợ kỹ thuật.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **LPB**
+- Động lực (FA): Ông Phạm Nhật Vượng trở thành cổ đông chiến lược.
+- Nhận định dòng tiền: Kỳ vọng thay đổi quản trị và cộng hưởng hệ sinh thái tạo hiệu ứng tâm lý cực mạnh (FOMO), thanh khoản ngắn hạn sẽ đột biến.
+- Hành động: **Chú ý giải ngân** theo đà tăng, quản trị rủi ro tại vùng kháng cự kỹ thuật.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Hiện chưa có tin tức trọng yếu tác động trực tiếp đến EIB/BSR trong dữ liệu đầu vào. Giữ nguyên vị thế quan sát cho mục tiêu tái cơ cấu tháng 6/2026.
+- Mã: **VHM, NVL, PDR**
+- Động lực (FA): Được áp dụng cơ chế tín dụng đặc thù cho các dự án lớn.
+- Nhận định dòng tiền: Dòng tiền đầu cơ sẽ phản ứng tích cực trước tin nới lỏng Room tín dụng dự án, giảm áp lực thanh khoản.
+- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng, ưu tiên nắm giữ.
+
+- Mã: **VCB, TCB, MBB**
+- Động lực (FA): Lãi suất liên ngân hàng giảm sâu, chi phí vốn tối ưu.
+- Nhận định dòng tiền: Dòng tiền thông minh sẽ trú ẩn vào các cổ phiếu ngân hàng có CASA tốt để hưởng lợi từ môi trường thanh khoản dồi dào.
+- Hành động: **Tiếp tục quan sát**, canh gia tăng tỷ trọng nếu có nhịp rung lắc.
+
+- Mã: **DBC, BAF**
+- Động lực (FA): Nguồn cung thịt ngoại giá rẻ gia tăng áp lực cạnh tranh.
+- Nhận định dòng tiền: Tiêu cực đến biên lợi nhuận, dòng tiền có xu hướng thoái lui hoặc đứng ngoài.
+- Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu giá thủng hỗ trợ ngắn hạn.
+
+- Mã: **VIC**
+- Động lực (FA): Huy động 255 triệu USD từ vốn ngoại và mở rộng mảng dịch vụ tại Kazakhstan.
+- Nhận định dòng tiền: Củng cố niềm tin dòng tiền dài hạn, giảm áp lực nợ vay.
+- Hành động: **Chú ý giải ngân** tích lũy cho danh mục trung hạn.
