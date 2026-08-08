@@ -1,5 +1,84 @@
 ﻿[
   {
+    "Title": "Tin tức sáng 9-8: Quốc hội thảo luận sửa Luật Phòng, chống rửa tiền; Lãi suất qua đêm giảm mạnh",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tin-tuc-sang-9-8-quoc-hoi-thao-luan-sua-luat-phong-chong-rua-tien-lai-suat-qua-dem-giam-manh-100260808220659366.htm",
+    "PubDate": "8/9/2026 4:00:00 AM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Lãi suất qua đêm giảm mạnh phản ánh thanh khoản hệ thống ngân hàng dồi dào, giúp giảm chi phí vốn ngắn hạn cho các tổ chức tín dụng và hỗ trợ tâm lý thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Lãi suất qua đêm giảm mạnh cho thấy thanh khoản dồi dào, giảm áp lực chi phí vốn. Dòng tiền sẽ ưu tiên nhóm ngân hàng có tỷ lệ CASA cao như VCB, TCB.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thanh khoản hệ thống dồi dào giúp ngân hàng tối ưu hóa chi phí vốn và duy trì biên lãi ròng (NIM) ổn định."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ chi phí vốn thấp nhờ lợi thế CASA lớn, hỗ trợ tăng trưởng tín dụng trong môi trường lãi suất hạ nhiệt."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thanh khoản thị trường liên ngân hàng dồi dào giúp ngân hàng linh hoạt hơn trong quản trị vốn và mở rộng tín dụng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 05:53:45"
+  },
+  {
+    "Title": "Cơ hội trúng thưởng 13 tỷ đồng trên siêu ứng dụng MSB Digital Bank",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/co-hoi-trung-thuong-13-ty-dong-tren-sieu-ung-dung-msb-digital-bank-2528448.html",
+    "PubDate": "Tue, 23 Jun 2026 12:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là chương trình khuyến mãi marketing thông thường nhằm thu hút người dùng ứng dụng ngân hàng, không tác động trọng yếu đến kết quả kinh doanh hay biên lợi nhuận của ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Chương trình khuyến mãi marketing đơn thuần, không thay đổi cấu trúc dòng tiền hay lợi nhuận cốt lõi của MSB. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 05:53:35"
+  },
+  {
+    "Title": "Vàng tăng vọt lên đỉnh 1 tháng, Trung Quốc tung ‘cú hích’ lớn",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vang-tang-vot-len-dinh-1-thang-trung-quoc-tung-cu-hich-lon-2543419.html",
+    "PubDate": "Sun, 09 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Giá vàng biến động chủ yếu ảnh hưởng đến tâm lý nhà đầu tư cá nhân và thị trường ngoại hối, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động ngành. Giá vàng tăng là biến số vĩ mô, không ảnh hưởng trực tiếp đến dòng tiền doanh nghiệp niêm yết. Dòng tiền thông minh sẽ đứng ngoài quan sát.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 05:53:26"
+  },
+  {
+    "Title": "Gần nửa triệu tấn thịt nhập khẩu đổ bộ thị trường, giá rẻ bất ngờ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gan-nua-trieu-tan-thit-nhap-khau-do-bo-thi-truong-gia-re-bat-ngo-2542406.html",
+    "PubDate": "Sun, 09 Aug 2026 05:45:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Nguồn cung thịt nhập khẩu giá rẻ gia tăng gây áp lực cạnh tranh trực tiếp lên giá bán thịt nội địa, làm thu hẹp biên lợi nhuận của các doanh nghiệp chăn nuôi trong nước.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chăn nuôi. Nguồn cung giá rẻ gây áp lực lên giá heo hơi nội địa. DBC, BAF chịu rủi ro biên lợi nhuận ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DBC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực cạnh tranh từ thịt nhập khẩu giá rẻ làm giảm giá bán đầu ra, ảnh hưởng trực tiếp đến biên lợi nhuận mảng chăn nuôi."
+      },
+      {
+        "Ticker": "BAF",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nguồn cung dồi dào từ nhập khẩu gây khó khăn cho việc duy trì giá bán heo hơi ở mức cao, ảnh hưởng doanh thu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 05:53:12"
+  },
+  {
     "Title": "TCD: Giải trình và đưa ra phương án khắc phục về trạng thái chứng khoán - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHNEa0hKenpMZXVibjI3enRDaFg0VG96WHl6NVEwNy1DRk9SSzFhdl9qM1dLYm84VXF0X3ktaXZQcU5IRjd0dWVHdG0xNm93MldEM3A3UTNXZUgyd2hXYzN3VUpGV0ViNzRocncydFY0SDFueFJpTFBOS2tRVnFPY096TG5iZk1LRVA1SXYyNFN0d3l6dUhZMHdZeGQ3SGItUUJkMldpeHZFM1VwZktTNg?oc=5",
@@ -16815,100 +16894,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 01:44:01"
-  },
-  {
-    "Title": "TP.HCM phát triển hành lang logistics nối cảng biển với sân bay Long Thành",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-phat-trien-hanh-lang-logistics-noi-cang-bien-voi-san-bay-long-thanh-100260731172825222.htm",
-    "PubDate": "7/31/2026 5:53:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc quy hoạch hành lang logistics chiến lược giúp tối ưu hóa chuỗi cung ứng, giảm chi phí vận tải và tăng công suất khai thác cho các doanh nghiệp cảng biển và hạ tầng khu vực phía Nam.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Cảng biển. Quy hoạch hành lang logistics hỗ trợ dài hạn cho GMD, HAH. Tác động thực tế cần thời gian triển khai, chưa tạo đột biến dòng tiền ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ việc tăng lưu lượng hàng hóa thông qua các cảng biển kết nối với sân bay Long Thành."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Mở rộng cơ hội khai thác dịch vụ vận tải và logistics nhờ hạ tầng kết nối đồng bộ giữa cảng và sân bay."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 01:43:46"
-  },
-  {
-    "Title": "Lãi suất vượt 9%, tiền gửi ngân hàng lập kỷ lục 10,82 triệu tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tien-gui-ngan-hang-lap-ky-luc-vuot-10-82-trieu-ty-dong-2539428.html",
-    "PubDate": "Mon, 27 Jul 2026 15:06:42 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -6,
-    "MarketImpact": "Lãi suất huy động tăng gây áp lực lên chi phí vốn (COF) của các ngân hàng và làm giảm sức hấp dẫn của dòng tiền đầu tư vào thị trường chứng khoán, bất động sản.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực trực tiếp lên NIM nhóm Ngân hàng và làm suy yếu thanh khoản thị trường chứng khoán do dịch chuyển dòng tiền sang kênh tiết kiệm.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí huy động vốn tăng gây áp lực lên biên lợi nhuận ròng (NIM) trong ngắn hạn."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực chi phí vốn tăng cao ảnh hưởng trực tiếp đến biên lợi nhuận của ngân hàng bán lẻ."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lãi suất cao làm tăng chi phí vay của doanh nghiệp và giảm nhu cầu vay mua nhà của khách hàng."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Dòng tiền có xu hướng dịch chuyển từ kênh chứng khoán sang gửi tiết kiệm khi lãi suất hấp dẫn."
-      },
-      {
-        "Ticker": "PDR",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí tài chính tăng cao gây áp lực lên dòng tiền và khả năng trả nợ của doanh nghiệp BĐS."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 01:43:29"
-  },
-  {
-    "Title": "TPBank ra mắt tính năng quản trị chi phí doanh nghiệp",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/tpbank-ra-mat-tinh-nang-quan-tri-chi-phi-doanh-nghiep-5103570.html",
-    "PubDate": "Fri, 31 Jul 2026 09:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là hoạt động nâng cấp dịch vụ ngân hàng số thông thường, giúp tăng trải nghiệm khách hàng doanh nghiệp nhưng không tạo ra thay đổi đột biến về doanh thu hay biên lợi nhuận của ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Việc ra mắt tính năng mới là hoạt động nghiệp vụ thường niên, không tác động đến dòng tiền lớn hay định giá cổ phiếu TPB trong ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "TPB",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Tính năng mới giúp cải thiện dịch vụ nhưng không đủ lớn để thay đổi kết quả kinh doanh cốt lõi của ngân hàng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 01:43:17"
-  },
-  {
-    "Title": "Lý do Vingroup đặt tên VinFast cho SVĐ 135.000 chỗ",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/ly-do-vingroup-dat-ten-vinfast-cho-svd-135-000-cho-5103755.html",
-    "PubDate": "Fri, 31 Jul 2026 14:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về chiến lược thương hiệu và marketing của tập đoàn, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các mã cổ phiếu niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động truyền thông thương hiệu nội bộ, không tạo ra thay đổi về biên lợi nhuận hay dòng tiền cho VIC hoặc các mã liên quan.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 01:43:08"
   }
 ]

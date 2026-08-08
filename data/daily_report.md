@@ -1,23 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:00 ngày 09/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 06:15 - 09/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN hướng dẫn cơ chế tín dụng đặc thù cho 18 dự án trọng điểm (tổng vốn 752 nghìn tỷ) và hỗ trợ lãi suất 2% cho vốn vay xanh -> **Tích cực (Mạnh)** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Bất động sản (BĐS)** và **Xây dựng hạ tầng**, lan tỏa sang nhóm **Năng lượng tái tạo**.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Ngân hàng Nhà nước (NHNN) nới lỏng tín dụng & lãi suất hạ nhiệt:** NHNN ban hành cơ chế tín dụng đặc thù cho dự án trọng điểm (BĐS & Hạ tầng) cùng lãi suất qua đêm giảm mạnh -> **Tích cực** -> Dòng tiền dự kiến hướng mạnh vào nhóm **Ngân hàng (VCB, TCB, MBB)**, **Bất động sản (VHM, NVL, PDR)** và **Xây lắp hạ tầng (VCG, HHV, LCG)**.
+- **Áp lực cung thịt ngoại:** Lượng lớn thịt nhập khẩu giá rẻ gây áp lực biên lợi nhuận -> **Tiêu cực** -> Cần thận trọng với nhóm chăn nuôi (**DBC, BAF**).
+- **Hỗ trợ tín dụng xanh:** Chính sách ưu đãi 2% cho vốn vay xanh -> **Tích cực** -> Dòng tiền tiềm năng vào nhóm năng lượng tái tạo (**REE, GEG**).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VHM, NVL, PDR**
-    - Động lực (FA): Hưởng lợi trực tiếp từ cơ chế tín dụng đặc thù, tháo gỡ nút thắt thanh khoản cho dự án trọng điểm.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ quay trở lại nhóm BĐS nhờ giảm thiểu rủi ro tài chính.
-    - Hành động: **Chú ý giải ngân** tại các vùng hỗ trợ kỹ thuật, theo dõi khối lượng giao dịch phiên sáng để xác nhận lực cầu.
-- **Mã: VCG, HHV, LCG**
-    - Động lực (FA): Hưởng lợi từ việc đẩy nhanh tiến độ dự án hạ tầng quốc gia nhờ cơ chế vốn mới.
-    - Nhận định dòng tiền: Dòng tiền ưu tiên nhóm xây lắp có backlog lớn.
-    - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng kháng cự ngắn hạn.
-- **Mã: VIC**
-    - Động lực (FA): Vinpearl huy động thành công 255 triệu USD; VinFast mở rộng dịch vụ sang Kazakhstan.
-    - Nhận định dòng tiền: Cải thiện niềm tin khối ngoại và giảm áp lực nợ vay.
-    - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì xu hướng tăng bền vững.
-- **Mã: REE, GEG**
-    - Động lực (FA): Hưởng lợi từ chính sách hỗ trợ lãi suất 2% cho tín dụng xanh.
-    - Nhận định dòng tiền: Cải thiện biên lợi nhuận, thu hút dòng tiền trung hạn.
-    - Hành động: **Tiếp tục quan sát** để điểm rơi giải ngân khi có tín hiệu điều chỉnh kỹ thuật.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **VHM, NVL, PDR**
+  - **Động lực (FA):** Được NHNN hỗ trợ tín dụng đặc thù cho các dự án trọng điểm, tháo gỡ trực tiếp nút thắt thanh khoản.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và khối ngoại khả năng cao sẽ "đón sóng" kỳ vọng giải ngân dự án.
+  - **Hành động:** Chú ý giải ngân khi có xác nhận dòng tiền vào phiên sáng.
+- **Mã:** **VCG, HHV, LCG**
+  - **Động lực (FA):** Hưởng lợi kép từ vốn đầu tư công và cơ chế tín dụng ưu đãi cho các dự án hạ tầng lớn.
+  - **Nhận định dòng tiền:** Xung lực tích cực, dòng tiền tập trung vào các nhà thầu có backlog lớn.
+  - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu nền giá tích lũy đi kèm khối lượng đột biến.
+- **Mã:** **DBC, BAF**
+  - **Động lực (FA):** Nguồn cung thịt nhập khẩu giá rẻ gia tăng áp lực lên biên lợi nhuận.
+  - **Nhận định dòng tiền:** Có thể chịu áp lực bán ngắn hạn.
+  - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên giảm vị thế nếu áp lực bán vượt ngưỡng hỗ trợ kỹ thuật.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện chưa có tin tức trọng yếu tác động trực tiếp đến EIB/BSR trong dữ liệu đầu vào. Giữ nguyên vị thế quan sát cho mục tiêu tái cơ cấu tháng 6/2026.
