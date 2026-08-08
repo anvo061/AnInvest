@@ -1,16 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:25 - 08/08/2026
+⏱ Thời gian: 18:51
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá xăng giảm kỳ thứ 5 liên tiếp, đưa xăng E5 và E10 về dưới 20.000 đồng/lít -> Tích cực -> Hướng dòng tiền vào nhóm Vận tải, Logistics và các doanh nghiệp có chi phí đầu vào chịu ảnh hưởng trực tiếp bởi cước phí vận chuyển.
+- Áp lực tỷ giá hạ nhiệt giúp khối ngoại giảm bán ròng và giá xăng dầu giảm 5 kỳ liên tiếp giúp tối ưu chi phí vận hành -> Đánh giá tác động: Tích cực -> Dòng tiền sẽ tập trung vào nhóm Bluechips (vốn hóa lớn) và nhóm Vận tải/Logistics.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GMD**
-- Động lực (FA): Hưởng lợi trực tiếp từ việc cắt giảm chi phí vận hành đội xe và logistics nhờ giá xăng dầu liên tục giảm.
-- Nhận định dòng tiền: Kỳ vọng cải thiện biên lợi nhuận gộp trong quý III/2026. Dòng tiền có xu hướng gia tăng tại các vùng giá hỗ trợ cứng do tâm lý kỳ vọng vào báo cáo tài chính tích cực hơn.
-- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu xác nhận dòng tiền vượt ngưỡng cản kỹ thuật ngắn hạn.
+- Mã: VCB, SSI, VHM, FPT
+- Động lực (FA): Áp lực tỷ giá giảm, tâm lý khối ngoại cải thiện rõ rệt đối với các mã trụ.
+- Nhận định dòng tiền: Dòng tiền ngoại có dấu hiệu quay trở lại, hỗ trợ nền giá của nhóm vốn hóa lớn và nhóm chứng khoán (nhờ thanh khoản thị trường tăng).
+- Hành động: Chú ý giải ngân vị thế dẫn dắt (VCB, SSI) khi thị trường xác nhận phiên giao dịch có khối lượng tăng dần.
 
-- Mã: **HAH**
-- Động lực (FA): Giảm chi phí nhiên liệu đầu vào cho đội tàu vận tải và logistics đường bộ.
-- Nhận định dòng tiền: Phản ứng tích cực với thông tin vĩ mô. Dòng tiền ngắn hạn có thể tìm đến do tính chất "nhạy sóng" với chi phí nhiên liệu.
-- Hành động: Tiếp tục quan sát khối lượng giao dịch trong 2 phiên tới để xác nhận xu hướng gia tăng bền vững.
+- Mã: GMD, HAH
+- Động lực (FA): Giá xăng E5 và E10 về dưới 20.000 đồng/lít, trực tiếp giảm chi phí nhiên liệu đầu vào.
+- Nhận định dòng tiền: Cải thiện biên lợi nhuận gộp trong báo cáo tài chính quý tới, tạo điểm tựa cơ bản cho dòng tiền trung hạn.
+- Hành động: Tiếp tục quan sát tín hiệu bứt phá từ vùng nền hỗ trợ.
