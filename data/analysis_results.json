@@ -1,5 +1,87 @@
 ﻿[
   {
+    "Title": "PNJ triệu tập họp bất thường - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uVHp0QkhHaDY5LXFDNF9DVlRDMXhDSkcxcVVLUkpQZnE5eGR3blczSzFMUVVYdFRVaTQ5WG9KU1drRWNpeE1IQ1F4aXdsMU1rU0l0c1ZwT3AtM3NaWEI4bW9veS1jSmRJckplNlpKdTVrSVZ3NWRj?oc=5",
+    "PubDate": "Wed, 05 Aug 2026 13:54:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc triệu tập họp ĐHĐCĐ bất thường là thủ tục hành chính doanh nghiệp, chưa rõ nội dung trình bày nên chưa tác động đến biên lợi nhuận hay dòng tiền của PNJ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - PNJ. Thông tin họp bất thường thiếu nội dung cụ thể, chưa đủ dữ kiện để dòng tiền thông minh phản ứng. Quan sát thêm các tờ trình sắp tới.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 07:45:06"
+  },
+  {
+    "Title": "“Bàn tiệc chỉ còn vài chai bia”, Bia Hà Nội vẫn báo lãi quý 2 cao nhất 5 năm, có hơn 5.300 tỷ đồng gửi ngân hàng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObC1ibFFlNU1RMExsZnEzbEJwMllvOEJVNHgwRElTanpnbE5DSnhOaHZiNkRablYxenlMMEpxTGVuUmVkWWpyN3FMam85b2hjeWNITjA2Z2o5bjVwUFFXRU9zSEsyNldQLVVMR3dScG9RVF9lb0J3QU5CTWN6amRBZUo1TnM4MTdtR0hhdnBQaXE0alc4eWpzMW9JQnJwOXBpLTBjd05DT1QzVHBybW9CMnFJOHgxQnF3cE1mMThpZkJyOHhrZUlycnYtaTljVjR0QmktTTJOd0RUcUVleE9HUw?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 11:36:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Lượng tiền mặt lớn gửi ngân hàng giúp doanh nghiệp hưởng lợi từ lãi suất và duy trì sự ổn định tài chính bất chấp khó khăn chung của ngành bia.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - BHN. Lợi nhuận tăng nhờ thu nhập tài chính từ tiền gửi, không đến từ cốt lõi. Thanh khoản thấp, thiếu động lực tăng trưởng đột phá từ kinh doanh chính.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "BHN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lợi nhuận tăng trưởng và lượng tiền mặt lớn gửi ngân hàng giúp cải thiện thu nhập tài chính, củng cố vị thế tài chính."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 07:44:50"
+  },
+  {
+    "Title": "Ngân hàng thu 'đống tiền' từ trái phiếu - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFIzbXV3dk5teGxyYkxEX2Y1a0ZCdTFxMWlCdjhXS1AyV3QzZXp5VTlweFNGTXIyVkV6SXhWaUEzVEZ6N0RHQXBQX3ZQbVNrUUMzOVdZN1JTQ2p4LWc1TXNwdnlITVlqV2xsV1NPNHNFOGU0Q25HX01HRWt1OE9TQUw1Yw?oc=5",
+    "PubDate": "Fri, 07 Aug 2026 23:44:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc thu lãi lớn từ đầu tư trái phiếu giúp cải thiện thu nhập ngoài lãi (non-interest income), củng cố biên lợi nhuận và tăng cường bộ đệm vốn cho các ngân hàng thương mại trong bối cảnh tín dụng tăng trưởng chậm.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Lợi nhuận trái phiếu chỉ là yếu tố bù đắp tạm thời, không thay đổi bản chất tăng trưởng tín dụng. Cần thận trọng với rủi ro đáo hạn trái phiếu doanh nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng có danh mục đầu tư trái phiếu lớn, hưởng lợi trực tiếp từ việc ghi nhận lợi nhuận từ mảng này."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cải thiện thu nhập ngoài lãi giúp củng cố kết quả kinh doanh quý, hỗ trợ tâm lý nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 07:44:32"
+  },
+  {
+    "Title": "Tin tức sáng 8-8: Hôm nay, Quốc hội thảo luận sửa 9 luật về quân sự, quốc phòng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tin-tuc-sang-8-8-hom-nay-quoc-hoi-thao-luan-sua-9-luat-ve-quan-su-quoc-phong-100260807203407729.htm",
+    "PubDate": "8/8/2026 6:00:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là các nội dung sửa đổi luật mang tính chất hành chính, quản lý nhà nước về quân sự, quốc phòng, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Tin tức mang tính chất hành chính, pháp lý về quốc phòng, không tạo ra sóng dòng tiền hay thay đổi kỳ vọng lợi nhuận cho bất kỳ mã cổ phiếu nào.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 07:44:21"
+  },
+  {
+    "Title": "VinMetal tăng tốc tổ hợp thép với công nghệ hàng đầu thế giới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vinmetal-tang-toc-to-hop-thep-voi-cong-nghe-hang-dau-the-gioi-2529834.html",
+    "PubDate": "Fri, 26 Jun 2026 19:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "VinMetal không phải là doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam. Thông tin này không tác động trực tiếp đến các mã cổ phiếu thép hiện có trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thép. VinMetal không niêm yết, không ảnh hưởng đến thị phần hay dòng tiền của HPG, HSG, NKG. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 07:44:11"
+  },
+  {
     "Title": "Điện mặt trời mái nhà: Được bán điện dư vượt 50% trong một số trường hợp",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/dien-mat-troi-mai-nha-duoc-ban-dien-du-vuot-50-trong-mot-so-truong-hop-2529859.html",
@@ -17019,103 +17101,5 @@
       }
     ],
     "AnalyzedAt": "2026-07-30 23:46:06"
-  },
-  {
-    "Title": "EVN và Vinachem hợp tác nghiên cứu phát triển pin lưu trữ năng lượng BESS",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/evn-va-vinachem-hop-tac-nghien-cuu-phat-trien-pin-luu-tru-nang-luong-bess-2540430.html",
-    "PubDate": "Thu, 30 Jul 2026 10:33:58 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc phát triển hệ thống lưu trữ năng lượng BESS là mắt xích quan trọng để ổn định lưới điện, tạo tiền đề cho các doanh nghiệp năng lượng tái tạo và sản xuất thiết bị điện.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Hợp tác nghiên cứu ở giai đoạn sơ khởi, chưa có tác động dòng tiền tức thời. Cần theo dõi lộ trình triển khai thực tế của EVN và Vinachem.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 23:45:51"
-  },
-  {
-    "Title": "Giá dầu thế giới lao dốc, vàng tăng trở lại",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/gia-dau-the-gioi-lao-doc-vang-tang-tro-lai-5101907.html",
-    "PubDate": "Mon, 27 Jul 2026 08:41:08 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -5,
-    "MarketImpact": "Giá dầu giảm gây áp lực lên doanh thu các doanh nghiệp thượng nguồn và hạ nguồn dầu khí, trong khi vàng tăng phản ánh tâm lý trú ẩn rủi ro của thị trường.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Giá dầu giảm gây áp lực biên lợi nhuận và rủi ro trích lập tồn kho. Dòng tiền ngắn hạn có xu hướng rút khỏi nhóm năng lượng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu giảm làm giảm nhu cầu thuê giàn khoan và đơn giá dịch vụ khoan."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu thấp ảnh hưởng đến tiến độ các dự án đầu tư mới và biên lợi nhuận dịch vụ kỹ thuật."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu giảm mạnh gây rủi ro trích lập dự phòng hàng tồn kho và thu hẹp biên lợi nhuận lọc dầu."
-      },
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá bán khí đầu ra thường neo theo giá dầu thế giới, ảnh hưởng trực tiếp đến doanh thu."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 23:45:36"
-  },
-  {
-    "Title": "Korean Markets Hit by Turmoil as Chip Rout Forces Trading Halts - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVJYUm10YzR5eG5WOHVjSlFHZmQxMEhOODdwaWF5UmJzYTdWZ3QxUUctMzRmVkszeDc0bUdfdVZRTlRVMVB1czd6MXJzUWtoenlVbDliUjRvYkZRYUhFWnpfa01oXzRqR0Q0NC1EY3k4bGd3am93WDhTVnhjcGZZTjhjMlFRVjh2VGwwcHJJUjE5U0p5QVRBVTFzX3RyNjhOOVJIeS1qVkoyY010aEZnaDRpVEo?oc=5",
-    "PubDate": "Tue, 28 Jul 2026 07:43:10 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Sự sụt giảm của cổ phiếu chip tại Hàn Quốc gây áp lực tâm lý lên nhóm công nghệ và bán dẫn tại Việt Nam, dù mức độ liên kết chuỗi cung ứng trực tiếp không quá lớn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Biến động chip Hàn Quốc mang tính cục bộ, không tác động trực tiếp đến chuỗi cung ứng FPT/CMG. Cảnh báo nhiễu tâm lý ngắn hạn, không thay đổi xu hướng cơ bản.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-30 22:13:00"
-  },
-  {
-    "Title": "Thêm Chứng khoán Vietcap \"call margin\" DIG của gia đình ông Nguyễn Hùng Cường - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wdVExdkdOXzJyYnNGVUNXMTJhMjEzQnEyMmtsUW9RS0Mta2tSVVpickQ1aWp4bUFUdlpGbkl6TkY0blA1ZEFxSF9sQ2MxMTBJUHE4?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 11:23:43 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -7,
-    "MarketImpact": "Việc call margin cổ đông lớn tạo áp lực bán giải chấp, gây tâm lý hoang mang cho nhà đầu tư cá nhân và tạo áp lực cung ngắn hạn lên cổ phiếu DIG.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực bán giải chấp từ cổ đông lớn DIG gây nhiễu cung cầu ngắn hạn. Dòng tiền thông minh sẽ đứng ngoài quan sát cho đến khi áp lực bán hạ nhiệt.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DIG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực bán giải chấp từ cổ đông lớn làm suy yếu cấu trúc cung cầu ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 22:12:44"
-  },
-  {
-    "Title": "TQW: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzZUV1BJWFJ4bXdiZ0pVUl9uU0JnNjNycWZxZWJoeHRBU3hERHdGQkhOWnVjcmtnaGlQODM5clFqSEFQZ2l4OENpWWJ6d2laMDBXV0Z6MGpKQVRXNnJBaW9JVDloUEJmSjZpT082bVl2cE4tS0dvNWtXemJJVUpTU0lRYTBoUy1zbTZQMWQyT2lZWnRBQXRkN0JGUW5uQ2pEWWYtMUNJMWJXTEZtNFNYMA?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 14:34:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động tài chính định kỳ, không làm thay đổi đáng kể giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - TQW. Cổ tức tiền mặt là hoạt động thường niên, không tạo đột biến dòng tiền. Nhà đầu tư cần chú ý điều chỉnh giá tham chiếu ngày giao dịch không hưởng quyền.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "TQW",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Hoạt động chi trả cổ tức tiền mặt theo kế hoạch, không tác động đến xu hướng giá dài hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-07-30 22:12:35"
   }
 ]

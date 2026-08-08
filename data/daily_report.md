@@ -1,27 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 07:10 - 08/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 07:45 - 08/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Quỹ ngoại lớn ghi nhận hiệu suất kém lịch sử:** Áp lực bán ròng từ khối ngoại dự kiến tiếp diễn trên nhóm Bluechips (VHM, VCB, MSN) -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm vốn hóa lớn, gây áp lực lên chỉ số chung.
-- **Cơ chế mới cho điện mặt trời mái nhà:** Cho phép bán điện dư trên 50% -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm năng lượng tái tạo, hạ tầng điện (REE).
-- **MWG tối ưu hóa mô hình "điểm dịch vụ tài chính":** Hiệu suất giao dịch tài chính vượt trội tại chuỗi cửa hàng -> **Tích cực** -> Dòng tiền kỳ vọng gia tăng tại mã MWG nhờ cải thiện biên lợi nhuận.
-- **Giá dầu thế giới lao dốc:** -> **Trung lập (Phân hóa)** -> Áp lực giảm chi phí cho nhóm Vận tải/Logistics (GMD, HAH) nhưng tạo rủi ro biên lợi nhuận cho nhóm Thượng nguồn/Lọc dầu (PVD, BSR).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Các ngân hàng ghi nhận thu nhập ngoài lãi tăng từ hoạt động kinh doanh trái phiếu -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Ngân hàng (Ngành tài chính)** để củng cố biên lợi nhuận trong bối cảnh tăng trưởng tín dụng chậm.
+- Cơ chế mới cho phép bán điện dư từ điện mặt trời mái nhà -> **Tích cực** -> Dòng tiền hướng vào nhóm **Tiện ích, Năng lượng tái tạo**.
+- Quỹ ngoại ghi nhận hiệu suất kém tháng 7 -> **Tiêu cực** -> Áp lực bán ròng lên các mã **Bluechips (VHM, VCB, MSN)**, gây sức ép lên chỉ số chung.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: REE**
-    - **Động lực (FA):** Chính sách mới về điện mặt trời mái nhà cho phép bán điện dư vượt 50%.
-    - **Nhận định dòng tiền:** Hỗ trợ xu hướng tăng trung hạn, thu hút dòng vốn đầu tư bền vững.
-    - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc tích lũy quanh vùng nền.
-- **Mã: MWG**
-    - **Động lực (FA):** Doanh thu dịch vụ tài chính đạt 56.000 tỷ/6 tháng, cải thiện biên lợi nhuận vận hành.
-    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể gia tăng nhờ sự thay đổi trong cấu trúc doanh thu.
-    - **Hành động:** Tiếp tục quan sát tín hiệu bứt phá khỏi vùng cản kỹ thuật.
-- **Mã: PVD**
-    - **Động lực (FA):** Giá dầu thế giới lao dốc.
-    - **Nhận định dòng tiền:** Rủi ro áp lực bán do tâm lý ngành dầu khí tiêu cực.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng khi giải ngân mới.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-    - **Dữ liệu mới:** Giá dầu thế giới giảm mạnh tác động tiêu cực đến biên lợi nhuận lọc dầu và rủi ro trích lập dự phòng hàng tồn kho. 
-    - **Nhận định:** Thời điểm tháng 8/2026 đã quá điểm rơi kỳ vọng trung hạn. Với dữ liệu giá dầu suy yếu hiện tại, khuyến nghị thực hiện **Cơ cấu lại danh mục**, ưu tiên chốt lời/cắt giảm vị thế để đảo dòng tiền sang nhóm ngành hưởng lợi từ chi phí đầu vào thấp hoặc nhóm có tăng trưởng dịch vụ thực tế (như REE, MWG).
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **TCB, MBB**
+  - Động lực (FA): Ghi nhận lợi nhuận từ mảng đầu tư trái phiếu giúp cải thiện thu nhập ngoài lãi.
+  - Nhận định dòng tiền: Hỗ trợ tích cực cho đà hồi phục kỹ thuật, giảm bớt áp lực từ thông tin tiêu cực của nhóm vốn hóa lớn.
+  - Hành động: Chú ý giải ngân nếu dòng tiền phiên sáng duy trì khối lượng khớp lệnh ổn định.
+- Mã: **REE**
+  - Động lực (FA): Cơ chế pháp lý mới về điện mặt trời mái nhà tháo gỡ nút thắt tăng trưởng dài hạn.
+  - Nhận định dòng tiền: Tạo dư địa cho lực cầu trung hạn, giảm rủi ro điều chỉnh theo thị trường chung.
+  - Hành động: Tiếp tục quan sát điểm cân bằng để gia tăng tỷ trọng.
+- Mã: **VHM, VCB, MSN**
+  - Động lực (FA): Áp lực bán ròng từ khối ngoại sau báo cáo hiệu suất quỹ tháng 7 kém khả quan.
+  - Nhận định dòng tiền: Tiêu cực, rủi ro điều chỉnh ngắn hạn khi khối ngoại tiếp tục tái cơ cấu.
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng với các lệnh mua đuổi.
