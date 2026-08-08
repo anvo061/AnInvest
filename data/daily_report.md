@@ -1,29 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:30 - 08/08/2026
+⏱ Thời gian: 20:40 - 08/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực tỷ giá hạ nhiệt & Giá xăng dầu giảm liên tiếp**: -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm **Bluechips (VCB, FPT, VHM)** nhờ lực mua ròng từ khối ngoại trở lại, và nhóm **Logistics/Vận tải (GMD, HAH, VJC)** nhờ kỳ vọng cải thiện biên lợi nhuận từ chi phí vận hành giảm.
-- **Triển khai dự án hạ tầng 11.000 tỷ tại Đắk Lắk**: -> [Tích cực] -> Dòng tiền hướng vào nhóm **Đầu tư công (VCG, HHV)**.
+- Áp lực tỷ giá hạ nhiệt giúp dòng vốn ngoại giảm bán ròng và quay lại các mã Bluechips -> **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm **Chứng khoán (SSI)**, **Ngân hàng (VCB)** và các mã vốn hóa lớn (**VHM, FPT**).
+- Giá xăng dầu giảm mạnh (hơn 1.600 đồng/lít) -> **Tích cực** cho biên lợi nhuận nhóm Vận tải, Logistics và Hàng không -> Dòng tiền kỳ vọng xoay chuyển sang **VJC, GMD, HAH**.
+- Đẩy mạnh giải ngân đầu tư công tại Đắk Lắk (11.000 tỷ đồng) -> **Tích cực** -> Tập trung dòng tiền vào nhóm xây lắp hạ tầng: **VCG, HHV**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VJC**
-  - Động lực (FA): Giá xăng dầu giảm 5 kỳ liên tiếp, chi phí nhiên liệu bay (chiếm tỷ trọng lớn) được tối ưu hóa.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn gia tăng do cải thiện biên lợi nhuận gộp trực tiếp.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá tích lũy.
-
-- **Mã: GMD, HAH**
-  - Động lực (FA): Chi phí vận hành đội tàu/xe giảm mạnh nhờ giá xăng dầu hạ nhiệt.
-  - Nhận định dòng tiền: Dòng tiền có tính chất phòng thủ và hưởng lợi từ biên lợi nhuận tăng trưởng, phù hợp giữ vị thế trong bối cảnh lạm phát được kiểm soát.
-  - Hành động: Tiếp tục quan sát tín hiệu bùng nổ khối lượng.
-
-- **Mã: VCG, HHV**
-  - Động lực (FA): Thông tin khởi động 8 dự án hạ tầng trọng điểm tại Đắk Lắk.
-  - Nhận định dòng tiền: Tin tức tạo xúc tác (catalyst) để duy trì sức nóng cho nhóm hạ tầng, tránh các phiên rung lắc theo thị trường chung.
-  - Hành động: Tiếp tục quan sát, ưu tiên điểm mua tại các nhịp chỉnh kỹ thuật.
-
-- **Mã: VCB, SSI, VHM, FPT**
-  - Động lực (FA): Khối ngoại giảm bán ròng nhờ tỷ giá ổn định và triển vọng tăng trưởng kinh tế.
-  - Nhận định dòng tiền: Dòng tiền khối ngoại sẽ là "đòn bẩy" cho nhóm vốn hóa lớn (Bluechips) và nhóm Chứng khoán (thanh khoản thị trường tăng).
-  - Hành động: Chú ý giải ngân cho mục tiêu trung hạn.
-
-*(Lưu ý: Các tin tức về NAV quỹ ETF và sửa đổi điều lệ công ty đã được loại bỏ do không tạo ra biến động vĩ mô/dòng tiền đột biến).*
+- Mã: **GVR**
+    - Động lực (FA): Lợi nhuận tăng trưởng mạnh, trích lập quỹ khoa học công nghệ, củng cố vị thế dẫn đầu mảng KCN & Cao su.
+    - Nhận định dòng tiền: Tin tức hỗ trợ định giá dài hạn, tạo nền tảng vững chắc cho dòng tiền thông minh tích lũy.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+- Mã: **MWG, FRT**
+    - Động lực (FA): Kích cầu tiêu dùng từ việc giảm giá iPhone cũ để đón sóng iPhone 18.
+    - Nhận định dòng tiền: Tác động tích cực ngắn hạn đến doanh thu bán lẻ thiết bị di động trong quý cuối năm.
+    - Hành động: Tiếp tục quan sát phản ứng giá tại vùng hỗ trợ gần nhất.
+- Mã: **PLX**
+    - Động lực (FA): Giá bán lẻ xăng dầu giảm sâu.
+    - Nhận định dòng tiền: Áp lực lên biên lợi nhuận gộp và giá trị tồn kho trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ cứng.
