@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "VBG: Thay đổi nội dung đăng ký doanh nghiệp - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlljdENRdWdTckFtYVh3NGpfMHFlMUl6dzFEN3VCVEoyaUlnRllFbVVRNHRzbldFV1ZnTjNRV0ZoejM3WmNhak5lQVhBWEYta2NXbTZNbmdGMXRrcVZaV1kzWjVTV1dVaDlfNmI4bnYxRFNNRDdLeG1WX25JSFQzMzAwT0lPX0xYNGJfcHUzV1JiZkNGQzdIa0tlTmV1dGRZanpKNg?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 00:54:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký doanh nghiệp, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Đây là thay đổi thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay triển vọng kinh doanh của doanh nghiệp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 13:24:27"
+  },
+  {
+    "Title": "Điều chỉnh giờ cao điểm điện: Hóa đơn tiền điện có tăng?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dieu-chinh-gio-cao-diem-dien-hoa-don-tien-dien-co-tang-2529679.html",
+    "PubDate": "Fri, 26 Jun 2026 15:07:10 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc điều chỉnh khung giờ cao điểm điện là thay đổi về cơ chế quản lý vận hành, không làm thay đổi giá bán điện bình quân hay biên lợi nhuận của các doanh nghiệp sản xuất điện.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Điện. Thay đổi khung giờ chỉ mang tính kỹ thuật vận hành, không tác động đến doanh thu hay biên lợi nhuận của các doanh nghiệp ngành điện. Dòng tiền sẽ không phản ứng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 13:24:13"
+  },
+  {
+    "Title": "VDB mở rộng hợp tác với BIDV, thúc đẩy đổi mới và phát triển bền vững",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vdb-mo-rong-hop-tac-voi-bidv-thuc-day-doi-moi-va-phat-trien-ben-vung-2531424.html",
+    "PubDate": "Wed, 01 Jul 2026 16:31:51 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Đây là thỏa thuận hợp tác mang tính chiến lược và hành chính giữa ngân hàng chính sách và ngân hàng thương mại, không tác động trực tiếp đến biên lợi nhuận hay tăng trưởng tín dụng đột biến của BIDV.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Hợp tác mang tính định hướng chiến lược, chưa tạo ra dòng tiền mới ngay lập tức. Không tác động đáng kể đến biến động giá cổ phiếu BIDV trong ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "BID",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hợp tác chiến lược mang tính dài hạn, chưa có tác động định lượng cụ thể đến kết quả kinh doanh ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 13:24:04"
+  },
+  {
     "Title": "Vinamilk sắp có thêm 8000 con bò - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44U2RZZEpGY2luMnJtckNfeExkRFB1WXJFWWQ5U1VVSlFTbUk0LVdfdEpBajFMQm0wUFY4M0h3Vmg2V0ZZMWhjLWh5ZzE4bDgtbk5NYlRfWndTZVVEMG12dWlzbm5iZ3ZvZUpNSjBCclNiN2VNMmFTTlNsTlA?oc=5",
@@ -16985,71 +17030,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-31 02:49:51"
-  },
-  {
-    "Title": "Khai mạc VietAd 2026 và EMA Vietnam 2026 tại TP.HCM, quy tụ hơn 700 thương hiệu",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/khai-mac-vietad-2026-va-ema-vietnam-2026-tai-tphcm-quy-tu-hon-700-thuong-hieu-100260730182402865.htm",
-    "PubDate": "7/30/2026 8:07:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là sự kiện triển lãm thương mại chuyên ngành quảng cáo và thiết bị in ấn, mang tính chất kết nối giao thương thông thường, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quảng cáo/Bán lẻ. Sự kiện triển lãm mang tính chất kết nối thương mại thông thường, không tạo ra biến động dòng tiền đáng kể cho các mã cổ phiếu niêm yết.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-31 02:49:42"
-  },
-  {
-    "Title": "Khởi động Khu kinh tế và Khu thương mại tự do Hải Phòng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/khoi-dong-khu-kinh-te-va-khu-thuong-mai-tu-do-hai-phong-100260730180920114.htm",
-    "PubDate": "7/30/2026 8:13:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Việc thành lập khu thương mại tự do tại Hải Phòng tạo động lực lớn thu hút FDI, thúc đẩy nhu cầu thuê đất khu công nghiệp và dịch vụ logistics tại khu vực phía Bắc.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Chính sách khu thương mại tự do Hải Phòng thúc đẩy FDI và logistics. Tập trung vào các doanh nghiệp có hạ tầng cảng và quỹ đất công nghiệp trực tiếp tại Hải Phòng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ lưu lượng hàng hóa xuất nhập khẩu tăng mạnh qua cảng biển Hải Phòng."
-      },
-      {
-        "Ticker": "KBC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sở hữu quỹ đất lớn tại các khu công nghiệp phía Bắc, hưởng lợi từ chính sách ưu đãi thuế của khu thương mại tự do."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng nhu cầu vận tải biển và logistics nội địa khi khu thương mại tự do đi vào hoạt động."
-      }
-    ],
-    "AnalyzedAt": "2026-07-31 02:49:27"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 28/7/2026: Kỳ hạn từ 6 tháng trở lên đồng loạt giảm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-28-7-2026-ky-han-tu-6-thang-tro-len-dong-loat-giam-2539727.html",
-    "PubDate": "Tue, 28 Jul 2026 10:12:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Lãi suất huy động giảm giúp giảm chi phí vốn cho các doanh nghiệp, kích thích dòng tiền dịch chuyển từ kênh tiết kiệm sang các kênh đầu tư rủi ro như chứng khoán và bất động sản.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Lãi suất huy động giảm hỗ trợ chi phí vốn doanh nghiệp và kích thích dòng tiền vào thị trường chứng khoán. Ưu tiên nhóm Chứng khoán có thị phần margin lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ thanh khoản thị trường tăng và nhu cầu sử dụng margin cao hơn khi lãi suất giảm."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng doanh thu từ mảng môi giới và cho vay margin nhờ dòng tiền cá nhân đổ vào thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-07-31 02:49:12"
   }
 ]
