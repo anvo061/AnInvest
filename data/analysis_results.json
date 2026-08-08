@@ -1,5 +1,117 @@
 ﻿[
   {
+    "Title": "Fitch Ratings Warns Vietnam’s Growth Push May Raise Debt Risks - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTZPOFhrTGN1cm9oN3RXVFc0cjlsVXNwd3FYbnhGaHp3ZWR0cERpeHZJMG1kdnp1RHkwOWQ3N1Y5TkhPaU00VGJUVHh6bHlwaGRuNmdUV0Fhd09EWEI2bVEtSHVvR1Jxb0hUMkFRaXdLcXdCN2I3RWI0MkhybndwOGxDaHpXRmY3T1dfSTZBbmRxZTk1SGZIQ3dMc1djMFczTWZkNzFLYUJ4bGZGWWx2UzdFUQ?oc=5",
+    "PubDate": "Fri, 15 Aug 2025 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Cảnh báo về rủi ro nợ công có thể gây áp lực lên tâm lý nhà đầu tư ngoại, làm tăng chi phí huy động vốn và gây biến động tỷ giá trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Cảnh báo nợ công từ Fitch gây áp lực lên tỷ giá và chi phí vốn. Khối ngoại có xu hướng rút ròng, ưu tiên quản trị rủi ro danh mục, hạn chế đòn bẩy.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tâm lý lên nhóm ngân hàng quốc doanh khi rủi ro nợ công được cảnh báo."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhạy cảm với các thông tin vĩ mô về nợ và lãi suất, ảnh hưởng đến dòng vốn ngoại."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 16:31:26"
+  },
+  {
+    "Title": "Bảo hiểm Quân đội (MIC) chốt ngày trả cổ tức bằng tiền mặt tỷ lệ 10% - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkhLeG9jQVJSZHNsbWd1MGduMVl0QVZlQ1lzdUx5NF9jWW5BR0JCNTZGckl6QS1xVEhRbDUxTEYwMnB3Si1rVzE3U1pRUV84MXZTRkdCYWJJcDhqc3k0YmlNaVdCbXBEcGpJM3UwTGJmekhTdXNpQWFsX2R2UWJ0aHc5Z0xESm9XNU5wQURPTGZnNlhpVFZRNS1HRnluVnFEbFFVcERnVnI?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 07:45:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc chi trả cổ tức tiền mặt khẳng định sức khỏe tài chính ổn định và dòng tiền dồi dào của doanh nghiệp, tạo tâm lý tích cực cho cổ đông hiện hữu.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Mã MIG. Cổ tức tiền mặt 10% củng cố niềm tin nhà đầu tư, tạo lực đỡ cho giá cổ phiếu trong ngắn hạn trước ngày giao dịch không hưởng quyền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MIG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc chốt quyền nhận cổ tức tiền mặt giúp gia tăng giá trị thực cho cổ đông và thu hút dòng tiền đầu tư giá trị."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 16:31:11"
+  },
+  {
+    "Title": "FUEDCMID: Kết thúc giao dịch hoán đổi ngày 06/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk11aDl0QXJjR0ZYMkRTVlI0X0xNdnRGU3paZUNZRFVsdEhOUXBnSU42d3pvM2VYaUJua3h6TFZIcERJY2pXa1M1b3lqYU1WWnI4dHNNYnBWQVlwVnZnMHF4VXVpT3RXaGJjME4wQ3gxcm5CR01HbnIxdGxrMzE4WkhTTDdGMnR4eFBvSU9YQTVSMFRadlJBM2N0SVFVRGVTRDYwM202ZTBucXJidGtVWUNCTklDdw?oc=5",
+    "PubDate": "Fri, 07 Aug 2026 09:57:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin kỹ thuật định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm ETF. Hoạt động hoán đổi chứng chỉ quỹ là nghiệp vụ kỹ thuật bình thường, không tác động đến cung cầu dòng tiền của các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 16:31:01"
+  },
+  {
+    "Title": "FRT: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRnViMDA1SGZLMW5XYUhfYlVfSWVVN1V1OGV6d0xYZHF2dDh6b3kzaWJNd19qVThNSlFCbExGWHN5Y21jS25OMHdtMGVRMzREZklmQ0ZmMTFrN3FTcEdReE5zN2gzeUhiT0VYd1ZrT3RGZkw2cGdic0lLLUpQY1RhaFJWb3h3Q2EtREJVUjVTUFp4aVk4am5FLTFteFdsR3VzbF9vbG5MVnVGRUstRHU4?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 09:08:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - FRT. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay giá trị nội tại của cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 16:30:52"
+  },
+  {
+    "Title": "Giá xăng dầu hôm nay 26/6: Dầu thế giới đi lên, trong nước giảm mạnh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-26-6-trong-nuoc-giam-manh-2529568.html",
+    "PubDate": "Fri, 26 Jun 2026 08:06:36 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá xăng dầu trong nước giảm giúp giảm chi phí vận tải và đầu vào cho các doanh nghiệp sản xuất, logistics, đồng thời hỗ trợ kiểm soát lạm phát.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá xăng dầu giảm hỗ trợ chi phí vận tải nhưng phản ánh nhu cầu tiêu thụ yếu. Tác động biên lợi nhuận không đáng kể trong ngắn hạn. Theo dõi sát nhóm Logistics.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí vận hành giảm giúp cải thiện biên lợi nhuận gộp cho doanh nghiệp cảng biển và logistics."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá nhiên liệu giảm trực tiếp làm giảm chi phí vận tải tàu biển, tăng lợi nhuận cho đội tàu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 16:30:38"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 26/6/2026: Nhà băng giảm mạnh lãi chứng chỉ tiền gửi",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-26-6-2026-nha-bang-giam-manh-lai-chung-chi-tien-gui-2529587.html",
+    "PubDate": "Tue, 21 Jul 2026 11:14:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc giảm lãi suất huy động giúp các ngân hàng tối ưu chi phí vốn (NIM cải thiện), đồng thời tạo áp lực buộc dòng tiền nhàn rỗi tìm kiếm kênh đầu tư có lợi suất cao hơn như chứng khoán và bất động sản.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Giảm lãi suất huy động cải thiện NIM ngân hàng. Dòng tiền dịch chuyển sang kênh đầu tư là kỳ vọng, cần quan sát thanh khoản thực tế tại nhóm Chứng khoán.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí vốn đầu vào giảm giúp cải thiện biên lãi ròng (NIM) trong dài hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-08 16:30:22"
+  },
+  {
     "Title": "Vietnam Credit Growth Accelerates as Economic Recovery Picks Up - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejdJMk1DWXc5MXFmWWxZanNQVUdod01xMU92LWROTDVLdEJ4LTh5T3hOVTZmS3BGSTcxWmVjaThnR0pwRkZvT2RZbU13ZjFSSHpmZllzUnExZkpIcmtDdExhNkFQUl8wTUtCT25XR0NVLXN0aUstcDNwaUEybnRZSlBJMEtJY213VDN1dVVMZ0JwcXZSSGEzd09JUUY4SmFCZ24yVzFlbUx3WnFhek9ScmNMVXE?oc=5",
@@ -16918,89 +17030,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-07-31 04:59:06"
-  },
-  {
-    "Title": "FUESSV50: Kết thúc giao dịch hoán đổi ngày 29/07/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzlaZGpJcnFINHdRcmszbWVKX1ZhNjFhd2Y3MnFFOVRNMHFZblowRUNJVU1DTHFXREV1Z0RsVTNCOVhjeVBQa0pncnRwSVRfbGFXODl3Y0MtSHFwVThTX3pvTGpFQU4xSG9nRHEzQ2dwa2hRMnUyMm1NZXBta1dQYVVIRmdEdnNDTV9LQ0lock5pN2ZBelVzbU9oQnRPZXIxUnlzVUNVUmhwejgwZ0J2M2Z4NnhDUQ?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 09:52:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay chiến lược đầu tư của các cổ phiếu thành phần trong danh mục VNDiamond/VN50.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ hành chính định kỳ của quỹ ETF, không tác động đến cung cầu hay dòng tiền của các cổ phiếu thành phần. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-31 04:58:57"
-  },
-  {
-    "Title": "FUETPVND: Kết thúc giao dịch hoán đổi ngày 29/07/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2Q5NU1CRGFBZm5IYjZWZGs0NFFSTzJhcmFqc29NVEtBdTNIV3VhaEVCX2xicUs2dXRWZlE5alBsYTI0dlQ3bm4xUXhiU1l5YllIZUFTSHBkcVRNUmVHN1dkM1NRd0pWbVpJSjRCV0JTODRqYXVsanRsdGI2Zlg4Sm1SXzJiUGYyRWtZNzItbUhJbm1Uc0tpckxXVmVuZDdsSDVHd05sTnVOZVFvQURYaWg1dU96UQ?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 09:19:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay chiến lược đầu tư, không tác động đến dòng tiền thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF định kỳ, không tạo ra biến động cung cầu hay thay đổi xu hướng dòng tiền trên thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-31 04:58:47"
-  },
-  {
-    "Title": "Công nghệ, ESG trở thành thước đo mới của thương hiệu doanh nghiệp",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/cong-nghe-esg-tro-thanh-thuoc-do-moi-cua-thuong-hieu-doanh-nghiep-100260730154908132.htm",
-    "PubDate": "7/30/2026 5:59:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin mang tính định hướng chiến lược dài hạn về quản trị doanh nghiệp và thương hiệu, không tạo ra tác động trực tiếp đến dòng tiền hay kết quả kinh doanh trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động ngành. Đây là xu hướng quản trị dài hạn, không có tác động tức thời đến dòng tiền đầu cơ hay định giá cổ phiếu trên thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-31 04:58:37"
-  },
-  {
-    "Title": "VNG báo lãi kỷ lục, gấp 30 lần cùng kỳ năm ngoái",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vng-bao-lai-ky-luc-gap-30-lan-cung-ky-nam-ngoai-100260730173717846.htm",
-    "PubDate": "7/30/2026 6:15:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Kết quả kinh doanh đột biến của VNG phản ánh sự phục hồi mạnh mẽ của ngành công nghệ và giải trí số, tạo hiệu ứng tâm lý tích cực cho các doanh nghiệp cùng ngành trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. VNG là doanh nghiệp chưa niêm yết tập trung (OTC/UPCoM thanh khoản thấp). Kết quả kinh doanh không phản ánh trực tiếp dòng tiền hay định giá của FPT, CMG.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-31 04:58:22"
-  },
-  {
-    "Title": "Lọc hóa dầu BSR: Linh hoạt biến rủi ro thành cơ hội",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/loc-hoa-dau-bsr-linh-hoat-bien-rui-ro-thanh-co-hoi-2539496.html",
-    "PubDate": "Mon, 27 Jul 2026 14:00:19 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc BSR tối ưu hóa vận hành và linh hoạt trong cơ cấu sản phẩm giúp duy trì biên lợi nhuận lọc dầu trong bối cảnh thị trường năng lượng biến động, củng cố niềm tin nhà đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR doanh nghiệp, thiếu số liệu định lượng cụ thể về biên lợi nhuận. Cần theo dõi sát diễn biến dòng tiền tại vùng hỗ trợ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Năng lực quản trị và tối ưu hóa sản phẩm giúp doanh nghiệp duy trì lợi thế cạnh tranh và biên lợi nhuận lọc dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-07-31 04:58:07"
-  },
-  {
-    "Title": "Đầu tư 150 tỷ đồng lắp điện mặt trời mái nhà, 'đại gia' tiết kiệm 5-6 tỷ mỗi tháng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/dau-tu-120-ty-dong-lap-dien-mat-troi-mai-nha-dai-gia-tiet-kiem-5-6-ty-moi-thang-2539616.html",
-    "PubDate": "Tue, 28 Jul 2026 05:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc tối ưu hóa chi phí năng lượng thông qua điện mặt trời mái nhà giúp các doanh nghiệp sản xuất cải thiện biên lợi nhuận ròng, đồng thời thúc đẩy nhu cầu thiết bị điện và dịch vụ lắp đặt.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR tiết kiệm chi phí vận hành doanh nghiệp, tác động biên lợi nhuận không đáng kể trong ngắn hạn. Chưa đủ động lực tạo sóng dòng tiền.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-07-31 04:57:52"
   }
 ]
