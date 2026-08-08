@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:30 - 09/08/2026
+⏱ Thời gian: 02:21 - 09/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mục tiêu tăng trưởng GDP 2025 (6.5% - 7%) kết hợp kỳ vọng mở rộng chuỗi cung ứng công nghệ (Apple Home Hub) và nâng tầm ngoại giao Mỹ-Việt -> Đánh giá tác động: Tích cực -> Dòng tiền tập trung: Bất động sản khu công nghiệp, Ngân hàng, Chứng khoán.
+- Mục tiêu tăng trưởng GDP Việt Nam đạt 6,5% - 7% năm 2025 và làn sóng đầu tư từ Apple (Home Hub) -> Đánh giá tác động: Tích cực -> Dòng tiền sẽ hướng vào nhóm Ngân hàng, Bất động sản Khu công nghiệp và Chứng khoán.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC**
-- Động lực (FA): Hưởng lợi kép từ làn sóng FDI công nghệ (Apple) và triển vọng nâng cấp quan hệ ngoại giao Mỹ-Việt.
-- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các doanh nghiệp có quỹ đất sẵn sàng cho thuê tại các vùng trọng điểm. Cần quan sát nhịp rung lắc để tham gia.
+- Mã: KBC
+- Động lực (FA): Hưởng lợi kép từ mục tiêu GDP cao (thu hút FDI) và làn sóng dịch chuyển sản xuất thiết bị Home Hub của Apple vào Việt Nam.
+- Nhận định dòng tiền: Tin tức vĩ mô mang tính chiến lược, củng cố vị thế KBC là cổ phiếu dẫn dắt dòng tiền khối ngoại và tổ chức. Dự báo lực cầu tích lũy sẽ gia tăng.
+- Hành động: Chú ý giải ngân theo nhịp điều chỉnh kỹ thuật.
+
+- Mã: VCB, SSI, GMD
+- Động lực (FA): Hưởng lợi trực tiếp từ dự báo tăng trưởng kinh tế (tín dụng, thanh khoản thị trường, lưu thông hàng hóa).
+- Nhận định dòng tiền: Nhóm cổ phiếu trụ cột đón dòng tiền dẫn dắt thị trường trong bối cảnh vĩ mô tích cực.
+- Hành động: Tiếp tục quan sát để tối ưu hóa điểm vào.
+
+- Mã: SZC
+- Động lực (FA): Nhu cầu thuê đất công nghiệp tăng cao nhờ sự mở rộng của chuỗi cung ứng Apple.
+- Nhận định dòng tiền: Dòng tiền có xu hướng lan tỏa từ các mã vốn hóa lớn (KBC) sang các mã có quỹ đất sạch dồi dào. 
 - Hành động: Chú ý giải ngân.
-
-- Mã: **DBC**
-- Động lực (FA): Bùng phát dịch tả lợn châu Phi tại địa phương.
-- Nhận định dòng tiền: Rủi ro chi phí phòng dịch và thiệt hại đàn nuôi tạo áp lực tâm lý tiêu cực, có khả năng gây bán tháo trong ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ cứng.
-
-- Mã: **SJS**
-- Động lực (FA): Cổ đông lớn (Chứng khoán Quốc Gia) bán ra 2 triệu cổ phiếu.
-- Nhận định dòng tiền: Áp lực cung lớn trong ngắn hạn sẽ cản trở đà bứt phá kỹ thuật của mã này.
-- Hành động: Tiếp tục quan sát.
