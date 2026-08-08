@@ -1,28 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:50 ngày 09/08/2026
+⏱ Thời gian: 04:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Ngân hàng Nhà nước triển khai cơ chế tín dụng đặc thù cho 18 dự án hạ tầng trọng điểm và nhóm BĐS lớn (vốn >752 nghìn tỷ đồng) -> **Tích cực** -> Dòng tiền sẽ hướng mạnh vào nhóm **Xây dựng hạ tầng (VCG, HHV, LCG)** và **Bất động sản (VHM, NVL, PDR)** nhờ gỡ nút thắt thanh khoản.
-- Chính sách hỗ trợ lãi suất 2% cho vốn vay xanh -> **Tích cực** -> Hướng dòng tiền vào nhóm **Năng lượng tái tạo (REE, GEG)**, cải thiện trực tiếp biên lợi nhuận.
-- Mục tiêu tăng trưởng GDP 6.5% - 7% cho năm 2025 -> **Tích cực** -> Củng cố tâm lý thị trường, kỳ vọng dòng tiền lan tỏa nhóm dẫn dắt: **Ngân hàng (VCB), Chứng khoán (SSI), BĐS KCN (KBC).**
+- NHNN ban hành cơ chế tín dụng đặc thù cho các dự án trọng điểm (BĐS & Hạ tầng) và hỗ trợ lãi suất 2% cho tín dụng xanh -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm Bất động sản (VHM, NVL, PDR) và Xây lắp/Hạ tầng/Năng lượng tái tạo (VCG, HHV, LCG, REE, GEG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCG, HHV, LCG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ cơ chế tín dụng đặc thù cho 18 dự án trọng điểm quốc gia.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ và đầu tư công gia tăng mạnh để hiện thực hóa khối lượng công việc mới.
-  - Hành động: **Chú ý giải ngân** theo kịch bản break kháng cự gần.
-
-- Mã: **VHM, NVL, PDR**
-  - Động lực (FA): Cơ chế tín dụng ưu đãi giúp giảm áp lực tài chính ngắn hạn và đẩy nhanh tiến độ dự án.
-  - Nhận định dòng tiền: Dòng tiền "bắt đáy" nhóm BĐS có thể quay lại mạnh mẽ do rủi ro thanh khoản được giảm thiểu.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ kỹ thuật trước khi vào lệnh.
-
-- Mã: **PVD**
-  - Động lực (FA): Giá dầu thế giới giảm gây áp lực tâm lý.
-  - Nhận định dòng tiền: Dòng tiền có xu hướng thận trọng/rút bớt do kỳ vọng dự án thăm dò giảm.
-  - Hành động: **Rủi ro vi phạm kịch bản**, hạn chế gia tăng tỷ trọng.
-
-- Mã: **REE, GEG**
-  - Động lực (FA): Hỗ trợ lãi suất 2% cho vốn vay xanh.
-  - Nhận định dòng tiền: Cải thiện triển vọng dài hạn, thu hút dòng vốn ổn định.
-  - Hành động: **Chú ý giải ngân** cho mục tiêu trung hạn.
+- Mã: VHM, NVL, PDR
+  - Động lực (FA): Cơ chế tín dụng đặc thù hỗ trợ dự án trọng điểm, tháo gỡ thanh khoản.
+  - Nhận định dòng tiền: Tín hiệu hỗ trợ mạnh, kỳ vọng dòng tiền đầu cơ sẽ luân chuyển sang nhóm BĐS để đón sóng chính sách.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
+- Mã: VCG, HHV, LCG
+  - Động lực (FA): Hưởng lợi trực tiếp từ việc đẩy nhanh tiến độ 18 dự án hạ tầng quốc gia được ưu tiên vốn.
+  - Nhận định dòng tiền: Nhóm hạ tầng được hưởng lợi "kép" từ chính sách vốn và tiến độ giải ngân.
+  - Hành động: Tiếp tục quan sát điểm mua gia tăng vị thế.
+- Mã: REE, GEG
+  - Động lực (FA): Ưu đãi 2% lãi suất cho vay xanh giảm chi phí tài chính.
+  - Nhận định dòng tiền: Động lực cải thiện biên lợi nhuận, củng cố đà tăng trung hạn.
+  - Hành động: Chú ý giải ngân.
+- Mã: VIC
+  - Động lực (FA): Thu hút 255 triệu USD từ nhà đầu tư quốc tế.
+  - Nhận định dòng tiền: Tích cực, giảm áp lực nợ vay, tạo điểm tựa niềm tin cho khối ngoại.
+  - Hành động: Tiếp tục quan sát sự xác nhận của dòng tiền lớn tại vùng kháng cự.
+- Mã: PVD, PVS
+  - Động lực (FA): Giá dầu thế giới giảm.
+  - Nhận định dòng tiền: Rủi ro ngắn hạn do tâm lý tiêu cực từ giá dầu.
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát, tránh bắt đáy sớm.
