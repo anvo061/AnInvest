@@ -1,5 +1,31 @@
 ﻿[
   {
+    "Title": "Một ông lớn xây dựng có chủ tịch HĐQT bị phạt 2 lần vì cùng 1 lỗi",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/mot-doanh-nghiep-gay-chu-y-vi-chu-tich-bi-phat-hai-lan-voi-cung-1-loi-2529506.html",
+    "PubDate": "Fri, 26 Jun 2026 13:20:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc xử phạt cá nhân lãnh đạo, không làm thay đổi năng lực cốt lõi, doanh thu hay biên lợi nhuận của doanh nghiệp xây dựng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Xây dựng. Tin tức hành chính về xử phạt cá nhân không tác động đến dòng tiền doanh nghiệp. Nhà đầu tư nên bỏ qua, không ảnh hưởng xu hướng giá.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 15:05:33"
+  },
+  {
+    "Title": "‘Việt Nam duy trì nền tảng tăng trưởng trước những biến động toàn cầu’",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/viet-nam-duy-tri-nen-tang-tang-truong-truoc-nhung-bien-dong-toan-cau-2529676.html",
+    "PubDate": "Fri, 26 Jun 2026 14:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính chất tổng quan, định hướng vĩ mô, không có tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh cụ thể của các doanh nghiệp niêm yết trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Thông tin vĩ mô định hướng chung, thiếu các dữ liệu cụ thể để kích hoạt dòng tiền đầu cơ. Thị trường sẽ tiếp tục vận động theo cung cầu kỹ thuật.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-08 15:05:24"
+  },
+  {
     "Title": "APF: Con ông Trần Ngọc Hải Phó Chủ tịch HĐQT; Tổng Giám đốc đăng ký mua 20.000 CP - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnI1VnN5b19wbENnX2RZRUlhWUNZcHJSQ21Db0FWRmpBc0lleWJ3a0FHRF9ubDlBUDY5ZmxMS1NPNmdVM0JSd29MVnRQZVJsNGc4MV9pbENSOTI0OFBOSm1fUHo0MGU3Qkp0a01ETFRkdDAyN3gwRG1CTVRrRmY1clhaYk8zQm0xcFRQTFJ3YlRjZVhhY1RQdDNXQWwwUGlZVUpybEw2VWVnVFJTOExDQXMyVTZ0bWpxZmVr?oc=5",
@@ -16989,58 +17015,5 @@
       }
     ],
     "AnalyzedAt": "2026-07-31 03:54:16"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 28/7: Thế giới giảm sâu, trong nước chờ điều chỉnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-28-7-the-gioi-giam-sau-trong-nuoc-cho-dieu-chinh-2539714.html",
-    "PubDate": "Tue, 28 Jul 2026 07:07:32 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá dầu giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời giảm áp lực lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm giảm áp lực chi phí cho Vận tải (GMD, HAH) nhưng gây áp lực biên lợi nhuận nhóm Dầu khí (GAS, PVD). Tác động trái chiều, cần quan sát dòng tiền.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận tải, cải thiện biên lợi nhuận."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, giá dầu giảm trực tiếp hỗ trợ lợi nhuận."
-      },
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu giảm gây áp lực lên giá bán sản phẩm khí và biên lợi nhuận của doanh nghiệp thượng nguồn."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu thế giới giảm làm giảm động lực đầu tư thăm dò khai thác, ảnh hưởng đến đơn giá dịch vụ khoan."
-      }
-    ],
-    "AnalyzedAt": "2026-07-31 03:54:01"
-  },
-  {
-    "Title": "TPBank Biz Expense - Lời giải mới cho bài toán quản trị chi phí doanh nghiệp",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tpbank-biz-expense-loi-giai-moi-cho-bai-toan-quan-tri-chi-phi-doanh-nghiep-2539569.html",
-    "PubDate": "Tue, 28 Jul 2026 08:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là thông tin về sản phẩm dịch vụ ngân hàng số, giúp tăng cường năng lực cạnh tranh của TPB trong phân khúc khách hàng doanh nghiệp nhưng không tạo ra tác động đột biến đến kết quả kinh doanh tổng thể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Sản phẩm mới giúp cải thiện trải nghiệm khách hàng doanh nghiệp, hỗ trợ giữ chân khách hàng nhưng chưa đủ lực để tạo sóng dòng tiền ngắn hạn cho TPB.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "TPB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cải thiện hệ sinh thái ngân hàng số, tăng khả năng thu hút khách hàng doanh nghiệp (CASA) trong dài hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-07-31 03:53:51"
   }
 ]
