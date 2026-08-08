@@ -1,14 +1,15 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:50 - 08/08/2026
+⏱ Thời gian: 22:30 ngày 08/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ đẩy mạnh cải cách thủ tục hành chính thuế, hải quan và lãi suất huy động có xu hướng hạ nhiệt -> [Tích cực] -> Dòng tiền kỳ vọng xoay trục vào nhóm Ngân hàng (VCB, TCB), Chứng khoán (SSI) và Bất động sản (VHM, NVL, PDR) nhờ cải thiện biên lợi nhuận và giải tỏa nút thắt dự án.
+- Chính phủ đẩy mạnh cải cách thủ tục hành chính thuế, hải quan nhằm giảm chi phí tuân thủ cho doanh nghiệp -> [Tác động: Tích cực] -> Dòng tiền sẽ hướng vào nhóm Ngành Xuất nhập khẩu và Logistics.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **BSR**
-- Động lực (FA): Nhà máy lọc dầu lần đầu xuất bán thành công một loại nhiên liệu mới, giúp đa dạng hóa danh mục sản phẩm.
-- Nhận định dòng tiền: Tin tức bổ trợ trực tiếp cho năng lực tối ưu hóa biên lợi nhuận trong môi trường lọc dầu đầy cạnh tranh. Dòng tiền phản ứng tích cực với thông tin tối ưu hóa công suất này.
-- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự hiện tại; đây là chất xúc tác mạnh cho việc giữ vị thế.
+- Mã: PNJ
+- Động lực (FA): Tin tức thanh tra sai phạm kinh doanh vàng, gây áp lực pháp lý và tâm lý tiêu cực lên nhóm bán lẻ vàng.
+- Nhận định dòng tiền: Áp lực bán ngắn hạn có thể gia tăng do tâm lý e ngại rủi ro dù PNJ là doanh nghiệp niêm yết tuân thủ.
+- Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật gần nhất; tạm dừng giải ngân mới cho đến khi áp lực bán tâm lý hạ nhiệt.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dữ liệu về việc đa dạng hóa sản phẩm mới là tín hiệu gia tăng giá trị nội tại (Value-add). Với vị thế trung hạn, đây là yếu tố củng cố luận điểm nắm giữ, chưa cần thiết phải cơ cấu lại vị thế. Tiếp tục theo dõi biên lợi nhuận từ dòng sản phẩm mới trong báo cáo quý tới.
+- Mã: BSR
+- Nhận định: Nhà máy lọc dầu chính thức xuất bán sản phẩm mới, chứng minh khả năng tối ưu hóa biên lợi nhuận và thích ứng thị trường. Dữ liệu này củng cố luận điểm giữ vị thế dài hạn. Tiếp tục nắm giữ (Hold) để khai thác dư địa từ dòng sản phẩm mới.
