@@ -1,25 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 00:30 ngày 10/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 01:00 ngày 10/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất huy động tăng gây áp lực lên NIM ngân hàng và chi phí vốn doanh nghiệp** -> **Tiêu cực** -> Dòng tiền có xu hướng thận trọng, rút khỏi nhóm vốn hóa lớn (Ngân hàng, BĐS vay nợ cao).
-- **Giải ngân đầu tư công đạt 20,5% kế hoạch** -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm Xây dựng hạ tầng & Vật liệu xây dựng.
-- **Đẩy mạnh lộ trình thoái vốn nhà nước** -> **Tích cực (Dài hạn)** -> Dòng tiền tập trung vào các "ông lớn" có lộ trình thoái vốn rõ ràng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Dự báo lãi suất cuối năm khó giảm:** -> Đánh giá: **Tiêu cực** đối với các doanh nghiệp thâm dụng vốn và đòn bẩy cao (Bất động sản) -> Dòng tiền sẽ chịu áp lực phân hóa, có xu hướng rút khỏi nhóm đầu cơ lãi vay để tìm về nhóm tài chính hưởng lợi từ kỳ vọng nâng hạng.
+- **Kỳ vọng nâng hạng thị trường:** -> Đánh giá: **Tích cực** -> Dòng tiền thông minh ưu tiên nhóm Tài chính - Chứng khoán (SSI, VCI) và các mã trụ vốn hóa lớn (VCB).
+- **Tiến độ giải ngân đầu tư công (20,5% kế hoạch):** -> Đánh giá: **Tích cực** -> Duy trì động lực dòng tiền cho nhóm Hạ tầng & Xây lắp (VCG, HHV).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: TCB, MBB**
-    - **Động lực (FA):** Lãi suất huy động tăng tạo sức ép "kép" lên biên lãi thuần (NIM).
-    - **Nhận định dòng tiền:** Áp lực điều chỉnh ngắn hạn khi chi phí vốn tăng ảnh hưởng trực tiếp đến kỳ vọng lợi nhuận.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát vùng hỗ trợ cứng, hạn chế giải ngân mới.
-- **Mã: VCG, HHV**
-    - **Động lực (FA):** Tiến độ giải ngân đầu tư công được xác nhận là động lực tăng trưởng chính trong bối cảnh vĩ mô biến động.
-    - **Nhận định dòng tiền:** Dòng tiền tìm nơi trú ẩn an toàn tại các mã có khối lượng công việc thực tế đảm bảo.
-    - **Hành động:** Chú ý giải ngân nếu xuất hiện nhịp tích lũy trên nền giá hỗ trợ.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: SSI**
+  - Động lực (FA): Hưởng lợi kép từ kỳ vọng nâng hạng thị trường (tăng thanh khoản/môi giới) và dòng tiền đầu tư tài chính.
+  - Nhận định dòng tiền: Dòng tiền chủ động có khả năng tập trung tại SSI khi nhà đầu tư tái phân bổ danh mục từ các mã chịu áp lực lãi suất sang nhóm hưởng lợi từ chính sách thị trường.
+  - Hành động: **Chú ý giải ngân** theo đà tăng thanh khoản.
 - **Mã: MSN**
-    - **Động lực (FA):** Mở rộng hệ thống lên 5.000 điểm bán WinMart+.
-    - **Nhận định dòng tiền:** Củng cố vị thế dẫn đầu, hấp dẫn dòng tiền đầu tư vào hệ sinh thái tiêu dùng bán lẻ.
-    - **Hành động:** Tiếp tục quan sát tín hiệu dòng tiền khối ngoại tại các vùng cản kỹ thuật.
-- **Mã: VNM**
-    - **Động lực (FA):** Uy tín thương hiệu quốc tế củng cố niềm tin nhà đầu tư.
-    - **Nhận định dòng tiền:** Duy trì trạng thái phòng thủ tích cực trong môi trường lãi suất biến động.
-    - **Hành động:** Tiếp tục quan sát.
+  - Động lực (FA): Cán mốc 5.000 cửa hàng WinMart+, khẳng định vị thế dẫn đầu bán lẻ.
+  - Nhận định dòng tiền: Sự ổn định từ mảng bán lẻ củng cố nội tại, tạo vùng đệm tâm lý cho nhà đầu tư trước áp lực vĩ mô chung.
+  - Hành động: **Tiếp tục quan sát** vùng tích lũy.
+- **Mã: NVL, PDR**
+  - Động lực (FA): Rủi ro chi phí tài chính gia tăng do lãi suất khó giảm.
+  - Nhận định dòng tiền: Dòng tiền sẽ chịu áp lực bán cắt lỗ hoặc cơ cấu lại.
+  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên hạ tỷ trọng nếu mất các ngưỡng hỗ trợ kỹ thuật quan trọng.

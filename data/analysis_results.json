@@ -1,5 +1,76 @@
 ﻿[
   {
+    "Title": "Vì sao lãi suất cuối năm dự báo khó giảm? - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdk9BRlJSOXI1OXRtdURRZUVzZHVUY29YSlFDd2Y4NWxtd0VwdWR5NnRLUUEzN2c0M0hvVnY3WWhicjducFVkSVRnOTAzM3I3ZDB3TnN4R3NWMUZLRzJaYXlRdlV5b3VrdlZIa2xaaFMxQ251OVR4aXhLTUYxR0w0NDYtejByeHM?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 10:57:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Lãi suất neo cao gây áp lực lên chi phí tài chính của các doanh nghiệp có đòn bẩy nợ lớn và làm giảm sức hấp dẫn của thị trường chứng khoán so với kênh tiền gửi.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất neo cao gây áp lực chi phí vốn lên nhóm BĐS đòn bẩy cao (NVL, PDR) và làm giảm sức hấp dẫn của dòng tiền margin tại nhóm Chứng khoán (SSI).",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí lãi vay lớn trong bối cảnh lãi suất khó giảm làm bào mòn lợi nhuận doanh nghiệp."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí tài chính cao gây khó khăn cho việc triển khai dự án và tái cấu trúc nợ."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lãi suất cao làm giảm nhu cầu sử dụng margin và dòng tiền đầu tư vào thị trường chứng khoán."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 00:45:51"
+  },
+  {
+    "Title": "Tiền lớn rục rịch trở lại trước thềm nâng hạng, chuyên gia chỉ tên nhóm cổ phiếu hưởng lợi - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbU9LdHVRWEYzX3hCWGpWVHF4UWU4cFQwdXB2MUh6ODJSY0VPc3lOS2FFakJpYTZpZWZFdUwzRFFQeXkxTXgtR1dkNXo0V25OeFBqdmtpV1hDOUo3Q19zWjVWcE1GMW1tbm5DSHRYZVZNTFFsNVFSMExockpVd0c2cjdVZFRBUXVwY2YtOHFkTTdMUDFYd3dOXzd3cElpSTI0QnRnOExzVDRSZzJIc29OSGlFZnl6eVRQbkhMV3gyOGsyelBHWHp0WA?oc=5",
+    "PubDate": "Sun, 09 Aug 2026 17:03:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 4,
+    "MarketImpact": "Kỳ vọng nâng hạng thị trường thúc đẩy dòng vốn ngoại và dòng tiền thông minh quay lại nhóm tài chính, đặc biệt là các công ty chứng khoán có thị phần lớn và ngân hàng vốn hóa cao.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Tin tức mang tính chất PR định hướng dòng tiền. Nâng hạng là câu chuyện dài hạn, chưa có tác động tức thời vào biên lợi nhuận. Cần quan sát thanh khoản thực tế thay vì kỳ vọng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ tăng trưởng thanh khoản và doanh thu môi giới khi thị trường nâng hạng."
+      },
+      {
+        "Ticker": "VCI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mảng tự doanh và tư vấn tài chính hưởng lợi lớn từ dòng vốn ngoại đổ vào thị trường."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu trụ cột, ưu tiên hàng đầu của khối ngoại khi giải ngân vào thị trường Việt Nam."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 00:45:32"
+  },
+  {
+    "Title": "VEC ký hợp tác chiến lược với các nhà tổ chức triển lãm, sự kiện quốc tế",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vec-ky-hop-tac-chien-luoc-voi-cac-nha-to-chuc-trien-lam-su-kien-quoc-te-2527358.html",
+    "PubDate": "Fri, 19 Jun 2026 11:15:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về hoạt động hợp tác tổ chức sự kiện của VEC, không có tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có nhóm ngành hưởng lợi. Tin tức mang tính chất hành chính, không tạo ra thay đổi về dòng tiền hay kỳ vọng lợi nhuận cho các mã cổ phiếu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 00:45:17"
+  },
+  {
     "Title": "Vinamilk thắng lớn tại Giải thưởng Đổi mới sáng tạo ngành sữa toàn cầu 2026",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/vinamilk-thang-lon-tai-giai-thuong-doi-moi-sang-tao-nganh-sua-toan-cau-2026-2527371.html",
@@ -16895,44 +16966,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-01 19:52:36"
-  },
-  {
-    "Title": "Bắt đầu rà soát, truy thu thuế với bác sĩ, luật sư, môi giới bất động sản",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/bat-dau-ra-soat-truy-thu-thue-voi-bac-si-luat-su-moi-gioi-bat-dong-san-100260801161859696.htm",
-    "PubDate": "8/1/2026 4:54:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc rà soát thuế cá nhân là hoạt động quản lý hành chính, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Đây là hoạt động quản lý thuế cá nhân, không tác động đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 19:52:27"
-  },
-  {
-    "Title": "Giá cá kèo tăng gấp rưỡi, nông dân Cà Mau tất bật thả con giống",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/gia-ca-keo-tang-gap-ruoi-nong-dan-ca-mau-tat-bat-tha-con-giong-10026080116255253.htm",
-    "PubDate": "8/1/2026 5:15:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Cá kèo là mặt hàng nông sản quy mô nhỏ, không có doanh nghiệp niêm yết nào trên sàn chứng khoán có tỷ trọng doanh thu đáng kể từ sản phẩm này để tạo tác động tài chính.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Thủy sản. Quy mô thị trường cá kèo nhỏ, không ảnh hưởng đến biên lợi nhuận các doanh nghiệp thủy sản lớn trên sàn. Dòng tiền không phản ứng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 19:52:18"
-  },
-  {
-    "Title": "Cần Thơ siết thu nợ thuế: Hơn 1.350 trường hợp bị tạm hoãn xuất cảnh",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/can-tho-siet-thu-no-thue-hon-1350-truong-hop-bi-tam-hoan-xuat-canh-100260801162139645.htm",
-    "PubDate": "8/1/2026 5:46:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động quản lý hành chính thuế thông thường, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ hành chính thuế tại địa phương, không tác động đến cấu trúc tài chính hay dòng tiền của các doanh nghiệp niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 19:52:08"
   }
 ]
