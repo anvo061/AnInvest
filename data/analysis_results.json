@@ -1,5 +1,74 @@
 ﻿[
   {
+    "Title": "Các công ty vàng PNJ, SJC, DOJI, Mi Hồng vi phạm gì về thuế khiến bị chuyển Bộ Công an xem xét?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/cac-cong-ty-vang-pnj-sjc-doji-mi-hong-vi-pham-gi-ve-thue-bi-chuyen-bo-cong-an-xem-xet-100260809105214649.htm",
+    "PubDate": "8/9/2026 11:25:00 AM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Việc cơ quan chức năng chuyển hồ sơ sang Bộ Công an liên quan đến sai phạm thuế tạo rủi ro pháp lý lớn, gây áp lực bán tháo và ảnh hưởng tiêu cực đến uy tín thương hiệu của doanh nghiệp vàng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Bán lẻ Vàng. Rủi ro pháp lý từ Bộ Công an gây áp lực tâm lý mạnh lên cổ đông. Dòng tiền thông minh sẽ thoát vị thế tại PNJ để tránh rủi ro thanh tra.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro pháp lý trực tiếp liên quan đến sai phạm thuế, gây bất ổn tâm lý nhà đầu tư và đe dọa biên lợi nhuận trong tương lai."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 12:18:08"
+  },
+  {
+    "Title": "AEON Finance tăng vốn điều lệ lên 2.550 tỷ đồng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/aeon-finance-tang-von-dieu-le-len-2-550-ty-dong-2528243.html",
+    "PubDate": "Mon, 22 Jun 2026 20:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc tăng vốn của AEON Finance là hoạt động nội bộ của công ty tài chính tiêu dùng, không tác động trực tiếp đến các doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động điều chỉnh vốn nội bộ của doanh nghiệp chưa niêm yết, không tạo sóng dòng tiền trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 12:17:58"
+  },
+  {
+    "Title": "Giá trứng gà thoát đáy; sầu riêng ngày càng rẻ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-trung-ga-thoat-day-sau-rieng-ngay-cang-re-2543445.html",
+    "PubDate": "Sun, 09 Aug 2026 10:32:47 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá nông sản lẻ mang tính thời vụ và cung cầu thị trường nội địa, không tác động trọng yếu đến biên lợi nhuận của các doanh nghiệp nông nghiệp niêm yết quy mô lớn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Biến động giá bán lẻ nông sản không phản ánh xu hướng doanh thu của các doanh nghiệp chăn nuôi/trồng trọt quy mô công nghiệp. Không có tác động dòng tiền.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 12:17:02"
+  },
+  {
+    "Title": "Đại biểu Quốc hội lo xung đột lợi ích khi ngân hàng quản lý tài sản đảm bảo trái phiếu",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/dai-bieu-quoc-hoi-lo-xung-dot-loi-ich-khi-ngan-hang-quan-ly-tai-san-dam-bao-trai-phieu-5106995.html",
+    "PubDate": "Sun, 09 Aug 2026 11:44:54 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc siết chặt quản lý tài sản đảm bảo trái phiếu có thể làm tăng chi phí tuân thủ và rủi ro pháp lý cho các ngân hàng đang nắm giữ lượng lớn trái phiếu doanh nghiệp, gây áp lực lên nhóm cổ phiếu ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Lo ngại về xung đột lợi ích trong quản lý tài sản đảm bảo trái phiếu tạo áp lực pháp lý, gây tâm lý thận trọng lên các ngân hàng có danh mục trái phiếu lớn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngân hàng có tỷ trọng trái phiếu doanh nghiệp lớn, chịu ảnh hưởng trực tiếp từ các quy định siết chặt quản lý tài sản đảm bảo."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Danh mục trái phiếu doanh nghiệp đáng kể, rủi ro pháp lý gia tăng có thể ảnh hưởng đến tâm lý nhà đầu tư ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 12:16:33"
+  },
+  {
     "Title": "FUEKIV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 07/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU9FdkVOaWJkRGZ6NUNHSkM3eTdaSEpvajVzelFDem94bHNJbE9VUG5zTHhnVGoyd1FCcmNCS3lQRXQxU0Q5T1RvNXZ6dE9zZ2RGNjAzTmNvVWFCSmtiUThHSFVXMGpsYzhoUWcwNW9GMzUtUXRZSGlJeEJQUHhQX1ktbHZrblZSVlRyUGg3dm0yZ0lFU00wVVJUQVpCcUdQcEtaYW1pckM4aC0wcExDQnZoc0ttTzBOeEVvTDVDcE8xZTA0M1JxeXJFb0N6cFBER2xz?oc=5",
@@ -16840,86 +16909,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 05:31:28"
-  },
-  {
-    "Title": "HDBank tăng trưởng 31% lợi nhuận, gia nhập câu lạc bộ ngân hàng triệu tỉ",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/hdbank-tang-truong-31-loi-nhuan-gia-nhap-cau-lac-bo-ngan-hang-trieu-ti-100260731123546654.htm",
-    "PubDate": "7/31/2026 2:18:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Kết quả kinh doanh vượt trội củng cố niềm tin nhà đầu tư vào nhóm ngân hàng tầm trung, thúc đẩy dòng tiền vào cổ phiếu HDB và cải thiện tâm lý nhóm ngành ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành Ngân hàng. HDB ghi nhận tăng trưởng lợi nhuận 31%, củng cố đà tăng nhóm ngân hàng tầm trung. Dự báo dòng tiền tập trung vào cổ phiếu có kết quả kinh doanh vượt kỳ vọng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HDB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Kết quả kinh doanh ấn tượng tạo động lực tăng giá trực tiếp, thu hút dòng tiền khối ngoại và nhà đầu tư cá nhân."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 05:31:13"
-  },
-  {
-    "Title": "Masan Consumer tạm ứng 2.615 tỉ đồng cổ tức trước phiên cơ cấu ETF VN30",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/masan-consumer-tam-ung-2615-ti-dong-co-tuc-truoc-phien-co-cau-etf-vn30-100260731141459028.htm",
-    "PubDate": "7/31/2026 2:18:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc tạm ứng cổ tức tiền mặt lớn củng cố niềm tin nhà đầu tư vào dòng tiền doanh nghiệp, đồng thời tạo lực đỡ tâm lý cho cổ phiếu trước áp lực bán từ các quỹ ETF.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - MSN. Cổ tức tiền mặt lớn tạo vùng đệm tâm lý, thu hút dòng tiền giá trị trước kỳ cơ cấu ETF. Dòng tiền thông minh sẽ giữ nhịp cho MSN.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MSN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ tức tiền mặt cao giúp củng cố giá cổ phiếu, giảm áp lực bán tháo trong các phiên cơ cấu danh mục ETF."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 05:30:58"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 27/7: Dầu thế giới giảm mạnh, trong nước duy trì mức thấp",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-27-7-dau-the-gioi-giam-manh-trong-nuoc-duy-tri-muc-thap-2539383.html",
-    "PubDate": "Mon, 27 Jul 2026 09:13:07 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá dầu giảm giúp giảm chi phí đầu vào cho các ngành vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm là biến số vĩ mô, tác động biên lợi nhuận logistics có độ trễ. Cần theo dõi thêm biến động giá cước vận tải và nhu cầu tiêu thụ thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận tải, cải thiện biên lợi nhuận."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí nhiên liệu là biến phí lớn nhất, giá dầu giảm giúp tăng trực tiếp lợi nhuận ròng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 05:30:42"
-  },
-  {
-    "Title": "Robot hình người 15.000 USD: Cuộc đua 5.000 tỷ USD định hình thế giới tương lai",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/robot-15-000-usd-cuoc-dua-5-000-ty-usd-dinh-hinh-the-gioi-tuong-lai-2540796.html",
-    "PubDate": "Sat, 01 Aug 2026 05:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Xu hướng tự động hóa và AI thúc đẩy nhu cầu chuyển đổi số, gia công phần mềm và hạ tầng công nghệ tại Việt Nam, tạo động lực tăng trưởng dài hạn cho các doanh nghiệp CNTT.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính xu hướng công nghệ dài hạn, thiếu tác động trực tiếp đến dòng tiền ngắn hạn tại thị trường Việt Nam. Cần theo dõi sát biên lợi nhuận thực tế từ các dự án AI.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ làn sóng chuyển đổi số và nhu cầu gia công phần mềm AI toàn cầu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 05:30:27"
   }
 ]
