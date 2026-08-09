@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Giá xăng dầu hôm nay 19/6: Dầu thế giới trái chiều, trong nước giảm mạnh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-19-6-dau-the-gioi-trai-chieu-trong-nuoc-giam-manh-2527266.html",
+    "PubDate": "Fri, 19 Jun 2026 07:27:01 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá xăng dầu trong nước giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm hỗ trợ biên lợi nhuận nhóm Vận tải (GMD, HAH) nhưng phản ánh áp lực suy yếu cầu toàn cầu. Cần theo dõi sát biên lợi nhuận thực tế quý tới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận chuyển, cải thiện biên lợi nhuận."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, giá dầu giảm giúp tăng lợi nhuận trực tiếp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 01:58:03"
+  },
+  {
     "Title": "Fed khó tăng lãi suất vào tháng 9 - cafef.vn",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jWGRzbE9OclRRRU5WeVpLdVh1ZmhqNjY0WWR3RVdRc1ZSQ3JBZFl1TFhRUVhGRTN0cmR1aE1WU2hQNFhmNVFXcnBlY1pORUxzZlpvWE9JOXZ3MW95dmszZHMyZVFmcnh5OWxSd1I3bElHRHZobzJKcnVtbGg0QQ?oc=5",
@@ -16970,18 +16994,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 21:20:16"
-  },
-  {
-    "Title": "Vietnam Frees Its Gold Market But Shoppers Pause as Prices Dip - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0wweEE0emRxQ1hoVF80X0VhTThOTzhsdzdsaHplLWhhRmFubC1zUXl6ZWVlSkl0Q2ZWc2lxV1lKTXZmSHdBdzdOb0NKRXpmY01XTmdsOFdyX1RPSmN6THJVRTNRS3RmMzBPTTJrRHNuSHVqYXpBSVl2dTBwUUZiQ1VJU0hqX0stOUh0MDNrazF5bkVkS0xweTRWc05ycjM0NDJENFgtX3prNWlVczZ6R1pMVQ?oc=5",
-    "PubDate": "Fri, 10 Oct 2025 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc nới lỏng quản lý thị trường vàng giúp tăng tính minh bạch và thanh khoản, nhưng không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ/Vàng. Chính sách nới lỏng quản lý vàng không tạo ra đột biến doanh thu cho các mã niêm yết. Dòng tiền sẽ không phản ứng mạnh với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 19:53:10"
   }
 ]

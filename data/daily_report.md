@@ -1,20 +1,23 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 01:20 (Giả định)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 02:15 - 10/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Fed kỳ vọng dừng tăng lãi suất & NHNN hạ lãi suất huy động:** -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Chứng khoán (SSI, VCI)** và **Ngân hàng (VCB)** do giảm áp lực chi phí vốn (COF) và cải thiện thanh khoản hệ thống.
-- **Tiến độ giải ngân đầu tư công (đạt 20,5%):** -> **Tích cực (trung hạn)** -> Dòng tiền định hướng vào nhóm **Xây dựng hạ tầng (VCG, HHV)** khi đây là động lực tăng trưởng kinh tế trọng điểm.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tín hiệu tiền tệ phân hóa:** Việc ngân hàng lớn giảm lãi suất huy động tạo dư địa nới lỏng chính sách (Tích cực), nhưng lo ngại lãi suất cuối năm khó giảm tạo sức ép lên chi phí tài chính doanh nghiệp (Tiêu cực/Trung lập). -> **Dòng tiền sẽ hướng vào nhóm có bảng cân đối kế toán khỏe mạnh, ít đòn bẩy.**
+- **Giải ngân đầu tư công:** Tiến độ 20,5% kế hoạch là chỉ báo duy trì khối lượng công việc, tạo lực đỡ cho nhóm xây lắp hạ tầng. -> **Dòng tiền tập trung: Xây lắp hạ tầng (VCG, HHV).**
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **SSI, VCI, VCB**
-    - **Động lực (FA):** Tổ hợp tin tức từ Fed (dừng tăng lãi suất), xu hướng giảm lãi suất huy động tại các ngân hàng lớn và kỳ vọng nâng hạng thị trường.
-    - **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng tập trung vào các mã đầu ngành tài chính để đón đầu làn sóng thanh khoản mới và kỳ vọng hạ tầng thị trường.
-    - **Hành động:** **Chú ý giải ngân** theo kịch bản breakout nền giá gần nhất.
-- **Mã:** **MSN**
-    - **Động lực (FA):** Mở rộng chuỗi WinMart+ lên 5.000 cửa hàng, khẳng định vị thế dẫn đầu bán lẻ.
-    - **Nhận định dòng tiền:** Dòng tiền duy trì ổn định, phản ánh kỳ vọng doanh thu bán lẻ quý cao điểm.
-    - **Hành động:** **Tiếp tục quan sát** khối lượng giao dịch tại vùng hỗ trợ cứng.
-- **Mã:** **NVL, PDR**
-    - **Động lực (FA):** Dự báo lãi suất neo cao vào cuối năm gây áp lực chi phí tài chính.
-    - **Nhận định dòng tiền:** Rủi ro dòng tiền thoát ra do áp lực nợ vay bào mòn lợi nhuận.
-    - **Hành động:** **Rủi ro vi phạm kịch bản**, cần thận trọng vị thế đối với các doanh nghiệp có đòn bẩy tài chính cao.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: SSI**
+    - Động lực (FA): Hợp lưu từ kỳ vọng nâng hạng thị trường và dư địa chính sách tiền tệ nới lỏng sau tín hiệu từ Fed, đối trọng với rủi ro lãi suất neo cao.
+    - Nhận định dòng tiền: Dòng tiền thông minh vẫn ưu tiên nhóm chứng khoán đầu ngành khi có kỳ vọng nâng hạng.
+    - Hành động: Tiếp tục quan sát vùng tích lũy, chú ý kịch bản dòng tiền ngoại giải ngân.
+- **Mã: VCG, HHV**
+    - Động lực (FA): Tiến độ đầu tư công được duy trì làm nền tảng doanh thu.
+    - Nhận định dòng tiền: Nhóm hưởng lợi từ đầu tư công đang có trạng thái dòng tiền ổn định.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, theo dõi sát tiến độ giải ngân thực tế hàng quý.
+- **Mã: NVL, PDR**
+    - Động lực (FA): Lãi suất neo cao gây áp lực trực tiếp lên chi phí nợ vay.
+    - Nhận định dòng tiền: Rủi ro dòng tiền rút ra do áp lực chi phí tài chính bào mòn biên lợi nhuận.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng tối đa.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái).
