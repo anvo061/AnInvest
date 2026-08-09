@@ -1,23 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:15, 10/08/2026
+⏱ Thời gian: 03:45 ngày 10/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giá xăng dầu trong nước giảm mạnh kết hợp với tín hiệu từ Fed khả năng dừng tăng lãi suất vào tháng 9:** -> Tích cực -> Dòng tiền sẽ hướng mạnh vào nhóm **Vận tải & Logistics** (hưởng lợi biên lợi nhuận) và **Chứng khoán** (nhờ áp lực vĩ mô giảm, thanh khoản cải thiện).
+- **Ngân hàng Nhà nước & Lãi suất:** Các ngân hàng lớn đồng loạt giảm lãi suất huy động trong bối cảnh Fed được dự báo khó tăng lãi suất vào tháng 9 -> **Tích cực:** Mở ra dư địa tối ưu hóa chi phí vốn (NIM) cho nhóm ngân hàng và giảm áp lực chi phí tài chính cho doanh nghiệp, kích thích thanh khoản thị trường chứng khoán.
+- **Giá nhiên liệu:** Giá xăng dầu giảm sâu từ đỉnh -> **Tích cực:** Cải thiện trực tiếp biên lợi nhuận cho nhóm ngành vận tải và logistics.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** GMD, HAH
-    - **Động lực (FA):** Chi phí nhiên liệu (biến phí lớn nhất) giảm sâu giúp tối ưu hóa trực tiếp biên lợi nhuận vận tải.
-    - **Nhận định dòng tiền:** Hưởng lợi kép từ chi phí vận hành giảm; kỳ vọng dòng tiền đẩy vào nhóm hạ tầng cảng biển khi logistics hồi phục.
-    - **Hành động:** Chú ý giải ngân (tận dụng nhịp điều chỉnh nếu có để gom vị thế).
-- **Mã:** SSI, VCI
-    - **Động lực (FA):** Fed tạm dừng tăng lãi suất giúp ổn định tỷ giá & kỳ vọng nâng hạng thị trường thúc đẩy vốn ngoại.
-    - **Nhận định dòng tiền:** Nhóm này là "phễu" đón dòng tiền thông minh khi lãi suất huy động của các ngân hàng lớn đang có xu hướng giảm.
-    - **Hành động:** Tiếp tục quan sát kịch bản dòng tiền ngoại (Foreign flow) để gia tăng tỷ trọng.
-- **Mã:** MWG
-    - **Động lực (FA):** Doanh thu mảng điện máy tăng đột biến trong mùa cao điểm nắng nóng.
-    - **Nhận định dòng tiền:** Dòng tiền bán lẻ đang phản ứng tích cực với số liệu thực tế, củng cố đà tăng.
-    - **Hành động:** Tiếp tục quan sát (nắm giữ, chặn lãi tại vùng hỗ trợ kỹ thuật).
-- **Mã:** VCB
-    - **Động lực (FA):** Ngân hàng lớn giảm lãi suất huy động giúp tối ưu hóa chi phí vốn (COF).
-    - **Nhận định dòng tiền:** VCB là trụ cột điều tiết chỉ số, sẽ thu hút dòng tiền ổn định khi thị trường cần "neo" chỉ số để nâng hạng.
-    - **Hành động:** Chú ý giải ngân.
+- **Mã: GMD, HAH**
+  - **Động lực (FA):** Chi phí nhiên liệu (biến phí lớn nhất) giảm sâu do giá dầu hạ nhiệt.
+  - **Nhận định dòng tiền:** Dòng tiền sẽ phản ứng tích cực với nhóm vận tải/cảng biển nhờ cải thiện biên lợi nhuận gộp trong kỳ báo cáo tới.
+  - **Hành động:** Chú ý giải ngân nếu giá cổ phiếu test lại vùng hỗ trợ kỹ thuật gần nhất.
+- **Mã: VCB**
+  - **Động lực (FA):** Giảm lãi suất huy động giúp cải thiện NIM; kỳ vọng là mã dẫn dắt thu hút vốn ngoại trong kịch bản nâng hạng.
+  - **Nhận định dòng tiền:** Củng cố xu hướng tích lũy trung hạn, dòng tiền tổ chức có khả năng duy trì sự ổn định.
+  - **Hành động:** Tiếp tục nắm giữ, ưu tiên vị thế phòng thủ dài hạn.
+- **Mã: MWG**
+  - **Động lực (FA):** Doanh thu kỷ lục từ mảng điện máy trong mùa cao điểm nắng nóng.
+  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn sẽ tập trung vào nhóm bán lẻ, xác nhận đà tăng trưởng doanh thu quý.
+  - **Hành động:** Quan sát nhịp rung lắc để gia tăng tỷ trọng.
+- **Mã: SSI, VCI, VND**
+  - **Động lực (FA):** Kết hợp giữa kỳ vọng Fed dừng tăng lãi suất và câu chuyện nâng hạng thị trường.
+  - **Nhận định dòng tiền:** Hưởng lợi từ sự cải thiện của thanh khoản toàn thị trường và mảng cho vay margin.
+  - **Hành động:** Chú ý giải ngân theo nhịp lan tỏa của dòng tiền vào nhóm tài chính.

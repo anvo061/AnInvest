@@ -1,5 +1,37 @@
 ﻿[
   {
+    "Title": "Gió thổi cũng ra tiền: Nhiều làng quê hẻo lánh nhận số tiền lớn",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gio-thoi-cung-ra-tien-nhieu-lang-que-heo-lanh-nhan-gan-1-000-ty-dong-nam-2526366.html",
+    "PubDate": "Tue, 21 Jul 2026 10:59:02 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc đẩy mạnh các dự án điện gió tại địa phương giúp cải thiện doanh thu cho các doanh nghiệp năng lượng tái tạo và thúc đẩy hạ tầng lưới điện.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất xã hội, thiếu dữ liệu tài chính cụ thể. Tác động đến dòng tiền doanh nghiệp chưa rõ ràng. Cần theo dõi tiến độ giải ngân dự án thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 03:23:35"
+  },
+  {
+    "Title": "Doanh nghiệp sữa duy nhất của Việt Nam góp mặt trong Fortune Southeast Asia 500",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/doanh-nghiep-sua-duy-nhat-cua-viet-nam-gop-mat-trong-fortune-southeast-asia-500-2527134.html",
+    "PubDate": "Thu, 18 Jun 2026 16:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc lọt vào danh sách Fortune Southeast Asia 500 khẳng định vị thế và uy tín thương hiệu của VNM, giúp củng cố niềm tin của nhà đầu tư tổ chức và khối ngoại.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Danh hiệu Fortune 500 là tin PR thương hiệu, không tác động trực tiếp đến biên lợi nhuận hay dòng tiền ngắn hạn. Không tạo động lực mua đuổi.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VNM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Uy tín thương hiệu tăng cao giúp củng cố niềm tin nhà đầu tư, hỗ trợ xu hướng tích lũy của dòng tiền dài hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 03:23:19"
+  },
+  {
     "Title": "Đầu tư công nghệ chế biến phế phẩm nông nghiệp thành xăng sinh học",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/dau-tu-cong-nghe-che-bien-phe-pham-nong-nghiep-thanh-xang-sinh-hoc-2527137.html",
@@ -16968,31 +17000,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 22:34:17"
-  },
-  {
-    "Title": "Vợ qua đời sau khi mua bảo hiểm 150 triệu/năm, chồng vất vả đòi DN trả gần 6,5 tỷ",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vo-qua-doi-sau-khi-mua-bao-hiem-150-trieu-nam-chong-di-kien-doi-gan-6-5-ty-dong-2537926.html",
-    "PubDate": "Wed, 22 Jul 2026 09:12:39 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là tranh chấp dân sự cá biệt giữa khách hàng và doanh nghiệp bảo hiểm, không phản ánh xu hướng kinh doanh hay thay đổi chính sách vĩ mô của ngành bảo hiểm niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bảo hiểm. Tranh chấp cá biệt không tác động đến dòng tiền ngành. Không có tín hiệu giao dịch cho các mã bảo hiểm niêm yết.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 22:34:08"
-  },
-  {
-    "Title": "DN Việt ký hợp đồng 60 triệu USD với Mỹ, đưa thiết bị cơ khí ra toàn cầu",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/doanh-nghiep-viet-ky-hop-dong-60-trieu-usd-voi-my-dua-thep-viet-ra-toan-cau-2537900.html",
-    "PubDate": "Wed, 22 Jul 2026 09:30:16 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc ký kết hợp đồng xuất khẩu giá trị lớn sang thị trường Mỹ khẳng định năng lực cạnh tranh của doanh nghiệp cơ khí Việt Nam, mở ra triển vọng tăng trưởng doanh thu và mở rộng thị phần quốc tế.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức thiếu danh tính doanh nghiệp cụ thể, mang tính PR chung chung. Không tác động trực tiếp đến dòng tiền của các mã thép hiện tại.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 22:33:54"
   }
 ]
