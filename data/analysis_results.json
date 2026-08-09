@@ -1,5 +1,89 @@
 ﻿[
   {
+    "Title": "Houthis Attack Saudi-Backed Forces in Yemen, Escalating Tensions - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWl5MWRxOWNzeDVrOEs3TEdnc2FUb2plYnBvdlFlVVJObFJIVjNGS25sZ1pCVGFnSEVmZ2EyRnpCeHFxR3BXZWk4QmJjd3NzZWR3RDZ4Y0llbXdTaXpjYmJuMmd6R2FLOWdnMTVSc1hhcFF6aUxoQmpDeXN6UnBZamppVWN6QmxGaXhXTF9WWVgxTkx4TFV0MVdBdDBqTkt2OHlCcnlHZllUdm5pLWJiTXRpVks?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 22:51:54 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông làm dấy lên lo ngại về nguồn cung dầu thô toàn cầu, đẩy giá dầu tăng, gây áp lực lạm phát và chi phí đầu vào cho các ngành vận tải, sản xuất.",
+    "TapeReaderNote": "Địa chính trị Trung Đông leo thang gây áp lực giá dầu. Tác động: Nhóm thượng nguồn (PVD, PVS) hưởng lợi ngắn hạn; nhóm vận tải (GMD) chịu rủi ro chi phí. Cần theo dõi sát biến động giá dầu Brent.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu khoan và giá thuê giàn khoan, hưởng lợi trực tiếp cho các nhà cung cấp dịch vụ dầu khí."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ xu hướng tăng giá dầu và các dự án thăm dò, khai thác được đẩy mạnh."
+      },
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu tăng làm tăng chi phí vận hành đội tàu và logistics, gây áp lực lên biên lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 04:29:50"
+  },
+  {
+    "Title": "Giá xăng dầu tiếp tục giảm mạnh, có loại hạ tới hơn 2.300 đồng/lít",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-tiep-tuc-giam-manh-co-loai-ha-toi-hon-2-300-dong-lit-2526715.html",
+    "PubDate": "Thu, 18 Jun 2026 14:34:26 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá xăng dầu giảm mạnh giúp cắt giảm chi phí vận hành cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát chi phí đẩy.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm hỗ trợ biên lợi nhuận nhóm vận tải (GMD, HAH) nhưng gây áp lực trích lập dự phòng hàng tồn kho cho nhóm phân phối (PLX). Tác động phân hóa, không tạo sóng ngành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận chuyển, cải thiện biên lợi nhuận."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, giá dầu giảm giúp tăng lợi nhuận trực tiếp."
+      },
+      {
+        "Ticker": "PLX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro trích lập dự phòng hàng tồn kho và biên lợi nhuận bán lẻ xăng dầu bị thu hẹp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 04:29:35"
+  },
+  {
+    "Title": "Không khí sạch - chuẩn mới khi chọn mua điều hòa",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/khong-khi-sach-chuan-moi-khi-chon-mua-dieu-hoa-2527036.html",
+    "PubDate": "Thu, 18 Jun 2026 15:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất tư vấn tiêu dùng, không có tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ. Tin tức mang tính chất tư vấn tiêu dùng, không tạo ra sự thay đổi đột biến trong dòng tiền hay doanh thu của các doanh nghiệp bán lẻ điện máy.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 04:29:24"
+  },
+  {
+    "Title": "Đơn vị chủ quản của HoSE và HNX lãi đậm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/don-vi-chu-quan-cua-hose-va-hnx-lai-dam-5107134.html",
+    "PubDate": "Mon, 10 Aug 2026 04:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Kết quả kinh doanh khả quan của Sở Giao dịch Chứng khoán Việt Nam phản ánh thanh khoản thị trường duy trì ở mức cao, củng cố niềm tin vào sự tăng trưởng của ngành chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Lợi nhuận Sở Giao dịch là tin hành chính, không phản ánh trực tiếp biên lợi nhuận CTCK. Cần thận trọng với suy diễn thanh khoản.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 04:29:09"
+  },
+  {
     "Title": "VN-Index trước 'cửa ải' 1.800 điểm: Dòng tiền có đủ sức duy trì? - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjVrNENUTzRkUk1YUWxZQ1M3Si1mOWFJYmZiMUdFb01mNEZOV0l1b3EwZjlkSlFjOFo5LVdDS0tkYU5Nekxndm1hRGg4THZ1UnFwOUdiWkxtR2I5SklTaWhjaGtLVW55eXZWQ2NFb3R0QXA3cWRUU0Job29Qa3ZSby1jck1BOGNMLTFGcW5QTUExOF9jNWxUcXRSSXFTVnNu?oc=5",
@@ -16931,74 +17015,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-01 22:35:15"
-  },
-  {
-    "Title": "FUEABVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 30/07/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmd5enFfTGgzMmZWRUQ0UmxxblFwSEFKU25BbzRmMnRuSkZ0SUczaEhSTnlvOGkyVWF1bUtYcnpaMl9IZmxEZnZtMlRiNHA5V1ZDbHpvVlZIYWpGcmZISDVRSEtMRXdPNGRGckpoblZSaFFRTjdSTU4yUU1KT24yZHA2MHF5OFNHSDl2b3QtQmQ1NTRuSTUxeDZTUno3MnJfdUVUdHRkYmw4dFBpVEt4YVY1eWRDMHBZc2psaVNLdUw4dHR6aC1tdWFIbm0xdV9vT0xJ?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 02:03:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền thông minh trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 22:35:05"
-  },
-  {
-    "Title": "Vì sao Vietravel bị xử phạt? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wd0pBNW5zMEhKVnh6M0NOVUwxYnctd1hkOW9YeFhhazQyMGFKd0wtQWxSVkpDV2tEV05jQk1qRlRvYVBUWHN4bGQ0TTRKdjlhSHlMR21meGlTM0JEX2ktZkVnVUNWNzUwWU9rZC03N3h3QXk0VlE?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 04:24:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc xử phạt hành chính đối với Vietravel (VTR) là thông tin tiêu cực về mặt quản trị và tuân thủ, có thể gây áp lực tâm lý ngắn hạn lên cổ phiếu trên sàn UPCoM.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - VTR. Tin xử phạt hành chính gây rủi ro tuân thủ. Dòng tiền cần thận trọng, tránh bắt đáy do rủi ro quản trị doanh nghiệp.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VTR",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Thông tin xử phạt hành chính ảnh hưởng đến uy tín doanh nghiệp và tâm lý nhà đầu tư ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 22:34:51"
-  },
-  {
-    "Title": "Sacombank giảm hơn 3.700 nhân sự; VPBank tuyển thêm gần 1.000 người",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/sacombank-giam-hon-3700-nhan-su-vpbank-tuyen-them-gan-1000-nguoi-100260801213359595.htm",
-    "PubDate": "8/1/2026 9:52:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc thay đổi quy mô nhân sự phản ánh chiến lược tái cơ cấu chi phí và mở rộng kinh doanh riêng biệt của từng ngân hàng, không mang tính chất vĩ mô hay tác động đến toàn ngành ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Thay đổi nhân sự là chiến lược nội bộ, không làm thay đổi cấu trúc dòng tiền hay biên lợi nhuận ngành. Không có tín hiệu giao dịch ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 22:34:41"
-  },
-  {
-    "Title": "Hai ông lớn ngành bia cùng đón 'gió thuận', vì sao Sabeco và Habeco có lãi trái ngược?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/hai-ong-lon-nganh-bia-cung-don-gio-thuan-vi-sao-sabeco-va-habeco-co-lai-trai-nguoc-100260801213501656.htm",
-    "PubDate": "8/1/2026 9:54:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin phân tích kết quả kinh doanh quá khứ và sự khác biệt trong quản trị chi phí giữa hai doanh nghiệp, không tạo ra động lực tăng trưởng mới cho ngành bia.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Bia. Kết quả kinh doanh phân hóa phản ánh năng lực quản trị nội tại, không phải xu hướng ngành. Dòng tiền sẽ đứng ngoài quan sát các mã này.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "SAB",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Phản ánh hiệu quả quản trị chi phí tốt hơn trong bối cảnh thị trường bia cạnh tranh gay gắt."
-      },
-      {
-        "Ticker": "BHN",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Kết quả kinh doanh kém khả quan do áp lực chi phí và thị phần thu hẹp."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 22:34:27"
   }
 ]

@@ -1,28 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:15
+⏱ Thời gian: 04:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN và các ngân hàng lớn điều chỉnh giảm lãi suất huy động -> [Đánh giá tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm Ngân hàng (biên NIM cải thiện) và các nhóm ngành nhạy cảm với chi phí vốn như Chứng khoán (tăng margin) và Bất động sản].
-- Giá xăng dầu trong nước giảm mạnh -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Vận tải, Logistics (GMD, HAH) nhờ tối ưu chi phí vận hành].
-- Fed phát tín hiệu khả năng dừng tăng lãi suất tháng 9 -> [Đánh giá tác động: Tích cực] -> [Giảm áp lực tỷ giá, hỗ trợ thanh khoản thị trường chung].
+- **Tín hiệu kép:** Căng thẳng tại Yemen (đẩy giá dầu thô) đối nghịch với xu hướng giá xăng dầu nội địa giảm mạnh -> **Đánh giá: Trung lập (Cục bộ)**. Tác động trái chiều giữa chi phí đầu vào vận tải và rủi ro lạm phát địa chính trị. Dòng tiền sẽ phân hóa mạnh giữa nhóm Dầu khí (PVD, PVS) hưởng lợi từ giá dầu thế giới và nhóm Logistics/Vận tải (GMD, HAH) hưởng lợi từ chi phí nhiên liệu trong nước.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: GMD, HAH
-  - Động lực (FA): Giá dầu giảm sâu giúp cắt giảm chi phí biến phí lớn nhất của ngành vận tải.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn tìm đến nhóm vận tải để đón đầu báo cáo tài chính quý/bán niên với biên lợi nhuận cải thiện.
-  - Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền mạnh (Volume tăng) tại các vùng hỗ trợ kỹ thuật.
-- Mã: VNM
-  - Động lực (FA): Lọt Top Fortune Southeast Asia 500, củng cố vị thế thương hiệu.
-  - Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng tích lũy, đặc biệt thu hút sự chú ý của khối ngoại và nhà đầu tư dài hạn.
-  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho danh mục trung dài hạn.
-- Mã: MWG
-  - Động lực (FA): Doanh thu kỷ lục từ mảng điện máy trong mùa nắng nóng.
-  - Nhận định dòng tiền: Động lực tăng trưởng đột biến trong ngắn hạn (Q3), khả năng tạo sóng ngắn.
-  - Hành động: Chú ý giải ngân theo đà tăng.
-- Mã: SSI, VCI
-  - Động lực (FA): Hưởng lợi kép từ kỳ vọng nâng hạng thị trường và môi trường lãi suất ổn định/giảm.
-  - Nhận định dòng tiền: Nhóm cổ phiếu dẫn dắt thanh khoản, dòng tiền sẽ tập trung mạnh khi có biến động tăng từ VN-Index.
-  - Hành động: Chú ý giải ngân tại các phiên rung lắc.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Hiện tại chưa có tin tức đột biến mới từ danh mục EIB, BSR cần xử lý khẩn cấp. Tiếp tục duy trì vị thế quan sát theo chiến lược tháng 6/2026.
+- **Mã: PVD**
+    - Động lực (FA): Căng thẳng địa chính trị tại Trung Đông leo thang, giá dầu dự báo neo cao.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự báo thu hút dòng tiền đầu cơ ngắn hạn tìm kiếm "trú ẩn" trước rủi ro vĩ mô.
+    - Hành động: Chú ý giải ngân nếu giữ vững nền giá hiện tại, cắt lỗ nhanh nếu giá dầu đảo chiều.
+- **Mã: GMD, HAH**
+    - Động lực (FA): Giá xăng dầu trong nước giảm sâu giúp tối ưu hóa giá vốn hàng bán.
+    - Nhận định dòng tiền: Kỳ vọng cải thiện biên lợi nhuận quý tới, dòng tiền sẽ ưu tiên nhóm có tăng trưởng cơ bản thay vì đầu cơ theo tin.
+    - Hành động: Tiếp tục quan sát điểm entry khi VN-Index thử thách vùng 1.800 điểm.
+- **Mã: VNM**
+    - Động lực (FA): Lọt Top Fortune Southeast Asia 500.
+    - Nhận định dòng tiền: Gia tăng uy tín với khối ngoại, củng cố xu hướng tích lũy dài hạn.
+    - Hành động: Tiếp tục giữ.
+- **Mã: SSI, VND**
+    - Động lực (FA): Kỳ vọng Fed dừng tăng lãi suất tháng 9, giảm áp lực tỷ giá.
+    - Nhận định dòng tiền: Dòng tiền thông minh sẽ quay lại nhóm chứng khoán khi áp lực lãi suất hạ nhiệt.
+    - Hành động: Chú ý giải ngân theo sóng thanh khoản.
