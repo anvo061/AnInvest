@@ -1,5 +1,63 @@
 ﻿[
   {
+    "Title": "TMP: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 12 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3FUZlBnUVZ0dmMzenBBNHBxdVNuX3lzUkpwNWU3RmwzTEdxeWE2SWVfdVpTTFBYMEtTNWh2aXlNdVIxMVVfVzNOcG9GdzVwWEoyeU1MVmxzN3A0NVM4cnpneHVXNzYydUhQQTd6VG5uaXlCYVpMbjM4WTlCMnMydzdwZUJYcElZSWtZVjhHTWlkZW56ZWU3RFdOQk9WelhZY09B?oc=5",
+    "PubDate": "Thu, 06 Aug 2026 10:12:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc thay đổi đăng ký kinh doanh, không tác động đến hoạt động sản xuất kinh doanh hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thay đổi thủ tục hành chính thông thường, không tạo ra biến động dòng tiền hay thay đổi giá trị nội tại doanh nghiệp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 17:51:08"
+  },
+  {
+    "Title": "Transimex sắp trả cổ tức bằng cổ phiếu tỷ lệ 7% - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjd1NjZWSjJ2WmZrR1h4SGpLYUdOeENzSHpzOGtEbmllYXRvelpsWHM1NXFoR1dTRmkwN2xRZTM5SUxjc1hsY200QndsQmlmN2ZEejBja1VGU2g1cFNySE9KR2owcDFuWU5wbkhPVFNqa0k2YVg5X2ZSVmJNNnBFckdNRmpxSy1QUnREaThsVQ?oc=5",
+    "PubDate": "Sun, 09 Aug 2026 10:15:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc trả cổ tức bằng cổ phiếu là hoạt động tài chính bình thường, giúp tăng vốn điều lệ nhưng làm pha loãng EPS ngắn hạn, không tác động trực tiếp đến dòng tiền kinh doanh cốt lõi.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TMS. Cổ tức cổ phiếu là nghiệp vụ tài chính thông thường, không tạo đột biến dòng tiền. Nhà đầu tư cần quan sát phản ứng giá sau ngày chốt quyền.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "TMS",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động chia cổ tức bằng cổ phiếu giúp tăng vốn điều lệ nhưng làm pha loãng giá, không thay đổi giá trị nội tại doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 17:50:54"
+  },
+  {
+    "Title": "Cục Thuế nói về thuế khoán với hộ kinh doanh; tính toán quy định mới về xe công",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/cuc-thue-noi-ve-thue-khoan-voi-ho-kinh-doanh-tinh-toan-quy-dinh-moi-ve-xe-cong-2527846.html",
+    "PubDate": "Sun, 21 Jun 2026 10:46:08 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về quản lý thuế khoán và quy định xe công là các vấn đề hành chính, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Đây là các thay đổi về thủ tục hành chính và quản lý công, không tạo ra biến động dòng tiền đáng kể cho các mã cổ phiếu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 17:50:43"
+  },
+  {
+    "Title": "Máy lọc nước giá hơn 100 triệu đồng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/may-loc-nuoc-gia-hon-100-trieu-dong-2527801.html",
+    "PubDate": "Sun, 21 Jun 2026 14:50:43 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về sản phẩm tiêu dùng cao cấp, không tác động đáng kể đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ. Sản phẩm ngách không tạo ra biến động doanh thu đáng kể cho các nhà bán lẻ niêm yết. Dòng tiền không phản ứng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 17:50:34"
+  },
+  {
     "Title": "Một doanh nghiệp BĐS chuẩn bị chi hơn trăm tỷ trả cổ tức - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmtGVTM5TTNyZ2RLdURvNDNRV05mOU15cUJPVTh5cm5uLTZPUjczcTZESmlheWxpNFg4dllib0kyZXZUYWJqV2tRQ1JmenA4UElNTGJNRFhqeWhGVThfWkpMTEdTOFVHV0Zpa0Q4Q281dE1VcUc2Qm1JcTY2bTVWckhEWEctT3RrU2hOa2tkRE5yRUJQNVZBQUpEVVo?oc=5",
@@ -16824,57 +16882,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 14:13:05"
-  },
-  {
-    "Title": "Mở rộng hợp tác quốc tế trong chuỗi triển lãm năng lượng toàn cầu",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/mo-rong-hop-tac-quoc-te-trong-chuoi-trien-lam-nang-luong-toan-cau-2541137.html",
-    "PubDate": "Sat, 01 Aug 2026 12:00:54 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về hoạt động xúc tiến thương mại và triển lãm, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp năng lượng niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Tin tức mang tính chất sự kiện xúc tiến thương mại, không tạo ra thay đổi tức thời về dòng tiền hay kỳ vọng lợi nhuận cho các mã ngành năng lượng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 14:12:55"
-  },
-  {
-    "Title": "Dự kiến đóng tài khoản ngân hàng không phát sinh giao dịch từ 3 năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/de-xuat-dong-tai-khoan-ngan-hang-khong-phat-sinh-giao-dich-tu-3-nam-2541048.html",
-    "PubDate": "Sat, 01 Aug 2026 13:08:53 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc rà soát và đóng tài khoản không hoạt động giúp ngân hàng tối ưu hóa chi phí quản lý hệ thống, giảm rủi ro bảo mật và gian lận tài chính, từ đó nâng cao hiệu quả vận hành.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc đóng tài khoản không hoạt động là nghiệp vụ quản trị rủi ro định kỳ, không tạo đột biến về doanh thu hay biên lợi nhuận cho nhóm ngân hàng.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 14:12:41"
-  },
-  {
-    "Title": "Gia Lai: Thí điểm giao 65 xã, phường xử lý 22 thủ tục về địa chất, khoáng sản",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-lai-thi-diem-giao-65-xa-phuong-xu-ly-22-thu-tuc-ve-dia-chat-khoang-san-2541142.html",
-    "PubDate": "Sat, 01 Aug 2026 14:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về cải cách hành chính cấp địa phương, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp khai thác khoáng sản niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Khoáng sản. Cải cách thủ tục hành chính cấp xã không thay đổi cấu trúc doanh thu hay biên lợi nhuận của các mã niêm yết. Không có tác động dòng tiền.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 14:12:31"
-  },
-  {
-    "Title": "Sun Group ra mắt doanh nghiệp dịch vụ mặt đất tại Phú Quốc",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/sun-group-ra-mat-doanh-nghiep-dich-vu-mat-dat-tai-phu-quoc-5104052.html",
-    "PubDate": "Sat, 01 Aug 2026 12:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc nâng cao năng lực dịch vụ mặt đất tại Phú Quốc giúp tăng cường hạ tầng du lịch, thúc đẩy lượng khách đến đảo, gián tiếp hỗ trợ các doanh nghiệp vận tải và dịch vụ du lịch niêm yết tại khu vực này.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Dịch vụ mặt đất của Sun Group là hoạt động nội bộ/độc quyền, không tác động trực tiếp đến biên lợi nhuận của VJC hay HVN. Tác động gián tiếp không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 14:12:17"
   }
 ]

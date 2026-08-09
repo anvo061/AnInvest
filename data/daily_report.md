@@ -1,25 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:15
+⏱ Thời gian: 17:51 - 09/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- 6 ngân hàng đồng loạt giảm lãi suất cho vay: Tích cực -> Giảm chi phí vốn cho doanh nghiệp, trực tiếp kích thích dòng tiền margin chảy vào thị trường chứng khoán và hỗ trợ nhóm BĐS, Tài chính.
-- Giá dầu thế giới tăng (neo giá trong nước ổn định): Tích cực -> Cải thiện biên lợi nhuận cho nhóm thượng nguồn (PVD, PVS) và hạ nguồn (GAS).
+- **Ngân hàng hạ lãi suất cho vay:** Động thái giảm lãi suất của 6 ngân hàng lớn trong tháng 5 tạo tín hiệu nới lỏng chi phí vốn thực tế -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm Bất động sản (đòn bẩy cao), Chứng khoán (tăng nhu cầu margin) và các doanh nghiệp có dư nợ lớn.
+- **Giá vàng biến động giảm:** Việc giá vàng hạ nhiệt làm giảm áp lực tỷ giá và giảm sức hấp dẫn của kênh trú ẩn -> **Tích cực** -> Dòng tiền ngắn hạn có xu hướng dịch chuyển quay trở lại các tài sản rủi ro (Chứng khoán).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD, PVS
-- Động lực (FA): Giá dầu thế giới có xu hướng đi lên.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ sớm xoay trục sang nhóm dầu khí khi áp lực lạm phát từ giá năng lượng trong nước được kiểm soát.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
-
-- Mã: SSI, TCB
-- Động lực (FA): Lãi suất cho vay giảm, tăng trưởng tín dụng và nhu cầu giao dịch ký quỹ (margin).
-- Nhận định dòng tiền: Tích cực. Nhóm chứng khoán và ngân hàng có NIM tốt sẽ thu hút dòng tiền trung - dài hạn.
-- Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi có nhịp điều chỉnh.
-
-- Mã: GMD, HAH
-- Động lực (FA): Giá xăng dầu giảm giúp tiết giảm chi phí vận hành.
-- Nhận định dòng tiền: Cải thiện biên lợi nhuận gộp trong ngắn hạn.
-- Hành động: Tiếp tục quan sát biến động giá dầu (nếu dầu đảo chiều tăng, rủi ro vi phạm kịch bản chi phí).
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- BSR: Giá dầu thế giới tăng tạo áp lực tăng giá vốn hàng bán, nhưng giá trong nước ổn định lại bù đắp biên lợi nhuận. Đánh giá: Giữ nguyên trạng thái (Hold), theo dõi sát spread lọc dầu trong kỳ báo cáo tới để quyết định cơ cấu.
+- **Mã:** VHM, PDR
+  - **Động lực (FA):** Lãi suất cho vay giảm diện rộng.
+  - **Nhận định dòng tiền:** Giảm áp lực chi phí tài chính giúp cải thiện biên lợi nhuận, hỗ trợ thanh khoản các dự án BĐS đang mở bán. Dòng tiền đầu cơ có thể tập trung vào các mã này để "đón sóng" lãi suất.
+  - **Hành động:** Chú ý giải ngân nếu giá cổ phiếu vượt kháng cự gần nhất với thanh khoản gia tăng.
+- **Mã:** SSI, TCB
+  - **Động lực (FA):** Lãi suất thấp kích cầu dịch vụ tài chính và tín dụng.
+  - **Nhận định dòng tiền:** TCB có khả năng giữ biên NIM tốt nhờ lợi thế chi phí vốn, SSI hưởng lợi trực tiếp từ thanh khoản thị trường tăng.
+  - **Hành động:** Tiếp tục quan sát kịch bản dòng tiền duy trì trên vùng hỗ trợ hiện tại.
+- **Mã:** GMD, HAH
+  - **Động lực (FA):** Giá xăng dầu giảm.
+  - **Nhận định dòng tiền:** Giảm chi phí đầu vào cải thiện biên lợi nhuận gộp trong ngắn hạn. Tuy nhiên, rủi ro thuế tạo sự bất định.
+  - **Hành động:** Tiếp tục quan sát, ưu tiên chốt lời từng phần nếu giá tiến sát vùng mục tiêu ngắn hạn.
