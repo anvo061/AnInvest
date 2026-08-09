@@ -1,23 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:15 - 10/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 02:45 - 10/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tín hiệu tiền tệ phân hóa:** Việc ngân hàng lớn giảm lãi suất huy động tạo dư địa nới lỏng chính sách (Tích cực), nhưng lo ngại lãi suất cuối năm khó giảm tạo sức ép lên chi phí tài chính doanh nghiệp (Tiêu cực/Trung lập). -> **Dòng tiền sẽ hướng vào nhóm có bảng cân đối kế toán khỏe mạnh, ít đòn bẩy.**
-- **Giải ngân đầu tư công:** Tiến độ 20,5% kế hoạch là chỉ báo duy trì khối lượng công việc, tạo lực đỡ cho nhóm xây lắp hạ tầng. -> **Dòng tiền tập trung: Xây lắp hạ tầng (VCG, HHV).**
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Fed dự báo khó tăng lãi suất trong tháng 9 kết hợp với động thái giảm lãi suất huy động tại các ngân hàng lớn:** -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục mạnh mẽ vào nhóm **Tài chính (Chứng khoán, Ngân hàng)** do chi phí vốn (COF) tối ưu hóa và áp lực tỷ giá giảm.
+- **Giá xăng dầu trong nước giảm mạnh:** -> **Tích cực** -> Dòng tiền hướng vào nhóm **Vận tải, Logistics (GMD, HAH)** nhờ cải thiện trực tiếp biên lợi nhuận từ việc cắt giảm chi phí vận hành.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-    - Động lực (FA): Hợp lưu từ kỳ vọng nâng hạng thị trường và dư địa chính sách tiền tệ nới lỏng sau tín hiệu từ Fed, đối trọng với rủi ro lãi suất neo cao.
-    - Nhận định dòng tiền: Dòng tiền thông minh vẫn ưu tiên nhóm chứng khoán đầu ngành khi có kỳ vọng nâng hạng.
-    - Hành động: Tiếp tục quan sát vùng tích lũy, chú ý kịch bản dòng tiền ngoại giải ngân.
-- **Mã: VCG, HHV**
-    - Động lực (FA): Tiến độ đầu tư công được duy trì làm nền tảng doanh thu.
-    - Nhận định dòng tiền: Nhóm hưởng lợi từ đầu tư công đang có trạng thái dòng tiền ổn định.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, theo dõi sát tiến độ giải ngân thực tế hàng quý.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: SSI, VND, VCI**
+    - **Động lực (FA):** Hưởng lợi kép từ kỳ vọng nâng hạng thị trường và môi trường lãi suất ổn định/giảm.
+    - **Nhận định dòng tiền:** Dòng tiền thông minh bắt đầu rục rịch quay lại nhóm Tài chính/Chứng khoán đón đầu xu hướng thanh khoản tăng.
+    - **Hành động:** Chú ý giải ngân theo chiến lược quản trị rủi ro; ưu tiên các mã có thị phần môi giới dẫn đầu.
+- **Mã: MWG**
+    - **Động lực (FA):** Doanh thu mảng điện máy lập đỉnh trong mùa nắng nóng cao điểm.
+    - **Nhận định dòng tiền:** Hưởng lợi từ sức mua tiêu dùng cuối kỳ; dòng tiền ổn định.
+    - **Hành động:** Tiếp tục quan sát đà tăng trưởng doanh thu để gia tăng tỷ trọng.
+- **Mã: GMD, HAH**
+    - **Động lực (FA):** Chi phí nhiên liệu (chi phí đầu vào trọng yếu) giảm mạnh.
+    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ biên lợi nhuận cải thiện, kỳ vọng thu hút dòng tiền đầu tư theo giá trị.
+    - **Hành động:** Chú ý giải ngân tại các nhịp điều chỉnh kỹ thuật.
 - **Mã: NVL, PDR**
-    - Động lực (FA): Lãi suất neo cao gây áp lực trực tiếp lên chi phí nợ vay.
-    - Nhận định dòng tiền: Rủi ro dòng tiền rút ra do áp lực chi phí tài chính bào mòn biên lợi nhuận.
-    - Hành động: Rủi ro vi phạm kịch bản, thận trọng tối đa.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái).
+    - **Động lực (FA):** Áp lực lãi suất neo cao gây khó khăn trong việc cơ cấu nợ.
+    - **Nhận định dòng tiền:** Tiêu cực; dòng tiền có xu hướng rút khỏi các mã sử dụng đòn bẩy cao.
+    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.

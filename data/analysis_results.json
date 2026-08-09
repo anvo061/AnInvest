@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "Một “đại gia” Việt bán điều hòa, máy lạnh kiếm 330 tỷ đồng mỗi ngày tháng 7 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUtuWHNrYUpEalVXeGN6SlB2T0MyU3pOTGxMVDBuWk9tNkRMY2UwX1pKUl9RUEJKOWxPTkRYTm5WQnZHMkJjcDB6amF3UklYWXVwM0lnYU1vX3M4RVkxamp6ckxkVnRTUkRnM2FhcGJPRVh6anVORnpoZE4wajRxNnFHSHNRS0hpUGg1WlJrRDhuZmdHZmZwQXplV0Zlb25PUHlVZk5LREV6bkFUQnkzNkln?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 07:46:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Doanh thu kỷ lục từ mảng điện máy trong mùa cao điểm nắng nóng củng cố đà tăng trưởng lợi nhuận cho các nhà bán lẻ hàng đầu, củng cố vị thế dẫn đầu thị phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ. Doanh thu mùa vụ là yếu tố đã phản ánh vào giá. Cần theo dõi biên lợi nhuận thực tế thay vì doanh thu thuần. Quan sát dòng tiền tại MWG.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ nhu cầu tiêu thụ điều hòa, máy lạnh tăng cao, đóng góp lớn vào doanh thu và lợi nhuận mảng điện máy."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 02:29:47"
+  },
+  {
+    "Title": "Tính toán quy định mới về xe công: Cấp xã được bố trí tối đa 2 xe",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/tinh-toan-quy-dinh-moi-ve-xe-cong-cap-xa-duoc-bo-tri-toi-da-2-xe-2527159.html",
+    "PubDate": "Thu, 18 Jun 2026 20:19:50 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là quy định hành chính về quản lý tài sản công, không tạo ra thay đổi đáng kể về doanh thu hay biên lợi nhuận cho các doanh nghiệp sản xuất ô tô niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ô tô. Quy định quản lý xe công mang tính hành chính, không tác động đến nhu cầu tiêu thụ xe thương mại hay dân dụng. Không có tác động dòng tiền.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 02:29:36"
+  },
+  {
+    "Title": "Ngân hàng rao xử lý tài sản bảo đảm liên quan chủ khách sạn 5 sao ở Mỹ Tho",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/rao-xu-ly-tai-san-bao-dam-lien-quan-chu-khach-san-5-sao-o-my-tho-2526776.html",
+    "PubDate": "Fri, 19 Jun 2026 05:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Việc xử lý tài sản bảo đảm là hoạt động nghiệp vụ bình thường của ngân hàng nhằm thu hồi nợ xấu, không gây tác động trọng yếu đến kết quả kinh doanh của các ngân hàng niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Đây là hoạt động xử lý nợ xấu đơn lẻ, không tạo xu hướng dòng tiền mới. Không tác động đến định giá các mã ngân hàng lớn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 02:29:24"
+  },
+  {
     "Title": "Giá xăng dầu hôm nay 19/6: Dầu thế giới trái chiều, trong nước giảm mạnh",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-19-6-dau-the-gioi-trai-chieu-trong-nuoc-giam-manh-2527266.html",
@@ -16938,61 +16983,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 21:21:07"
-  },
-  {
-    "Title": "Khu nghỉ dưỡng Sheraton hơn ngàn tỉ bỏ hoang giữa 'đất vàng' Phú Quốc",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/khu-nghi-duong-sheraton-hon-ngan-ti-bo-hoang-giua-dat-vang-phu-quoc-100260801165536469.htm",
-    "PubDate": "8/1/2026 6:51:00 PM",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Thông tin về dự án bỏ hoang phản ánh rủi ro pháp lý và thanh khoản tại thị trường BĐS nghỉ dưỡng Phú Quốc, gây áp lực tâm lý lên các doanh nghiệp có quỹ đất lớn tại khu vực này.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - BĐS nghỉ dưỡng. Tin tức dự án bỏ hoang tại Phú Quốc làm gia tăng rủi ro pháp lý và thanh khoản. Dòng tiền sẽ thận trọng với các mã có dự án tại khu vực này.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "CEO",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Doanh nghiệp có quỹ đất và dự án lớn tại Phú Quốc, chịu ảnh hưởng tâm lý từ rủi ro pháp lý chung của khu vực."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 21:20:53"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 22/7/2026: Lãi suất chứng chỉ tiền gửi 8,2%/năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-22-7-2026-lai-suat-chung-chi-tien-gui-8-2-nam-2537950.html",
-    "PubDate": "Wed, 22 Jul 2026 10:28:49 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Lãi suất huy động cao gây áp lực lên chi phí vốn của các ngân hàng và làm giảm sức hấp dẫn tương đối của thị trường chứng khoán so với kênh gửi tiết kiệm.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động 8,2% gây áp lực lên chi phí vốn toàn thị trường, làm giảm sức hấp dẫn tương đối của cổ phiếu so với tiền gửi. Cần thận trọng với nhóm ngành sử dụng đòn bẩy cao.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vốn vay tăng gây áp lực lên biên lợi nhuận và khả năng hấp thụ nợ của doanh nghiệp BĐS."
-      },
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Áp lực chi phí vốn tăng nhưng có thể cải thiện biên lãi thuần (NIM) nếu ngân hàng tăng lãi suất cho vay tương ứng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 21:20:27"
-  },
-  {
-    "Title": "Đào ‘mỏ vàng’ ngay trong bãi rác, biến đồ điện tử bỏ đi thành đất hiếm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/dao-mo-vang-ngay-trong-bai-rac-bien-do-dien-tu-bo-di-thanh-dat-hiem-2539606.html",
-    "PubDate": "Sat, 01 Aug 2026 19:55:40 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về công nghệ tái chế rác thải điện tử, chưa có doanh nghiệp niêm yết nào tại Việt Nam triển khai quy mô công nghiệp hoặc ghi nhận doanh thu từ hoạt động này.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Môi trường. Công nghệ tái chế đất hiếm từ rác thải điện tử còn ở giai đoạn nghiên cứu, chưa tác động đến dòng tiền của các mã niêm yết hiện tại.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 21:20:16"
   }
 ]
