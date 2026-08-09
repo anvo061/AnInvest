@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "Giảm 30% thuế cho hộ kinh doanh, DN: Cần nâng ngưỡng doanh thu lên 50 tỷ đồng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/giam-30-thue-cho-ho-kinh-doanh-dn-can-nang-nguong-doanh-thu-len-50-ty-dong-2543260.html",
+    "PubDate": "Mon, 10 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc đề xuất nâng ngưỡng doanh thu chịu thuế giúp giảm áp lực tài chính cho các doanh nghiệp vừa và nhỏ, cải thiện biên lợi nhuận ròng và thúc đẩy tái đầu tư sản xuất kinh doanh.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Đây là đề xuất chính sách, chưa có hiệu lực pháp lý. Tác động thực tế lên biên lợi nhuận doanh nghiệp niêm yết quy mô lớn là không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 05:56:54"
+  },
+  {
+    "Title": "Giá dầu đứng trước ngã rẽ: Cú nhảy vọt 140 USD hay kịch bản hạ nhiệt?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-dau-dung-truoc-nga-re-cu-soc-140-usd-hay-kich-ban-ha-nhiet-2543594.html",
+    "PubDate": "Mon, 10 Aug 2026 05:43:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Giá dầu tăng mạnh thúc đẩy biên lợi nhuận của các doanh nghiệp thượng nguồn (E&P) và dịch vụ dầu khí, đồng thời gây áp lực chi phí đầu vào cho các ngành vận tải và sản xuất.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu biến động mạnh gây rủi ro chi phí đầu vào. Chỉ nhóm thượng nguồn (PVS, PVD) hưởng lợi trực tiếp từ giá dầu neo cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khối lượng công việc và giá dịch vụ tăng khi giá dầu duy trì ở mức cao."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá thuê giàn khoan tăng mạnh theo đà tăng của giá dầu thế giới."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 05:56:38"
+  },
+  {
     "Title": "Doanh nghiệp vàng nói gì khi bị Thanh tra Chính phủ chỉ rõ sai phạm? - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVENuUUZHMi1zdHFkbTlPM1A3YmQwVzd2S2ZIUzREUHlNem9JUmdsNG1DeVM0UVpWX3VCSmtfZDF4Q3RUQVRMMmctOWxremdaU1lnSDFjWG9kR1RJSTRreHVxcENCM2pJcHp3bElKY0lMSjZRLUhid2VyUUlVMnRmSnVSZHBTcndUWVhZMEtXYjdTTENTSlpiSTFpTC11SEdac1Q0bTV2QWFqOGc?oc=5",
@@ -16966,48 +17003,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 23:36:35"
-  },
-  {
-    "Title": "Những thay đổi trong quy trình, thủ tục cấp mã số vùng trồng nông sản, sầu riêng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/nhung-thay-doi-trong-quy-trinh-thu-tuc-cap-ma-so-vung-trong-nong-san-sau-rieng-100260708085443278.htm",
-    "PubDate": "8/1/2026 8:58:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc chuẩn hóa và đơn giản hóa thủ tục cấp mã số vùng trồng giúp đẩy nhanh tiến độ xuất khẩu chính ngạch nông sản, đặc biệt là sầu riêng sang thị trường Trung Quốc, cải thiện biên lợi nhuận cho các doanh nghiệp xuất khẩu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Cải cách thủ tục hành chính là bước đệm dài hạn, chưa tạo đột biến dòng tiền ngắn hạn. Cần theo dõi tiến độ thực thi tại từng địa phương.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sở hữu diện tích trồng sầu riêng lớn, hưởng lợi trực tiếp từ việc đẩy nhanh thủ tục xuất khẩu chính ngạch."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 23:36:20"
-  },
-  {
-    "Title": "Vào diện truy thu thuế, ngành môi giới bất động sản mong muốn được 'hiểu đúng, tính đủ'",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vao-dien-truy-thu-thue-nganh-moi-gioi-bat-dong-san-mong-muon-duoc-hieu-dung-tinh-du-10026080121330261.htm",
-    "PubDate": "8/1/2026 9:47:00 PM",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Việc truy thu thuế tạo áp lực tài chính lên các doanh nghiệp môi giới BĐS, làm giảm biên lợi nhuận ròng và gây rủi ro pháp lý trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Môi giới BĐS. Rủi ro truy thu thuế đe dọa biên lợi nhuận ròng. Dòng tiền cần thận trọng với các doanh nghiệp có tỷ trọng doanh thu môi giới cao.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "DXG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Mảng môi giới chiếm tỷ trọng lớn, rủi ro truy thu thuế ảnh hưởng trực tiếp đến lợi nhuận sau thuế."
-      },
-      {
-        "Ticker": "CRE",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Doanh nghiệp môi giới thuần túy, chịu áp lực trực tiếp từ các quy định thuế mới."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 23:36:04"
   }
 ]
