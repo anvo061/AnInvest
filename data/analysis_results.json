@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Thu ngân sách hơn 1,4 triệu tỷ đồng, giải ngân đầu tư công đạt 20,5% kế hoạch",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/thu-ngan-sach-hon-1-4-trieu-ty-dong-giai-ngan-dau-tu-cong-dat-20-5-ke-hoach-2527462.html",
+    "PubDate": "Fri, 19 Jun 2026 19:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Tiến độ giải ngân đầu tư công là động lực chính thúc đẩy tăng trưởng kinh tế, tạo khối lượng công việc lớn cho các doanh nghiệp xây lắp hạ tầng và cung ứng vật liệu xây dựng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giải ngân 20,5% là mức thấp so với kỳ vọng. Tác động thực tế lên biên lợi nhuận doanh nghiệp cần theo dõi thêm tiến độ thực tế tại công trường.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhà thầu hạ tầng lớn, hưởng lợi trực tiếp từ các dự án đầu tư công trọng điểm quốc gia."
+      },
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp chuyên thi công hạ tầng giao thông, hưởng lợi từ tiến độ giải ngân vốn ngân sách."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 22:54:50"
+  },
+  {
     "Title": "Giá xăng dầu hôm nay 20/6: Dầu thế giới tăng nhẹ, trong nước duy trì mức thấp",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-20-6-dau-the-gioi-tang-nhe-trong-nuoc-duy-tri-muc-thap-2527609.html",
@@ -16898,18 +16922,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 18:55:05"
-  },
-  {
-    "Title": "Cuộc chiến cân não của phụ huynh trước mùa tựu trường",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/cuoc-chien-can-nao-cua-phu-huynh-truoc-mua-tuu-truong-100260801170909712.htm",
-    "PubDate": "8/1/2026 6:20:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Mùa tựu trường thúc đẩy nhu cầu tiêu dùng thiết bị điện tử, văn phòng phẩm và bán lẻ, tạo động lực doanh thu ngắn hạn cho các doanh nghiệp bán lẻ công nghệ và sách.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính xã hội, thiếu dữ liệu định lượng về tăng trưởng doanh thu. Tác động đến dòng tiền thị trường không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 18:54:51"
   }
 ]
