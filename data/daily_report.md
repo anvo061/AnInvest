@@ -1,23 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:45
+⏱ Thời gian: 05:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tín hiệu kép:** Căng thẳng tại Yemen (đẩy giá dầu thô) đối nghịch với xu hướng giá xăng dầu nội địa giảm mạnh -> **Đánh giá: Trung lập (Cục bộ)**. Tác động trái chiều giữa chi phí đầu vào vận tải và rủi ro lạm phát địa chính trị. Dòng tiền sẽ phân hóa mạnh giữa nhóm Dầu khí (PVD, PVS) hưởng lợi từ giá dầu thế giới và nhóm Logistics/Vận tải (GMD, HAH) hưởng lợi từ chi phí nhiên liệu trong nước.
+- Xung đột địa chính trị tại Trung Đông leo thang (Houthis tấn công) gây áp lực tăng giá dầu thô toàn cầu -> [Tác động: Tiêu cực/Ngắn hạn] -> [Dòng tiền phân hóa: Nhóm Dầu khí (PVD/PVS) hưởng lợi giá, nhóm Logistics/Vận tải (GMD/HAH) chịu áp lực biên lợi nhuận].
+- Giá xăng dầu trong nước giảm sâu, trái ngược với diễn biến địa chính trị thế giới -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Logistics/Vận tải (GMD, HAH) để tối ưu biên lợi nhuận trong ngắn hạn].
+- Thanh tra Chính phủ chỉ rõ sai phạm tại PNJ -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng/rút khỏi nhóm Bán lẻ vàng bạc].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - Động lực (FA): Căng thẳng địa chính trị tại Trung Đông leo thang, giá dầu dự báo neo cao.
-    - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự báo thu hút dòng tiền đầu cơ ngắn hạn tìm kiếm "trú ẩn" trước rủi ro vĩ mô.
-    - Hành động: Chú ý giải ngân nếu giữ vững nền giá hiện tại, cắt lỗ nhanh nếu giá dầu đảo chiều.
-- **Mã: GMD, HAH**
-    - Động lực (FA): Giá xăng dầu trong nước giảm sâu giúp tối ưu hóa giá vốn hàng bán.
-    - Nhận định dòng tiền: Kỳ vọng cải thiện biên lợi nhuận quý tới, dòng tiền sẽ ưu tiên nhóm có tăng trưởng cơ bản thay vì đầu cơ theo tin.
-    - Hành động: Tiếp tục quan sát điểm entry khi VN-Index thử thách vùng 1.800 điểm.
-- **Mã: VNM**
-    - Động lực (FA): Lọt Top Fortune Southeast Asia 500.
-    - Nhận định dòng tiền: Gia tăng uy tín với khối ngoại, củng cố xu hướng tích lũy dài hạn.
-    - Hành động: Tiếp tục giữ.
-- **Mã: SSI, VND**
-    - Động lực (FA): Kỳ vọng Fed dừng tăng lãi suất tháng 9, giảm áp lực tỷ giá.
-    - Nhận định dòng tiền: Dòng tiền thông minh sẽ quay lại nhóm chứng khoán khi áp lực lãi suất hạ nhiệt.
-    - Hành động: Chú ý giải ngân theo sóng thanh khoản.
+- Mã: PVD
+  - Động lực (FA): Căng thẳng Trung Đông đẩy giá dầu tăng.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp về giá dịch vụ khoan. Tuy nhiên, cần theo dõi sát phản ứng của thị trường trước thông tin giá xăng dầu trong nước giảm.
+  - Hành động: Chú ý giải ngân nếu giá dầu thế giới giữ đà tăng ổn định.
+- Mã: GMD, HAH
+  - Động lực (FA): Giá dầu giảm giúp cải thiện trực tiếp biên lợi nhuận từ chi phí vận hành.
+  - Nhận định dòng tiền: Động lực tăng trưởng dòng tiền ngắn hạn tích cực nhờ cắt giảm chi phí.
+  - Hành động: Tiếp tục quan sát điểm entry khi có áp lực rung lắc từ thị trường chung.
+- Mã: PNJ
+  - Động lực (FA): Kết luận thanh tra về sai phạm.
+  - Nhận định dòng tiền: Rủi ro pháp lý gây áp lực bán ngắn hạn, tâm lý nhà đầu tư yếu đi.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát vùng hỗ trợ cứng.
+- Mã: MWG
+  - Động lực (FA): Doanh thu kỷ lục từ mảng điện máy trong tháng 7.
+  - Nhận định dòng tiền: Dòng tiền phản ánh tích cực vào kết quả kinh doanh mùa cao điểm.
+  - Hành động: Tiếp tục quan sát.
