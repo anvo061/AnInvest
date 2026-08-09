@@ -1,5 +1,47 @@
 ﻿[
   {
+    "Title": "Giá xăng dầu hôm nay 20/6: Dầu thế giới tăng nhẹ, trong nước duy trì mức thấp",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-20-6-dau-the-gioi-tang-nhe-trong-nuoc-duy-tri-muc-thap-2527609.html",
+    "PubDate": "Sat, 20 Jun 2026 07:37:11 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Giá dầu biến động nhẹ không tạo ra xu hướng đột biến cho nhóm năng lượng, duy trì trạng thái ổn định cho chi phí đầu vào của các ngành vận tải và sản xuất.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu đi ngang, không tạo động lực tăng trưởng. Dòng tiền duy trì trạng thái quan sát tại nhóm dầu khí.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Giá dầu ổn định giúp duy trì đơn giá cho thuê giàn khoan nhưng không tạo đột biến lợi nhuận."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Biến động giá dầu nhẹ không ảnh hưởng đáng kể đến tiến độ các dự án EPC ngoài khơi."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Giá dầu duy trì mức thấp giúp ổn định chi phí đầu vào nhưng không thúc đẩy tăng trưởng doanh thu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 22:19:54"
+  },
+  {
+    "Title": "Quạt điều hòa có thực sự tiết kiệm điện không?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/quat-dieu-hoa-co-thuc-su-tiet-kiem-dien-khong-2527051.html",
+    "PubDate": "Sat, 20 Jun 2026 07:38:21 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết tư vấn tiêu dùng, không có tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp bán lẻ điện máy niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ. Bài viết mang tính chất tư vấn tiêu dùng, không tạo ra thay đổi trong hành vi mua sắm quy mô lớn. Không tác động đến dòng tiền của MWG, DGW.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 22:19:44"
+  },
+  {
     "Title": "Cơ cấu lại vốn nhà nước: Điểm danh những ‘ông lớn’ có thể tăng, giảm tỷ lệ sở hữu - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm1ZTXE1OWQ1bUZYQXFRRExaeUgwYUdCWDdWcjZjRjY5SE5EWUJZbjV0WGhtRXpacFFTdlVOU2JDV3kzZ19iVGJ6QXBLNmZMX1N4RzRsR3EtOTQ5OEs2SG44clkweDlKZGZ0M2JwdDVKeENTYTBZOHpRQXI0eHNPTTB4TlpzT1VVb19tdldkOTVZY3lRSksyZDFiYXIzbWlJSmFiT050Z1NhWTZoOVB2STRUM1hCNEZ5?oc=5",
@@ -16869,47 +16911,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 18:54:51"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 23/7: Thế giới tăng cao, trong nước chiều nay điều chỉnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-23-7-the-gioi-tang-cao-trong-nuoc-chieu-nay-dieu-chinh-2538254.html",
-    "PubDate": "Thu, 23 Jul 2026 14:47:11 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá dầu thế giới tăng giúp cải thiện biên lợi nhuận khai thác cho các doanh nghiệp thượng nguồn và tăng giá trị hàng tồn kho cho các doanh nghiệp dầu khí.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu tăng gây áp lực chi phí đầu vào cho các ngành hạ nguồn. Cần theo dõi biên lợi nhuận BSR do biến động hàng tồn kho và chi phí vận hành.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ giá dầu tăng thúc đẩy các dự án thăm dò và khai thác, tăng khối lượng công việc."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu cao giúp cải thiện giá thuê giàn khoan và biên lợi nhuận mảng dịch vụ khoan."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng giúp tăng giá trị hàng tồn kho và cải thiện biên lợi nhuận lọc hóa dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 18:54:35"
-  },
-  {
-    "Title": "Viettel IDC ghi dấu ấn với 8 giải thưởng quốc tế trong nửa đầu năm 2026",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/viettel-idc-ghi-dau-an-voi-8-giai-thuong-quoc-te-trong-nua-dau-nam-2026-2538190.html",
-    "PubDate": "Thu, 23 Jul 2026 08:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là thông tin về giải thưởng thương hiệu, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Công nghệ. Giải thưởng thương hiệu mang tính chất quảng bá, không thay đổi cấu trúc dòng tiền hay kỳ vọng lợi nhuận ngắn hạn của các mã công nghệ.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 18:54:25"
   }
 ]

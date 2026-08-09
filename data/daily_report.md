@@ -1,27 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:55 - 09/08/2026
+⏱ Thời gian: 22:30 ngày 09/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động leo thang gây áp lực lên biên lãi thuần (NIM) của khối ngân hàng và gia tăng chi phí vốn cho các doanh nghiệp sử dụng đòn bẩy tài chính cao -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm BĐS (VHM, NVL) và nhóm Ngân hàng (TCB, MBB).
-- Việc ký kết hợp đồng khai thác mỏ Sư Tử Trắng đảm bảo nguồn cung khí dài hạn -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí (GAS, PVS).
+- **Lãi suất huy động leo thang gây áp lực lên biên lợi nhuận ngân hàng và chi phí vốn của doanh nghiệp BĐS** -> [Tiêu cực] -> [Dòng tiền ngắn hạn sẽ chịu áp lực rút khỏi nhóm Ngân hàng (TCB, MBB) và Bất động sản (VHM, NVL).]
+- **Ký kết hợp đồng khai thác mỏ Sư Tử Trắng** -> [Tích cực] -> [Dòng tiền hướng vào nhóm Dầu khí thượng nguồn và hạ nguồn (GAS, PVS).]
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TCB, MBB**
-    - Động lực (FA): Áp lực tăng lãi suất huy động gây sức ép kép lên biên lợi nhuận.
-    - Nhận định dòng tiền: Rủi ro điều chỉnh ngắn hạn khi thị trường phản ứng tiêu cực với chi phí vốn.
-    - Hành động: Theo dõi sát vùng hỗ trợ cứng, hạn chế giải ngân mới cho đến khi xu hướng lãi suất ổn định.
-- Mã: **VHM, NVL**
-    - Động lực (FA): Lãi suất tăng trực tiếp làm tăng chi phí tài chính và áp lực nợ vay.
-    - Nhận định dòng tiền: Dòng tiền có khả năng suy yếu, áp lực bán có thể gia tăng.
-    - Hành động: Ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu vi phạm ngưỡng hỗ trợ kỹ thuật.
-- Mã: **GAS, PVS**
-    - Động lực (FA): Ký hợp đồng khai thác mỏ Sư Tử Trắng, củng cố kỳ vọng doanh thu dài hạn.
-    - Nhận định dòng tiền: Hợp lưu tin tức hỗ trợ tích cực cho xu hướng trung hạn.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (backtest hỗ trợ).
-- Mã: **PNJ**
-    - Động lực (FA): Sự suy giảm của thị trường kim cương tự nhiên toàn cầu.
-    - Nhận định dòng tiền: Tiêu cực do rủi ro biên lợi nhuận mảng cao cấp.
-    - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát lực bán tại các vùng kháng cự.
+- **Mã: GAS**
+  - Động lực (FA): Ký hợp đồng mua bán khí mỏ Sư Tử Trắng, đảm bảo nguồn cung dài hạn.
+  - Nhận định dòng tiền: Kỳ vọng tích cực; củng cố nền tảng doanh thu ổn định trước áp lực vĩ mô chung.
+  - Hành động: Chú ý giải ngân (Canh điểm mua tại các nhịp chỉnh của thị trường chung).
+- **Mã: PVS**
+  - Động lực (FA): Hưởng lợi từ dự án phát triển mỏ mới (Sư Tử Trắng).
+  - Nhận định dòng tiền: Hợp lưu tích cực; duy trì xu hướng thu hút dòng tiền trung hạn.
+  - Hành động: Tiếp tục quan sát (Bám sát phản ứng tại vùng hỗ trợ kỹ thuật gần nhất).
+- **Mã: PNJ**
+  - Động lực (FA): Thị trường kim cương toàn cầu suy giảm, gây áp lực tồn kho và biên lợi nhuận mảng cao cấp.
+  - Nhận định dòng tiền: Rủi ro ngắn hạn tăng cao; tâm lý nhà đầu tư có thể thận trọng hơn.
+  - Hành động: Rủi ro vi phạm kịch bản (Cần theo dõi sát dữ liệu bán lẻ quý tới).
 
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- *Dữ liệu chưa ghi nhận tin tức đột biến liên quan trực tiếp đến EIB/BSR trong chu kỳ này. Tiếp tục duy trì quan điểm quan sát định kỳ.*
+🔄 3. Cảnh báo Tái cơ cấu:
+- Không có dữ liệu mới liên quan đến EIB và BSR trong chu kỳ này. Giữ nguyên vị thế hiện tại.
