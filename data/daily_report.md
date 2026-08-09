@@ -1,20 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:51 - 09/08/2026
+⏱ Thời gian: 18:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng hạ lãi suất cho vay:** Động thái giảm lãi suất của 6 ngân hàng lớn trong tháng 5 tạo tín hiệu nới lỏng chi phí vốn thực tế -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm Bất động sản (đòn bẩy cao), Chứng khoán (tăng nhu cầu margin) và các doanh nghiệp có dư nợ lớn.
-- **Giá vàng biến động giảm:** Việc giá vàng hạ nhiệt làm giảm áp lực tỷ giá và giảm sức hấp dẫn của kênh trú ẩn -> **Tích cực** -> Dòng tiền ngắn hạn có xu hướng dịch chuyển quay trở lại các tài sản rủi ro (Chứng khoán).
+- Giá xăng dầu trong nước và thế giới ghi nhận tuần giảm mạnh -> [Đánh giá tác động: Tích cực] -> [Dòng tiền ngắn hạn ưu tiên nhóm ngành Vận tải, Logistics, và Hàng hải nhờ cắt giảm chi phí biến đổi].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VHM, PDR
-  - **Động lực (FA):** Lãi suất cho vay giảm diện rộng.
-  - **Nhận định dòng tiền:** Giảm áp lực chi phí tài chính giúp cải thiện biên lợi nhuận, hỗ trợ thanh khoản các dự án BĐS đang mở bán. Dòng tiền đầu cơ có thể tập trung vào các mã này để "đón sóng" lãi suất.
-  - **Hành động:** Chú ý giải ngân nếu giá cổ phiếu vượt kháng cự gần nhất với thanh khoản gia tăng.
-- **Mã:** SSI, TCB
-  - **Động lực (FA):** Lãi suất thấp kích cầu dịch vụ tài chính và tín dụng.
-  - **Nhận định dòng tiền:** TCB có khả năng giữ biên NIM tốt nhờ lợi thế chi phí vốn, SSI hưởng lợi trực tiếp từ thanh khoản thị trường tăng.
-  - **Hành động:** Tiếp tục quan sát kịch bản dòng tiền duy trì trên vùng hỗ trợ hiện tại.
-- **Mã:** GMD, HAH
-  - **Động lực (FA):** Giá xăng dầu giảm.
-  - **Nhận định dòng tiền:** Giảm chi phí đầu vào cải thiện biên lợi nhuận gộp trong ngắn hạn. Tuy nhiên, rủi ro thuế tạo sự bất định.
-  - **Hành động:** Tiếp tục quan sát, ưu tiên chốt lời từng phần nếu giá tiến sát vùng mục tiêu ngắn hạn.
+- Mã: **GMD, HAH**
+- Động lực (FA): Giá nhiên liệu giảm mạnh trực tiếp cải thiện biên lợi nhuận gộp trong các báo cáo tài chính sắp tới.
+- Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ luân chuyển sang nhóm này khi chi phí vận hành hạ nhiệt, giảm áp lực lên biên lợi nhuận trong môi trường cạnh tranh cước phí cao.
+- Hành động: Chú ý giải ngân (tăng tỷ trọng) nếu dòng tiền duy trì mức thanh khoản ổn định trên các vùng nền hỗ trợ.
+
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới giảm gây áp lực tâm lý lên đơn giá dịch vụ khoan và động lực đầu tư thăm dò.
+- Nhận định dòng tiền: Rủi ro áp lực bán gia tăng từ khối nhà đầu tư theo trường phái năng lượng.
+- Hành động: Rủi ro vi phạm kịch bản, cần theo dõi chặt chẽ vùng hỗ trợ cứng, hạn chế bắt đáy khi chưa có tín hiệu phục hồi từ giá dầu.

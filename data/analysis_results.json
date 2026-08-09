@@ -1,5 +1,65 @@
 ﻿[
   {
+    "Title": "Một doanh nghiệp sắp trả 3.000 đồng/cp, lịch sử cổ tức tiền mặt “đều như vắt tranh” - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzRhejRkUDFjejNwR3hEd1pXM215Y0Nlc1RqUHJXMkVVMWVSUE04TjhoRG1QM04zVkVfVmdlb2luS0MwMU9OWjhBU1p6OHZ2UWh4ZE9wLXROc094anZiSVk4OUhCX0wtRVo5Nk53SDV4TlBuSnlOOFBuVU1OOTUzLWVTckdZZEZiTU1UYlFXb0RTRGJiZmJqZTl4SVdwSHFBNlYtdWpRZmtaWUM3TTlIRU56Z3hmLWs2eEhF?oc=5",
+    "PubDate": "Sun, 09 Aug 2026 10:51:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức không nêu đích danh mã cổ phiếu cụ thể, chỉ mang tính chất thông tin chung về chính sách cổ tức của một doanh nghiệp chưa xác định, không tác động đến thị trường chung.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã cụ thể. Tin tức thiếu thông tin định danh doanh nghiệp, không tạo ra biến động dòng tiền trên thị trường. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 18:19:37"
+  },
+  {
+    "Title": "Giá vàng hôm nay 21/6/2026 đà giảm, vàng miếng SJC hụt hơi trước mốc 150 triệu đồng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-21-6-2026-da-giam-vang-mieng-sjc-hut-hoi-truoc-moc-150-trieu-2527782.html",
+    "PubDate": "Tue, 21 Jul 2026 11:02:39 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng miếng SJC chủ yếu chịu sự điều tiết của NHNN và nhu cầu tích trữ cá nhân, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Giá vàng biến động không tác động đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 18:19:27"
+  },
+  {
+    "Title": "Giá xăng dầu hôm nay 21/6: Thế giới và trong nước cùng trải qua tuần giảm mạnh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-21-6-the-gioi-va-trong-nuoc-cung-trai-qua-tuan-giam-manh-2527839.html",
+    "PubDate": "Sun, 21 Jun 2026 07:50:55 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Giá xăng dầu giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm hỗ trợ chi phí vận tải nhưng gây áp lực lên nhóm thượng nguồn. Tác động phân hóa, cần theo dõi biên lợi nhuận thực tế thay vì kỳ vọng ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí vận hành giảm giúp cải thiện biên lợi nhuận cho doanh nghiệp khai thác cảng và logistics."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá nhiên liệu là chi phí biến đổi lớn nhất, giảm giá dầu trực tiếp làm tăng lợi nhuận vận tải biển."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu giảm gây áp lực lên giá bán khí và biên lợi nhuận của doanh nghiệp thượng nguồn."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu thế giới giảm làm giảm động lực đầu tư thăm dò khai thác, ảnh hưởng đến đơn giá dịch vụ khoan."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 18:19:06"
+  },
+  {
     "Title": "TMP: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 12 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3FUZlBnUVZ0dmMzenBBNHBxdVNuX3lzUkpwNWU3RmwzTEdxeWE2SWVfdVpTTFBYMEtTNWh2aXlNdVIxMVVfVzNOcG9GdzVwWEoyeU1MVmxzN3A0NVM4cnpneHVXNzYydUhQQTd6VG5uaXlCYVpMbjM4WTlCMnMydzdwZUJYcElZSWtZVjhHTWlkZW56ZWU3RFdOQk9WelhZY09B?oc=5",
@@ -16837,50 +16897,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 14:13:43"
-  },
-  {
-    "Title": "Dệt mạng lưới nông hộ, tạo chuỗi giá trị xuất khẩu Robusta khép kín",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/det-mang-luoi-nong-ho-tao-chuoi-gia-tri-xuat-khau-robusta-khep-kin-100260731163749578.htm",
-    "PubDate": "8/1/2026 9:55:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc xây dựng chuỗi giá trị khép kín giúp các doanh nghiệp xuất khẩu cà phê tối ưu hóa chi phí đầu vào, kiểm soát chất lượng và gia tăng biên lợi nhuận trong bối cảnh giá Robusta thế giới biến động.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất định hướng phát triển nông nghiệp bền vững, thiếu thông tin định lượng về tác động tài chính ngắn hạn. Chưa có tín hiệu dòng tiền cụ thể cho nhóm nông nghiệp.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 14:13:28"
-  },
-  {
-    "Title": "Giá gas tăng từ ngày 1-8",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/gia-gas-tang-tu-ngay-1-8-100260801095306793.htm",
-    "PubDate": "8/1/2026 10:21:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Giá gas bán lẻ tăng giúp cải thiện biên lợi nhuận cho các doanh nghiệp phân phối và kinh doanh khí đốt trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá gas tăng theo giá thế giới, biên lợi nhuận phân phối không tăng tương ứng do chi phí đầu vào tăng. Tác động biên lợi nhuận thấp. Theo dõi GAS.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp đầu ngành khí, hưởng lợi trực tiếp từ việc điều chỉnh giá bán lẻ tăng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 14:13:14"
-  },
-  {
-    "Title": "Kinh tế đêm tại Đồng Tháp: Sa Đéc, Mỹ Tho lên lộ trình thức giấc",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/kinh-te-dem-tai-dong-thap-sa-dec-my-tho-len-lo-trinh-thuc-giac-100260731220838567.htm",
-    "PubDate": "8/1/2026 10:27:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc phát triển kinh tế đêm tại địa phương có tác động tích cực đến du lịch và dịch vụ địa phương, tuy nhiên quy mô nhỏ và chưa ảnh hưởng trực tiếp đến các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Du lịch/Dịch vụ. Quy mô kinh tế đêm tại Sa Đéc, Mỹ Tho quá nhỏ để tạo sóng dòng tiền cho các mã vốn hóa lớn. Tác động không đáng kể.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 14:13:05"
   }
 ]
