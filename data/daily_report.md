@@ -1,25 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:45
+⏱ Thời gian: 16:30 - 09/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động tiếp tục giảm:** -> [Tích cực] -> Dòng tiền kỳ vọng dịch chuyển sang kênh chứng khoán; nhóm Tài chính - Ngân hàng (đặc biệt là VCB) được hưởng lợi nhờ tối ưu chi phí vốn (COF).
-- **Chuẩn hóa quy tắc thương mại với Mỹ:** -> [Tích cực] -> Nhóm Xuất khẩu (TNG, VHC) được củng cố vị thế dài hạn nhờ giảm rủi ro phòng vệ thương mại.
-- **Đẩy mạnh hạ tầng giao thông/năng lượng:** -> [Tích cực] -> Nhóm Bất động sản và Hạ tầng (VHM, VIC) hưởng lợi từ dự án EPC đường sắt; nhóm Xây lắp điện hưởng lợi từ quy hoạch điện gió.
+- **Ngân hàng hạ lãi suất (Cả huy động & cho vay):** Xu hướng chi phí vốn (COF) giảm mạnh kết hợp với nới lỏng lãi suất cho vay -> [Tích cực] -> Dòng tiền ưu tiên nhóm Bất động sản (VHM, PDR), Chứng khoán (SSI) nhờ kỳ vọng tăng trưởng tín dụng và margin, đồng thời hỗ trợ biên lãi ròng (NIM) khối ngân hàng (TCB, VCB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCB**
-  - Động lực (FA): Lãi suất huy động giảm sâu, tối ưu biên lãi thuần (NIM).
-  - Nhận định dòng tiền: Dòng tiền có xu hướng tìm đến các mã có nền tảng cơ bản tốt, an toàn trong môi trường lãi suất thấp.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh.
-- **Mã: VHM, VIC**
-  - Động lực (FA): Trúng thầu dự án EPC hạ tầng trọng điểm, mở rộng hệ sinh thái.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ và dài hạn sẽ tập trung mạnh vào câu chuyện "tổng thầu hạ tầng".
-  - Hành động: Theo dõi sát lực cầu tại vùng cản cứng.
-- **Mã: PNJ**
-  - Động lực (FA): Hoàn tất minh bạch hóa thông tin sau thanh tra, loại bỏ rủi ro pháp lý.
-  - Nhận định dòng tiền: Rủi ro tâm lý đã được gỡ bỏ, kỳ vọng dòng tiền quay lại củng cố đà hồi phục.
-  - Hành động: Tiếp tục nắm giữ.
-- **Mã: MWG, FRT**
-  - Động lực (FA): Biên lợi nhuận gộp chịu áp lực do cuộc đua giảm giá iPhone.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ thận trọng với nhóm bán lẻ công nghệ trong giai đoạn biên lợi nhuận bị bào mòn.
-  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát thêm vùng hỗ trợ.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu thế giới có xu hướng đi lên, trong khi chi phí trong nước duy trì ổn định.
+    - Nhận định dòng tiền: Hỗ trợ tích cực cho biên lợi nhuận mảng thượng nguồn, tạo lực đẩy cho dòng tiền đầu cơ nhóm dầu khí.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- **Mã: VHM**
+    - Động lực (FA): Hợp lưu từ việc hưởng lợi giảm lãi suất cho vay và thông tin trúng thầu dự án hạ tầng EPC đường sắt đô thị.
+    - Nhận định dòng tiền: Dòng tiền lớn kỳ vọng sẽ phản ứng tích cực với thông tin mở rộng hệ sinh thái và cải thiện biên lợi nhuận dự án.
+    - Hành động: Chú ý giải ngân, ưu tiên các nhịp rung lắc.
+- **Mã: MWG / FRT**
+    - Động lực (FA): Áp lực giảm giá iPhone kỷ lục do cầu yếu và cạnh tranh gay gắt.
+    - Nhận định dòng tiền: Rủi ro biên lợi nhuận bị thu hẹp khiến dòng tiền thận trọng, khả năng điều chỉnh ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực đỡ tại vùng hỗ trợ cứng.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+    - Nhận định: Giá dầu thế giới tăng tạo áp lực lên giá vốn hàng bán của nhà máy lọc dầu. Trong bối cảnh hiện tại (Tháng 6/2026), cần theo dõi sát chỉ số *Crack Spread* (chênh lệch giá dầu thô và sản phẩm đầu ra). Nếu biên lợi nhuận lọc dầu thu hẹp, đây là thời điểm phù hợp để cơ cấu tỷ trọng, dịch chuyển sang các nhóm ngành có dư địa tăng trưởng doanh thu tốt hơn từ chính sách hạ lãi suất.
