@@ -1,5 +1,55 @@
 ﻿[
   {
+    "Title": "Đầu tư công nghệ chế biến phế phẩm nông nghiệp thành xăng sinh học",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/dau-tu-cong-nghe-che-bien-phe-pham-nong-nghiep-thanh-xang-sinh-hoc-2527137.html",
+    "PubDate": "Thu, 18 Jun 2026 18:19:45 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc phát triển công nghệ xăng sinh học từ phế phẩm nông nghiệp giúp tối ưu hóa chuỗi giá trị cho các doanh nghiệp nông nghiệp và năng lượng, thúc đẩy kinh tế tuần hoàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng công nghệ dài hạn, chưa có tác động trực tiếp đến dòng tiền hoặc biên lợi nhuận doanh nghiệp trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 02:57:52"
+  },
+  {
+    "Title": "Doanh nghiệp phản ánh: Cùng một hồ sơ, mỗi địa phương xử lý một kiểu",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/doanh-nghiep-phan-anh-cung-mot-ho-so-moi-dia-phuong-xu-ly-mot-kieu-2527012.html",
+    "PubDate": "Thu, 18 Jun 2026 18:25:25 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -1,
+    "MarketImpact": "Sự thiếu đồng bộ trong thủ tục hành chính gây khó khăn cho tiến độ triển khai dự án của các doanh nghiệp bất động sản và hạ tầng, làm chậm tiến độ ghi nhận doanh thu.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS. Thủ tục hành chính thiếu đồng bộ gây tắc nghẽn dự án, làm chậm tiến độ ghi nhận doanh thu. Dòng tiền thận trọng với các mã có quỹ đất lớn đang vướng pháp lý.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 02:57:37"
+  },
+  {
+    "Title": "Giá xăng dầu giảm sâu từ đỉnh lịch sử, Bộ Công Thương nêu lý do",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-giam-sau-tu-dinh-lich-su-bo-cong-thuong-neu-ly-do-2527097.html",
+    "PubDate": "Tue, 21 Jul 2026 10:58:45 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Giá nhiên liệu giảm giúp giảm chi phí vận hành cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời giảm áp lực lạm phát chi phí đẩy trong nền kinh tế.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Vận tải. Chi phí nhiên liệu giảm trực tiếp cải thiện biên lợi nhuận gộp. Dòng tiền tập trung vào các doanh nghiệp có tỷ trọng chi phí xăng dầu cao như HAH, GMD.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận tải, cải thiện biên lợi nhuận gộp."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu là biến phí lớn nhất; giá dầu giảm giúp tối ưu hóa lợi nhuận vận tải biển."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 02:57:22"
+  },
+  {
     "Title": "Một “đại gia” Việt bán điều hòa, máy lạnh kiếm 330 tỷ đồng mỗi ngày tháng 7 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUtuWHNrYUpEalVXeGN6SlB2T0MyU3pOTGxMVDBuWk9tNkRMY2UwX1pKUl9RUEJKOWxPTkRYTm5WQnZHMkJjcDB6amF3UklYWXVwM0lnYU1vX3M4RVkxamp6ckxkVnRTUkRnM2FhcGJPRVh6anVORnpoZE4wajRxNnFHSHNRS0hpUGg1WlJrRDhuZmdHZmZwQXplV0Zlb25PUHlVZk5LREV6bkFUQnkzNkln?oc=5",
@@ -16944,44 +16994,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 22:33:54"
-  },
-  {
-    "Title": "Bamboo Airways bất ngờ không hiển thị chuyến bay nào từ tháng 8",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/bamboo-airways-bat-ngo-khong-hien-thi-chuyen-bay-nao-tu-thang-8-2541255.html",
-    "PubDate": "Sat, 01 Aug 2026 22:19:40 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Sự thu hẹp thị phần của Bamboo Airways tạo dư địa tăng trưởng thị phần và giá vé cho các hãng hàng không niêm yết còn lại trên thị trường.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Ngành Hàng không. Sự bất ổn của Bamboo Airways gây tâm lý tiêu cực lên nhóm ngành, rủi ro nợ xấu dây chuyền và áp lực quản trị rủi ro hệ thống hàng không.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 22:33:39"
-  },
-  {
-    "Title": "TDM: Thông báo giao dịch quyền mua cổ phiếu của tổ chức có liên quan của Người nội bộ Công ty Cổ phần Chứng khoán Vietcap - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMTBhS3hHUW5nX09pSUhyZmpUdEhhMGZ4T2hlOVdDUWt2Z3RIM242RVh1OVhpdDQyS3BRT3RMUTlpd3o1dTVPUXlxRG5FSl9tYmdpV3U2YWI4a1JQT2NudkQtWnF4bjhKS19xY2RjT0ZMTUcxMXZ4T3FaaFllLVFtZGJ0SHBOWEQ2WE1UTXZ3a0hMMExvaGhCR3ZET1ZmY09yYW1KY2I5bWtROEFZRE9adm5zYkhMX2pUZ01FZHZ4dUs0NlctQzUteldQUjRwdHpyOEVhXzIzbzNMbkdQa1RUMjVITXNHY2N6MVJrQng4cGpONmU1cC1BZTB1RURKX3V4QmlQd0xjQm1SZG5s?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 10:43:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin giao dịch quyền mua của tổ chức liên quan đến người nội bộ, mang tính chất quản trị và thay đổi sở hữu nội bộ, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - TDM. Giao dịch quyền mua của tổ chức liên quan là hoạt động quản trị thông thường, không tạo ra biến động dòng tiền đột biến trên thị trường. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 21:21:17"
-  },
-  {
-    "Title": "VND: Báo cáo tình hình Quản trị công ty 6 tháng đầu năm 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlcyXzhxNFAtMFdwb0ZHQVF1WnNVVE5TY2xaVFJvX0dSWWtSempMRXNwcWhPTFlaazlEZ0JaVkxVVEZmVVVrYWIyYThNM0pNZVVyeU1vQ1RMeTcwR0lnbXNvWDRCekx1TUJDVTNxZEdYU3JocDVjWkxSMVQ2RnRibEQ2RVNpbW9DS25ENGUtVDBjSkhEMGw2RjRUOWhOaHYtNTc3R2FhVTAwc1ViVS1sbXhpNFFHbTEzSm80?oc=5",
-    "PubDate": "Fri, 31 Jul 2026 07:16:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là báo cáo định kỳ theo quy định công bố thông tin, không chứa đựng các thay đổi trọng yếu về chiến lược kinh doanh hay tài chính của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Chứng khoán. Báo cáo quản trị định kỳ là thủ tục hành chính, không tác động đến dòng tiền hay xu hướng giá của VND.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 21:21:07"
   }
 ]
