@@ -1,17 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:52:30 (2026-08-09)
+⏱ Thời gian: 19:40
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá xăng dầu trong nước và thế giới giảm mạnh -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào nhóm Logistics & Vận tải biển (GMD, HAH)].
-- Giá vàng giảm sâu và có xu hướng chững lại -> [Đánh giá: Tích cực] -> [Dòng tiền kỳ vọng dịch chuyển từ kênh trú ẩn sang thị trường chứng khoán, giảm áp lực tỷ giá].
+- EVN đề nghị làm rõ hiệu quả điện mặt trời kết hợp lưu trữ (BESS) -> [Đánh giá tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm: Xây lắp điện, thiết bị năng lượng tái tạo (nhóm ngành hạ tầng điện)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GMD, HAH**
-- Động lực (FA): Chi phí nhiên liệu (chi phí biến đổi lớn nhất) giảm sâu giúp trực tiếp cải thiện biên lợi nhuận gộp trong ngắn hạn.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ phản ứng tích cực với nhóm vận tải nhờ hưởng lợi trực tiếp từ chi phí đầu vào.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá; quan sát rủi ro chính sách thuế xăng dầu làm biến động giá trong các kỳ điều chỉnh tiếp theo.
+- Mã: PC1
+- Động lực (FA): Hưởng lợi trực tiếp từ chủ trương đẩy mạnh hạ tầng điện và giải pháp lưu trữ năng lượng (BESS) mà EVN đang thúc đẩy nghiên cứu.
+- Nhận định dòng tiền: Tin tức bổ trợ cho kỳ vọng tăng trưởng dài hạn, củng cố đà tích lũy của dòng tiền vào nhóm cổ phiếu năng lượng.
+- Hành động: Chú ý giải ngân nếu có nhịp rung lắc về vùng hỗ trợ kỹ thuật.
 
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới giảm mạnh.
-- Nhận định dòng tiền: Tác động tiêu cực trực tiếp đến tâm lý nhà đầu tư đối với nhóm dịch vụ thượng nguồn, giảm động lực thăm dò khai thác.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát áp lực bán ngắn hạn.
+- Mã: PVD
+- Động lực (FA): Giá dầu thế giới và trong nước ghi nhận tuần giảm mạnh.
+- Nhận định dòng tiền: Áp lực tiêu cực lên biên lợi nhuận và triển vọng giá dịch vụ khoan của PVD trong ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản; ưu tiên hạ tỷ trọng hoặc quan sát chặt chẽ ngưỡng hỗ trợ cứng.
