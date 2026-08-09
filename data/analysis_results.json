@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Tiền gửi không kỳ hạn sụt mạnh, 'ông vua CASA' cũng hụt hơi",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/tien-gui-khong-ky-han-giam-manh-ong-vua-casa-cung-hut-hoi-2543068.html",
+    "PubDate": "Mon, 10 Aug 2026 06:15:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Sự sụt giảm CASA làm tăng chi phí vốn (COF) của các ngân hàng, gây áp lực trực tiếp lên biên lãi thuần (NIM) trong bối cảnh thanh khoản hệ thống có dấu hiệu biến động.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. CASA sụt giảm làm tăng chi phí vốn (COF), gây áp lực lên NIM. Dòng tiền sẽ thận trọng với các ngân hàng phụ thuộc lớn vào CASA như TCB, MBB.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Là ngân hàng dẫn đầu về CASA, sự sụt giảm tỷ lệ này ảnh hưởng trực tiếp đến lợi thế chi phí vốn thấp."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ trọng CASA cao là trụ cột lợi nhuận, việc hụt hơi CASA gây áp lực lên biên lãi thuần quý tới."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 06:21:41"
+  },
+  {
     "Title": "Giảm 30% thuế cho hộ kinh doanh, DN: Cần nâng ngưỡng doanh thu lên 50 tỷ đồng",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/giam-30-thue-cho-ho-kinh-doanh-dn-can-nang-nguong-doanh-thu-len-50-ty-dong-2543260.html",
@@ -16990,18 +17014,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-01 23:36:45"
-  },
-  {
-    "Title": "FUEDCMID: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 27/07/2026 - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWdmaEdFVnlpNTFMY2VxWldJdHllbUszNm9YYjFIUG9BYVNXUV9MYm1GR2RmRlh3d3NyR3NJaFUzeldaZV81ZTUzZHZERjAxNnBGUzdNRG0yRFB5UDA4cWpOajM2VkNnME1oWVhjb2pJdFIxZ3hGSkFobGJLNXJLWC1KaHFEUUNJUTZ4YW11Ulg3SDh5eWhkUW4zZXJWRnJ2S2lWa0NmTHFfMmN3WGx5M056enlPR3NXbGc?oc=5",
-    "PubDate": "Mon, 27 Jul 2026 02:11:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về hoạt động kinh doanh hay triển vọng lợi nhuận của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới hay thay đổi xu hướng giá của các cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 23:36:35"
   }
 ]
