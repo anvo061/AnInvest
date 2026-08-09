@@ -1,16 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:30
+⏱ Thời gian: 18:52:30 (2026-08-09)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá xăng dầu trong nước và thế giới ghi nhận tuần giảm mạnh -> [Đánh giá tác động: Tích cực] -> [Dòng tiền ngắn hạn ưu tiên nhóm ngành Vận tải, Logistics, và Hàng hải nhờ cắt giảm chi phí biến đổi].
+- Giá xăng dầu trong nước và thế giới giảm mạnh -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào nhóm Logistics & Vận tải biển (GMD, HAH)].
+- Giá vàng giảm sâu và có xu hướng chững lại -> [Đánh giá: Tích cực] -> [Dòng tiền kỳ vọng dịch chuyển từ kênh trú ẩn sang thị trường chứng khoán, giảm áp lực tỷ giá].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **GMD, HAH**
-- Động lực (FA): Giá nhiên liệu giảm mạnh trực tiếp cải thiện biên lợi nhuận gộp trong các báo cáo tài chính sắp tới.
-- Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ luân chuyển sang nhóm này khi chi phí vận hành hạ nhiệt, giảm áp lực lên biên lợi nhuận trong môi trường cạnh tranh cước phí cao.
-- Hành động: Chú ý giải ngân (tăng tỷ trọng) nếu dòng tiền duy trì mức thanh khoản ổn định trên các vùng nền hỗ trợ.
+- Động lực (FA): Chi phí nhiên liệu (chi phí biến đổi lớn nhất) giảm sâu giúp trực tiếp cải thiện biên lợi nhuận gộp trong ngắn hạn.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ phản ứng tích cực với nhóm vận tải nhờ hưởng lợi trực tiếp từ chi phí đầu vào.
+- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá; quan sát rủi ro chính sách thuế xăng dầu làm biến động giá trong các kỳ điều chỉnh tiếp theo.
 
 - Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới giảm gây áp lực tâm lý lên đơn giá dịch vụ khoan và động lực đầu tư thăm dò.
-- Nhận định dòng tiền: Rủi ro áp lực bán gia tăng từ khối nhà đầu tư theo trường phái năng lượng.
-- Hành động: Rủi ro vi phạm kịch bản, cần theo dõi chặt chẽ vùng hỗ trợ cứng, hạn chế bắt đáy khi chưa có tín hiệu phục hồi từ giá dầu.
+- Động lực (FA): Giá dầu thế giới giảm mạnh.
+- Nhận định dòng tiền: Tác động tiêu cực trực tiếp đến tâm lý nhà đầu tư đối với nhóm dịch vụ thượng nguồn, giảm động lực thăm dò khai thác.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát áp lực bán ngắn hạn.
