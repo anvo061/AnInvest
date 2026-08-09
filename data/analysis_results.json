@@ -1,5 +1,67 @@
 ﻿[
   {
+    "Title": "Fed khó tăng lãi suất vào tháng 9 - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jWGRzbE9OclRRRU5WeVpLdVh1ZmhqNjY0WWR3RVdRc1ZSQ3JBZFl1TFhRUVhGRTN0cmR1aE1WU2hQNFhmNVFXcnBlY1pORUxzZlpvWE9JOXZ3MW95dmszZHMyZVFmcnh5OWxSd1I3bElHRHZobzJKcnVtbGg0QQ?oc=5",
+    "PubDate": "Sun, 09 Aug 2026 10:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc Fed dừng tăng lãi suất giúp giảm áp lực tỷ giá lên VND, tạo dư địa cho NHNN duy trì chính sách tiền tệ nới lỏng, hỗ trợ thanh khoản thị trường chứng khoán và nhóm cổ phiếu nhạy cảm với lãi suất.",
+    "TapeReaderNote": "Tín hiệu: Trung lập/Tích cực. Fed dừng tăng lãi suất giảm áp lực tỷ giá, hỗ trợ tâm lý thị trường. Cần thận trọng với các mã có đòn bẩy cao trong bối cảnh thanh khoản thực tế chưa cải thiện rõ rệt.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãi suất ổn định thúc đẩy thanh khoản thị trường và doanh thu từ mảng margin của các công ty chứng khoán."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ kỳ vọng thanh khoản thị trường tăng lên khi áp lực vĩ mô từ Fed được giải tỏa."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 01:06:27"
+  },
+  {
+    "Title": "Nắng nóng, nên mua quạt điều hòa hay sắm điều hòa cho gia đình?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/nang-nong-nen-mua-quat-dieu-hoa-hay-sam-dieu-hoa-cho-gia-dinh-2527063.html",
+    "PubDate": "Fri, 19 Jun 2026 08:18:50 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Thời tiết nắng nóng gay gắt thúc đẩy nhu cầu tiêu thụ thiết bị điện lạnh, gia dụng, giúp cải thiện doanh thu bán lẻ trong quý cao điểm.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Nhu cầu mùa vụ là yếu tố định kỳ, không tạo đột biến biên lợi nhuận. Tác động dòng tiền lên MWG, FRT không đáng kể trong bối cảnh thị trường hiện tại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chuỗi Điện Máy Xanh hưởng lợi trực tiếp từ nhu cầu mua sắm điều hòa, quạt điện tăng cao trong mùa nóng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 01:06:08"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 19/6/2026: Nhà băng lớn giảm lãi suất huy động",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngah-hang-hom-nay-19-6-2026-nha-bang-lon-giam-lai-suat-huy-dong-2527237.html",
+    "PubDate": "Tue, 21 Jul 2026 11:03:05 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc giảm lãi suất huy động giúp các ngân hàng tối ưu hóa chi phí vốn (COF), đồng thời tạo dư địa giảm lãi suất cho vay, hỗ trợ thanh khoản cho thị trường chứng khoán và các doanh nghiệp sử dụng đòn bẩy cao.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng và Tài chính. Giảm lãi suất huy động cải thiện NIM ngân hàng và giảm chi phí vốn doanh nghiệp. Dòng tiền ưu tiên nhóm Ngân hàng có CASA cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm lãi suất huy động giúp tối ưu hóa chi phí vốn, bảo vệ biên lãi ròng (NIM)."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 01:05:52"
+  },
+  {
     "Title": "Vì sao lãi suất cuối năm dự báo khó giảm? - cafef.vn",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdk9BRlJSOXI1OXRtdURRZUVzZHVUY29YSlFDd2Y4NWxtd0VwdWR5NnRLUUEzN2c0M0hvVnY3WWhicjducFVkSVRnOTAzM3I3ZDB3TnN4R3NWMUZLRzJaYXlRdlV5b3VrdlZIa2xaaFMxQ251OVR4aXhLTUYxR0w0NDYtejByeHM?oc=5",
@@ -16921,50 +16983,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 19:53:10"
-  },
-  {
-    "Title": "DHC: Thông báo về việc niêm yết và giao dịch chứng khoán thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUdoajE0TWRGVkVYNGtYcGQ1d0RWcmRKTzl5TEZWSllYekhsbE5fMGVRRmJ6ZmNqZXFsUGpfbk1yamF3ekpaVkczdHZnUEJVRDF5SGllUnVnVTZfdUlKdGZ1SEtuNFlWX3R0b3haUFJSZjYwSEJDTWFSRmNRd3ZmdmZYdVp4TkM1bHJrYWRpTlViT1BGeTAtcmRkOXd4UVNMR3hnUjR4Y0NWdU5rWW9TUEc4UmU?oc=5",
-    "PubDate": "Wed, 29 Jul 2026 03:07:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về thay đổi số lượng cổ phiếu niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - DHC. Thay đổi số lượng cổ phiếu niêm yết là thủ tục hành chính thông thường. Không tạo ra biến động dòng tiền đáng kể cho nhà đầu tư.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 19:53:00"
-  },
-  {
-    "Title": "TVB: Thông báo giao dịch cổ phiếu của tổ chức có liên quan của người nội bộ CTCP Tập đoàn Quản lý tài sản T-corp (kèm Nghị quyết) - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTjNmZ2VRMUtYWlI2ajM3QjZOaHZKVDdlZGFFWmZSbW9pS2sxN0dyRFJVdjI1SjY4Rm1HUU9nZHdKOTJKRmdjQzIzaGV3alFDQ0xLVkJISHVwdmtFRExDTWd5VUFtTUJxREtNVlBrOUJMWVl4eXRqNnVIX1BxT2QxMjU0WEh6TWtmUXVaOHN3Yjd0QjhiQ19VR1JvQ24zVVlBTGhNWlVRQXZKejNFX25tbnpyTUpDeUZpMXdPQm5IYk05QkI1YXB6Y3AzTEZfQnZxb0luWXhRSnlnVURXVHBQcXJaQmpyNUJMaDZITWtWTC1MZEJwNFp3cFk5YkJ4NC1OenVLYjJYdDBkWF9YYklOVzhGSQ?oc=5",
-    "PubDate": "Fri, 31 Jul 2026 01:53:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin giao dịch cổ phiếu của tổ chức liên quan là hoạt động quản trị doanh nghiệp thông thường, không tác động trực tiếp đến kết quả kinh doanh hay giá trị nội tại của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - TVB. Giao dịch nội bộ là thông tin hành chính, không làm thay đổi xu hướng dòng tiền hay triển vọng lợi nhuận của doanh nghiệp. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 19:52:51"
-  },
-  {
-    "Title": "Hai con trai Chủ tịch Nam Long mua tổng cộng 2 triệu cổ phiếu NLG - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTdPNlBfSFZTTl9GQzlqVS1TMHl3VzZScDN0Q1pTM0pYaTFWX1dDQnpRbFpXSlk5QkdvTjdmSUxCUFA3dW9Ma2F5V1BaNXhfZ2hZQzdLRlNOUGY0dG9lUXMtRENpRnhZcExEMFFtQTg1QmVIZ3ZWNWxGWUp5d1gzR24zNThPSHowaXlQN1BYVUlTLUtWSDVmYXkzSWttR1Y4eXg1Q2owYUk?oc=5",
-    "PubDate": "Sat, 01 Aug 2026 04:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc người nội bộ và người liên quan mua vào cổ phiếu thể hiện niềm tin vào triển vọng doanh nghiệp, giúp củng cố tâm lý nhà đầu tư cá nhân và hỗ trợ giá cổ phiếu trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - NLG. Giao dịch nội bộ cho thấy sự tự tin vào định giá hiện tại. Dòng tiền thông minh sẽ phản ứng tích cực, tạo lực đỡ kỹ thuật cho NLG tại các vùng hỗ trợ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "NLG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giao dịch mua vào từ người liên quan Chủ tịch tạo tín hiệu tích cực về niềm tin nội bộ, hỗ trợ tâm lý thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 19:52:36"
   }
 ]
