@@ -1,5 +1,97 @@
 ﻿[
   {
+    "Title": "TTCP chuyển Bộ Công an thông tin 7 cá nhân giao dịch vàng khoảng 2.084 tỷ đồng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGg2T2xaZVVEOVZseldvdDNVOVlvSEZJbkI0RkdhenRWWUhVLXBvV25DLTRhRTlqUnJUQlEyQzRZdURRLXE5UkVFb0t6VzJEYzQ5V19xVm9PeU1xSGk0b3cxY2pKT1NuaXl1Rkw4MVg5VnN3dC1rUzZLbHg0bUFtYlhvZXRsVjc2ZmgxWFhEdG5xWjdPakFnNGNaQXM5ZzhWNXdPRzVHVnNHX3RFV2pIdGxsWEhNdmI4?oc=5",
+    "PubDate": "Sun, 09 Aug 2026 10:15:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về hoạt động điều tra cá nhân, không tác động trực tiếp đến hoạt động kinh doanh, biên lợi nhuận hay cấu trúc tài chính của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là tin tức điều tra cá nhân, không tác động đến dòng tiền doanh nghiệp hay thị trường chung. Không có mã cổ phiếu nào bị ảnh hưởng trực tiếp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 21:06:15"
+  },
+  {
+    "Title": "Lãi suất huy động leo thang, ngân hàng chịu sức ép kép - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmVuY1UyQjQxWnRLVkxjbXJrWmd0ZVZNUDM2dXdaVWxaa0VsUTBVNkJYVDBmSTFoZFBtQVpmX1lYOHdYeXhHRDI4eEJvaTVXNUp2MnEyeGhwcnU3Zi12MDNWYUdtc0EwbUNITVVYc1g3THc2UU5famZsQ2xIRmtKVVJsaThFcURuOUwxdmh5T0gtMW9SQ1VDNA?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 09:10:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Lãi suất huy động tăng làm thu hẹp biên lãi thuần (NIM) của các ngân hàng thương mại, đồng thời gây áp lực lên chi phí vốn của các doanh nghiệp vay nợ lớn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực NIM nhóm ngân hàng và chi phí tài chính doanh nghiệp BĐS đòn bẩy cao. Dòng tiền sẽ rút khỏi các mã có tỷ lệ nợ vay lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí huy động tăng ảnh hưởng trực tiếp đến biên lợi nhuận của ngân hàng có tỷ trọng cho vay BĐS lớn."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lãi suất tăng làm tăng chi phí tài chính và giảm khả năng tiếp cận vốn của doanh nghiệp BĐS."
+      },
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực lãi vay tăng cao gây khó khăn cho việc tái cấu trúc nợ và dòng tiền của doanh nghiệp."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí huy động đầu vào tăng gây áp lực lên biên lợi nhuận chung của ngân hàng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 21:06:01"
+  },
+  {
+    "Title": "Aeon bất ngờ sang tay chuỗi 30 siêu thị, chấp nhận mất 'mỏ vàng' - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzNKUW9MdlBLR3JfdU1XZzUya2J3bmZwNnNzb3Nsa3lrT3VYT2RjZFNObUtFUUxVa0h5MWwwdy1ENnpGdUdXLUtXak0zc0NxYUo3Um93bkZLeXlULXA2bm9xLUFmTU40ZmhpdkwyWm95Vi11Uk5Jci04UVVILXIwRldrYjNqQUtVeWF6NG5yLTMzZHpVNXhoRVNnVTdIMHRFRzJ3?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 12:04:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc Aeon thoái vốn chuỗi siêu thị tạo cơ hội M&A cho các nhà bán lẻ nội địa muốn mở rộng nhanh thị phần và hệ thống phân phối tại các vị trí đắc địa.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tái cấu trúc danh mục của khối ngoại. Chưa có bằng chứng xác thực về thương vụ M&A cụ thể. Cần thận trọng với suy diễn dòng tiền vào MSN, MWG.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 21:05:45"
+  },
+  {
+    "Title": "‘Đế chế’ kim cương đang sụp đổ, chỉ phân khúc nhỏ còn trụ vững",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/de-che-kim-cuong-dang-sup-do-chi-phan-khuc-nho-con-tru-vung-2527437.html",
+    "PubDate": "Sat, 20 Jun 2026 09:02:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Sự suy giảm của thị trường kim cương tự nhiên toàn cầu ảnh hưởng trực tiếp đến biên lợi nhuận và nhu cầu tiêu thụ trang sức cao cấp tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Bán lẻ. Xu hướng kim cương tự nhiên suy yếu là rủi ro dài hạn, nhưng PNJ có biên lợi nhuận linh hoạt từ vàng và trang sức phổ thông. Chưa tác động tức thời đến dòng tiền.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mảng trang sức cao cấp và kim cương chiếm tỷ trọng lợi nhuận quan trọng, chịu rủi ro giảm cầu và áp lực tồn kho."
+      }
+    ],
+    "AnalyzedAt": "2026-08-09 21:05:30"
+  },
+  {
+    "Title": "Khi người tiêu dùng trở thành ‘tuyến phòng thủ’ trên không gian số",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/khi-nguoi-tieu-dung-tro-thanh-tuyen-phong-thu-tren-khong-gian-so-2527642.html",
+    "PubDate": "Sat, 20 Jun 2026 10:15:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất tuyên truyền, giáo dục nhận thức về an ninh mạng cho người dùng, không có tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp công nghệ niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Công nghệ. Tin tức mang tính giáo dục cộng đồng, không tạo ra thay đổi về doanh thu hay dòng tiền cho các doanh nghiệp an ninh mạng. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-09 21:05:19"
+  },
+  {
     "Title": "Ký hợp đồng chia sản phẩm dầu khí và hợp đồng mua bán khí mỏ Sư Tử Trắng",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/ky-hop-dong-chia-san-pham-dau-khi-va-hop-dong-mua-ban-khi-mo-su-tu-trang-2528013.html",
@@ -16819,82 +16911,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-01 17:55:06"
-  },
-  {
-    "Title": "Giá vàng hôm nay 23/7/2026: Điều lạ lùng xuất hiện, SJC lao dốc 7 triệu/lượng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-23-7-2026-the-gioi-tang-du-doi-sjc-co-co-hoi-but-pha-manh-2538222.html",
-    "PubDate": "Thu, 23 Jul 2026 09:58:29 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá vàng SJC chủ yếu do chính sách quản lý thị trường vàng của NHNN, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vàng. Biến động giá vàng SJC là vấn đề quản lý vĩ mô, không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Không có tác động đến thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 17:54:55"
-  },
-  {
-    "Title": "Hơn 170 nghìn viên đá của SJC giá 6.000 đồng ngang chiếc kẹo : Hiểu thế nào cho đúng?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/170-876-vien-da-quy-cua-sjc-duoc-ghi-nhan-hon-1-ty-dong-hieu-the-nao-cho-dung-2538493.html",
-    "PubDate": "Fri, 24 Jul 2026 10:09:54 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin giải trình về hạch toán kế toán tài sản tồn kho của doanh nghiệp, không làm thay đổi bản chất hoạt động kinh doanh hay dòng tiền cốt lõi của SJC.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây chỉ là vấn đề hạch toán kế toán nội bộ, không tác động đến biên lợi nhuận hay dòng tiền của doanh nghiệp. Không có tín hiệu giao dịch.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 17:54:46"
-  },
-  {
-    "Title": "Tổng giám đốc Hoá chất Đức Giang vừa bị khởi tố là ai?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tong-giam-doc-hoa-chat-duc-giang-vua-bi-khoi-to-la-ai-2538483.html",
-    "PubDate": "Fri, 24 Jul 2026 07:20:00 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -8,
-    "MarketImpact": "Việc nhân sự cấp cao bị khởi tố gây rủi ro quản trị doanh nghiệp, ảnh hưởng tiêu cực đến tâm lý nhà đầu tư và khả năng điều hành của DGC trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - DGC. Rủi ro pháp lý nhân sự cấp cao gây hoảng loạn tâm lý. Dòng tiền thông minh sẽ thoát vị thế để tránh rủi ro bất định. Cần quan sát áp lực bán tháo.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DGC",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Rủi ro pháp lý liên quan đến nhân sự điều hành cấp cao gây bất ổn tâm lý nhà đầu tư và gián đoạn quản trị."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 17:54:32"
-  },
-  {
-    "Title": "Eximbank có tổng giám đốc mới",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/eximbank-co-tong-giam-doc-moi-5104133.html",
-    "PubDate": "Sat, 01 Aug 2026 17:09:14 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ bình thường, không tác động trực tiếp đến biên lợi nhuận hay chiến lược kinh doanh cốt lõi của ngân hàng trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ, không tạo ra biến động dòng tiền đột biến. Nhà đầu tư nên quan sát chiến lược mới thay vì phản ứng giá.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-01 17:54:23"
-  },
-  {
-    "Title": "NLG: Nghị quyết HĐQT về bảo lãnh cho khoản vay của Công ty TNHH MTV Đầu tư Xây dựng Phát triển Nam Khang - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZFE1NElBb3lTd3FIdldvRjVxaURpdEJRUzl2bV8zWVRhR094MzNOQmgyUUNWbUZLSms5c2lDbFMxV0FFdFhodlRBV2t0cnhSLWlURkJOOFRrRUNDd2h1ZW5VNEJScnFIZnF3SVhUODAwTlByczA3Mk9wR0ZRVGN0Ny1sa0VlZWdpZmRCT0FCTFpxQ2Q3Qi1YSmdZWUx2bVd6Z25GdFRTTXVZWUYtYVByRDI2NFpzRGh1VnNhUEhtOHE0OXdySlNOU0FNLUctWVBYRERRRUFWUjRNdHppSnpEUjl1aFQySnJ4ak5YVDJiSjVBU2lqQ1E?oc=5",
-    "PubDate": "Fri, 31 Jul 2026 11:35:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc bảo lãnh khoản vay cho công ty con là hoạt động tài chính thông thường để huy động vốn phục vụ dự án, không gây đột biến về mặt kinh doanh nhưng thể hiện sự hỗ trợ thanh khoản nội bộ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Đây là hoạt động huy động vốn thông thường cho dự án. Không tạo sóng dòng tiền đầu cơ, nhà đầu tư cần theo dõi tiến độ giải ngân dự án của NLG.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "NLG",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Hoạt động bảo lãnh vay vốn phục vụ dự án là nghiệp vụ tài chính bình thường, không tác động mạnh đến giá cổ phiếu trong ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-01 16:20:23"
   }
 ]

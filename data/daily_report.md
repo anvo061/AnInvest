@@ -1,16 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:45
+⏱ Thời gian: 21:06:15 (Ngày 2026-08-09)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Ký hợp đồng khai thác mỏ Sư Tử Trắng: Đảm bảo nguồn cung khí dài hạn và công việc cho chuỗi giá trị thượng nguồn dầu khí -> [Tích cực] -> Dòng tiền sẽ ưu tiên nhóm Dầu khí (GAS, PVS).
+- Lãi suất huy động trên hệ thống ngân hàng có dấu hiệu leo thang -> Đánh giá: Tiêu cực -> Dòng tiền sẽ chịu áp lực rút ròng hoặc phân hóa mạnh, gây sức ép lên nhóm Ngân hàng (NIM bị thu hẹp) và Bất động sản (tăng chi phí tài chính).
+- Ký kết hợp đồng khai thác mỏ Sư Tử Trắng -> Đánh giá: Tích cực -> Dòng tiền hướng vào nhóm Dầu khí (Thượng nguồn & Hạ nguồn).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: GAS
-- Động lực (FA): Ký hợp đồng mua bán khí mỏ Sư Tử Trắng giúp ổn định đầu vào và dòng doanh thu dài hạn.
-- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp cho giá trị nội tại, giảm bớt áp lực từ việc giá dầu giảm trong ngắn hạn. Dòng tiền có khả năng giữ nhịp tích cực.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật.
+- **Mã: TCB, MBB**
+  - Động lực (FA): Lãi suất huy động tăng gây sức ép lên chi phí vốn.
+  - Nhận định dòng tiền: Ngắn hạn sẽ gặp áp lực chốt lời hoặc điều chỉnh do lo ngại biên lãi thuần (NIM) bị co hẹp.
+  - Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật, tránh bắt đáy khi dòng tiền đang rút ra.
 
-- Mã: PVS
-- Động lực (FA): Hưởng lợi từ khối lượng công việc xây lắp/kỹ thuật dầu khí phát sinh từ việc triển khai mỏ mới.
-- Nhận định dòng tiền: Tác động tích cực đến kỳ vọng backlog, khả năng thu hút dòng tiền đầu cơ nhóm dầu khí.
-- Hành động: Tiếp tục quan sát để tìm điểm vào theo xu hướng.
+- **Mã: GAS, PVS**
+  - Động lực (FA): Đảm bảo nguồn cung khí dài hạn từ mỏ Sư Tử Trắng.
+  - Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng giá, củng cố đà tăng dựa trên nền tảng doanh thu dự kiến trong tương lai.
+  - Hành động: Chú ý giải ngân nếu có nhịp test cung thành công trong phiên.
+
+- **Mã: PNJ**
+  - Động lực (FA): Thị trường kim cương tự nhiên toàn cầu suy giảm.
+  - Nhận định dòng tiền: Áp lực tâm lý lên nhà đầu tư về kỳ vọng lợi nhuận mảng cao cấp.
+  - Hành động: Tiếp tục quan sát phản ứng giá tại vùng hỗ trợ gần nhất, rủi ro vi phạm kịch bản tăng trưởng nếu cầu tiêu dùng không hồi phục.
+
+- **Mã: VHM, NVL**
+  - Động lực (FA): Chi phí vốn tăng cao do lãi suất leo thang.
+  - Nhận định dòng tiền: Bất lợi cho cấu trúc nợ, dòng tiền thông minh có xu hướng né tránh hoặc giảm tỷ trọng.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế vị thế mới.
