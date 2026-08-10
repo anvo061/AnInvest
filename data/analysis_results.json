@@ -1,5 +1,167 @@
 ﻿[
   {
+    "Title": "FUESSVFL: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUVZUVJsWUQzX1VtVy1SYVlyZEVDYmEwUDdYNDU2RndSdUdBNExUUWR1MnNCa3ZJalVJMG5CTE1QYl8yUzFXY2RxNG5WNzZDeEYwbFdPcGpSNlVLbTFyMDdEalBEUFZQemVXTHJidWNuajVYXzQxN3lWQkYyWTRKMGdnSU92T1FLbjAtVVZxd0lJQk11UlFCLWNwRVIyYnA2ODF3NC1rYk4xc2JEbk9pa2xIR0c3QQ?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:29:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay triển vọng lợi nhuận của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ vận hành quỹ ETF thông thường, không tác động đến cung cầu hay dòng tiền của các mã cổ phiếu thành phần trong danh mục.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 18:42:21"
+  },
+  {
+    "Title": "FUEVN50G: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd05pV21icUsxOVN0ckdMb0pGN0tTWmFFU0VORWZEVmRVcEt1a29HTlJXbm42RDR6TDlMLTBoNlRDNzlrSGF0a0RCRnRqaldKOWZfN3B6S0lSam9LQkk0bUJPX21Cc0dGSEZHSGRhY2pFT2RybDlpeFRYczVmTFNmVW80YmxNRjVKbndicVB5b3JqZXMwUGtNeE1yNi1IX1lSV1Q4MnpPOHNBb1JvVDF6RDl5bXpiQQ?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:27:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô, không tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra tín hiệu dòng tiền hay thay đổi cung cầu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 18:42:11"
+  },
+  {
+    "Title": "PTD: Quyết định đưa ra khỏi diện bị cảnh báo và Thông báo về tình trạng chứng khoán của cổ phiếu PTD - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2NmR1lJcUZMM0p5eDJibExNSFRQOG50cEZDWWZOcnF2NDF3OUNZTnQ4UnRHQWR2aHYzbzdUem1FTlI4TUNPRXV3TnpoMnNybHU4V2xzV3RkdlAwczZKa0s0WmJaV1JUMmlPMnRRWE9EdnpSVTVoYmc2TTNkY3ZTdGthSjZDa2tfSE1WTHRRWkFMQmUtWWV3ckNKbHk5SXA5V0ZTdkJuLVNSREF3UVZqTGRGT1J5cjNZeW5ya1AwQkFCaURva3RLejNjVWQxY2YzNkdZUjg0dm1hWTVwS1QtcFVCNldNMzF0MzRlNjNzUDQ?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 10:15:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc đưa cổ phiếu ra khỏi diện cảnh báo giúp cải thiện tâm lý nhà đầu tư và khả năng giao dịch ký quỹ (margin) của cổ phiếu, hỗ trợ thanh khoản ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. PTD thoát cảnh báo giúp khôi phục margin, nhưng không thay đổi nội tại doanh nghiệp. Chỉ thu hút dòng tiền đầu cơ ngắn hạn, rủi ro thanh khoản vẫn cao.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PTD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cải thiện trạng thái giao dịch, giảm rủi ro bị hạn chế margin, thu hút dòng tiền đầu cơ trở lại."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 18:41:54"
+  },
+  {
+    "Title": "TP.HCM đề xuất cơ chế đột phá cho vật liệu xây dựng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tphcm-de-xuat-co-che-dot-pha-cho-vat-lieu-xay-dung-100260810173007209.htm",
+    "PubDate": "8/10/2026 6:15:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc tháo gỡ nút thắt về vật liệu xây dựng tại TP.HCM sẽ đẩy nhanh tiến độ các dự án hạ tầng và bất động sản trọng điểm, giúp các doanh nghiệp xây dựng và cung ứng vật liệu tăng tốc doanh thu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính hành chính, chưa có văn bản pháp lý cụ thể. Tác động thực tế lên biên lợi nhuận doanh nghiệp cần thời gian kiểm chứng. Theo dõi sát dòng tiền tại các mã đầu ngành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ việc đẩy nhanh tiến độ các dự án hạ tầng giao thông trọng điểm tại khu vực phía Nam."
+      },
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Năng lực thi công hạ tầng lớn, hưởng lợi từ cơ chế tháo gỡ vật liệu giúp tối ưu hóa chi phí và thời gian."
+      },
+      {
+        "Ticker": "KSB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhà cung cấp đá xây dựng chủ lực tại các dự án hạ tầng trọng điểm khu vực TP.HCM và lân cận."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 18:41:36"
+  },
+  {
+    "Title": "GPBank đưa ra giải pháp vay mua nhà, giảm áp lực trả nợ cho người trẻ",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/gpbank-dua-ra-giai-phap-vay-mua-nha-giam-ap-luc-tra-no-cho-nguoi-tre-10026081017104143.htm",
+    "PubDate": "8/10/2026 6:23:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc các ngân hàng nhỏ đẩy mạnh gói vay ưu đãi cho người trẻ giúp kích cầu thanh khoản phân khúc căn hộ bình dân và trung cấp, hỗ trợ các chủ đầu tư giải phóng hàng tồn kho.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. GPBank là ngân hàng quy mô nhỏ, gói vay không đủ sức lan tỏa dòng tiền toàn ngành. Tác động thực tế lên thanh khoản NLG, DXG là không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 18:41:20"
+  },
+  {
+    "Title": "TPBank trình làng ‘chuyên gia ngân hàng số’ T’AioX",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/tpbank-trinh-lang-chuyen-gia-ngan-hang-so-t-aiox-2543831.html",
+    "PubDate": "Mon, 10 Aug 2026 13:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc ứng dụng AI vào dịch vụ ngân hàng giúp tối ưu hóa chi phí vận hành và nâng cao trải nghiệm khách hàng, củng cố vị thế dẫn đầu về chuyển đổi số của TPB.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TPB. Tin tức mang tính chất PR công nghệ, chưa tác động trực tiếp đến biên lợi nhuận hay dòng tiền ngắn hạn. Cần theo dõi phản ứng giá tại vùng hỗ trợ.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "TPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nâng cao hiệu quả vận hành và trải nghiệm khách hàng thông qua AI, tạo lợi thế cạnh tranh trong mảng ngân hàng số."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 18:41:06"
+  },
+  {
+    "Title": "Heineken Việt Nam đồng hành cùng Đà Nẵng quảng bá văn hóa và ẩm thực địa phương",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/heineken-viet-nam-dong-hanh-cung-da-nang-quang-ba-van-hoa-va-am-thuc-dia-phuong-2543859.html",
+    "PubDate": "Mon, 10 Aug 2026 14:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động truyền thông, quảng bá thương hiệu và trách nhiệm xã hội (CSR) của doanh nghiệp, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Hoạt động quảng bá thương hiệu mang tính chất CSR, không tạo ra thay đổi đột biến về doanh thu hay dòng tiền cho các mã niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 18:40:56"
+  },
+  {
+    "Title": "Vietjet mở đường bay thẳng TP.HCM - Western Sydney",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vietjet-mo-duong-bay-thang-tp-hcm-western-sydney-2543944.html",
+    "PubDate": "Mon, 10 Aug 2026 16:10:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc mở rộng mạng lưới bay quốc tế giúp Vietjet tăng doanh thu từ vận tải hành khách và hàng hóa, củng cố vị thế thị phần hàng không quốc tế.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Mở đường bay mới là hoạt động vận hành thường xuyên, chưa tạo đột biến biên lợi nhuận ngay. Cần theo dõi tỷ lệ lấp đầy (load factor) thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VJC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Mở rộng mạng lưới bay quốc tế trực tiếp thúc đẩy tăng trưởng doanh thu và thị phần cho hãng hàng không."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 18:40:42"
+  },
+  {
+    "Title": "Giá USD ngân hàng giảm sâu",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-usd-ngan-hang-giam-sau-5107512.html",
+    "PubDate": "Mon, 10 Aug 2026 17:37:06 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Tỷ giá hạ nhiệt giúp giảm áp lực nợ vay ngoại tệ cho các doanh nghiệp, giảm chi phí nhập khẩu nguyên liệu và tạo dư địa cho chính sách tiền tệ nới lỏng.",
+    "TapeReaderNote": "Tỷ giá hạ nhiệt giảm áp lực chi phí tài chính và nợ vay ngoại tệ. Ưu tiên nhóm doanh nghiệp có dư nợ USD lớn hoặc chi phí nhập khẩu cao như POW, HVN.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí tài chính và lỗ tỷ giá từ các khoản vay ngoại tệ lớn cho dự án điện."
+      },
+      {
+        "Ticker": "HVN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí thuê tàu bay và chi phí vận hành bằng ngoại tệ, cải thiện đáng kể lợi nhuận ròng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 18:40:27"
+  },
+  {
     "Title": "SAL: Công văn của Ủy ban Chứng khoán Nhà nước về việc thông báo không đáp ứng điều kiện công ty đại chúng - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMjFibkluaTYzb1owM2JSTjRnNFl5aTFfRFVQMWhpTDhoem5yYWJUSklLLVBFZW9LSGdqZ2U2TkFmSmFGa0liOUQwd0o3LXFMNkdBajl6b210bnJDU0FWbDJDZjhya1M2Uk5fYldqb3pCdl9PNHlBeTFjNWpKX3owUUtRU1BETi1LdW00dnM2MUtReFo5X08wbnMzNGl4SGN2S3lwMUkwOGYxMUlld3J0RzdLLUxXNnYwcTZDOXVIb3pEWHV2VUZNNjczUzFISWxXUHB5eEtxckt2MVhWSjJNdFBQRUNiY20yRmlMMlNELUNQZy1ibnhR?oc=5",
@@ -16944,122 +17106,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-02 17:56:21"
-  },
-  {
-    "Title": "Xử nghiêm hành vi đầu cơ găm hàng xăng dầu, cửa hàng dừng bán không có lý do",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/xu-nghiem-hanh-vi-dau-co-gam-hang-xang-dau-cua-hang-dung-ban-khong-co-ly-do-100260802144511292.htm",
-    "PubDate": "8/2/2026 3:12:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là chỉ đạo quản lý hành chính nhằm ổn định thị trường bán lẻ xăng dầu, không làm thay đổi biên lợi nhuận hay mô hình kinh doanh của các doanh nghiệp đầu mối niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Chỉ đạo mang tính quản lý hành chính, không tác động đến cung cầu hay giá vốn doanh nghiệp. Dòng tiền sẽ không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 17:56:11"
-  },
-  {
-    "Title": "Sân bay Nội Bài mở luồng nhập cảnh riêng cho khách Việt, sắp xếp lại điểm đón xe từ 3-8",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/san-bay-noi-bai-mo-luong-nhap-canh-rieng-cho-khach-viet-sap-xep-lai-diem-don-xe-tu-3-8-100260802150546059.htm",
-    "PubDate": "8/2/2026 3:44:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là các thay đổi về quy trình vận hành hành chính tại sân bay nhằm cải thiện trải nghiệm khách hàng, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Hàng không. Thay đổi quy trình vận hành hành chính tại sân bay không tạo ra biến động dòng tiền hay thay đổi cơ bản về lợi nhuận doanh nghiệp. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 17:56:02"
-  },
-  {
-    "Title": "Petrovietnam thúc đẩy hợp tác với Canada trong lĩnh vực năng lượng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/petrovietnam-thuc-day-hop-tac-voi-canada-trong-linh-vuc-nang-luong-2535594.html",
-    "PubDate": "Tue, 14 Jul 2026 15:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mở rộng hợp tác quốc tế trong lĩnh vực năng lượng giúp Petrovietnam tiếp cận công nghệ và vốn, tạo tiền đề cho các dự án hạ tầng năng lượng dài hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính ngoại giao, thiếu lộ trình giải ngân cụ thể. Chưa có tác động trực tiếp đến dòng tiền ngắn hạn của nhóm dầu khí.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 17:55:47"
-  },
-  {
-    "Title": "Không để xảy ra tình trạng dừng bán xăng dầu không có lý do",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/khong-de-xay-ra-tinh-trang-dung-ban-xang-dau-khong-co-ly-do-2541387.html",
-    "PubDate": "Sun, 02 Aug 2026 17:40:15 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là chỉ đạo quản lý hành chính nhằm đảm bảo nguồn cung ổn định, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh cốt lõi của các doanh nghiệp xăng dầu niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Xăng dầu. Chỉ đạo mang tính quản lý hành chính, không thay đổi cấu trúc cung cầu hay biên lợi nhuận. Dòng tiền sẽ không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 17:55:36"
-  },
-  {
-    "Title": "E1VFVN30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 24/07/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnFpeUhmcTVYMnItcVJjdW95WVZ1ZWtOX01MNHhYUmgyOWNLaEE0TDhmR0tEYjNhQjJONktpdzBzRFl3WDdmTnZHQnFpbUQyb3R2UDFVNWVua0lHaFBELTNGUEFTSW1kdmZudHBET1FEYjlwaUQ3N1JPZl8wTFdOQ29sZGtFS0V2UVV5MGJCT3FoZkFnSUlxOFNpVnExV0otaDdUQ1hfWG1rRXBaZDRLS0FSYmVBcmFTSkE?oc=5",
-    "PubDate": "Fri, 24 Jul 2026 02:12:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục hoán đổi của quỹ ETF, không phản ánh thay đổi chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 16:23:39"
-  },
-  {
-    "Title": "C21: Báo cáo quản trị công ty bán niên 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmRPZENhTEtUZElHMmdSaWpqTHZrNFNITnhJVkRTejRHT0RpNElqNlh2b1Zoc2RVeTJ3NEI3TmptWnBPT0ZSWFVwVlN4cnMxWF85QnNsLVl5a2dsdEtqWEEtMi12SXczRUdEVGpfZG9lNjNBUGpZN3M2X2dqcU0zWk1nWUptNXAzd3VybUVzUnlvTzR2bE54MTN3cVNnSXpoSkgxSg?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 08:41:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin công bố định kỳ theo quy định quản trị công ty, không chứa đựng các thay đổi trọng yếu về hoạt động kinh doanh hay tài chính của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Đây là báo cáo hành chính định kỳ, không làm thay đổi cấu trúc dòng tiền hay kỳ vọng lợi nhuận của doanh nghiệp.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 16:23:30"
-  },
-  {
-    "Title": "Góc nhìn chuyên gia: Chưa đủ cơ sở thể khẳng định VN-Index đang ở đầu sóng lớn, tận dụng nhịp hồi để cơ cấu danh mục - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb2JyZ2tFSG9LaEhVSENFcFJKNnVwMEV2d0QyQUxmeEIwLXN2V1dZMjB3ajVQVGt5cXZZNVdzZ0ROV0xaYS1ZUExxZ0loMXFCR2FmdF8xVHJxYjIyU3NrX2V3dVNUOFFucWItaWE2TUMtdlV4V1FqUjJHWVlOck9Tb3Q1MmZFb3NrRE5kLUdjcnNtX1p6UFZIRWp1clN2WmZpXzd5cHRpYk1DNWJuNWNKdDdtaGVLS3lfanBVSHEtZ2JBWmZpdHY3U2NBTDI5ZF9WaHF2Skt6X2Z6M2dXMmQwS1NOM0c1YUNxUEE?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 07:56:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là nhận định mang tính quan điểm cá nhân về xu hướng thị trường chung, không chứa thông tin thay đổi nội tại doanh nghiệp hay chính sách vĩ mô cụ thể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Nhận định mang tính quan điểm, không tác động trực tiếp đến dòng tiền. Nhà đầu tư nên tập trung vào sức mạnh giá của từng cổ phiếu riêng lẻ thay vì dự báo chỉ số.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 16:23:20"
-  },
-  {
-    "Title": "Sâm Ngọc Linh 'tốt nhất thế giới' không thể mãi bán củ, mà phải tìm đường ra nước ngoài",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/sam-ngoc-linh-tot-nhat-the-gioi-khong-the-mai-ban-cu-ma-phai-tim-duong-ra-nuoc-ngoai-100260802130742408.htm",
-    "PubDate": "8/2/2026 1:36:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin mang tính định hướng chiến lược phát triển nông nghiệp và dược liệu, chưa có tác động trực tiếp đến doanh thu hoặc biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dược phẩm/Nông nghiệp. Đây là định hướng chiến lược dài hạn, chưa tạo ra dòng tiền đột biến cho các doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 16:23:10"
-  },
-  {
-    "Title": "Cần Thơ đề xuất 5 lĩnh vực hợp tác với thành phố Sán Đầu",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/can-tho-de-xuat-5-linh-vuc-hop-tac-voi-thanh-pho-san-dau-100260802121756868.htm",
-    "PubDate": "8/2/2026 1:58:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về hợp tác ngoại giao và xúc tiến thương mại cấp địa phương, chưa có lộ trình cụ thể hay dự án đầu tư trực tiếp tác động đến kết quả kinh doanh của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có nhóm ngành hưởng lợi trực tiếp. Tin tức mang tính chất ngoại giao, chưa có tác động cụ thể đến dòng tiền doanh nghiệp. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 16:23:01"
   }
 ]
