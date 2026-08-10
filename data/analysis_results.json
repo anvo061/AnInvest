@@ -1,5 +1,92 @@
 ﻿[
   {
+    "Title": "Cổ phiếu vốn nhà nước tiếp tục 'dậy sóng', VN-Index tăng gần 9 điểm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/co-phieu-von-nha-nuoc-tiep-tuc-day-song-vn-index-tang-gan-9-diem-100260810152552587.htm",
+    "PubDate": "8/10/2026 4:05:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Sự quan tâm trở lại đối với các doanh nghiệp có vốn nhà nước chi phối tạo động lực tăng điểm cho chỉ số chung, phản ánh kỳ vọng về thoái vốn hoặc cải thiện hiệu quả quản trị.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Dòng tiền lan tỏa theo sóng chỉ số, mang tính chất đầu cơ ngắn hạn theo tin tức. Thiếu động lực cơ bản cụ thể. Cần thận trọng với các mã vốn hóa lớn đang neo cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu dẫn dắt nhóm vốn nhà nước, hưởng lợi từ dòng tiền khối ngoại và sự ổn định của hệ thống ngân hàng."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp đầu ngành năng lượng với vốn nhà nước chi phối, hưởng lợi từ xu hướng tăng giá cổ phiếu vốn nhà nước."
+      },
+      {
+        "Ticker": "VNM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu phòng thủ có vốn nhà nước, thu hút dòng tiền nhờ cổ tức đều đặn và kỳ vọng cải thiện hiệu quả kinh doanh."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 16:46:04"
+  },
+  {
+    "Title": "Ông Hồ Quang Cua nói gì về việc gạo ST25 bán trong siêu thị?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ong-ho-quang-cua-noi-gi-ve-viec-gao-st25-ban-trong-sieu-thi-100260810143020266.htm",
+    "PubDate": "8/10/2026 4:10:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính chất giải đáp thắc mắc về thương hiệu và phân phối sản phẩm, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Đây là thông tin thương hiệu cá nhân, không thay đổi cấu trúc doanh thu hay dòng tiền của các mã ngành gạo niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 16:45:53"
+  },
+  {
+    "Title": "Sau nhiều năm đìu hiu, biển Thịnh Long trở lại thời hoàng kim",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/sau-nhieu-nam-diu-hiu-bien-thinh-long-tro-lai-thoi-hoang-kim-2514301.html",
+    "PubDate": "Thu, 18 Jun 2026 05:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về sự phục hồi du lịch tại một địa phương cụ thể không có tác động trọng yếu đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã hưởng lợi. Tin tức mang tính chất địa phương, không tạo ra sự thay đổi đáng kể trong dòng tiền của các doanh nghiệp niêm yết lớn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 16:45:43"
+  },
+  {
+    "Title": "TPBank ra mắt chuyên gia ngân hàng số T'AioX",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/tpbank-ra-mat-chuyen-gia-ngan-hang-so-t-aiox-5107411.html",
+    "PubDate": "Mon, 10 Aug 2026 16:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc ra mắt công cụ AI hỗ trợ khách hàng là bước đi chiến lược trong chuyển đổi số, giúp tối ưu hóa chi phí vận hành nhưng không tạo ra đột biến doanh thu ngay lập tức.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Đây là hoạt động nâng cấp dịch vụ thường niên, không tác động trực tiếp đến biên lợi nhuận hay dòng tiền ngắn hạn của TPB.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "TPB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Nâng cấp công nghệ giúp cải thiện trải nghiệm khách hàng nhưng chưa đủ yếu tố để thay đổi xu hướng dòng tiền ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 16:45:34"
+  },
+  {
+    "Title": "Trạm sạc xe điện dự kiến phải công khai đơn giá",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/tram-sac-xe-dien-du-kien-phai-cong-khai-don-gia-5107438.html",
+    "PubDate": "Mon, 10 Aug 2026 15:28:21 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc công khai đơn giá là quy định quản lý hành chính, giúp minh bạch hóa thị trường nhưng không tác động trực tiếp đến biên lợi nhuận hay doanh thu của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng/Hạ tầng. Quy định minh bạch giá là bước hoàn thiện pháp lý, không tạo ra biến động dòng tiền đột biến cho các mã liên quan.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 16:45:25"
+  },
+  {
     "Title": "Record low gas stocks expose Europe to risk of price spikes - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG1wdFRFMFBsYmRrS3NqZjhZSjdmcm93UXZyVXpsTlNRVG90Y0R5elJPTXBDbHVlaHBFQUlKRmc3Rlc1a3g3dExyQndEd0xMUG5fSGVwVUxMSU94LXZzVHVELW8yaEpCY2c2T2E5bi0wc3I0Y19mVThhX1FWYWxnMkk5QmhLTXNSZ0NKdUFqNzJDaTFzQ3hCN1RVMGlZNXVBanBsOEFCZ3E?oc=5",
@@ -17024,92 +17111,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-02 11:37:08"
-  },
-  {
-    "Title": "9 ngân hàng nào lãi trên 10.000 tỉ đồng, đóng thuế bao nhiêu?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/9-ngan-hang-nao-lai-tren-10000-ti-dong-dong-thue-bao-nhieu-10026080208043615.htm",
-    "PubDate": "8/2/2026 9:06:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Kết quả kinh doanh khả quan khẳng định sức khỏe tài chính của nhóm ngân hàng đầu ngành, củng cố niềm tin nhà đầu tư và kỳ vọng vào tăng trưởng lợi nhuận bền vững.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính thống kê lịch sử, không tạo động lực tăng giá mới. Dòng tiền đã phản ánh vào giá, cần quan sát thêm về tăng trưởng tín dụng thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 11:36:53"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 15/7/2026: Gửi 1 tháng chạm trần, muốn cao hơn làm cách này",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-15-7-2026-gui-1-thang-linh-lai-suat-tran-2535841.html",
-    "PubDate": "Wed, 15 Jul 2026 14:27:10 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về biến động lãi suất huy động cá nhân tại các ngân hàng thương mại, không phản ánh thay đổi chính sách tiền tệ vĩ mô hay lãi suất điều hành của NHNN.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Thông tin lãi suất huy động lẻ không tác động đến biên lãi ròng (NIM) hay dòng tiền lớn. Không có tín hiệu giao dịch cho nhóm cổ phiếu ngân hàng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 11:36:41"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 2/8: Thế giới có tuần giảm mạnh, trong nước tăng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-2-8-the-gioi-co-tuan-giam-manh-trong-nuoc-tang-2541267.html",
-    "PubDate": "Sun, 02 Aug 2026 08:36:51 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Giá xăng trong nước tăng gây áp lực lên chi phí vận tải và logistics, ảnh hưởng biên lợi nhuận các doanh nghiệp sản xuất và vận tải, đồng thời tạo áp lực lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá xăng tăng gây áp lực chi phí vận tải nhưng bù đắp bởi biên lợi nhuận bán lẻ. Dòng tiền phân hóa giữa nhóm vận tải và phân phối xăng dầu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vận hành tăng cao do giá nhiên liệu, gây áp lực lên biên lợi nhuận gộp."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí xăng dầu chiếm tỷ trọng lớn trong giá vốn vận tải biển, ảnh hưởng trực tiếp đến lợi nhuận."
-      },
-      {
-        "Ticker": "PLX",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ việc tăng giá bán lẻ xăng dầu trong nước, cải thiện biên lợi nhuận kinh doanh xăng dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-02 11:36:27"
-  },
-  {
-    "Title": "Petrolimex thu hơn 5 tỷ USD một quý",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/petrolimex-thu-hon-5-ty-usd-mot-quy-5104262.html",
-    "PubDate": "Sun, 02 Aug 2026 10:53:17 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Doanh thu lớn khẳng định vị thế dẫn đầu và khả năng duy trì dòng tiền ổn định của PLX trong bối cảnh biến động giá dầu, củng cố niềm tin nhà đầu tư vào cổ phiếu trụ cột ngành xăng dầu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - PLX. Doanh thu lớn nhưng biên lợi nhuận ngành xăng dầu mỏng và chịu áp lực từ chi phí đầu vào. Cần theo dõi thêm biến động giá dầu thế giới.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PLX",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh thu quy mô lớn khẳng định hiệu quả vận hành và khả năng chiếm lĩnh thị phần, hỗ trợ tâm lý tích cực cho cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-02 11:36:11"
-  },
-  {
-    "Title": "Phân cấp thẩm quyền kiểm tra chuyên ngành lĩnh vực hải quan, kế toán, kiểm toán, chứng khoán, bảo hiểm - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFJRdldRcGxack5XWUwxWVR2dmNCeGZveWtkUUd2czFfUkwxcG1ORHEtNkdrZkFVbzE1Znk5eW56UU1qVHBmMWc4RUV1YmxlMGNhbm1LbFZBYWNOTHByS05Od2NNNFl3M1pQeVJXY3d3OWVDMXlUZGItWnA5S19BQnlQMWVrSTgzZ1VsNTUtNEZxSnZ2ZFl4WHR0d3JmNEQ3dllCQkp6andDWVBVVmlaTzRtNmVPNG84SDVuUXJFTUlaMjhXeXlOTkNrenhJT3VZc2swVw?oc=5",
-    "PubDate": "Tue, 28 Jul 2026 02:34:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là các quy định về thủ tục hành chính và phân cấp quản lý nhà nước, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Tài chính. Đây là thay đổi về thủ tục hành chính, không tác động đến dòng tiền hay hoạt động kinh doanh của các định chế tài chính. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 08:13:21"
   }
 ]

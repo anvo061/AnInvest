@@ -1,25 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:03:23 - 10/08/2026
+⏱ Thời gian: 16:46 - 10/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá khí đốt châu Âu tăng mạnh do rủi ro thiếu hụt nguồn cung -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Dầu khí (Thượng nguồn và Vận tải khí/LNG)**.
-- Áp lực dự phòng nợ xấu tăng cao tại khối Ngân hàng (VPB, STB) -> **Tiêu cực** -> Tạo rủi ro điều chỉnh cho nhóm ngành Tài chính - Ngân hàng.
-- Huy động vốn quốc tế thành công của TCBS (công ty con TCB) -> **Tích cực** -> Củng cố nội lực cho hệ sinh thái Techcombank.
+- **Giá khí đốt thế giới tăng cao (rủi ro thiếu hụt tại châu Âu) & Xu hướng tăng giá dầu:** -> Tác động: **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm **Năng lượng/Dầu khí thượng nguồn** (PVD, PVS, GAS).
+- **Sự quan tâm trở lại với cổ phiếu vốn nhà nước:** -> Tác động: **Tích cực** -> Dòng tiền lan tỏa vào nhóm **Bluechip vốn nhà nước** (VCB, GAS, VNM) do kỳ vọng thoái vốn và quản trị hiệu quả.
+- **Áp lực trích lập dự phòng nợ xấu tăng tại nhóm ngân hàng:** -> Tác động: **Tiêu cực** -> Dòng tiền có thể phân hóa mạnh, gây áp lực điều chỉnh ngắn hạn tại các mã có tỷ lệ nợ xấu cao (VPB, STB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá khí đốt toàn cầu tăng và xu hướng giá dầu neo cao.
-  - Nhận định dòng tiền: Hưởng lợi kép từ biên lợi nhuận khoan và giá thuê giàn khoan.
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện dòng tiền xác nhận vượt nền giá.
-- **Mã: TCB**
-  - Động lực (FA): TCBS huy động thành công 120 triệu USD vốn quốc tế.
-  - Nhận định dòng tiền: Gia tăng vị thế cạnh tranh về vốn trong nhóm ngành chứng khoán/ngân hàng.
-  - Hành động: **Tiếp tục quan sát** để gia tăng tỷ trọng khi thị trường chung ổn định.
-- **Mã: VPB / STB**
-  - Động lực (FA): Áp lực trích lập dự phòng tín dụng gia tăng.
-  - Nhận định dòng tiền: Rủi ro bán ròng ngắn hạn do lo ngại lợi nhuận sau thuế bị bào mòn.
-  - Hành động: **Rủi ro vi phạm kịch bản** (Cần kiểm soát chặt chẽ điểm dừng lỗ).
+- **Mã:** GAS
+  - Động lực (FA): Hưởng lợi kép từ giá khí đốt toàn cầu tăng và xu hướng ưu tiên cổ phiếu vốn nhà nước.
+  - Nhận định dòng tiền: Tích cực, kỳ vọng dòng tiền thông minh tìm đến các mã đầu ngành có nền tảng ổn định và hưởng lợi vĩ mô trực tiếp.
+  - Hành động: **Chú ý giải ngân** (theo dõi điểm break nền giá gần nhất).
+
+- **Mã:** PVD
+  - Động lực (FA): Giá dầu duy trì đà tăng, thúc đẩy nhu cầu thuê giàn khoan và dịch vụ kỹ thuật.
+  - Nhận định dòng tiền: Nhạy sóng tốt, phù hợp chiến lược đánh theo xu hướng năng lượng toàn cầu.
+  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng cản kỹ thuật trước khi gia tăng tỷ trọng.
+
+- **Mã:** PVS
+  - Động lực (FA): Giá dầu tăng hỗ trợ biên lợi nhuận các dự án thượng nguồn.
+  - Nhận định dòng tiền: Tích cực, đồng pha với nhóm dầu khí.
+  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch.
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - **Mã: BSR**
-  - Nhận định: Giá dầu tăng hỗ trợ tích cực cho giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Dữ liệu vĩ mô hiện tại ủng hộ việc **Tiếp tục giữ** vị thế để tối ưu hóa lợi nhuận thay vì cơ cấu lại vào thời điểm này.
+  - Nhận định: Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Với dữ liệu hiện tại, vị thế BSR đang được hỗ trợ bởi yếu tố vĩ mô năng lượng. **Duy trì nắm giữ**, chờ tín hiệu xác nhận từ KQKD quý gần nhất để quyết định chốt lời hay tái cơ cấu danh mục cho giai đoạn tiếp theo.
