@@ -1,5 +1,61 @@
 ﻿[
   {
+    "Title": "Vietnam proposes 30% income tax cut for small firms, business households - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUpkb2V3dWd5WVJISTZ1V0hQcWVUbXpTd09vYk52RlhKZkVYN1d3QXFwYU1UWTdkQnBNc2NJUEJmbVlTZWZILVF1NFY1djdsanEzQnlUNmZ2cFlaMG04TVFMdUl0WUF5dHRRMU05TnpNeU1nSUJUdUlNLXNoVFUtaVg3OVpDQVlKaGpIME43NGZCNjVJZXNtTEd3YVMtWXZzelQ3WkNiWEY3SDhIYkg0Xy1MUUN3WWI1bVZ4Wkx3?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 04:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc giảm thuế thu nhập doanh nghiệp giúp cải thiện biên lợi nhuận ròng cho các doanh nghiệp vừa và nhỏ, kích thích tiêu dùng nội địa và hỗ trợ thanh khoản cho các đơn vị cung ứng dịch vụ, bán lẻ.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Chính sách giảm thuế hỗ trợ thanh khoản cho hộ kinh doanh và SME. Tác động trực tiếp đến sức mua tiêu dùng nội địa, ưu tiên các mã bán lẻ có độ phủ thị trường lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ sức mua cải thiện nhờ chính sách hỗ trợ thuế cho các hộ kinh doanh và doanh nghiệp nhỏ."
+      },
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sức mua tiêu dùng hồi phục giúp tăng doanh thu bán lẻ trang sức trong phân khúc khách hàng phổ thông."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 23:41:22"
+  },
+  {
+    "Title": "FUEMAV30: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0FqUFF2SFU3V0Z0QUpkZDR6S2wyZU9Cd2c0cGJWaXJxVHl3bmlpN0hLY1pYUmxEQXNVSXpGaXJXSXlkbS14a2x3dnk5Q0JYVWdRdXZHNWxqV0FGZlY4Unl4NG1lQWJGZXBfb1BzQTJqeUR5YUZZU2syQ1U2aEtNRUE0M0xXcHQ4a1E5ZlBVejZoVVRRZHdrSjJ1RV9FMDNDUDhqVnh5ZXhzUUNFX3hfdnZKdURyUQ?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:31:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các cổ phiếu thành phần trong danh mục VN30.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền mới cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-10 23:41:11"
+  },
+  {
+    "Title": "COMA 18 bị phạt 425 triệu đồng do loạt vi phạm trong lĩnh vực chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXFheWRyT2c3U1hBYnFJdEF4WFkzVTQ2VU5fdWhYWTBienhNbS1WenVkLTgxQUJWYXlWZ1dpNUswem5zd3A2YjNzNkttbXlkUTY1S1Y4aFBFNXZ2Z0tQU2lCU2xhaVpGT091UDhwZVNtdUw3ZW9QaDA3bW5fS2JUbXh4R2c3OW5COXFjWEtmNVRjUVV1TGdILTlldGtqTXp2REEyNE9JOS1HaTZEaGZGQk1Vdw?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 08:37:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc doanh nghiệp bị xử phạt hành chính về công bố thông tin gây ảnh hưởng tiêu cực đến uy tín quản trị và tâm lý nhà đầu tư đối với cổ phiếu CIG.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - CIG. Vi phạm công bố thông tin làm suy giảm niềm tin của dòng tiền nhỏ lẻ. Cổ phiếu sẽ chịu áp lực bán kỹ thuật trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "CIG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Án phạt hành chính về vi phạm chứng khoán làm giảm uy tín doanh nghiệp, gây áp lực bán tháo từ nhà đầu tư cá nhân."
+      }
+    ],
+    "AnalyzedAt": "2026-08-10 23:40:54"
+  },
+  {
     "Title": "FUEDCMID: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHJ2QVd6TGg4cFFBWnoySjZhTmpPclZVNnlLRlZDN2E0Tnp0NnR0cGtUWWFmR1MySFpRN3NGRTVHcGJMZUZqdi1udHVpUjE1dGhfMFBOM2lHY0JHeENvTlFoZFk0YnhRNTJyOVhEejdfTVRMUklTcWJod2pxRkVSWjM1ZDg1TUxwTXNURTg3alFOVENRUXBmSFJOZWNaTERKN3I2ZFNEN2l1ZHEzcUxKTzJiM0hHZw?oc=5",
@@ -17095,50 +17151,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-02 23:35:14"
-  },
-  {
-    "Title": "OCB ghi nhận tăng trưởng tích cực trên nền tảng số",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/ocb-ghi-nhan-tang-truong-tich-cuc-tren-nen-tang-so-2535113.html",
-    "PubDate": "Mon, 13 Jul 2026 09:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc tăng trưởng trên nền tảng số giúp OCB tối ưu hóa chi phí vận hành (CIR) và gia tăng thu nhập từ phí, cải thiện biên lợi nhuận trong dài hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR định kỳ, thiếu số liệu cụ thể về CIR hoặc CASA. Tác động dòng tiền không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "OCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng số hóa giúp cải thiện hiệu quả hoạt động và thu hút khách hàng mới, hỗ trợ tăng trưởng lợi nhuận bền vững."
-      }
-    ],
-    "AnalyzedAt": "2026-08-02 23:34:58"
-  },
-  {
-    "Title": "Giá vàng SJC tiếp tục bốc hơi, liệu có cú sốc mới cho vàng?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-sjc-tiep-tuc-boc-hoi-lieu-co-cu-soc-moi-cho-vang-2535402.html",
-    "PubDate": "Tue, 14 Jul 2026 08:14:41 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá vàng SJC chủ yếu chịu sự điều tiết hành chính của NHNN, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Giá vàng SJC biến động do chính sách quản lý, không tạo ra dòng tiền dịch chuyển sang các mã cổ phiếu niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 22:34:52"
-  },
-  {
-    "Title": "Bị từ chối đầu tư, chợ hàng nghìn mét vuông vẫn sừng sững mọc lên ở Thanh Hóa",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/thanh-hoa-bi-tu-choi-dau-tu-cho-hang-nghin-met-vuong-van-moc-len-trai-phep-2534368.html",
-    "PubDate": "Tue, 14 Jul 2026 06:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là tin tức về vi phạm trật tự xây dựng tại địa phương, không có tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Tin tức vi phạm hành chính tại địa phương không tác động đến dòng tiền của các doanh nghiệp niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 22:34:42"
   }
 ]
