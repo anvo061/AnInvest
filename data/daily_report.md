@@ -1,16 +1,16 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:40 ngày 11/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 06:15 - 11/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng "khát" vốn:** Áp lực thanh khoản hệ thống khiến lãi suất huy động có dấu hiệu tăng cục bộ -> **Tác động: Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút ròng hoặc phân hóa mạnh tại nhóm Ngân hàng (TCB, MBB, VPB, STB).
-- **El Niño đe dọa thủy điện:** Hiện tượng thời tiết cực đoan làm suy giảm lưu lượng nước -> **Tác động: Tiêu cực** -> Dòng tiền ngành điện cần thận trọng, đặc biệt các đơn vị phụ thuộc thủy điện (POW, REE).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tín dụng BĐS & Chi phí vốn:** Thị trường ghi nhận sự phân hóa khi tín dụng BĐS tăng trưởng (1,12 triệu tỷ đồng) nhưng toàn hệ thống ngân hàng đối mặt áp lực "khát vốn" và chi phí huy động tăng -> **Đánh giá: Trung lập (Thiên hướng thận trọng)** -> Dòng tiền sẽ phân hóa mạnh, tập trung vào nhóm Ngân hàng có lợi thế thanh khoản tốt, tránh các mã có chi phí vốn (COF) quá cao.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** TCB, MBB, VPB, STB
-  - **Động lực (FA):** Tình trạng thiếu hụt vốn toàn hệ thống ngân hàng làm tăng chi phí huy động đầu vào.
-  - **Nhận định dòng tiền:** Gia tăng rủi ro điều chỉnh giá trong ngắn hạn do lo ngại biên lãi ròng (NIM) bị thu hẹp; nhà đầu tư tổ chức có khả năng cơ cấu giảm tỷ trọng tại vùng giá hiện tại để chờ cân bằng.
-  - **Hành động:** Theo dõi sát sao kịch bản thủng hỗ trợ kỹ thuật; hạn chế giải ngân mới cho đến khi có tín hiệu hạ nhiệt lãi suất.
-- **Mã:** POW, REE
-  - **Động lực (FA):** El Niño gây hạn hán, giảm sản lượng thủy điện, buộc tăng chi phí đầu vào từ nhiệt điện.
-  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có xu hướng rút khỏi các cổ phiếu thủy điện do triển vọng lợi nhuận quý tới đối mặt rủi ro chi phí tăng cao.
-  - **Hành động:** Quan sát vùng hỗ trợ cứng; cân nhắc hạ tỷ trọng nếu dòng tiền thoát ra mạnh kèm khối lượng lớn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** HAG
+- **Động lực (FA):** Trung Quốc nhập khẩu sầu riêng khối lượng lớn nhưng Việt Nam đang mất dần lợi thế cạnh tranh về chất lượng ("loại A") vào tay Thái Lan.
+- **Nhận định dòng tiền:** Áp lực tâm lý bán tháo ngắn hạn có thể xuất hiện do rủi ro biên lợi nhuận mảng nông nghiệp xuất khẩu bị thu hẹp.
+- **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng. Theo dõi chặt chẽ vùng hỗ trợ gần nhất, cân nhắc giảm tỷ trọng nếu có tín hiệu bán chủ động mạnh.
+
+- **Mã:** TCB, VPB
+- **Động lực (FA):** Hưởng lợi từ sự phục hồi tín dụng BĐS nhưng chịu áp lực ngược chiều từ chi phí vốn tăng cao toàn hệ thống.
+- **Nhận định dòng tiền:** Dòng tiền sẽ giằng co mạnh. Khả năng cao sẽ không có sóng tăng đột biến cho đến khi NIM được xác nhận ổn định trước áp lực lãi suất huy động.
+- **Hành động:** Tiếp tục quan sát, chưa giải ngân thêm.
