@@ -1,26 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:15 - 10/08/2026
+⏱ Thời gian: 10:20 - 10/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Trung Đông đẩy giá dầu thô tăng mạnh (nguồn: Reuters)** -> **Tích cực (cho nhóm dầu khí thượng nguồn)** -> Dòng tiền sẽ tập trung vào nhóm **PVD, PVS, BSR** do hưởng lợi từ biên lợi nhuận giàn khoan và giá trị hàng tồn kho tăng.
-- **Lãi suất huy động tăng mạnh & CASA của các ngân hàng lớn sụt giảm** -> **Tiêu cực (toàn thị trường)** -> Gây áp lực giảm giá lên nhóm **Chứng khoán (SSI)** do chi phí margin tăng và nhóm **Bất động sản (VHM, PDR)** do chi phí tài chính bị bào mòn.
-- **Quy hoạch hạ tầng TP.HCM (Park 23-9, Metro kết nối)** -> **Tích cực (đầu tư công/BĐS)** -> Hưởng lợi cho **VHM, DXG, HHV**.
+- **Lãi suất huy động tăng kết hợp với nợ xấu hệ thống ngân hàng có dấu hiệu gia tăng:** -> [Tác động: Tiêu cực] -> [Dòng tiền: Thận trọng với nhóm Ngân hàng (VCB, TCB, VPB, STB, MBB, BID), ưu tiên phòng thủ].
+- **Dữ liệu việc làm Mỹ yếu làm giảm kỳ vọng lãi suất Fed:** -> [Tác động: Tích cực] -> [Dòng tiền: Hỗ trợ nhóm Chứng khoán và BĐS, giúp giảm áp lực tỷ giá].
+- **Giá dầu neo cao do bất ổn địa chính trị:** -> [Tác động: Tích cực] -> [Dòng tiền: Nhóm thượng nguồn/dịch vụ dầu khí (PVD, PVS)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS**
-  - Động lực (FA): Giá dầu tăng do rủi ro nguồn cung từ xung đột Mỹ-Iran; giá dịch vụ khoan và cho thuê giàn khoan cải thiện.
-  - Nhận định dòng tiền: Dòng tiền sẽ dịch chuyển từ các nhóm nhạy cảm với lãi suất sang nhóm năng lượng để trú ẩn và tìm kiếm lợi nhuận biên.
-  - Hành động: Chú ý giải ngân nếu nền giá không gãy MA20, ưu tiên vùng mua tích lũy.
-
-- **Mã: TCB, MBB**
-  - Động lực (FA): Dữ liệu CASA sụt giảm làm suy yếu lợi thế chi phí vốn (COF) thấp, gây áp lực lên NIM.
-  - Nhận định dòng tiền: Áp lực bán từ khối ngoại và tổ chức có khả năng gia tăng để tái cơ cấu danh mục trước rủi ro biên lợi nhuận ngân hàng.
-  - Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản nắm giữ nếu giá thủng vùng hỗ trợ tâm lý.
-
-- **Mã: VHM**
-  - Động lực (FA): Tin tích cực từ quy hoạch hạ tầng đối trọng với tin tiêu cực từ lãi suất tăng.
-  - Nhận định dòng tiền: Trạng thái giằng co mạnh. Dòng tiền sẽ phân hóa, tin hạ tầng chỉ đóng vai trò hỗ trợ ngắn hạn, không lấn át được áp lực vĩ mô lãi suất.
-  - Hành động: Tiếp tục quan sát, chờ tín hiệu dòng tiền xác nhận tại các vùng hỗ trợ cứng.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu tăng do căng thẳng tại Trung Đông và nhu cầu khoan thăm dò đẩy mạnh.
+  - Nhận định dòng tiền: Hưởng lợi kép từ giá dầu duy trì mức cao, dòng tiền có xu hướng tìm đến nhóm năng lượng để trú ẩn và tìm kiếm biên lợi nhuận.
+  - Hành động: Chú ý giải ngân nếu dòng tiền giữ vững trên hỗ trợ ngắn hạn.
+- **Mã: SSI**
+  - Động lực (FA): Hưởng lợi từ tâm lý giảm lãi suất Fed, nhưng đối mặt áp lực từ việc tăng lãi suất huy động trong nước.
+  - Nhận định dòng tiền: Phân hóa. Thanh khoản thị trường tích cực là điểm tựa, nhưng chi phí vốn tăng có thể làm giảm kỳ vọng lợi nhuận margin.
+  - Hành động: Tiếp tục quan sát phản ứng tại vùng cản tâm lý 1.780 điểm.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dữ liệu giá dầu tăng là yếu tố tích cực mạnh. Tuy nhiên, do đã đi qua điểm rơi kỳ vọng (tháng 3/2026), cần theo dõi sát phản ứng tại các vùng cản kỹ thuật. Nếu giá dầu duy trì mức cao hiện tại, có thể giữ tiếp để tối ưu hóa biên lợi nhuận kỳ cuối, nhưng cần đặt chặn lãi (trailing stop) chặt chẽ, sẵn sàng chốt lời nếu có dấu hiệu phân phối kỹ thuật.
+- **Mã: BSR**
+  - Nhận định: Dữ liệu giá dầu tăng mạnh là động lực hỗ trợ biên lợi nhuận lọc dầu. Tuy nhiên, đã quá thời điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại chỉ mang tính "cứu cánh" ngắn hạn do biến động địa chính trị. Cần quyết liệt chốt lời nếu cổ phiếu không thể bứt phá khỏi vùng cản hiện tại để đảo dòng tiền sang các nhóm ngành có triển vọng tăng trưởng bền vững hơn thay vì phụ thuộc vào giá dầu.
