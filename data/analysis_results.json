@@ -1,5 +1,65 @@
 ﻿[
   {
+    "Title": "FUEABVND: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllGSWJRQWRzSXVqMEhKQVJTNEkwTU5wT3pJV3BRTnJoYVI2TlBPY1FhbGpheFhEQmExOGdpMWExUHRsQ19IM3h2aGVqbTNMTjhnbE4yTGhkSnZraVU1b09fQXNVWF85S2N1Uk9tNjhjUjVFQnFOV2dBV1ZUdXVZdy1pUlJzLW04b21hOHE3VXJ4T0hUWUhNdEpkTTFsSmZiSnJ3d3VOMmJRTFhUcWlHck9neG1DZw?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc kết thúc giao dịch hoán đổi chứng chỉ quỹ ETF, không gây tác động trực tiếp đến hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra biến động dòng tiền mới trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 00:33:56"
+  },
+  {
+    "Title": "Xuất hiện loạt tín hiệu tích cực cho thị trường chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTUzR0ZMYk1QTjE4dFp0LWJNWktoNzg5dk9hTHlmaUY3WHlqeW5rSm9DN1ppTkQ4ZDBSTjBraEdGUy1BQ0V5WWhMX21Uai0zelp0S3FxRWgzRHBFRGkxZGRtUVNMUTM3NGNSNjNWS1I4SnR6Z0s4aWY5c0t0Yk9tWmJsRUpnUHZLeE9uVG1XUFRRdE5sWndGT3hRZ1VlV0VF?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 17:01:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức mang tính chất tổng hợp, thiếu thông tin cụ thể về chính sách hoặc dữ liệu kinh tế vĩ mô mới, không tạo ra tác động trực tiếp đến biên lợi nhuận hay dòng tiền của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Tin tức mang tính chất định hướng tâm lý chung, thiếu dữ liệu cụ thể để kích hoạt dòng tiền thông minh. Không có tác động ngắn hạn rõ rệt.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 00:33:45"
+  },
+  {
+    "Title": "Giá USD ngân hàng lao dốc",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-usd-ngan-hang-lao-doc-5107512.html",
+    "PubDate": "Mon, 10 Aug 2026 17:37:06 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Tỷ giá hạ nhiệt giúp giảm áp lực nợ vay ngoại tệ cho các doanh nghiệp, giảm chi phí nhập khẩu và hỗ trợ tâm lý khối ngoại quay lại thị trường.",
+    "TapeReaderNote": "Tỷ giá hạ nhiệt giảm áp lực chi phí tài chính cho doanh nghiệp vay nợ USD (POW, VHM) nhưng gây áp lực biên lợi nhuận nhóm xuất khẩu (VHC, TNG). Tác động phân hóa, cần theo dõi dòng tiền khối ngoại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí tài chính và lỗ tỷ giá từ các khoản vay ngoại tệ lớn."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực nợ vay bằng USD, cải thiện biên lợi nhuận ròng."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh thu xuất khẩu quy đổi sang VND giảm khi tỷ giá USD/VND hạ nhiệt."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biên lợi nhuận từ hoạt động xuất khẩu chịu áp lực giảm do tỷ giá bất lợi."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 00:33:30"
+  },
+  {
     "Title": "Vietnam proposes 30% income tax cut for small firms, business households - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUpkb2V3dWd5WVJISTZ1V0hQcWVUbXpTd09vYk52RlhKZkVYN1d3QXFwYU1UWTdkQnBNc2NJUEJmbVlTZWZILVF1NFY1djdsanEzQnlUNmZ2cFlaMG04TVFMdUl0WUF5dHRRMU05TnpNeU1nSUJUdUlNLXNoVFUtaVg3OVpDQVlKaGpIME43NGZCNjVJZXNtTEd3YVMtWXZzelQ3WkNiWEY3SDhIYkg0Xy1MUUN3WWI1bVZ4Wkx3?oc=5",
@@ -17095,61 +17155,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-02 23:36:00"
-  },
-  {
-    "Title": "Điểm đáng lưu ý về thời gian cấp mã vùng trồng sầu riêng xuất khẩu sang Trung Quốc",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/diem-dang-luu-y-ve-thoi-gian-cap-ma-vung-trong-sau-rieng-xuat-khau-sang-trung-quoc-100260724010035126.htm",
-    "PubDate": "8/2/2026 8:51:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc chuẩn hóa và đẩy nhanh tiến độ cấp mã vùng trồng giúp các doanh nghiệp xuất khẩu nông nghiệp gia tăng sản lượng chính ngạch sang thị trường Trung Quốc, cải thiện biên lợi nhuận.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Nông nghiệp. Việc chuẩn hóa mã vùng trồng giúp tăng sản lượng xuất khẩu chính ngạch. Dòng tiền tập trung vào doanh nghiệp có vùng nguyên liệu sầu riêng thực tế và giấy phép xuất khẩu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sở hữu diện tích trồng sầu riêng lớn, hưởng lợi trực tiếp từ việc tăng sản lượng xuất khẩu chính ngạch sang Trung Quốc."
-      }
-    ],
-    "AnalyzedAt": "2026-08-02 23:35:45"
-  },
-  {
-    "Title": "Muốn hút vốn Mỹ, địa phương phải chuẩn bị sẵn dự án, hạ tầng và nhân lực",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/muon-hut-von-my-dia-phuong-phai-chuan-bi-san-du-an-ha-tang-va-nhan-luc-100260802213306807.htm",
-    "PubDate": "8/2/2026 9:59:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc chuẩn bị hạ tầng và quỹ đất sẵn sàng là điều kiện tiên quyết để đón dòng vốn FDI từ Mỹ, tạo động lực tăng trưởng dài hạn cho nhóm bất động sản khu công nghiệp và xây dựng hạ tầng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chính sách chung, thiếu thông tin cụ thể về dự án hoặc dòng vốn thực tế. Tác động đến giá cổ phiếu trong ngắn hạn là không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 23:35:29"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 13/7: Dầu thế giới tăng cao, trong nước duy trì mức thấp",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-13-7-dau-the-gioi-tang-cao-trong-nuoc-duy-tri-muc-thap-2535086.html",
-    "PubDate": "Mon, 13 Jul 2026 07:44:12 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá dầu thế giới tăng tạo kỳ vọng cải thiện biên lợi nhuận cho các doanh nghiệp thượng nguồn và dịch vụ dầu khí, trong khi giá trong nước ổn định hỗ trợ chi phí đầu vào cho các ngành vận tải và sản xuất.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu thế giới tăng không đồng nghĩa với biên lợi nhuận lọc dầu (BSR) tăng do chênh lệch crack spread. Chỉ PVD, PVS hưởng lợi gián tiếp từ kỳ vọng dự án.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu thuê giàn khoan và đơn giá dịch vụ khoan, cải thiện biên lợi nhuận."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác được đẩy mạnh khi giá dầu duy trì ở mức cao."
-      }
-    ],
-    "AnalyzedAt": "2026-08-02 23:35:14"
   }
 ]

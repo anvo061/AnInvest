@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:55, 10/08/2026
+⏱ Thời gian: 00:45 (Ngày 11/08/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Đề xuất cắt giảm 30% thuế thu nhập cho doanh nghiệp nhỏ và hộ kinh doanh, kết hợp định hướng giảm lãi suất cho vay thực chất -> Tích cực -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Bán lẻ (MWG, PNJ) và nhóm Chứng khoán (SSI, VND) do hưởng lợi từ thanh khoản và tâm lý thị trường.
+- Chính phủ đẩy mạnh lộ trình giảm lãi suất cho vay thực chất và đề xuất giảm 30% thuế thu nhập cho doanh nghiệp nhỏ/hộ kinh doanh -> **Tích cực (Cải thiện biên lợi nhuận và kích cầu tiêu dùng)** -> Dòng tiền sẽ ưu tiên nhóm: **Chứng khoán (SSI, VND), Bất động sản (VHM, PDR, DXG), Bán lẻ (MWG, PNJ).**
+- Tỷ giá USD/VND hạ nhiệt -> **Tích cực (Giảm áp lực chi phí nợ vay ngoại tệ)** -> Hưởng lợi trực tiếp: **POW, VHM**. Cần lưu ý áp lực giảm biên lợi nhuận xuất khẩu đối với nhóm **VHC, TNG.**
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MWG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ chính sách hỗ trợ thuế cho hộ kinh doanh và doanh nghiệp nhỏ, thúc đẩy sức mua tiêu dùng nội địa.
-  - Nhận định dòng tiền: Dòng tiền kỳ vọng cải thiện biên lợi nhuận ròng, tạo dư địa tăng giá ngắn hạn nếu duy trì trên ngưỡng hỗ trợ kỹ thuật.
-  - Hành động: Chú ý giải ngân khi có tín hiệu dòng tiền xác nhận break nền tích lũy.
+- Mã: **VHM**
+- Động lực (FA): Hưởng lợi kép từ việc giảm lãi suất (giảm chi phí tài chính dự án) và tỷ giá hạ nhiệt (giảm áp lực nợ vay USD).
+- Nhận định dòng tiền: Kỳ vọng dòng tiền khối nội và ngoại quay lại nhóm vốn hóa lớn (Blue-chips) để tối ưu hóa bảng cân đối kế toán.
+- Hành động: **Chú ý giải ngân** tại các vùng hỗ trợ kỹ thuật, kỳ vọng sự cải thiện về biên lợi nhuận trong BCTC các quý tới.
 
-- **Mã: SSI, VND**
-  - Động lực (FA): Chính sách giảm chi phí vốn thực chất giúp giảm áp lực lãi vay và thúc đẩy margin gia tăng trong bối cảnh nhà đầu tư chuyển dịch dòng tiền vào thị trường chứng khoán.
-  - Nhận định dòng tiền: Nhóm cổ phiếu chứng khoán nhạy sóng với tin tức lãi suất, dự báo sẽ đón nhận dòng tiền đầu cơ gia tăng mạnh.
-  - Hành động: Chú ý giải ngân đón đầu xu hướng mở rộng thanh khoản thị trường.
+- Mã: **SSI, VND**
+- Động lực (FA): Lãi suất thấp là "bệ phóng" cho thanh khoản thị trường và tăng trưởng dư nợ cho vay margin.
+- Nhận định dòng tiền: Dòng tiền đầu cơ có xu hướng gia tăng mạnh mẽ khi chi phí sử dụng vốn của nhà đầu tư giảm.
+- Hành động: **Tiếp tục quan sát** khối lượng giao dịch để gia tăng vị thế khi có tín hiệu break-out khỏi nền tích lũy.
 
-- **Mã: CIG**
-  - Động lực (FA): Nhận án phạt 425 triệu đồng về vi phạm công bố thông tin.
-  - Nhận định dòng tiền: Áp lực bán tháo từ tâm lý nhà đầu tư cá nhân sẽ xuất hiện ngay đầu phiên.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
+- Mã: **CIG**
+- Động lực (FA): Bị phạt 425 triệu đồng vì vi phạm công bố thông tin.
+- Nhận định dòng tiền: Tâm lý nhà đầu tư bị tổn thương, rủi ro bán tháo trong ngắn hạn.
+- Hành động: **Rủi ro vi phạm kịch bản**; khuyến nghị thoát vị thế hoặc đứng ngoài quan sát để tránh biến động tiêu cực do rủi ro quản trị doanh nghiệp.
