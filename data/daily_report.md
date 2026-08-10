@@ -1,21 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:20 - 10/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 12:05 - 10/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động tăng kết hợp với nợ xấu hệ thống ngân hàng có dấu hiệu gia tăng:** -> [Tác động: Tiêu cực] -> [Dòng tiền: Thận trọng với nhóm Ngân hàng (VCB, TCB, VPB, STB, MBB, BID), ưu tiên phòng thủ].
-- **Dữ liệu việc làm Mỹ yếu làm giảm kỳ vọng lãi suất Fed:** -> [Tác động: Tích cực] -> [Dòng tiền: Hỗ trợ nhóm Chứng khoán và BĐS, giúp giảm áp lực tỷ giá].
-- **Giá dầu neo cao do bất ổn địa chính trị:** -> [Tác động: Tích cực] -> [Dòng tiền: Nhóm thượng nguồn/dịch vụ dầu khí (PVD, PVS)].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Bất ổn tại eo biển Hormuz & Giá dầu tăng:** Đẩy giá dầu thế giới lên cao -> **Tích cực** cho nhóm Dầu khí thượng nguồn & Dịch vụ dầu khí (PVD, PVS).
+- **Số liệu việc làm Mỹ yếu & Kỳ vọng giảm lãi suất Fed:** -> **Tích cực** cho nhóm tài chính (SSI, VCB) do áp lực tỷ giá hạ nhiệt, dù có sự xung đột nhẹ với tin tăng lãi suất huy động trong nước.
+- **Áp lực lạm phát/chi phí đầu vào:** Xuất khẩu (TNG, VHC) đối mặt rủi ro biên lợi nhuận do logistics và cầu tiêu thụ suy yếu tại phương Tây -> **Tiêu cực**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
 - **Mã: PVD**
-  - Động lực (FA): Giá dầu tăng do căng thẳng tại Trung Đông và nhu cầu khoan thăm dò đẩy mạnh.
-  - Nhận định dòng tiền: Hưởng lợi kép từ giá dầu duy trì mức cao, dòng tiền có xu hướng tìm đến nhóm năng lượng để trú ẩn và tìm kiếm biên lợi nhuận.
-  - Hành động: Chú ý giải ngân nếu dòng tiền giữ vững trên hỗ trợ ngắn hạn.
-- **Mã: SSI**
-  - Động lực (FA): Hưởng lợi từ tâm lý giảm lãi suất Fed, nhưng đối mặt áp lực từ việc tăng lãi suất huy động trong nước.
-  - Nhận định dòng tiền: Phân hóa. Thanh khoản thị trường tích cực là điểm tựa, nhưng chi phí vốn tăng có thể làm giảm kỳ vọng lợi nhuận margin.
-  - Hành động: Tiếp tục quan sát phản ứng tại vùng cản tâm lý 1.780 điểm.
+    - **Động lực (FA):** Giá dầu neo cao do bất ổn địa chính trị tại Hormuz; giá thuê giàn khoan cải thiện.
+    - **Nhận định dòng tiền:** Hưởng lợi kép từ giá dầu và tâm lý nhóm dẫn dắt dầu khí.
+    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
+- **Mã: TNG**
+    - **Động lực (FA):** Chi phí logistics tăng và nhu cầu thị trường Âu-Mỹ giảm theo báo cáo Reuters.
+    - **Nhận định dòng tiền:** Có thể chịu áp lực bán do tâm lý thận trọng với nhóm xuất khẩu.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần quan sát vùng hỗ trợ cứng trước khi quyết định gia tăng vị thế.
+- **Mã: ACV**
+    - **Động lực (FA):** Đề xuất dự án nhà ga T2 Liên Khương giúp mở rộng backlog dài hạn.
+    - **Nhận định dòng tiền:** Tích cực trong trung hạn; thu hút dòng tiền đầu tư công.
+    - **Hành động:** Tiếp tục nắm giữ.
 
-🔄 3. Cảnh báo Tái cơ cấu:
+🔄 **3. Cảnh báo Tái cơ cấu:**
 - **Mã: BSR**
-  - Nhận định: Dữ liệu giá dầu tăng mạnh là động lực hỗ trợ biên lợi nhuận lọc dầu. Tuy nhiên, đã quá thời điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại chỉ mang tính "cứu cánh" ngắn hạn do biến động địa chính trị. Cần quyết liệt chốt lời nếu cổ phiếu không thể bứt phá khỏi vùng cản hiện tại để đảo dòng tiền sang các nhóm ngành có triển vọng tăng trưởng bền vững hơn thay vì phụ thuộc vào giá dầu.
+    - **Nhận định:** Dù tin tức về giá dầu tăng đang hỗ trợ biên lợi nhuận ngắn hạn, nhưng xét theo mốc thời gian mục tiêu (tháng 6/2026 đã qua giai đoạn đầu tư trung hạn), đây là cơ hội để chốt lời chủ động khi giá dầu neo cao trước khi các rủi ro vận hành/cung cầu dài hạn phát sinh. Ưu tiên hiện thực hóa lợi nhuận.
