@@ -1,5 +1,81 @@
 ﻿[
   {
+    "Title": "Record El Niño Threatens Fragile Economies Squeezed by War - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOW1WWG5zbkNsOEI2REdqSlozOUlRRDJZVXlTal9fQTdtREx0S0otOUFTYWQ4aWRtZ053a2VGdUhoWUkzZm1OQUtrdklacjhveDJ1YTlOUHpJdG9DWXhJd3FkckQtbVNVcmJjbE9SRWZNajF4ZkJFbndDN21tT2s5Z1oxd0s3Mlg4X2l0ZDBCeU0?oc=5",
+    "PubDate": "Wed, 05 Aug 2026 01:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Hiện tượng El Niño gây hạn hán, ảnh hưởng tiêu cực đến sản lượng nông nghiệp và thủy điện, đồng thời đẩy giá thực phẩm tăng cao, gây áp lực lên lạm phát và chi phí đầu vào của các doanh nghiệp sản xuất.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. El Niño gây hạn hán, đe dọa sản lượng thủy điện và chi phí đầu vào nông nghiệp. Dòng tiền cần thận trọng với nhóm thủy điện (POW, REE) do rủi ro biên lợi nhuận thu hẹp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Hạn hán do El Niño làm giảm lưu lượng nước về hồ thủy điện, buộc phải huy động nhiệt điện với chi phí cao hơn."
+      },
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mảng thủy điện chiếm tỷ trọng lớn trong danh mục đầu tư, chịu ảnh hưởng trực tiếp từ tình trạng thiếu nước."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 02:39:13"
+  },
+  {
+    "Title": "Vietnam Gold Firms Face Fresh Scrutiny After Inspection Findings - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYkNjcGYwTkM1U2p0UGlGUlcydEdJazZxNXdiMG5NS0J5QnA4WmQ1WFJFT1NURW5yMWJrODV0M2pJOU1xUnY5VHRabmVHOWRRR1lmZElvUnFkQVNib19nSTR4T21KTzJfSlVyY0pEcWhLN1V4NHN5ZVhVcFUzdFVhcE04UmkzZE44ekZfRmgwVlp5dmM1SEdiZ3I1VzIta2hNOENhcXZscEFaOGVjX3hKdGZLanlubkM5d0F3V0dFeE81a3NuR1E?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 03:33:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc thanh tra các doanh nghiệp kinh doanh vàng chủ yếu mang tính chất quản lý nhà nước, không tác động trực tiếp đến kết quả kinh doanh của các mã cổ phiếu niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Hoạt động thanh tra vàng mang tính hành chính, không tác động đến dòng tiền hay biên lợi nhuận của các doanh nghiệp niêm yết trên HOSE/HNX.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 02:38:59"
+  },
+  {
+    "Title": "PSI: Ngày đăng ký cuối cùng Đại hội đồng cổ đông bất thường năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFJoWGs0OE1OczdBTE1kNUpwMGtXamhwTjJnTmFZRTFGRkx0cUVTYnlqWDVPNi02X1JmODE0YlY5bV9WQXM1emlRYVB3NFdrZ2c1VmZfVG9LUmpEUXVNSU9UNG9ja3Y3aFFBUlVOYWEwaWhnbXNkVktIQ01WSFlzcTFyVVI0a0tsbnN4VzFpLXV6N3FtU09ITEkzaFk0eEk5OEZfc1RrVnhDU29ZWjA0MVptOTVzMXF5QWN0dUYyb2g4RjFVd3c?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 08:57:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về ngày đăng ký cuối cùng cho ĐHĐCĐ bất thường là hoạt động quản trị doanh nghiệp định kỳ, không tác động trực tiếp đến giá trị nội tại hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - PSI. Đây là thủ tục hành chính quản trị doanh nghiệp thông thường. Không tạo ra biến động dòng tiền đáng kể trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 02:38:49"
+  },
+  {
+    "Title": "FUEKIV30: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUNpM01GaDdCbExyNGhQNlg1eHNrTEp4cDVfSGRzZm5kYzF1X0R3c0M3TFktOXdrSlUtN0x4NGFBM0RVbUZfeFd0cVJGYldOT1Z1T1FmV1B6UFZZNkpNQ2V1emVVMGNpUUJGSVBNdnhDZFlzWGZBRzYwMVUwWG05SVFfckNaOEQxNy1FazJpaldpVTQyQVJQVkl5NFdZTmcxSXQ3VjhCUl90a1dfWnNhbHZzWVdVdw?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:32:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các cổ phiếu thành phần trong danh mục VN30.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Hoạt động hoán đổi ETF là nghiệp vụ bình thường, không gây biến động cung cầu đột biến trên thị trường. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 02:38:39"
+  },
+  {
+    "Title": "FUESSV50: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazg1NXBIYlcwc19Gd1VDa0hCRkRrU1hQeDZEYUhVNkltc3hCdHdpODdScnBIelJkazQ4a0l2RVlsQjI2VnFtY2NUN3VmN1ZrUlNGcGFPU3ZRcVNhaXd6d0ppQkY2REVrbzRpYTRNa0pyTGpEblM5c2hfWnBQRWlWTXctU1htWFFzeEFfdDNGdXZ5WHptSkJDWHJ0bW12VTVRRlJJQ3E0NzQxampsSXN2WUxJQ0xnUQ?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:29:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về danh mục đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra tín hiệu dòng tiền hay thay đổi cung cầu trên thị trường cơ sở.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 02:38:29"
+  },
+  {
     "Title": "Early surge in US container imports coming to an end, shippers say - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2xBRVR3ZTNtUEVvVENpOVRObmVjZ1g3cXdrSGxwbDgxMDRJcThNc2loNzNtLUJVbXpMTzYteVptSkZBajJidlZSb1VvN1YzbGctc1B0Q0F4cE9rcjBVbW5JNnBmbFNiT1ZzbWlkV0U3OFJzUkpTM0tRT3EyZXNfaF9zZzExVWJUOHBHOWpYeHFKeThHM2dOdVc5RXJqYWxkTVk0eE5vTQ?oc=5",
@@ -17095,70 +17171,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-03 01:39:25"
-  },
-  {
-    "Title": "Xuất hiện tín hiệu tạo đáy, chuyên gia VinaCapital chỉ ra loạt cơ hội đầu tư \"hiếm có\" trên thị trường - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmZVSnZqNXFtOFYxR2pTUjk3UXk3clpUY1ZSamZRaXNkRDBIU3ZfUEt2MF9veXVWTHpsWGxlblByRThCbFNtYWtQM2VkR2Q1Uk9JWEFfTHJDVWUtMy1uUjFMXzlhcExsQVN2b25uOVVyeklJdkVrZ3RMam83bnpiS1RNYTNHX0ZOS2FlOGc2UmQzT0lkOWhGdXJYdG5PVmNjb0hNVkl0b21FNkZYY2JIOUFDbENqTU56VWhNNTBtM1g1R211eGwyUVBhUVpiZzhEam1XRw?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 17:03:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin mang tính chất nhận định thị trường từ quỹ đầu tư, không phải tin tức vĩ mô hay doanh nghiệp cụ thể có tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Nhận định từ quỹ đầu tư mang tính định hướng tâm lý, không thay đổi cấu trúc dòng tiền thực tế. Cần quan sát khối lượng giao dịch thay vì tin tức định tính.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 00:42:57"
-  },
-  {
-    "Title": "Chứng khoán sau cú rơi mạnh nhất từ đầu năm: Tháng 8 có 'dễ thở' hơn? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFNucE83amptaXRHeWozV18wWnhYc3BVamxucU5NTlhqNU9nTFJPNkNLam1MWEdBcVVWWndiMkNhTDlfRF8ydkcyd0RpN1hPUV9pbUtIUzdJN0x3YXpzb2FWTnh3RDF3bUw3SWFWdW5QX0xESWpuSExkODg2QWs3bG11dHMxSnNoa0F6RkNPS1M5QnY0Wk1mRzdDMmdNd3hQblE2NjdfNmU?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 17:06:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết phân tích tâm lý thị trường và dự báo kỹ thuật, không chứa thông tin vĩ mô hay doanh nghiệp mới làm thay đổi bản chất cung cầu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất nhận định tâm lý, không có thông tin tác động trực tiếp đến dòng tiền hay biên lợi nhuận doanh nghiệp. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 00:42:47"
-  },
-  {
-    "Title": "Chuyên gia Vinacapital: Lịch sử cho thấy chứng khoán có thể hồi phục 80–100% sau mỗi cú rơi mạnh - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkRkc2MyMjZVNHlsNFBkbnkxcTB5bHNSZmN6VGY5MU5yUWpPNy04dXFnUXk4NGQ4Yk5RMmVSbUl1bC1oRTV5ZlJXeWxHQ0tETncwYnNqT3JrMVNRNWhyZWVwdW8wdUJOdzA2TW5ZazFvckwzVlZ5UUJMM1UyLXBzckczMzNiUks1cm5BVGJpWnpBcXRmSUJCMkh6UmFXamY0UTBnak52cnJvalV4V1Zpakh0Xy1yUnpjRjNyQ2w2cllPeW5obHlDdWFuWFJKUQ?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 17:01:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Thông tin mang tính chất định hướng tâm lý thị trường, củng cố niềm tin cho nhà đầu tư dài hạn trong giai đoạn biến động, hỗ trợ ổn định dòng tiền vào các cổ phiếu vốn hóa lớn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất định hướng tâm lý, thiếu dữ liệu định lượng cụ thể. Không tác động trực tiếp đến dòng tiền ngắn hạn của nhóm chứng khoán.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 00:42:33"
-  },
-  {
-    "Title": "Ngân hàng đấu giá loạt đất tại TPHCM, giá khởi điểm hơn 100 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/ngan-hang-dau-gia-loat-dat-tai-tphcm-gia-khoi-diem-hon-100-ty-dong-2533376.html",
-    "PubDate": "Fri, 10 Jul 2026 10:39:49 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động xử lý tài sản đảm bảo thông thường của ngân hàng nhằm thu hồi nợ xấu, không phản ánh xu hướng vĩ mô hay tác động trọng yếu đến kết quả kinh doanh của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Hoạt động xử lý tài sản đảm bảo đơn lẻ không làm thay đổi chất lượng tài sản hay dòng tiền tổng thể của ngành. Không tác động đến giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 00:42:23"
-  },
-  {
-    "Title": "Giá vàng giảm sâu gần 6 tháng qua, 2 yếu tố quyết định xu hướng sắp tới",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-giam-sau-gan-6-thang-qua-2-yeu-to-quyet-dinh-xu-huong-sap-toi-2535010.html",
-    "PubDate": "Mon, 13 Jul 2026 15:08:04 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá vàng trong nước chủ yếu chịu sự điều tiết hành chính và chênh lệch với giá thế giới, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Giá vàng biến động không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Dòng tiền thông minh tập trung vào các nhóm ngành có tăng trưởng lợi nhuận thực tế.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 00:42:14"
   }
 ]
