@@ -1,25 +1,27 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 12:05 - 10/08/2026
+⏱ **Thời gian:** 13:20 - 10/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Bất ổn tại eo biển Hormuz & Giá dầu tăng:** Đẩy giá dầu thế giới lên cao -> **Tích cực** cho nhóm Dầu khí thượng nguồn & Dịch vụ dầu khí (PVD, PVS).
-- **Số liệu việc làm Mỹ yếu & Kỳ vọng giảm lãi suất Fed:** -> **Tích cực** cho nhóm tài chính (SSI, VCB) do áp lực tỷ giá hạ nhiệt, dù có sự xung đột nhẹ với tin tăng lãi suất huy động trong nước.
-- **Áp lực lạm phát/chi phí đầu vào:** Xuất khẩu (TNG, VHC) đối mặt rủi ro biên lợi nhuận do logistics và cầu tiêu thụ suy yếu tại phương Tây -> **Tiêu cực**.
+- **Địa chính trị & Năng lượng:** Bất ổn tại eo biển Hormuz đẩy giá dầu thế giới tăng mạnh -> **Tích cực** cho nhóm Dầu khí thượng nguồn (PVD, PVS) do kỳ vọng cải thiện giá dịch vụ và biên lợi nhuận.
+- **Tài chính & Tín dụng:** TCBS huy động thành công 120 triệu USD vốn quốc tế -> **Tích cực** cho nhóm Chứng khoán/Tài chính, đặc biệt là TCB nhờ củng cố vị thế hệ sinh thái và dư địa cho vay margin.
+- **Xuất khẩu:** Xung đột kéo dài gây đứt gãy logistics và giảm cầu Âu-Mỹ đối lập với lợi thế FTA từ Úc -> **Trung lập/Phân hóa** (Áp lực chi phí ngắn hạn đè nặng lên các doanh nghiệp xuất khẩu VHC, TNG).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
 - **Mã: PVD**
-    - **Động lực (FA):** Giá dầu neo cao do bất ổn địa chính trị tại Hormuz; giá thuê giàn khoan cải thiện.
-    - **Nhận định dòng tiền:** Hưởng lợi kép từ giá dầu và tâm lý nhóm dẫn dắt dầu khí.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: TNG**
-    - **Động lực (FA):** Chi phí logistics tăng và nhu cầu thị trường Âu-Mỹ giảm theo báo cáo Reuters.
-    - **Nhận định dòng tiền:** Có thể chịu áp lực bán do tâm lý thận trọng với nhóm xuất khẩu.
-    - **Hành động:** Rủi ro vi phạm kịch bản, cần quan sát vùng hỗ trợ cứng trước khi quyết định gia tăng vị thế.
-- **Mã: ACV**
-    - **Động lực (FA):** Đề xuất dự án nhà ga T2 Liên Khương giúp mở rộng backlog dài hạn.
-    - **Nhận định dòng tiền:** Tích cực trong trung hạn; thu hút dòng tiền đầu tư công.
-    - **Hành động:** Tiếp tục nắm giữ.
+  - **Động lực (FA):** Giá dầu thế giới vọt tăng do bất ổn địa chính trị tại eo biển Hormuz.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ nhóm dầu khí thường phản ứng nhanh với biến động giá dầu; đà tăng của PVD được hỗ trợ bởi kỳ vọng cải thiện giá thuê giàn khoan.
+  - **Hành động:** Chú ý giải ngân nếu giá vượt ngưỡng kháng cự ngắn hạn với thanh khoản xác nhận.
+
+- **Mã: TCB**
+  - **Động lực (FA):** TCBS huy động thành công khoản vay 120 triệu USD quốc tế, tối ưu hóa chi phí vốn.
+  - **Nhận định dòng tiền:** Tin tức củng cố niềm tin nhà đầu tư vào sức khỏe tài chính và lợi nhuận hợp nhất của tập đoàn, có khả năng kích hoạt dòng tiền khối ngoại.
+  - **Hành động:** Tiếp tục quan sát phản ứng tại vùng giá hiện tại, kỳ vọng bứt phá dựa trên thanh khoản.
+
+- **Mã: VHC, TNG**
+  - **Động lực (FA):** Hưởng lợi dài hạn từ FTA với Úc nhưng gặp áp lực chi phí logistics và cầu yếu từ Âu-Mỹ do xung đột địa chính trị.
+  - **Nhận định dòng tiền:** Dòng tiền sẽ giằng co; sự phân hóa sẽ diễn ra dựa trên khả năng quản trị chi phí đầu vào của từng doanh nghiệp.
+  - **Hành động:** Rủi ro vi phạm kịch bản nếu giá không giữ được nền hỗ trợ cứng trong bối cảnh chi phí logistics tăng.
 
 🔄 **3. Cảnh báo Tái cơ cấu:**
 - **Mã: BSR**
-    - **Nhận định:** Dù tin tức về giá dầu tăng đang hỗ trợ biên lợi nhuận ngắn hạn, nhưng xét theo mốc thời gian mục tiêu (tháng 6/2026 đã qua giai đoạn đầu tư trung hạn), đây là cơ hội để chốt lời chủ động khi giá dầu neo cao trước khi các rủi ro vận hành/cung cầu dài hạn phát sinh. Ưu tiên hiện thực hóa lợi nhuận.
+  - **Nhận định:** Tin tức giá dầu tăng giúp cải thiện biên lợi nhuận lọc dầu và định giá hàng tồn kho. Tuy nhiên, ở thời điểm tháng 6/2026, cần đối soát giá mục tiêu trung hạn (đã tiệm cận thời điểm rơi kỳ vọng tháng 3/2026). Dữ liệu giá dầu tăng là cơ hội để tối ưu hóa/chốt lời một phần vị thế thay vì gia tăng tỷ trọng.
