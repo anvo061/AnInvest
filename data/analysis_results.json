@@ -1,5 +1,63 @@
 ﻿[
   {
+    "Title": "FUESSV50: Thông báo thay đổi giá trị tài sản ròng ngày 09/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTklOcXZ2M2hYamYzLWZ3bW5QamZjVnlpblRNcHl2YVFxeERQT1lXZXpoMlBoaGliaERldElFcThDbW02c3lLZ3J1TjgzRDVDTzlRRkR6SW4yOU44Wkotck55bnM0SDJDVU5mYlhpa1p0dUxmU1JWZ0dQbEFkRFRfNzhfbk9pczBwa01Kak14b2w5bDZGUExEZlp5T2JxQS1KcjZsWExCTmtURDdWT1VDQWY4LXZFU1hhdWJlQUpCcUt2dnl3Wmc?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:24:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 03:21:17"
+  },
+  {
+    "Title": "BSI: Quyết định của HĐQT về việc phê duyệt hạn mức tín dụng tại Agribank - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFJqYnF4eVJMT0hVRTFfMTZlVUxhQVVzMTlhY0haM2NDc1BSZllFQjZ0ZWE2djBCd3RrRXVHNXRvWEZaWlhwUVJJOWNGamRSWjBaSmJlTnJQNFZ6RnBPUWUwaGE3ZzlNdjM5NnpFVmFtVFZ1cVl3cWxoNk9TWDNWblBNZG43aU5hLU5QaUxjckNIdVB5V21BdERiRzJQQlFUVS1RSnlXUDd3THNHWHZiOEROakQ3OTk2eVNlMEIyU2hvbFRFS29vcVZ2aw?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 10:59:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc phê duyệt hạn mức tín dụng là hoạt động quản trị tài chính thông thường của doanh nghiệp nhằm đảm bảo thanh khoản, không tạo ra đột biến về lợi nhuận hay thay đổi cấu trúc kinh doanh.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - BSI. Đây là nghiệp vụ quản trị vốn thông thường, không tác động trực tiếp đến dòng tiền đầu cơ hay xu hướng giá cổ phiếu trong ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "BSI",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động bổ sung hạn mức tín dụng định kỳ, không ảnh hưởng đến biên lợi nhuận hay tăng trưởng doanh thu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 03:21:03"
+  },
+  {
+    "Title": "Petrolimex bất ngờ điều chỉnh phương án bán cổ phiếu quỹ PLX - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemE1WnFlZGw2QWVTeG5FQnVva2hFZHdVaUdMakx6RGZMQ090aG41VzlfX3V6WmttWTluQTFVbk5BZVNQMUJxQ28wVWNNX2tKX3dyLUdwVHJIcl9TaWptMHhmaWtERXNsRU5mQ0FxRTVlbERzSlBpYVhjUy01RTlHbkZyTjlibWVmd01nUUlvc3V4R1kyVFZpajZxOU9rQ2tkQ0E?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 07:22:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc điều chỉnh phương án bán cổ phiếu quỹ là nghiệp vụ quản trị tài chính nội bộ, không làm thay đổi cơ bản hoạt động kinh doanh hay dòng tiền cốt lõi của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - PLX. Điều chỉnh phương án bán cổ phiếu quỹ là nghiệp vụ hành chính, không tác động đến cung cầu thị trường hay định giá doanh nghiệp trong ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 03:20:51"
+  },
+  {
+    "Title": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+    "PubDate": "Tue, 11 Aug 2026 02:39:27 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết tư vấn tài chính cá nhân về quản trị rủi ro và sử dụng đòn bẩy, không phải tin tức vĩ mô hay doanh nghiệp có tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Bài viết mang tính giáo dục về quản trị rủi ro cá nhân, không ảnh hưởng đến dòng tiền thông minh hay xu hướng ngành.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 03:20:41"
+  },
+  {
     "Title": "Record El Niño Threatens Fragile Economies Squeezed by War - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOW1WWG5zbkNsOEI2REdqSlozOUlRRDJZVXlTal9fQTdtREx0S0otOUFTYWQ4aWRtZ053a2VGdUhoWUkzZm1OQUtrdklacjhveDJ1YTlOUHpJdG9DWXhJd3FkckQtbVNVcmJjbE9SRWZNajF4ZkJFbndDN21tT2s5Z1oxd0s3Mlg4X2l0ZDBCeU0?oc=5",
@@ -17103,73 +17161,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-03 01:40:21"
-  },
-  {
-    "Title": "Chứng khoán Việt diễn biến thế nào khi Fed giữ nguyên lãi suất? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1UyUkljRUlTeW5wTVU3NWtXM0RHUlNUcElGamNsOW1NM0dsZmZacVlicVVIX0d2QmNlU2NsS0JMUExQNnREVHlibk05Rk1NemdnTWVYZE9JNWQ5M09uVXRtdnZaSktCUTlHcWxGMEpJd3NRbHpTc2tzNGVQUW5xWXVLalN2WjNXSEtBOFM1UnBDVjA1Q1NaMVEtNnM2enpNT2lNUg?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 14:13:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc Fed giữ nguyên lãi suất giúp giảm áp lực tỷ giá, tạo dư địa cho NHNN duy trì chính sách tiền tệ nới lỏng, hỗ trợ thanh khoản và tâm lý thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Fed giữ nguyên lãi suất là tin đã phản ánh vào giá. Tỷ giá hạ nhiệt hỗ trợ tâm lý, nhưng dòng tiền cần xác nhận thanh khoản thực tế trước khi giải ngân mạnh vào nhóm vốn hóa lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản thị trường cải thiện trực tiếp thúc đẩy doanh thu môi giới và margin của công ty chứng khoán."
-      },
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Áp lực tỷ giá giảm giúp ngân hàng ổn định chi phí vốn và cải thiện biên lợi nhuận."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ việc ổn định tỷ giá, giảm rủi ro trích lập dự phòng và chi phí huy động vốn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-03 01:40:06"
-  },
-  {
-    "Title": "EVNSPC: Đảm bảo cung ứng điện, thúc đẩy tăng trưởng kinh tế khu vực phía Nam",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/evnspc-dam-bao-cung-ung-dien-thuc-day-tang-truong-kinh-te-khu-vuc-phia-nam-2534367.html",
-    "PubDate": "Fri, 10 Jul 2026 09:40:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về hoạt động vận hành và đảm bảo cung ứng điện thường niên của EVNSPC, không mang tính đột biến về chính sách hay tài chính ảnh hưởng trực tiếp đến các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Điện. Thông tin mang tính chất vận hành thường xuyên, không tạo ra thay đổi về biên lợi nhuận hay dòng tiền đột biến cho các mã ngành điện. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 01:39:51"
-  },
-  {
-    "Title": "Giá bạc phục hồi, đắt hơn 1 triệu đồng/kg",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-bac-phuc-hoi-dat-hon-1-trieu-dong-kg-2534377.html",
-    "PubDate": "Fri, 10 Jul 2026 09:46:49 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá bạc bán lẻ không có tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có ngành hưởng lợi. Giá bạc bán lẻ là biến số tiêu dùng, không tác động đến dòng tiền doanh nghiệp niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 01:39:42"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 10/7/2026: Ngân hàng ngoại niêm yết tới 7,8%/năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-10-7-2026-ngan-hang-ngoai-niem-yet-toi-7-8-nam-2534369.html",
-    "PubDate": "Wed, 15 Jul 2026 19:57:51 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Việc các ngân hàng ngoại duy trì lãi suất huy động cao gây áp lực lên thanh khoản hệ thống và tạo sức ép buộc các ngân hàng nội địa phải giữ lãi suất ở mức cao, làm tăng chi phí vốn cho doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Lãi suất huy động ngân hàng ngoại không đại diện cho mặt bằng chung hệ thống. Tác động lên NIM nội địa hạn chế, chưa đủ căn cứ gây áp lực thanh khoản diện rộng.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 01:39:25"
   }
 ]
