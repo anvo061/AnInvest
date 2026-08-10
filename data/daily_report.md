@@ -1,16 +1,22 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 06:15 - 11/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 07:00 ngày 11/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tín dụng BĐS & Chi phí vốn:** Thị trường ghi nhận sự phân hóa khi tín dụng BĐS tăng trưởng (1,12 triệu tỷ đồng) nhưng toàn hệ thống ngân hàng đối mặt áp lực "khát vốn" và chi phí huy động tăng -> **Đánh giá: Trung lập (Thiên hướng thận trọng)** -> Dòng tiền sẽ phân hóa mạnh, tập trung vào nhóm Ngân hàng có lợi thế thanh khoản tốt, tránh các mã có chi phí vốn (COF) quá cao.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Dòng tín dụng BĐS đạt 1,12 triệu tỷ đồng với sự tham gia mạnh mẽ từ khối ngân hàng -> Đánh giá: Tích cực (tâm lý thị trường) -> Dòng tiền sẽ ưu tiên nhóm Ngân hàng thương mại (TCB, VPB) và các doanh nghiệp BĐS có quỹ đất sạch, pháp lý hoàn thiện (VHM).
+- Cạnh tranh gay gắt về tiêu chuẩn xuất khẩu sầu riêng tại thị trường Trung Quốc (Thái Lan vượt trội về hàng loại A) -> Đánh giá: Tiêu cực -> Áp lực lên nhóm cổ phiếu nông nghiệp có mảng xuất khẩu sầu riêng trọng điểm (HAG).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** HAG
-- **Động lực (FA):** Trung Quốc nhập khẩu sầu riêng khối lượng lớn nhưng Việt Nam đang mất dần lợi thế cạnh tranh về chất lượng ("loại A") vào tay Thái Lan.
-- **Nhận định dòng tiền:** Áp lực tâm lý bán tháo ngắn hạn có thể xuất hiện do rủi ro biên lợi nhuận mảng nông nghiệp xuất khẩu bị thu hẹp.
-- **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng. Theo dõi chặt chẽ vùng hỗ trợ gần nhất, cân nhắc giảm tỷ trọng nếu có tín hiệu bán chủ động mạnh.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **TCB, VPB**
+- Động lực (FA): Dư nợ tín dụng BĐS tăng trưởng mạnh, củng cố thu nhập lãi thuần.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh dịch chuyển vào nhóm tài chính khi các chỉ số vĩ mô về tín dụng có sự đồng thuận.
+- Hành động: Chú ý giải ngân nếu tín hiệu thanh khoản bùng nổ trong phiên sáng.
 
-- **Mã:** TCB, VPB
-- **Động lực (FA):** Hưởng lợi từ sự phục hồi tín dụng BĐS nhưng chịu áp lực ngược chiều từ chi phí vốn tăng cao toàn hệ thống.
-- **Nhận định dòng tiền:** Dòng tiền sẽ giằng co mạnh. Khả năng cao sẽ không có sóng tăng đột biến cho đến khi NIM được xác nhận ổn định trước áp lực lãi suất huy động.
-- **Hành động:** Tiếp tục quan sát, chưa giải ngân thêm.
+- Mã: **VHM**
+- Động lực (FA): Thanh khoản thị trường BĐS cải thiện từ dòng vốn tín dụng.
+- Nhận định dòng tiền: Dòng tiền có xu hướng bắt đáy khi áp lực tài chính của ngành giảm bớt.
+- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ cứng.
+
+- Mã: **HAG**
+- Động lực (FA): Áp lực cạnh tranh chất lượng sầu riêng từ Thái Lan gây rủi ro biên lợi nhuận.
+- Nhận định dòng tiền: Rủi ro dòng tiền ngắn hạn sẽ rút ra để tránh vùng trũng thông tin bất lợi.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
