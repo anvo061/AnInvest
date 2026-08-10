@@ -1,28 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 18:45 - 10/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 19:45 ngày 10/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tỷ giá USD/VND hạ nhiệt mạnh:** -> **Đánh giá:** Tích cực -> **Dòng tiền:** Nhóm doanh nghiệp vay nợ ngoại tệ lớn hoặc nhập khẩu nguyên liệu (Điện, Hàng không).
-- **TP.HCM đề xuất cơ chế tháo gỡ vật liệu xây dựng:** -> **Đánh giá:** Tích cực -> **Dòng tiền:** Nhóm Hạ tầng & Vật liệu xây dựng (Đá, Xây lắp).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tỷ giá USD hạ nhiệt sâu:** -> [Đánh giá tác động: Tích cực] -> [Dòng tiền ưu tiên nhóm doanh nghiệp có nợ vay ngoại tệ lớn và chi phí nhập khẩu cao (Điện, Hàng không)].
+- **Đề xuất cơ chế đột phá vật liệu xây dựng tại TP.HCM:** -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Hạ tầng & Vật liệu xây dựng].
+- **Khối ngoại bán ròng mạnh Bluechips:** -> [Đánh giá tác động: Tiêu cực] -> [Tạo áp lực điều chỉnh lên chỉ số chung, thận trọng với nhóm vốn hóa lớn].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: POW, HVN**
-    - **Động lực (FA):** Tỷ giá giảm sâu giúp giảm trực tiếp chi phí tài chính và lỗ chênh lệch tỷ giá.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể tập trung vào các mã này để "đảo nợ" kỳ vọng cải thiện biên lợi nhuận ròng quý tới.
-    - **Hành động:** Chú ý quan sát phản ứng tại vùng hỗ trợ kỹ thuật; canh giải ngân nếu giá duy trì sức mạnh cùng khối lượng gia tăng.
-- **Mã: VCG, HHV, KSB**
-    - **Động lực (FA):** Hưởng lợi từ cơ chế tháo gỡ khó khăn vật liệu xây dựng tại các dự án trọng điểm phía Nam.
-    - **Nhận định dòng tiền:** Nhóm này đang có game hạ tầng, tin tức mới củng cố luận điểm đầu tư dài hạn.
-    - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: VJC**
-    - **Động lực (FA):** Mở đường bay thẳng Australia (Western Sydney) và áp lực chi phí nhiên liệu/thuê tàu giảm nhờ tỷ giá.
-    - **Nhận định dòng tiền:** Động lực kép (mở rộng mạng lưới + giảm chi phí) hỗ trợ xu hướng ngắn hạn.
-    - **Hành động:** Quan sát vùng cản cũ, nếu bứt phá kèm vol lớn có thể mở vị thế.
-- **Mã: PTD**
-    - **Động lực (FA):** Thoát diện cảnh báo, khôi phục quyền lợi Margin.
-    - **Nhận định dòng tiền:** Tâm lý nhà đầu tư cá nhân sẽ cải thiện, thanh khoản dự kiến hồi phục nhanh.
-    - **Hành động:** Chú ý giải ngân thăm dò với tỷ trọng thấp cho mục tiêu trading ngắn hạn.
-- **Mã: SAL**
-    - **Động lực (FA):** Không còn là công ty đại chúng.
-    - **Nhận định dòng tiền:** Rủi ro thanh khoản cực cao, cổ đông bị hạn chế quyền giám sát.
-    - **Hành động:** Rủi ro vi phạm kịch bản đầu tư; khuyến nghị thoát vị thế bằng mọi giá nếu còn nắm giữ.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** VJC
+  - Động lực (FA): Mở rộng liên tục các đường bay quốc tế (Úc), tối ưu hóa doanh thu hành khách.
+  - Nhận định dòng tiền: Hưởng lợi kép từ việc mở rộng thị phần và giảm chi phí vận hành (nhờ tỷ giá USD giảm). Dòng tiền ngắn hạn có thể phân hóa mạnh theo hướng tích cực.
+  - Hành động: Tiếp tục quan sát đà tăng, chú ý vùng hỗ trợ kỹ thuật.
+- **Mã:** HPG / VHM
+  - Động lực (FA): Áp lực bán ròng hơn 600 tỷ đồng từ khối ngoại.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu, áp lực cung treo lơ lửng.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi lực bán ngoại chưa có dấu hiệu dừng lại.
+- **Mã:** VCG / HHV / KSB
+  - Động lực (FA): Cơ chế tháo gỡ vật liệu xây dựng tại TP.HCM.
+  - Nhận định dòng tiền: Kỳ vọng vào câu chuyện giải ngân đầu tư công, dòng tiền có thể chuyển dịch sang nhóm này để tìm kiếm lợi nhuận ngắn hạn.
+  - Hành động: Chú ý giải ngân nếu dòng tiền đồng thuận bứt phá nền giá.
+- **Mã:** POW / HVN
+  - Động lực (FA): Giá USD ngân hàng giảm sâu giúp giảm lỗ tỷ giá và chi phí tài chính.
+  - Nhận định dòng tiền: Tác động trực tiếp đến bảng cân đối kế toán, hỗ trợ tâm lý tích cực cho dòng tiền đầu cơ.
+  - Hành động: Chú ý giải ngân theo nhịp rung lắc của thị trường.
