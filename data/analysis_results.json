@@ -1,5 +1,68 @@
 ﻿[
   {
+    "Title": "Early surge in US container imports coming to an end, shippers say - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2xBRVR3ZTNtUEVvVENpOVRObmVjZ1g3cXdrSGxwbDgxMDRJcThNc2loNzNtLUJVbXpMTzYteVptSkZBajJidlZSb1VvN1YzbGctc1B0Q0F4cE9rcjBVbW5JNnBmbFNiT1ZzbWlkV0U3OFJzUkpTM0tRT3EyZXNfaF9zZzExVWJUOHBHOWpYeHFKeThHM2dOdVc5RXJqYWxkTVk0eE5vTQ?oc=5",
+    "PubDate": "Fri, 07 Aug 2026 17:00:50 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Sự sụt giảm nhu cầu nhập khẩu container tại Mỹ báo hiệu đà tăng trưởng của ngành vận tải biển toàn cầu đang hạ nhiệt, gây áp lực lên giá cước vận tải và triển vọng doanh thu các doanh nghiệp cảng biển, logistics Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Ngành Vận tải biển. Nhu cầu nhập khẩu Mỹ hạ nhiệt gây áp lực lên giá cước và sản lượng. Cần thận trọng với HAH do rủi ro biên lợi nhuận, GMD chịu ảnh hưởng gián tiếp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sản lượng thông qua cảng có thể giảm khi nhu cầu xuất khẩu sang Mỹ hạ nhiệt, ảnh hưởng trực tiếp đến doanh thu khai thác cảng."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá cước vận tải biển chịu áp lực giảm khi nhu cầu container toàn cầu suy yếu, tác động tiêu cực đến biên lợi nhuận đội tàu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 01:30:59"
+  },
+  {
+    "Title": "FUEKIVND: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHdQOU44dnlaVTd6ZzgtYmttb2tmcmlXX0xKUTlEUy00OU9QU3FUU1RSSXdWRzl6ODNLZWlKWmlTM0NvTUVZck43c2NoNWtrSnVEa0I1VlhKS2NKTXBwVFpYYmIyWkE2VkZod0tPbWJXUmtzcktMUVBoSEprN0NWODdMcVVRSktDNEd5MDZzM3ZsYXJoRGFWM3lzdk5KdnFFT1BtZE9HOEczdzcxZXdjTGJPTjVLZw?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:31:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến giá trị tài sản ròng hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm ETF. Đây là hoạt động nghiệp vụ quỹ thông thường, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá của các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 01:30:49"
+  },
+  {
+    "Title": "FUEVN100: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMk5WdXowb05TZU0wMmk5emVKUDNkT0N6Nk4xalh4djU3dktRa3M2Y19yMENsNkMxTjZ4MnNPYXBzYkwzeldELXlnMDBaY3VLcXJaOU9zSVh6VmRaOXFJcENZTHgwX1FIbGs5enUtN2ZUUXpDU0JqM3puLUtTREpEZzdJVnBIczVaLUMzVEM3aFZQSGNWRjhkNFNHbThKWU8zaUNMYVo4bUo2ZFdad2FWQWRXZ0lqdw?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 09:27:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không gây tác động trực tiếp đến giá trị nội tại hay hoạt động kinh doanh của các cổ phiếu thành phần trong danh mục VN100.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra tín hiệu dòng tiền mới cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 01:30:40"
+  },
+  {
+    "Title": "Một cổ phiếu \"bốc đầu\" kịch trần lên đỉnh lịch sử sau thông tin trả cổ tức - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFVOY3JIdUFNUXNMWV9nZG5ieFpJejhxRnFvdW53WXJWQldGUThnMjRobmZQRWRKSjhtMXpIMkw1WC1SRlVZYVlPcmZ3ZTMzOU9NaVB4MjZwNXFTcS1PLU5tTWNqcjhqZTU2VzlXVXpLRXJUc0pTNDQzLUZNNFV2bGVHMU9RMW80UVRrOUlQNGNaRVlpZnNNc3p6ZkhNSVlEd2RXdzM5Ym16a3Y4RldTYmFR?oc=5",
+    "PubDate": "Mon, 10 Aug 2026 17:03:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về một cổ phiếu cụ thể tăng giá do tin tức cổ tức mang tính chất sự kiện đơn lẻ, không phản ánh xu hướng vĩ mô hay tác động lan tỏa đến toàn ngành.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Cổ phiếu riêng lẻ. Tin tức cổ tức đã phản ánh vào giá, không tạo xu hướng dòng tiền mới cho ngành. Cẩn trọng bẫy bull-trap tại vùng đỉnh lịch sử.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 01:30:30"
+  },
+  {
     "Title": "FUEABVND: Kết thúc giao dịch hoán đổi ngày 07/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllGSWJRQWRzSXVqMEhKQVJTNEkwTU5wT3pJV3BRTnJoYVI2TlBPY1FhbGpheFhEQmExOGdpMWExUHRsQ19IM3h2aGVqbTNMTjhnbE4yTGhkSnZraVU1b09fQXNVWF85S2N1Uk9tNjhjUjVFQnFOV2dBV1ZUdXVZdy1pUlJzLW04b21hOHE3VXJ4T0hUWUhNdEpkTTFsSmZiSnJ3d3VOMmJRTFhUcWlHck9neG1DZw?oc=5",
@@ -17097,63 +17160,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-03 00:42:14"
-  },
-  {
-    "Title": "Quyết liệt, quyết đoán của Quảng Ninh nhằm tăng trưởng vượt bậc 13%",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/quyet-liet-quyet-doan-cua-quang-ninh-nham-tang-truong-vuot-bac-13-2534845.html",
-    "PubDate": "Mon, 13 Jul 2026 05:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Mục tiêu tăng trưởng cao của Quảng Ninh thúc đẩy đầu tư công, hạ tầng và bất động sản khu công nghiệp tại địa phương, tạo động lực cho các doanh nghiệp có dự án trọng điểm tại đây.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Mục tiêu tăng trưởng địa phương mang tính định hướng hành chính, thiếu lộ trình giải ngân cụ thể. Tác động thực tế lên dòng tiền doanh nghiệp cần kiểm chứng thêm.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 00:41:59"
-  },
-  {
-    "Title": "ACV giảm hơn 2.300 nhân sự trong nửa năm",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/acv-giam-hon-2-300-nhan-su-trong-nua-nam-5104359.html",
-    "PubDate": "Mon, 03 Aug 2026 00:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc cắt giảm nhân sự quy mô lớn giúp ACV tối ưu hóa chi phí vận hành, cải thiện biên lợi nhuận trong bối cảnh chi phí quản lý doanh nghiệp tăng cao.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - ACV. Cắt giảm nhân sự quy mô lớn phản ánh áp lực tái cấu trúc chi phí, cần theo dõi thêm tác động đến chất lượng dịch vụ và biên lợi nhuận thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "ACV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tối ưu hóa chi phí nhân sự giúp cải thiện biên lợi nhuận hoạt động và hiệu quả quản trị doanh nghiệp."
-      }
-    ],
-    "AnalyzedAt": "2026-08-03 00:41:44"
-  },
-  {
-    "Title": "Việt Nam có \"kho báu\" từng được Úc, Malaysia định giá chỉ 1 USD, sau hơn 30 năm mang về trên 4,5 tỷ USD - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMU56eTVGYTZBZFRuUTRnUklCVVhhSTdCUkZ5UmNyZnBlZWVqY3AzNENpcjVWUGZSVjl5cEhIeFNJUzVXb2pmblFldzdPZllnWnJRMjBBUlNqZ2dKWXJRZTAtYVlPdWVUd3k0eXpKUlZzMDZoZEwzaktBLUUzazNsZEtLX3RDSnFhMGdjcGtPcGxuSjlFdEJtT19rb0xBNG1UUjNZUHZCbEhiSUNmcWNoQlVsM1IxQ29oMVVOREQ5c1MxVWhvejJFcWxhMEpqTFI2b3drMw?oc=5",
-    "PubDate": "Sat, 01 Aug 2026 17:01:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết mang tính chất lịch sử, tổng kết về dự án dầu khí (mỏ Rạng Đông), không phản ánh thông tin tài chính mới hay thay đổi hoạt động kinh doanh hiện tại của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Tin tức mang tính chất tổng kết lịch sử, không có tác động trực tiếp đến dòng tiền ngắn hạn của các mã dầu khí hiện nay. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 23:36:09"
-  },
-  {
-    "Title": "PSH: Báo cáo quản trị công ty bán niên 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFNfaTk3d1lpUVpmaXFEeFNSaU90Ui0wMGNhamdJMjNnOExoWmRMRmNZUlV5b2lUT01HRU5NUVR0cldGelpWWm9xMWczUHhtNGlHa2VlUTFPMzBTRWZhS0dSMjh5UXViUXVmdWVncnd3TGVxeEtaLU9jbTZ0Zk1SM2paU292RzMyWnJBN1pfZXpGUTViVVJ0cTVSN2IzR3JUYjgzOQ?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 09:42:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là báo cáo quản trị định kỳ theo quy định công bố thông tin, không chứa đựng các thay đổi trọng yếu về chiến lược kinh doanh hay tài chính của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Báo cáo quản trị định kỳ không tác động đến dòng tiền hay xu hướng giá cổ phiếu PSH. Không có tín hiệu giao dịch.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-02 23:36:00"
   }
 ]
