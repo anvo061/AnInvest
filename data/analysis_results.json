@@ -1,5 +1,39 @@
 ﻿[
   {
+    "Title": "Ngân hàng 'khát' vốn",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ngan-hang-khat-von-5107615.html",
+    "PubDate": "Tue, 11 Aug 2026 03:18:24 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Tình trạng thiếu hụt vốn khiến các ngân hàng phải tăng lãi suất huy động, làm thu hẹp biên lãi ròng (NIM) và gây áp lực lên chi phí vốn của toàn nền kinh tế.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Áp lực tăng lãi suất huy động gây rủi ro NIM. Dòng tiền cần thận trọng với các ngân hàng có tỷ lệ LDR cao và phụ thuộc lớn vào vốn ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Phụ thuộc nhiều vào vốn huy động, chi phí vốn tăng gây áp lực trực tiếp lên biên lợi nhuận."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cạnh tranh lãi suất huy động gay gắt làm tăng chi phí đầu vào, ảnh hưởng đến tăng trưởng tín dụng."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vốn cao gây khó khăn cho việc duy trì biên lợi nhuận trong bối cảnh tín dụng khó tăng trưởng."
+      },
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực thanh khoản hệ thống làm tăng chi phí huy động, ảnh hưởng tiêu cực đến kỳ vọng lợi nhuận ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 04:08:40"
+  },
+  {
     "Title": "FUESSV50: Thông báo thay đổi giá trị tài sản ròng ngày 09/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTklOcXZ2M2hYamYzLWZ3bW5QamZjVnlpblRNcHl2YVFxeERQT1lXZXpoMlBoaGliaERldElFcThDbW02c3lLZ3J1TjgzRDVDTzlRRkR6SW4yOU44Wkotck55bnM0SDJDVU5mYlhpa1p0dUxmU1JWZ0dQbEFkRFRfNzhfbk9pczBwa01Kak14b2w5bDZGUExEZlp5T2JxQS1KcjZsWExCTmtURDdWT1VDQWY4LXZFU1hhdWJlQUpCcUt2dnl3Wmc?oc=5",
@@ -17148,18 +17182,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-03 01:40:37"
-  },
-  {
-    "Title": "Đại gia Việt kiếm tiền thần tốc: Tập đoàn của ông Phạm Nhật Vượng thu hơn 50 tỷ mỗi giờ vẫn “về nhì” - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajJDRjk3elRUMTFQdVh1VUlzTGVZTS1ZVmptUGpqOE5QdHNRamJZNEVoOGFfSWN0cE42X0R0ZEI2ZWhGU3FFNG15cGxUV3VrN0Y3OWhOemNfaWNJNUNpMmFWZWtvT0NxYURKaGRrWV9JVjdtVlNWaklTOWhWbU4xVTBzNlROb3VQNGc3VWY1YnZxT24taEpNRjJ5aFNLSzVWRmRkeEpuUW9NT1VCOUxkMXZ1TTM1X240WEQ0Ti01Q3lKTzFEQ3pFQmEtRzJLSjl3TFpn?oc=5",
-    "PubDate": "Sun, 02 Aug 2026 17:07:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết tổng hợp dữ liệu tài chính quá khứ, không chứa thông tin mới về chiến lược kinh doanh hay thay đổi vĩ mô tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Bài viết mang tính chất thống kê dữ liệu cũ, không tạo ra động lực mới cho dòng tiền thông minh trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-03 01:40:21"
   }
 ]
