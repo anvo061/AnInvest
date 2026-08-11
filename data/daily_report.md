@@ -1,13 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:45 ngày 12/08/2026
+⏱ Thời gian: 04:30 - 12/08/2026
 
-🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCB, TCB, HPG**
-- Động lực (FA): Dòng tiền tự doanh chứng khoán gia tăng mua ròng mạnh trong các phiên điều chỉnh gần đây.
-- Nhận định dòng tiền: Hoạt động gom hàng của tự doanh tại vùng giá thấp củng cố lực đỡ cho các cổ phiếu trụ, tạo vùng đệm tâm lý quan trọng cho VN-Index trước các dự báo thận trọng từ các quỹ đầu tư.
-- Hành động: **Chú ý giải ngân** tại các nhịp rung lắc (pullback) trong phiên đối với nhóm cổ phiếu bluechip này, tuân thủ vùng giá mục tiêu định giá hấp dẫn.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Chính phủ Chile bơm 2,4 tỷ USD hỗ trợ tập đoàn đồng Codelco -> [Tác động: Tích cực] -> [Dòng tiền hướng tới: Nhóm khai khoáng và điện (nhạy sóng với giá kim loại cơ bản như PC1)].
+
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PC1**
+- Động lực (FA): Giá đồng toàn cầu dự báo ổn định và có xu hướng phục hồi nhờ động thái bơm vốn hỗ trợ nguồn cung từ Chile.
+- Nhận định dòng tiền: Tin tức hỗ trợ tâm lý tích cực cho các doanh nghiệp có hoạt động kinh doanh nhạy bén với nguyên liệu đầu vào là đồng và đầu tư lưới điện.
+- Hành động: Chú ý quan sát phản ứng dòng tiền tại vùng nền giá hiện tại.
 
 - Mã: **HVN, ACV**
-- Động lực (FA): Sự cố gián đoạn hàng loạt (60 chuyến bay) gây áp lực lên chi phí vận hành và chỉ số chất lượng dịch vụ.
-- Nhận định dòng tiền: Rủi ro tâm lý tiêu cực ngắn hạn đối với nhóm hàng không do chi phí phát sinh và uy tín dịch vụ.
-- Hành động: **Tiếp tục quan sát**, tạm dừng các vị thế mua mới cho đến khi sự cố được khắc phục hoàn toàn và áp lực bán kỹ thuật hạ nhiệt.
+- Động lực (FA): Sự cố gián đoạn 60 chuyến bay gây áp lực chi phí vận hành và rủi ro uy tín dịch vụ.
+- Nhận định dòng tiền: Áp lực bán ngắn hạn từ tâm lý nhà đầu tư cá nhân lo ngại về chi phí phát sinh và gián đoạn vận hành.
+- Hành động: Rủi ro vi phạm kịch bản ngắn hạn; đề nghị đứng ngoài quan sát lực cầu bắt đáy.
+
+- Mã: **VCB, TCB, HPG**
+- Động lực (FA): Dữ liệu ghi nhận dòng tiền tự doanh gom mạnh trong phiên giảm điểm.
+- Nhận định dòng tiền: Xác nhận vùng định giá hấp dẫn đã được các tổ chức lớn hấp thụ, tạo lực đỡ cho VN-Index.
+- Hành động: Tiếp tục giữ vị thế; đây là nhóm trụ cột để neo giữ điểm số.
