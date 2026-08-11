@@ -1,28 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:45 - 12/08/2026
+⏱ Thời gian: 02:45, 12/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị Trung Đông leo thang đe dọa chuỗi cung ứng và giá dầu toàn cầu -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng phòng thủ, dịch chuyển khỏi các nhóm ngành nhạy cảm với chi phí logistic và cước vận tải.
-- Dòng vốn ngoại rút khỏi cổ phiếu công nghệ Châu Á do lo ngại bong bóng AI -> Đánh giá: **Tiêu cực** -> Áp lực bán ròng khối ngoại tiếp diễn tại các mã công nghệ vốn hóa lớn.
-- Khối tự doanh trong nước gom mạnh cổ phiếu trụ (VCB, TCB, HPG) trong phiên điều chỉnh -> Đánh giá: **Tích cực** -> Cung cấp lực đỡ tâm lý, xác nhận vùng giá trị hấp dẫn tại nhóm Bluechips.
+- Dòng vốn ngoại tiếp tục rút khỏi các thị trường công nghệ châu Á do lo ngại định giá AI (theo dữ liệu từ Reuters) -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Chịu áp lực bán ròng tại nhóm Công nghệ (FPT) và các Bluechip vốn hóa lớn].
+- Sự cố gián đoạn vận hành tại sân bay Tân Sơn Nhất gây ảnh hưởng đến lịch bay -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Nhóm Hàng không (HVN, ACV) chịu áp lực điều chỉnh do tăng chi phí vận hành].
+- Tự doanh CTCK tăng gom các mã VCB, TCB, HPG trong phiên giảm điểm -> [Đánh giá: Tích cực] -> [Dòng tiền: Lực đỡ tâm lý tại các mã trụ, củng cố vùng định giá hấp dẫn].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **FPT**
-- Động lực (FA): Áp lực bán ròng theo xu hướng rút vốn khỏi ngành công nghệ tại thị trường Châu Á.
-- Nhận định dòng tiền: Ngắn hạn chịu áp lực bán từ khối ngoại, cản trở nhịp hồi phục kỹ thuật.
-- Hành động: **Tiếp tục quan sát**, chờ tín hiệu chững lại của lực bán ngoại trước khi giải ngân.
+- Mã: FPT
+- Động lực (FA): Áp lực bán ròng từ khối ngoại do lo ngại làn sóng thoái vốn tại các cổ phiếu công nghệ AI châu Á.
+- Nhận định dòng tiền: Ngắn hạn có thể chịu rung lắc mạnh khi tâm lý khối ngoại tiêu cực lan tỏa.
+- Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật, hạn chế giải ngân mới khi dòng tiền khối ngoại chưa ổn định.
 
-- Mã: **HAH, GMD**
-- Động lực (FA): Căng thẳng địa chính trị Trung Đông gây rủi ro chi phí vận hành và gián đoạn tuyến hàng hải.
-- Nhận định dòng tiền: Tâm lý thận trọng bao trùm, nguy cơ xuất hiện lực bán kỹ thuật theo tin tức.
-- Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ cứng.
+- Mã: HVN
+- Động lực (FA): Liên tiếp các sự cố gián đoạn khai thác (drone, chậm chuyến) gây đội chi phí vận hành.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu do rủi ro chi phí phát sinh và uy tín dịch vụ.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng tại các mốc hỗ trợ cứng.
 
-- Mã: **HVN**
-- Động lực (FA): Gián đoạn vận hành do sự cố an ninh hàng không (drone tại Tân Sơn Nhất).
-- Nhận định dòng tiền: Tác động tiêu cực ngắn hạn đến chi phí và hiệu suất khai thác.
-- Hành động: **Tiếp tục quan sát**, không mở vị thế mới cho đến khi tình trạng khai thác ổn định trở lại.
-
-- Mã: **VCB, TCB, HPG**
-- Động lực (FA): Dòng tiền tự doanh "bắt đáy" chủ động.
-- Nhận định dòng tiền: Tạo đáy tâm lý, là trụ cột giữ nhịp cho VN-Index.
-- Hành động: **Chú ý giải ngân** theo các mốc hỗ trợ của dòng tiền tự doanh.
+- Mã: VCB, TCB, HPG
+- Động lực (FA): Được khối tự doanh gom mạnh phiên giảm điểm.
+- Nhận định dòng tiền: Dòng tiền thông minh (smart money) từ khối tự doanh đang chủ động "bắt đáy" tại các vùng giá chiết khấu.
+- Hành động: Chú ý giải ngân từng phần nếu kịch bản test lại nền giá thành công.
