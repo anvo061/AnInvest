@@ -1,5 +1,92 @@
 ﻿[
   {
+    "Title": "FUEMITEC: Kết thúc giao dịch hoán đổi ngày 10/08/2026 - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSXRjSXNQZG0yWnFpZ0M0RzNDZVNSejFVVVBkdmR3VVpRa1lJSm9tYWdVZW9xeTRPczFFdHk1bzJVaUt6aWxpYmtaZFFRLTJCSDdzUl9JblV6VDlRTHQtajhEVTRJTnA3UjRYWldXT2pQaFJ0VU1jTnI1TjJIVDdmM1Y3bExrVTNUN01wTVNPT3Y1UHRQUzRTVmRUNGpNaDVHelhlOUs0R0MxNUhhdmhSRVFlY09LUQ?oc=5",
+    "PubDate": "Tue, 11 Aug 2026 09:43:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính liên quan đến hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là nghiệp vụ hành chính thông thường của quỹ ETF, không làm thay đổi cung cầu hay dòng tiền của các cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 21:42:56"
+  },
+  {
+    "Title": "FUEKIVFS: Kết thúc giao dịch hoán đổi ngày 10/08/2026 - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTU55cXFmQkZScWJ3dk1QaE1TSFhhcDZfTHAtRTE2UnI1NFl6THVxV3J1b09TSFZYSXA4NHRLM2NDRWFCVnZ1OWpRXzRfRmZxNUY2c0dxRXFFYkJhcVRhUGlkdm5sUE5HUU4xUmFPbDBvSlRYVmwtdFBobDVLOHdDaUNTUUQwWG5ZYkJNT2VmeGVzY2toV3BtZXI1T1hRbDk5cnFUZnNhdTJpcEw1UG1CVmhMSmRWUQ?oc=5",
+    "PubDate": "Tue, 11 Aug 2026 09:45:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc kết thúc giao dịch hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 21:42:47"
+  },
+  {
+    "Title": "Phiên 11/8: Khối ngoại tiếp đà bán ròng gần 800 tỷ đồng, một cổ phiếu ngân hàng bị \"xả\" mạnh - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZm94S21UTnF3SDQ0cDdhc3Q1VUc1MFR6em8yUzNsMVFHd0k1Zy1ENEVJUDlQRjZ2WE9iZExSLTQxajVuZlVkczJrODZtWkJqeXVpSnFidWlFY0p2XzBiQWZ5ZzVjVEdmbXBYXzUzUDFIaHZ4MnF4cWRRb0tSckJNOGlBS2NkSG1yMnhMcGE3MHF3WGJpR1A0UmNVc1p4aUFkRXN1WmVzRXlkN3gxYWdYazJrOUtPWlBrY2NZU2JGYW03bVRxdl9R?oc=5",
+    "PubDate": "Tue, 11 Aug 2026 08:45:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Áp lực bán ròng từ khối ngoại gây tâm lý thận trọng cho nhà đầu tư cá nhân, đặc biệt tại các mã ngân hàng vốn hóa lớn, làm suy yếu đà hồi phục của chỉ số chung.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Khối ngoại bán ròng 800 tỷ đồng gây áp lực lên nhóm vốn hóa lớn. Cần quan sát vùng hỗ trợ cứng của các mã trụ trước khi giải ngân mới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường là mục tiêu bán ròng chính của khối ngoại, gây áp lực lên chỉ số chung."
+      },
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh mục bị khối ngoại xả mạnh, gây áp lực giảm giá ngắn hạn."
+      },
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ khối ngoại làm suy yếu đà tăng của cổ phiếu ngân hàng vốn hóa lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 21:42:30"
+  },
+  {
+    "Title": "Tìm cách đưa mít 'ruột đỏ Cái Ngang' từ vườn lên bàn ăn",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tim-cach-dua-mit-ruot-do-cai-ngang-tu-vuon-len-ban-an-100260811161954061.htm",
+    "PubDate": "8/11/2026 5:59:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về phát triển nông sản địa phương, quy mô nhỏ lẻ, không có tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp nông nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Nông nghiệp. Tin tức mang tính chất địa phương, quy mô nhỏ, không tạo ra sự thay đổi về dòng tiền hay kỳ vọng tăng trưởng cho các mã nông nghiệp lớn trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-11 21:42:16"
+  },
+  {
+    "Title": "Sân bay Tân Sơn Nhất 2 lần tạm dừng cất, hạ cánh vì drone xâm nhập",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nong-san-bay-tan-son-nhat-2-lan-tam-dung-cat-ha-canh-vi-drone-xam-nhap-100260811203304931.htm",
+    "PubDate": "8/11/2026 8:44:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -1,
+    "MarketImpact": "Sự cố an ninh hàng không gây gián đoạn lịch trình bay, ảnh hưởng trực tiếp đến hiệu suất khai thác và chi phí vận hành của các đơn vị dịch vụ hàng không tại sân bay.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Hàng không. Sự cố an ninh gây gián đoạn khai thác cục bộ. Tác động tài chính không đáng kể, chủ yếu gây nhiễu tâm lý ngắn hạn cho nhóm dịch vụ sân bay.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "ACV",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Đơn vị quản lý sân bay chịu áp lực về an ninh và gián đoạn khai thác, ảnh hưởng đến hiệu suất vận hành."
+      }
+    ],
+    "AnalyzedAt": "2026-08-11 21:41:55"
+  },
+  {
     "Title": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
@@ -16823,76 +16910,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-04 08:08:09"
-  },
-  {
-    "Title": "Cà phê đặc sản: Từ phân khúc ngách thành lựa chọn của lối sống hiện đại",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/ca-phe-dac-san-tu-phan-khuc-ngach-thanh-lua-chon-cua-loi-song-hien-dai-100260731193646244.htm",
-    "PubDate": "8/3/2026 9:16:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin mang tính chất xu hướng tiêu dùng và lối sống, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Bán lẻ/F&B. Xu hướng tiêu dùng thay đổi là thông tin thị trường chung, không tạo ra biến động dòng tiền tức thời cho các mã cổ phiếu niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-04 08:07:59"
-  },
-  {
-    "Title": "Đề xuất mới: Mua, bán hàng hóa với nước ngoài qua thương mại điện tử phải xác thực định danh điện tử",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/de-xuat-moi-mua-ban-hang-hoa-voi-nuoc-ngoai-qua-thuong-mai-dien-tu-phai-xac-thuc-dinh-danh-dien-tu-100260803105245299.htm",
-    "PubDate": "8/3/2026 11:16:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là quy định về quản lý hành chính và an ninh thương mại điện tử, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ/Logistics. Quy định hành chính về định danh không thay đổi cấu trúc dòng tiền hay biên lợi nhuận doanh nghiệp. Không có tác động đến giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-04 08:07:48"
-  },
-  {
-    "Title": "Tin tức sáng 4-8: Thu ngân sách 7 tháng vượt 1,8 triệu tỉ; TP.HCM thúc tiến độ 29 trường học xong trong tháng 8",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tin-tuc-sang-4-8-thu-ngan-sach-7-thang-vuot-18-trieu-ti-tphcm-thuc-tien-do-29-truong-hoc-xong-trong-thang-8-100260803230755098.htm",
-    "PubDate": "8/4/2026 5:36:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Thu ngân sách vượt dự toán tạo dư địa cho đầu tư công. Việc đẩy nhanh tiến độ hạ tầng giáo dục tại TP.HCM thúc đẩy khối lượng công việc cho các doanh nghiệp xây lắp hạ tầng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Thu ngân sách vượt dự toán là tin vĩ mô định kỳ, thiếu tác động trực tiếp đến biên lợi nhuận doanh nghiệp xây lắp trong ngắn hạn. Cần theo dõi tiến độ giải ngân thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-04 08:07:33"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 4/8: Thế giới giảm mạnh, trong nước sắp điều chỉnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-4-8-the-gioi-giam-manh-trong-nuoc-sap-dieu-chinh-2541809.html",
-    "PubDate": "Tue, 04 Aug 2026 07:24:14 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Giá dầu thế giới giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời giảm áp lực lạm phát chi phí đẩy trong nước.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm giảm áp lực lạm phát nhưng gây rủi ro tồn kho cho nhóm phân phối. Tác động biên lợi nhuận logistics không đáng kể do cơ chế phụ phí nhiên liệu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PLX",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá xăng dầu giảm gây áp lực lên giá trị hàng tồn kho và biên lợi nhuận bán lẻ xăng dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-04 08:07:17"
-  },
-  {
-    "Title": "Japfa hỗ trợ 10.000 gà giống, cùng xã Long Hà xây dựng sinh kế bền vững",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/japfa-ho-tro-10-000-ga-giong-cung-xa-long-ha-xay-dung-sinh-ke-ben-vung-2541679.html",
-    "PubDate": "Tue, 04 Aug 2026 08:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động trách nhiệm xã hội (CSR) của doanh nghiệp FDI, không có tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp chăn nuôi niêm yết trên sàn chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chăn nuôi. Hoạt động CSR không thay đổi cấu trúc doanh thu hay biên lợi nhuận ngành. Dòng tiền thông minh không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-04 08:07:07"
   }
 ]
