@@ -1,17 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:15 - 11/08/2026
+⏱ Thời gian: 11:18:13 - 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động tăng lên mức 8,2%/năm -> Tiêu cực -> Gây áp lực điều chỉnh lên dòng tiền nhóm Chứng khoán (SSI) và Bất động sản (VHM, PDR) do chi phí vốn tăng và sự dịch chuyển dòng tiền sang kênh tiết kiệm.
-- Ấn Độ hạn chế dùng mía làm ethanol -> Tích cực cho nhóm tiêu dùng/thực phẩm -> Giảm áp lực chi phí nguyên liệu đầu vào.
+- **Giá dầu Brent vọt lên 88 USD/thùng:** -> [Tích cực] -> Dòng tiền ngắn hạn sẽ tập trung vào nhóm Dầu khí thượng nguồn và dịch vụ kỹ thuật.
+- **Lãi suất huy động tăng lên mức 8,2%/năm:** -> [Tiêu cực] -> Áp lực lên nhóm Tài chính (Chứng khoán) và Bất động sản do chi phí vốn tăng, dòng tiền có xu hướng thận trọng.
+- **Việc đóng tàu quân sự nội địa:** -> [Tích cực] -> Hỗ trợ nhóm Thép và Cơ khí chế tạo.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: SSI, VHM, PDR
-- Động lực (FA): Áp lực lãi suất huy động tăng cao làm giảm kỳ vọng biên lợi nhuận và nhu cầu margin trên thị trường.
-- Nhận định dòng tiền: Khả năng xuất hiện áp lực bán chủ động trong ngắn hạn tại các mã này.
-- Hành động: Rủi ro vi phạm kịch bản nắm giữ; ưu tiên quản trị tỷ trọng, tránh giải ngân mới cho đến khi xu hướng lãi suất ổn định lại.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu Brent tiệm cận 88 USD/thùng, cải thiện trực tiếp đơn giá cho thuê giàn khoan.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dòng tiền có khả năng đẩy mạnh để kiểm tra các vùng kháng cự ngắn hạn.
+  - Hành động: **Chú ý giải ngân** theo đà tăng, quản trị rủi ro tại ngưỡng hỗ trợ gần nhất.
 
-- Mã: SBT
-- Động lực (FA): Giá đường thế giới dự báo hạ nhiệt do nguồn cung mía dồi dào hơn.
-- Nhận định dòng tiền: Dù hưởng lợi chi phí đầu vào nhưng áp lực giảm giá bán đầu ra có thể tạo biến động tiêu cực trong ngắn hạn.
-- Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ kỹ thuật; chưa ưu tiên mua mới.
+- **Mã: VCB, GAS, VNM, BID**
+  - Động lực (FA): Các mã trụ có vốn nhà nước được kỳ vọng dẫn dắt VN-Index vượt ngưỡng 1.800 điểm.
+  - Nhận định dòng tiền: Dòng tiền lớn (Big Boys) có thể tập trung điều tiết các mã này để giữ nhịp chỉ số.
+  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch tại các vùng cản tâm lý.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Nhận định: Giá dầu Brent tăng lên 88 USD/thùng tác động tích cực đến giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Mặc dù đã qua kỳ vọng ban đầu, nhưng dữ liệu vĩ mô hiện tại hỗ trợ giữ vị thế để tận dụng sóng giá dầu. **Tiếp tục giữ** để quan sát phản ứng tại ngưỡng lợi nhuận mục tiêu mới, chưa cần cơ cấu gấp.
