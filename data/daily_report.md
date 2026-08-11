@@ -1,25 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:50 - 11/08/2026
+⏱ Thời gian: 22:45 - 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực bán ròng khối ngoại (800 tỷ đồng) tập trung tại nhóm ngân hàng (VCB, STB, CTG) -> [Tiêu cực] -> [Dòng tiền ngắn hạn suy yếu tại nhóm Ngân hàng, tiềm ẩn rủi ro rung lắc chỉ số chung].
-- Giá dầu thế giới tăng do căng thẳng địa chính trị Iran -> [Tích cực] -> [Dòng tiền hướng vào nhóm Dầu khí: PVD, PVS].
-- Kết quả kinh doanh và hợp tác quốc tế của Vingroup (VinFast bán gần 21.800 xe/tháng 7 + Hợp tác SpaceX) -> [Tích cực] -> [Dòng tiền hỗ trợ cổ phiếu VIC].
+- Căng thẳng địa chính trị Iran leo thang gây áp lực lên giá dầu thế giới và chuỗi cung ứng toàn cầu -> [Tiêu cực] -> [Dòng tiền phòng thủ dự kiến dịch chuyển sang nhóm Năng lượng/Dầu khí (PVD, PVS), đồng thời gây áp lực giảm biên lợi nhuận nhóm Vận tải biển (HAH, GMD)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu hưởng lợi từ rủi ro địa chính trị Iran.
-    - Nhận định dòng tiền: Tích cực trong ngắn hạn nhờ yếu tố vĩ mô quốc tế hỗ trợ tâm lý nhóm năng lượng.
-    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần nhất.
-- **Mã: VIC**
-    - Động lực (FA): Doanh số xe điện tăng mạnh và triển vọng hợp tác công nghệ cao (SpaceX).
-    - Nhận định dòng tiền: Tin tức hỗ trợ cải thiện hình ảnh doanh nghiệp, có khả năng kích hoạt dòng tiền vào nhóm cổ phiếu họ Vin.
-    - Hành động: Quan sát phản ứng vùng giá hiện tại, kỳ vọng tạo đáy trung hạn.
-- **Mã: VCB, STB, CTG**
-    - Động lực (FA): Áp lực bán ròng mạnh từ khối ngoại.
-    - Nhận định dòng tiền: Cung ngắn hạn đang áp đảo, cần thận trọng với vị thế mua mới.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chờ cân bằng cung cầu.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới tăng do lo ngại gián đoạn nguồn cung từ Trung Đông (căng thẳng Iran).
+- Nhận định dòng tiền: Tác động tích cực đến tâm lý giao dịch ngắn hạn, kỳ vọng dòng tiền đầu cơ sẽ tìm đến nhóm dầu khí thượng nguồn để trú ẩn và tìm kiếm lợi nhuận.
+- Hành động: Chú ý giải ngân nếu giá test lại vùng hỗ trợ kỹ thuật; thận trọng với các biến động rung lắc theo tin tức địa chính trị trong phiên.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Giá dầu tăng tạo áp lực lên giá vốn nguyên liệu đầu vào. Đối với vị thế trung hạn đã qua điểm rơi (tháng 3/2026), dữ liệu hiện tại chưa cho thấy đột biến đủ lớn để nắm giữ dài hạn. Cần cân nhắc chốt lời/cơ cấu lại nếu mã này vi phạm vùng hỗ trợ cứng trong 2 phiên tới.
+- Mã: **GMD**
+- Động lực (FA): Chịu tác động kép từ rủi ro địa chính trị (giảm lưu lượng hàng hóa) và dự báo mùa bão cực đoan gây gián đoạn khai thác cảng.
+- Nhận định dòng tiền: Rủi ro ngắn hạn tăng cao, áp lực bán có thể xuất hiện do nhà đầu tư lo ngại chi phí vận hành và rủi ro gián đoạn chuỗi cung ứng.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu tín hiệu dòng tiền suy yếu.
+
+- Mã: **HVN**
+- Động lực (FA): Mở bán thêm 60.000 vé máy bay dịp lễ 2/9, phản ánh nhu cầu du lịch nội địa hồi phục.
+- Nhận định dòng tiền: Tin tức mang tính bổ trợ tích cực cho kỳ vọng doanh thu quý III, có thể thu hút dòng tiền trading ngắn hạn trước thềm lễ.
+- Hành động: Tiếp tục quan sát phản ứng tại vùng giá hiện tại để gia tăng vị thế nếu có tín hiệu dòng tiền vào mạnh.
+
+🔄 3. Cảnh báo Tái cơ cấu (Mã mục tiêu: BSR):
+- Dữ liệu mới: Giá dầu tăng do căng thẳng địa chính trị làm tăng giá vốn đầu vào. 
+- Nhận định: Với BSR, giá dầu cao kéo dài là con dao hai lưỡi (tăng giá trị tồn kho nhưng có thể làm biên lợi nhuận lọc hóa dầu chịu áp lực nếu giá thành phẩm không tăng tương ứng). Do đã qua điểm rơi kỳ vọng tháng 3/2026, khuyến nghị giữ vị thế quan sát chặt biên lợi nhuận. Nếu biên lợi nhuận bắt đầu thu hẹp, đây là thời điểm phù hợp để chốt lời/cơ cấu lại dòng tiền sang các mã có câu chuyện tăng trưởng nội tại mạnh hơn.
