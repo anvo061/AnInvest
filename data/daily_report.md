@@ -1,22 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 ngày 11/08/2026
+⏱ Thời gian: 08:05 - 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Dòng tín dụng BĐS đạt 1,12 triệu tỷ đồng với sự tham gia mạnh mẽ từ khối ngân hàng -> Đánh giá: Tích cực (tâm lý thị trường) -> Dòng tiền sẽ ưu tiên nhóm Ngân hàng thương mại (TCB, VPB) và các doanh nghiệp BĐS có quỹ đất sạch, pháp lý hoàn thiện (VHM).
-- Cạnh tranh gay gắt về tiêu chuẩn xuất khẩu sầu riêng tại thị trường Trung Quốc (Thái Lan vượt trội về hàng loại A) -> Đánh giá: Tiêu cực -> Áp lực lên nhóm cổ phiếu nông nghiệp có mảng xuất khẩu sầu riêng trọng điểm (HAG).
+- Dòng tín dụng 1,12 triệu tỷ đồng tập trung vào BĐS cho thấy sự phục hồi thanh khoản thị trường -> Đánh giá: Tích cực (ngắn hạn) -> Dòng tiền sẽ hướng vào nhóm Ngân hàng có tỷ trọng cho vay BĐS cao và các doanh nghiệp Phát triển BĐS đầu ngành.
+- Doanh nghiệp gặp khó khăn về tài sản thế chấp và chi phí vốn dù lãi suất thấp -> Đánh giá: Tiêu cực -> Áp lực lên chất lượng tài sản ngân hàng (nợ xấu) và rủi ro đình trệ sản xuất ở nhóm doanh nghiệp sản xuất quy mô vừa và nhỏ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TCB, VPB**
-- Động lực (FA): Dư nợ tín dụng BĐS tăng trưởng mạnh, củng cố thu nhập lãi thuần.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh dịch chuyển vào nhóm tài chính khi các chỉ số vĩ mô về tín dụng có sự đồng thuận.
-- Hành động: Chú ý giải ngân nếu tín hiệu thanh khoản bùng nổ trong phiên sáng.
+- Mã: TCB, VPB, VHM
+- Động lực (FA): Dòng vốn tín dụng 1,12 triệu tỷ đồng đổ vào BĐS, hỗ trợ trực tiếp thanh khoản dự án và tăng trưởng thu nhập lãi thuần của ngân hàng.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức sẽ gia tăng tỷ trọng ở các mã đầu ngành BĐS và Ngân hàng khi thông tin tín dụng được xác thực.
+- Hành động: Chú ý giải ngân nếu xuất hiện điểm nén nền giá trên đồ thị 15p; quan sát kỹ áp lực cung tại các vùng kháng cự ngắn hạn.
 
-- Mã: **VHM**
-- Động lực (FA): Thanh khoản thị trường BĐS cải thiện từ dòng vốn tín dụng.
-- Nhận định dòng tiền: Dòng tiền có xu hướng bắt đáy khi áp lực tài chính của ngành giảm bớt.
-- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ cứng.
-
-- Mã: **HAG**
-- Động lực (FA): Áp lực cạnh tranh chất lượng sầu riêng từ Thái Lan gây rủi ro biên lợi nhuận.
-- Nhận định dòng tiền: Rủi ro dòng tiền ngắn hạn sẽ rút ra để tránh vùng trũng thông tin bất lợi.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+- Mã: HAG
+- Động lực (FA): Cạnh tranh thị phần sầu riêng tại Trung Quốc suy giảm so với Thái Lan (vấn đề chất lượng).
+- Nhận định dòng tiền: Rủi ro suy giảm niềm tin của dòng tiền đầu cơ vào nhóm nông nghiệp, dễ dẫn đến trạng thái bán tháo nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế bắt đáy.
