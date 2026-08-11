@@ -1,22 +1,34 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:18:13 - 11/08/2026
+⏱ Thời gian: 12:45, ngày 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giá dầu Brent vọt lên 88 USD/thùng:** -> [Tích cực] -> Dòng tiền ngắn hạn sẽ tập trung vào nhóm Dầu khí thượng nguồn và dịch vụ kỹ thuật.
-- **Lãi suất huy động tăng lên mức 8,2%/năm:** -> [Tiêu cực] -> Áp lực lên nhóm Tài chính (Chứng khoán) và Bất động sản do chi phí vốn tăng, dòng tiền có xu hướng thận trọng.
-- **Việc đóng tàu quân sự nội địa:** -> [Tích cực] -> Hỗ trợ nhóm Thép và Cơ khí chế tạo.
+- **Nới lỏng tiền tệ:** BIDV tung gói 50.000 tỷ & NCB giảm lãi suất cho vay -> [Tác động: Tích cực] -> Dòng tiền ưu tiên nhóm Ngân hàng (dẫn dắt thanh khoản) và nhóm Sản xuất/Bất động sản (giảm chi phí vốn).
+- **Xuất khẩu nông sản:** Trung Quốc chi 1 tỷ USD mua sầu riêng -> [Tác động: Tích cực] -> Dòng tiền tập trung vào các mã nông nghiệp có quỹ đất và thị phần xuất khẩu lớn.
+- **Hợp tác quốc tế:** Việt Nam - Australia đẩy mạnh hợp tác khoáng sản -> [Tác động: Tích cực] -> Nhóm khai khoáng, công nghiệp phụ trợ.
+- **Giá năng lượng:** Giá dầu thế giới tăng -> [Tác động: Tích cực] -> Nhóm thượng nguồn/trung nguồn (PVD, BSR).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu Brent tiệm cận 88 USD/thùng, cải thiện trực tiếp đơn giá cho thuê giàn khoan.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dòng tiền có khả năng đẩy mạnh để kiểm tra các vùng kháng cự ngắn hạn.
-  - Hành động: **Chú ý giải ngân** theo đà tăng, quản trị rủi ro tại ngưỡng hỗ trợ gần nhất.
-
-- **Mã: VCB, GAS, VNM, BID**
-  - Động lực (FA): Các mã trụ có vốn nhà nước được kỳ vọng dẫn dắt VN-Index vượt ngưỡng 1.800 điểm.
-  - Nhận định dòng tiền: Dòng tiền lớn (Big Boys) có thể tập trung điều tiết các mã này để giữ nhịp chỉ số.
-  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch tại các vùng cản tâm lý.
+- **Mã:** HAG
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ nhu cầu sầu riêng tăng mạnh tại thị trường Trung Quốc.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ sớm phản ứng với tin tức kim ngạch xuất khẩu, tạo nhịp tăng ngắn hạn.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá tích lũy.
+- **Mã:** PVD, BSR
+  - **Động lực (FA):** Giá dầu thế giới tăng hỗ trợ giá dịch vụ khoan và biên lợi nhuận lọc hóa dầu.
+  - **Nhận định dòng tiền:** Nhóm dầu khí có tính chất nhạy sóng, dự báo dòng tiền xoay trục sang nhóm năng lượng.
+  - **Hành động:** Tiếp tục quan sát điểm xoay của giá dầu để gia tăng tỷ trọng.
+- **Mã:** BID
+  - **Động lực (FA):** Triển khai gói tín dụng 50.000 tỷ củng cố dư nợ và thị phần.
+  - **Nhận định dòng tiền:** Tích cực, hỗ trợ chỉ số chung.
+  - **Hành động:** Tiếp tục quan sát.
+- **Mã:** MSR
+  - **Động lực (FA):** Hợp tác khoáng sản chiến lược với Australia.
+  - **Nhận định dòng tiền:** Tin tức mang tính định hướng dài hạn, dòng tiền ngắn hạn cần thời gian để thẩm thấu.
+  - **Hành động:** Tiếp tục quan sát.
+- **Mã:** NET
+  - **Động lực (FA):** Lợi nhuận hụt hơi, chỉ đạt dưới 30% kế hoạch.
+  - **Nhận định dòng tiền:** Tiêu cực, áp lực xả hàng từ nhà đầu tư tổ chức và cá nhân là rất lớn.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Giá dầu Brent tăng lên 88 USD/thùng tác động tích cực đến giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Mặc dù đã qua kỳ vọng ban đầu, nhưng dữ liệu vĩ mô hiện tại hỗ trợ giữ vị thế để tận dụng sóng giá dầu. **Tiếp tục giữ** để quan sát phản ứng tại ngưỡng lợi nhuận mục tiêu mới, chưa cần cơ cấu gấp.
+- **Mã:** BSR (Nhóm quá hạn)
+  - **Nhận định:** Dữ liệu giá dầu tăng là yếu tố "Support" kịp thời. Tuy nhiên, do đã chạm mốc thời gian kỳ vọng (Tháng 6/2026), đây là thời điểm tối ưu để thực hiện hóa lợi nhuận từng phần. Cần theo dõi sát biên lợi nhuận quý gần nhất để quyết định nắm giữ tiếp hay thoái vốn hoàn toàn sang nhóm ngành có tăng trưởng tín dụng mới (Ngân hàng).
