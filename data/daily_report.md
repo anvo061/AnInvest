@@ -1,28 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:45
+⏱ Thời gian: 17:45 ngày 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính sách miễn thuế kinh doanh cho ngành nghề ưu đãi tại Trung tâm tài chính quốc tế TP.HCM đến năm 2030 -> Tích cực -> Dòng tiền sẽ hướng vào nhóm Ngân hàng, Chứng khoán (đặc biệt là SSI, HCM) và Bất động sản khu công nghiệp/văn phòng tại TP.HCM.
-- Dự trữ dầu chiến lược của Mỹ xuống thấp nhất 40 năm, thúc đẩy nhu cầu mua bù -> Tích cực -> Dòng tiền hướng vào nhóm Dầu khí thượng nguồn (PVD, PVS).
-- Congo cấm xuất khẩu tinh quặng đồng/coban -> Tích cực -> Hỗ trợ giá kim loại cơ bản, tạo sóng cho nhóm khai khoáng (MSR).
+- Chính sách miễn thuế tại Trung tâm tài chính quốc tế TP.HCM đến 2030 và hạn chế thương mại Mỹ - Trung (chip/năng lượng) -> Tích cực cho nhóm Tài chính và BĐS KCN -> Dòng tiền sẽ tập trung vào nhóm Chứng khoán (hệ sinh thái tài chính) và BĐS Khu công nghiệp (đón sóng dịch chuyển chuỗi cung ứng).
+- Áp lực bán ròng khối ngoại tại các trụ lớn (VHM, VCB, HPG, MSN) -> Tiêu cực -> Gây nhiễu rung lắc chỉ số chung, ưu tiên chiến lược chọn lọc cổ phiếu (stock-picking) hơn là đánh theo chỉ số.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới neo cao do kỳ vọng Mỹ tăng cường mua dầu dự trữ chiến lược.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp từ kỳ vọng cải thiện biên lợi nhuận giàn khoan. Dòng tiền ngắn hạn có thể gia tăng mạnh nếu break nền giá.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự với thanh khoản đột biến.
+- Mã: **CEO**
+- Động lực (FA): Dự án tàu điện đô thị 9.000 tỉ tại Phú Quốc triển khai giai đoạn lắp ray và hiệu chuẩn.
+- Nhận định dòng tiền: Tin tức hạ tầng cụ thể hóa kỳ vọng tăng trưởng dài hạn cho quỹ đất Phú Quốc, dòng tiền đầu cơ sẽ sớm phản ứng với tiến độ dự án.
+- Hành động: Chú ý giải ngân khi có nhịp rung lắc theo thị trường chung, ưu tiên nắm giữ theo tiến độ hạ tầng.
 
-- Mã: **HCM**
-- Động lực (FA): Hưởng lợi kép từ chính sách ưu đãi thuế của Trung tâm tài chính quốc tế TP.HCM và nghiệp vụ CW thường kỳ.
-- Nhận định dòng tiền: Thông tin vĩ mô mang tính dẫn dắt dài hạn, củng cố đà tăng trung hạn.
-- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho kỳ vọng sóng ngành chứng khoán.
+- Mã: **SSI / HCM**
+- Động lực (FA): Chính sách miễn thuế kinh doanh tại Trung tâm tài chính quốc tế TP.HCM đến 2030.
+- Nhận định dòng tiền: Tạo kỳ vọng lớn về biên lợi nhuận dài hạn, dòng tiền sẽ ưu tiên các mã đầu ngành có thị phần môi giới và tư vấn lớn.
+- Hành động: Quan sát vùng giá hỗ trợ, gia tăng vị thế khi xu hướng dòng tiền nhóm ngành chứng khoán xác nhận vượt đỉnh.
 
-- Mã: **GEE**
-- Động lực (FA): Lực cầu áp đảo bất chấp thị trường chung rung lắc (Trắng bên bán).
-- Nhận định dòng tiền: Dòng tiền đầu cơ cực mạnh, mã đang vận hành theo câu chuyện riêng biệt (cô đặc).
-- Hành động: Rủi ro vi phạm kịch bản nếu thị trường điều chỉnh sâu, chỉ dành cho khẩu vị rủi ro cao.
+- Mã: **KBC / SZC**
+- Động lực (FA): Làn sóng dịch chuyển chuỗi cung ứng chip/năng lượng từ Trung Quốc sang Việt Nam theo chính sách thương mại mới của Mỹ.
+- Nhận định dòng tiền: Lợi thế từ quỹ đất sẵn sàng cho thuê giúp nhóm này duy trì sức hút dòng tiền ngoại bất chấp áp lực bán ròng chung.
+- Hành động: Tiếp tục quan sát để điểm hợp lưu giải ngân khi thị trường ổn định trở lại.
 
-- Mã: **CCT**
-- Động lực (FA): Thông báo điều chỉnh nới room ngoại.
-- Nhận định dòng tiền: Kỳ vọng thu hút vốn ngoại cải thiện thanh khoản, tạo tâm lý tích cực ngắn hạn.
-- Hành động: Tiếp tục quan sát phản ứng của dòng tiền trong 2 phiên tới.
+- Mã: **VHC / ANV**
+- Động lực (FA): Đẩy mạnh hạ tầng logistics và hỗ trợ vốn nông nghiệp tại miền Tây.
+- Nhận định dòng tiền: Tối ưu chi phí biên lợi nhuận, kỳ vọng dòng tiền trung hạn sẽ phân hóa mạnh vào nhóm này.
+- Hành động: Tiếp tục quan sát kịch bản dòng tiền vào nhóm thủy sản/nông nghiệp.
