@@ -1,21 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:52 - 11/08/2026
+⏱ Thời gian: 15:45 - 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá & Tiền tệ (USD suy yếu):** Dữ liệu việc làm Mỹ yếu làm giảm áp lực tỷ giá VND, tạo dư địa nới lỏng tiền tệ -> **Tích cực** -> Nhóm Tài chính (SSI, VHM) hưởng lợi trực tiếp từ thanh khoản và chi phí vốn.
-- **Dịch chuyển chuỗi cung ứng (AI & Điện khí hóa):** Sự bùng nổ AI tại Singapore và nhu cầu điện khí hóa tại EU -> **Tích cực** -> Nhóm Công nghệ (FPT) và Thiết bị điện/Hạ tầng năng lượng.
-- **Giá hàng hóa (Dầu & Thép):** Trung Quốc giảm nhu cầu nội địa (lạm phát thấp) và bùng nổ xe điện làm giảm cầu xăng dầu -> **Tiêu cực** -> Áp lực lên nhóm Lọc hóa dầu và Thép xuất khẩu.
+- **Tỷ giá USD tự do giảm dưới 26.000 đồng & Gói tín dụng 70.000 tỷ của Agribank:** -> [Đánh giá tác động: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm doanh nghiệp vay nợ ngoại tệ lớn (Bất động sản, Điện) và các doanh nghiệp SME cần vốn lưu động (Dệt may, Thủy sản, Bán lẻ).
+- **Congo cấm xuất khẩu tinh quặng đồng và coban:** -> [Đánh giá tác động: Tích cực] -> Dòng tiền hướng vào nhóm ngành khai khoáng, kim loại chiến lược.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** FPT
-- **Động lực (FA):** Hưởng lợi gián tiếp từ sự bùng nổ hạ tầng số và AI tại thị trường Singapore (GDP Q2 tăng trưởng mạnh).
-- **Nhận định dòng tiền:** Củng cố xu hướng tăng trưởng doanh thu từ thị trường nước ngoài, thu hút dòng tiền trung-dài hạn.
-- **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi có nhịp điều chỉnh kỹ thuật.
-
-- **Mã:** BSR
-- **Động lực (FA):** Xu hướng toàn cầu chuyển dịch sang xe điện và suy yếu nhu cầu xăng dầu tại Trung Quốc gây áp lực lên giá dầu thô và biên lợi nhuận lọc dầu.
-- **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể gặp áp lực chốt lời do lo ngại biên lợi nhuận thu hẹp.
-- **Hành động:** Rủi ro vi phạm kịch bản kỳ vọng, quan sát vùng hỗ trợ cứng, xem xét giảm tỷ trọng nếu giá mất các mốc kỹ thuật quan trọng.
+- **Mã: MSR**
+    - Động lực (FA): Hưởng lợi từ việc thắt chặt nguồn cung đồng/coban toàn cầu do lệnh cấm tại Congo.
+    - Nhận định dòng tiền: Tín hiệu hỗ trợ mạnh cho giá hàng hóa, tạo kỳ vọng tăng biên lợi nhuận cho doanh nghiệp khai thác đa kim.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt kháng cự gần nhất.
+- **Mã: VHM, POW**
+    - Động lực (FA): Tỷ giá hạ nhiệt trực tiếp làm giảm áp lực lỗ chênh lệch tỷ giá và chi phí tài chính.
+    - Nhận định dòng tiền: Hỗ trợ tích cực cho tâm lý nhà đầu tư tổ chức đối với các mã vốn hóa lớn.
+    - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế.
+- **Mã: TNG, VHC, DGW**
+    - Động lực (FA): Tiếp cận nguồn vốn ưu đãi (gói 70.000 tỷ của Agribank), tối ưu hóa chi phí lãi vay.
+    - Nhận định dòng tiền: Kỳ vọng cải thiện biên lợi nhuận ròng, dòng tiền ngắn hạn sẽ tập trung ở nhóm này.
+    - Hành động: Chú ý giải ngân theo nhịp điều chỉnh.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Dữ liệu vĩ mô về xu hướng tiêu thụ năng lượng toàn cầu (xe điện thay thế xăng dầu) đang gây áp lực lên mô hình kinh doanh truyền thống. Với mốc thời gian hiện tại (tháng 8/2026), cần xem xét lại kỳ vọng lợi nhuận. Nếu biên lợi nhuận gộp quý tới không duy trì được mức nền cũ, khuyến nghị chủ động cắt giảm vị thế để tái cơ cấu dòng tiền sang các ngành hưởng lợi từ điện khí hóa hoặc hạ tầng công nghệ.
+- **Mã: BSR**
+    - Nhận định: Áp lực kép từ giá dầu toàn cầu giảm (do nhu cầu xăng dầu tại Trung Quốc sụt giảm bởi bùng nổ xe điện) và dự án đã qua kỳ vọng. Dữ liệu vĩ mô hiện tại tiêu cực đối với biên lợi nhuận lọc dầu. Kiến nghị: **Cơ cấu lại/Hạ tỷ trọng** để bảo toàn vốn và chuyển dịch sang các nhóm ngành hưởng lợi từ hạ lãi suất và tỷ giá ổn định.
