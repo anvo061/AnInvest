@@ -1,5 +1,69 @@
 ﻿[
   {
+    "Title": "Turkey Delays Black Sea Ship Access After Surge in Attacks - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1NPUFhqNXgyWHZLS2xSLWIzeTZPU0hHX1pJU3dod1B0czY1UW5wYjM2QlREd090MmRTYlFXbWhmZEo3MWxjU2drNWI1b01LUUZxMXRSVVNHUkhDSTZyakhtd0RpdWtmTURxR3RXZkczYXJUQTNQNlk5YUJYRFFNejUwUURVU1hNdms4cjRycUpsWW9wTHNYVFlRRUo1eVNmMmkzbkhWUms0S25DSVpVOUd5cw?oc=5",
+    "PubDate": "Sat, 08 Aug 2026 13:04:51 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc gián đoạn vận tải tại Biển Đen làm tăng chi phí logistics và rủi ro chuỗi cung ứng toàn cầu, gây áp lực lên giá cước vận tải biển và các doanh nghiệp xuất khẩu nông sản/thép của Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Vận tải biển. Gián đoạn Biển Đen làm tăng chi phí logistics và rủi ro chuỗi cung ứng. Dòng tiền ngắn hạn thận trọng với HAH do áp lực chi phí vận hành.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro gián đoạn tuyến vận tải quốc tế làm tăng chi phí bảo hiểm và vận hành tàu biển."
+      }
+    ],
+    "AnalyzedAt": "2026-08-12 06:39:59"
+  },
+  {
+    "Title": "FUESSVFL: Kết thúc giao dịch hoán đổi ngày 10/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUY4VlV5T0xST2ZIdzd3WXF2blJSYk5CekZoaTdWcjNxY280MVRYNjcwcXJxV2l6ZE9YWDQyTjR1UG9mZ0k4MTJDM3NUQnJFbTJwRnlsZVl2bVNIY0R5YjJrUGZFMkViX0w0MHVSUXE3QUY3NnQ3cVBQS1dSaXk5OUJxZzRhS285b1lGZ0F0cXVXd1plZlV2YUlBRTZHcjFEckJvdlQ2YUJTNVFYWXA1UFZ0LXA3QQ?oc=5",
+    "PubDate": "Tue, 11 Aug 2026 10:12:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không phản ánh thay đổi trong danh mục đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là nghiệp vụ vận hành quỹ ETF thông thường, không tạo ra áp lực mua/bán đột biến lên các mã cổ phiếu thành phần trong danh mục.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-12 06:39:27"
+  },
+  {
+    "Title": "Sonadezi Long Thành sắp trả cổ tức bằng cổ phiếu tỷ lệ 70% - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWI1ZE13OFlsaWZKakZZb2ZXQ1JreTVURFkxLTA3clhmMmF1VFl3WWJfSksyVnhJSUQ4eU0tVEdJc29JMlduRXc4SWNjY29GaW9QX0Vqam5DN1hvMXI3akhpc2pRLW9BSElpc1VWQzFOeGxKb2E5c0VqZG53Zlh5MHhOUlBtUDZQZkpqbTRYcUFtRVVCWUhNSTVONnYtdw?oc=5",
+    "PubDate": "Tue, 11 Aug 2026 23:33:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc trả cổ tức bằng cổ phiếu tỷ lệ cao cho thấy tình hình tài chính lành mạnh và cam kết giữ lại lợi nhuận để tái đầu tư, giúp tăng thanh khoản cổ phiếu trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SZL. Trả cổ tức 70% bằng cổ phiếu làm pha loãng EPS, không tạo dòng tiền thực. Cần theo dõi áp lực cung sau khi cổ phiếu về tài khoản.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SZL",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn điều lệ và thanh khoản cổ phiếu, phản ánh sức khỏe tài chính tốt của doanh nghiệp bất động sản khu công nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-12 06:38:37"
+  },
+  {
+    "Title": "Ngành ngân hàng có thực sự cắt giảm nhân viên?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nganh-ngan-hang-co-thuc-su-cat-giam-nhan-vien-5106358.html",
+    "PubDate": "Wed, 12 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc điều chỉnh nhân sự trong ngành ngân hàng hiện nay chủ yếu là tái cơ cấu để tối ưu hóa chi phí vận hành và chuyển đổi số, không phản ánh sự suy yếu của toàn ngành.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Tối ưu hóa nhân sự là bước đi tất yếu trong chuyển đổi số, giúp cải thiện biên lợi nhuận dài hạn. Không tác động đột biến đến dòng tiền ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-12 06:38:24"
+  },
+  {
     "Title": "FUEFCV50: Kết thúc giao dịch hoán đổi ngày 10/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTlwU1R6RDE1cVRKOGtCT0lFcFVING1aUXRYb2FNdGZHc1NmWTVZTy1tSnQ4MThvSF9rUVMyd3R6VDNRT3RTbkdEdEIwQkU2b3ByTUhfcHhVaUtzcEN6c0hGSjZBbVdtZFYxYVp6TXVaZlpoMHNJWmxkal8zajZNbnI0aFdMbFJpeWtJeXhJUW1MMW5LWUx5MVNpSHo?oc=5",
@@ -16745,85 +16809,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-04 20:43:32"
-  },
-  {
-    "Title": "MBS: 17.8.2026, ngày GDKHQ trả cổ tức 2025 (1.000 đ/cp) - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1I4QTNweHMyVW1Cek8wTm5STDlQMElrX2hMZWR6cldYdjFiZjlQZTJ6WllQLW9DQzZwLXJibmNjeW5ZcFN3Z1lTdDBiZEhUS0s3U2pheEF1MEpjMVE4dFlfbmFobDBFQms5c2xIZGg3S2JoMWZWMkpldDR3Rm1rbUdqMTV2UFFBeTA2b28wUjVXQWpIdWk0NkdWQ1JPY3BXelB2UzZZZ0VZQ0E?oc=5",
-    "PubDate": "Mon, 03 Aug 2026 17:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt thể hiện sức khỏe tài chính ổn định của MBS, tạo tâm lý tích cực cho cổ đông và thu hút dòng tiền đầu tư giá trị trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - MBS. Cổ tức tiền mặt 10% củng cố niềm tin nhà đầu tư. Dòng tiền sẽ duy trì ổn định quanh vùng giá trước ngày GDKHQ do áp lực chốt lời không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MBS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Việc chi trả cổ tức tiền mặt giúp gia tăng giá trị thực cho cổ đông, củng cố niềm tin vào năng lực tài chính của doanh nghiệp."
-      }
-    ],
-    "AnalyzedAt": "2026-08-04 20:43:17"
-  },
-  {
-    "Title": "Phiên 4/8: Khối ngoại tiếp đà mua ròng, tung hơn 700 tỷ gom hai cổ phiếu bluechips - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkdKVzJwd3lpZjFKTG9IcVZUNGZLSkZGWFdJRG9LTTR1WHV3ek1BaWJwT3h5VGVtVmlWakpPRlltLTA4bWlYR3ptSkw1R2FLTUppYUF3ZUNBcVdOUmNPMURLM2VMSUZEdHNMdHBRMnd6ZkhsTVJiX011N1k0QkhuTFE3N0x1TnhUdXlsQWp1YTZOUzlxTkxWOGNnMjBwVDRHX2ZDdXhMU3ZoY2RmOUFwNWVfNmdyVnRfUV8zSA?oc=5",
-    "PubDate": "Tue, 04 Aug 2026 08:45:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Dòng vốn ngoại quay lại mua ròng mạnh các mã bluechips giúp cải thiện tâm lý thị trường và hỗ trợ chỉ số VN-Index duy trì xu hướng hồi phục ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Dòng tiền ngoại tập trung vào Bluechips tạo lực đỡ chỉ số. Cần theo dõi sát danh mục cụ thể thay vì suy diễn lan man trên toàn bộ nhóm vốn hóa lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-04 20:43:02"
-  },
-  {
-    "Title": "Chủ tịch Petrovietnam đề xuất khôi phục lại Quỹ rủi ro tìm kiếm, thăm dò dầu khí",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/chu-tich-petrovietnam-de-xuat-khoi-phuc-lai-quy-rui-ro-tim-kiem-tham-do-dau-khi-100260804174340259.htm",
-    "PubDate": "8/4/2026 6:10:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc khôi phục quỹ giúp tháo gỡ nút thắt tài chính cho các dự án thăm dò, khai thác dầu khí, tạo tiền đề tăng khối lượng công việc cho các doanh nghiệp dịch vụ dầu khí thượng nguồn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Khôi phục quỹ rủi ro tháo gỡ nút thắt tài chính cho thăm dò. PVS, PVD hưởng lợi trực tiếp từ backlog dự án thượng nguồn. GAS không chịu tác động trực tiếp từ quỹ này.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ các dự án thăm dò, khai thác mới nhờ tăng khối lượng công việc EPCI."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu khoan thăm dò tăng giúp cải thiện hiệu suất sử dụng giàn khoan và giá thuê ngày."
-      }
-    ],
-    "AnalyzedAt": "2026-08-04 20:42:43"
-  },
-  {
-    "Title": "Vietfish 2026 quy tụ 335 doanh nghiệp ngành thuỷ sản trong và ngoài nước",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vietfish-2026-quy-tu-335-doanh-nghiep-nganh-thuy-san-trong-va-ngoai-nuoc-2542041.html",
-    "PubDate": "Tue, 04 Aug 2026 19:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Sự kiện xúc tiến thương mại mang tính chất định kỳ, giúp kết nối cung cầu nhưng không tạo ra thay đổi đột biến về doanh thu hay biên lợi nhuận ngay lập tức cho các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Thủy sản. Sự kiện xúc tiến thương mại mang tính chất quảng bá, không tác động trực tiếp đến dòng tiền ngắn hạn. Dòng tiền sẽ duy trì trạng thái tích lũy.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHC",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Doanh nghiệp đầu ngành tham gia sự kiện để quảng bá, tác động đến doanh thu là dài hạn, không ảnh hưởng đến biến động giá ngắn hạn."
-      },
-      {
-        "Ticker": "ANV",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Sự kiện hỗ trợ tìm kiếm đối tác mới nhưng chưa có đơn hàng cụ thể để tạo động lực tăng giá cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-04 20:42:30"
   }
 ]
