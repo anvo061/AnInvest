@@ -1,21 +1,18 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:45
+⏱ Thời gian: 19:15 ngày 11/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kết quả kinh doanh niêm yết tăng 50% & dòng tiền tự doanh gom mạnh nhóm Bluechips -> **Tích cực** -> Dòng tiền tập trung vào nhóm Tài chính - Ngân hàng (VCB, TCB) và Thép (HPG).
-- Chính sách hạn chế thương mại Mỹ - Trung (chips/năng lượng) gia tăng xu hướng dịch chuyển FDI -> **Tích cực** -> Dòng tiền hướng vào Bất động sản khu công nghiệp (KBC, SZC).
-- Căng thẳng Trung Đông kéo dài gây rủi ro lạm phát chi phí đẩy -> **Tiêu cực** -> Tạo áp lực điều chỉnh lên các ngành phụ thuộc chi phí vận tải và giá dầu.
+- **Tăng trưởng lợi nhuận ngân hàng:** Nhóm ngân hàng niêm yết đồng loạt báo cáo tăng trưởng lợi nhuận mạnh, 7 nhà băng lập đỉnh mới -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng dẫn dắt (VCB, TCB, MBB) nhằm củng cố chỉ số VN-Index.
+- **Rủi ro địa chính trị:** Xung đột tại Trung Đông kéo dài gây áp lực lạm phát chi phí đẩy -> **Tiêu cực** -> Cần theo dõi sát nhóm vận tải biển và năng lượng (PVD) trước áp lực biến động giá dầu.
+- **Chính sách thương mại Mỹ - Trung:** Mỹ công bố biện pháp hạn chế thương mại mới với Trung Quốc về năng lượng mặt trời và chip -> **Tích cực (ngắn hạn)** -> Dòng tiền kỳ vọng hướng vào nhóm Bất động sản khu công nghiệp (KBC, SZC) đón sóng dịch chuyển FDI.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCB, TCB**
-    - Động lực (FA): Lợi nhuận tăng trưởng ấn tượng + Dòng tiền tự doanh mua ròng mạnh trong phiên điều chỉnh.
-    - Nhận định dòng tiền: Củng cố nền giá cứng, giảm thiểu rủi ro biến động mạnh của VN-Index.
-    - Hành động: Chú ý giải ngân nếu có nhịp rung lắc về vùng hỗ trợ kỹ thuật.
-- **Mã: KBC, SZC**
-    - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng (chiến lược chip/năng lượng Mỹ-Trung).
-    - Nhận định dòng tiền: Kỳ vọng sóng trung hạn do dòng vốn FDI vào Việt Nam có tính bền vững.
-    - Hành động: Tiếp tục nắm giữ, ưu tiên tích lũy tại các phiên điều chỉnh theo thị trường chung.
-- **Mã: CEO**
-    - Động lực (FA): Tiến độ hạ tầng tại Phú Quốc (tàu điện) đẩy nhanh giá trị quỹ đất khu vực.
-    - Nhận định dòng tiền: Phản ứng tích cực với tin tức hạ tầng, kỳ vọng hồi phục khi thị trường bất động sản nghỉ dưỡng ấm lại.
-    - Hành động: Theo dõi sát vùng cản kỹ thuật ngắn hạn.
+- **Mã:** VCB, TCB, HPG
+- **Động lực (FA):** Kết quả kinh doanh tăng trưởng ấn tượng (ngân hàng) và hoạt động mua ròng mạnh từ khối tự doanh trong các phiên điều chỉnh gần đây.
+- **Nhận định dòng tiền:** Dòng tiền thông minh đang chủ động "gom hàng" tại vùng định giá hợp lý đối với nhóm Bluechip. Đây là lực đỡ quan trọng cho thị trường trong bối cảnh các nhóm vốn hóa vừa và nhỏ biến động mạnh.
+- **Hành động:** Tập trung quan sát nhịp hồi phục của nhóm ngân hàng; duy trì tỷ trọng đối với các mã Bluechip có tăng trưởng lợi nhuận thực tế. 
+
+- **Mã:** KBC, SZC
+- **Động lực (FA):** Hưởng lợi từ sự dịch chuyển chuỗi cung ứng công nghệ cao sau các rào cản thương mại Mỹ - Trung.
+- **Nhận định dòng tiền:** Nhạy sóng với các tin tức vĩ mô liên quan đến FDI. Dòng tiền có xu hướng luân chuyển vào nhóm này khi có các tin tức về chính sách thương mại quốc tế.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì sức mạnh tại các vùng hỗ trợ kỹ thuật.
