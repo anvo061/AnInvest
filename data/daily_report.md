@@ -1,21 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30 - 12/08/2026
+⏱ Thời gian: 05:15 - 12/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ Chile bơm 2,4 tỷ USD hỗ trợ tập đoàn đồng Codelco -> [Tác động: Tích cực] -> [Dòng tiền hướng tới: Nhóm khai khoáng và điện (nhạy sóng với giá kim loại cơ bản như PC1)].
+- **Căng thẳng địa chính trị Trung Đông:** Mỹ gia tăng rủi ro xung đột quân sự tại vùng Vịnh -> **Tác động: Tiêu cực** -> Dòng tiền có xu hướng dịch chuyển khỏi các nhóm ngành nhạy cảm với chi phí năng lượng.
+- **Dòng vốn khối ngoại quay lại các mã Bluechip (FPT, VIC, HPG):** Cải thiện thanh khoản thị trường chung -> **Tác động: Tích cực** -> Củng cố xu hướng tăng của VN-Index.
+- **Rào cản năng lượng mặt trời tại Mỹ:** Mỹ siết chặt hàng rào với Trung Quốc -> **Tác động: Tích cực** -> Dòng tiền dự kiến hướng vào nhóm doanh nghiệp sản xuất thiết bị điện và năng lượng tái tạo tại Việt Nam (hưởng lợi gián tiếp từ dịch chuyển chuỗi cung ứng).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PC1**
-- Động lực (FA): Giá đồng toàn cầu dự báo ổn định và có xu hướng phục hồi nhờ động thái bơm vốn hỗ trợ nguồn cung từ Chile.
-- Nhận định dòng tiền: Tin tức hỗ trợ tâm lý tích cực cho các doanh nghiệp có hoạt động kinh doanh nhạy bén với nguyên liệu đầu vào là đồng và đầu tư lưới điện.
-- Hành động: Chú ý quan sát phản ứng dòng tiền tại vùng nền giá hiện tại.
+- Mã: **BSR**
+- Động lực (FA): Căng thẳng địa chính trị tại Trung Đông leo thang gây áp lực tăng giá dầu thô.
+- Nhận định dòng tiền: Rủi ro biên lợi nhuận lọc hóa dầu bị thu hẹp trong ngắn hạn do chi phí đầu vào tăng nhanh. Dòng tiền có thể gặp áp lực bán hoặc chốt lời ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng theo dõi ngưỡng hỗ trợ kỹ thuật gần nhất.
 
-- Mã: **HVN, ACV**
-- Động lực (FA): Sự cố gián đoạn 60 chuyến bay gây áp lực chi phí vận hành và rủi ro uy tín dịch vụ.
-- Nhận định dòng tiền: Áp lực bán ngắn hạn từ tâm lý nhà đầu tư cá nhân lo ngại về chi phí phát sinh và gián đoạn vận hành.
-- Hành động: Rủi ro vi phạm kịch bản ngắn hạn; đề nghị đứng ngoài quan sát lực cầu bắt đáy.
-
-- Mã: **VCB, TCB, HPG**
-- Động lực (FA): Dữ liệu ghi nhận dòng tiền tự doanh gom mạnh trong phiên giảm điểm.
-- Nhận định dòng tiền: Xác nhận vùng định giá hấp dẫn đã được các tổ chức lớn hấp thụ, tạo lực đỡ cho VN-Index.
-- Hành động: Tiếp tục giữ vị thế; đây là nhóm trụ cột để neo giữ điểm số.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR (Vị thế trung hạn):** Dữ liệu địa chính trị mới đang tạo áp lực tiêu cực lên biên lợi nhuận. Nếu giá dầu thế giới duy trì xu hướng tăng nóng mà giá sản phẩm không theo kịp, đề xuất giảm tỷ trọng để quản trị rủi ro, chờ điểm tái nhập khi giá dầu ổn định.
