@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:15, 13/08/2026
+⏱ Thời gian: 04:15 - 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Fed giữ nguyên lãi suất & lạm phát hạ nhiệt**: -> [Tích cực] -> [Dòng tiền kỳ vọng hướng vào nhóm Tài chính - Chứng khoán (SSI) nhờ kỳ vọng nới lỏng chính sách tiền tệ trong nước].
-- **Đề xuất miễn/giảm lệ phí trước bạ (BĐS & Ô tô)**: -> [Tích cực] -> [Dòng tiền hướng vào nhóm Bất động sản dân dụng (VHM, PDR) và Phân phối bán lẻ ô tô (HTL)].
-- **Quy hoạch trung tâm chế biến nông sản Tây Nguyên**: -> [Tích cực] -> [Dòng tiền nhóm Nông nghiệp (HAG)].
+- Vốn tín dụng 5.000 tỷ đồng được giải ngân cho cao tốc Bảo Lộc - Liên Khương -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm Xây lắp hạ tầng (Đầu tư công).
+- Dòng vốn ngoại mua ròng 500 tỷ tại các mã vốn hóa lớn (HPG, VCB, MSN) -> **Tích cực** -> Củng cố xu hướng tăng điểm của VN-Index.
+- Quan ngại lãi suất tiết kiệm vượt 10% -> **Tiêu cực** -> Rủi ro rút vốn từ thị trường chứng khoán nếu thanh khoản không được duy trì, cần theo dõi sát động thái hút/bơm tiền từ NHNN trong các phiên tới.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-    - Động lực (FA): Áp lực tỷ giá hạ nhiệt, Fed giữ nguyên lãi suất tạo dư địa chính sách cho NHNN.
-    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ tâm lý tích cực của thị trường và kỳ vọng thanh khoản cải thiện.
-    - Hành động: Chú ý giải ngân khi có tín hiệu dòng tiền vào nhóm chứng khoán.
-- **Mã: VHM, PDR**
-    - Động lực (FA): Đề xuất giảm lệ phí trước bạ cho BĐS giúp kích cầu thanh khoản.
-    - Nhận định dòng tiền: Thông tin mang tính hỗ trợ tâm lý "đón đầu" chính sách, thúc đẩy dòng tiền đầu cơ ngắn hạn.
-    - Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
-- **Mã: HAG**
-    - Động lực (FA): Phát triển hạ tầng chế biến sâu nông sản tại Tây Nguyên.
-    - Nhận định dòng tiền: Cải thiện biên lợi nhuận dài hạn, dòng tiền sẽ chọn lọc nhóm có câu chuyện tăng trưởng nội tại.
-    - Hành động: Quan sát sự xác nhận của dòng tiền lớn trong phiên.
+- Mã: **VCG, HHV**
+- Động lực (FA): Được hưởng lợi trực tiếp từ việc giải ngân 5.000 tỷ đồng cho dự án hạ tầng trọng điểm.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển mạnh vào nhóm thầu xây lắp khi có chất xúc tác giải ngân cụ thể.
+- Hành động: **Chú ý giải ngân** theo đà tăng, chú trọng quản trị rủi ro tại vùng kháng cự kỹ thuật.
+
+- Mã: **HPG**
+- Động lực (FA): Lực mua ròng mạnh từ khối ngoại.
+- Nhận định dòng tiền: Dòng tiền thông minh từ khối ngoại củng cố niềm tin vào xu hướng hồi phục, gia tăng xác suất phá vỡ các vùng cản ngắn hạn.
+- Hành động: **Tiếp tục quan sát** tín hiệu gia tăng thanh khoản để xác nhận điểm mua gia tăng.
+
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới neo đỉnh 1 tuần.
+- Nhận định dòng tiền: Hỗ trợ giá thuê giàn khoan và biên lợi nhuận, củng cố đà tăng ngắn hạn.
+- Hành động: **Tiếp tục quan sát** kịch bản kiểm định lại vùng đỉnh cũ.
