@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:30 ngày 13/08/2026
+⏱ Thời gian: 03:15, 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Fed giữ nguyên lãi suất & lạm phát hạ nhiệt -> Đánh giá tác động: Tích cực -> Dòng tiền hướng vào nhóm Tài chính (Chứng khoán).
-- Đề xuất giảm lệ phí trước bạ cho người có định danh điện tử mức 2 -> Đánh giá tác động: Tích cực -> Dòng tiền hướng vào nhóm Bất động sản dân dụng và Bán lẻ ô tô.
-- VJC tăng 82.000 chỗ dịp 2/9 -> Đánh giá tác động: Tích cực -> Dòng tiền hướng vào nhóm Hàng không & Dịch vụ sân bay.
+- **Fed giữ nguyên lãi suất & lạm phát hạ nhiệt**: -> [Tích cực] -> [Dòng tiền kỳ vọng hướng vào nhóm Tài chính - Chứng khoán (SSI) nhờ kỳ vọng nới lỏng chính sách tiền tệ trong nước].
+- **Đề xuất miễn/giảm lệ phí trước bạ (BĐS & Ô tô)**: -> [Tích cực] -> [Dòng tiền hướng vào nhóm Bất động sản dân dụng (VHM, PDR) và Phân phối bán lẻ ô tô (HTL)].
+- **Quy hoạch trung tâm chế biến nông sản Tây Nguyên**: -> [Tích cực] -> [Dòng tiền nhóm Nông nghiệp (HAG)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI**
-  - Động lực (FA): Fed giữ lãi suất, áp lực tỷ giá VND giảm, thanh khoản thị trường kỳ vọng cải thiện.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ tâm lý thị trường tích cực, hỗ trợ xu hướng tăng giá ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
-- Mã: **VHM / PDR**
-  - Động lực (FA): Chính sách hỗ trợ lệ phí trước bạ giúp kích cầu giao dịch BĐS.
-  - Nhận định dòng tiền: Tạo hiệu ứng tâm lý "kích cầu" giúp nhóm BĐS dân dụng thoát trạng thái ảm đạm.
-  - Hành động: Tiếp tục quan sát phản ứng dòng tiền tại vùng hỗ trợ cứng.
-- Mã: **VJC / ACV**
-  - Động lực (FA): Tăng công suất vận tải dịp cao điểm lễ 2/9.
-  - Nhận định dòng tiền: Dòng tiền có tính chất thời vụ, kỳ vọng tăng trưởng doanh thu quý 3/2026.
-  - Hành động: Chú ý giải ngân với tỷ trọng nhỏ, ưu tiên gom ở các nhịp điều chỉnh trong phiên.
+- **Mã: SSI**
+    - Động lực (FA): Áp lực tỷ giá hạ nhiệt, Fed giữ nguyên lãi suất tạo dư địa chính sách cho NHNN.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ tâm lý tích cực của thị trường và kỳ vọng thanh khoản cải thiện.
+    - Hành động: Chú ý giải ngân khi có tín hiệu dòng tiền vào nhóm chứng khoán.
+- **Mã: VHM, PDR**
+    - Động lực (FA): Đề xuất giảm lệ phí trước bạ cho BĐS giúp kích cầu thanh khoản.
+    - Nhận định dòng tiền: Thông tin mang tính hỗ trợ tâm lý "đón đầu" chính sách, thúc đẩy dòng tiền đầu cơ ngắn hạn.
+    - Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
+- **Mã: HAG**
+    - Động lực (FA): Phát triển hạ tầng chế biến sâu nông sản tại Tây Nguyên.
+    - Nhận định dòng tiền: Cải thiện biên lợi nhuận dài hạn, dòng tiền sẽ chọn lọc nhóm có câu chuyện tăng trưởng nội tại.
+    - Hành động: Quan sát sự xác nhận của dòng tiền lớn trong phiên.
