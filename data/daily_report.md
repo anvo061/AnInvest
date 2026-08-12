@@ -1,24 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:30, 12/08/2026
+⏱ Thời gian: 14:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đẩy mạnh Đầu tư công hạ tầng:** Việc VDB giải ngân cho dự án cao tốc Bảo Lộc - Liên Khương và kế hoạch thi công 8 tuyến metro tại TP.HCM trước 2030 tạo động lực tăng trưởng bền vững cho nhóm Xây lắp hạ tầng & Vật liệu xây dựng. -> **Tích cực** -> Dòng tiền tập trung vào các nhà thầu hạ tầng trọng điểm.
-- **Mở rộng chuỗi cung ứng xuất khẩu:** Nhà bán lẻ Target (Mỹ) tìm nguồn hàng tại Việt Nam củng cố dư địa tăng trưởng cho nhóm sản xuất xuất khẩu (Dệt may, Gỗ). -> **Tích cực** -> Dòng tiền phân hóa vào nhóm doanh nghiệp có tiêu chuẩn xuất khẩu cao.
+- Dữ liệu việc làm Mỹ yếu làm giảm áp lực lãi suất từ Fed -> Tích cực cho thị trường tài chính toàn cầu, giảm áp lực tỷ giá VND và mở rộng dư địa chính sách tiền tệ nới lỏng tại Việt Nam -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm ngành nhạy cảm với lãi suất như Chứng khoán, Bất động sản và các doanh nghiệp có dư nợ vay lớn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HHV, VCG, LCG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ khối lượng công việc khổng lồ từ dự án cao tốc (Bảo Lộc - Liên Khương) và các dự án Metro TP.HCM.
-  - Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ gia tăng mạnh vào nhóm xây lắp hạ tầng do tính minh bạch trong giải ngân đầu tư công.
-  - Hành động: **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật, ưu tiên các mã có backlog lớn.
-- **Mã: TNG, PTB**
-  - Động lực (FA): Cơ hội tiếp cận chuỗi cung ứng của Target, giúp cải thiện đơn hàng trung và dài hạn.
-  - Nhận định dòng tiền: Dòng tiền sẽ phản ứng tích cực với các doanh nghiệp có năng lực sản xuất sẵn sàng đáp ứng đơn hàng lớn từ Mỹ.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ mạnh.
-- **Mã: MSN**
-  - Động lực (FA): Công ty con (MHT) chia cổ tức tiền mặt 10%, cải thiện dòng tiền về cho công ty mẹ.
-  - Nhận định dòng tiền: Hỗ trợ tích cực tâm lý nhà đầu tư, củng cố đà tăng nếu thị trường chung ổn định.
-  - Hành động: **Tiếp tục quan sát** biến động quanh vùng tích lũy.
-- **Mã: BCR**
-  - Động lực (FA): Hủy tư cách công ty đại chúng, hủy niêm yết.
-  - Nhận định dòng tiền: **Rủi ro cực cao.** Dòng tiền sẽ rút mạnh để thoát vị thế.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát hàng bằng mọi giá (nếu còn kẹt vị thế).
+- Mã: HHV
+  - Động lực (FA): VDB tài trợ gần 5.000 tỷ đồng cho dự án cao tốc Bảo Lộc - Liên Khương.
+  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp tiến độ giải ngân và ghi nhận doanh thu, tạo tâm lý tích cực cho dòng tiền đầu cơ hạ tầng.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc tích lũy quanh vùng hỗ trợ kỹ thuật.
+- Mã: MSR
+  - Động lực (FA): Hợp tác với Australia phát triển chuỗi cung ứng khoáng sản chiến lược.
+  - Nhận định dòng tiền: Tiềm năng tăng trưởng dài hạn từ hợp tác công nghệ, dòng tiền có thể sẽ phản ứng tích cực trong các phiên tới.
+  - Hành động: Tiếp tục quan sát phản ứng dòng tiền tại vùng nền.
+- Mã: TNG, PTB
+  - Động lực (FA): Chuỗi bán lẻ Target (Mỹ) tìm nguồn hàng tại Việt Nam.
+  - Nhận định dòng tiền: Kỳ vọng gia tăng đơn hàng xuất khẩu, nhóm ngành sản xuất gia dụng và dệt may hưởng lợi.
+  - Hành động: Tiếp tục quan sát, chú ý giải ngân nếu có xác nhận khối lượng đột biến.
