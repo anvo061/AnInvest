@@ -1,23 +1,24 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 19:10 - 12/08/2026
+⏱ **Thời gian:** 19:50 - 12/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Đầu tư công & FDI:** TP.HCM khởi công loạt dự án trọng điểm dịp 2-9 và vốn FDI 7 tháng đầu năm tăng mạnh 44% -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Hạ tầng, Xây lắp & Bất động sản Khu công nghiệp.**
-- **Sức khỏe doanh nghiệp:** Gần 39.000 doanh nghiệp tại TP.HCM rút lui khỏi thị trường -> **Tiêu cực** -> Tạo áp lực nợ xấu tiềm ẩn lên nhóm **Ngân hàng (VCB, MBB).**
-- **Chuẩn hóa ESG:** Tiêu chuẩn ESG trở thành rào cản xuất khẩu bắt buộc -> **Tích cực (Dài hạn)** -> Dòng tiền hướng đến nhóm **Xuất khẩu đạt chuẩn xanh (VHC, TNG, GMD).**
+- **Thỏa thuận thương mại Mỹ - Việt mở rộng:** Giảm rào cản thuế quan cho hàng xuất khẩu -> **Tích cực** -> Dòng tiền tập trung nhóm xuất khẩu chủ lực: **Dệt may (TNG), Thủy sản (VHC), Gỗ.**
+- **Đẩy mạnh đầu tư công TP.HCM (khởi công dịp 2/9):** Tạo khối lượng công việc lớn cho các dự án hạ tầng giao thông -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xây lắp hạ tầng (VCG, HHV, CII).**
+- **Tiêu chuẩn ESG trở thành rào cản kỹ thuật xuất khẩu:** Ưu tiên các doanh nghiệp đã chuẩn hóa hạ tầng xanh -> **Tích cực** -> Dòng tiền phân hóa vào nhóm **Xuất khẩu đầu ngành (VHC, TNG) và Logisitcs (GMD).**
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **LTG**
+    - **Động lực (FA):** Hủy tư cách công ty đại chúng, rủi ro hủy niêm yết.
+    - **Nhận định dòng tiền:** Cực kỳ tiêu cực. Rủi ro mất thanh khoản và giá trị tài sản cổ đông.
+    - **Hành động:** **Rủi ro vi phạm kịch bản tối đa - Cắt toàn bộ vị thế (nếu có) không cần quan sát thêm.**
+- **Mã:** **TNG, VHC**
+    - **Động lực (FA):** Hưởng lợi kép từ thỏa thuận thuế quan Mỹ và lợi thế ESG.
+    - **Nhận định dòng tiền:** Gia tăng lực cầu ngắn hạn dựa trên kỳ vọng biên lợi nhuận cải thiện.
+    - **Hành động:** **Chú ý giải ngân** tại các nhịp rung lắc, ưu tiên vị thế ngắn hạn.
 - **Mã:** **VCG, HHV, CII**
-  - **Động lực (FA):** Chính thức khởi công dự án hạ tầng lớn dịp 2-9 tại TP.HCM.
-  - **Nhận định dòng tiền:** Gia tăng kỳ vọng tích cực nhờ khối lượng công việc đảm bảo cho chu kỳ cuối năm.
-  - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
-- **Mã:** **SZC, GMD**
-  - **Động lực (FA):** Dòng vốn FDI vào TP.HCM tăng đột biến (+44% YoY).
-  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ nhu cầu thuê đất KCN và dịch vụ cảng biển.
-  - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi có nhịp điều chỉnh.
-- **Mã:** **VCB, MBB**
-  - **Động lực (FA):** Áp lực từ số lượng doanh nghiệp SME rút lui tăng cao tại TP.HCM.
-  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể thận trọng, rủi ro trích lập dự phòng gia tăng.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát diễn biến thanh khoản phiên tới để quyết định cắt giảm tỷ trọng.
+    - **Động lực (FA):** Xác nhận thông tin khởi công loạt dự án trọng điểm dịp 2/9 tại TP.HCM.
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ hạ tầng sẽ phản ứng mạnh trước tin tức.
+    - **Hành động:** **Chú ý giải ngân** theo đà, theo dõi sát khối lượng giao dịch trong phiên.
 
-📊 **Thông tin thị trường chung:** Dòng tiền lớn (+1.000 tỷ) đã bắt đầu giải ngân vào nhóm Bluechips, hỗ trợ chỉ số chung trong ngắn hạn, giúp giảm bớt tâm lý tiêu cực từ thông tin doanh nghiệp SME giải thể.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Chưa ghi nhận dữ liệu mới liên quan đến EIB, BSR trong khung giờ này. Giữ nguyên vị thế quan sát.
