@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:15 - 13/08/2026
+⏱ Thời gian: 07:15 - 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đầu tư công:** Ngân hàng Phát triển Việt Nam (VDB) giải ngân gần 5.000 tỷ đồng cho cao tốc Bảo Lộc - Liên Khương -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xây lắp hạ tầng & Vật liệu xây dựng**.
-- **Tiêu dùng bán lẻ:** Sức mua online suy giảm -> **Tiêu cực** -> Áp lực bán tiềm ẩn lên nhóm **Bán lẻ (MWG, MSN)**.
-- **Dầu khí:** Giá dầu thế giới lên đỉnh 1 tuần -> **Tích cực** -> Dòng tiền ngắn hạn ưu tiên nhóm **Thượng nguồn (PVS, PVD)**.
+- Sức mua online suy giảm: [Tiêu cực] -> Áp lực lên biên lợi nhuận ngành bán lẻ và thương mại điện tử trong ngắn hạn.
+- Đẩy mạnh thoái vốn nhà nước: [Tích cực] -> Dòng tiền đầu cơ có xu hướng dịch chuyển vào các doanh nghiệp có tỷ lệ sở hữu nhà nước cao, kỳ vọng đột biến về quản trị và thoái vốn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HCM**
-  - Động lực (FA): Cổ đông lớn đăng ký thực hiện quyền mua hơn 121 triệu cổ phiếu phát hành thêm.
-  - Nhận định dòng tiền: Tạo tâm lý an tâm về năng lực vốn, củng cố xu hướng tích lũy trung hạn.
-  - Hành động: **Chú ý giải ngân** nếu giá test lại vùng hỗ trợ cứng.
-- **Mã: HHV, VCG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ nguồn vốn 5.000 tỷ đồng giải ngân cao tốc Bảo Lộc - Liên Khương.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng với tin tức "khơi thông nguồn vốn".
-  - Hành động: **Chú ý giải ngân** theo đà tăng đầu phiên.
-- **Mã: MSN**
-  - Động lực (FA): Được khối ngoại mua ròng 500 tỷ đồng nhưng bị cản trở bởi sức mua tiêu dùng suy yếu.
-  - Nhận định dòng tiền: Trạng thái giằng co giữa lực cầu ngoại và áp lực từ kết quả kinh doanh ngành bán lẻ.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá hiện tại, tránh giải ngân đuổi khi tin tiêu cực về sức mua mới xuất hiện.
+- Mã: **HCM**
+- Động lực (FA): Cổ đông lớn (HFIC) đăng ký thực hiện hơn 121 triệu quyền mua cổ phiếu phát hành thêm.
+- Nhận định dòng tiền: Củng cố niềm tin và cam kết vốn từ cổ đông chiến lược, tạo nền tảng hỗ trợ kỹ thuật mạnh cho giá cổ phiếu trong giai đoạn tăng vốn.
+- Hành động: Chú ý giải ngân (Canh các nhịp rung lắc để tích lũy theo kỳ vọng tăng năng lực tài chính).
+
+- Mã: **LTG**
+- Động lực (FA): Rủi ro mất khả năng thanh toán và áp lực nợ vay cực lớn.
+- Nhận định dòng tiền: Tiêu cực. Rủi ro bán tháo giải chấp cao.
+- Hành động: Rủi ro vi phạm kịch bản (Yêu cầu loại khỏi danh mục theo dõi và tuyệt đối không bắt đáy).
+
+- Mã: **MWG, MSN**
+- Động lực (FA): Sức mua online/tiêu dùng nội địa suy giảm.
+- Nhận định dòng tiền: Gây áp lực điều chỉnh lên nhóm bán lẻ khi tâm lý tiêu dùng yếu đi.
+- Hành động: Tiếp tục quan sát (Chờ đợi dữ liệu doanh thu tháng mới để xác nhận vùng hỗ trợ cứng).
