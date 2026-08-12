@@ -1,21 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:00 - 13/08/2026
+⏱ Thời gian: 05:45 ngày 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giải ngân vốn cho hạ tầng cao tốc (Dự án Bảo Lộc - Liên Khương):** Tích cực -> Đẩy nhanh tiến độ thi công, giải quyết nút thắt dòng tiền cho các doanh nghiệp xây lắp hạ tầng.
-- **Dòng vốn ngoại quay lại mua ròng mạnh các mã vốn hóa lớn (HPG, VCB, MSN):** Tích cực -> Củng cố xu hướng tăng điểm của VN-Index và cải thiện tâm lý thị trường ngắn hạn.
-- **Cảnh báo tâm lý lãi suất tiết kiệm:** Tiêu cực -> Áp lực rút vốn khỏi thị trường chứng khoán nếu lãi suất tiền gửi tiệm cận ngưỡng 10%, cần theo dõi chặt thanh khoản thị trường phiên tới.
+- **Tín dụng hạ tầng & Giá dầu:** Giải ngân 5.000 tỷ đồng cho cao tốc Bảo Lộc - Liên Khương và giá dầu neo đỉnh 1 tuần -> **Tích cực** -> Dòng tiền hướng vào: Nhóm xây lắp hạ tầng (Đầu tư công), nhóm thượng nguồn dầu khí (PVD, PVS).
+- **Rủi ro lãi suất:** Quan ngại về ngưỡng lãi suất tiết kiệm 10% -> **Tiêu cực (tiềm ẩn)** -> Áp lực lên định giá thị trường chung, cần theo dõi sát phản ứng của nhóm Bất động sản và Tài chính.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã:** HHV, VCG
-  - **Động lực (FA):** VDB giải ngân 5.000 tỷ đồng cho cao tốc Bảo Lộc - Liên Khương.
-  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ tiến độ giải ngân, kỳ vọng dòng tiền đầu cơ sẽ chuyển dịch vào nhóm Xây dựng hạ tầng.
-  - **Hành động:** Chú ý giải ngân nếu xuất hiện xác nhận von (khối lượng) tăng trong phiên sáng.
+  - **Động lực (FA):** VDB giải ngân 5.000 tỷ cho dự án cao tốc Bảo Lộc - Liên Khương.
+  - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào backlog thi công, giúp giảm bớt rủi ro nợ xấu/chi phí vốn cho doanh nghiệp xây lắp trong môi trường lãi suất nhạy cảm.
+  - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên, ưu tiên vị thế nắm giữ theo tiến độ giải ngân đầu tư công.
 - **Mã:** PVD
-  - **Động lực (FA):** Giá dầu thế giới neo đỉnh 1 tuần.
-  - **Nhận định dòng tiền:** Trạng thái tích cực, giá thuê giàn khoan cải thiện biên lợi nhuận.
-  - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi rung lắc.
+  - **Động lực (FA):** Giá dầu thế giới lên đỉnh 1 tuần.
+  - **Nhận định dòng tiền:** Phản ứng tích cực do tính nhạy sóng cao của PVD với giá dầu; dòng tiền sẽ tập trung vào kỳ vọng tăng giá thuê giàn khoan.
+  - **Hành động:** Tiếp tục quan sát tín hiệu bứt phá khỏi vùng cản ngắn hạn; dừng lỗ nếu giá dầu quay đầu giảm dưới hỗ trợ kỹ thuật.
 - **Mã:** HPG, VCB, MSN
   - **Động lực (FA):** Khối ngoại mua ròng gần 500 tỷ đồng.
-  - **Nhận định dòng tiền:** Hỗ trợ chỉ số chung, giảm rủi ro điều chỉnh sâu.
-  - **Hành động:** Tiếp tục quan sát điểm mua kỹ thuật trong phiên (do đã tăng nóng).
+  - **Nhận định dòng tiền:** Tạo hiệu ứng "đỡ giá" chỉ số, củng cố xu hướng hồi phục cho nhóm Bluechip.
+  - **Hành động:** Tiếp tục quan sát; đây là lực đỡ mang tính kỹ thuật, cần sự đồng thuận của dòng tiền nội để duy trì đà tăng.
