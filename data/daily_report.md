@@ -1,24 +1,21 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 19:50 - 12/08/2026
+⏱ **Thời gian:** 21:15 - 12/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thỏa thuận thương mại Mỹ - Việt mở rộng:** Giảm rào cản thuế quan cho hàng xuất khẩu -> **Tích cực** -> Dòng tiền tập trung nhóm xuất khẩu chủ lực: **Dệt may (TNG), Thủy sản (VHC), Gỗ.**
-- **Đẩy mạnh đầu tư công TP.HCM (khởi công dịp 2/9):** Tạo khối lượng công việc lớn cho các dự án hạ tầng giao thông -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xây lắp hạ tầng (VCG, HHV, CII).**
-- **Tiêu chuẩn ESG trở thành rào cản kỹ thuật xuất khẩu:** Ưu tiên các doanh nghiệp đã chuẩn hóa hạ tầng xanh -> **Tích cực** -> Dòng tiền phân hóa vào nhóm **Xuất khẩu đầu ngành (VHC, TNG) và Logisitcs (GMD).**
+- **Ngân hàng hạ lãi suất cho vay & cam kết gói ưu đãi 220.000 tỷ đồng:** Tích cực -> Hỗ trợ trực tiếp cho thanh khoản thị trường và giảm chi phí tài chính doanh nghiệp, tạo động lực phục hồi cho nhóm Bất động sản và Ngân hàng.
+- **TP.HCM đẩy mạnh giải ngân đầu tư công:** Tích cực -> Nhóm Xây dựng hạ tầng (VCG, HHV) được củng cố kỳ vọng tăng trưởng khối lượng backlog trong nửa cuối năm.
+- **Thỏa thuận thuế quan Việt - Mỹ:** Trung lập/Tích cực -> Hỗ trợ nhóm xuất khẩu (TNG, VHC) mở rộng thị phần, cần theo dõi thêm lộ trình thực thi chi tiết.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **VCG, HHV**
+    - **Động lực (FA):** Chủ trương tăng tốc đầu tư công tại TP.HCM nhằm dẫn dắt dòng vốn tư nhân.
+    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào các nhà thầu hạ tầng chủ chốt. Dòng tiền có xu hướng dịch chuyển vào nhóm có năng lực thi công thực tế.
+    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật trên nền giá hiện tại.
+- **Mã:** **TCB**
+    - **Động lực (FA):** Vừa được vinh danh Ngân hàng bán lẻ tốt nhất 5 năm liên tiếp + Hưởng lợi từ gói ưu đãi lãi suất.
+    - **Nhận định dòng tiền:** Củng cố vị thế dẫn dắt trong nhóm Ngân hàng, thu hút dòng tiền trung - dài hạn nhờ hệ sinh thái BĐS được khơi thông.
+    - **Hành động:** Tiếp tục quan sát vị thế nắm giữ.
 - **Mã:** **LTG**
-    - **Động lực (FA):** Hủy tư cách công ty đại chúng, rủi ro hủy niêm yết.
-    - **Nhận định dòng tiền:** Cực kỳ tiêu cực. Rủi ro mất thanh khoản và giá trị tài sản cổ đông.
-    - **Hành động:** **Rủi ro vi phạm kịch bản tối đa - Cắt toàn bộ vị thế (nếu có) không cần quan sát thêm.**
-- **Mã:** **TNG, VHC**
-    - **Động lực (FA):** Hưởng lợi kép từ thỏa thuận thuế quan Mỹ và lợi thế ESG.
-    - **Nhận định dòng tiền:** Gia tăng lực cầu ngắn hạn dựa trên kỳ vọng biên lợi nhuận cải thiện.
-    - **Hành động:** **Chú ý giải ngân** tại các nhịp rung lắc, ưu tiên vị thế ngắn hạn.
-- **Mã:** **VCG, HHV, CII**
-    - **Động lực (FA):** Xác nhận thông tin khởi công loạt dự án trọng điểm dịp 2/9 tại TP.HCM.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ hạ tầng sẽ phản ứng mạnh trước tin tức.
-    - **Hành động:** **Chú ý giải ngân** theo đà, theo dõi sát khối lượng giao dịch trong phiên.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Chưa ghi nhận dữ liệu mới liên quan đến EIB, BSR trong khung giờ này. Giữ nguyên vị thế quan sát.
+    - **Động lực (FA):** Hủy tư cách công ty đại chúng.
+    - **Nhận định dòng tiền:** Rủi ro mất thanh khoản tuyệt đối.
+    - **Hành động:** Rủi ro vi phạm kịch bản đầu tư; thoát vị thế bằng mọi giá (nếu còn nắm giữ).
