@@ -1,21 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:50 - 14/08/2026
+⏱ Thời gian: 02:45, 14/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thủ tướng chỉ đạo giảm thực chất lãi suất cho vay -> [Tích cực] -> Dòng tiền tập trung nhóm Bất động sản (giảm chi phí tài chính) và Chứng khoán (tăng thanh khoản thị trường).
-- Phát triển hạ tầng kết nối cảng Cái Mép - Thị Vải - Cần Giờ -> [Tích cực] -> Dòng tiền hướng vào nhóm Cảng biển và Bất động sản Khu công nghiệp.
-- Khối ngoại bán ròng 600 tỷ tại vùng VN-Index điều chỉnh -> [Tiêu cực] -> Áp lực lên nhóm Bluechips (VHM, HPG, VCB, MSN), gây rủi ro điều chỉnh kỹ thuật ngắn hạn.
+- Việc Bộ Tài chính Mỹ cắt giảm đấu giá trái phiếu nhằm hạ nhiệt lợi suất toàn cầu -> [Đánh giá tác động: Tích cực] -> [Dòng tiền kỳ vọng hưởng lợi: Nhóm tài chính, chứng khoán và các doanh nghiệp có dư nợ vay USD lớn do áp lực chi phí vốn và tỷ giá giảm].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **VIX**
-- Động lực (FA): Tự doanh giải ngân mạnh 1.500 tỷ vào EIB và TCB, nắm giữ danh mục tài chính lớn.
-- Nhận định dòng tiền: Tin tức củng cố vị thế tự doanh, có thể tạo lực đỡ tâm lý cho VIX khi thị trường biến động.
-- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật, chú ý sự đồng thuận của dòng tiền khối nội.
+- Động lực (FA): Tự doanh VIX ghi nhận giải ngân mạnh 1.500 tỷ đồng vào EIB và TCB, tổng danh mục đầu tư đạt quy mô 18.000 tỷ đồng.
+- Nhận định dòng tiền: Chiến lược tự doanh tập trung vào các mã Bluechip cho thấy kỳ vọng lớn về tăng trưởng lợi nhuận tài chính, tạo tín hiệu dẫn dắt tâm lý tích cực cho dòng tiền cá nhân vào VIX.
+- Hành động: Chú ý giải ngân nếu VIX duy trì đà tăng khối lượng (volume breakout) trên các ngưỡng hỗ trợ kỹ thuật.
 
 - Mã: **EIB**
-- Động lực (FA): Được VIX giải ngân bổ sung vốn tự doanh, cho thấy sự quan tâm từ khối tài chính.
-- Nhận định dòng tiền: Hỗ trợ thanh khoản và tạo kỳ vọng tích cực về biến động giá ngắn hạn.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt kháng cự.
+- Động lực (FA): Trở thành trọng tâm giải ngân của tự doanh VIX (1.500 tỷ đồng), củng cố thanh khoản và vị thế cổ đông lớn.
+- Nhận định dòng tiền: Dòng vốn tự doanh lớn đóng vai trò là "bệ đỡ" cho thanh khoản, hạn chế áp lực cung ngắn hạn.
+- Hành động: Xem xét mục "Cảnh báo Tái cơ cấu" bên dưới.
 
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- **Đối với EIB:** Tin tức tự doanh của VIX rót thêm 1.500 tỷ vào EIB là tín hiệu bổ trợ mạnh mẽ cho luận điểm nắm giữ. Dữ liệu này chưa làm thay đổi kỳ vọng trung hạn (tháng 3/2026 - nay đã quá hạn), nhưng xác nhận trạng thái "cần giữ" để theo dõi nhịp sóng từ dòng tiền tổ chức nội địa. Đề xuất: Chưa thực hiện chốt lời, theo dõi mức chiết khấu từ vùng giải ngân của tự doanh.
+- Mã: **TNW**
+- Động lực (FA): Cổ đông tổ chức (Sunvest LLC) vừa mua vào 330.000 cổ phiếu.
+- Nhận định dòng tiền: Tín hiệu gom hàng từ tổ chức giúp cải thiện tâm lý thị trường, tạo vùng giá nền tin cậy.
+- Hành động: Tiếp tục quan sát phản ứng giá tại vùng đỉnh cũ sau giao dịch mua vào.
+
+🔄 3. Cảnh báo Tái cơ cấu (Mã mục tiêu trung hạn EIB, BSR):
+- **EIB**: Dữ liệu dòng tiền mới từ tự doanh VIX cho thấy EIB đang thu hút sự chú ý của dòng tiền thông minh. Với thời điểm hiện tại (Tháng 8/2026) đã quá điểm rơi kỳ vọng tháng 3/2026, đây là giai đoạn "Tái cơ cấu": Nếu EIB duy trì tích lũy ổn định nhờ dòng vốn mới, có thể giữ vị thế; nếu lực cầu không vượt qua được kháng cự từ các đợt chốt lời trước đó, khuyến nghị cắt giảm 50% vị thế để bảo toàn dòng vốn.
