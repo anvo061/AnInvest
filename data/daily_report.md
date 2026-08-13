@@ -1,21 +1,18 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:30 - 13/08/2026
+⏱ Thời gian: 17:45 - 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- TP.HCM phê duyệt hướng tuyến 3 dự án metro trong tháng 8/2026 -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm xây dựng hạ tầng (VCG, HHV).
-- Thị trường giảm gần 28 điểm, tâm lý tiêu cực bao trùm -> **Tiêu cực** -> Dòng tiền đầu cơ co hẹp, rủi ro áp lực bán giải chấp (Force sell) tại nhóm chứng khoán (SSI, VND).
-- Ngân hàng nước ngoài tăng cường hiện diện tại VN -> **Tích cực** -> Củng cố kỳ vọng nhóm ngân hàng nội vốn hóa lớn (VCB, TCB) trong dài hạn.
+- **Cảnh báo thiếu hụt vốn vĩ mô (77 tỷ USD) kết hợp chỉ đạo NHNN về "điểm cân bằng" lạm phát-tăng trưởng:** -> [Đánh giá: Tiêu cực trong ngắn hạn - Trung lập trong dài hạn] -> [Dòng tiền sẽ phân hóa mạnh: Áp lực rút vốn khỏi các nhóm vốn hóa lớn (Bất động sản, Ngân hàng) để chuyển dịch sang các nhóm phòng thủ hoặc hưởng lợi từ đầu tư công (Xây dựng hạ tầng)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCG, HHV**
-    - Động lực (FA): Hưởng lợi trực tiếp từ chủ trương phê duyệt hạ tầng metro TP.HCM.
-    - Nhận định dòng tiền: Tin tức bổ trợ tốt cho cấu trúc kỹ thuật nếu dòng tiền thị trường ổn định trở lại. Tuy nhiên, cần theo sát diễn biến VN-Index để tránh "bẫy bulltrap" trong phiên giảm điểm mạnh.
-    - Hành động: **Tiếp tục quan sát**, chỉ giải ngân nếu có xác nhận dòng tiền vào (volume tăng) tại các vùng hỗ trợ cứng.
-- Mã: **MSB**
-    - Động lực (FA): Chốt quyền nhận cổ phiếu thưởng 20%.
-    - Nhận định dòng tiền: Tạo hiệu ứng tâm lý ngắn hạn nhưng bị đè nặng bởi xu hướng điều chỉnh chung của chỉ số.
-    - Hành động: **Tiếp tục quan sát**, không bắt đáy khi thị trường đang trong nhịp giảm mạnh 28 điểm.
-- Mã: **SSI, VND**
-    - Động lực (FA): Chịu ảnh hưởng kép từ thanh khoản thị trường sụt giảm và áp lực bán giải chấp.
-    - Nhận định dòng tiền: Dòng tiền rút mạnh khỏi nhóm chứng khoán, chưa có dấu hiệu tạo đáy.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu chạm ngưỡng cắt lỗ.
+- **Mã: VHM**
+    - Động lực (FA): Áp lực thanh khoản thị trường BĐS kết hợp tâm lý bán ròng từ khối ngoại (Dragon Capital).
+    - Nhận định dòng tiền: Đang chịu áp lực xả diện rộng, mất vai trò nâng đỡ chỉ số.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chưa giải ngân bắt đáy.
+- **Mã: VCG, HHV**
+    - Động lực (FA): Thủ tướng phê duyệt hướng tuyến 3 dự án metro TP.HCM trong tháng 8/2026.
+    - Nhận định dòng tiền: Kỳ vọng hưởng lợi từ chính sách đầu tư công tạo điểm tựa dòng tiền thay thế, giảm bớt tác động từ tâm lý thị trường chung.
+    - Hành động: Chú ý giải ngân tại các vùng nền hỗ trợ cứng.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Hiện chưa có dữ liệu mới đột biến về EIB, BSR trong 15 phút qua. Tiếp tục giữ trạng thái theo dõi quan sát (Watchlist).
