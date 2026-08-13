@@ -1,18 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:45 - 13/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 18:30 - 13/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Cảnh báo thiếu hụt vốn vĩ mô (77 tỷ USD) kết hợp chỉ đạo NHNN về "điểm cân bằng" lạm phát-tăng trưởng:** -> [Đánh giá: Tiêu cực trong ngắn hạn - Trung lập trong dài hạn] -> [Dòng tiền sẽ phân hóa mạnh: Áp lực rút vốn khỏi các nhóm vốn hóa lớn (Bất động sản, Ngân hàng) để chuyển dịch sang các nhóm phòng thủ hoặc hưởng lợi từ đầu tư công (Xây dựng hạ tầng)].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chỉ đạo giảm lãi suất thực chất & Tìm điểm cân bằng vĩ mô:** Chính phủ quyết liệt thúc đẩy giảm chi phí vốn, kết hợp với chỉ đạo NHNN tìm điểm cân bằng giữa lạm phát và tăng trưởng -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm **Ngân hàng (VCB, TCB, MBB)** nhờ dư địa tăng trưởng tín dụng và nhóm **Bất động sản/Chứng khoán (VHM, PDR, SSI)** nhờ giảm chi phí tài chính & kích cầu.
+- **Rủi ro thiếu hụt vốn (Funding Gap) & Tác động tỷ giá từ BOJ:** Cảnh báo thiếu hụt 77 tỷ USD và rủi ro từ xu hướng tăng lãi suất của JPY tạo áp lực lên chi phí vốn hệ thống và rủi ro tỷ giá -> **Tiêu cực** -> Gây áp lực bán lên các nhóm nợ vay lớn hoặc vốn hóa lớn.
+- **Mùa tựu trường:** Nhu cầu tiêu dùng hàng điện tử tăng -> **Tích cực** -> Dòng tiền hướng vào nhóm **Bán lẻ (MWG, DGW)**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VHM**
-    - Động lực (FA): Áp lực thanh khoản thị trường BĐS kết hợp tâm lý bán ròng từ khối ngoại (Dragon Capital).
-    - Nhận định dòng tiền: Đang chịu áp lực xả diện rộng, mất vai trò nâng đỡ chỉ số.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chưa giải ngân bắt đáy.
-- **Mã: VCG, HHV**
-    - Động lực (FA): Thủ tướng phê duyệt hướng tuyến 3 dự án metro TP.HCM trong tháng 8/2026.
-    - Nhận định dòng tiền: Kỳ vọng hưởng lợi từ chính sách đầu tư công tạo điểm tựa dòng tiền thay thế, giảm bớt tác động từ tâm lý thị trường chung.
-    - Hành động: Chú ý giải ngân tại các vùng nền hỗ trợ cứng.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Hiện chưa có dữ liệu mới đột biến về EIB, BSR trong 15 phút qua. Tiếp tục giữ trạng thái theo dõi quan sát (Watchlist).
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **VHM**
+  - Động lực (FA): Hưởng lợi từ chính sách giảm lãi suất cho vay, nhưng chịu áp lực bán ròng từ khối ngoại (tâm lý thận trọng của các quỹ lớn) và áp lực bán cuối phiên.
+  - Nhận định dòng tiền: Dòng tiền đang giằng co quyết liệt giữa kỳ vọng cơ bản và áp lực thoái vốn ngoại.
+  - Hành động: **Tiếp tục quan sát** vùng hỗ trợ; tránh giải ngân đuổi khi áp lực bán ngoại chưa có dấu hiệu suy giảm.
+- **Mã:** **SSI, VND**
+  - Động lực (FA): Lãi suất cho vay thấp là "oxy" cho thanh khoản thị trường và doanh thu mảng margin.
+  - Nhận định dòng tiền: Hợp lưu tích cực từ chính sách, kỳ vọng dòng tiền thông minh sớm quay lại nhóm này.
+  - Hành động: **Chú ý giải ngân** nếu thị trường kiểm định thành công vùng hỗ trợ kỹ thuật.
+- **Mã:** **REE**
+  - Động lực (FA): Rủi ro lỗ tỷ giá do dư nợ vay đồng Yên trong bối cảnh BOJ có thể tăng lãi suất nhanh.
+  - Nhận định dòng tiền: Tiêu cực do yếu tố vĩ mô tác động trực tiếp đến bảng cân đối kế toán.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu JPY/USD duy trì đà tăng.
+- **Mã:** **MWG, DGW**
+  - Động lực (FA): Nhu cầu mua sắm thiết bị cho năm học mới.
+  - Nhận định dòng tiền: Động lực ngắn hạn rõ ràng, có thể thu hút dòng tiền đầu cơ mùa vụ.
+  - Hành động: **Chú ý giải ngân** ngắn hạn theo nhịp sóng mùa tựu trường.

@@ -1,5 +1,168 @@
 ﻿[
   {
+    "Title": "JPY/USD: Japan’s Government Is Said to Support Faster BOJ Rate Hike - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2lBMnJHWDQydzRMbzkzQmhIRDJGNTlHM3ZtcDlNM2ZYWWg4MTJjWFlTOVRqdmhtSW9vSlBZZlVqbkxKbElpcVZrbVEwT3pkMGtzTWk4U2owMTFESWl1NG93R1NNTy1UNDlxamh4eDNBR0hVRlhadlFaUzVxMWNFdE02X24wS2ppVVVCcVJNUXRoclVtdlg4ejNjdzR0bE5uNzRYZGVESkVwOERiU0E?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 05:04:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Việc BOJ tăng lãi suất làm giảm chênh lệch lãi suất (carry trade), gây áp lực lên tỷ giá JPY/VND, ảnh hưởng tiêu cực đến các doanh nghiệp Việt Nam có dư nợ vay bằng đồng Yên lớn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm vay nợ Yên. BOJ tăng lãi suất gây áp lực tỷ giá JPY/VND, làm tăng chi phí tài chính và lỗ tỷ giá cho doanh nghiệp có dư nợ JPY lớn. Cần theo dõi sát REE.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có dư nợ vay bằng đồng Yên lớn, rủi ro lỗ tỷ giá khi JPY tăng giá."
+      }
+    ],
+    "AnalyzedAt": "2026-08-13 18:27:34"
+  },
+  {
+    "Title": "FUEKIVND: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjQ0TXphYjV6N2NnZEFnbFJ4S2hjazFzb3NBU1NZZG9PM1NDVFh4aDJwbE1RMjRNekV0M2pDWGstVTVTNmJNd0xCemFDSERaRkNDVnJuS1Z0QkZFSXJVeTJCdDVJLW96aFZWZDJOVzhrZ1k5eFFoT3hmSVJpeWtkNVFqZVZHUmh5NjMzajluU3BJdXRpczlRZlhSRHM5ajYzTVFUYzh1ZG13Mlpfa043QzItSmpyQQ?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 10:31:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô, không tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền trên thị trường cơ sở. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-13 18:27:23"
+  },
+  {
+    "Title": "FUESSV30: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaW9RdXlJbE56M1JrXzZTejVmM2o5aDVXNlJ5VDJtT200TnF3TWhGdk5PUGxJRnZjLVE0VS04TUdwcm4xaDNsS0M1cXhtd2ZSb2NBLXZUWFBqOWtLcDdUbk1Jc2Y4VmNjOERjRzJxbHJpOUgtbnYtaDdjMzc3bHJfaVZZWGk2OXFOcF9aRjZSZTZTblZ4U1JrcGpmUE9RVC1jVDNFM1NkSEZoRmVxbDF3M1hYOGdtUQ?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 10:32:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về danh mục đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ quỹ ETF thông thường. Không tạo ra tín hiệu dòng tiền cho các mã cổ phiếu thành phần trong danh mục VN30.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-13 18:27:13"
+  },
+  {
+    "Title": "FUETCC50: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlNoTXF2SkQyVl9wcUZmUDA2VnN4YU93cURkNWxvOU9uX2tHX3Q3dW5uajg0M3VHeElBOWhJTnZtSVRzczBDa3hiSHJlcUVWSEVsV1BTLVoxM0ZnODVjUVRrZ3VKYUkxb0lpZ1NjczhZN3VocTl3dUdJeUVrSTBtc2EtWlRHY2pqWkNtaXZySjZPTnJlSVJQOXZSTC1TdHJoN1UyTl83blk5QjFTV3NvN3NyZUZiZw?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 10:34:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay triển vọng lợi nhuận của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Đây là hoạt động nghiệp vụ thông thường của quỹ hoán đổi danh mục, không tạo ra biến động dòng tiền đáng kể cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-13 18:27:03"
+  },
+  {
+    "Title": "Người Việt quan tâm tìm kiếm gì trước thềm năm học mới?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nguoi-viet-quan-tam-tim-kiem-gi-truoc-them-nam-hoc-moi-100260813174756879.htm",
+    "PubDate": "8/13/2026 6:04:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Nhu cầu mua sắm thiết bị học tập, đồ dùng văn phòng phẩm và thiết bị điện tử tăng cao trong mùa tựu trường, thúc đẩy doanh thu quý 3 cho các doanh nghiệp bán lẻ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tiêu dùng mùa vụ, tác động biên lợi nhuận không đáng kể. Dòng tiền khó tạo sóng lớn từ thông tin này.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ nhu cầu mua sắm laptop, điện thoại và thiết bị điện tử phục vụ năm học mới."
+      },
+      {
+        "Ticker": "DGW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhà phân phối thiết bị công nghệ hàng đầu, hưởng lợi từ sự gia tăng doanh số bán lẻ các sản phẩm học tập."
+      }
+    ],
+    "AnalyzedAt": "2026-08-13 18:26:49"
+  },
+  {
+    "Title": "Thủ tướng chỉ đạo các ngân hàng giảm thực chất lãi suất cho vay",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/thu-tuong-chi-dao-cac-ngan-hang-giam-thuc-chat-lai-suat-cho-vay-2545174.html",
+    "PubDate": "Thu, 13 Aug 2026 17:41:57 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc giảm lãi suất cho vay thực chất giúp giảm chi phí tài chính cho doanh nghiệp, kích thích nhu cầu tín dụng và hỗ trợ thanh khoản cho thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Lãi suất giảm trực tiếp hỗ trợ biên lợi nhuận nhóm BĐS và tăng thanh khoản thị trường chứng khoán. Ưu tiên các doanh nghiệp có tỷ lệ nợ vay cao và CTCK có thị phần margin lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí vay giúp cải thiện biên lợi nhuận và thúc đẩy nhu cầu mua nhà của khách hàng."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí lãi vay đối với các dự án đang triển khai, cải thiện sức khỏe tài chính."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãi suất thấp thúc đẩy dòng tiền cá nhân đổ vào chứng khoán, tăng doanh thu môi giới và cho vay margin."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ thanh khoản thị trường tăng và chi phí vốn huy động thấp hơn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-13 18:26:31"
+  },
+  {
+    "Title": "MSB phát triển hệ sinh thái tài chính - y tế cùng Bệnh viện Hồng Ngọc",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/msb-phat-trien-he-sinh-thai-tai-chinh-y-te-cung-benh-vien-hong-ngoc-5108833.html",
+    "PubDate": "Thu, 13 Aug 2026 17:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động hợp tác chiến lược nhằm gia tăng tiện ích cho khách hàng cá nhân, giúp MSB cải thiện khả năng giữ chân khách hàng (retention rate) và mở rộng tệp khách hàng tiềm năng, tuy nhiên tác động đến kết quả kinh doanh trong ngắn hạn là không đáng kể.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngân hàng. Tin tức mang tính chất PR dịch vụ, không tác động đến bảng cân đối kế toán hay biên lợi nhuận. Dòng tiền sẽ không phản ứng.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-13 18:26:15"
+  },
+  {
+    "Title": "Thủ tướng yêu cầu ngân hàng giảm thực chất lãi suất cho vay",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/thu-tuong-yeu-cau-ngan-hang-giam-thuc-chat-lai-suat-cho-vay-5108843.html",
+    "PubDate": "Thu, 13 Aug 2026 17:40:48 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc giảm lãi suất cho vay thực chất giúp giảm chi phí tài chính cho doanh nghiệp, kích thích nhu cầu tín dụng và hỗ trợ thanh khoản cho thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Lãi suất giảm trực tiếp hỗ trợ biên lợi nhuận nhóm BĐS và tăng thanh khoản thị trường chứng khoán. Ưu tiên doanh nghiệp có đòn bẩy nợ cao và CTCK đầu ngành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí lãi vay và kích cầu người mua nhà, cải thiện biên lợi nhuận dự án."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí tài chính cho doanh nghiệp BĐS có đòn bẩy nợ cao."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãi suất thấp thúc đẩy dòng tiền vào thị trường chứng khoán, tăng doanh thu môi giới và margin."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ thanh khoản thị trường tăng và chi phí vốn vay giảm cho hoạt động tự doanh."
+      }
+    ],
+    "AnalyzedAt": "2026-08-13 18:26:01"
+  },
+  {
     "Title": "Vietnam Warns $77 Billion Funding Gap Risks Financial Stability - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1NtanE1bkc4QjhLVTJtejRFeGdhSTRZaTEyaUlXd25CVVg3akdDaDhPX1JaOXNMTHB1cWpNd0NMZl9zY0FmbVhTbTlMTWlhWmF6VE9naWFidzZOMUlWbV8xdVpGZ0EtVGJ6ZnRLeFFUaTdSQUc0Z3RuMjJGYXVSVHpuaU0tM2p5QTRwN1JBNHBOS2E1LXN3SmY0OXBxdjJ4WDE2WVdjNTN2c1dzZ3QybHNlOU03OVI1X2ZkbVhvTnBIMFdLZjZ4VjJB?oc=5",
@@ -16593,148 +16756,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-06 20:30:45"
-  },
-  {
-    "Title": "BIDV cấp phần mềm miễn phí và gói vay ưu đãi cho doanh nghiệp SME Thủ đô",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/bidv-cap-phan-mem-mien-phi-va-goi-vay-uu-dai-cho-doanh-nghiep-sme-thu-do-2542613.html",
-    "PubDate": "Thu, 06 Aug 2026 15:45:02 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Gói ưu đãi giúp BIDV tăng trưởng tín dụng phân khúc SME, đồng thời hỗ trợ các doanh nghiệp nhỏ giảm chi phí vận hành, cải thiện biên lợi nhuận trong bối cảnh kinh tế khó khăn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - BID. Gói ưu đãi SME là hoạt động nghiệp vụ thường niên, tác động biên lợi nhuận không đáng kể. Thiếu yếu tố đột biến để dẫn dắt dòng tiền.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng dư nợ tín dụng phân khúc SME và thu hút thêm khách hàng mới thông qua hệ sinh thái số."
-      }
-    ],
-    "AnalyzedAt": "2026-08-06 20:30:28"
-  },
-  {
-    "Title": "DSC: Thông báo mua lại cổ phiếu của người lao động nghỉ việc theo quy chế ESOP - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSFlPTk45dU44aGRfVDlxZ1ZKRzhCRExSVWxKdlI3eHprcF9PNlNiTC11d003Qm91Y0pGSUpnSTVFaUdhYWtNSlM1djVVY01SdEJ4WVJyNFJsblBBZFZpbm85aVpsdFpQSi1sU3Z4d2VFaEdSdV85SWtRZExBNGowTWc3X3l1S1NlMTRWT1BKdThoQW1MSzRoRUFRWnBFbVJveVZjSjhqY0pyMU1jX3UwODFKTHRaNHVFcDNIMVpINC1CU0xfN2t1aTc2QlZCRGhEaEVJ?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 10:59:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động hành chính thông thường theo quy chế ESOP, không làm thay đổi cơ bản về tài chính hay chiến lược kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - DSC. Hoạt động mua lại cổ phiếu ESOP từ nhân viên nghỉ việc là nghiệp vụ quản trị nội bộ bình thường, không tác động đến cung cầu thị trường hay dòng tiền ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-06 18:57:19"
-  },
-  {
-    "Title": "Một cổ phiếu bị tự doanh CTCK bán ròng 200 tỷ đồng trong phiên Index giảm điểm - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0Z2MzZJbVlfMmdxaXlpUzBKeHVUNF95WEZiODhNWG85blVVclh2anIwbG9RSHl3MnduLWFuOGRaM3FVdkdZSlhPNWQyMGJrUkE1Qi1VcDRheVNqUlRsMW9HN1doRWVlUWVzeFk2Tjl1a2RlT3VPMWhSUzJROVc2V3VVZnZiTnhyamx4Ql9HdFM3WHN2SHlUSzIzeWQ4aDFYWU9QNXJRS1RMeGRpNU1kcmFZS2Rnb2E4eVE?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 10:32:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc tự doanh bán ròng mạnh một mã cổ phiếu cụ thể tạo áp lực cung lớn, gây tâm lý tiêu cực ngắn hạn cho nhà đầu tư cá nhân và có thể dẫn đến xu hướng điều chỉnh kỹ thuật.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Cổ phiếu bị bán ròng. Áp lực xả hàng từ khối tự doanh tạo rủi ro điều chỉnh ngắn hạn. Dòng tiền thông minh sẽ quan sát vùng hỗ trợ cứng trước khi giải ngân trở lại.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-06 18:57:09"
-  },
-  {
-    "Title": "Vĩnh Long phát hiện 9 mẫu xăng dầu không đạt chuẩn, phạt hơn 1,7 tỉ đồng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vinh-long-phat-hien-9-mau-xang-dau-khong-dat-chuan-phat-hon-17-ti-dong-100260806152822106.htm",
-    "PubDate": "8/6/2026 4:50:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động kiểm soát thị trường thông thường của cơ quan chức năng, không gây tác động trọng yếu đến kết quả kinh doanh của các doanh nghiệp xăng dầu niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Xăng dầu. Hoạt động thanh tra hành chính cục bộ không làm thay đổi biên lợi nhuận hay thị phần của các doanh nghiệp đầu mối lớn. Không có tác động dòng tiền.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-06 18:56:57"
-  },
-  {
-    "Title": "EU siết chuẩn, bao bì thành 'ải' mới cho hàng Việt vào châu Âu",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/eu-siet-chuan-bao-bi-thanh-ai-moi-cho-hang-viet-vao-chau-au-10026080616070096.htm",
-    "PubDate": "8/6/2026 4:51:00 PM",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Quy định mới về bao bì của EU tạo rào cản kỹ thuật, làm tăng chi phí tuân thủ và rủi ro gián đoạn xuất khẩu đối với các doanh nghiệp thủy sản và dệt may Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu. Quy định bao bì EU tăng chi phí tuân thủ, gây áp lực biên lợi nhuận ngắn hạn. Dòng tiền thận trọng với nhóm thủy sản, dệt may xuất khẩu chủ lực.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHC",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí tuân thủ bao bì tăng làm giảm biên lợi nhuận xuất khẩu sang thị trường EU."
-      },
-      {
-        "Ticker": "TNG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Rào cản kỹ thuật mới gây khó khăn cho việc duy trì đơn hàng xuất khẩu sang EU."
-      }
-    ],
-    "AnalyzedAt": "2026-08-06 18:56:42"
-  },
-  {
-    "Title": "Giá xăng dầu đồng loạt đi xuống, xăng E10 giảm hơn 500 đồng/lít",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-dong-loat-di-xuong-xang-e10-giam-hon-500-dong-lit-2542607.html",
-    "PubDate": "Thu, 06 Aug 2026 15:11:23 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá xăng dầu giảm giúp giảm chi phí vận tải và logistics, cải thiện biên lợi nhuận cho các doanh nghiệp vận tải và sản xuất, đồng thời giảm áp lực lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá xăng giảm hỗ trợ biên lợi nhuận nhóm vận tải, nhưng tác động lên doanh nghiệp sản xuất tiêu dùng là không đáng kể. Cần thận trọng với suy diễn lan man.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí vận hành đội xe và logistics giảm, hỗ trợ biên lợi nhuận mảng vận tải."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí nhiên liệu cho đội tàu và vận tải đường bộ, cải thiện lợi nhuận ròng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-06 18:56:27"
-  },
-  {
-    "Title": "Việt Nam bắt tay 'ông lớn' thị thực để quảng bá du lịch ra thế giới",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/viet-nam-bat-tay-ong-lon-thi-thuc-de-quang-ba-du-lich-ra-the-gioi-2542794.html",
-    "PubDate": "Thu, 06 Aug 2026 18:41:17 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc hợp tác với các tập đoàn thị thực toàn cầu giúp đơn giản hóa thủ tục, thúc đẩy lượng khách quốc tế đến Việt Nam, trực tiếp gia tăng doanh thu cho các doanh nghiệp hàng không và dịch vụ lưu trú.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR hành chính, thiếu lộ trình thực thi cụ thể. Tác động đến biên lợi nhuận doanh nghiệp hàng không là gián tiếp và dài hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HVN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ sự gia tăng lưu lượng khách quốc tế trên các đường bay trọng điểm."
-      },
-      {
-        "Ticker": "VJC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Mở rộng thị phần khách quốc tế nhờ chính sách thị thực thuận lợi và mạng lưới bay linh hoạt."
-      }
-    ],
-    "AnalyzedAt": "2026-08-06 18:56:12"
-  },
-  {
-    "Title": "Công bố Top 50 công ty đại chúng uy tín và hiệu quả năm 2026",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/cong-bo-top-50-cong-ty-dai-chung-uy-tin-va-hieu-qua-nam-2026-2542807.html",
-    "PubDate": "Thu, 06 Aug 2026 18:46:09 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là danh sách vinh danh mang tính chất truyền thông và ghi nhận thành tích quá khứ, không tác động trực tiếp đến hoạt động kinh doanh hay dòng tiền của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Danh sách vinh danh mang tính chất truyền thông, không thay đổi nội tại doanh nghiệp hay xu hướng dòng tiền ngắn hạn. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-06 18:56:02"
   }
 ]
