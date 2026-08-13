@@ -1,22 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 13/08/2026
+⏱ Thời gian: 08:15 - 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Sức mua online suy giảm: [Tiêu cực] -> Áp lực lên biên lợi nhuận ngành bán lẻ và thương mại điện tử trong ngắn hạn.
-- Đẩy mạnh thoái vốn nhà nước: [Tích cực] -> Dòng tiền đầu cơ có xu hướng dịch chuyển vào các doanh nghiệp có tỷ lệ sở hữu nhà nước cao, kỳ vọng đột biến về quản trị và thoái vốn.
+- Dòng tiền "giá rẻ" (CASA) chảy khỏi tài khoản thanh toán ngân hàng -> [Đánh giá: Tiêu cực] -> [Dòng tiền nhóm ngành Ngân hàng sẽ chịu áp lực điều chỉnh do chi phí vốn tăng, gây ép biên lợi nhuận NIM].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **TCB, MBB**
+- Động lực (FA): Tỷ lệ CASA sụt giảm làm tăng chi phí vốn (COF), đe dọa biên lãi thuần (NIM).
+- Nhận định dòng tiền: Áp lực bán kỹ thuật có thể gia tăng khi nhà đầu tư lo ngại về kết quả kinh doanh quý tới bị bào mòn bởi chi phí huy động.
+- Hành động: **Rủi ro vi phạm kịch bản** (Cần kiểm tra ngưỡng hỗ trợ cứng tại vùng tích lũy gần nhất, ưu tiên hạ tỷ trọng nếu mất hỗ trợ MA20).
+
 - Mã: **HCM**
-- Động lực (FA): Cổ đông lớn (HFIC) đăng ký thực hiện hơn 121 triệu quyền mua cổ phiếu phát hành thêm.
-- Nhận định dòng tiền: Củng cố niềm tin và cam kết vốn từ cổ đông chiến lược, tạo nền tảng hỗ trợ kỹ thuật mạnh cho giá cổ phiếu trong giai đoạn tăng vốn.
-- Hành động: Chú ý giải ngân (Canh các nhịp rung lắc để tích lũy theo kỳ vọng tăng năng lực tài chính).
-
-- Mã: **LTG**
-- Động lực (FA): Rủi ro mất khả năng thanh toán và áp lực nợ vay cực lớn.
-- Nhận định dòng tiền: Tiêu cực. Rủi ro bán tháo giải chấp cao.
-- Hành động: Rủi ro vi phạm kịch bản (Yêu cầu loại khỏi danh mục theo dõi và tuyệt đối không bắt đáy).
-
-- Mã: **MWG, MSN**
-- Động lực (FA): Sức mua online/tiêu dùng nội địa suy giảm.
-- Nhận định dòng tiền: Gây áp lực điều chỉnh lên nhóm bán lẻ khi tâm lý tiêu dùng yếu đi.
-- Hành động: Tiếp tục quan sát (Chờ đợi dữ liệu doanh thu tháng mới để xác nhận vùng hỗ trợ cứng).
+- Động lực (FA): Cổ đông lớn (HFIC) đăng ký thực hiện quyền mua hơn 121 triệu cổ phiếu.
+- Nhận định dòng tiền: Tín hiệu tích cực về sự cam kết của cổ đông nhà nước, củng cố nguồn vốn cho năng lực môi giới và cho vay margin.
+- Hành động: **Chú ý giải ngân** (Gia tăng vị thế nếu giá điều chỉnh về vùng nền tích lũy, tận dụng lực đỡ từ cổ đông lớn).
