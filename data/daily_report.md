@@ -1,19 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:45 - 13/08/2026
+⏱ Thời gian: 22:50 ngày 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- VN-Index gãy mốc tâm lý 1.800 điểm dưới áp lực bán tháo diện rộng -> Tiêu cực: Kích hoạt hiệu ứng bán kỹ thuật và gia tăng rủi ro Call Margin -> Dòng tiền sẽ rút mạnh khỏi nhóm Chứng khoán (SSI, VND) và nhóm Vốn hóa lớn (VHM, VCB).
+- Tiền gửi dân cư đạt kỷ lục 11 triệu tỷ đồng -> **Tích cực (Dài hạn)** -> Dòng tiền hướng vào nhóm Ngân hàng (VCB, TCB) do hưởng lợi từ chi phí vốn thấp và thanh khoản dồi dào, tạo nền tảng hỗ trợ NIM trong môi trường tín dụng tăng trưởng.
+- Hiệu suất quỹ đầu tư lớn suy giảm (Dragon Capital âm 14%) -> **Tiêu cực (Ngắn hạn)** -> Gây áp lực tâm lý bán ròng khối ngoại lên nhóm vốn hóa lớn (VHM, VNM, HPG), cần theo dõi sát diễn biến cung cầu tại vùng hỗ trợ tâm lý mới.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI, VND**
-  - Động lực (FA): Áp lực bán tháo thị trường làm mất mốc hỗ trợ cứng.
-  - Nhận định dòng tiền: Rủi ro giải chấp margin tăng cao, áp lực cung ngắn hạn lấn át cầu.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng để bảo toàn vốn trước khi có tín hiệu cân bằng tại vùng hỗ trợ dưới.
-- Mã: **VHM, VCB**
-  - Động lực (FA): Khối ngoại và tổ chức bán ròng cơ cấu danh mục khi chỉ số suy yếu.
-  - Nhận định dòng tiền: Trụ cột bị bán mạnh, tạo sức ép tâm lý tiêu cực lên toàn bộ chỉ số.
-  - Hành động: **Tiếp tục quan sát**, không bắt đáy khi chưa có tín hiệu ngưng bán từ khối ngoại.
-- Mã: **ACV, VJC, HVN**
-  - Động lực (FA): Sân bay Liên Khương hoàn thiện 99%, sắp vận hành lại.
-  - Nhận định dòng tiền: Tin tức tích cực cục bộ, nhưng bị áp đảo bởi tâm lý bán tháo chung của thị trường.
-  - Hành động: **Tiếp tục quan sát**, chờ thị trường chung ổn định để tìm điểm vào theo sóng hạ tầng hàng không.
+- **Mã: VCB, TCB**
+  - Động lực (FA): Thanh khoản hệ thống dồi dào từ tiền gửi dân cư đạt đỉnh.
+  - Nhận định dòng tiền: Dòng tiền trú ẩn an toàn, giảm áp lực lên biên lợi nhuận (NIM) trong bối cảnh thị trường chung rung lắc.
+  - Hành động: Chú ý quan sát phản ứng tại vùng giá hỗ trợ, không bắt đáy vội vàng khi áp lực bán khối ngoại chưa dứt.
+- **Mã: VHM, VNM, HPG**
+  - Động lực (FA): Áp lực cơ cấu danh mục từ các quỹ ngoại có hiệu suất âm.
+  - Nhận định dòng tiền: Dòng tiền bị rút ròng, dễ xảy ra hiệu ứng bán tháo theo kỹ thuật khi VN-Index mất mốc tâm lý.
+  - Hành động: Rủi ro vi phạm kịch bản kỹ thuật cao, ưu tiên quản trị rủi ro, không gia tăng vị thế.
+- **Mã: ACV, VJC, HVN**
+  - Động lực (FA): Sân bay Liên Khương chuẩn bị tái vận hành 99%.
+  - Nhận định dòng tiền: Thông tin tích cực hỗ trợ nhóm ngành du lịch - hàng không trong bối cảnh thị trường đang điều chỉnh.
+  - Hành động: Tiếp tục quan sát phản ứng dòng tiền, chờ điểm cân bằng khi thị trường ổn định trở lại.
