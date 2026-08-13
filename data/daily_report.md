@@ -1,18 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:45 - 13/08/2026
+⏱ Thời gian: 12:30 - 13/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dòng vốn ngoại vào Ngân hàng:** Việc tăng tốc giải ngân vốn ngoại vào các ngân hàng thương mại lớn giúp củng cố hệ số an toàn vốn (CAR) và dư địa tăng trưởng tín dụng -> **Tích cực** -> Dòng tiền tập trung vào nhóm Ngân hàng (TCB, VPB, ACB).
-- **Thắt chặt pháp lý Bất động sản:** Tình trạng tắc nghẽn cấp sổ hồng tại TP.HCM tiếp diễn gây rủi ro lớn cho tiến độ hạch toán doanh thu -> **Tiêu cực** -> Áp lực bán tiềm ẩn ở nhóm BĐS dân cư (DXG, KDH, NVL).
-- **Áp lực chi phí vốn (CASA):** Dòng tiền giá rẻ rút khỏi tài khoản thanh toán tạo áp lực tăng chi phí vốn (COF) cho nhóm ngân hàng có CASA cao -> **Tiêu cực** -> Cần theo dõi sát biên lãi thuần (NIM) của TCB, MBB.
+- **Lãi suất huy động tăng lên 8%/năm:** -> **Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút ròng từ nhóm Chứng khoán (SSI, VND) do giảm sức hấp dẫn định giá và nhóm Ngân hàng (VCB, TCB) do áp lực chi phí vốn (COF) tăng cao, thu hẹp NIM.
+- **Sự cố gián đoạn bay do drone tại Tân Sơn Nhất:** -> **Tiêu cực** -> Nhóm Hàng không (HVN, VJC) đối mặt với chi phí vận hành tăng đột biến, ảnh hưởng trực tiếp đến hiệu suất khai thác và biên lợi nhuận ngắn hạn.
+- **Tắc nghẽn pháp lý cấp sổ hồng tại TP.HCM:** -> **Tiêu cực** -> Nhóm Bất động sản (DXG, KDH, NVL) tiếp tục đối mặt với rủi ro chậm ghi nhận doanh thu và dòng tiền, gia tăng áp lực lên thanh khoản doanh nghiệp.
+- **Dòng vốn ngoại vào Ngân hàng:** -> **Tích cực** -> Các mã (TCB, VPB, ACB) nhận được sự hỗ trợ về hệ số an toàn vốn (CAR), giúp giảm bớt rủi ro từ áp lực tăng lãi suất huy động trong trung hạn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã:** TCB
-- **Động lực (FA):** Chịu tác động kép: Tích cực từ khả năng thu hút vốn ngoại, tiêu cực từ áp lực suy giảm tỷ lệ CASA.
-- **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể phân hóa. Vốn ngoại kỳ vọng là "bệ đỡ" cho định giá, nhưng áp lực chi phí vốn sẽ khiến giao dịch trong phiên trở nên biến động mạnh.
-- **Hành động:** Tiếp tục quan sát tại vùng hỗ trợ cứng, tránh giải ngân đuổi khi chưa có xác nhận ổn định tỷ lệ CASA quý mới.
-
-- **Mã:** DXG, KDH, NVL
-- **Động lực (FA):** Thông tin tiêu cực về tiến độ cấp sổ hồng tại TP.HCM.
-- **Nhận định dòng tiền:** Rủi ro dòng tiền rút ròng do kỳ vọng bàn giao dự án bị trì hoãn, tác động xấu đến tâm lý nhà đầu tư ngắn hạn.
-- **Hành động:** Quản trị rủi ro, cân nhắc hạ tỷ trọng nếu vi phạm kịch bản kỹ thuật do tin tức pháp lý gây nhiễu tâm lý.
+  - **Động lực (FA):** Hợp lưu hai chiều: Áp lực từ chi phí vốn tăng (vĩ mô) đối trọng với lợi thế thu hút dòng vốn ngoại (vốn ngoại).
+  - **Nhận định dòng tiền:** Dòng tiền sẽ phân hóa, khối ngoại có thể tiếp tục đỡ giá nhưng áp lực bán từ nhà đầu tư cá nhân lo ngại NIM giảm sẽ làm tăng độ biến động.
+  - **Hành động:** Quan sát vùng hỗ trợ cứng; chưa ưu tiên giải ngân mới cho đến khi xu hướng lãi suất ổn định.
+- **Mã:** VJC
+  - **Động lực (FA):** Sự cố tại Tân Sơn Nhất gây gián đoạn khai thác.
+  - **Nhận định dòng tiền:** Dòng tiền có xu hướng phản ứng tiêu cực ngắn hạn do rủi ro phát sinh chi phí vận hành bất thường.
+  - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn, hạn chế bắt đáy trong phiên.
+- **Mã:** NVL
+  - **Động lực (FA):** Thông tin tiêu cực về cấp sổ hồng tại TP.HCM.
+  - **Nhận định dòng tiền:** Gia tăng áp lực lên tâm lý nhà đầu tư, rủi ro điều chỉnh nếu dòng tiền không giữ được ngưỡng hỗ trợ kỹ thuật hiện tại.
+  - **Hành động:** Chú ý rủi ro vi phạm kịch bản nắm giữ.
