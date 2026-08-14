@@ -1,20 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:45 - 14/08/2026
+⏱ Thời gian: 17:45 - 14/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN hạ tỷ giá trung tâm sau nhịp tăng kỷ lục -> Đánh giá: Tích cực -> Dòng tiền sẽ hướng vào các doanh nghiệp nhập khẩu/vay nợ ngoại tệ lớn (POW, HPG, MSN, GAS).
-- Trung Quốc hạn chế du lịch nước ngoài do suy thoái kinh tế -> Đánh giá: Tiêu cực -> Áp lực giảm doanh thu cho nhóm hàng không (HVN, VJC).
-- Thị trường rơi sâu, áp lực Call Margin diện rộng -> Đánh giá: Tiêu cực ngắn hạn -> Cần quan sát dòng tiền bắt đáy ở nhóm vốn hóa lớn.
+- Nhu cầu du lịch quốc tế từ thị trường Trung Quốc suy giảm mạnh theo dữ liệu Bloomberg -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực rút khỏi nhóm ngành Hàng không và Dịch vụ Du lịch].
+- Giá xăng dầu thế giới hạ nhiệt, trong nước điều chỉnh giảm -> [Đánh giá: Tích cực (cục bộ)] -> [Dòng tiền nhóm Logistics và Vận tải hưởng lợi nhờ tối ưu chi phí đầu vào].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSB**
-  - Động lực (FA): Được thêm vào rổ MSCI Frontier Markets Index.
-  - Nhận định dòng tiền: Dòng tiền từ các quỹ ETF thụ động sẽ tạo cầu đối ứng, giúp cổ phiếu giảm bớt áp lực từ đà bán tháo chung của thị trường.
-  - Hành động: Chú ý quan sát phản ứng giá tại vùng hỗ trợ, có thể là điểm tựa an toàn khi thị trường hoảng loạn.
-- Mã: **DXG**
-  - Động lực (FA): Tăng 6% ngược dòng thị trường, thanh khoản cao nhất 2 tháng.
-  - Nhận định dòng tiền: Dấu hiệu dòng tiền thông minh "gom hàng" chủ động, tạo sức mạnh giá tương đối (RS) tích cực.
-  - Hành động: Theo dõi kỹ, nếu giữ được sắc xanh khi VN-Index hồi phục, đây là mã dẫn dắt nhịp tới.
+- Mã: HVN, VJC
+- Động lực (FA): Dữ liệu khách quốc tế Trung Quốc sụt giảm do tâm lý kinh tế nội địa nước này ảm đạm.
+- Nhận định dòng tiền: Áp lực bán gia tăng từ tâm lý tiêu cực chung của thị trường kết hợp với yếu tố vĩ mô bất lợi, rủi ro điều chỉnh kỹ thuật tại vùng hỗ trợ hiện tại.
+- Hành động: Hạ tỷ trọng, quản trị rủi ro chặt chẽ; tránh bắt đáy khi chưa có tín hiệu cân bằng vĩ mô từ thị trường khách Trung Quốc.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Hiện chưa có tin tức mới đột biến về EIB hoặc BSR trong 15 phút qua. Tiếp tục nắm giữ theo chiến lược đã thiết lập, quan sát vùng hỗ trợ cứng.
+- Mã: PLX
+- Động lực (FA): Giá bán lẻ xăng dầu trong nước giảm theo xu hướng thế giới.
+- Nhận định dòng tiền: Dù biên lợi nhuận thương mại có thể thu hẹp ngắn hạn, nhưng sự ổn định của chi phí đầu vào có thể giúp doanh nghiệp này duy trì được sức cầu từ nhóm vận tải/logistics. 
+- Hành động: Tiếp tục quan sát phản ứng tại vùng giá hỗ trợ, không ưu tiên giải ngân mạnh trong bối cảnh VN-Index đang bị giải chấp.
