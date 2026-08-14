@@ -1,15 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:45 - 14/08/2026
+⏱ Thời gian: 21:45 - 14/08/2026
 
-🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Ách tắc cấp giấy chứng nhận xuất xứ (C/O) tại các địa phương -> **Tác động: Tiêu cực** -> Dòng tiền sẽ chịu áp lực bán tại nhóm ngành xuất khẩu chủ lực (Thủy sản, Dệt may).
+
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VHC, TNG, ANV**
+- Động lực (FA): Ách tắc thủ tục hành chính (C/O) gây đình trệ hoạt động xuất khẩu, tăng chi phí lưu kho và rủi ro phạt hợp đồng quốc tế.
+- Nhận định dòng tiền: Tạo tâm lý tiêu cực tức thời, gây áp lực điều chỉnh lên các mã có tỷ trọng doanh thu từ xuất khẩu cao. Dòng tiền có xu hướng rút khỏi nhóm này để tìm kiếm các mã an toàn hơn.
+- Hành động: **Rủi ro vi phạm kịch bản**; khuyến nghị theo dõi chặt chẽ diễn biến giá tại vùng hỗ trợ gần nhất, cân nhắc giảm tỷ trọng nếu xuất hiện tín hiệu bán tháo diện rộng.
+
 - Mã: **TRS**
-- Động lực (FA): Thông báo ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt.
-- Nhận định dòng tiền: Tạo điểm tựa tâm lý trong ngắn hạn nhờ cam kết chia sẻ lợi nhuận, phù hợp với dòng tiền trú ẩn trong bối cảnh thị trường đang điều chỉnh mạnh.
-- Hành động: Tiếp tục quan sát phản ứng giá tại vùng hỗ trợ; cân nhắc tham gia nếu thị trường chung có tín hiệu chững lại đà bán.
-
-- Mã: **HHV**
-- Động lực (FA): Bắt đầu thu phí cao tốc Nha Trang - Quảng Ngãi.
-- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp đến việc cải thiện dòng tiền thu hồi vốn của các dự án BOT, tạo kỳ vọng tăng trưởng doanh thu thực tế.
-- Hành động: Chú ý giải ngân nếu cổ phiếu giữ được nền giá trước áp lực rung lắc của VN-Index.
-
-*(Lưu ý: Các tin tức về biến động 64 điểm của VN-Index và áp lực bán tại nhóm Bluechips - VCB, VHM, HPG, SSI, MWG - đã được ghi nhận ở khung dữ liệu trước. Các mã này hiện đang nằm trong trạng thái rủi ro cao, ưu tiên quản trị rủi ro thay vì bắt đáy khi dòng tiền bán tháo chưa có dấu hiệu dừng lại).*
+- Động lực (FA): Thông báo chốt danh sách trả cổ tức bằng tiền mặt.
+- Nhận định dòng tiền: Tạo lực cầu hỗ trợ cho cổ phiếu trong ngắn hạn từ nhóm nhà đầu tư ưa thích giá trị và cổ tức.
+- Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì nền giá tích lũy.
