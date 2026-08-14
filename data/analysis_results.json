@@ -1,5 +1,79 @@
 ﻿[
   {
+    "Title": "Vietnam Central Bank Says It’s Ready to Intervene in FX Market - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONXE5V3VFMjlZaG5feFN5djc0b3M4Vmpic1loNEhOaWtaWXU1OVNpSVZLQTllRkRmVzFWTDdJQlZ6Yzc2RGF4OHREeTlWaHlJYlQ1amhlOWNTcTA3SEllM3RpTjdCcGNXRlp1ajk5ZkJ3U1lXNFNhVTl2VmhRcHNmYjFpb1ZpV2JHbjJjTklvbFV4U0w2RlJxdkdPV0x4OWh1bWhySzhNQTRFNlQ0Y0YyWkwtN0k?oc=5",
+    "PubDate": "Fri, 19 Apr 2024 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc NHNN sẵn sàng can thiệp thị trường ngoại hối giúp ổn định tỷ giá, giảm áp lực lên dòng vốn ngoại và chi phí vay nợ bằng ngoại tệ của các doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Can thiệp tỷ giá giúp ổn định vĩ mô nhưng làm giảm lợi thế cạnh tranh của nhóm xuất khẩu. Dòng tiền có xu hướng thận trọng, ưu tiên nhóm phòng thủ và giảm áp lực nợ vay ngoại tệ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ giá ổn định hoặc giảm nhẹ làm giảm lợi thế chênh lệch tỷ giá cho các doanh nghiệp xuất khẩu thu USD."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tương tự VHC, doanh nghiệp xuất khẩu dệt may hưởng lợi ít hơn khi tỷ giá không còn biến động mạnh."
+      },
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực tỷ giá giúp giảm chi phí tài chính cho các khoản nợ vay bằng ngoại tệ lớn của doanh nghiệp điện."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 02:11:31"
+  },
+  {
+    "Title": "SHS: Nghị quyết HĐQT phát hành riêng lẻ 500 tỷ đồng trái phiếu lần 2 năm 2026 - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVJ0ZktaUE5UUlZqWlUwOFpwVmJFNmxXUjVnVk9xTmpHR1Y4RmQ5RTVyWUVWejNpLWR2N1VrWHBlX1NzSWo1ZXNpby02eGFsdV9SQlRCOFJ6RGxRZDNpZ0NhZVkzbWpxamYyWEg5SGo3T3NEcFdNMUhxamF2cGp0dFZmQmpOVzB5S29LdktXNGY0QW1OeVdEUmJzVUZpYS0tR1BxeWFjQXlKM05lYXdQd2hULVdFeURU?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 17:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc phát hành trái phiếu bổ sung nguồn vốn kinh doanh cho SHS, giúp tăng năng lực cho vay margin và đầu tư tự doanh, tuy nhiên làm tăng áp lực chi phí lãi vay trong tương lai.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Huy động vốn tăng năng lực margin nhưng làm tăng chi phí tài chính. Dòng tiền sẽ phản ứng thận trọng, chờ đợi hiệu quả sử dụng vốn thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SHS",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tăng nguồn vốn cho vay margin và tự doanh, nhưng áp lực chi phí lãi vay tăng lên trong bối cảnh thị trường biến động."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 02:11:03"
+  },
+  {
+    "Title": "FUEFCV50: Thông báo thay đổi giá trị tài sản ròng ngày 13/08/2026 - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3RLSjdfdnBCQ1VBMTB1ZEU1OXlOdGZ5cmlBYlZsMVBpVms1T0x5UHdHRGtYNHdhdzA1dkpkcEpjQ2dsZ29ITGE1LXNwanlpOWJMTkN5a0ZlZmd0Rk5BR1hsR3J3eXhWY1RVTlBYVldHVmV0TXBsckp2QU9tNmZ1TE1hMXBad2tCNUU0ZVhfblg2ZEdXYTVjSHlTQnQzYXFEamhfM3ZxNTl1LUFLQzdVeUNlRW5KYVhDNWJCS3VqSlRXSGU5dFE?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 07:10:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược đầu tư của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Thông báo NAV định kỳ là nghiệp vụ hành chính, không tác động đến cung cầu hay dòng tiền của các mã cổ phiếu trong danh mục.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 02:10:51"
+  },
+  {
+    "Title": "FUESSV30: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU1F2dUNUM3BkMnI4RUF3REhON2hzRU5QT0F6VDdzQ3VjTWVPeVdmaEw0dzRWZE5DQnZxXzhNdW9qSTRDUTRaUnExN3ZwaWdybkJTRnpHc180VzlmVVFJNEh5VTUzbVhfMFR0VHc4Z0Foc1BYaFY1QkRSUjFNRXZjb0lFVXFmTTVrMjl0WGMxbzk5M2FmN3JwTUNtM3Z4b2o4ZnhtYklVZEVHVlJSVnNPS1AzMldUNHY3ZHo2NTlabHNOY3RIVE9MWXlTS0w5bjlLLW9BQjlRcjdXVVUxZ0pJSW5FTQ?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 02:11:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc thay đổi niêm yết chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thủ tục hành chính niêm yết quỹ, không tạo ra biến động dòng tiền cho các mã cổ phiếu thành phần trong danh mục VN30.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 02:10:37"
+  },
+  {
     "Title": "Vietnam to Start Carbon Market Emissions Trading Next Week - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUtkVlJFOEhjYWVBWnZKNFdEazJ5TmNTWGUxRFotVmI1S3BISzlfcGlYa1hwU3FiRmdQS1ZCdnNNWkZaeFpyY3NOd3dWR01CbTZkVE1uVXNWWUpEUVQxcUJNQWdGY2VqOUdlNlFDQlEtRHhGczltSzU5RjRwY2xfem5qRFFVd2dSTVUwbzBPaFdzWlp4VTRhVXNpSy1sdDhEY0JzZVZXUm5tR0p6NXc?oc=5",
@@ -16609,69 +16683,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-08 04:21:21"
-  },
-  {
-    "Title": "Chính sách tín dụng linh hoạt khơi thông nguồn lực cho tăng trưởng kinh tế",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/chinh-sach-tin-dung-linh-hoat-khoi-thong-nguon-luc-cho-tang-truong-kinh-te-2529944.html",
-    "PubDate": "Sat, 27 Jun 2026 09:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Chính sách tín dụng linh hoạt giúp cải thiện khả năng tiếp cận vốn của doanh nghiệp, thúc đẩy tăng trưởng tín dụng và hỗ trợ thanh khoản cho các ngành sản xuất, kinh doanh.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng hành chính, thiếu dữ liệu định lượng cụ thể. Tác động thực tế lên NIM và thanh khoản cần theo dõi thêm tại các kỳ báo cáo tài chính.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 04:21:06"
-  },
-  {
-    "Title": "Vietbank và hướng đi khác biệt từ sự thấu hiểu địa phương",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vietbank-va-huong-di-khac-biet-tu-su-thau-hieu-dia-phuong-2529955.html",
-    "PubDate": "Sat, 27 Jun 2026 09:35:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết mang tính chất truyền thông thương hiệu, giới thiệu chiến lược kinh doanh của ngân hàng, không chứa thông tin tài chính đột biến hay thay đổi chính sách tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Thông tin mang tính chất quảng bá thương hiệu, không có tác động trực tiếp đến dòng tiền hay biên lợi nhuận của VBB trên thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 04:20:56"
-  },
-  {
-    "Title": "APF: Con ông Trần Ngọc Hải Phó Chủ tịch HĐQT; Tổng Giám đốc đăng ký mua 20.000 CP - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeGxyajBUUTZLbXQ3d25kMWs5UlB2SG1wUDA5WndNcHA1MjN5LVpTZkExbnpPZHM2VnhhWmFEUkRuc01nX3V5VDlxcjNocHM4bmQ4TkhsZXpyS3h2ZlNBTnVNYlBadG0weXVPQ2NIaEUzSjhzMkYxUkdJdUJuQVRDQ2lrUzN0bkN0YjlBQlBYa2dVLUlQRnRsazJQbGlxUzFwTXFtX3IySnVBX0FVN1ZJbmJoVXJzN19vRk1PSjdURWR6a3ZVcVdtTHFxR3NTNVllcldxOEZTNnNuS3hUR25ETVd1R1lmX2RIbWpZ?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 17:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Giao dịch nội bộ mua vào cổ phiếu thể hiện niềm tin của người trong cuộc đối với triển vọng doanh nghiệp, tạo tâm lý tích cực cho cổ đông hiện hữu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Khối lượng mua 20.000 CP quá nhỏ so với quy mô vốn, không đủ tạo động lực dòng tiền. Chỉ mang tính chất trấn an tâm lý cổ đông.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "APF",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lãnh đạo và người liên quan gia tăng sở hữu cho thấy sự cam kết và kỳ vọng vào giá trị cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 03:38:13"
-  },
-  {
-    "Title": "Công ty con của HAGL chốt thời gian IPO 18,8 triệu cổ phiếu - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXVONkY5dUNXcnc2TWJ6LXVPME9oby1WVFhGcmFJbnhFZ2plbUZuSS0yal9VYVhTdXNWS2w2bmg0T0Z1Q2UyNUFLQU1Kb1o2Q1lYWlk3Yl9nXzFCSUFOM0I0LUdlaTNEdkNCSTFWOHlzWXRFcVBwMWJab1RIUUxpeDBkZmQ2aWl4Q3V2eVJUaHZRSFZrZy1NU3VDc3VDdWs?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 12:14:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc IPO công ty con giúp HAGL hiện thực hóa giá trị tài sản, cải thiện dòng tiền và giảm áp lực nợ vay, tạo tâm lý tích cực cho cổ đông.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - HAG. IPO công ty con là bước đi cần thiết để giảm áp lực nợ, nhưng cần theo dõi định giá thực tế và khả năng hấp thụ của thị trường. Tránh hưng phấn quá đà.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "IPO công ty con giúp cải thiện bảng cân đối kế toán, tăng tính minh bạch và kỳ vọng thu về nguồn vốn lớn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 03:37:58"
   }
 ]
