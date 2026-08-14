@@ -1,16 +1,15 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15 ngày 14/08/2026
+⏱ Thời gian: 20:45 - 14/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực bán tháo diện rộng tại nhóm Bluechips (VCB, VHM, HPG, SSI, MWG) khiến VN-Index mất 64 điểm sau 2 phiên -> **Đánh giá: Tiêu cực** -> Dòng tiền đang có xu hướng rút khỏi nhóm vốn hóa lớn, gia tăng rủi ro kích hoạt giải chấp (force sell), gây áp lực tâm lý tiêu cực lên toàn thị trường.
+🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **TRS**
+- Động lực (FA): Thông báo ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt.
+- Nhận định dòng tiền: Tạo điểm tựa tâm lý trong ngắn hạn nhờ cam kết chia sẻ lợi nhuận, phù hợp với dòng tiền trú ẩn trong bối cảnh thị trường đang điều chỉnh mạnh.
+- Hành động: Tiếp tục quan sát phản ứng giá tại vùng hỗ trợ; cân nhắc tham gia nếu thị trường chung có tín hiệu chững lại đà bán.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HHV**
-  - Động lực (FA): Chính thức thu phí cao tốc tuyến Nha Trang - Quảng Ngãi.
-  - Nhận định dòng tiền: Tin tức hỗ trợ cải thiện dòng tiền ổn định từ các dự án BOT, tạo nền tảng hỗ trợ trong bối cảnh thị trường chung đang bị bán tháo.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ kỹ thuật gần nhất; tránh giải ngân khi thị trường chung đang trong nhịp rơi mạnh.
+- Mã: **HHV**
+- Động lực (FA): Bắt đầu thu phí cao tốc Nha Trang - Quảng Ngãi.
+- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp đến việc cải thiện dòng tiền thu hồi vốn của các dự án BOT, tạo kỳ vọng tăng trưởng doanh thu thực tế.
+- Hành động: Chú ý giải ngân nếu cổ phiếu giữ được nền giá trước áp lực rung lắc của VN-Index.
 
-- **Mã: CEO**
-  - Động lực (FA): Chính phủ tháo gỡ vướng mắc pháp lý cho các dự án tại Phú Quốc.
-  - Nhận định dòng tiền: Tin tức mang tính bổ trợ tích cực về mặt pháp lý nhưng khó chống lại xu hướng giảm chung của thị trường lúc này.
-  - Hành động: **Tiếp tục quan sát**, chờ đợi tín hiệu cân bằng của VN-Index trước khi xem xét tích lũy lại do quỹ đất tại Phú Quốc cần thời gian dài để hiện thực hóa doanh thu.
+*(Lưu ý: Các tin tức về biến động 64 điểm của VN-Index và áp lực bán tại nhóm Bluechips - VCB, VHM, HPG, SSI, MWG - đã được ghi nhận ở khung dữ liệu trước. Các mã này hiện đang nằm trong trạng thái rủi ro cao, ưu tiên quản trị rủi ro thay vì bắt đáy khi dòng tiền bán tháo chưa có dấu hiệu dừng lại).*
