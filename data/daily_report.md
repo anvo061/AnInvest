@@ -1,16 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:47
+⏱ Thời gian: 11:30 - 14/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Phân hóa ngành Ngân hàng: Dòng tiền thông minh đang dịch chuyển từ việc "mua theo sóng ngành" sang chọn lọc các đơn vị có chất lượng tài sản vượt trội và thanh khoản dồi dào, bất chấp khó khăn của các doanh nghiệp nhỏ trong việc tiếp cận vốn -> **Tích cực (có chọn lọc)** -> Dòng tiền hướng vào nhóm ngân hàng quốc doanh (VCB, BID) và các ngân hàng có tỷ lệ CASA dẫn đầu (TCB).
+- **Việt Nam triển khai hợp đồng LNG dài hạn thứ hai:** -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung vào nhóm ngành **Tiện ích & Năng lượng (POW, GAS)** do đảm bảo được nguồn nguyên liệu đầu vào ổn định cho các dự án điện khí trọng điểm.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VIX**
-- Động lực (FA): Danh mục tự doanh bốc hơi 2.400 tỷ đồng so với cuối tháng 6, áp lực từ việc trích lập dự phòng giảm giá tài sản.
-- Nhận định dòng tiền: Tin tức gây tổn hại trực tiếp đến lợi nhuận quý và tâm lý nhà đầu tư cá nhân, khả năng chịu áp lực bán mạnh trong ngắn hạn.
-- Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quan sát phản ứng tại vùng hỗ trợ kỹ thuật gần nhất, chưa nên giải ngân bắt đáy.
-
-- Mã: **VCB, TCB, BID**
-- Động lực (FA): Lợi thế thanh khoản dồi dào, chi phí vốn thấp (COF) và khả năng duy trì biên lãi thuần (NIM) tốt trong bối cảnh lãi suất ổn định.
-- Nhận định dòng tiền: Dòng tiền chủ đạo của thị trường sẽ tập trung tại nhóm này để đảm bảo tính an toàn và kỳ vọng tăng trưởng bền vững.
-- Hành động: **Chú ý giải ngân** theo chiến lược tích lũy khi có rung lắc.
+- **Mã:** POW, GAS
+    - **Động lực (FA):** Đa dạng hóa nguồn cung LNG dài hạn giúp giảm rủi ro thiếu hụt nhiên liệu, hỗ trợ vận hành tối ưu cho các nhà máy điện khí.
+    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào khả năng cải thiện biên lợi nhuận dài hạn, dòng tiền thông minh có xu hướng đón đầu các mã có hạ tầng LNG sẵn sàng.
+    - **Hành động:** Chú ý giải ngân (tích lũy dần quanh vùng hỗ trợ).
+- **Mã:** VDP
+    - **Động lực (FA):** Cổ đông lớn liên tiếp mua gom khối lượng lớn.
+    - **Nhận định dòng tiền:** Nguồn cung trôi nổi giảm đột ngột, áp lực bán bị hấp thụ, tạo động lực đẩy giá ngắn hạn do kỳ vọng cấu trúc lại quản trị.
+    - **Hành động:** Chú ý giải ngân (theo dõi sát khối lượng giao dịch vùng giá hiện tại).
+- **Mã:** HTM
+    - **Động lực (FA):** Chứng khoán Asean đăng ký bán 11.58 triệu CP.
+    - **Nhận định dòng tiền:** Áp lực cung lớn treo lơ lửng, tạo rào cản tâm lý tiêu cực, khả năng cao sẽ có các phiên rung lắc mạnh khi lượng cổ phiếu này bắt đầu được khớp.
+    - **Hành động:** Rủi ro vi phạm kịch bản (né tránh giải ngân mới, ưu tiên quản trị rủi ro nếu đang nắm giữ).
