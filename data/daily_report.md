@@ -1,24 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30 - 15/08/2026
+⏱ Thời gian: 04:45 - 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Việt Nam chuẩn bị vận hành thị trường giao dịch tín chỉ carbon từ tuần tới:** -> Tác động: Tích cực (Nhóm doanh nghiệp năng lượng tái tạo, sở hữu quỹ đất rừng lớn) -> Dòng tiền dự kiến sẽ dịch chuyển sang nhóm Tài nguyên & Năng lượng Xanh.
-- **NHNN sẵn sàng can thiệp thị trường ngoại hối:** -> Tác động: Trung lập/Tích cực (Ổn định tâm lý vĩ mô, giảm áp lực tỷ giá) -> Dòng tiền ưu tiên nhóm doanh nghiệp vay nợ ngoại tệ lớn (Điện, Hạ tầng).
+- Ngân hàng Nhà nước tuyên bố sẵn sàng can thiệp thị trường ngoại hối (FX) -> [Đánh giá tác động: Trung lập/Tích cực] -> Dòng tiền kỳ vọng phân hóa: Nhóm giảm áp lực chi phí tài chính (Tiện ích, năng lượng, doanh nghiệp vay ngoại tệ) sẽ hưởng lợi, trong khi nhóm xuất khẩu (Dệt may, Thủy sản) cần theo dõi chặt chẽ do giảm lợi thế từ tỷ giá.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** REE
-    - Động lực (FA): Sở hữu danh mục năng lượng tái tạo lớn, hưởng lợi trực tiếp từ việc thương mại hóa tín chỉ carbon.
-    - Nhận định dòng tiền: Kỳ vọng gia tăng sự chú ý từ dòng tiền đầu tư dài hạn/ESG.
-    - Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật để giải ngân.
-- **Mã:** GVR
-    - Động lực (FA): Tiềm năng khai thác tín chỉ carbon từ diện tích rừng cao su lớn.
-    - Nhận định dòng tiền: Có khả năng xuất hiện sóng đầu cơ dựa trên thông tin chính sách mới.
-    - Hành động: Chú ý giải ngân nếu có sự đồng thuận từ volume.
-- **Mã:** POW
-    - Động lực (FA): Giảm áp lực tỷ giá giúp tiết giảm chi phí tài chính cho các khoản nợ vay bằng ngoại tệ.
-    - Nhận định dòng tiền: Dòng tiền có thể cải thiện nhờ kỳ vọng giảm chi phí tài chính.
-    - Hành động: Tiếp tục quan sát phản ứng tại vùng cản ngắn hạn.
-- **Mã:** VHC, TNG
-    - Động lực (FA): Tỷ giá hạ nhiệt làm giảm lợi thế chênh lệch từ xuất khẩu.
-    - Nhận định dòng tiền: Rủi ro áp lực bán chốt lời ngắn hạn khi hưởng lợi tỷ giá bị thu hẹp.
-    - Hành động: Rủi ro vi phạm kịch bản, thận trọng với vị thế mua đuổi.
+- Mã: **POW**
+- Động lực (FA): Áp lực tỷ giá hạ nhiệt từ sự can thiệp của NHNN.
+- Nhận định dòng tiền: Giảm áp lực chi phí tài chính đối với các khoản nợ vay ngoại tệ lớn giúp cải thiện biên lợi nhuận ròng. Dòng tiền có thể tìm đến các cổ phiếu phòng thủ và nhóm hạ tầng điện.
+- Hành động: Chú ý giải ngân nếu dòng tiền đồng thuận bứt phá vùng tích lũy.
+
+- Mã: **VHC, TNG**
+- Động lực (FA): NHNN can thiệp ổn định tỷ giá.
+- Nhận định dòng tiền: Tác động tiêu cực nhẹ lên tâm lý nhà đầu tư do kỳ vọng về doanh thu quy đổi từ xuất khẩu giảm.
+- Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản nếu áp lực bán kỹ thuật xuất hiện tại vùng hỗ trợ gần nhất.
+
+- Mã: **SHS**
+- Động lực (FA): Phát hành 500 tỷ đồng trái phiếu riêng lẻ.
+- Nhận định dòng tiền: Tăng năng lực vốn để đẩy mạnh cho vay margin và tự doanh, nhưng cần thời gian để kiểm chứng hiệu quả sinh lời trên chi phí lãi vay mới.
+- Hành động: Tiếp tục quan sát, chưa có điểm hợp lưu giải ngân ngay.
