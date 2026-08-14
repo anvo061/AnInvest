@@ -1,17 +1,8 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:45 - 14/08/2026
-
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nhu cầu du lịch quốc tế từ thị trường Trung Quốc suy giảm mạnh theo dữ liệu Bloomberg -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực rút khỏi nhóm ngành Hàng không và Dịch vụ Du lịch].
-- Giá xăng dầu thế giới hạ nhiệt, trong nước điều chỉnh giảm -> [Đánh giá: Tích cực (cục bộ)] -> [Dòng tiền nhóm Logistics và Vận tải hưởng lợi nhờ tối ưu chi phí đầu vào].
+⏱ Thời gian: 18:30 - 14/08/2026
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: HVN, VJC
-- Động lực (FA): Dữ liệu khách quốc tế Trung Quốc sụt giảm do tâm lý kinh tế nội địa nước này ảm đạm.
-- Nhận định dòng tiền: Áp lực bán gia tăng từ tâm lý tiêu cực chung của thị trường kết hợp với yếu tố vĩ mô bất lợi, rủi ro điều chỉnh kỹ thuật tại vùng hỗ trợ hiện tại.
-- Hành động: Hạ tỷ trọng, quản trị rủi ro chặt chẽ; tránh bắt đáy khi chưa có tín hiệu cân bằng vĩ mô từ thị trường khách Trung Quốc.
-
-- Mã: PLX
-- Động lực (FA): Giá bán lẻ xăng dầu trong nước giảm theo xu hướng thế giới.
-- Nhận định dòng tiền: Dù biên lợi nhuận thương mại có thể thu hẹp ngắn hạn, nhưng sự ổn định của chi phí đầu vào có thể giúp doanh nghiệp này duy trì được sức cầu từ nhóm vận tải/logistics. 
-- Hành động: Tiếp tục quan sát phản ứng tại vùng giá hỗ trợ, không ưu tiên giải ngân mạnh trong bối cảnh VN-Index đang bị giải chấp.
+- Mã: **CEO**
+- Động lực (FA): Chính quyền đang triển khai các biện pháp gỡ vướng mắc pháp lý cho các dự án bất động sản tại Phú Quốc.
+- Nhận định dòng tiền: Tin tức trực tiếp giải tỏa nút thắt tâm lý cho các dự án trọng điểm, kỳ vọng cải thiện thanh khoản và đẩy nhanh tiến độ ghi nhận doanh thu trong các quý tới. Dòng tiền đầu cơ có thể tập trung vào mã này nhờ câu chuyện "đất Phú Quốc".
+- Hành động: **Chú ý giải ngân** (theo dõi sát khối lượng khớp lệnh tại vùng hỗ trợ để xác nhận sự gia nhập của dòng tiền lớn).
