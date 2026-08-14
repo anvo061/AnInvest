@@ -1,5 +1,121 @@
 ﻿[
   {
+    "Title": "KHD: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGozRzlacGZTQTR6TGFmQ2h4SzdtZWY5eDdSZGlnamZKQlBrcXR1SDJmVnotMmtxWWJaMm90blpSUVE5blhZdXRyNXNBbTAxYmJURFdEX0ZOUThvRWNlYzBnWHFMMFlNQjREUVRUN0ZvUU1hUDNyc3gtc2dDdWo2cXJ2R1lvdkNoMjNSYlpxQTVkRUcxZUlta2dJTXBLTnNybjdyeWxaSlR3aDEyV3IxNg?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 10:42:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động tài chính định kỳ, không làm thay đổi đáng kể giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - KHD. Trả cổ tức tiền mặt là hoạt động bình thường, không tạo đột biến dòng tiền. Nhà đầu tư cần chú ý điều chỉnh giá tham chiếu vào ngày giao dịch không hưởng quyền.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "KHD",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động trả cổ tức tiền mặt định kỳ, không tác động đến xu hướng tăng trưởng doanh thu hay lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-08-14 19:05:23"
+  },
+  {
+    "Title": "Cổ phiếu trụ bị bán mạnh, VN-Index 'rơi' 64 điểm sau 2 phiên - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUF9TN0FtTDE3UVYwQWFYejFEaXNQVEZ3QlQ0aGFzLUtZN2NGbkp3cXZoOEl2aXFvWXgyUjM5emNPbEpjNjhqVVV1WkRYS0tYeGR5T3JYVURYcFVnZjREYkNtQmo3X1dVMVFRTFJnbTlFRl9ZcjhrSjNUV0Z3YnIweUM3SHUzb19NN2pvTjdnV003Y3JyVmhIRHhqQ3p2UQ?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 11:37:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -9,
+    "MarketImpact": "Áp lực bán tháo diện rộng tại nhóm vốn hóa lớn (Bluechips) gây hiệu ứng domino, kích hoạt lệnh bán giải chấp (force sell) và làm suy yếu tâm lý nhà đầu tư ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực bán tháo diện rộng nhóm VN30. Dòng tiền rút mạnh, rủi ro force sell gia tăng. Khuyến nghị: Dừng giải ngân, ưu tiên quản trị rủi ro, chờ tín hiệu cân bằng tại vùng hỗ trợ cứng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu trụ cột bị bán mạnh gây áp lực giảm điểm lớn lên chỉ số chung."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ khối ngoại và nhà đầu tư cá nhân làm suy yếu vùng giá hỗ trợ."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Bị bán mạnh theo xu hướng thị trường chung, mất đi động lực tăng giá ngắn hạn."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhóm chứng khoán chịu áp lực giảm theo thanh khoản và tâm lý thị trường."
+      },
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán tháo từ các quỹ đầu tư gây sức ép lên giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-14 19:04:41"
+  },
+  {
+    "Title": "EVG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZC1aaHJES1pXT1JBLVViSmtod0NpUzBsYTZZX3UxNFQ1Z1lxWnd4a2c5RXQxdFJtMG5qT2FSZUM3VjVCVWR0dlN3LS0yTTNITGJzeVpYRmVSR0lfTUMxRGJpcE9rV0k4LTM0QlRtREllQjlZY09la3RiekpSOGVIN21zMWZ6YV83Y2tpNkZ2dlk3NVZ0dkRFNGRtcFBsc0NUTHdwNFZtTk9mUldzNDVIT09zdnFhd1dkVmRGQzlEaWFVMkdGVDRzWA?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 11:15:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - EVG. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay giá trị nội tại doanh nghiệp.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-14 19:04:29"
+  },
+  {
+    "Title": "Để tài sản số và doanh nghiệp công nghệ người Việt ‘an cư’ trên sân nhà",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/de-tai-san-so-va-doanh-nghiep-cong-nghe-nguoi-viet-an-cu-tren-san-nha-100260814164550258.htm",
+    "PubDate": "8/14/2026 5:34:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Chính sách hỗ trợ hạ tầng số và doanh nghiệp công nghệ nội địa tạo động lực tăng trưởng dài hạn cho ngành CNTT, giúp giữ chân dòng vốn và nhân lực chất lượng cao trong nước.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chính sách vĩ mô, thiếu lộ trình cụ thể. Chưa có tác động trực tiếp đến dòng tiền ngắn hạn của nhóm công nghệ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-14 19:04:10"
+  },
+  {
+    "Title": "Ngày đầu thu phí cao tốc từ Nha Trang đến Quảng Ngãi: Nhiều tài xế chưa biết đã thu phí, tài khoản hết tiền",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ngay-dau-thu-phi-cao-toc-tu-nha-trang-den-quang-ngai-nhieu-tai-xe-chua-biet-da-thu-phi-tai-khoan-het-tien-100260814161526529.htm",
+    "PubDate": "8/14/2026 5:36:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chính thức thu phí các tuyến cao tốc giúp các doanh nghiệp đầu tư hạ tầng BOT ghi nhận doanh thu ổn định, cải thiện dòng tiền và khả năng hoàn vốn dự án.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Việc thu phí là quy trình vận hành bình thường, không tạo đột biến lợi nhuận. Tác động dòng tiền đã phản ánh vào giá từ trước.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp có nhiều dự án BOT cao tốc, việc thu phí giúp tăng trưởng doanh thu và dòng tiền ổn định."
+      }
+    ],
+    "AnalyzedAt": "2026-08-14 19:03:52"
+  },
+  {
+    "Title": "Đặc sản muốn đi xa, bán giá cao phải có 'giấy khai sinh'",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/dac-san-muon-di-xa-ban-gia-cao-phai-co-giay-khai-sinh-100260814113312121.htm",
+    "PubDate": "8/14/2026 5:38:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính định hướng về quản lý chất lượng và truy xuất nguồn gốc nông sản, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp/Thực phẩm. Đây là quy định quản lý hành chính về tiêu chuẩn chất lượng, không tạo ra đột biến dòng tiền ngắn hạn cho các mã cổ phiếu ngành thực phẩm.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-14 19:03:42"
+  },
+  {
     "Title": "FUEABVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 17/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX3FLakdWWnlKNHNtZmpnaFlpeHFmdVZYYVQtN0VjaGlPVkp1aXJzai1GMWpYSG1NTTF5T3VrQjJrdGFicl96Y0xxMkl1ckE5d09YYVl5aEp0VXlqVzVWRXc4cHkwb2tvdEladmVKTHBSMFBmRFVVb1dPV1RwUzhYclVSaEQ0TmtjdjIzUG1ON2UxaWN4Y2lCRjlDZF8wRWlFdngxN1RrM3NVd1dSNmdfOE5VRWpnY0ZEVmpkNXhfcm1Gak1oRGxrUlJ2SlpDYS1FOG00?oc=5",
@@ -16633,106 +16749,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-07 23:32:03"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 1/7/2026: Những nhà băng còn niêm yết từ 7%/năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html",
-    "PubDate": "Wed, 15 Jul 2026 19:59:13 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về lãi suất huy động tại một số ngân hàng nhỏ không phản ánh xu hướng chính sách tiền tệ chung của toàn hệ thống, không tác động đáng kể đến biên lợi nhuận hay dòng tiền của các ngân hàng lớn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Lãi suất huy động tại các ngân hàng nhỏ không đại diện cho xu hướng thị trường chung. Không có tác động đến dòng tiền của các mã vốn hóa lớn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-07 23:31:54"
-  },
-  {
-    "Title": "Phí tái chế pin điện mặt trời cao 'ngất ngưởng', doanh nghiệp điện tái tạo chao đảo",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/phi-tai-che-pin-mat-troi-cao-ngat-nguong-doanh-nghiep-dien-tai-tao-chao-dao-2531135.html",
-    "PubDate": "Wed, 01 Jul 2026 09:13:33 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Chi phí vận hành tăng cao do phí tái chế pin mặt trời gây áp lực trực tiếp lên biên lợi nhuận của các doanh nghiệp điện tái tạo, làm giảm tính hấp dẫn của dòng tiền đầu tư vào ngành này.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Điện tái tạo. Chi phí tái chế tăng cao gây áp lực lên biên lợi nhuận dài hạn. Dòng tiền cần thận trọng với các doanh nghiệp có tỷ trọng điện mặt trời lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GEG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Doanh nghiệp có tỷ trọng lớn trong mảng điện mặt trời, chịu ảnh hưởng trực tiếp từ chi phí tái chế tăng cao."
-      }
-    ],
-    "AnalyzedAt": "2026-08-07 23:31:39"
-  },
-  {
-    "Title": "Thành phố 'hốt bạc' từ dầu khí: Công nhân làm 2 tuần, nghỉ 4 tuần, lương 2,5 tỷ",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/thanh-pho-hot-bac-tu-dau-khi-cong-nhan-lam-2-tuan-nghi-4-tuan-luong-2-5-ty-2542427.html",
-    "PubDate": "Fri, 07 Aug 2026 22:55:32 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về mức thu nhập cá nhân trong ngành dầu khí, không phản ánh thay đổi về biên lợi nhuận, doanh thu hay hoạt động kinh doanh của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Tin tức về thu nhập cá nhân không tác động đến kết quả kinh doanh doanh nghiệp. Dòng tiền không phản ứng với thông tin này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-07 23:31:29"
-  },
-  {
-    "Title": "Vietnam approves plans for international financial centre amid US trade pressure - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkVlVjdEQlRSclhHbDdVZTlsbV9BbWFaUWQ2cV81dW4zU0pjSFVLVDVIQzRQbmdIeGVKMTdHclRuTFZ6dEoyZVo1UWhJeTc1V1RpQ2RTNE1yNDBkMkR3bFV3WXlabGRPQW42dDBtMzlZMmFiWXk4WXp2dmtuV3ItNmlmNm8wZHlEeUJZdHhQc2RDalIzeUZJTWVfNGNyS1JpMXhWdndCZGtnWThJOWtZYmszeTZUYWJpX3FocDZyNnQ2MV9QdFE?oc=5",
-    "PubDate": "Thu, 26 Jun 2025 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc thành lập trung tâm tài chính quốc tế thu hút dòng vốn FDI chất lượng cao, thúc đẩy nhu cầu hạ tầng BĐS thương mại và dịch vụ tài chính, ngân hàng tại Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng dài hạn, chưa có lộ trình triển khai cụ thể. Tác động thực tế đến dòng tiền ngắn hạn là không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng quốc doanh đầu ngành hưởng lợi trực tiếp từ các dịch vụ tài chính quốc tế và dòng vốn ngoại."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đơn vị đầu ngành chứng khoán hưởng lợi từ sự phát triển của thị trường tài chính và dòng vốn ngoại."
-      }
-    ],
-    "AnalyzedAt": "2026-08-07 22:34:46"
-  },
-  {
-    "Title": "FT1: 21.08.2026, ngày GDKHQ trả cổ tức bằng tiền mặt (4.407đ/cp) - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnJ0ZVJwcjBWa3lpYndmLUtHYk5SVVVRUTBfS3JjMi1KanRkd1BBOVNqVDFUdUd6bW5RSjJyOEE5Z3o0MWV0c3djN3BrXzlXOC1fejR6X0NvRkpSczBTNUJUSlAwQ1YzNlZ2ZWR2eWxBN0ZMX0pmZmh3Rm9McUlnOTljN2xyUHV4ZW5vakNWRTZjQmd4S1FWZ2JOZ3pRS1VSeVN4b3FDVHpiSlg2RnU2cE9ETEJTYjA?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 17:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc chi trả cổ tức tiền mặt tỷ lệ cao khẳng định sức khỏe tài chính và dòng tiền ổn định của doanh nghiệp, tạo tâm lý tích cực cho cổ đông hiện hữu.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - FT1. Cổ tức tiền mặt cao thu hút dòng tiền đầu tư giá trị. Giá cổ phiếu thường điều chỉnh kỹ thuật vào ngày GDKHQ nhưng phản ánh sức khỏe tài chính bền vững.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-07 22:34:35"
-  },
-  {
-    "Title": "DNA:19.08.2026, ngày GDKHQ trả cổ tức bằng tiền mặt (1.500đ/cp) - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakFVbGI2bXNNQ09nWF91Q0FGT3pPVEs1Y3dJNlZqWGpmYlVrUGppbEFDTHJPY21QdWw3VmdNaVAza1ZmUzVJcl9XeVVvSl9vSzdMckRTRUowX0ZSN09vNUJsLWNlb1ZiY1AtaTFKTEdfX2R2QkpFTHM2TUhCNUNoS0hxVkliVGpyM2VnU2JMWkMtRUsxYmNQbFpBRG1oVHpFRXNMTVlHWkVucUlkUWpjSjJOYXNXdw?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 17:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động tài chính định kỳ, không làm thay đổi giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - DNA. Cổ tức tiền mặt là sự điều chỉnh giá kỹ thuật theo quy định. Không tạo ra động lực tăng trưởng dòng tiền mới cho cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "DNA",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Giá cổ phiếu sẽ được điều chỉnh giảm tương ứng với mức cổ tức chi trả vào ngày GDKHQ, không tác động đến vốn hóa thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-07 22:34:25"
   }
 ]
