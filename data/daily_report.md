@@ -1,21 +1,29 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:22
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 15:45 - 14/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hà Tĩnh cấp phép khai thác mỏ đá và đất san lấp trữ lượng gần 6 triệu m³ -> Tích cực cho nhóm Xây dựng hạ tầng/Đầu tư công -> Dòng tiền sẽ hướng vào các nhà thầu xây lắp đang triển khai dự án tại miền Trung.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Nhập siêu 20,3 tỉ USD & Áp lực tỷ giá:** -> **Tiêu cực** -> Dòng tiền sẽ chịu áp lực bán tại nhóm sản xuất phụ thuộc nguyên liệu nhập khẩu (HPG) và nhóm vay nợ ngoại tệ lớn (POW).
+- **Sức mua bán lẻ tiêu dùng sụt giảm:** -> **Tiêu cực** -> Dòng tiền thận trọng/rút khỏi nhóm bán lẻ (MWG, DGW).
+- **Đẩy mạnh hạ tầng liên kết miền Trung - Tây Nguyên:** -> **Tích cực** -> Dòng tiền hướng vào nhóm xây lắp hạ tầng công (HHV, VCG).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: FPT
-- Động lực (FA): Hợp tác với viện AI hàng đầu thế giới để thúc đẩy nghiên cứu và chuyển giao công nghệ.
-- Nhận định dòng tiền: Củng cố vị thế dẫn đầu trong mảng chuyển đổi số, tạo kỳ vọng tăng trưởng biên lợi nhuận dài hạn. Dòng tiền có xu hướng tích lũy bền vững tại các mã công nghệ đầu ngành.
-- Hành động: Tiếp tục quan sát điểm vào kỹ thuật, ưu tiên nắm giữ cho mục tiêu tăng trưởng dài hạn.
-
-- Mã: KBC, SZC
-- Động lực (FA): Thông tin khả quan về việc Việt Nam quan tâm tham gia khung kinh tế Mỹ, hứa hẹn thu hút dòng vốn FDI chất lượng cao.
-- Nhận định dòng tiền: Phản ứng tích cực ngắn hạn. Dòng tiền sẽ tìm đến các khu công nghiệp có quỹ đất sẵn sàng cho thuê lớn.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần nhất.
-
-- Mã: REE, POW
-- Động lực (FA): Áp lực từ chi phí nhập khẩu năng lượng tăng cao.
-- Nhận định dòng tiền: Phân hóa mạnh; REE hưởng lợi từ xu thế chuyển dịch năng lượng tái tạo (phòng thủ), POW đối mặt với rủi ro biên lợi nhuận thu hẹp do chi phí đầu vào.
-- Hành động: Theo dõi sát diễn biến giá, rủi ro vi phạm kịch bản với POW nếu giá nhiên liệu thế giới tiếp tục neo cao.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: HPG**
+    - **Động lực (FA):** Áp lực chi phí đầu vào tăng do tỷ giá từ nhập siêu.
+    - **Nhận định dòng tiền:** Khả năng chịu áp lực cung ngắn hạn do lo ngại biên lợi nhuận bị bào mòn.
+    - **Hành động:** Rủi ro vi phạm kịch bản, theo dõi vùng hỗ trợ cứng.
+- **Mã: MWG, DGW**
+    - **Động lực (FA):** Doanh thu điện máy giảm mạnh.
+    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn suy yếu, áp lực điều chỉnh do tâm lý nhà đầu tư phản ứng với kết quả kinh doanh suy giảm.
+    - **Hành động:** Chú ý quan sát phản ứng tại vùng giá hỗ trợ, hạn chế giải ngân bắt đáy.
+- **Mã: HHV, VCG**
+    - **Động lực (FA):** Hưởng lợi từ chủ trương đầu tư công hạ tầng liên kết vùng.
+    - **Nhận định dòng tiền:** Có khả năng thu hút dòng tiền đầu cơ xoay tua khi thị trường rung lắc.
+    - **Hành động:** Chú ý giải ngân theo nhịp điều chỉnh trong phiên.
+- **Mã: DPG**
+    - **Động lực (FA):** Vướng pháp lý dự án khiến 300 tỷ đồng vốn bị ứ đọng.
+    - **Nhận định dòng tiền:** Áp lực bán duy trì khi tâm lý nhà đầu tư bị tổn thương bởi hiệu quả sử dụng vốn thấp.
+    - **Hành động:** Tiếp tục quan sát, chưa nên giải ngân cho đến khi có tín hiệu tháo gỡ pháp lý cụ thể.
+- **Mã: APG**
+    - **Động lực (FA):** Ý kiến kiểm toán ngoại trừ bán niên 2026.
+    - **Nhận định dòng tiền:** Áp lực bán tháo gia tăng do lo ngại tính minh bạch.
+    - **Hành động:** Rủi ro vi phạm kịch bản, khuyến nghị giảm tỷ trọng/quản trị rủi ro.
