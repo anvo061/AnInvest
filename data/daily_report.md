@@ -1,19 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:30 - 14/08/2026
+⏱ Thời gian: 13:00 - 14/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Việt Nam triển khai hợp đồng LNG dài hạn thứ hai:** -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung vào nhóm ngành **Tiện ích & Năng lượng (POW, GAS)** do đảm bảo được nguồn nguyên liệu đầu vào ổn định cho các dự án điện khí trọng điểm.
+- Việt Nam quan tâm đến khung kinh tế Mỹ (IPEF) và đa dạng hóa nguồn cung LNG: -> Tích cực -> Dòng tiền hướng vào nhóm Bất động sản KCN (KBC, SZC) và nhóm Điện/Năng lượng (POW, GAS).
+- Chi phí nhập khẩu năng lượng tăng: -> Tiêu cực -> Gây áp lực biên lợi nhuận nhóm sản xuất, phân hóa ngành điện (POW bị ảnh hưởng tiêu cực bởi giá đầu vào, trong khi xu hướng tái tạo hỗ trợ REE).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** POW, GAS
-    - **Động lực (FA):** Đa dạng hóa nguồn cung LNG dài hạn giúp giảm rủi ro thiếu hụt nhiên liệu, hỗ trợ vận hành tối ưu cho các nhà máy điện khí.
-    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào khả năng cải thiện biên lợi nhuận dài hạn, dòng tiền thông minh có xu hướng đón đầu các mã có hạ tầng LNG sẵn sàng.
-    - **Hành động:** Chú ý giải ngân (tích lũy dần quanh vùng hỗ trợ).
-- **Mã:** VDP
-    - **Động lực (FA):** Cổ đông lớn liên tiếp mua gom khối lượng lớn.
-    - **Nhận định dòng tiền:** Nguồn cung trôi nổi giảm đột ngột, áp lực bán bị hấp thụ, tạo động lực đẩy giá ngắn hạn do kỳ vọng cấu trúc lại quản trị.
-    - **Hành động:** Chú ý giải ngân (theo dõi sát khối lượng giao dịch vùng giá hiện tại).
-- **Mã:** HTM
-    - **Động lực (FA):** Chứng khoán Asean đăng ký bán 11.58 triệu CP.
-    - **Nhận định dòng tiền:** Áp lực cung lớn treo lơ lửng, tạo rào cản tâm lý tiêu cực, khả năng cao sẽ có các phiên rung lắc mạnh khi lượng cổ phiếu này bắt đầu được khớp.
-    - **Hành động:** Rủi ro vi phạm kịch bản (né tránh giải ngân mới, ưu tiên quản trị rủi ro nếu đang nắm giữ).
+- Mã: **FPT**
+  - Động lực (FA): Hợp tác với viện AI hàng đầu thế giới nâng cao năng lực chuyển đổi số.
+  - Nhận định dòng tiền: Củng cố kỳ vọng tăng trưởng dài hạn, tạo lực đỡ cho dòng tiền khối ngoại.
+  - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi có rung lắc kỹ thuật.
+- Mã: **POW**
+  - Động lực (FA): Hưởng lợi dài hạn từ hợp đồng LNG với Shell nhưng chịu áp lực ngắn hạn từ chi phí nhiên liệu nhập khẩu tăng.
+  - Nhận định dòng tiền: Dòng tiền có thể phân hóa, phản ứng giằng co giữa kỳ vọng an ninh năng lượng và rủi ro chi phí.
+  - Hành động: Quan sát chặt chẽ tại vùng hỗ trợ, tránh giải ngân đuổi khi tin tức trái chiều xuất hiện đồng thời.
+- Mã: **HTM**
+  - Động lực (FA): Cổ đông lớn (Chứng khoán Asean) đăng ký thoái vốn đột biến (11.5 triệu CP).
+  - Nhận định dòng tiền: Áp lực cung lớn đè nặng tâm lý, rủi ro điều chỉnh kỹ thuật mạnh.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng/thoát vị thế để bảo toàn vốn.
+- Mã: **NAB**
+  - Động lực (FA): Lợi nhuận trước thuế 6 tháng đạt 3.159 tỷ đồng, tăng trưởng khả quan.
+  - Nhận định dòng tiền: Củng cố đà tăng giá, thu hút dòng tiền đầu cơ nhóm ngân hàng tầm trung.
+  - Hành động: Chú ý giải ngân nếu có nhịp test lại nền giá cũ.
