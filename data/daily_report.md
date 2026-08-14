@@ -1,25 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:00 - 15/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 04:00 ngày 15/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thị trường tín chỉ carbon chính thức vận hành từ tuần tới** -> [Đánh giá: Tích cực] -> Dòng tiền kỳ vọng xoay trục sang nhóm năng lượng tái tạo và doanh nghiệp sở hữu quỹ đất rừng lớn.
-- **NHNN sẵn sàng can thiệp tỷ giá** -> [Đánh giá: Trung lập/Ổn định] -> Giảm áp lực chi phí vốn ngoại tệ cho nhóm tiện ích (điện), nhưng làm giảm kỳ vọng lợi nhuận đột biến từ tỷ giá của nhóm xuất khẩu.
-- **Giá dầu biến động trái chiều (giảm sâu trong ngày 14/8 nhưng có rủi ro địa chính trị Hormuz)** -> [Đánh giá: Rủi ro cao] -> Nhóm Dầu khí (PVD, PVS, GAS) sẽ phân hóa mạnh theo diễn biến giá dầu thực tế, yêu cầu bám sát đồ thị kỹ thuật.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Vận hành thị trường tín chỉ Carbon:** Việt Nam bắt đầu giao dịch tín chỉ carbon từ tuần tới -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Năng lượng tái tạo** và **Doanh nghiệp sở hữu quỹ đất rừng lớn**.
+- **NHNN sẵn sàng can thiệp tỷ giá:** Động thái bình ổn ngoại hối -> **Trung lập** -> Áp lực giảm lên nhóm xuất khẩu (VHC, TNG), giảm áp lực chi phí tài chính cho nhóm vay nợ ngoại tệ (POW).
+- **Giá dầu giảm sâu:** Áp lực tiêu cực lên toàn bộ chuỗi giá trị dầu khí -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm **Dầu khí (PVS, PVD, GAS, BSR)**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: REE, GVR**
-  - Động lực (FA): Hưởng lợi trực tiếp từ việc thương mại hóa tín chỉ carbon (hành lang pháp lý mới).
-  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể tìm đến sớm do thông tin hỗ trợ ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
-- **Mã: VHC, TNG**
-  - Động lực (FA): Tỷ giá ổn định làm giảm lợi thế cạnh tranh về tỷ giá.
-  - Nhận định dòng tiền: Khả năng chốt lời ngắn hạn từ nhóm đầu cơ tỷ giá.
-  - Hành động: Quan sát phản ứng vùng hỗ trợ, rủi ro vi phạm kịch bản tăng trưởng do biến động tỷ giá.
-- **Mã: SHS**
-  - Động lực (FA): Phát hành 500 tỷ trái phiếu để bổ sung vốn margin.
-  - Nhận định dòng tiền: Pha loãng nhẹ trong ngắn hạn nhưng cải thiện năng lực cạnh tranh cho vay.
-  - Hành động: Tiếp tục quan sát biến động thanh khoản sau tin.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **REE**
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ việc thương mại hóa tín chỉ carbon nhờ danh mục năng lượng tái tạo quy mô lớn.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ đón đầu chính sách có khả năng kích hoạt mạnh.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- **Mã:** **GVR**
+  - **Động lực (FA):** Sở hữu diện tích rừng cao su lớn, tiềm năng định giá lại tài sản thông qua tín chỉ carbon.
+  - **Nhận định dòng tiền:** Hưởng lợi từ câu chuyện vĩ mô mới, tính ổn định cao hơn nhóm dầu khí đang bị điều chỉnh.
+  - **Hành động:** Tiếp tục quan sát điểm cân bằng để gia tăng vị thế.
+- **Mã:** **PVD, BSR**
+  - **Động lực (FA):** Giá dầu thế giới suy yếu mạnh gây áp lực trực tiếp lên biên lợi nhuận.
+  - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng trong ngắn hạn.
+  - **Hành động:** Rủi ro vi phạm kịch bản; cân nhắc hạ tỷ trọng nếu giá dầu không phục hồi nhanh.
 
-🔄 3. Cảnh báo Tái cơ cấu:
+🔄 **3. Cảnh báo Tái cơ cấu:**
 - **Mã: BSR**
-  - Nhận định: Giá dầu giảm sâu gây rủi ro trích lập dự phòng hàng tồn kho và thu hẹp biên lợi nhuận lọc dầu. Kết hợp với việc vị thế đã quá hạn (tháng 6/2026), dữ liệu cho thấy áp lực lên lợi nhuận quý III là rất lớn. Khuyến nghị: Cân nhắc cơ cấu lại danh mục, ưu tiên chốt lời/cắt lỗ để bảo toàn vốn, tránh kẹt dòng tiền vào nhóm đang suy giảm biên lợi nhuận.
+  - **Nhận định:** Trong bối cảnh giá dầu giảm sâu và đã qua điểm rơi kỳ vọng tháng 03/2026, dữ liệu hiện tại xác nhận trạng thái tiêu cực. Khuyến nghị **cơ cấu lại (chốt lời/cắt giảm)** để tránh rủi ro trích lập tồn kho và bảo toàn vốn cho các nhóm ngành có dư địa tăng trưởng từ câu chuyện "xanh hóa" (REE, GVR).
