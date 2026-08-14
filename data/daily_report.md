@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:30 - 14/08/2026
+⏱ Thời gian: 00:25 ngày 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Hạ tầng:** Thông xe cao tốc Bến Lức - Long Thành giúp tối ưu chi phí logistics và tăng giá trị quỹ đất khu vực phía Nam -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm **Logistics (Cảng biển/Vận tải)** và **Bất động sản Khu công nghiệp**.
-- **Thương mại:** Siết chặt kiểm soát xuất xứ hàng hóa sang Mỹ -> **Tiêu cực** -> Rủi ro gia tăng chi phí tuân thủ cho nhóm **Dệt may (TNG, MSH)** và **Thủy sản (VHC)**.
-- **Thị trường:** Xử phạt nghiêm hành vi cho mượn tài khoản thao túng -> **Tích cực** -> Cải thiện minh bạch hóa thị trường, củng cố niềm tin nhà đầu tư dài hạn.
+- **Căng thẳng địa chính trị tại eo biển Hormuz làm tăng giá dầu thô** -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm cổ phiếu dầu khí thượng nguồn (PVD, PVS).
+- **TP.HCM đẩy mạnh giải ngân 9,5 tỉ USD hạ tầng & thông xe cao tốc Bến Lức - Long Thành** -> **Tích cực** -> Dòng tiền tập trung nhóm xây lắp hạ tầng (VCG, HHV) và bất động sản khu công nghiệp hưởng lợi từ logistics (GMD, KBC).
+- **Áp lực bán ròng khối ngoại** -> **Tiêu cực** -> Tạo rủi ro điều chỉnh ngắn hạn tại nhóm vốn hóa lớn (Bluechips), cần thận trọng với chỉ số chung VN-Index.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** GMD
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ việc thông xe cao tốc Bến Lức - Long Thành, kết nối hiệu quả với cụm cảng Cái Mép - Thị Vải.
-  - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào hiệu suất khai thác cảng, dòng tiền có xu hướng chọn lọc nhóm hạ tầng có tài sản thực.
-  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
-
-- **Mã:** VHC, TNG
-  - **Động lực (FA):** Rủi ro kiểm soát nguồn gốc xuất xứ tại thị trường Mỹ (hàng rào kỹ thuật).
-  - **Nhận định dòng tiền:** Áp lực tâm lý ngắn hạn, khả năng bị khối ngoại/nhà đầu tư thận trọng bán ra để giảm rủi ro tuân thủ.
-  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
-
-- **Mã:** VHM
-  - **Động lực (FA):** Áp lực bán ròng mạnh từ khối ngoại trong phiên thị trường điều chỉnh 36 điểm.
-  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn đang chịu áp lực rút vốn, tâm lý hoang mang diện rộng.
-  - **Hành động:** Tiếp tục quan sát, chưa vội bắt đáy cho đến khi áp lực xả từ khối ngoại chững lại.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu tăng do căng thẳng tại Hormuz.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển vào PVD để đón sóng giá dầu trong phiên tới.
+    - Hành động: Chú ý giải ngân nếu có nhịp test lại hỗ trợ ngắn hạn.
+- **Mã: DXG**
+    - Động lực (FA): Thanh khoản đột biến, xác nhận dòng tiền lớn nhập cuộc.
+    - Nhận định dòng tiền: Khả năng duy trì xung lực tăng giá, tạo hiệu ứng lan tỏa cho nhóm BĐS.
+    - Hành động: Quan sát phản ứng tại vùng cản tiếp theo.
+- **Mã: VCG, HHV**
+    - Động lực (FA): Tin tức đẩy mạnh đầu tư công 9,5 tỉ USD tại TP.HCM.
+    - Nhận định dòng tiền: Dòng tiền trung hạn được củng cố bởi khối lượng công việc thực tế, giảm thiểu rủi ro biến động theo chỉ số.
+    - Hành động: Tiếp tục nắm giữ, canh gia tăng tỷ trọng nếu có rung lắc.
