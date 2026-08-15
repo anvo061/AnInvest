@@ -1,5 +1,52 @@
 ﻿[
   {
+    "Title": "Vietnam Is Asia’s Rising Power to Watch - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1FIdU8wTl80Y2dweDg1WTNzVEQwakN6OGcwZ21aWFpQeUhNamNfUlVnRXhJY3NpYXNJWG5tQkJYanRncm5Jckp6M082d1o4WWNqemNVdzNDRzdJTEJBOEZseHBSQTBqMFBRVnZmTmRJUEJWdlJsaVlram9ScFlrVVpyR3V2TXZIZExhaldtSkxsb0paNkNrZw?oc=5",
+    "PubDate": "Thu, 28 May 2026 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc Việt Nam được đánh giá cao trên truyền thông quốc tế củng cố niềm tin của khối ngoại, thúc đẩy dòng vốn FDI và gián tiếp hỗ trợ nhóm BĐS khu công nghiệp và hạ tầng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất vĩ mô định hướng, thiếu tác động trực tiếp đến dòng tiền ngắn hạn. Cần theo dõi sát giải ngân FDI thực tế thay vì kỳ vọng từ truyền thông.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ làn sóng FDI nhờ quỹ đất khu công nghiệp lớn tại các vị trí trọng điểm."
+      },
+      {
+        "Ticker": "GVR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Quỹ đất cao su chuyển đổi sang khu công nghiệp lớn, hưởng lợi từ xu hướng dịch chuyển sản xuất."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ hạ tầng kết nối vùng và nhu cầu thuê đất công nghiệp tăng cao tại Bà Rịa - Vũng Tàu."
+      },
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hoạt động cảng biển và logistics tăng trưởng theo nhu cầu xuất nhập khẩu và FDI."
+      }
+    ],
+    "AnalyzedAt": "2026-08-16 00:55:47"
+  },
+  {
+    "Title": "Vingroup’s 1,000% Surge Tests Limits of Vietnam’s Market Boom - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXljVEpJcW54ZFVlUjVPTFJkb05zQ25vcE1ubXdybEpYcl95RmlVR09kR1VFbVphdUE5MXRRWEFGbjExRnFCbnRvMndVVTNSYWM0b3hla0R2X01Vd3VlbmRRSUhwSGphbXBIM0dCcllHRkFCbVZMbUVMQjZDLUREM3lzcHQ5bktVZG52NTc5c1pMREtEVUp2VXVkSGhlWHZ5WGVFem5LWHdqX28yS2lEZQ?oc=5",
+    "PubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức mang tính chất bình luận về biến động giá lịch sử của cổ phiếu Vingroup, không phản ánh thông tin tài chính mới hay thay đổi nội tại doanh nghiệp, không tác động trực tiếp đến xu hướng thị trường hiện tại.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Đây là bài phân tích dữ liệu quá khứ, không chứa thông tin mới làm thay đổi cung cầu. Dòng tiền thông minh sẽ bỏ qua tin tức này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 00:55:36"
+  },
+  {
     "Title": "Máy bay Vietnam Airlines bay về Hà Nội phải quay lại Munich sau khi cất cánh",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/may-bay-vietnam-airlines-bay-ve-ha-noi-phai-quay-lai-munich-sau-khi-cat-canh-100260815223720873.htm",
@@ -16586,42 +16633,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-08 20:24:45"
-  },
-  {
-    "Title": "Cà Mau sắp có cảng hàng hóa, du lịch đón tàu 1.000 tấn",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/ca-mau-sap-co-cang-hang-hoa-du-lich-don-tau-1000-tan-100260808175308042.htm",
-    "PubDate": "8/8/2026 6:53:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc xây dựng cảng hàng hóa tại Cà Mau giúp cải thiện hạ tầng logistics khu vực Đồng bằng sông Cửu Long, hỗ trợ vận chuyển hàng hóa nông thủy sản, tạo dư địa tăng trưởng cho các doanh nghiệp vận tải và cảng biển địa phương.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Cảng quy mô nhỏ (1.000 tấn) mang tính chất địa phương, chưa đủ quy mô để tạo đột biến dòng tiền cho các doanh nghiệp cảng biển lớn như GMD hay HAH.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 20:24:31"
-  },
-  {
-    "Title": "iPhone 18 cận ngày ra mắt, iPhone 17 Pro Max bất ngờ giảm giá",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/iphone-18-can-ngay-ra-mat-iphone-17-pro-max-bat-ngo-giam-gia-2543313.html",
-    "PubDate": "Sat, 08 Aug 2026 20:05:41 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc giảm giá các dòng iPhone cũ để dọn đường cho sản phẩm mới giúp kích cầu tiêu dùng, cải thiện doanh thu bán lẻ thiết bị di động trong quý cuối năm.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc giảm giá iPhone cũ là hoạt động thanh lý hàng tồn kho định kỳ, biên lợi nhuận mảng ICT thường bị thu hẹp. Tác động dòng tiền không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MWG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ lưu lượng khách hàng tăng khi các dòng iPhone cũ giảm giá, thúc đẩy doanh thu mảng Thế Giới Di Động."
-      },
-      {
-        "Ticker": "FRT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "FPT Shop là đại lý ủy quyền lớn, hưởng lợi từ nhu cầu mua sắm thiết bị Apple tăng cao trong chu kỳ ra mắt sản phẩm mới."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 20:24:14"
   }
 ]
