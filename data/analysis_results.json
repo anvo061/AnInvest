@@ -1,5 +1,69 @@
 ﻿[
   {
+    "Title": "FUEMAV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 12/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX290MW5pZmpmS0k5WFRMMTlRdWJhdk80QmE2YjAyaEJLV0VtcDZ6UDU3dlJZaFpod1RibE9sT2tVUlk3X3o1RzRYMFg3cEIyc2RVRUxxWmlZdHE0ZGh2NTk4NF90LTdqRzl4cjg5N0I4NFk2UlJMb2ZMQXdTLV9HY1ZmbGJnN3ZyaVgyUFVGZVQ1a0NXTGJRSUp2dF9rV2xtNnRMdHMwUUtIU1l1WTdDYjdQUVVRLXJuWHNIRndWLWk1WG9HaFVJbDExNUxINW51bmJr?oc=5",
+    "PubDate": "Wed, 12 Aug 2026 02:23:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành nghiệp vụ thông thường, không tác động đến giá trị nội tại hay xu hướng dòng tiền của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là nghiệp vụ hoán đổi danh mục định kỳ của quỹ ETF, không gây biến động cung cầu đột biến trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 05:35:56"
+  },
+  {
+    "Title": "TDM: Công ty Cổ phần Chứng khoán Vietcap đã thực hiện 15.510.000 quyền mua cp - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjlEMmFFZV83U0lBUGdUWkxkOFNsZThxSGltTldfeFFsTGxLOW1mUmRuM1dwZzVCUmpKMXEyUlNFZk9GMzNlWnV6MlhDQU5abFJCQTMzRE9XSllfZWR1TU1kM09uXy1heFpGQzRBSzRiSjBqZFBjajZOeVI4a3ZQSnFOV3lQaEFEeEQ0VWlPMXdmZGNWLWMwNFl0SHdmc0lLSUJQbmtYWDJlSVpiclhIdWJtcVdhQQ?oc=5",
+    "PubDate": "Tue, 11 Aug 2026 17:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc cổ đông lớn thực hiện quyền mua cho thấy sự cam kết dài hạn và niềm tin vào kế hoạch tăng vốn cũng như triển vọng tăng trưởng của TDM.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TDM. Việc cổ đông lớn thực hiện quyền mua là thủ tục tất yếu trong đợt phát hành, không phản ánh biến động cung cầu thực tế trên thị trường thứ cấp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TDM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ đông lớn thực hiện quyền mua giúp đảm bảo thành công đợt phát hành, củng cố niềm tin nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-08-16 05:35:40"
+  },
+  {
+    "Title": "Loạt thương hiệu thời trang Việt đóng cửa: Không khác biệt, khó tồn tại",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/loat-thuong-hieu-thoi-trang-viet-dong-cua-khong-khac-biet-kho-ton-tai-2544047.html",
+    "PubDate": "Sun, 16 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -1,
+    "MarketImpact": "Sự suy yếu của các thương hiệu thời trang nội địa phản ánh sức mua yếu và sự cạnh tranh khốc liệt trong ngành bán lẻ tiêu dùng, gây áp lực lên các doanh nghiệp bán lẻ niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Ngành Bán lẻ. Sức mua yếu ảnh hưởng phân khúc không thiết yếu. Cần thận trọng với các mã bán lẻ xa xỉ, theo dõi sát biên lợi nhuận.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sự suy giảm chi tiêu tiêu dùng cá nhân tạo áp lực lên tăng trưởng doanh thu của các mặt hàng xa xỉ/trang sức."
+      }
+    ],
+    "AnalyzedAt": "2026-08-16 05:35:25"
+  },
+  {
+    "Title": "Cú ‘chơi lớn’ trên đồi giúp người dân Khánh Hòa thu tiền tỷ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/chat-bo-keo-trong-sau-rieng-tren-dat-doi-kho-can-nong-dan-raglai-thu-tien-ty-2545153.html",
+    "PubDate": "Sun, 16 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là tin tức về mô hình canh tác nông nghiệp hộ gia đình tại địa phương, không có tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp nông nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Tin tức về mô hình canh tác nông nghiệp quy mô hộ gia đình, không tác động đến dòng tiền của các doanh nghiệp nông nghiệp niêm yết.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 05:35:15"
+  },
+  {
     "Title": "Vietnam Is Asia’s Rising Power to Watch - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1FIdU8wTl80Y2dweDg1WTNzVEQwakN6OGcwZ21aWFpQeUhNamNfUlVnRXhJY3NpYXNJWG5tQkJYanRncm5Jckp6M082d1o4WWNqemNVdzNDRzdJTEJBOEZseHBSQTBqMFBRVnZmTmRJUEJWdlJsaVlram9ScFlrVVpyR3V2TXZIZExhaldtSkxsb0paNkNrZw?oc=5",
@@ -16575,63 +16639,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-08 20:25:34"
-  },
-  {
-    "Title": "Lãi đột biến, GVR “rót” nghìn tỷ đồng vào quỹ khoa học công nghệ - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN29qNERDSFJTSm5MaWNzd1FGREQ3UGFndnJBRFRvYldWLXpvQzR0VHpIZWlIUnN4TFNaOHRDZFJBbVVvaUE5emkzMGVPQ0h3ZTZWQVEyZlpXdTlaeTY5Rmh1bWxKanVRT2c4LXEtUzZEbFN2WUZVa0c5cm9UcHppQVlmZlhkdUlGeDRmU2lyODUzVklMWm5rbG84OEJPSUFJaE5J?oc=5",
-    "PubDate": "Sat, 08 Aug 2026 08:59:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc trích lập quỹ khoa học công nghệ cho thấy GVR đang tối ưu hóa thuế và tái đầu tư vào R&D, củng cố vị thế dẫn đầu trong mảng cao su và bất động sản khu công nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - GVR. Trích lập quỹ KHCN là nghiệp vụ kế toán tối ưu thuế, không phải dòng tiền kinh doanh trực tiếp. Cần quan sát phản ứng cung cầu tại vùng kháng cự.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GVR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lợi nhuận tăng trưởng mạnh và việc trích lập quỹ cho thấy sức khỏe tài chính tốt, hỗ trợ triển vọng tăng trưởng dài hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 20:25:19"
-  },
-  {
-    "Title": "FUESSV50: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 07/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmFQWm1SRGlTNk5EbHhHeUlRR3k5dVRGQUZ4b1kzdW5ldEhRZFp6dXhzZGJyeGtaTm53X0dfMkVBQUs0ZC1Lc0JGbzNKZHJfYUs1Y2Y2dTBXY3JmMTV5LTI0NDRxQURpZzF0YUZoUk10MVMxaTB2aXNPOHhKMENlYTZJTTZnSFN3aEQzRy1zaE9VY1cxVTJYOWtGMWlhU3hvdVl5dGJoLTlDNmUzbkQ1ekM5dXRFdnowM0dRSDV1ZmJkT3NoUFFzREFpM0pUbHhucW40?oc=5",
-    "PubDate": "Fri, 07 Aug 2026 02:14:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm cổ phiếu VN50. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi cung cầu đột biến trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 20:25:10"
-  },
-  {
-    "Title": "Bộ trưởng Lê Mạnh Hùng: Lưu trữ carbon có thể trở thành ngành dịch vụ 40 tỉ USD",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/bo-truong-le-manh-hung-luu-tru-carbon-co-the-tro-thanh-nganh-dich-vu-40-ti-usd-10026080817475306.htm",
-    "PubDate": "8/8/2026 6:29:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Định hướng phát triển dịch vụ lưu trữ carbon mở ra tiềm năng tăng trưởng dài hạn cho các doanh nghiệp dầu khí và năng lượng có hạ tầng kỹ thuật sẵn có, giúp chuyển đổi mô hình kinh doanh bền vững.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chính sách dài hạn, chưa có lộ trình cụ thể hay tác động tài chính trực tiếp. Chưa đủ cơ sở để kích hoạt dòng tiền ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 20:24:55"
-  },
-  {
-    "Title": "Thuế TP.HCM ra mắt Tổng đài AI hỗ trợ nhắc nợ, thông báo tạm hoãn xuất cảnh",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/thue-tphcm-ra-mat-tong-dai-ai-ho-tro-nhac-no-thong-bao-tam-hoan-xuat-canh-100260808181834978.htm",
-    "PubDate": "8/8/2026 6:31:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động cải cách hành chính và ứng dụng công nghệ trong quản lý thuế, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Đây là nghiệp vụ hành chính công, không tạo ra biến động dòng tiền hay thay đổi biên lợi nhuận cho các doanh nghiệp niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 20:24:45"
   }
 ]
