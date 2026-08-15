@@ -1,20 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:15 - 2026-08-16
+⏱ Thời gian: 01:15 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam được đánh giá là điểm sáng FDI toàn cầu (Bloomberg) và khả năng triển khai nghiệp vụ bán khống trước kỳ vọng nâng hạng -> **Tích cực** -> Dòng tiền ưu tiên nhóm BĐS Khu công nghiệp (KBC, GVR, SZC, GMD) và nhóm Chứng khoán (SSI, VND, VCI, HCM).
-- Chính sách thuế quan bảo hộ từ phía Mỹ (Bloomberg) -> **Tiêu cực** -> Rủi ro áp lực lên nhóm xuất khẩu (TNG, VHC, MSH).
+- **Việt Nam nâng tầm vị thế quốc tế & Đề xuất cơ chế bán khống (Short selling):** Tác động **Tích cực**. Dòng tiền kỳ vọng sẽ tập trung vào nhóm Chứng khoán (hưởng lợi thanh khoản, sản phẩm mới) và Bất động sản khu công nghiệp (hưởng lợi sóng FDI).
+- **Chính sách thuế quan (Tariff) từ Mỹ:** Tác động **Tiêu cực**. Rủi ro trực tiếp lên biên lợi nhuận của nhóm ngành Xuất khẩu chủ lực (Dệt may, Thủy sản).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC, GVR, SZC, GMD**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI nhờ quỹ đất lớn và nhu cầu logistics hạ tầng.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay trở lại, tạo xung lực tăng giá ngắn hạn.
-  - Hành động: **Chú ý giải ngân** nếu các mã test lại vùng nền hỗ trợ.
-- Mã: **SSI, VND, VCI, HCM**
-  - Động lực (FA): Triển vọng nâng hạng và cơ chế bán khống giúp đa dạng hóa sản phẩm phái sinh/margin.
-  - Nhận định dòng tiền: Kỳ vọng gia tăng thanh khoản toàn thị trường, thúc đẩy doanh thu mảng môi giới và tự doanh.
-  - Hành động: **Chú ý giải ngân** theo đà tăng thanh khoản.
-- Mã: **TNG, VHC, MSH**
-  - Động lực (FA): Rủi ro từ hàng rào thuế quan Mỹ.
-  - Nhận định dòng tiền: Có thể chịu áp lực bán cơ cấu để dịch chuyển sang các nhóm hưởng lợi từ FDI/Nâng hạng.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất ngưỡng hỗ trợ cứng.
+- **Mã: SSI, VND, VCI, HCM**
+    - Động lực (FA): Cơ chế bán khống (short selling) được đưa vào lộ trình nâng hạng, gia tăng vòng quay thanh khoản.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ nhóm Chứng khoán bùng nổ, biên độ giao dịch mở rộng.
+    - Hành động: Chú ý giải ngân khi có nhịp rung lắc, tập trung vào các mã có thị phần môi giới dẫn đầu.
+- **Mã: KBC, GVR, SZC**
+    - Động lực (FA): Sự ghi nhận của truyền thông quốc tế về năng lực FDI của Việt Nam.
+    - Nhận định dòng tiền: Dòng tiền trung hạn sẽ tìm đến các doanh nghiệp có quỹ đất sạch sẵn sàng cho thuê.
+    - Hành động: Tiếp tục quan sát điểm rơi kỹ thuật, không mua đuổi khi giá đã vượt nền tích lũy.
+- **Mã: TNG, VHC, MSH**
+    - Động lực (FA): Rủi ro từ hàng rào thuế quan Mỹ gây áp lực lên đơn hàng.
+    - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại về tăng trưởng biên lợi nhuận.
+    - Hành động: Rủi ro vi phạm kịch bản tăng trưởng; cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ cứng.
