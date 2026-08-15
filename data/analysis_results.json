@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Doanh số bán lẻ của Mỹ bất ngờ giảm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/doanh-so-ban-le-cua-my-bat-ngo-giam-5109449.html",
+    "PubDate": "Sat, 15 Aug 2026 12:53:59 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Doanh số bán lẻ Mỹ giảm cho thấy nhu cầu tiêu dùng suy yếu, gây áp lực lên các doanh nghiệp xuất khẩu hàng hóa Việt Nam sang thị trường này.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Sức mua Mỹ suy giảm gây áp lực lên biên lợi nhuận nhóm xuất khẩu. Cần theo dõi sát VHC, TNG. ANV tỷ trọng xuất Mỹ thấp, loại khỏi danh mục ảnh hưởng trực tiếp.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu chủ lực, nhu cầu giảm làm giảm sản lượng tiêu thụ."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Đơn hàng dệt may phụ thuộc vào sức mua của người tiêu dùng Mỹ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 13:36:23"
+  },
+  {
     "Title": "MSH - Tăng tốc trong Q2 2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjd3cEEwUUJIOFFhb3FoeWpMZ0o5dGFnU0VIVjBOaWNjZXRDb3dHN0pQZ1J5WjBDYXE4c2M1SHZaMXRyd19qZWRvdFNuZE5zWWlXTjVVRDZYNUpJTUNNZXRVeTBJcFp1V0pOSTBlRUtXbmJNSHJOajRQTk8tOEVRMkt1WDdOTW1WMDhfU0lLdks?oc=5",
@@ -16648,24 +16672,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-08 16:30:38"
-  },
-  {
-    "Title": "Lãi suất ngân hàng hôm nay 26/6/2026: Nhà băng giảm mạnh lãi chứng chỉ tiền gửi",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-26-6-2026-nha-bang-giam-manh-lai-chung-chi-tien-gui-2529587.html",
-    "PubDate": "Tue, 21 Jul 2026 11:14:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc giảm lãi suất huy động giúp các ngân hàng tối ưu chi phí vốn (NIM cải thiện), đồng thời tạo áp lực buộc dòng tiền nhàn rỗi tìm kiếm kênh đầu tư có lợi suất cao hơn như chứng khoán và bất động sản.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Giảm lãi suất huy động cải thiện NIM ngân hàng. Dòng tiền dịch chuyển sang kênh đầu tư là kỳ vọng, cần quan sát thanh khoản thực tế tại nhóm Chứng khoán.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí vốn đầu vào giảm giúp cải thiện biên lãi ròng (NIM) trong dài hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 16:30:22"
   }
 ]
