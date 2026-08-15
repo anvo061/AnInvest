@@ -1,5 +1,56 @@
 ﻿[
   {
+    "Title": "MSH - Tăng tốc trong Q2 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjd3cEEwUUJIOFFhb3FoeWpMZ0o5dGFnU0VIVjBOaWNjZXRDb3dHN0pQZ1J5WjBDYXE4c2M1SHZaMXRyd19qZWRvdFNuZE5zWWlXTjVVRDZYNUpJTUNNZXRVeTBJcFp1V0pOSTBlRUtXbmJNSHJOajRQTk8tOEVRMkt1WDdOTW1WMDhfU0lLdks?oc=5",
+    "PubDate": "Sat, 15 Aug 2026 03:48:57 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Kết quả kinh doanh tăng trưởng trong Q2/2026 phản ánh sự phục hồi của đơn hàng xuất khẩu dệt may, củng cố đà tăng giá cổ phiếu MSH và nhóm ngành dệt may trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. MSH ghi nhận tăng trưởng Q2/2026 nhờ đơn hàng xuất khẩu hồi phục. Dòng tiền tập trung vào cổ phiếu có kết quả kinh doanh thực tế, tránh lan man sang các mã cùng ngành chưa có số liệu xác nhận.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MSH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kết quả kinh doanh tăng trưởng Q2 là động lực trực tiếp thúc đẩy giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 12:42:43"
+  },
+  {
+    "Title": "Khi nào nhà đầu tư chứng khoán có thể được mở tài khoản online? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXBzR0ZUckdNX0lrd094Q0E5SzVwZnhURmZHeElWTS1jVHgyT3pNbURHUFdmVzdVN29pMWtMaFlySHRCZ1V2ZXhSRHVXQ3Mwc1pZMGRyLUtfbUpQWGVZVTk3STlMZzl0TFY4VDRMU1RrR2FORUtoTFpZcEVIWFd3N1FtS2FFajFEYWEwbEF1dGNKSnJRb3dOWXI5MjdFYUNzeUdYMA?oc=5",
+    "PubDate": "Sat, 15 Aug 2026 05:25:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc đẩy mạnh mở tài khoản online giúp các công ty chứng khoán tối ưu chi phí vận hành, tăng tốc độ tiếp cận khách hàng mới và cải thiện thị phần thông qua chuyển đổi số.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức về mở tài khoản online đã bão hòa, không còn là yếu tố đột biến tạo alpha cho nhóm chứng khoán. Tác động thực tế lên biên lợi nhuận không đáng kể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 12:42:28"
+  },
+  {
+    "Title": "Tự doanh công ty chứng khoán đảo chiều mua ròng gần 1.100 tỉ đồng sau tuần bán kỷ lục",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tu-doanh-cong-ty-chung-khoan-dao-chieu-mua-rong-gan-1100-ti-dong-sau-tuan-ban-ky-luc-100260815100607523.htm",
+    "PubDate": "8/15/2026 11:04:00 AM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc khối tự doanh đảo chiều mua ròng mạnh cho thấy sự tự tin trở lại của dòng tiền thông minh, giúp cải thiện tâm lý thị trường và hỗ trợ thanh khoản cho các mã vốn hóa lớn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Tự doanh đảo chiều mua ròng 1.100 tỷ đồng sau nhịp bán kỷ lục. Dòng tiền thông minh quay lại hỗ trợ thanh khoản, kỳ vọng tạo đáy ngắn hạn tại nhóm vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ sự cải thiện thanh khoản và tâm lý thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 12:42:08"
+  },
+  {
     "Title": "MSB 35 năm - Khi di sản được viết tiếp bởi những con người hôm nay",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/msb-35-nam-khi-di-san-duoc-viet-tiep-boi-nhung-con-nguoi-hom-nay-2545708.html",
@@ -16616,60 +16667,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-08 16:30:22"
-  },
-  {
-    "Title": "Vietnam Credit Growth Accelerates as Economic Recovery Picks Up - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejdJMk1DWXc5MXFmWWxZanNQVUdod01xMU92LWROTDVLdEJ4LTh5T3hOVTZmS3BGSTcxWmVjaThnR0pwRkZvT2RZbU13ZjFSSHpmZllzUnExZkpIcmtDdExhNkFQUl8wTUtCT25XR0NVLXN0aUstcDNwaUEybnRZSlBJMEtJY213VDN1dVVMZ0JwcXZSSGEzd09JUUY4SmFCZ24yVzFlbUx3WnFhek9ScmNMVXE?oc=5",
-    "PubDate": "Mon, 22 Jul 2024 07:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Tăng trưởng tín dụng hồi phục cho thấy nhu cầu vốn của nền kinh tế đang tăng mạnh, trực tiếp cải thiện biên lãi thuần (NIM) và doanh thu từ dịch vụ của các ngân hàng thương mại.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Tăng trưởng tín dụng cải thiện NIM. Dòng tiền ưu tiên các mã có CASA cao và quản trị rủi ro tốt như VCB, TCB.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng quốc doanh dẫn đầu về quy mô, hưởng lợi trực tiếp từ sự phục hồi tín dụng toàn nền kinh tế."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tỷ trọng cho vay BĐS và doanh nghiệp lớn giúp TCB tăng trưởng mạnh khi nhu cầu vốn hồi phục."
-      },
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tốc độ tăng trưởng tín dụng cao và chi phí vốn thấp giúp MBB tối ưu hóa lợi nhuận trong chu kỳ này."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 15:58:36"
-  },
-  {
-    "Title": "FUEABVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 06/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnM3RUdSSVZvSDZhc0t5U3NSYUdiWkJEQjJsY1JqOTRnOEZQQnZyUS1fZUR1Q2tTWkk4bzdkMl9ibkRPcV9HSy1EUERYejZNNU9SQzZISTkteUE3Y2ZLS1ZfSXExUmhmc2h3SjE2WldudEFKQmxhQmh3T3FKbWdrX1JYVWZfOG5vWUxtZklocnZYOW4zWkJQd1NxVFZQLWkyX2paajZuTmRXWnhEbEJZaGdlemtERFppSm9tczd0MDRoZlFXTjNLMU9zbERTUWo0SXNF?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 02:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành nghiệp vụ thông thường, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không làm thay đổi cung cầu hay xu hướng dòng tiền của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 15:58:26"
-  },
-  {
-    "Title": "FUEDCMID: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 05/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUHB3YUYybWkyUHNyZDY5eFN0VVdXaE9TbWdIVndTZlhZMkV0Rm4tZ2lfbG1xaURiYkNqU2lTeFF6UEx3aGRiUDhxY0o1X3dWWFFCUHY0NlVRM240RENDWXVGYXRST3hSckxEOE9KaTFvXzJKemR6dmk0QW5qSnd2bV9ITlVmQXRFWTJReW1YdmczTTVRX00xN2MyQTZMeU5KVS16cDBRYXBpRHBaY3RjeG9qWlZTUFJ2Ym1Nc0Y2TUVFV0U4bmVhYkRnZ1lBWi1TZ0Vz?oc=5",
-    "PubDate": "Wed, 05 Aug 2026 01:41:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho các mã cổ phiếu trong danh mục.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 15:58:16"
   }
 ]

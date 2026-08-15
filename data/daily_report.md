@@ -1,20 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:30, 15/08/2026
+⏱ Thời gian: 12:45 - 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nhóm Ngân hàng (CTG, MBB, HDB) và Logisitcs (GMD) đồng loạt công bố KQKD Q2/2026 tích cực -> Tác động: Tích cực -> Dòng tiền sẽ tập trung vào nhóm dẫn dắt (Bank) và nhóm hưởng lợi từ thương mại quốc tế (Cảng biển).
-- EU siết chặt dư lượng thuốc BVTV -> Tác động: Tiêu cực -> Gây áp lực chi phí kiểm định cho các doanh nghiệp thủy sản xuất khẩu (VHC, ANV).
+- **Tự doanh CTCK đảo chiều mua ròng 1.100 tỉ đồng:** -> [Tích cực] -> Dòng tiền thông minh quay lại nhóm Chứng khoán (đầu ngành như SSI) và các mã vốn hóa lớn, củng cố thanh khoản thị trường.
+- **EU siết tiêu chuẩn dư lượng thuốc bảo vệ thực vật:** -> [Tiêu cực] -> Tăng rào cản kỹ thuật và chi phí vận hành cho nhóm Thủy sản/Nông sản xuất khẩu (VHC, ANV).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **CTD**
-    - Động lực (FA): Tổ chức nâng hạng triển vọng tăng trưởng, kỳ vọng cải thiện biên lợi nhuận.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ nhóm xây dựng dân dụng có khả năng dịch chuyển sang CTD nhờ câu chuyện "từ phục hồi đến tăng trưởng".
-    - Hành động: Chú ý giải ngân nếu dòng tiền duy trì mức thanh khoản cao hơn trung bình 20 phiên.
-- Mã: **VJC**
-    - Động lực (FA): Lợi nhuận đột biến từ nghiệp vụ bán và thuê lại máy bay (SLB).
-    - Nhận định dòng tiền: Tạo cú hích ngắn hạn cho giá cổ phiếu.
-    - Hành động: Tiếp tục quan sát phản ứng giá tại vùng cản cũ; không FOMO khi tin tức đã phản ánh.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-    - Nhận định: Dữ liệu "Crack spread kỷ lục" là chất xúc tác mạnh nhất hiện tại. Đủ dư địa để duy trì vị thế nắm giữ, chưa cần thực hiện cơ cấu dù đã qua điểm rơi kỳ vọng tháng 3/2026. Tiếp tục quan sát biên lợi nhuận gộp trong các kỳ báo cáo tiếp theo để ra quyết định đóng vị thế.
+- **Mã: SSI**
+  - Động lực (FA): Hưởng lợi trực tiếp từ sự tự tin của khối tự doanh và xu hướng số hóa mở tài khoản online giúp tối ưu chi phí vận hành.
+  - Nhận định dòng tiền: Dòng tiền tổ chức quay lại là tín hiệu mạnh mẽ, hỗ trợ đà tăng ngắn hạn.
+  - Hành động: Chú ý giải ngân nếu có nhịp test lại hỗ trợ cứng.
+- **Mã: MSH**
+  - Động lực (FA): Kết quả kinh doanh Q2/2026 tăng trưởng ấn tượng, xác nhận sự phục hồi đơn hàng.
+  - Nhận định dòng tiền: Động lực tăng trưởng cơ bản vững chắc, dòng tiền đang ưu tiên các mã có KQKD minh bạch.
+  - Hành động: Tiếp tục giữ, quan sát ngưỡng kháng cự tiếp theo.
+- **Mã: VHC, ANV**
+  - Động lực (FA): Đối mặt rào cản kỹ thuật từ thị trường EU (siết dư lượng).
+  - Nhận định dòng tiền: Áp lực tâm lý từ tin tức có thể khiến dòng tiền ngắn hạn chững lại hoặc bán ròng.
+  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ kỹ thuật; thận trọng chưa gia tăng tỷ trọng.
+- **Mã: GMD, CTG, HDB, MBB, CTD**
+  - Động lực (FA): Các báo cáo cập nhật Analyst meeting đều ghi nhận kết quả kinh doanh Q2/2026 tích cực.
+  - Nhận định dòng tiền: Dòng tiền tổ chức đang củng cố vị thế ở các mã đầu ngành có nền tảng cơ bản tốt.
+  - Hành động: Tiếp tục giữ.
