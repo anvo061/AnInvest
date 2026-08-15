@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:45 - 15/08/2026
+⏱ Thời gian: 23:00 - 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Cơ chế bán khống (Short selling) đang được xem xét để phục vụ lộ trình nâng hạng TTCK** -> Tích cực -> Dòng tiền sẽ hướng mạnh vào nhóm ngành Chứng khoán (SSI, VND, VCI, HCM).
-- **Chính sách thuế quan bảo hộ từ Mỹ gây áp lực lên chuỗi cung ứng xuất khẩu** -> Tiêu cực -> Dòng tiền sẽ rút khỏi nhóm Dệt may (TNG, MSH) và Thủy sản (VHC).
+- **Tin tức**: Chính phủ Việt Nam cân nhắc triển khai bán khống (Short selling) trước lộ trình nâng hạng thị trường. -> **Đánh giá tác động**: Tích cực (Tạo tiền đề thanh khoản và công cụ phòng vệ) -> **Dòng tiền hướng vào**: Nhóm Chứng khoán (đặc biệt các mã đầu ngành có năng lực vận hành sản phẩm mới).
+- **Tin tức**: Chính sách thuế quan của Mỹ gây rủi ro cho hàng hóa xuất khẩu. -> **Đánh giá tác động**: Tiêu cực (Áp lực lên biên lợi nhuận xuất khẩu) -> **Dòng tiền hướng vào**: Rủi ro rút vốn khỏi nhóm Dệt may và Thủy sản xuất khẩu sang Mỹ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI, VND, VCI, HCM**
-- Động lực (FA): Cơ quan quản lý cân nhắc các lựa chọn bán khống trước thềm nâng hạng thị trường.
-- Nhận định dòng tiền: Tin tức tạo kỳ vọng về sự đa dạng hóa sản phẩm và cải thiện thanh khoản, thúc đẩy tâm lý dòng tiền khối ngoại và nhà đầu tư chuyên nghiệp vào nhóm này.
-- Hành động: Chú ý giải ngân theo tín hiệu kỹ thuật trong phiên tới; ưu tiên các mã có thị phần môi giới lớn.
+- **Mã**: SSI, VND, VCI, HCM
+  - **Động lực (FA)**: Thông tin về cơ chế bán khống (Short selling) là nút thắt quan trọng cho kỳ vọng nâng hạng thị trường, tạo ra nguồn thu dịch vụ mới và tăng vòng quay thanh khoản.
+  - **Nhận định dòng tiền**: Kỳ vọng kích hoạt dòng tiền đầu cơ gia tăng vị thế trước thềm thay đổi cơ cấu sản phẩm.
+  - **Hành động**: Chú ý giải ngân (tập trung vào nhóm có thị phần môi giới lớn để tối ưu hóa doanh thu từ sản phẩm mới).
 
-- Mã: **TNG, MSH, VHC**
-- Động lực (FA): Rủi ro từ chính sách thuế quan bảo hộ tại Mỹ.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn và gián đoạn đơn hàng.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+- **Mã**: TNG, VHC, MSH
+  - **Động lực (FA)**: Chính sách thuế quan bảo hộ từ Mỹ gây áp lực lên chi phí biên và đơn hàng.
+  - **Nhận định dòng tiền**: Nguy cơ điều chỉnh ngắn hạn khi dòng tiền tìm cách trú ẩn khỏi các doanh nghiệp phụ thuộc thị trường Mỹ.
+  - **Hành động**: Rủi ro vi phạm kịch bản (Kiểm tra vùng hỗ trợ gần nhất, cân nhắc hạ tỷ trọng nếu thủng nền giá).
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Tin tức về mục tiêu tăng trưởng trên 10% của tỉnh Quảng Ngãi củng cố vai trò "hạt nhân" của BSR trong hạ tầng khu kinh tế trọng điểm. Với vị thế đã quá hạn nắm giữ (tháng 3/2026), dữ liệu này là "tín hiệu bổ trợ" để tiếp tục duy trì vị thế chờ chốt lời tại vùng đỉnh kỳ vọng mới, chưa cần cắt lỗ gấp nếu cấu trúc kỹ thuật chưa gãy xu hướng trung hạn.
+- **Mã: BSR**
+  - **Nhận định**: Tin tức về mục tiêu tăng trưởng trên 10% của tỉnh Quảng Ngãi củng cố vai trò "hạt nhân" của BSR trong hệ sinh thái kinh tế địa phương. Tuy nhiên, do đã quá thời hạn nắm giữ trung hạn (tháng 3/2026), dữ liệu mới chỉ mang tính chất duy trì nền tảng, chưa đủ động lực bứt phá để gia tăng vị thế. 
+  - **Hành động**: Tiếp tục giữ vị thế nhưng kích hoạt điểm chặn lãi (trailing stop) để bảo toàn thành quả, ưu tiên đảo dòng tiền sang nhóm Tài chính/Chứng khoán đang có câu chuyện dẫn dắt vĩ mô.
