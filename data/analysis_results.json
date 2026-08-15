@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "Tin tức sáng 16-8: TP.HCM lấy ý kiến hoàn thiện phương án bồi thường dự án rạch Văn Thánh",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tin-tuc-sang-16-8-tphcm-lay-y-kien-hoan-thien-phuong-an-boi-thuong-du-an-rach-van-thanh-100260815211027446.htm",
+    "PubDate": "8/16/2026 5:00:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Đây là thông tin hành chính về công tác giải phóng mặt bằng tại địa phương, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp bất động sản niêm yết trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Tin tức mang tính chất hành chính địa phương, không tạo ra thay đổi về dòng tiền hay kỳ vọng lợi nhuận cho các mã BĐS niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 06:32:41"
+  },
+  {
     "Title": "Giá vàng hôm nay 16/8/2026: Vàng thế giới dậy sóng, trong nước neo cao",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/gia-vang-hom-nay-16-8-2026-vang-the-gioi-day-song-trong-nuoc-neo-cao-2545793.html",
@@ -16610,34 +16623,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-08 21:03:34"
-  },
-  {
-    "Title": "Phó thủ tướng: Xử lý đến cùng vướng mắc, không đẩy doanh nghiệp đi vòng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/pho-thu-tuong-xu-ly-den-cung-vuong-mac-khong-day-doanh-nghiep-di-vong-5106881.html",
-    "PubDate": "Sat, 08 Aug 2026 20:40:31 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Chỉ đạo quyết liệt tháo gỡ thủ tục hành chính giúp đẩy nhanh tiến độ các dự án BĐS đang bị đình trệ, cải thiện dòng tiền và khả năng ghi nhận doanh thu cho các doanh nghiệp bất động sản.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Chỉ đạo hành chính mang tính định hướng chung, thiếu lộ trình cụ thể. Cần quan sát phản ứng dòng tiền thực tế tại các dự án trọng điểm thay vì kỳ vọng ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đẩy nhanh tiến độ các đại dự án giúp sớm ghi nhận doanh thu và cải thiện dòng tiền kinh doanh."
-      },
-      {
-        "Ticker": "NVL",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tháo gỡ vướng mắc pháp lý là yếu tố sống còn để tái khởi động các dự án trọng điểm đang bị đình trệ."
-      },
-      {
-        "Ticker": "PDR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm rủi ro pháp lý giúp doanh nghiệp sớm hoàn thiện thủ tục, đẩy nhanh tiến độ bán hàng và thu hồi vốn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 21:03:17"
   }
 ]
