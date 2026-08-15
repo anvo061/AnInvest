@@ -1,5 +1,60 @@
 ﻿[
   {
+    "Title": "Small Businesses Despise Trump’s Tariffs — For Good Reason - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVlJa3luTXRTVTVTclU1WVNSUmNpZ29obk5GNFRrRHBfcE9fTHFDUFo2NUFSY0g1Q3RDTUpQOGlWVElqb0kzMzF1Q29BZXF0WURjTEppUDZjUG1YQnJ3ejN3X0hMZ0RhckJMSzZrVFN1amp6eUpMdkI0UUk2emVuOHNYbUxqakFoN09wU2tickphejd5QlhyUDhremtRUWtENmxfNlB4TlI1NXhJOVpqNjZOc2Iwdw?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 09:00:16 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Chính sách thuế quan gây rủi ro cho chuỗi cung ứng toàn cầu, làm giảm nhu cầu xuất khẩu của các doanh nghiệp Việt Nam sang thị trường Mỹ, đặc biệt là nhóm dệt may và thủy sản.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Thuế quan Mỹ gây áp lực chi phí lên nhóm xuất khẩu. Cần theo dõi sát biên lợi nhuận TNG, VHC, MSH trước rủi ro hàng rào thương mại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro giảm đơn hàng xuất khẩu sang Mỹ do chính sách thuế quan bảo hộ."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực lên biên lợi nhuận xuất khẩu thủy sản khi chi phí thương mại tăng cao."
+      },
+      {
+        "Ticker": "MSH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp dệt may phụ thuộc thị trường Mỹ chịu rủi ro từ hàng rào thuế quan."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 22:34:11"
+  },
+  {
+    "Title": "Bài học: Bảo vệ vùng trời sân bay trước drone xâm nhập",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/bai-hoc-bao-ve-vung-troi-san-bay-truoc-drone-xam-nhap-100260814184152001.htm",
+    "PubDate": "8/15/2026 8:55:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Nhu cầu nâng cấp hệ thống an ninh, giám sát và phòng thủ không lưu tại các sân bay tăng cao, tạo cơ hội cho các doanh nghiệp công nghệ quốc phòng và hạ tầng viễn thông.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất cảnh báo an ninh, thiếu thông tin về gói thầu cụ thể. Tác động đến FPT, CMG là suy diễn xa, chưa có cơ sở dòng tiền thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 22:33:55"
+  },
+  {
+    "Title": "Lễ hội sầu riêng giúp đại ngàn thức giấc, kết nối vươn xa",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/le-hoi-sau-rieng-giup-dai-ngan-thuc-giac-ket-noi-vuon-xa-10026081520560104.htm",
+    "PubDate": "8/15/2026 9:48:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính chất quảng bá văn hóa, du lịch và xúc tiến thương mại địa phương, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Tin tức mang tính chất sự kiện địa phương, không tạo ra thay đổi về dòng tiền hay biên lợi nhuận cho các doanh nghiệp niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 22:33:44"
+  },
+  {
     "Title": "Vietnam Mulls Short Selling Options Before Upgrade, Report Says - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHFYR3pGMWR4MlRDWWM3aWx6MHdYRVpSVVNMTkhRMV9EV2RXeGZPT0VtcHBrZE1EN1p5azRGbnVDU0xYZ3BNcndhTXM5cHJ2QjRZWmtBUHNjRGZNM3NzbldSWVhiQ2F0V05QaThudHJvT1VzMkQ0MWl3Ri1wc0lZZU5mclhURXgwbEVpaElPbGI1Uk1PMkRIdk1YRk94T3E5N0hUWFZ6UWY1VzBkRUF0dlRsOA?oc=5",
@@ -16600,65 +16655,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-08 19:22:23"
-  },
-  {
-    "Title": "Vietnam Equity Outflows Ease on Currency Rebound, Growth Hopes - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlpkY0E1YzVPNFpRcTRFSS0tMm5saW43WnE5WG51V25vaVRIU0NabDJLVk43aENIU0pZT0QteGF3M0w5aGhmYk5zZmYzNDd4bTY0eE1HazhxSXczdW1jakl3WHhQbUZncXpzUTBGejFxUGJPOFdCOGhuNERBNEpIWEhCZ0RhT3VpZ2ZEazBHVm1XZC1JVEx5YXk2VzRBVlM4dGhMRWJkR0hVcEgxdFFKczF3?oc=5",
-    "PubDate": "Wed, 29 Oct 2025 07:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Áp lực tỷ giá hạ nhiệt giúp khối ngoại giảm bán ròng, cải thiện tâm lý thị trường và hỗ trợ thanh khoản cho các cổ phiếu vốn hóa lớn (Bluechips) và nhóm chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Tỷ giá hạ nhiệt giảm áp lực bán ròng khối ngoại. Dòng tiền ưu tiên nhóm vốn hóa lớn (Bluechips) có tính thanh khoản cao và định giá hợp lý.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu trụ cột thu hút dòng vốn ngoại khi áp lực tỷ giá giảm."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản thị trường cải thiện trực tiếp thúc đẩy doanh thu môi giới và margin."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm áp lực bán ròng từ khối ngoại đối với cổ phiếu vốn hóa lớn."
-      },
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu ưa thích của khối ngoại, hưởng lợi khi dòng vốn quay lại thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 18:51:29"
-  },
-  {
-    "Title": "FUEFCV50: Báo cáo hoạt động đầu tư tháng 07/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3B0T0NwTFVGMVdfZVZuZkdWOXppX0JLMlNXLVdQM24yZGp4TXZKazRmTjdQYzhlR0JMb3VaemhBdHJmX0Q4UmVXRmlMRDd6MlNBQldXeWZVcEM4RmN3ZHk5WmdpMFIzNm9GdTN4Ymd5Zm1KTll1bmxkaXN5QmlOajltOVc3N3RDTklud0ZFV21mVDNJTzJzcEtRMG1MT2p4amtIWHdDOEd4ai1LMEd5eA?oc=5",
-    "PubDate": "Fri, 07 Aug 2026 10:23:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là báo cáo định kỳ về hoạt động đầu tư của quỹ ETF, không chứa thông tin thay đổi chiến lược hay biến động danh mục bất thường ảnh hưởng đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Báo cáo định kỳ của quỹ ETF không tạo ra tín hiệu giao dịch mới cho các mã thành phần. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 18:51:19"
-  },
-  {
-    "Title": "FUEVN100: Thông báo thay đổi giá trị tài sản ròng ngày 06/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVJyTWlSc3BWTGJjLWx6Y2dJSE82cjV4cDZsR3NQNlJHQlhwRWFWbjhMN2lrdGd3bDgydWZEUVQ2YWNqWU9DbkNkSFZLcnlLd1RhTHhJQ04zdUdUMlNFaTlrUnJrRXNlZnZaMDIyQWlUSGtvM3ZWdGVmUVNYV3l5QnA2eE9nUDdRUTZEMlpmMWFmekdPWkxRQUxXcy1TOFNqdU1PR2ZXY3ZwaVk3c2Y0ZFFTcV90ZnFtMldQZUM3engxN18zaFE?oc=5",
-    "PubDate": "Fri, 07 Aug 2026 09:12:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay vĩ mô.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 18:51:09"
   }
 ]
