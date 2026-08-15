@@ -1,5 +1,52 @@
 ﻿[
   {
+    "Title": "Vietnam Mulls Short Selling Options Before Upgrade, Report Says - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHFYR3pGMWR4MlRDWWM3aWx6MHdYRVpSVVNMTkhRMV9EV2RXeGZPT0VtcHBrZE1EN1p5azRGbnVDU0xYZ3BNcndhTXM5cHJ2QjRZWmtBUHNjRGZNM3NzbldSWVhiQ2F0V05QaThudHJvT1VzMkQ0MWl3Ri1wc0lZZU5mclhURXgwbEVpaElPbGI1Uk1PMkRIdk1YRk94T3E5N0hUWFZ6UWY1VzBkRUF0dlRsOA?oc=5",
+    "PubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc triển khai bán khống là điều kiện cần để nâng hạng thị trường, giúp tăng thanh khoản, thu hút dòng vốn ngoại và hoàn thiện cấu trúc sản phẩm tài chính cho TTCK Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Bán khống là động lực nâng hạng, thúc đẩy thanh khoản và phí môi giới. Ưu tiên các CTCK có thị phần lớn và năng lực quản trị rủi ro tốt.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành môi giới, hưởng lợi trực tiếp từ sự gia tăng thanh khoản và các sản phẩm tài chính mới."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị phần môi giới lớn, hưởng lợi từ sự cải thiện thanh khoản và đa dạng hóa sản phẩm giao dịch."
+      },
+      {
+        "Ticker": "VCI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Năng lực tài chính mạnh, hưởng lợi từ các nghiệp vụ kinh doanh vốn và sản phẩm phái sinh mới."
+      },
+      {
+        "Ticker": "HCM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ sự gia tăng khối lượng giao dịch và nhu cầu margin từ nhà đầu tư chuyên nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-15 21:11:18"
+  },
+  {
+    "Title": "Tương lai cà phê sẽ thuộc về Robusta?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tuong-lai-ca-phe-se-thuoc-ve-robusta-100260815150327308.htm",
+    "PubDate": "8/15/2026 6:23:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Xu hướng tiêu dùng toàn cầu chuyển dịch sang Robusta giúp Việt Nam - quốc gia xuất khẩu Robusta lớn nhất thế giới - gia tăng vị thế, cải thiện biên lợi nhuận cho các doanh nghiệp nông nghiệp xuất khẩu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất dự báo xu hướng tiêu dùng dài hạn, thiếu tác động trực tiếp đến dòng tiền ngắn hạn của các doanh nghiệp niêm yết cụ thể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 21:11:02"
+  },
+  {
     "Title": "EVG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUV9nVWhFNTZaRzBobHg0SmJ1b054Y2N0YUQtSmlxYTg0N21fcDlwX1hqTFlfU2NvMHUzbXNQTFB2YUtRTktqbUoxMVV4R3lUS3ZmaUM2SEpoT0R2X3BXTU43OXJvNXp0ZGpjX25YdVdEbkwxSFlmQXd5SjVMdjJuTzV5SUw4MVI2UFVpNjlONGhpY1BoUEgtX2dEVTB3R0p4X2dGQVNIc2ZEbkVzdjhFcmItOXV5bUNhemRoTkh4QWIwdVNCMlpXRA?oc=5",
@@ -16613,31 +16660,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-08 18:51:09"
-  },
-  {
-    "Title": "E1VFVN30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 06/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbE1SRWYxTFUzOGJwQ0ZzNjRPbFVscmRSMnhXa0ZROXNvNHpRYXRSQklwOWNFZjdVaDdNT01QU2xCOUpra1FNSFlXOTVxbzdWcnhXekFYWTUxVTh5aHBkR3MzMlREa21JVllXOWRBRnd1YVZDcXBMczRqUmhFT2gwVjFFWlN6TWsyYzhLalZ5X2ROMGF4Q3pwQnByVjRpcjJnOWU5MkRFVkFsSHBXRnpXX1hGVGVWMDJpZkxrVWJ1YXMtT3hFRUtjSGMzeUtscWJfbEF3?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 02:05:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF E1VFVN30, không mang tính chất thay đổi chiến lược hay tác động đến hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra biến động dòng tiền bất thường cho các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 18:51:00"
-  },
-  {
-    "Title": "Nam A Bank kết nối, thúc đẩy phát triển kinh tế trục Đông - Tây",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/nam-a-bank-ket-noi-thuc-day-phat-trien-kinh-te-truc-dong-tay-2529346.html",
-    "PubDate": "Thu, 25 Jun 2026 15:45:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là hoạt động truyền thông thương hiệu và mở rộng mạng lưới tín dụng thông thường của ngân hàng, không tạo ra thay đổi đột biến về biên lợi nhuận hay cấu trúc tài chính doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Hoạt động mở rộng tín dụng theo địa phương là nghiệp vụ kinh doanh bình thường. Không tạo đột biến dòng tiền ngắn hạn cho NAB.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-08 18:50:49"
   }
 ]
