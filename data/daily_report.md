@@ -1,23 +1,27 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 ngày 16/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 06:15 - 16/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Việt Nam tăng hạng năng lực cạnh tranh quốc tế và lộ trình triển khai bán khống:** Đánh giá Tích cực -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)** và **Bất động sản khu công nghiệp (KBC, GVR, SZC, GMD)** nhờ kỳ vọng nâng hạng và thu hút FDI.
-- **Rủi ro thuế quan từ chính sách bảo hộ thương mại Mỹ:** Đánh giá Tiêu cực -> Áp lực lên biên lợi nhuận nhóm **Dệt may & Thủy sản (TNG, MSH, VHC)**, dòng tiền có thể sẽ rút bớt khỏi các mã xuất khẩu chủ lực sang Mỹ để tránh biến động ngắn hạn.
-- **Sức cầu tiêu dùng nội địa suy yếu:** Đánh giá Tiêu cực -> Gây áp lực trực tiếp lên nhóm **Bán lẻ cao cấp (PNJ)** do chi tiêu không thiết yếu giảm.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Việt Nam tăng vị thế trong chuỗi cung ứng toàn cầu (Bloomberg):** Đánh giá **Tích cực**. Dòng vốn FDI được kỳ vọng duy trì đà tăng trưởng mạnh mẽ, tiếp tục củng cố triển vọng cho nhóm Bất động sản khu công nghiệp và hạ tầng logistics.
+- **Rủi ro thuế quan Mỹ đối với doanh nghiệp xuất khẩu:** Đánh giá **Tiêu cực**. Chính sách bảo hộ thương mại tiềm tàng từ phía Mỹ gây áp lực lên biên lợi nhuận của các doanh nghiệp dệt may, thủy sản phụ thuộc vào thị trường xuất khẩu này.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TDM**
-  - Động lực (FA): Cổ đông lớn (Chứng khoán Vietcap) thực hiện quyền mua thành công hơn 15.5 triệu cổ phiếu.
-  - Nhận định dòng tiền: Tạo tín hiệu củng cố niềm tin về sức khỏe tài chính và cam kết dài hạn, có thể kích thích tâm lý tích cực cho cổ đông nhỏ lẻ trong ngắn hạn.
-  - Hành động: Chú ý giải ngân theo đà tâm lý tích cực nếu volume phiên sáng duy trì trên mức trung bình.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** KBC, GVR, SZC, GMD
+  - **Động lực (FA):** Việt Nam được truyền thông quốc tế đánh giá là "cường quốc đang lên" tại Châu Á, trực tiếp hưởng lợi từ làn sóng dịch chuyển sản xuất FDI.
+  - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào nhóm BĐS KCN và cảng biển. Dòng tiền trung hạn sẽ ưu tiên các mã có quỹ đất sạch lớn và hạ tầng kết nối đồng bộ.
+  - **Hành động:** Quan sát điểm mua kỹ thuật (Technical Entry) trong nhịp điều chỉnh, không nên đuổi giá khi đã tăng nóng.
 
-- **Mã: SSI, VND, VCI, HCM (Nhóm Chứng khoán)**
-  - Động lực (FA): Thông tin Bloomberg về việc cân nhắc cơ chế bán khống (Short selling) nhằm mục tiêu nâng hạng thị trường.
-  - Nhận định dòng tiền: Đây là tin tức mang tính chiến lược, thúc đẩy kỳ vọng tăng trưởng thanh khoản dài hạn; dòng tiền có khả năng đẩy giá cổ phiếu nhóm chứng khoán mạnh ngay khi mở cửa.
-  - Hành động: Chú ý giải ngân ở nhịp rung lắc đầu phiên, ưu tiên các mã đầu ngành có dư địa margin lớn.
+- **Mã:** TNG, MSH, VHC
+  - **Động lực (FA):** Rủi ro từ chính sách thuế quan bảo hộ tại Mỹ (Small Businesses Despise Trump’s Tariffs).
+  - **Nhận định dòng tiền:** Áp lực tâm lý ngắn hạn có thể khiến dòng tiền chốt lời hoặc đứng ngoài quan sát nhóm này.
+  - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng. Ưu tiên quản trị rủi ro, hạ tỷ trọng đối với các mã dệt may/thủy sản có tỷ trọng xuất khẩu Mỹ quá lớn.
 
-- **Mã: PNJ**
-  - Động lực (FA): Bối cảnh suy yếu của ngành bán lẻ thời trang nội địa phản ánh sức mua chung đang gặp khó khăn.
-  - Nhận định dòng tiền: Áp lực cung ngắn hạn khi dòng tiền tìm cách tránh xa nhóm bán lẻ hàng xa xỉ.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy, ưu tiên quan sát phản ứng tại các vùng hỗ trợ cứng.
+- **Mã:** TDM
+  - **Động lực (FA):** Cổ đông lớn (Vietcap) thực hiện quyền mua 15,5 triệu cổ phiếu, khẳng định cam kết tài chính.
+  - **Nhận định dòng tiền:** Tín hiệu tích cực về niềm tin vào kế hoạch tăng vốn, tạo nền tảng hỗ trợ giá cổ phiếu trong ngắn hạn.
+  - **Hành động:** Chú ý giải ngân theo dòng tiền tích lũy của cổ đông lớn.
+
+- **Mã:** PNJ
+  - **Động lực (FA):** Sự suy yếu của các thương hiệu bán lẻ nội địa phản ánh sức mua tiêu dùng cá nhân đang co hẹp.
+  - **Nhận định dòng tiền:** Tiêu cực. Áp lực bán tiềm ẩn do lo ngại tăng trưởng doanh thu quý tới thấp hơn kỳ vọng.
+  - **Hành động:** Tiếp tục quan sát tín hiệu hỗ trợ tại các vùng giá nền, tránh bắt đáy sớm.
