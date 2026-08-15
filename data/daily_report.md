@@ -1,21 +1,32 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 13:50 (Ngày 15/08/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 14:15 - 15/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Dòng tiền thông minh:** Tự doanh các CTCK đảo chiều mua ròng mạnh gần 1.100 tỉ đồng -> **Tích cực** -> Dòng tiền tập trung nhóm Chứng khoán (đầu ngành) và nhóm vốn hóa lớn (Bluechips) được hưởng lợi từ tâm lý tự tin trở lại.
-- **Tiêu dùng Mỹ suy giảm:** Doanh số bán lẻ Mỹ bất ngờ giảm -> **Tiêu cực** -> Áp lực lên nhóm xuất khẩu (Thủy sản, Dệt may) do phụ thuộc thị trường Mỹ/EU.
-- **Rào cản kỹ thuật xuất khẩu:** EU siết dư lượng thuốc bảo vệ thực vật -> **Tiêu cực** -> Gia tăng chi phí tuân thủ cho nhóm xuất khẩu nông, thủy sản (VHC, ANV).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Khối tự doanh đảo chiều mua ròng gần 1.100 tỉ đồng: Tích cực -> Dòng tiền thông minh quay lại nhóm vốn hóa lớn, củng cố thanh khoản thị trường.
+- Doanh số bán lẻ Mỹ giảm & EU siết dư lượng thuốc BVTV: Tiêu cực -> Áp lực lên nhóm xuất khẩu (Thủy sản: VHC, ANV; Dệt may: TNG) do rủi ro biên lợi nhuận và nhu cầu suy yếu.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **SSI**
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ sự trở lại của dòng tiền tự doanh và kỳ vọng cải thiện thanh khoản toàn thị trường.
-  - **Nhận định dòng tiền:** Dòng tiền tổ chức đang có dấu hiệu "đảo chiều" tích cực, củng cố đà hồi phục.
-  - **Hành động:** Chú ý giải ngân (Canh các nhịp điều chỉnh trong phiên để gia tăng vị thế).
-- **Mã:** **VHC**
-  - **Động lực (FA):** Đối mặt kép từ việc sức mua Mỹ suy yếu và hàng rào kỹ thuật khắt khe tại EU.
-  - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng khi triển vọng biên lợi nhuận bị đe dọa.
-  - **Hành động:** Rủi ro vi phạm kịch bản (Quan sát chặt chẽ ngưỡng hỗ trợ kỹ thuật, ưu tiên hạ tỷ trọng nếu giá mất hỗ trợ quan trọng).
-- **Mã:** **MSH, GMD, CTG, HDB, MBB, CTD**
-  - **Động lực (FA):** Các báo cáo cập nhật Analyst Meeting Q2/2026 và KQKD tích cực xác nhận nền tảng cơ bản vững chắc.
-  - **Nhận định dòng tiền:** Dòng tiền tập trung vào các mã có câu chuyện tăng trưởng rõ ràng (Growth Stories).
-  - **Hành động:** Tiếp tục quan sát (Ưu tiên nắm giữ các mã đã có vị thế tốt, chưa vội gia tăng nếu giá đã chạy quá xa nền giá).
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **SSI**
+- Động lực (FA): Hưởng lợi trực tiếp từ sự phục hồi thanh khoản và tâm lý tích cực của khối tự doanh sau đợt bán ròng.
+- Nhận định dòng tiền: Dòng tiền tổ chức đang quay lại, SSI đóng vai trò dẫn dắt nhóm Chứng khoán.
+- Hành động: Chú ý giải ngân theo đà phục hồi của thanh khoản thị trường.
+
+- Mã: **MSH**
+- Động lực (FA): Kết quả kinh doanh Q2/2026 tăng trưởng mạnh, tạo đà tâm lý tích cực bất chấp áp lực chung từ ngành dệt may do cầu Mỹ suy giảm.
+- Nhận định dòng tiền: Đang có sự phân hóa, dòng tiền ưu tiên các mã có nội tại tăng trưởng mạnh mẽ thay vì nhóm dệt may bị áp lực xuất khẩu.
+- Hành động: Tiếp tục quan sát điểm vào lệnh kỹ thuật, ưu tiên nắm giữ nếu đã có vị thế.
+
+- Mã: **GMD**
+- Động lực (FA): KQKD Q2 và 6T2026 khả quan nhờ lưu lượng hàng hóa cảng biển phục hồi.
+- Nhận định dòng tiền: Dòng tiền tập trung vào các mã có câu chuyện tăng trưởng lợi nhuận rõ ràng trong bối cảnh vĩ mô biến động.
+- Hành động: Tiếp tục quan sát, ưu tiên tích lũy khi có rung lắc.
+
+- Mã: **CTG, HDB, MBB**
+- Động lực (FA): Công bố kết quả kinh doanh và kế hoạch 2026 tích cực từ Analyst meeting.
+- Nhận định dòng tiền: Nhóm ngân hàng đang thu hút sự chú ý của dòng tiền dài hạn.
+- Hành động: Tiếp tục quan sát chặt chẽ, chờ tín hiệu xác nhận từ khối ngoại.
+
+- Mã: **VHC, ANV**
+- Động lực (FA): Rào cản kỹ thuật từ thị trường EU và nhu cầu từ Mỹ suy yếu.
+- Nhận định dòng tiền: Áp lực bán tiềm ẩn do rủi ro thị trường xuất khẩu, dòng tiền có xu hướng rút lui khỏi nhóm xuất khẩu chịu rào cản kỹ thuật.
+- Hành động: Rủi ro vi phạm kịch bản, hạn chế giải ngân mới.

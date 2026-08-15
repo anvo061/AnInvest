@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "Kinh tế đêm không bắt đầu ở tấm giấy phép",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/kinh-te-dem-khong-bat-dau-o-tam-giay-phep-100260815101528516.htm",
+    "PubDate": "8/15/2026 12:19:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Bài viết mang tính chất bình luận, định hướng chính sách về phát triển kinh tế đêm, không có thông tin cụ thể tác động trực tiếp đến doanh thu hay lợi nhuận của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Bài viết mang tính chất quan điểm vĩ mô, thiếu thông tin định lượng cụ thể để tác động đến dòng tiền ngắn hạn của các mã cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-15 14:14:55"
+  },
+  {
     "Title": "Doanh số bán lẻ của Mỹ bất ngờ giảm",
     "Source": "VnExpress Kinh Doanh",
     "Link": "https://vnexpress.net/doanh-so-ban-le-cua-my-bat-ngo-giam-5109449.html",
@@ -16648,29 +16661,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-08 16:30:52"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 26/6: Dầu thế giới đi lên, trong nước giảm mạnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-26-6-trong-nuoc-giam-manh-2529568.html",
-    "PubDate": "Fri, 26 Jun 2026 08:06:36 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá xăng dầu trong nước giảm giúp giảm chi phí vận tải và đầu vào cho các doanh nghiệp sản xuất, logistics, đồng thời hỗ trợ kiểm soát lạm phát.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá xăng dầu giảm hỗ trợ chi phí vận tải nhưng phản ánh nhu cầu tiêu thụ yếu. Tác động biên lợi nhuận không đáng kể trong ngắn hạn. Theo dõi sát nhóm Logistics.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí vận hành giảm giúp cải thiện biên lợi nhuận gộp cho doanh nghiệp cảng biển và logistics."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá nhiên liệu giảm trực tiếp làm giảm chi phí vận tải tàu biển, tăng lợi nhuận cho đội tàu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-08 16:30:38"
   }
 ]
