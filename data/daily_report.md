@@ -1,23 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:53
+⏱ Thời gian: 12:30, 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- KQKD Q2/2026 nhóm Ngân hàng (CTG, HDB, MBB) và Cảng biển (GMD) đồng loạt tích cực -> Đánh giá: Tích cực -> Dòng tiền sẽ tập trung vào nhóm Tài chính - Ngân hàng và Logistics/Xuất nhập khẩu đầu ngành.
-- EU siết chặt tiêu chuẩn dư lượng nông sản -> Đánh giá: Tiêu cực -> Rủi ro chi phí cho nhóm xuất khẩu thủy sản (VHC, ANV).
+- Nhóm Ngân hàng (CTG, MBB, HDB) và Logisitcs (GMD) đồng loạt công bố KQKD Q2/2026 tích cực -> Tác động: Tích cực -> Dòng tiền sẽ tập trung vào nhóm dẫn dắt (Bank) và nhóm hưởng lợi từ thương mại quốc tế (Cảng biển).
+- EU siết chặt dư lượng thuốc BVTV -> Tác động: Tiêu cực -> Gây áp lực chi phí kiểm định cho các doanh nghiệp thủy sản xuất khẩu (VHC, ANV).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **CTG, HDB, MBB**
-  - Động lực (FA): Công bố kết quả kinh doanh Q2/2026 khả quan, khẳng định chất lượng tài sản và tăng trưởng tín dụng.
-  - Nhận định dòng tiền: Tạo bệ đỡ vững chắc cho dòng tiền tổ chức duy trì vị thế, củng cố xu hướng tăng ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-- Mã: **GMD**
-  - Động lực (FA): Lưu lượng hàng hóa qua cảng phục hồi mạnh mẽ, KQKD xác nhận đà tăng trưởng.
-  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các cổ phiếu có nền tảng tăng trưởng thực.
-  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi dòng tiền xác nhận đẩy giá.
-- Mã: **VHC, ANV**
-  - Động lực (FA): Rào cản kỹ thuật từ thị trường EU (dư lượng thuốc BVTV).
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại tăng chi phí kiểm định và rủi ro chuỗi cung ứng.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế giải ngân mới.
+- Mã: **CTD**
+    - Động lực (FA): Tổ chức nâng hạng triển vọng tăng trưởng, kỳ vọng cải thiện biên lợi nhuận.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ nhóm xây dựng dân dụng có khả năng dịch chuyển sang CTD nhờ câu chuyện "từ phục hồi đến tăng trưởng".
+    - Hành động: Chú ý giải ngân nếu dòng tiền duy trì mức thanh khoản cao hơn trung bình 20 phiên.
+- Mã: **VJC**
+    - Động lực (FA): Lợi nhuận đột biến từ nghiệp vụ bán và thuê lại máy bay (SLB).
+    - Nhận định dòng tiền: Tạo cú hích ngắn hạn cho giá cổ phiếu.
+    - Hành động: Tiếp tục quan sát phản ứng giá tại vùng cản cũ; không FOMO khi tin tức đã phản ánh.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dữ liệu crack spread kỷ lục đang tác động trực tiếp và tích cực lên biên lợi nhuận gộp. Dữ liệu hiện tại ủng hộ chiến lược nắm giữ để tối ưu hóa lợi nhuận thay vì cơ cấu lại vào thời điểm này.
+- Mã: **BSR**
+    - Nhận định: Dữ liệu "Crack spread kỷ lục" là chất xúc tác mạnh nhất hiện tại. Đủ dư địa để duy trì vị thế nắm giữ, chưa cần thực hiện cơ cấu dù đã qua điểm rơi kỳ vọng tháng 3/2026. Tiếp tục quan sát biên lợi nhuận gộp trong các kỳ báo cáo tiếp theo để ra quyết định đóng vị thế.
