@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:56 ngày 15/08/2026
+⏱ Thời gian: 17:00 ngày 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Doanh số bán lẻ Mỹ suy yếu -> [Tác động: Tiêu cực] -> [Dòng tiền xuất khẩu (Dệt may, Thủy sản) cần thận trọng trước rủi ro sụt giảm đơn hàng].
-- Định hướng Dung Quất thành trung tâm công nghệ cao -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Hạ tầng Khu công nghiệp và Logistics miền Trung].
-- Nhập siêu 13 tỷ USD ngành điện tử -> [Tác động: Tiêu cực] -> [Tạo áp lực lên tỷ giá, ảnh hưởng biên lợi nhuận các doanh nghiệp sản xuất phụ thuộc nguyên liệu nhập khẩu].
+- Doanh số bán lẻ Mỹ suy giảm -> [Tác động: Tiêu cực] -> [Dòng tiền nhóm xuất khẩu (VHC, TNG) chịu áp lực giảm].
+- Định hướng Dung Quất thành trung tâm công nghệ cao -> [Tác động: Tích cực] -> [Dòng tiền kỳ vọng vào nhóm Bất động sản khu công nghiệp và hạ tầng khu vực miền Trung].
+- Tự doanh đảo chiều mua ròng 1.100 tỷ đồng -> [Tác động: Tích cực] -> [Dòng tiền lan tỏa nhóm chứng khoán (SSI) và cải thiện tâm lý thị trường chung].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VHC, TNG
-- Động lực (FA): Doanh số bán lẻ Mỹ bất ngờ giảm.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại cầu thị trường chủ lực suy giảm, đè nặng lên các mã xuất khẩu trực tiếp sang Mỹ.
-- Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ kỹ thuật; chưa giải ngân mới.
-
-- Mã: SSI
-- Động lực (FA): Khối tự doanh đảo chiều mua ròng gần 1.100 tỷ đồng.
-- Nhận định dòng tiền: Dòng tiền thông minh quay trở lại nhóm dẫn dắt, hỗ trợ thanh khoản thị trường chung.
-- Hành động: Chú ý giải ngân theo đà phục hồi của nhóm chứng khoán.
-
-- Mã: MSH
-- Động lực (FA): Kết quả kinh doanh Q2/2026 tăng trưởng ấn tượng.
-- Nhận định dòng tiền: Động lực nội tại mạnh mẽ, đi ngược dòng rủi ro vĩ mô của nhóm ngành dệt may.
-- Hành động: Tiếp tục quan sát giữ vị thế, gia tăng nếu dòng tiền duy trì mạnh.
+- Mã: **VHC, TNG**
+  - Động lực (FA): Doanh số bán lẻ Mỹ sụt giảm.
+  - Nhận định dòng tiền: Rủi ro điều chỉnh do kỳ vọng đơn hàng xuất khẩu giảm sút trong ngắn hạn.
+  - Hành động: Cảnh báo rủi ro, quan sát ngưỡng hỗ trợ kỹ thuật gần nhất.
+- Mã: **MSH**
+  - Động lực (FA): Kết quả kinh doanh Q2/2026 tăng trưởng ấn tượng.
+  - Nhận định dòng tiền: Dòng tiền tích cực đi ngược xu hướng ngành nhờ yếu tố nội tại doanh nghiệp.
+  - Hành động: Tiếp tục nắm giữ, theo dõi vùng kháng cự tiếp theo.
+- Mã: **SSI**
+  - Động lực (FA): Khối tự doanh đảo chiều mua ròng mạnh.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ sự phục hồi tâm lý và thanh khoản.
+  - Hành động: Chú ý giải ngân nếu dòng tiền duy trì độ bền vững tại các phiên tới.
