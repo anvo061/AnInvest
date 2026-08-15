@@ -1,15 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:00 - 15/08/2026
+⏱ Thời gian: 23:10 ngày 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Cơ chế bán khống (Short Selling):** Việt Nam đang cân nhắc triển khai bán khống để chuẩn bị cho nâng hạng thị trường -> Đánh giá: **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)** do kỳ vọng gia tăng thanh khoản và đa dạng hóa sản phẩm tài chính.
-- **Thuế quan bảo hộ từ Mỹ:** Chính sách thuế quan của Mỹ gây rủi ro lên chuỗi cung ứng toàn cầu -> Đánh giá: **Tiêu cực** -> Dòng tiền cần thận trọng với nhóm **Dệt may (TNG, MSH)** và **Thủy sản (VHC)** do áp lực biên lợi nhuận từ hàng rào thương mại.
+- **Cơ chế bán khống (Short selling) được xem xét để phục vụ nâng hạng thị trường:** -> [Tích cực] -> Dòng tiền dự kiến hướng mạnh vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)** do kỳ vọng gia tăng thanh khoản và đa dạng hóa nghiệp vụ tài chính.
+- **Rủi ro thuế quan Mỹ đối với hàng hóa nhập khẩu:** -> [Tiêu cực] -> Áp lực bán tiềm ẩn đối với nhóm **Dệt may (TNG, MSH)** và **Thủy sản (VHC)** do lo ngại suy giảm đơn hàng và biên lợi nhuận.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** BSR
-- **Động lực (FA):** Chính quyền Quảng Ngãi đặt mục tiêu tăng trưởng kinh tế trên 10%, ưu tiên phát triển công nghiệp tại Khu kinh tế Dung Quất.
-- **Nhận định dòng tiền:** Tin tức củng cố vị thế địa chính trị và hỗ trợ từ chính quyền địa phương, tạo tâm lý tích cực cho dòng tiền vào mã đầu ngành tại khu vực này.
-- **Hành động:** Chú ý giải ngân (theo dõi phản ứng giá tại các vùng hỗ trợ kỹ thuật gần nhất).
+- **Mã:** SSI, VND, VCI, HCM
+- **Động lực (FA):** Chính phủ cân nhắc cho phép bán khống để đẩy nhanh lộ trình nâng hạng thị trường.
+- **Nhận định dòng tiền:** Tin tức hỗ trợ tâm lý dài hạn. Dòng tiền thông minh có thể kích hoạt các lệnh mua gom vùng giá hiện tại để đón đầu sóng nâng hạng.
+- **Hành động:** Chú ý giải ngân (tỷ trọng vừa phải) chờ xác nhận xu hướng từ dòng tiền khối ngoại.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR (Dữ liệu ngày 15/08/2026):** Hiện đã qua điểm rơi kỳ vọng tháng 3/2026, tuy nhiên thông tin về tăng trưởng địa phương cho thấy dư địa phát triển hạ tầng và công nghiệp còn tiếp diễn. **Khuyến nghị:** Tiếp tục nắm giữ (Hold) để hưởng lợi từ chính sách thúc đẩy kinh tế tỉnh, nhưng cần áp dụng chặn lãi (trailing stop) chặt chẽ nếu dòng tiền ngành Dầu khí suy yếu do biến động vĩ mô quốc tế.
+- **Mã: BSR**
+- **Nhận định:** Mục tiêu tăng trưởng của tỉnh Quảng Ngãi (>10%) tạo tiền đề thuận lợi cho hạ tầng khu kinh tế Dung Quất. Tuy nhiên, do đã qua điểm rơi kỳ vọng tháng 3/2026, vị thế hiện tại chuyển sang giai đoạn theo dõi biến động từ chính sách địa phương. Tiếp tục giữ nếu mục tiêu là đầu tư giá trị theo chu kỳ dài hơn, nhưng cần cân nhắc chốt lời nếu dòng tiền ngắn hạn suy yếu dưới hỗ trợ kỹ thuật vùng nền cũ.
