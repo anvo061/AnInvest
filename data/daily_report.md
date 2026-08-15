@@ -1,20 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:15 - 2026-08-16
+⏱ Thời gian: 01:10 ngày 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Việt Nam tiềm năng FDI & Chính sách Short Selling:** Truyền thông quốc tế nâng cao vị thế FDI của Việt Nam kết hợp với thông tin triển khai bán khống (Short Selling) hướng tới nâng hạng thị trường -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **BĐS Khu công nghiệp (KBC, GVR, SZC)** và **Chứng khoán (SSI, VND, VCI, HCM)**.
-- **Rủi ro thuế quan Mỹ:** Chính sách thuế quan bảo hộ từ Mỹ gây áp lực lên chuỗi cung ứng -> **Tiêu cực** -> Cần thận trọng với nhóm xuất khẩu chủ lực sang Mỹ gồm **Dệt may (TNG, MSH)** và **Thủy sản (VHC)**.
+- **Tin tức:** Việt Nam được định vị là "Asia’s Rising Power" (Điểm 2) và xem xét triển khai bán khống (Short Selling) phục vụ nâng hạng (Điểm 7). -> **Đánh giá:** Tích cực -> **Dòng tiền:** Nhóm BĐS Khu công nghiệp (KBC, GVR, SZC), Logistic (GMD) và Tài chính - Chứng khoán (SSI, VND, VCI, HCM).
+- **Tin tức:** Chính sách thuế quan của Trump gây áp lực lên xuất khẩu sang Mỹ. -> **Đánh giá:** Tiêu cực -> **Dòng tiền:** Thận trọng với nhóm Dệt may (TNG, MSH) và Thủy sản (VHC).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, GVR, SZC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng dịch chuyển FDI và dư địa quỹ đất khu công nghiệp.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại nhóm BĐS KCN sau các báo cáo tích cực từ Bloomberg.
-  - Hành động: **Chú ý giải ngân** tại các vùng hỗ trợ kỹ thuật.
-- **Mã: SSI, VND, VCI, HCM**
-  - Động lực (FA): Đề án bán khống là chất xúc tác mạnh cho thanh khoản và nâng hạng thị trường.
-  - Nhận định dòng tiền: Nhóm chứng khoán đóng vai trò dẫn dắt tâm lý, kỳ vọng tăng trưởng khối lượng giao dịch.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự ngắn hạn.
-- **Mã: TNG, VHC, MSH**
-  - Động lực (FA): Rủi ro từ hàng rào thuế quan Mỹ.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn.
-  - Hành động: **Rủi ro vi phạm kịch bản**, hạn chế gia tăng tỷ trọng.
+- **Mã:** SSI, VND, VCI, HCM
+- **Động lực (FA):** Thông tin về lộ trình cho phép bán khống (Short Selling) nhằm hoàn thiện cấu trúc thị trường để nâng hạng.
+- **Nhận định dòng tiền:** Gia tăng kỳ vọng vào thanh khoản và sự đa dạng hóa sản phẩm phái sinh. Dòng tiền đầu cơ và khối ngoại khả năng sẽ phản ứng nhanh với nhóm chứng khoán.
+- **Hành động:** Chú ý giải ngân (tập trung vào các mã đầu ngành có thị phần môi giới lớn).
+
+- **Mã:** KBC, GVR, SZC, GMD
+- **Động lực (FA):** Việt Nam thu hút dòng vốn FDI mạnh mẽ, củng cố vị thế chuỗi cung ứng toàn cầu.
+- **Nhận định dòng tiền:** Xu hướng trung hạn tích cực, thu hút dòng tiền bền vững.
+- **Hành động:** Tiếp tục quan sát để tìm điểm vào tại các nhịp điều chỉnh trong phiên (nếu có).
+
+- **Mã:** TNG, VHC, MSH
+- **Động lực (FA):** Rủi ro hàng rào thuế quan từ thị trường Mỹ.
+- **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn.
+- **Hành động:** Rủi ro vi phạm kịch bản; cân nhắc hạ tỷ trọng nếu giá phá vỡ các vùng hỗ trợ kỹ thuật gần nhất.
