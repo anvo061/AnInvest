@@ -1,25 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:00 - 15/08/2026
+⏱ Thời gian: 16:30 - 15/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Doanh số bán lẻ Mỹ suy giảm:** Tác động Tiêu cực đến nhóm xuất khẩu (Thủy sản, Dệt may) do rủi ro cầu tiêu thụ yếu từ thị trường chủ lực.
-- **Nhập siêu ngành điện tử:** Tác động Tiêu cực đến cán cân vĩ mô và áp lực tỷ giá, gây sức ép chi phí lên các doanh nghiệp sản xuất nội địa.
-- **Tự doanh CTCK đảo chiều mua ròng 1.100 tỷ đồng:** Tác động Tích cực, xác nhận dòng tiền thông minh nhập cuộc trở lại, hỗ trợ tâm lý thị trường chung.
+- Nhập siêu ngành điện tử 13 tỉ USD gây áp lực lên cán cân thương mại và tỷ giá -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với các mã sản xuất linh kiện phụ thuộc nguyên liệu nhập khẩu].
+- Định hướng phát triển công nghệ cao tại KKT Dung Quất -> [Tác động: Tích cực] -> [Dòng tiền hướng tới nhóm Bất động sản khu công nghiệp và Logistics khu vực miền Trung].
+- Tự doanh CTCK đảo chiều mua ròng 1.100 tỉ đồng -> [Tác động: Tích cực] -> [Dòng tiền lan tỏa nhóm chứng khoán và vốn hóa lớn (Bluechips)].
+- Doanh số bán lẻ Mỹ sụt giảm -> [Tác động: Tiêu cực] -> [Nhóm xuất khẩu (Thủy sản VHC, Dệt may TNG) chịu rủi ro giảm cầu].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VHC, TNG**
-    - Động lực (FA): Doanh số bán lẻ Mỹ giảm.
-    - Nhận định dòng tiền: Áp lực bán ngắn hạn gia tăng do lo ngại tăng trưởng xuất khẩu chậm lại.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng nếu ngưỡng hỗ trợ kỹ thuật bị xuyên thủng.
 - **Mã: SSI**
-    - Động lực (FA): Dòng tiền tự doanh đảo chiều mua ròng mạnh.
-    - Nhận định dòng tiền: Thu hút lực cầu ngắn hạn, củng cố vị thế dẫn dắt thanh khoản.
-    - Hành động: **Chú ý giải ngân** theo đà tăng của nhóm chứng khoán.
-- **Mã: GMD, CTD, CTG, HDB**
-    - Động lực (FA): KQKD Q2/2026 tăng trưởng và triển vọng tích cực từ Analyst meeting.
-    - Nhận định dòng tiền: Dòng tiền tổ chức có sự phân hóa vào các mã có cơ bản tốt, tạo vùng đệm an toàn.
-    - Hành động: **Tiếp tục quan sát** vị thế nắm giữ, chặn lãi chủ động theo đường xu hướng.
-- **Mã: Khu Công nghiệp (đại diện nhóm ngành hưởng lợi từ FDI tại Dung Quất)**
-    - Động lực (FA): Định hướng thu hút dự án công nghệ cao tại Dung Quất.
-    - Nhận định dòng tiền: Dòng tiền trung hạn bắt đầu dịch chuyển tìm cơ hội tại các mã có quỹ đất hạ tầng khu vực miền Trung.
-    - Hành động: **Chú ý giải ngân** đối với các mã hạ tầng có thị phần lớn tại miền Trung.
+  - Động lực (FA): Hưởng lợi từ sự đảo chiều mua ròng mạnh mẽ của khối tự doanh và xu hướng chuyển đổi số tài khoản online.
+  - Nhận định dòng tiền: Dòng tiền thông minh xác nhận sự tự tin, hỗ trợ cấu trúc tăng giá ngắn hạn.
+  - Hành động: Chú ý giải ngân theo nhịp chỉnh.
+- **Mã: VHC / TNG**
+  - Động lực (FA): Doanh số bán lẻ Mỹ suy yếu trực tiếp đe dọa biên lợi nhuận và đơn hàng xuất khẩu.
+  - Nhận định dòng tiền: Rủi ro áp lực bán gia tăng khi kỳ vọng phục hồi xuất khẩu bị lung lay.
+  - Hành động: Rủi ro vi phạm kịch bản, cần quan sát phản ứng tại vùng hỗ trợ gần nhất.
+- **Mã: GMD / CTG**
+  - Động lực (FA): Kết quả kinh doanh Q2/2026 tăng trưởng thực tế, minh bạch hóa từ Analyst Meeting.
+  - Nhận định dòng tiền: Dòng tiền tổ chức có xu hướng bền vững với các cổ phiếu có nền tảng cơ bản và tăng trưởng rõ ràng.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi có điểm re-test nền giá.
+- **Mã: MSH**
+  - Động lực (FA): Tăng trưởng Q2/2026 mạnh mẽ, tách biệt khỏi xu hướng chung của ngành dệt may.
+  - Nhận định dòng tiền: Tạo tín hiệu tích cực riêng biệt trong nhóm ngành.
+  - Hành động: Tiếp tục nắm giữ, theo dõi vùng kháng cự tiếp theo.
