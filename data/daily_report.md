@@ -1,21 +1,16 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:15 - 15/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 10:15 - 15/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- FTSE theo dõi sát sao dòng vốn ngoại rút ròng tại Việt Nam -> **Tiêu cực** -> Dòng tiền ngắn hạn sẽ chịu áp lực bán tại nhóm **Bluechips (VN30)**, gây nhiễu động tâm lý toàn thị trường.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Dòng vốn ngoại tiếp tục rút ròng mạnh (hơn 2.000 tỷ VNĐ/tuần) và áp lực tái cơ cấu danh mục từ các quỹ ETF (FTSE) đang tạo sức ép lớn lên nhóm Bluechips (VHM, HPG, VCB, VIC, MSN).** -> **Tiêu cực** -> Dòng tiền ngắn hạn sẽ tiếp tục bị rút khỏi các mã trụ cột này, gây khó khăn cho chỉ số chung và có khả năng kích hoạt tâm lý thận trọng lan rộng ra toàn thị trường.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới có xu hướng tăng.
-- Nhận định dòng tiền: Hỗ trợ tích cực cho nhóm thượng nguồn, tạo xung lực ngược chiều với đà bán ròng của khối ngoại tại nhóm trụ.
-- Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì sự lan tỏa, quan sát kỹ vùng cản kỹ thuật.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD**
+    - **Động lực (FA):** Giá dầu thế giới có xu hướng đi lên.
+    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ biên lợi nhuận cải thiện ở phân khúc thượng nguồn; dòng tiền có xu hướng luân chuyển vào nhóm năng lượng khi nhóm vốn hóa lớn bị khối ngoại bán ròng.
+    - **Hành động:** Chú ý giải ngân nếu giá duy trì vùng hỗ trợ kỹ thuật, tận dụng sự lệch pha giữa sức mạnh ngành dầu khí và áp lực chung từ Bluechips.
 
-- Mã: **VCB, VHM, HPG, MSN, VIC**
-- Động lực (FA): Áp lực bán ròng từ khối ngoại liên quan đến tái cơ cấu danh mục theo chuẩn FTSE.
-- Nhận định dòng tiền: Áp lực cung lớn, cản trở nhịp tăng ngắn hạn. 
-- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên phòng thủ, tránh bắt đáy khi dòng vốn ngoại chưa có dấu hiệu dừng bán.
-
-- Mã: **QNS**
-- Động lực (FA): Ngày 18/08 GDKHQ trả cổ tức tiền mặt (1.000đ/cp).
-- Nhận định dòng tiền: Duy trì tâm lý tích cực, hỗ trợ giá ổn định trong ngắn hạn.
-- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền quanh vùng giá hiện tại.
+- **Mã: HDB**
+    - **Động lực (FA):** Báo cáo từ Vietcap khẳng định vị thế dẫn đầu về ROE năm 2026.
+    - **Nhận định dòng tiền:** Điểm sáng hiếm hoi trong nhóm ngân hàng, khả năng thu hút dòng tiền "thông minh" tìm kiếm giá trị thực thay vì nhóm bị khối ngoại bán tháo.
+    - **Hành động:** Tiếp tục quan sát đà tăng, đây là mã chiến lược có thể giữ bất chấp áp lực thị trường chung.
