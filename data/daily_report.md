@@ -1,25 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:45, ngày 17/08/2026
+⏱ Thời gian: 02:45 ngày 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá USD/VND hạ nhiệt mạnh** -> Tích cực -> Dòng tiền sẽ hướng vào nhóm doanh nghiệp có nợ vay USD lớn hoặc nhập khẩu nguyên liệu đầu vào (Điện, Hàng không, Thép).
-- **Nâng cấp quan hệ kinh tế Việt - Mỹ & Triển vọng nâng hạng thị trường (FTSE)** -> Tích cực -> Củng cố xu hướng dòng vốn FDI và vốn ngoại (ETF) trung dài hạn, hỗ trợ nhóm Khu công nghiệp, Xuất khẩu và các mã vốn hóa lớn (Blue-chips).
-- **Mỹ thiếu hụt nguồn cung khoáng sản chiến lược** -> Tích cực -> Nhóm khai thác tài nguyên (Vonfram, Đất hiếm) thu hút dòng tiền đầu cơ dựa trên câu chuyện chuỗi cung ứng toàn cầu.
+- **Tỷ giá USD/VND giảm mạnh:** -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm doanh nghiệp có nợ vay USD lớn hoặc chi phí đầu vào nhập khẩu cao (Điện, Hàng không, Thép).
+- **Nâng cấp quan hệ kinh tế Việt - Mỹ:** -> [Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm Khu công nghiệp (FDI) và Xuất khẩu (Dệt may, Thủy sản).
+- **Kỳ vọng nâng hạng thị trường (FTSE):** -> [Tích cực (Dài hạn)] -> Hỗ trợ nhóm cổ phiếu trụ vốn hóa lớn (Chứng khoán, Ngân hàng, Thép).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: KBC, VHC, TNG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ việc thắt chặt quan hệ kinh tế Việt - Mỹ, ưu đãi thương mại và dịch chuyển chuỗi cung ứng.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại nhóm xuất khẩu và BĐS KCN; lực cầu có khả năng gia tăng ở các vùng hỗ trợ kỹ thuật.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật về vùng giá nền.
+    - Động lực (FA): Hưởng lợi trực tiếp từ việc thắt chặt quan hệ kinh tế Việt - Mỹ, mở rộng FDI và đơn hàng xuất khẩu.
+    - Nhận định dòng tiền: Dòng tiền kỳ vọng có sự lan tỏa tích cực khi các thông tin ngoại giao được cụ thể hóa bằng các hiệp định.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
 - **Mã: POW, HVN, HPG**
-  - Động lực (FA): Tỷ giá USD hạ nhiệt giúp cải thiện biên lợi nhuận ròng, giảm lỗ chênh lệch tỷ giá và chi phí nhập khẩu.
-  - Nhận định dòng tiền: Hưởng lợi từ sự ổn định vĩ mô, giảm áp lực bán ròng từ khối ngoại.
-  - Hành động: Tiếp tục quan sát để gom hàng ở vùng hỗ trợ.
+    - Động lực (FA): Áp lực tỷ giá hạ nhiệt giúp tối ưu hóa chi phí tài chính và giảm lỗ tỷ giá.
+    - Nhận định dòng tiền: Giảm áp lực bán ròng từ khối ngoại, cải thiện biên lợi nhuận ròng.
+    - Hành động: Tiếp tục nắm giữ, theo dõi phản ứng giá tại các vùng cản ngắn hạn.
 - **Mã: MSR**
-  - Động lực (FA): Nhu cầu vonfram của Mỹ trong bối cảnh thiếu hụt nguồn cung từ Trung Quốc.
-  - Nhận định dòng tiền: Hưởng lợi từ câu chuyện vĩ mô mang tính chiến lược, dễ tạo sóng đầu cơ.
-  - Hành động: Tiếp tục quan sát diễn biến cung cầu, thận trọng với biến động giá nhanh.
+    - Động lực (FA): Mỹ đang tìm kiếm chuỗi cung ứng khoáng sản thay thế Trung Quốc; MSR sở hữu lợi thế về trữ lượng Vonfram.
+    - Nhận định dòng tiền: Có khả năng xuất hiện dòng tiền đầu cơ dựa trên câu chuyện chuỗi cung ứng chiến lược.
+    - Hành động: Theo dõi sát sao khối lượng giao dịch đột biến.
 - **Mã: SSI, VHM, VCB**
-  - Động lực (FA): Các trụ cột chính hưởng lợi từ lộ trình nâng hạng thị trường (FTSE).
-  - Nhận định dòng tiền: Dòng vốn ETF sẽ tập trung vào nhóm này; áp lực bán ngắn hạn là cơ hội cơ cấu danh mục.
-  - Hành động: Chú ý giải ngân trong các phiên thị trường lùi về 1.700 điểm.
+    - Động lực (FA): Nhóm dẫn dắt trong kịch bản nâng hạng thị trường.
+    - Nhận định dòng tiền: Hút dòng vốn ETF ngoại, dù ngắn hạn có thể biến động theo áp lực rũ bỏ vùng 1.700.
+    - Hành động: Quan sát vùng hỗ trợ tâm lý 1.700 điểm để giải ngân tích lũy.
