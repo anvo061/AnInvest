@@ -1,5 +1,34 @@
 ﻿[
   {
+    "Title": "Vietnam PM Seeks Closer US Economic Ties After Diplomatic Upgrade - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGVpX2QwSkdIMFYyVUNlZzh2ODBiSVRBSUJESWpqcGVGaHFjNGZTa25uU2RBbEpkdFIxaDg0WnhmWmthSTNNSDhmNzZza0s1bHByb3RJT0RqTEFMV0NhcnpUMjhRSmFESTd1U1RCeGt2aGUwbHJBNnVZY1pxLU4xSFpVMV9OOE5pbnExOVlzenU3ZDNzWDBCUk9Fckg3Z2lpeVFMenlHbWFwZ0Z1WjVYcTFpOA?oc=5",
+    "PubDate": "Tue, 19 Sep 2023 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc nâng cấp quan hệ ngoại giao và kinh tế với Mỹ mở ra cơ hội lớn cho dòng vốn FDI chất lượng cao, thúc đẩy xuất khẩu và phát triển hạ tầng khu công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin vĩ mô định hướng dài hạn, chưa có tác động dòng tiền tức thời. Cần theo dõi lộ trình thực thi cụ thể để đánh giá tác động thực tế lên biên lợi nhuận doanh nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng và thu hút FDI từ các tập đoàn Mỹ."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị trường Mỹ là trọng điểm, quan hệ ngoại giao tốt giúp giảm rào cản thương mại và thuế quan."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đơn hàng dệt may từ Mỹ kỳ vọng tăng trưởng nhờ ưu đãi thương mại và chuỗi cung ứng ổn định."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 00:54:02"
+  },
+  {
     "Title": "Cục Hàng không Việt Nam: Chuyến bay VN34 va quệt đuôi khi cất cánh, 287 người an toàn",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/cuc-hang-khong-viet-nam-chuyen-bay-vn34-va-quet-duoi-khi-cat-canh-287-nguoi-an-toan-100260816222558564.htm",
@@ -16696,18 +16725,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 09:55:43"
-  },
-  {
-    "Title": "'Làn sóng' gom cổ phiếu của lãnh đạo doanh nghiệp chưa dừng lại - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTcydHJ1aGlGdnR4Vjg1NlFUNnNxWUVqOHU2WUp3bTRuRUlrcy1jWDFfTm9pNm1xTExiQ1NOd3d5Z3NTRkRjSFRlc2IyaDVDYnN1dVVycnlaOXRuT25xLUlFYllpR2Z1Rk9zTXBZT1Rtb2FHS3Q0Y3ZGZnFydTBJVmlYQl9DamhEalZaSGlxNjRZWWJLS3UxSmF3elZua3F3YV9z?oc=5",
-    "PubDate": "Sun, 09 Aug 2026 00:17:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc lãnh đạo đăng ký mua vào cổ phiếu tạo tín hiệu tích cực về niềm tin nội bộ, giúp củng cố vùng giá hỗ trợ và kích thích tâm lý nhà đầu tư cá nhân.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Cổ phiếu có giao dịch nội bộ. Hành động mua vào từ lãnh đạo là tín hiệu 'smart money' xác nhận vùng định giá rẻ. Dòng tiền sẽ tập trung vào các mã có thị giá chiết khấu sâu.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 07:48:20"
   }
 ]
