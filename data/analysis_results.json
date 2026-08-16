@@ -1,5 +1,31 @@
 ﻿[
   {
+    "Title": "Một doanh nghiệp điện có Chủ tịch bị bắt thông báo nóng về nhân sự - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdndMbHB3ZEFRcWpWVV9TMFdVc1FrNlY5SmdVeVpNNjZYV2k3ZGQ2eFF2aUlxaGNMQkV0WXJMWVFaYmtJYU9JNG9rQ2FEVTZCM01YMHFjakk4aFQ3a1JKQy1ESUNkMWNaaTBwUHRKLWx0M3JrRGJpOVlRc3BrMWJRRXdYSGNMS1lsU1lmdzlxWkY2WGdPWmZRSVR2QXVZWkloNEdXUXRzZw?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 04:02:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức về thay đổi nhân sự hành chính tại một doanh nghiệp cụ thể không gây tác động lan tỏa đến nhóm ngành điện hay thị trường chung.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Tin tức nhân sự mang tính chất hành chính nội bộ, không thay đổi cấu trúc dòng tiền hay triển vọng kinh doanh của nhóm ngành điện.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 14:06:25"
+  },
+  {
+    "Title": "Hiện tượng gây chú ý tại Phát Đạt, Khang Điền, Novaland... - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczBHZ1ZPa2cwQUx1VGNRYkhuaEd4SUJSUDRGdEpsVTR2Wld2Y0dUOWozcXlzX3hKcmJLWHViSnliYWtPdzhZZkp0dnFoMmZIdGZrYy12bE8yS1c3YXcwR0NlY3prNFVmZFpVaFJpMzllcDJuOTNubDFLcmhuUUFlSXE5OVB1Uld2Tkh0TDNvV1Z1TzFZcnAzcQ?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 08:49:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức mang tính chất tổng hợp thị trường, không chứa thông tin mới về tài chính, dự án hay thay đổi cơ bản của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Tin tức tổng hợp không có thông tin định hướng dòng tiền mới. Không có tác động đến xu hướng giá ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 14:06:16"
+  },
+  {
     "Title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
@@ -16702,42 +16728,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-09 00:28:45"
-  },
-  {
-    "Title": "Rủi ro thiếu khí đốt mùa đông tái rình rập châu Âu",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/rui-ro-thieu-khi-dot-mua-dong-tai-rinh-rap-chau-au-5106914.html",
-    "PubDate": "Sun, 09 Aug 2026 00:03:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá khí đốt toàn cầu tăng cao do lo ngại thiếu hụt nguồn cung tại châu Âu tạo động lực tăng giá bán khí nội địa và thúc đẩy nhu cầu thăm dò, khai thác dầu khí tại Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá khí thế giới tăng gây áp lực chi phí đầu vào cho các ngành hạ nguồn. Tác động đến thượng nguồn (PVS, PVD) cần thời gian thẩm thấu, chưa tạo đột biến dòng tiền ngay lập tức.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá khí cao thúc đẩy các dự án thăm dò, khai thác, tăng khối lượng công việc mảng dịch vụ kỹ thuật."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu khoan thăm dò tăng giúp cải thiện giá thuê giàn khoan và hiệu suất hoạt động."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 00:28:30"
-  },
-  {
-    "Title": "FUEBFVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 06/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDVFSjhMeTg0N3BMUnFaNHZtNEpCUVVEMk0ybU5YZjRacXdaUlhtbGFjVEtjRUFFV2Z1QkU3Q1dZQlE2MUNiajg3Y0N3VmVnOFA3ZDRWNVAxSEI2bmp5blItVktSZjVOengzZDY4NS1PSHpROXJPcXItVE9oZHBieVJoa1VRUnFZd2FoemhKR3JsY0RPaVZ3NlY1RTZjTFhSZjJ3alpPUFFPYUtLNHg0UG5xZWVlM0tNdk5jcHMwUnZlQzdfVzRqNHIxRnc1NEliMms0?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 02:06:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đáng kể trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 00:00:16"
   }
 ]
