@@ -1,20 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:20
+⏱ Thời gian: 14:55 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Leo thang địa chính trị tại eo biển Hormuz:** Đẩy giá dầu thế giới lên cao -> [Tác động: Tiêu cực với ngành Vận tải biển/Cảng biển (chi phí vận hành tăng); Tích cực với ngành Dầu khí thượng nguồn (giá dịch vụ tăng)] -> [Dòng tiền phân hóa: Rút khỏi nhóm HAH, GMD; Tập trung vào nhóm PVD, PVS].
-- **Đồng USD suy yếu (số liệu bán lẻ Mỹ thấp hơn kỳ vọng):** Giảm áp lực tỷ giá lên NHNN -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm doanh nghiệp vay nợ USD lớn, có nhu cầu nhập khẩu nguyên liệu cao như POW].
+- **Căng thẳng tại eo biển Hormuz leo thang làm giá dầu thế giới tăng cao** -> **Tiêu cực** đối với nhóm vận tải biển do chi phí vận hành/bảo hiểm tăng, nhưng **Tích cực** đối với nhóm thượng nguồn dầu khí do cải thiện đơn giá dịch vụ -> **Dòng tiền hướng vào:** Nhóm Dầu khí (PVD, PVS), rút ra khỏi nhóm Vận tải biển (HAH, GMD).
+- **Trung Quốc nới lỏng quy định mua nhà** -> **Tích cực** (gián tiếp) -> **Dòng tiền hướng vào:** Nhóm Thép (NKG), Vật liệu xây dựng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Căng thẳng địa chính trị tại eo biển Hormuz đẩy giá dầu tăng, nhu cầu giàn khoan và đơn giá dịch vụ thượng nguồn dự kiến cải thiện.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ xung lực giá dầu, kỳ vọng dòng tiền đầu cơ sẽ chú ý vào nhóm PVD trong ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu giá test lại ngưỡng hỗ trợ kỹ thuật trong phiên.
-- **Mã: PPH**
-  - Động lực (FA): Báo cáo tăng trưởng lợi nhuận Q2/2026 mạnh mẽ, phản ánh sự phục hồi đơn hàng dệt may.
-  - Nhận định dòng tiền: Dòng tiền nội tại mạnh, có thể duy trì đà tăng ngắn hạn nhờ động lực kết quả kinh doanh xác thực.
-  - Hành động: Tiếp tục quan sát đà tăng, quản trị rủi ro ở vùng đỉnh cũ.
-- **Mã: GMD, HAH**
-  - Động lực (FA): Căng thẳng eo biển Hormuz làm tăng chi phí bảo hiểm và nhiên liệu vận tải.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị thu hẹp.
-  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, cần theo dõi sát phản ứng tại các vùng hỗ trợ cứng.
+- **Mã:** PVD
+- **Động lực (FA):** Căng thẳng địa chính trị tại eo biển Hormuz đẩy giá dầu kỳ vọng tăng, trực tiếp thúc đẩy nhu cầu và đơn giá cho thuê giàn khoan.
+- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ xung lực vĩ mô, dòng tiền có xu hướng tìm đến các mã có độ nhạy cao với giá dầu.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+
+- **Mã:** HAH
+- **Động lực (FA):** Căng thẳng eo biển Hormuz làm tăng chi phí nhiên liệu và rủi ro gián đoạn chuỗi cung ứng toàn cầu.
+- **Nhận định dòng tiền:** Áp lực biên lợi nhuận thu hẹp có thể kích hoạt tâm lý chốt lời hoặc cơ cấu lại danh mục của khối ngoại/tổ chức.
+- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ.
+
+- **Mã:** NKG
+- **Động lực (FA):** Trung Quốc nới lỏng chính sách BĐS, kỳ vọng nhu cầu nhập khẩu thép hồi phục.
+- **Nhận định dòng tiền:** Tâm lý tích cực từ thị trường khu vực có thể tạo lực cầu ngắn hạn.
+- **Hành động:** Tiếp tục quan sát phản ứng dòng tiền tại vùng giá hiện tại.
