@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "Giá vàng giằng co trong 1 tháng qua: Từ đỉnh 147,6 triệu xuống đáy 135 triệu đồng/lượng và liên tiếp phục hồi, tiếp theo sẽ đi về đâu? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ20ySU1lT2NadjdORHdCQ3ItRnVqQXJUaVJBSW1vTFlDTm1Mb0dtdTBOV1o2ak0yV1dHSUFTWU9teHpWYUJVdjVxMkhOYnFOWnJ6NVFKRWdSMW9xTWFDNUxYNlBhc3FQaXdVcHhmdTdTb2ZhQWh1eXlCZ3RKUlJ2Y3MyandCejJLbXZTT3VXVk9LNzRPMnJ1Um5wNE5WNHI2eTRnckZCam1MeFp3bGRTNF81RGFJTUJybzdhTGM1TzRXNW9UQ2twOE1IeFdPQjdZU3l4dmdDYUc5Z21yV3N2aFhTQm53OXdXcXdWbzJ0cEU5RVZRRnZvaFMtcUlpVHM?oc=5",
+    "PubDate": "Sun, 16 Aug 2026 08:35:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng trong nước chủ yếu chịu ảnh hưởng bởi thị trường quốc tế và chính sách quản lý, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng là yếu tố vĩ mô độc lập, không tạo ra dòng tiền dịch chuyển trực tiếp vào các mã cổ phiếu niêm yết trên HOSE/HNX.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 21:44:57"
+  },
+  {
     "Title": "FTSE Decision Looms for Vietnam After Record-Setting Rally - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOG5mLVp3ZGpDN0RabzQzY0k5dnlGai1qaHlHS1MyN2c0Q182VERRY2ZfZ2hRSFZKajBIVUtWMGhwVWZSSi1nQ0w1ZmtULU11SVo5NHhQdEh2aVhvZDYwcDVJTWszWFQtMWZFWWpYMUlSemVJa3FZb0U5LU5TX0FvUFJIRVVJS0dkV2FmRlgtUnpLTUtVQVctQk91cExvS2FIaXdaaFVIY01wYndTTFE?oc=5",
@@ -16686,29 +16699,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 05:53:26"
-  },
-  {
-    "Title": "Gần nửa triệu tấn thịt nhập khẩu đổ bộ thị trường, giá rẻ bất ngờ",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gan-nua-trieu-tan-thit-nhap-khau-do-bo-thi-truong-gia-re-bat-ngo-2542406.html",
-    "PubDate": "Sun, 09 Aug 2026 05:45:00 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Nguồn cung thịt nhập khẩu giá rẻ gia tăng gây áp lực cạnh tranh trực tiếp lên giá bán thịt nội địa, làm thu hẹp biên lợi nhuận của các doanh nghiệp chăn nuôi trong nước.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chăn nuôi. Nguồn cung giá rẻ gây áp lực lên giá heo hơi nội địa. DBC, BAF chịu rủi ro biên lợi nhuận ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DBC",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực cạnh tranh từ thịt nhập khẩu giá rẻ làm giảm giá bán đầu ra, ảnh hưởng trực tiếp đến biên lợi nhuận mảng chăn nuôi."
-      },
-      {
-        "Ticker": "BAF",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Nguồn cung dồi dào từ nhập khẩu gây khó khăn cho việc duy trì giá bán heo hơi ở mức cao, ảnh hưởng doanh thu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 05:53:12"
   }
 ]
