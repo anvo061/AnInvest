@@ -1,23 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 17/08/2026
+⏱ Thời gian: 06:10 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam tăng cường quan hệ kinh tế Mỹ & tiềm năng nâng hạng FTSE -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục vào nhóm Khu công nghiệp (bất động sản KCN), Tài chính (Chứng khoán) và Xuất khẩu (Thủy sản, Dệt may).
+- Thủ tướng thúc đẩy quan hệ kinh tế sâu rộng với Mỹ trong bối cảnh nâng cấp ngoại giao -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Khu công nghiệp (hưởng lợi FDI), Thủy sản và Dệt may (xuất khẩu chủ lực sang Mỹ).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, VHC, TNG**
-    - Động lực (FA): Hưởng lợi từ làn sóng FDI Mỹ và giảm rào cản thương mại hậu nâng cấp ngoại giao.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại (ETF) giải ngân đón đầu làn sóng nâng hạng và chuỗi cung ứng mới.
-    - Hành động: **Chú ý giải ngân** tại các nhịp rung lắc kỹ thuật quanh vùng hỗ trợ.
-- **Mã: SSI, VHM, HPG, VCB**
-    - Động lực (FA): Các trụ cột chính trong danh mục các quỹ ETF ngoại, hưởng lợi từ dòng vốn thụ động khi thị trường được nâng hạng.
-    - Nhận định dòng tiền: Áp lực điều chỉnh ngắn hạn (rũ cung) là cơ hội tích lũy cho tầm nhìn trung hạn.
-    - Hành động: **Tiếp tục quan sát** biên độ dao động, ưu tiên tích lũy khi áp lực bán giảm dần.
-- **Mã: DVP**
-    - Động lực (FA): Kết quả kinh doanh vượt kế hoạch 6 tháng, lượng tiền mặt ròng gần 500 tỷ.
-    - Nhận định dòng tiền: Nền tảng tài chính vững chắc tạo bệ đỡ cho định giá, thu hút dòng tiền đầu tư giá trị trong bối cảnh thị trường biến động.
-    - Hành động: **Chú ý giải ngân** nếu có nhịp test lại vùng nền giá an toàn.
-- **Mã: MSR**
-    - Động lực (FA): Cơ hội từ chuỗi cung ứng khoáng sản chiến lược Mỹ-Việt.
-    - Nhận định dòng tiền: Tín hiệu hưởng lợi từ câu chuyện vĩ mô quốc tế, thanh khoản có thể cải thiện nhờ kỳ vọng thị trường ngách.
-    - Hành động: **Tiếp tục quan sát** khối lượng giao dịch để xác nhận xu hướng.
+- Mã: **KBC**
+  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng và thu hút vốn FDI từ các tập đoàn Mỹ sau nâng cấp quan hệ ngoại giao.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại nhóm vốn hóa lớn hạ tầng khu công nghiệp, hỗ trợ đà tăng ngắn hạn.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật quanh vùng hỗ trợ.
+
+- Mã: **MSR**
+  - Động lực (FA): Mỹ gia tăng nhu cầu khoáng sản chiến lược (Vonfram) để giảm phụ thuộc vào nguồn cung Trung Quốc.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ khả năng cao sẽ tìm đến các mã có câu chuyện "độc quyền/chiến lược" trong bối cảnh địa chính trị mới.
+  - Hành động: Tiếp tục quan sát biến động khối lượng; nếu break-out nền giá tích lũy, cân nhắc vị thế thăm dò.
+
+- Mã: **VHC**
+  - Động lực (FA): Cải thiện rào cản thương mại và ưu đãi thuế quan từ thị trường Mỹ nhờ nâng cấp quan hệ ngoại giao.
+  - Nhận định dòng tiền: Phản ứng tích cực sớm ở nhóm xuất khẩu, dòng tiền thông minh có xu hướng gom hàng tại vùng giá trị nội tại.
+  - Hành động: Chú ý giải ngân theo tỷ trọng giải ngân cho danh mục xuất khẩu.
+
+- Mã: **SSI / HPG / VHM / VCB**
+  - Động lực (FA): Động lực từ lộ trình nâng hạng thị trường FTSE, chuẩn bị đón sóng vốn thụ động (ETF).
+  - Nhận định dòng tiền: Áp lực điều chỉnh kỹ thuật để rũ bỏ cung giá thấp (đặc biệt quanh 1.700 điểm) là cơ hội tái cơ cấu danh mục vào các trụ cột này.
+  - Hành động: Chú ý giải ngân tích lũy dài hạn.
