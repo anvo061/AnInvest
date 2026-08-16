@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Lãi giảm hơn 90%, ‘ông lớn' hạ tầng lấy tiền đâu mua lại 108 tỷ đồng trái phiếu?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vay-no-lon-loi-nhuan-boc-hoi-cii-lay-tien-dau-mua-truoc-han-108-ty-trai-phieu-2545622.html",
+    "PubDate": "Mon, 17 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Lợi nhuận sụt giảm mạnh kết hợp với áp lực thanh toán trái phiếu tạo rủi ro về dòng tiền và khả năng trả nợ của doanh nghiệp, gây tâm lý tiêu cực cho nhà đầu tư.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - CII. Lợi nhuận sụt giảm 90% cùng áp lực nợ trái phiếu tạo rủi ro thanh khoản. Dòng tiền thông minh sẽ thận trọng, áp lực bán kỹ thuật gia tăng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "CII",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lợi nhuận giảm sâu và áp lực trả nợ trái phiếu làm suy yếu sức khỏe tài chính, gây áp lực lên giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 06:09:01"
+  },
+  {
     "Title": "Con trai mua bảo hiểm rồi qua đời, người mẹ chật vật đòi hơn 2,3 tỷ đồng",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/con-trai-mua-bao-hiem-roi-qua-doi-nguoi-me-chat-vat-doi-hon-2-3-ty-dong-2545902.html",
@@ -16691,24 +16710,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 09:57:12"
-  },
-  {
-    "Title": "MSN: 23.6.2027, giao dịch 14.459.154 cp niêm yết bổ sung - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNME5pWk9DVEpwWVdPVDl0c05BNmpLSDlmcENmeEZHWi1TY2MxcDhrRVg1eDZTSUhSRmowY1BBZkZoT01OcXZ0SExDcm1pcHBHZ01CQ1JxczZWbGdDWS0yRFFiYktQT3pudTNsVWNWR0Y2WmVnNndKN2RhX1dCVWdtUk1TenBMSlMzUHFGRWtCeFNKVjJxeXc?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Việc niêm yết bổ sung cổ phiếu làm tăng số lượng cổ phiếu lưu hành, gây áp lực pha loãng nhẹ lên EPS và cung cổ phiếu trên thị trường trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - MSN. Lượng cổ phiếu bổ sung không quá lớn so với vốn hóa. Áp lực cung ngắn hạn có thể xuất hiện nhưng không làm thay đổi xu hướng dòng tiền dài hạn của MSN.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "MSN",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Tăng số lượng cổ phiếu lưu hành gây áp lực pha loãng nhẹ, nhưng không ảnh hưởng đến hoạt động kinh doanh cốt lõi."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 09:56:56"
   }
 ]
