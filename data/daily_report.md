@@ -1,24 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:30 - 16/08/2026
+⏱ Thời gian: 20:20
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tín hiệu NHNN mua ngoại tệ giao ngay:** Tạo thanh khoản tiền đồng dồi dào, giảm áp lực lãi suất -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, BID, TCB)**.
-- **Dự án khai thác mỏ khí 113 tỷ m3:** Kích hoạt chuỗi giá trị năng lượng thượng nguồn -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí (GAS, PVS, PVD)**.
-- **Áp lực bán ròng khối ngoại (80.000 tỷ từ đầu năm):** Gây rào cản tâm lý lên nhóm trụ -> **Tiêu cực** -> Thận trọng với nhóm **Bluechips (VHM, HPG, MSN, VIC, VNM)**.
-- **Thoái vốn tài sản tại CTG:** Cải thiện tỷ lệ an toàn vốn (CAR) -> **Tích cực** -> Dòng tiền ngắn hạn vào **CTG**.
+- **Tín hiệu NHNN:** VDSC dự báo NHNN có dư địa mua ngoại tệ giao ngay -> **Tích cực:** Tăng dự trữ ngoại hối, bơm thanh khoản tiền đồng, giảm áp lực lãi suất -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, BID, TCB)**.
+- **Biến động giá dầu:** Iran đàm phán nới lỏng tại eo biển Hormuz làm hạ nhiệt giá dầu -> **Tiêu cực:** Ảnh hưởng đến kỳ vọng lợi nhuận nhóm thượng nguồn dầu khí -> Dòng tiền sẽ thận trọng với **PVD, BSR**.
+- **Dòng vốn ngoại:** Áp lực bán ròng khối ngoại 80.000 tỷ từ đầu năm -> **Tiêu cực:** Tạo rào cản tâm lý cho nhóm **Bluechips (VHM, HPG, MSN, VIC, VNM)**.
+- **Năng lượng & Hạ tầng:** Khởi động dự án khí 113 tỷ m3 & lợi nhuận nhóm điện tăng trưởng mạnh -> **Tích cực:** Củng cố sóng ngành Năng lượng -> Dòng tiền hướng vào **GAS, PVS, POW**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-- **Động lực (FA):** Được hưởng lợi trực tiếp từ dự án khai thác mỏ khí lớn vừa công bố.
-- **Nhận định dòng tiền:** Tin tức cộng hưởng với kỳ vọng thượng nguồn dầu khí sẽ tạo lực đẩy cho PVD trong các phiên tới.
-- **Hành động:** Chú ý giải ngân (Canh nhịp rung lắc để vào vị thế).
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới hạ nhiệt do tin Iran nới lỏng tại Hormuz.
+  - Nhận định dòng tiền: Dù hưởng lợi từ dự án thăm dò khí mới, nhưng tin tức vĩ mô về giá dầu giảm trong ngắn hạn sẽ gây áp lực bán.
+  - Hành động: **Rủi ro vi phạm kịch bản**. Theo dõi chặt ngưỡng hỗ trợ cứng, tránh giải ngân đuổi trong phiên tới.
+- **Mã: DBD**
+  - Động lực (FA): Công bố chi trả cổ tức tiền mặt 20%.
+  - Nhận định dòng tiền: Tạo bệ đỡ giá tốt trong bối cảnh thị trường biến động, thu hút dòng tiền đầu tư giá trị.
+  - Hành động: **Chú ý giải ngân** nếu thị trường rung lắc, ưu tiên nắm giữ cho kỳ vọng cổ tức.
+- **Mã: POW**
+  - Động lực (FA): Kết quả kinh doanh đột biến (+300%) được xác nhận.
+  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các cổ phiếu có tăng trưởng lợi nhuận thực chất thay vì tin đồn.
+  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng đỉnh cũ, sẵn sàng gia tăng tỷ trọng nếu có nhịp test cung thành công.
 
-- **Mã:** CTG
-- **Động lực (FA):** Thoái vốn tài sản tại Ciputra giúp ghi nhận lợi nhuận đột biến.
-- **Nhận định dòng tiền:** Tin tức hỗ trợ trực tiếp giá cổ phiếu, dự kiến thu hút dòng tiền trading ngắn hạn.
-- **Hành động:** Chú ý giải ngân (Theo dõi phản ứng khối lượng tại vùng hỗ trợ).
-
-- **Mã:** POW
-- **Động lực (FA):** Kết quả kinh doanh đột biến (+300%) củng cố nền tảng cơ bản.
-- **Nhận định dòng tiền:** Dòng tiền sẽ tìm đến các mã có câu chuyện lợi nhuận thực tế trong bối cảnh thị trường phân hóa.
-- **Hành động:** Tiếp tục quan sát (Vị thế nắm giữ an toàn).
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Nhận định: Giá dầu hạ nhiệt làm biên lợi nhuận lọc dầu thu hẹp, cộng hưởng với áp lực bán ròng khối ngoại. Vị thế trung hạn cần kiểm tra lại vùng hỗ trợ kỹ thuật quan trọng. Nếu giá gãy xu hướng tích lũy, khuyến nghị **cơ cấu giảm tỷ trọng** để bảo toàn dòng vốn sang các mã ngân hàng đang có trợ lực từ NHNN.
