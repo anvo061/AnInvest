@@ -1,22 +1,13 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:20 (17/08/2026)
+⏱ Thời gian: 03:20 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nâng cấp quan hệ kinh tế Việt - Mỹ & Triển vọng nâng hạng FTSE:** Việc thúc đẩy quan hệ ngoại giao và kỳ vọng nâng hạng thị trường tạo nền tảng thu hút FDI chất lượng và dòng vốn ETF ngoại -> **Tích cực (Dài hạn)** -> Dòng tiền kỳ vọng hướng vào nhóm Bất động sản KCN, Xuất khẩu, Tài chính (Chứng khoán) và các trụ cột vốn hóa lớn.
-- **Chuỗi cung ứng khoáng sản chiến lược:** Mỹ gia tăng nhu cầu tìm kiếm nguồn cung ngoài Trung Quốc -> **Tích cực** -> Nhóm khoáng sản/nguyên liệu (đặc biệt là vonfram/đất hiếm).
+- **Nâng cấp quan hệ kinh tế Việt - Mỹ và câu chuyện nâng hạng thị trường:** Chính phủ thúc đẩy hợp tác sâu rộng với Mỹ và kỳ vọng nâng hạng FTSE là hai trụ cột vĩ mô chủ đạo -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Khu công nghiệp (bất động sản KCN), Xuất khẩu (Thủy sản, Dệt may), Khoáng sản chiến lược và các mã trụ cột vốn hóa lớn (Bluechips).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** KBC, VHC, TNG
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng và ưu đãi thương mại nhờ nâng cấp quan hệ Việt - Mỹ.
-  - **Nhận định dòng tiền:** Gia tăng kỳ vọng tích lũy trung hạn từ khối ngoại; khả năng có sóng dẫn dắt trong nhịp chỉnh kỹ thuật của thị trường.
-  - **Hành động:** Chú ý giải ngân ở các vùng nền hỗ trợ, tránh đuổi giá trong phiên hưng phấn.
-
-- **Mã:** SSI, VHM, HPG, VCB
-  - **Động lực (FA):** Trọng số cao trong danh mục các quỹ ETF ngoại đón đầu làn sóng nâng hạng thị trường.
-  - **Nhận định dòng tiền:** Có thể chịu áp lực rung lắc/rũ bỏ cung giá thấp (test vùng 1.700) trước khi dòng vốn ngoại kích hoạt.
-  - **Hành động:** Tiếp tục quan sát kịch bản rũ bỏ; ưu tiên gom hàng tại các mốc hỗ trợ cứng.
-
-- **Mã:** MSR
-  - **Động lực (FA):** Sở hữu trữ lượng khoáng sản chiến lược (vonfram) trong bối cảnh Mỹ thiếu hụt nhân lực và nguồn cung độc lập.
-  - **Nhận định dòng tiền:** Tín hiệu tích cực cho dòng tiền đầu cơ vào nhóm hàng hóa chiến lược.
-  - **Hành động:** Chú ý giải ngân nếu có xác nhận dòng tiền vượt cản kỹ thuật.
+- **Mã:** KBC, VHC, TNG, MSR, SSI, VHM, HPG, VCB
+- **Động lực (FA):** Sự cộng hưởng từ làn sóng FDI Mỹ, nhu cầu chuỗi cung ứng khoáng sản toàn cầu và đón đầu dòng vốn ngoại (ETF) trước đợt nâng hạng.
+- **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng xoay chuyển từ nhóm đầu cơ sang các mã có nền tảng xuất khẩu tốt và nhóm vốn hóa lớn có trọng số cao trong các bộ chỉ số ngoại.
+- **Hành động:** 
+    - KBC, VHC, TNG, MSR: Chú ý giải ngân tại các nhịp rung lắc kỹ thuật trong phiên (tận dụng tâm lý thị trường quanh vùng 1.700 - 1.720 điểm).
+    - SSI, VHM, HPG, VCB: Tiếp tục nắm giữ, vị thế chiến lược đón đầu dòng vốn thụ động khi thị trường nâng hạng.
