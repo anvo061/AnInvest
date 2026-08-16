@@ -2,24 +2,18 @@
 ⏱ **Thời gian:** 01:25 - 17/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tỷ giá USD/VND hạ nhiệt mạnh:** -> **Tích cực:** Giảm áp lực chi phí tài chính đối với các doanh nghiệp có dư nợ vay USD lớn và giảm áp lực rút vốn ròng của khối ngoại. Dòng tiền sẽ ưu tiên các nhóm ngành: Năng lượng (điện), Hàng không, và Thép (nhập khẩu nguyên liệu).
-- **Triển vọng nâng hạng thị trường (FTSE):** -> **Tích cực (dài hạn):** Áp lực điều chỉnh kỹ thuật quanh mốc 1.700 điểm là cơ hội để dòng vốn ngoại đón đầu nâng hạng, tập trung vào nhóm trụ cột tài chính và vốn hóa lớn.
-- **Nâng cấp quan hệ ngoại giao/kinh tế Việt - Mỹ:** -> **Tích cực:** Thúc đẩy FDI và xuất khẩu. Dòng tiền sẽ hướng vào: Bất động sản Khu công nghiệp và các doanh nghiệp xuất khẩu chủ lực sang thị trường Mỹ.
+- **Tỷ giá USD/VND hạ nhiệt:** Giảm áp lực lên chi phí tài chính của doanh nghiệp vay nợ USD và cải thiện tâm lý khối ngoại -> **Tích cực** -> Nhóm hưởng lợi: Điện (POW), Hàng không (HVN), Thép (HPG).
+- **Nâng cấp quan hệ Việt - Mỹ & Kỳ vọng nâng hạng FTSE:** Mở rộng cơ hội FDI và dòng vốn ETF -> **Tích cực** -> Nhóm ngành trọng tâm: Bất động sản KCN (KBC), Xuất khẩu (VHC, TNG), Tài chính/Trụ cột (SSI, VCB, HPG, VHM).
+- **Chuỗi cung ứng khoáng sản toàn cầu:** Mỹ tìm kiếm nguồn cung thay thế Trung Quốc -> **Tích cực** -> Ngành tài nguyên: MSR.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: KBC, VHC, TNG**
-    - Động lực (FA): Hưởng lợi từ sự cải thiện quan hệ ngoại giao và chuỗi cung ứng với Mỹ.
-    - Nhận định dòng tiền: Kỳ vọng thu hút dòng vốn ngoại đầu tư trực tiếp và gián tiếp (ETF).
-    - Hành động: Chú ý giải ngân khi có nhịp rung lắc về hỗ trợ.
-- **Mã: MSR**
-    - Động lực (FA): Nhu cầu khoáng sản chiến lược (vonfram) từ Mỹ tăng cao do sự khan hiếm nguồn cung.
-    - Nhận định dòng tiền: Phản ứng tích cực với thông tin địa chính trị.
-    - Hành động: Tiếp tục quan sát biến động khối lượng để xác nhận xu hướng vào.
-- **Mã: POW, HVN, HPG**
-    - Động lực (FA): Tỷ giá hạ nhiệt làm giảm đáng kể chi phí nợ vay USD.
-    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng xoay tua vào các mã vốn hóa lớn có nền tảng cơ bản được cải thiện bởi vĩ mô.
-    - Hành động: Chú ý giải ngân các mã có trạng thái kỹ thuật tích lũy tốt.
-- **Mã: SSI, VHM, VCB**
-    - Động lực (FA): Nhóm dẫn dắt trong kịch bản nâng hạng thị trường.
-    - Nhận định dòng tiền: Hút dòng vốn thụ động khi thị trường hướng về mốc 1.700.
-    - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho mục tiêu nâng hạng.
+- **Mã:** KBC, VHC, TNG, MSR, POW, HVN, HPG, SSI, VCB, VHM.
+- **Động lực (FA):** Sự cộng hưởng từ việc hạ nhiệt tỷ giá và dòng vốn FDI/Nâng hạng thị trường tạo nền tảng hỗ trợ mạnh mẽ cho các mã vốn hóa lớn và nhóm xuất khẩu sang thị trường Mỹ.
+- **Nhận định dòng tiền:** Dòng tiền thông minh sẽ phân hóa, ưu tiên các mã có trọng số lớn trong danh mục nâng hạng (SSI, VCB, HPG, VHM) và các mã trực tiếp hưởng lợi từ "luồng gió" quan hệ ngoại giao mới.
+- **Hành động:** 
+    - **Quan sát:** Nhóm hưởng lợi trực tiếp từ tỷ giá (POW, HVN, HPG) cho vị thế trading ngắn hạn.
+    - **Giải ngân:** Xem xét tích lũy các cổ phiếu dẫn dắt trong danh mục nâng hạng (SSI, VHM) nếu thị trường có nhịp rung lắc về vùng 1.700 điểm.
+    - **Lưu ý:** Giữ kỷ luật với các mã có rủi ro vi phạm xu hướng nếu tin nâng hạng không tạo được thanh khoản lan tỏa đủ mạnh trong các phiên tới.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện chưa có dữ liệu biến động mới từ EIB, BSR trong khung 15 phút qua. Tiếp tục duy trì vị thế hiện tại và bám sát kịch bản mục tiêu.
