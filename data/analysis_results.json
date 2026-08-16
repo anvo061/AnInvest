@@ -1,5 +1,70 @@
 ﻿[
   {
+    "Title": "Một thế lực \"xả\" 80.000 tỷ đồng cổ phiếu từ đầu năm, chuyên gia Dragon Capital chỉ ra tín hiệu đáng chú ý - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnJ1WkF3RkxRNzBfbkhteWQ4RW5SaDVMN0ZKWl9ickthUzFKbzA2OXFMdWlsSTFkZlFHeUV1OWlUb2hFMEh0Y3NwVDJjcHBFTkZsaW0wcGd0ZjdqMTQtcFFOMVpoWG5vUG90elRXUkM5WEFmRjNqNmxEUW9XRHJkd0FMTmRFWjZvQVdFd01pR01uQnJBQnZraGlrT0ljOHQzLTFtWjY0YkFybC10T0taVVc3YU8tZHdlWHJTckVGYy1TWm5qV2VlbE1Yd0l1THoxbTRfUHZqODU?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 17:03:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Áp lực bán ròng lớn từ khối ngoại gây tâm lý thận trọng, tạo rào cản cho đà tăng của các cổ phiếu vốn hóa lớn (Bluechips) trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Bluechips. Áp lực bán ròng khối ngoại gây áp lực lên chỉ số chung. Cần thận trọng với các mã vốn hóa lớn có tỷ lệ sở hữu ngoại cao, ưu tiên quản trị rủi ro danh mục.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên là mục tiêu bán ròng lớn của khối ngoại, chịu áp lực cung lớn."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu quốc dân thường bị khối ngoại cơ cấu danh mục, gây áp lực lên giá."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thanh khoản lớn và tỷ lệ sở hữu ngoại cao khiến mã này dễ bị ảnh hưởng bởi làn sóng bán ròng."
+      },
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ khối ngoại gây khó khăn cho việc giữ nhịp chỉ số của cổ phiếu trụ."
+      },
+      {
+        "Ticker": "VNM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu ưa thích của khối ngoại, chịu tác động trực tiếp từ xu hướng rút vốn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-16 18:33:27"
+  },
+  {
+    "Title": "Lắp 9.500 tấm kính cho nhà ga 'Phượng Hoàng Lửa' ở sân bay Phú Quốc",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/lap-9500-tam-kinh-cho-nha-ga-phuong-hoang-lua-o-san-bay-phu-quoc-100260816160126518.htm",
+    "PubDate": "8/16/2026 5:10:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc đẩy nhanh tiến độ thi công hạ tầng sân bay Phú Quốc tạo khối lượng công việc cho các nhà thầu xây dựng và cung ứng vật liệu xây dựng, thúc đẩy giải ngân đầu tư công.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất cập nhật tiến độ thi công đơn lẻ, không tạo đột biến về biên lợi nhuận hay dòng tiền cho các nhà thầu hạ tầng lớn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 18:33:11"
+  },
+  {
+    "Title": "Bớt phụ thuộc vốn ngân hàng, rất nhiều cách làm nhưng thiếu cấu trúc vận hành",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/bot-phu-thuoc-von-ngan-hang-rat-nhieu-cach-lam-nhung-thieu-cau-truc-van-hang-100260816165535154.htm",
+    "PubDate": "8/16/2026 5:55:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Bài viết mang tính chất phân tích vĩ mô về cấu trúc tài chính doanh nghiệp, không đưa ra giải pháp cụ thể hay thay đổi chính sách tức thời tác động đến biên lợi nhuận của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Bài viết mang tính định hướng vĩ mô, không tạo ra biến động dòng tiền tức thời cho bất kỳ nhóm ngành hay cổ phiếu cụ thể nào.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 18:33:00"
+  },
+  {
     "Title": "VDSC: Xuất hiện tín hiệu để Ngân hàng Nhà nước có thể mua ngoại tệ giao ngay - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXVGN2g0N210NEdwc25DZ0c3ZEs5QWRpZWJoNkFMNm9rX1Q4SG5lVVQ2S2tDMkZkdndjdjl0UC1Zb0w5QmZmQTFPakpjWlY1WWwwYzRZQ1NuTHBXbDhLYW5qYlMwd0tDQlZ1TlNYNXctNUJ6eDdxNTgwUEhOYlQxUVRYX21IV2picVdtbW1hT0hFa1JFVE1iNlAxb0JmeEUxNllPYU16OFRUOGhYOExrVGVhQ2Ntdw?oc=5",
@@ -16646,55 +16711,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 02:42:28"
-  },
-  {
-    "Title": "FUETPVND: Kết thúc giao dịch hoán đổi ngày 05/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWlBQUk4QlF0b1pGRGhqMmwxNFc0enRMQkc0d0Y2Q21ya2Q5Q3hfTHZ6UU1nZG9hQXdzS0EzSkY4S3BJVUhiSU9TVmZTUnYzVU9lOFdYVnBQLVdral84dHlrYnRLOTE2cXc5LVNwM1FLYklLcVVpYlpwZmpHSXN2Vk9sbVlvc3lPTklEeHA4TVc2bDA5bW9vdTUwSThMVDVXLW9OaS1wNDF3MDJoaTZpUXlEMmRrQQ?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 09:48:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô, không tác động đến giá cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là nghiệp vụ hoán đổi chứng chỉ quỹ thông thường, không tạo ra biến động dòng tiền đáng kể trên thị trường cơ sở. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 02:42:19"
-  },
-  {
-    "Title": "FUETPVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 06/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFhHWUdWdGwwc2tiMXUzRHc2b3EzSVZkaEQ1T0VwWkJLUGE2WDR0ZTJ0dTR2bEl2QmZqRXpCVkNFTnVWZmdZMEYtLUlJQ252dXZ0MXUzUG5JejItS0ttb1dVVE55a3pSSXJPYjVrbFdZOVRhMWZQTEl6NzRNaWdCX0gzTDFpZ09VNElmVjdvZkRISnBPTVVmRjlUbF96N0F1T0FVYjc0LUlCSWptbVN6MDdrLXJ2TlVRMm5mMGhZdUMwUWRKTEs3YTBrY25SbnJKQndF?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 02:04:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không mang tính chất thay đổi chiến lược đầu tư hay tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm cổ phiếu trong danh mục ETF. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới hay thay đổi xu hướng thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 02:42:09"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 24/6: Dầu thế giới tiếp đà giảm, trong nước sắp điều chỉnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-24-6-dau-the-gioi-tiep-da-giam-trong-nuoc-sap-dieu-chinh-2528737.html",
-    "PubDate": "Wed, 24 Jun 2026 07:59:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Giá dầu giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải và sản xuất, đồng thời giảm áp lực lạm phát chi phí đẩy trong nước.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm giảm áp lực lạm phát nhưng gây áp lực lên nhóm thượng nguồn. Tác động biên lợi nhuận vận tải là gián tiếp, cần theo dõi thêm biến động giá dầu thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu thế giới giảm gây áp lực lên tâm lý nhà đầu tư đối với nhóm cổ phiếu thượng nguồn dầu khí."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu giảm làm giảm kỳ vọng vào các dự án thăm dò khai thác mới, ảnh hưởng tiêu cực đến giá cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 02:41:51"
   }
 ]
