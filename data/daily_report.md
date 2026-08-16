@@ -1,22 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:00
+⏱ Thời gian: 16:30 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng leo thang tại eo biển Hormuz và động thái quốc phòng tại Trung Đông -> [Tác động: Tiêu cực] -> [Dòng tiền vận tải biển (HAH, GMD) chịu áp lực chi phí; nhóm Dầu khí (PVD) cần theo dõi sát phản ứng giá dầu].
-- Đề xuất giảm lệ phí trước bạ cho BĐS/Ô tô & Chính sách khơi thông dòng vốn -> [Tác động: Tích cực] -> [Nhóm ngành Bất động sản và Tài chính/Chứng khoán].
+- **Căng thẳng tại eo biển Hormuz:** Giá dầu thế giới dự báo tăng do rủi ro gián đoạn nguồn cung -> [Tác động: Tiêu cực] -> [Dòng tiền chịu áp lực tại nhóm Vận tải biển (HAH, GMD) do tăng chi phí, có thể tìm đến nhóm Dầu khí thượng nguồn (PVD) để trú ẩn].
+- **Chính sách hỗ trợ tiêu dùng (Giảm lệ phí trước bạ) & Nới lỏng BĐS tại Trung Quốc:** -> [Tác động: Tích cực] -> [Dòng tiền kỳ vọng hướng vào nhóm BĐS dân dụng và nhóm Thép (NKG) nhờ kỳ vọng phục hồi xuất khẩu].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: CII
-- Động lực (FA): Gia tăng sở hữu tại PC1, củng cố hệ sinh thái hạ tầng - năng lượng.
-- Nhận định dòng tiền: Tích cực. Hành động mua chủ động cho thấy sự tự tin về tăng trưởng dài hạn, tạo kỳ vọng cho dòng tiền đầu cơ chạy theo hiệu ứng tin tức.
-- Hành động: Chú ý giải ngân nếu giá test lại vùng hỗ trợ kỹ thuật gần nhất.
+- **Mã:** CII
+- **Động lực (FA):** Gia tăng sở hữu tại PC1.
+- **Nhận định dòng tiền:** Hành động mua gom của CII thể hiện sự tự tin vào hệ sinh thái Hạ tầng - Năng lượng, củng cố đà tăng ngắn hạn cho cả hai mã này.
+- **Hành động:** Chú ý giải ngân (Canh nhịp rung lắc theo thị trường chung để gia tăng vị thế).
 
-- Mã: BFC
-- Động lực (FA): Lợi nhuận sụt giảm nhưng thù lao lãnh đạo tăng gấp đôi.
-- Nhận định dòng tiền: Tiêu cực. Rủi ro quản trị doanh nghiệp (ESG) sẽ kích hoạt lực bán tháo của khối nhà đầu tư cá nhân và tổ chức chú trọng đạo đức kinh doanh.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
+- **Mã:** PC1
+- **Động lực (FA):** Nhận được dòng vốn đầu tư trực tiếp từ CII.
+- **Nhận định dòng tiền:** Sự hiện diện của cổ đông chiến lược/tài chính lớn giúp củng cố niềm tin dòng tiền, giảm bớt áp lực điều chỉnh khi thị trường rung lắc.
+- **Hành động:** Tiếp tục quan sát (Bám sát phản ứng giá tại vùng kháng cự kỹ thuật).
 
-- Mã: PC1
-- Động lực (FA): Trở thành đích đến M&A của CII.
-- Nhận định dòng tiền: Hợp lưu tích cực. Việc doanh nghiệp lớn gia tăng sở hữu làm tăng độ cô đặc của cổ phiếu.
-- Hành động: Tiếp tục quan sát khối lượng giao dịch; nếu thanh khoản tăng đột biến, cân nhắc giải ngân theo sóng CII.
+- **Mã:** BFC
+- **Động lực (FA):** Lợi nhuận sụt giảm đi kèm gia tăng thù lao lãnh đạo.
+- **Nhận định dòng tiền:** Rủi ro rút vốn mạnh do niềm tin cổ đông bị tổn thương.
+- **Hành động:** Rủi ro vi phạm kịch bản (Cân nhắc hạ tỷ trọng ngay khi xuất hiện lực bán kỹ thuật).
