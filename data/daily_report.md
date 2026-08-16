@@ -1,22 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:55 - 16/08/2026
+⏱ Thời gian: 15:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng tại eo biển Hormuz leo thang làm giá dầu thế giới tăng cao** -> **Tiêu cực** đối với nhóm vận tải biển do chi phí vận hành/bảo hiểm tăng, nhưng **Tích cực** đối với nhóm thượng nguồn dầu khí do cải thiện đơn giá dịch vụ -> **Dòng tiền hướng vào:** Nhóm Dầu khí (PVD, PVS), rút ra khỏi nhóm Vận tải biển (HAH, GMD).
-- **Trung Quốc nới lỏng quy định mua nhà** -> **Tích cực** (gián tiếp) -> **Dòng tiền hướng vào:** Nhóm Thép (NKG), Vật liệu xây dựng.
+- Chính phủ đẩy mạnh các giải pháp giảm lãi suất thực chất nhằm khơi thông dòng vốn cho doanh nghiệp -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **BĐS và Chứng khoán** do áp lực chi phí tài chính giảm.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-- **Động lực (FA):** Căng thẳng địa chính trị tại eo biển Hormuz đẩy giá dầu kỳ vọng tăng, trực tiếp thúc đẩy nhu cầu và đơn giá cho thuê giàn khoan.
-- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ xung lực vĩ mô, dòng tiền có xu hướng tìm đến các mã có độ nhạy cao với giá dầu.
-- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- **Mã: BFC**
+  - Động lực (FA): Lợi nhuận sụt giảm đi kèm việc tăng thù lao lãnh đạo trái ngược.
+  - Nhận định dòng tiền: Tâm lý cổ đông bị tổn thương, rủi ro bán tháo ngắn hạn cao do lo ngại quản trị doanh nghiệp.
+  - Hành động: **Rủi ro vi phạm kịch bản** – Cân nhắc giảm tỷ trọng nếu ngưỡng hỗ trợ kỹ thuật bị xuyên thủng.
 
-- **Mã:** HAH
-- **Động lực (FA):** Căng thẳng eo biển Hormuz làm tăng chi phí nhiên liệu và rủi ro gián đoạn chuỗi cung ứng toàn cầu.
-- **Nhận định dòng tiền:** Áp lực biên lợi nhuận thu hẹp có thể kích hoạt tâm lý chốt lời hoặc cơ cấu lại danh mục của khối ngoại/tổ chức.
-- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ.
+- **Mã: HAH, GMD**
+  - Động lực (FA): Căng thẳng địa chính trị tại eo biển Hormuz leo thang gây áp lực lên chi phí vận tải và bảo hiểm toàn cầu.
+  - Nhận định dòng tiền: Áp lực điều chỉnh biên lợi nhuận, dòng tiền có xu hướng thận trọng hoặc rút bớt khỏi nhóm vận tải biển.
+  - Hành động: **Tiếp tục quan sát** – Theo dõi sát biến động giá cước vận tải container quốc tế để đánh giá mức độ ảnh hưởng thực tế.
 
-- **Mã:** NKG
-- **Động lực (FA):** Trung Quốc nới lỏng chính sách BĐS, kỳ vọng nhu cầu nhập khẩu thép hồi phục.
-- **Nhận định dòng tiền:** Tâm lý tích cực từ thị trường khu vực có thể tạo lực cầu ngắn hạn.
-- **Hành động:** Tiếp tục quan sát phản ứng dòng tiền tại vùng giá hiện tại.
+- **Mã: PVD, PVS**
+  - Động lực (FA): Giá dầu thế giới phản ứng tích cực với thông tin từ eo biển Hormuz.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dòng tiền có khả năng đẩy giá do kỳ vọng đơn giá dịch vụ khoan và khối lượng công việc EPC tăng.
+  - Hành động: **Chú ý giải ngân** – Canh nhịp chỉnh ngắn hạn để gia tăng vị thế.
