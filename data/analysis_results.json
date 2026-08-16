@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "Chứng khoán tuần tới sẽ giằng co quanh 1.720 điểm, nhà đầu tư cần làm gì? - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHhKMkdtZDBoRzh2M091VHZoc0JMelpqeWUtSkRDVV9Kb2IxOERNYU5KTW9hVDc4UWVfZnpLYXljVUFaNVQ4T2lZd296VHJSZFN1WU5oa1paY3Q2Zjc3X3JEM0VMTzI3ZXRIOHhsMTZhN0xQb05jZnNreXN1ZUQ2MmdUR1JLTWxrSlZPcExUV1RaeXpYTjdkSEEyVjFPWHpPbTVWSXVTR0djLVU2MjRB?oc=5",
+    "PubDate": "Sun, 16 Aug 2026 19:17:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết nhận định thị trường chung, không chứa thông tin vĩ mô hay doanh nghiệp cụ thể có khả năng tác động đến biên lợi nhuận hay hoạt động kinh doanh.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất dự báo kỹ thuật, không có thông tin cơ bản mới. Dòng tiền thông minh sẽ tập trung vào dữ liệu thực tế thay vì dự báo tâm lý.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 02:30:58"
+  },
+  {
     "Title": "Nghịch lý định giá trên thị trường chứng khoán: 1+1 không bằng 2! - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ083Q2xPdFNVVUdPeVpvSVVlMDUwS2dqaEdXTjVRcVUtWDViR3dQUlVmT1V6V1d4SE82UHk1MTlhTGhraS05bkhzNVdJdndJWG5tVThlME05M3BmYjJGS2k0bWd6N0VZN1RkMWpLLWtkLUNzMFNyUHlVbFozajk2VWx5QWZBQlhqdHFYUldhZTV1WmZkZ0RUQ0pzVEpoWXJscFhDbQ?oc=5",
@@ -16691,39 +16704,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 09:56:17"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 9/8: Thế giới ghi nhận tuần lao dốc, trong nước giảm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-9-8-the-gioi-ghi-nhan-tuan-lao-doc-trong-nuoc-giam-2543451.html",
-    "PubDate": "Sun, 09 Aug 2026 08:14:42 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá nhiên liệu giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm hỗ trợ biên lợi nhuận nhóm Vận tải (GMD, HAH) nhưng gây áp lực lên nhóm Dầu khí (GAS, PVD). Tác động phân hóa, cần theo dõi sát dòng tiền luân chuyển.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận tải, cải thiện biên lợi nhuận."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, giá dầu giảm trực tiếp tăng lợi nhuận."
-      },
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu giảm gây áp lực lên giá bán khí và biên lợi nhuận của doanh nghiệp thượng nguồn."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu thế giới lao dốc ảnh hưởng tiêu cực đến tâm lý và triển vọng giá dịch vụ khoan."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 09:55:58"
   }
 ]
