@@ -1,22 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 16/08/2026
+⏱ Thời gian: 09:20 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam được truyền thông quốc tế (Bloomberg) đánh giá là "Điểm sáng mới tại châu Á": -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến hướng mạnh vào nhóm BĐS Khu công nghiệp (KCN) và Logistic nhờ kỳ vọng FDI gia tăng.
-- Chính thức vận hành thị trường tín chỉ Carbon sau 2 tháng: -> [Đánh giá: Tích cực] -> Dòng tiền sẽ ưu tiên các doanh nghiệp có quỹ đất rừng lớn hoặc sở hữu danh mục năng lượng tái tạo (ESG Play).
+- Giá xăng dầu trong nước giảm và xu hướng FDI tiếp tục đổ vào Việt Nam -> [Tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm Vận tải/Logistics (HAH, VTP) và Bất động sản khu công nghiệp (KBC, SZC, GVR)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: TNG**
+  - Động lực (FA): Lợi nhuận quý đạt kỷ lục, biên lợi nhuận phục hồi mạnh.
+  - Nhận định dòng tiền: Tin tức củng cố xu hướng tăng trưởng, xác nhận sức khỏe nội tại doanh nghiệp mạnh trong bối cảnh xuất khẩu hồi phục.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (pullback) theo sóng ngành dệt may.
+- **Mã: MWG**
+  - Động lực (FA): KQKD cải thiện nhờ hiệu quả tái cấu trúc Bách Hóa Xanh và sức mua tiêu dùng hồi phục.
+  - Nhận định dòng tiền: Dòng tiền có sự xác nhận từ nền tảng cơ bản, tạo lực đỡ cho xu hướng ngắn hạn.
+  - Hành động: Tiếp tục quan sát điểm bùng nổ khối lượng để gia tăng tỷ trọng.
+- **Mã: HAH, VTP**
+  - Động lực (FA): Giá xăng trong nước giảm giúp tối ưu hóa chi phí vận hành (đầu vào trọng yếu).
+  - Nhận định dòng tiền: Tác động trực tiếp đến biên lợi nhuận, kỳ vọng dòng tiền sẽ phản ứng tích cực trong phiên.
+  - Hành động: Chú ý giải ngân nếu biên độ giá duy trì trên đường MA20.
 - **Mã: GVR**
-  - Động lực (FA): Hưởng lợi kép từ hạ tầng KCN (chuyển đổi đất cao su) và tiềm năng doanh thu mới từ tín chỉ Carbon (quỹ rừng lớn).
-  - Nhận định dòng tiền: Tín hiệu tích cực từ cả vĩ mô lẫn câu chuyện ngành, khả năng thu hút dòng tiền trung - dài hạn.
-  - Hành động: Tiếp tục quan sát điểm nổ khối lượng, ưu tiên giữ vị thế.
-
-- **Mã: TDM**
-  - Động lực (FA): Cổ đông lớn thực hiện quyền mua 15,5 triệu cổ phiếu thành công.
-  - Nhận định dòng tiền: Củng cố niềm tin vào kế hoạch tài chính, tạo nền tảng hỗ trợ giá (price floor) trong ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật, thể hiện sự đồng thuận của cổ đông lớn.
-
-- **Mã: PNJ**
-  - Động lực (FA): Áp lực từ xu hướng suy giảm chi tiêu bán lẻ thời trang nội địa.
-  - Nhận định dòng tiền: Rủi ro ngắn hạn về sức mua, cần thận trọng với dòng tiền đầu cơ vào nhóm bán lẻ xa xỉ.
-  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát thêm các chỉ số tiêu dùng (CPI) kỳ tiếp theo.
+  - Động lực (FA): Hợp lưu từ 2 luồng tin: Tiềm năng tín chỉ carbon và làn sóng FDI dịch chuyển sản xuất.
+  - Nhận định dòng tiền: Sự cộng hưởng của các yếu tố cơ bản dài hạn giúp mã này trở thành "cổ phiếu phòng thủ chủ động".
+  - Hành động: Tiếp tục nắm giữ, canh gia tăng nếu kiểm định thành công ngưỡng hỗ trợ gần nhất.
