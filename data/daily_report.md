@@ -1,25 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:15 - 16/08/2026
+⏱ Thời gian: 11:30 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **MSCI tái cơ cấu tăng tỷ trọng ngân hàng Việt Nam:** Tác động **Tích cực** -> Dòng tiền ngoại (ETF) sẽ tập trung vào nhóm vốn hóa lớn (Bluechips ngành Bank) để đón đầu làn sóng nâng tỷ trọng, củng cố thanh khoản chung cho VN-Index.
-- **Căng thẳng eo biển Hormuz & Giá dầu tăng:** Tác động **Tích cực** cho nhóm thượng nguồn ngành dầu khí do kỳ vọng biên lợi nhuận cải thiện trước biến động giá dầu thế giới.
-- **Áp lực từ lợi suất trái phiếu tăng:** Tác động **Tiêu cực** lên nhóm Bất động sản (VHM, PDR) và Chứng khoán (SSI, VND) do chi phí vốn gia tăng và định giá bị nén.
+- MSCI tăng tỷ trọng cổ phiếu Ngân hàng Việt Nam trong danh mục tái cơ cấu -> **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm Ngân hàng vốn hóa lớn (VCB, TCB, BID, CTG, MBB).
+- Căng thẳng tại eo biển Hormuz đẩy giá dầu thô tăng cao -> **Tiêu cực cho chi phí đầu vào/Tích cực cho nhóm thượng nguồn** -> Dòng tiền chú ý nhóm Dầu khí (PVD, PVS, BSR).
+- Khối ngoại giảm đà bán ròng và lợi suất trái phiếu tăng gây áp lực chi phí vốn -> **Trung lập với xu hướng, phân hóa mạnh** -> Dòng tiền ưu tiên cổ phiếu có nền tảng tài chính lành mạnh, tránh nhóm BĐS đòn bẩy cao (VHM, PDR).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-  - **Động lực (FA):** Căng thẳng địa chính trị eo biển Hormuz đẩy giá dầu thô tăng cao.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ dịch chuyển mạnh vào nhóm thượng nguồn khi giá dầu phản ứng với tin tức.
-  - **Hành động:** Chú ý giải ngân nếu dòng tiền có sự xác nhận bùng nổ khối lượng.
-- **Mã:** VCB, TCB
-  - **Động lực (FA):** MSCI tăng tỷ trọng ngân hàng Việt Nam trong rổ danh mục.
-  - **Nhận định dòng tiền:** Dòng tiền khối ngoại sẽ duy trì lực cầu chủ động, hỗ trợ nền giá vững chắc.
-  - **Hành động:** Tiếp tục nắm giữ, vị thế trung hạn hưởng lợi trực tiếp.
-- **Mã:** VHM, PDR
-  - **Động lực (FA):** Lợi suất trái phiếu tăng làm tăng chi phí lãi vay và áp lực định giá.
-  - **Nhận định dòng tiền:** Áp lực cung ngắn hạn có khả năng gia tăng do tâm lý ngại rủi ro đòn bẩy.
-  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy trong nhịp rung lắc.
-- **Mã:** MWG
-  - **Động lực (FA):** Kết quả kinh doanh khả quan bị "nhiễu" bởi tin tức rủi ro pháp lý mảng tài chính tiêu dùng.
-  - **Nhận định dòng tiền:** Dòng tiền có thể phân hóa, tạm thời đứng ngoài chờ làm rõ tính pháp lý.
-  - **Hành động:** Tiếp tục quan sát.
+- Mã: **TNG**
+- Động lực (FA): Lợi nhuận quý cao kỷ lục, biên lợi nhuận phục hồi mạnh mẽ.
+- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp vào đà tăng giá, củng cố vị thế dẫn dắt của nhóm dệt may.
+- Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì được thanh khoản cao tại vùng giá hiện tại.
+
+- Mã: **PVD**
+- Động lực (FA): Căng thẳng tại Hormuz đẩy giá dầu thô tăng.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp từ kỳ vọng tăng giá thuê giàn khoan và khối lượng công việc, dòng tiền sẽ phản ứng nhanh.
+- Hành động: **Tiếp tục quan sát** phản ứng của vùng cản kỹ thuật gần nhất.
+
+- Mã: **MWG**
+- Động lực (FA): Tin đồn về rủi ro pháp lý "ngân hàng ngầm" đối trọng với KQKD tích cực (Bách Hóa Xanh).
+- Nhận định dòng tiền: Dòng tiền có sự giằng co, rủi ro biến động mạnh (volatility) do tin tức pháp lý.
+- Hành động: **Rủi ro vi phạm kịch bản**, chờ xác nhận từ phía doanh nghiệp trước khi quyết định.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dữ liệu giá dầu tăng từ căng thẳng eo biển Hormuz hỗ trợ tích cực cho biên lợi nhuận lọc dầu. Dữ liệu hiện tại **đủ mạnh để tiếp tục giữ** vị thế, chưa cần thiết phải đảo dòng tiền ở thời điểm này.
