@@ -1,15 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:20 (17/08/2026)
+⏱ Thời gian: 05:30 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ Việt Nam đẩy mạnh củng cố quan hệ kinh tế với Mỹ và lộ trình nâng hạng thị trường chứng khoán (FTSE) -> [Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm Khu công nghiệp (FDI), Xuất khẩu, Tài chính - Ngân hàng và các mã trụ cột vốn hóa lớn.
-- Nhu cầu khoáng sản chiến lược của Mỹ mở ra chuỗi cung ứng mới cho doanh nghiệp nội địa -> [Tích cực] -> Nhóm tài nguyên khoáng sản.
+- Thủ tướng thúc đẩy quan hệ kinh tế sâu rộng hơn với Mỹ sau nâng cấp ngoại giao -> **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm Khu công nghiệp (FDI), Xuất khẩu (Dệt may, Thủy sản) và Khoáng sản chiến lược.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC, VHC, TNG, MSR, SSI, VHM, HPG, VCB**
-- Động lực (FA): Các mã này hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng Mỹ, nhu cầu khoáng sản chiến lược và kỳ vọng đón dòng vốn ngoại khi thị trường nâng hạng.
-- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng phân hóa, ưu tiên các mã đầu ngành có sức khỏe tài chính tốt để đón đầu chu kỳ nâng hạng; áp lực rung lắc ngắn hạn quanh mốc 1.700 - 1.720 điểm là cơ hội tích lũy thay vì rủi ro bán tháo.
-- Hành động: **Chú ý giải ngân** đối với các mã thuộc danh mục trên khi thị trường có nhịp điều chỉnh kỹ thuật.
+- **Mã: KBC, VHC, TNG, MSR**
+    - Động lực (FA): Hưởng lợi trực tiếp từ chuỗi cung ứng Mỹ và làn sóng FDI/Khoáng sản chiến lược.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại (ETF) giải ngân đón đầu trước lộ trình nâng hạng FTSE sẽ tạo lực đỡ cho nhóm vốn hóa lớn (VHM, SSI, VCB, HPG), từ đó lan tỏa sang nhóm xuất khẩu/khu công nghiệp.
+    - Hành động: Chú ý giải ngân (Canh rung lắc quanh các hỗ trợ cứng để gom cho mục tiêu nâng hạng thị trường).
 
-🔄 3. Cảnh báo Tái cơ cấu (Chỉ xuất hiện nếu có tin về EIB, BSR):
-- Không có dữ liệu mới liên quan đến EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái quan sát.
+- **Mã: DVP**
+    - Động lực (FA): Lợi nhuận 6 tháng vượt kế hoạch, tiền mặt ròng ~500 tỷ.
+    - Nhận định dòng tiền: Chỉ số tài chính khỏe mạnh (CASH RICH) là "hầm trú ẩn" an toàn trong giai đoạn thị trường giằng co.
+    - Hành động: Tiếp tục quan sát (Chờ điểm break-out khỏi nền tích lũy).
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này).
