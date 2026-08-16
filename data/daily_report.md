@@ -1,22 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:30 - 16/08/2026
+⏱ Thời gian: 16:48
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng tại eo biển Hormuz:** Giá dầu thế giới dự báo tăng do rủi ro gián đoạn nguồn cung -> [Tác động: Tiêu cực] -> [Dòng tiền chịu áp lực tại nhóm Vận tải biển (HAH, GMD) do tăng chi phí, có thể tìm đến nhóm Dầu khí thượng nguồn (PVD) để trú ẩn].
-- **Chính sách hỗ trợ tiêu dùng (Giảm lệ phí trước bạ) & Nới lỏng BĐS tại Trung Quốc:** -> [Tác động: Tích cực] -> [Dòng tiền kỳ vọng hướng vào nhóm BĐS dân dụng và nhóm Thép (NKG) nhờ kỳ vọng phục hồi xuất khẩu].
+- **Tăng trưởng tiền gửi ngân hàng nửa đầu năm:** Cải thiện thanh khoản và giảm chi phí vốn (COF) toàn hệ thống -> **Tích cực** -> Dòng tiền hướng vào nhóm Ngân hàng (giảm áp lực margin) và các doanh nghiệp sử dụng đòn bẩy tài chính cao.
+- **Đề xuất giảm lệ phí trước bạ cho định danh mức 2:** Hỗ trợ kích cầu tiêu dùng ô tô và thanh khoản Bất động sản -> **Tích cực** -> Nhóm Bất động sản dân dụng và Đại lý phân phối ô tô/xe máy.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** CII
-- **Động lực (FA):** Gia tăng sở hữu tại PC1.
-- **Nhận định dòng tiền:** Hành động mua gom của CII thể hiện sự tự tin vào hệ sinh thái Hạ tầng - Năng lượng, củng cố đà tăng ngắn hạn cho cả hai mã này.
-- **Hành động:** Chú ý giải ngân (Canh nhịp rung lắc theo thị trường chung để gia tăng vị thế).
+- **Mã: PC1**
+- **Động lực (FA):** CII tiếp tục mua gia tăng sở hữu.
+- **Nhận định dòng tiền:** Hành động thâu tóm/gia tăng tỷ trọng từ CII tạo bệ đỡ tâm lý và hỗ trợ giá trong ngắn hạn, củng cố kỳ vọng về sự cộng hưởng tài sản hạ tầng - năng lượng.
+- **Hành động:** Chú ý giải ngân (Canh các nhịp rung lắc do áp lực chung của thị trường để gia tăng vị thế).
 
-- **Mã:** PC1
-- **Động lực (FA):** Nhận được dòng vốn đầu tư trực tiếp từ CII.
-- **Nhận định dòng tiền:** Sự hiện diện của cổ đông chiến lược/tài chính lớn giúp củng cố niềm tin dòng tiền, giảm bớt áp lực điều chỉnh khi thị trường rung lắc.
-- **Hành động:** Tiếp tục quan sát (Bám sát phản ứng giá tại vùng kháng cự kỹ thuật).
-
-- **Mã:** BFC
-- **Động lực (FA):** Lợi nhuận sụt giảm đi kèm gia tăng thù lao lãnh đạo.
-- **Nhận định dòng tiền:** Rủi ro rút vốn mạnh do niềm tin cổ đông bị tổn thương.
-- **Hành động:** Rủi ro vi phạm kịch bản (Cân nhắc hạ tỷ trọng ngay khi xuất hiện lực bán kỹ thuật).
+- **Mã: BFC**
+- **Động lực (FA):** Lợi nhuận lao dốc nhưng thù lao lãnh đạo tăng gấp đôi.
+- **Nhận định dòng tiền:** Quản trị doanh nghiệp có dấu hiệu bất lợi cho cổ đông nhỏ lẻ, dễ kích hoạt áp lực bán tháo theo tâm lý tiêu cực.
+- **Hành động:** Rủi ro vi phạm kịch bản (Thoát vị thế hoặc chặn dừng lỗ chặt chẽ).
