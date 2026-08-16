@@ -1,25 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 12:40
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 12:51 (16/08/2026)
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Căng thẳng tại eo biển Hormuz gia tăng:** Giá dầu thô tiếp tục neo cao do lo ngại gián đoạn nguồn cung -> **Tích cực** cho nhóm Dầu khí (Thượng nguồn) -> Dòng tiền dự kiến tập trung vào nhóm **PVD, PVS**.
-- **MSCI tái cơ cấu tỷ trọng:** Ngân hàng Việt Nam được tăng tỷ trọng trong danh mục -> **Tích cực** cho nhóm Ngân hàng vốn hóa lớn -> Dòng tiền khối ngoại sẽ ưu tiên **VCB, TCB, BID, CTG, MBB**.
-- **Lợi suất trái phiếu tăng do tác động của AI:** Gây áp lực chi phí vốn lên doanh nghiệp BĐS và CTCK -> **Tiêu cực** cho nhóm có đòn bẩy cao như **VHM, PDR, SSI, VND**.
-- **Xu hướng USD suy yếu:** Giảm áp lực tỷ giá, tạo dư địa nới lỏng tiền tệ -> **Tích cực** cho nhóm hạ tầng năng lượng/điện (như **POW**) do giảm chi phí nợ vay.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Căng thẳng địa chính trị leo thang tại Trung Đông (Saudi, Thổ Nhĩ Kỳ, Pakistan) và eo biển Hormuz gây áp lực trực tiếp lên giá dầu và chi phí vận tải biển -> **Tác động: Phân hóa (Tiêu cực với chi phí vận tải, Tích cực với thượng nguồn dầu khí)** -> Dòng tiền sẽ hướng vào nhóm dầu khí (PVD, PVS, BSR) và thận trọng với nhóm vận tải biển/cảng biển (GMD).
+- USD suy yếu sau số liệu bán lẻ Mỹ -> **Tác động: Tích cực** -> Giảm áp lực tỷ giá, tạo dư địa cho chính sách tiền tệ, nhóm doanh nghiệp vay nợ USD (POW) hưởng lợi.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD, PVS**
-    - Động lực (FA): Căng thẳng địa chính trị Hormuz đẩy giá dầu duy trì ở mức cao, tăng nhu cầu dịch vụ khoan và EPC.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại có xu hướng tìm đến nhóm năng lượng khi có bất ổn chính trị.
-    - Hành động: **Chú ý giải ngân** nếu giá dầu duy trì đà tăng trên thị trường thế giới.
-- **Mã: TNG**
-    - Động lực (FA): Công bố lợi nhuận quý đạt kỷ lục, biên lợi nhuận cải thiện mạnh mẽ.
-    - Nhận định dòng tiền: Tin tức nội tại doanh nghiệp rất tích cực, khả năng tạo sóng tăng trưởng độc lập so với thị trường chung.
-    - Hành động: **Tiếp tục quan sát** điểm bùng nổ khối lượng để vào vị thế.
-- **Mã: MWG**
-    - Động lực (FA): Lo ngại rủi ro pháp lý về hoạt động tài chính tiêu dùng.
-    - Nhận định dòng tiền: Tâm lý nhà đầu tư sẽ thận trọng, dòng tiền có thể rút ra để cơ cấu sang các nhóm ngành an toàn hơn.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cần theo dõi sát phản ứng tại vùng hỗ trợ kỹ thuật.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PVD**
+    - Động lực (FA): Căng thẳng tại Hormuz và giá dầu tăng thúc đẩy nhu cầu/đơn giá thuê giàn khoan.
+    - Nhận định dòng tiền: Dòng tiền tập trung mạnh nhờ hưởng lợi từ xung đột địa chính trị.
+    - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế khi rung lắc trong phiên.
+- **Mã: GMD**
+    - Động lực (FA): Rủi ro chi phí bảo hiểm và vận tải biển tăng do căng thẳng khu vực.
+    - Nhận định dòng tiền: Khả năng gặp áp lực điều chỉnh ngắn hạn do tâm lý rủi ro.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát áp lực bán tại các vùng hỗ trợ.
+- **Mã: PPH, TNG**
+    - Động lực (FA): Kết quả kinh doanh Q2/2026 tăng trưởng mạnh/kỷ lục, phục hồi đơn hàng.
+    - Nhận định dòng tiền: Dòng tiền nội tại mạnh, phản ánh kỳ vọng kết quả kinh doanh vào giá.
+    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật (retest).
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **BSR:** Tin tức về giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu trong ngắn hạn. Tuy nhiên, do đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu hiện tại chỉ mang tính chất hỗ trợ ngắn hạn. **Khuyến nghị:** Giữ vị thế theo trend ngắn hạn nhưng chủ động chốt lời nếu có dấu hiệu giá dầu hạ nhiệt, tránh kẹt hàng khi đã qua chu kỳ tăng trưởng dài hạn.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+    - Nhận định: Dữ liệu hiện tại (giá dầu tăng do căng thẳng địa chính trị) tạo động lực ngắn hạn tốt cho biên lợi nhuận lọc dầu và hàng tồn kho. Tuy nhiên, do đã đi qua điểm rơi kỳ vọng, đây là cơ hội để tối ưu hóa danh mục; nhà đầu tư nên cân nhắc chốt lời một phần để đảo dòng tiền sang các mã có câu chuyện tăng trưởng mới nếu BSR tiệm cận vùng kháng cự kỹ thuật.
