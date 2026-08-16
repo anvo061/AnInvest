@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "Vietnam Airlines bố trí hành trình mới cho hành khách chuyến bay VN34 từ Đức về Hà Nội",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/vietnam-airlines-bo-tri-hanh-trinh-moi-cho-hanh-khach-chuyen-bay-vn34-tu-duc-ve-ha-noi-100260816213932523.htm",
+    "PubDate": "8/16/2026 10:26:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin xử lý sự cố vận hành thông thường của hãng hàng không, không gây tác động trọng yếu đến kết quả kinh doanh hay dòng tiền của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Hàng không. Đây là nghiệp vụ xử lý sự cố vận hành thông thường, không làm thay đổi biên lợi nhuận hay triển vọng dòng tiền của HVN. Không có tác động đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 22:56:40"
+  },
+  {
     "Title": "PXL: Báo cáo tài chính bán niên năm 2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVEhzM3ZRekFlUXAzNnh3TGlqRUNJa2xjeFF4UzlfcHprVklBV2hKaWI2U19RZ0dTSVlIR1hQRDM5UEVuWVkyRnR0VTVpZGJ4cjgta3UyNExGOVREeUVZdXBzc0R5RVNaaTZNa3h3QXUtbDY4alZrU05MdVBnZENyVzdYUlkyX3RJbkc0NjY5bkhLaW01WTZXRjY4WUdzODVx?oc=5",
@@ -16686,34 +16699,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 06:16:38"
-  },
-  {
-    "Title": "Tin tức sáng 9-8: Quốc hội thảo luận sửa Luật Phòng, chống rửa tiền; Lãi suất qua đêm giảm mạnh",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tin-tuc-sang-9-8-quoc-hoi-thao-luan-sua-luat-phong-chong-rua-tien-lai-suat-qua-dem-giam-manh-100260808220659366.htm",
-    "PubDate": "8/9/2026 4:00:00 AM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Lãi suất qua đêm giảm mạnh phản ánh thanh khoản hệ thống ngân hàng dồi dào, giúp giảm chi phí vốn ngắn hạn cho các tổ chức tín dụng và hỗ trợ tâm lý thị trường.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Lãi suất qua đêm giảm mạnh cho thấy thanh khoản dồi dào, giảm áp lực chi phí vốn. Dòng tiền sẽ ưu tiên nhóm ngân hàng có tỷ lệ CASA cao như VCB, TCB.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản hệ thống dồi dào giúp ngân hàng tối ưu hóa chi phí vốn và duy trì biên lãi ròng (NIM) ổn định."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ chi phí vốn thấp nhờ lợi thế CASA lớn, hỗ trợ tăng trưởng tín dụng trong môi trường lãi suất hạ nhiệt."
-      },
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản thị trường liên ngân hàng dồi dào giúp ngân hàng linh hoạt hơn trong quản trị vốn và mở rộng tín dụng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 05:53:45"
   }
 ]
