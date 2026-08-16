@@ -1,28 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:45 - 16/08/2026
+⏱ Thời gian: 16:00
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- CII gia tăng sở hữu tại PC1 -> Tích cực -> Dòng tiền tập trung vào nhóm cổ phiếu có chiến lược M&A, mở rộng hệ sinh thái hạ tầng - năng lượng.
-- Căng thẳng tại eo biển Hormuz leo thang (Iran, US, Saudi Arabia) -> Tiêu cực -> Gây áp lực chi phí vận tải biển và giá dầu, tác động tiêu cực đến biên lợi nhuận nhóm ngành Logistics, Cảng biển (HAH, GMD).
-- Đề xuất giảm lệ phí trước bạ (nhà, đất, ô tô) -> Tích cực -> Hỗ trợ thanh khoản nhóm Bất động sản và Tiêu dùng, giảm chi phí giao dịch thực tế.
+- Căng thẳng leo thang tại eo biển Hormuz và động thái quốc phòng tại Trung Đông -> [Tác động: Tiêu cực] -> [Dòng tiền vận tải biển (HAH, GMD) chịu áp lực chi phí; nhóm Dầu khí (PVD) cần theo dõi sát phản ứng giá dầu].
+- Đề xuất giảm lệ phí trước bạ cho BĐS/Ô tô & Chính sách khơi thông dòng vốn -> [Tác động: Tích cực] -> [Nhóm ngành Bất động sản và Tài chính/Chứng khoán].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PC1**
-  - Động lực (FA): CII mua thêm cổ phần, xác nhận chiến lược mở rộng hệ sinh thái.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ chú ý vào PC1 dựa trên câu chuyện cộng hưởng hạ tầng/năng lượng với CII.
-  - Hành động: Chú ý giải ngân nếu xuất hiện xác nhận về khối lượng (volume) vượt trung bình 20 phiên.
+- Mã: CII
+- Động lực (FA): Gia tăng sở hữu tại PC1, củng cố hệ sinh thái hạ tầng - năng lượng.
+- Nhận định dòng tiền: Tích cực. Hành động mua chủ động cho thấy sự tự tin về tăng trưởng dài hạn, tạo kỳ vọng cho dòng tiền đầu cơ chạy theo hiệu ứng tin tức.
+- Hành động: Chú ý giải ngân nếu giá test lại vùng hỗ trợ kỹ thuật gần nhất.
 
-- Mã: **BFC**
-  - Động lực (FA): Lợi nhuận sụt giảm nhưng thù lao lãnh đạo tăng gấp đôi.
-  - Nhận định dòng tiền: Rủi ro quản trị doanh nghiệp cao, khả năng cao sẽ gặp áp lực bán giải chấp/thoát vị thế từ khối nhà đầu tư cá nhân và tổ chức trong ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc chốt lời/cắt lỗ khi giá thủng nền hỗ trợ gần nhất.
+- Mã: BFC
+- Động lực (FA): Lợi nhuận sụt giảm nhưng thù lao lãnh đạo tăng gấp đôi.
+- Nhận định dòng tiền: Tiêu cực. Rủi ro quản trị doanh nghiệp (ESG) sẽ kích hoạt lực bán tháo của khối nhà đầu tư cá nhân và tổ chức chú trọng đạo đức kinh doanh.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
 
-- Mã: **HAH, GMD**
-  - Động lực (FA): Rủi ro địa chính trị tại Trung Đông làm tăng chi phí vận tải và bảo hiểm.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận thu hẹp dù dòng tiền kỹ thuật có thể chưa phản ứng ngay lập tức.
-  - Hành động: Tiếp tục quan sát biến động giá dầu; nếu giá dầu duy trì đà tăng, cần kích hoạt kịch bản giảm tỷ trọng.
-
-- Mã: **KBC**
-  - Động lực (FA): Các báo cáo phân tích duy trì khuyến nghị Khả quan, củng cố kỳ vọng quỹ đất KCN.
-  - Nhận định dòng tiền: Dòng tiền hỗ trợ tốt, kỳ vọng nhịp hồi phục dựa trên nền tảng cơ bản của doanh nghiệp.
-  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ theo chiến lược trung hạn.
+- Mã: PC1
+- Động lực (FA): Trở thành đích đến M&A của CII.
+- Nhận định dòng tiền: Hợp lưu tích cực. Việc doanh nghiệp lớn gia tăng sở hữu làm tăng độ cô đặc của cổ phiếu.
+- Hành động: Tiếp tục quan sát khối lượng giao dịch; nếu thanh khoản tăng đột biến, cân nhắc giải ngân theo sóng CII.
