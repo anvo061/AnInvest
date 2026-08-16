@@ -1,23 +1,37 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:20 - 16/08/2026
+⏱ Thời gian: 10:30 ngày 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá xăng dầu trong nước giảm và xu hướng FDI tiếp tục đổ vào Việt Nam -> [Tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm Vận tải/Logistics (HAH, VTP) và Bất động sản khu công nghiệp (KBC, SZC, GVR)].
+- Giá xăng dầu trong nước giảm mạnh: -> [Tác động: Tích cực] -> Dòng tiền sẽ hướng vào nhóm Vận tải, Logistics (hưởng lợi biên lợi nhuận từ chi phí đầu vào giảm).
+- Truyền thông quốc tế (Bloomberg) đánh giá cao vị thế FDI Việt Nam: -> [Tác động: Tích cực] -> Dòng tiền tập trung nhóm BĐS Khu công nghiệp (KBC, SZC) và Cảng biển (GMD).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TNG**
-  - Động lực (FA): Lợi nhuận quý đạt kỷ lục, biên lợi nhuận phục hồi mạnh.
-  - Nhận định dòng tiền: Tin tức củng cố xu hướng tăng trưởng, xác nhận sức khỏe nội tại doanh nghiệp mạnh trong bối cảnh xuất khẩu hồi phục.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (pullback) theo sóng ngành dệt may.
-- **Mã: MWG**
-  - Động lực (FA): KQKD cải thiện nhờ hiệu quả tái cấu trúc Bách Hóa Xanh và sức mua tiêu dùng hồi phục.
-  - Nhận định dòng tiền: Dòng tiền có sự xác nhận từ nền tảng cơ bản, tạo lực đỡ cho xu hướng ngắn hạn.
-  - Hành động: Tiếp tục quan sát điểm bùng nổ khối lượng để gia tăng tỷ trọng.
-- **Mã: HAH, VTP**
-  - Động lực (FA): Giá xăng trong nước giảm giúp tối ưu hóa chi phí vận hành (đầu vào trọng yếu).
-  - Nhận định dòng tiền: Tác động trực tiếp đến biên lợi nhuận, kỳ vọng dòng tiền sẽ phản ứng tích cực trong phiên.
-  - Hành động: Chú ý giải ngân nếu biên độ giá duy trì trên đường MA20.
-- **Mã: GVR**
-  - Động lực (FA): Hợp lưu từ 2 luồng tin: Tiềm năng tín chỉ carbon và làn sóng FDI dịch chuyển sản xuất.
-  - Nhận định dòng tiền: Sự cộng hưởng của các yếu tố cơ bản dài hạn giúp mã này trở thành "cổ phiếu phòng thủ chủ động".
-  - Hành động: Tiếp tục nắm giữ, canh gia tăng nếu kiểm định thành công ngưỡng hỗ trợ gần nhất.
+- Mã: **TNG**
+- Động lực (FA): Lợi nhuận quý cao kỷ lục, biên lợi nhuận phục hồi.
+- Nhận định dòng tiền: Tin tức phản ánh nội tại doanh nghiệp rất mạnh, dự kiến kích hoạt dòng tiền đầu cơ lẫn tăng trưởng vào nhóm Dệt may.
+- Hành động: Chú ý giải ngân khi có nhịp rung lắc trong phiên.
+
+- Mã: **MWG**
+- Động lực (FA): KQKD cải thiện nhờ hiệu quả tái cấu trúc chuỗi Bách Hóa Xanh và sức mua tiêu dùng phục hồi.
+- Nhận định dòng tiền: Củng cố niềm tin cho dòng tiền trung hạn, hỗ trợ xu hướng tăng ngắn hạn.
+- Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
+
+- Mã: **HAH, VTP**
+- Động lực (FA): Hưởng lợi từ giá xăng dầu nội địa giảm.
+- Nhận định dòng tiền: Tác động trực tiếp đến bảng cân đối kế toán, kỳ vọng dòng tiền phản ứng tích cực trong phiên.
+- Hành động: Chú ý giải ngân.
+
+- Mã: **GVR**
+- Động lực (FA): Hưởng lợi kép từ xu hướng FDI và tiềm năng tài sản xanh (tín chỉ carbon).
+- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tích lũy dài hạn với các mã có lợi thế tài sản nền tảng tốt.
+- Hành động: Tiếp tục quan sát.
+
+- Mã: **TDM**
+- Động lực (FA): Cổ đông lớn thực hiện quyền mua thành công.
+- Nhận định dòng tiền: Tạo tâm lý ổn định, giảm áp lực pha loãng tâm lý, hỗ trợ giá.
+- Hành động: Tiếp tục quan sát.
+
+- Mã: **PNJ**
+- Động lực (FA): Ngành bán lẻ xa xỉ gặp áp lực do sức mua suy giảm chung.
+- Nhận định dòng tiền: Rủi ro dòng tiền rút lui nếu áp lực chi tiêu tiêu dùng tiếp tục là chủ đề chính trên truyền thông.
+- Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ.
