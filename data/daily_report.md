@@ -1,23 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:15 - 17/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 08:30 - 17/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam thúc đẩy nâng cấp quan hệ kinh tế với Mỹ và tiến trình nâng hạng thị trường (FTSE) -> [Đánh giá: Tích cực] -> Dòng tiền sẽ ưu tiên nhóm Khu công nghiệp (hưởng lợi FDI), Xuất khẩu (Mỹ là trọng điểm) và các mã vốn hóa lớn (trụ cột nâng hạng).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Thúc đẩy quan hệ kinh tế Việt - Mỹ:** Việc Chính phủ đẩy mạnh hợp tác kinh tế sau nâng cấp ngoại giao tạo kỳ vọng lớn vào làn sóng FDI mới và ưu đãi xuất khẩu -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Khu công nghiệp (Bất động sản công nghiệp)**, **Xuất khẩu (Dệt may, Thủy sản)** và **Khai thác khoáng sản chiến lược**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng và mở rộng hợp tác kinh tế Việt - Mỹ.
-  - Nhận định dòng tiền: Kỳ vọng dòng vốn FDI chất lượng cao tạo sóng tăng trưởng, nhóm BĐS KCN sẽ thu hút dòng tiền ngoại.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc về hỗ trợ.
-- Mã: **CII**
-  - Động lực (FA): Lợi nhuận giảm hơn 90%, áp lực trả nợ trái phiếu 108 tỷ đồng gây áp lực lớn lên bảng cân đối kế toán.
-  - Nhận định dòng tiền: Rủi ro tài chính cao làm suy yếu tâm lý nhà đầu tư, dòng tiền có khả năng rút lui để trú ẩn vào các doanh nghiệp có lượng tiền mặt ròng dồi dào.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-- Mã: **DVP**
-  - Động lực (FA): Lợi nhuận 6 tháng vượt kế hoạch năm, tiền mặt ròng gần 500 tỷ đồng.
-  - Nhận định dòng tiền: Nền tảng tài chính vững chắc thu hút dòng tiền đầu tư giá trị trong bối cảnh thị trường biến động.
-  - Hành động: Tiếp tục quan sát để tìm điểm gia tăng tỷ trọng.
-- Mã: **MSR**
-  - Động lực (FA): Mỹ đang gặp khó khăn trong chuỗi cung ứng khoáng sản từ Trung Quốc, vị thế nguồn cung vonfram chiến lược của MSR trở nên quan trọng.
-  - Nhận định dòng tiền: Phản ứng tích cực nếu dòng tiền đầu cơ hướng vào các nhóm ngành nguyên liệu thô chiến lược.
-  - Hành động: Tiếp tục quan sát.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: KBC, VHC, TNG**
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ việc thắt chặt quan hệ thương mại Việt - Mỹ, giảm rào cản thuế quan và thu hút dòng vốn đầu tư dịch chuyển chuỗi cung ứng.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và đầu tư giá trị có khả năng gia tăng sự chú ý vào nhóm này ngay trong phiên giao dịch tới.
+  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc quanh nền hỗ trợ cứng.
+- **Mã: MSR**
+  - **Động lực (FA):** Nhu cầu khoáng sản chiến lược (vonfram) từ Mỹ khi tìm cách giảm phụ thuộc vào nguồn cung Trung Quốc.
+  - **Nhận định dòng tiền:** Cổ phiếu nhạy sóng với tin vĩ mô quốc tế, tiềm ẩn biến động mạnh.
+  - **Hành động:** Quan sát lực cầu tại các vùng giá tích lũy.
+- **Mã: CII**
+  - **Động lực (FA):** Lợi nhuận giảm 90% kèm áp lực thanh toán trái phiếu.
+  - **Nhận định dòng tiền:** Rủi ro điều chỉnh mạnh do sức khỏe tài chính suy yếu.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
+- **Mã: DVP**
+  - **Động lực (FA):** Kết quả kinh doanh vượt kế hoạch, lượng tiền mặt lớn (500 tỷ).
+  - **Nhận định dòng tiền:** Hấp dẫn dòng tiền tìm kiếm trú ẩn an toàn và cổ tức.
+  - **Hành động:** Tiếp tục quan sát để canh điểm vào thuận lợi.
+
+*Lưu ý: Các mã SSI, VHM, HPG, VCB thuộc nhóm kỳ vọng nâng hạng thị trường, đây là động lực dài hạn. Dòng tiền ngắn hạn có thể ưu tiên các mã có tin tức hỗ trợ trực tiếp nêu trên.*
