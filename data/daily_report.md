@@ -1,13 +1,13 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:20 - 17/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 03:15 ngày 17/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nâng cấp quan hệ kinh tế Việt - Mỹ và câu chuyện nâng hạng thị trường:** Chính phủ thúc đẩy hợp tác sâu rộng với Mỹ và kỳ vọng nâng hạng FTSE là hai trụ cột vĩ mô chủ đạo -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Khu công nghiệp (bất động sản KCN), Xuất khẩu (Thủy sản, Dệt may), Khoáng sản chiến lược và các mã trụ cột vốn hóa lớn (Bluechips).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Nâng cấp quan hệ kinh tế Việt - Mỹ và câu chuyện nâng hạng FTSE:** Tạo động lực thu hút FDI chất lượng cao và dòng vốn ETF ngoại vào các mã vốn hóa lớn, mặc dù ngắn hạn có áp lực điều chỉnh kỹ thuật để rũ bỏ cung giá thấp quanh ngưỡng 1.700 - 1.720 điểm. -> **Tác động: Tích cực (Dài hạn)** -> **Dòng tiền hướng tới:** Nhóm Khu công nghiệp (Bất động sản KCN), Xuất khẩu (Thủy sản, Dệt may), Khoáng sản chiến lược và Nhóm trụ cột (Ngân hàng, Chứng khoán, Bluechip).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** KBC, VHC, TNG, MSR, SSI, VHM, HPG, VCB
-- **Động lực (FA):** Sự cộng hưởng từ làn sóng FDI Mỹ, nhu cầu chuỗi cung ứng khoáng sản toàn cầu và đón đầu dòng vốn ngoại (ETF) trước đợt nâng hạng.
-- **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng xoay chuyển từ nhóm đầu cơ sang các mã có nền tảng xuất khẩu tốt và nhóm vốn hóa lớn có trọng số cao trong các bộ chỉ số ngoại.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **KBC, VHC, TNG, MSR, SSI, VHM, HPG, VCB**
+- **Động lực (FA):** Hưởng lợi từ làn sóng dịch chuyển chuỗi cung ứng sang Việt Nam (Mỹ), nhu cầu khoáng sản chiến lược toàn cầu (MSR) và kỳ vọng nâng hạng thị trường thu hút vốn ngoại.
+- **Nhận định dòng tiền:** Dòng tiền thông minh sẽ ưu tiên giải ngân dần tại các vùng hỗ trợ kỹ thuật khi thị trường chịu áp lực rung lắc theo kịch bản "rũ cung" trước sóng nâng hạng.
 - **Hành động:** 
-    - KBC, VHC, TNG, MSR: Chú ý giải ngân tại các nhịp rung lắc kỹ thuật trong phiên (tận dụng tâm lý thị trường quanh vùng 1.700 - 1.720 điểm).
-    - SSI, VHM, HPG, VCB: Tiếp tục nắm giữ, vị thế chiến lược đón đầu dòng vốn thụ động khi thị trường nâng hạng.
+    - **Quan sát:** Chờ đợi sự xác nhận dòng tiền ngoại tại các mã trụ (VCB, VHM, HPG) tại vùng hỗ trợ 1.700.
+    - **Chú ý giải ngân:** Tích lũy dần các mã hưởng lợi trực tiếp từ FDI và xuất khẩu (KBC, VHC, MSR) nếu có nhịp điều chỉnh trong phiên.
