@@ -1,18 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:10, 16/08/2026
+⏱ Thời gian: 07:15 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam được truyền thông quốc tế (Bloomberg) đánh giá là điểm sáng tăng trưởng tại châu Á -> [Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm Bất động sản Khu công nghiệp (KBC, SZC, GVR) và Logistics (GMD).
-- Thị trường tín chỉ carbon chính thức vận hành với 92 doanh nghiệp tham gia -> [Tích cực] -> Dòng tiền chọn lọc vào nhóm sở hữu quỹ rừng/năng lượng tái tạo (GVR, REE).
-- Xu hướng suy giảm trong ngành bán lẻ thời trang (đóng cửa hàng loạt) -> [Tiêu cực] -> Thận trọng với nhóm bán lẻ tiêu dùng (PNJ), áp lực từ sức mua yếu.
+- Việt Nam được truyền thông quốc tế (Bloomberg) đánh giá là "Điểm sáng mới tại châu Á": -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến hướng mạnh vào nhóm BĐS Khu công nghiệp (KCN) và Logistic nhờ kỳ vọng FDI gia tăng.
+- Chính thức vận hành thị trường tín chỉ Carbon sau 2 tháng: -> [Đánh giá: Tích cực] -> Dòng tiền sẽ ưu tiên các doanh nghiệp có quỹ đất rừng lớn hoặc sở hữu danh mục năng lượng tái tạo (ESG Play).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: TDM
-- Động lực (FA): Cổ đông lớn (Vietcap) thực hiện quyền mua 15,5 triệu cổ phiếu.
-- Nhận định dòng tiền: Củng cố niềm tin về kế hoạch tăng vốn và cam kết dài hạn, có khả năng tạo lực đỡ giá tốt trong ngắn hạn.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc tích lũy quanh vùng hỗ trợ.
+- **Mã: GVR**
+  - Động lực (FA): Hưởng lợi kép từ hạ tầng KCN (chuyển đổi đất cao su) và tiềm năng doanh thu mới từ tín chỉ Carbon (quỹ rừng lớn).
+  - Nhận định dòng tiền: Tín hiệu tích cực từ cả vĩ mô lẫn câu chuyện ngành, khả năng thu hút dòng tiền trung - dài hạn.
+  - Hành động: Tiếp tục quan sát điểm nổ khối lượng, ưu tiên giữ vị thế.
 
-- Mã: GVR
-- Động lực (FA): Hợp lưu từ tiềm năng chuyển đổi đất cao su sang khu công nghiệp và hưởng lợi trực tiếp từ thị trường tín chỉ carbon.
-- Nhận định dòng tiền: Triển vọng tích cực từ câu chuyện dài hạn, dòng tiền thông minh có xu hướng gia tăng tỷ trọng khi các chính sách xanh và FDI đồng thuận.
-- Hành động: Tiếp tục quan sát và nắm giữ vị thế.
+- **Mã: TDM**
+  - Động lực (FA): Cổ đông lớn thực hiện quyền mua 15,5 triệu cổ phiếu thành công.
+  - Nhận định dòng tiền: Củng cố niềm tin vào kế hoạch tài chính, tạo nền tảng hỗ trợ giá (price floor) trong ngắn hạn.
+  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật, thể hiện sự đồng thuận của cổ đông lớn.
+
+- **Mã: PNJ**
+  - Động lực (FA): Áp lực từ xu hướng suy giảm chi tiêu bán lẻ thời trang nội địa.
+  - Nhận định dòng tiền: Rủi ro ngắn hạn về sức mua, cần thận trọng với dòng tiền đầu cơ vào nhóm bán lẻ xa xỉ.
+  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát thêm các chỉ số tiêu dùng (CPI) kỳ tiếp theo.
