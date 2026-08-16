@@ -1,37 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:30 ngày 16/08/2026
+⏱ Thời gian: 11:15 - 16/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá xăng dầu trong nước giảm mạnh: -> [Tác động: Tích cực] -> Dòng tiền sẽ hướng vào nhóm Vận tải, Logistics (hưởng lợi biên lợi nhuận từ chi phí đầu vào giảm).
-- Truyền thông quốc tế (Bloomberg) đánh giá cao vị thế FDI Việt Nam: -> [Tác động: Tích cực] -> Dòng tiền tập trung nhóm BĐS Khu công nghiệp (KBC, SZC) và Cảng biển (GMD).
+- **MSCI tái cơ cấu tăng tỷ trọng ngân hàng Việt Nam:** Tác động **Tích cực** -> Dòng tiền ngoại (ETF) sẽ tập trung vào nhóm vốn hóa lớn (Bluechips ngành Bank) để đón đầu làn sóng nâng tỷ trọng, củng cố thanh khoản chung cho VN-Index.
+- **Căng thẳng eo biển Hormuz & Giá dầu tăng:** Tác động **Tích cực** cho nhóm thượng nguồn ngành dầu khí do kỳ vọng biên lợi nhuận cải thiện trước biến động giá dầu thế giới.
+- **Áp lực từ lợi suất trái phiếu tăng:** Tác động **Tiêu cực** lên nhóm Bất động sản (VHM, PDR) và Chứng khoán (SSI, VND) do chi phí vốn gia tăng và định giá bị nén.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TNG**
-- Động lực (FA): Lợi nhuận quý cao kỷ lục, biên lợi nhuận phục hồi.
-- Nhận định dòng tiền: Tin tức phản ánh nội tại doanh nghiệp rất mạnh, dự kiến kích hoạt dòng tiền đầu cơ lẫn tăng trưởng vào nhóm Dệt may.
-- Hành động: Chú ý giải ngân khi có nhịp rung lắc trong phiên.
-
-- Mã: **MWG**
-- Động lực (FA): KQKD cải thiện nhờ hiệu quả tái cấu trúc chuỗi Bách Hóa Xanh và sức mua tiêu dùng phục hồi.
-- Nhận định dòng tiền: Củng cố niềm tin cho dòng tiền trung hạn, hỗ trợ xu hướng tăng ngắn hạn.
-- Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
-
-- Mã: **HAH, VTP**
-- Động lực (FA): Hưởng lợi từ giá xăng dầu nội địa giảm.
-- Nhận định dòng tiền: Tác động trực tiếp đến bảng cân đối kế toán, kỳ vọng dòng tiền phản ứng tích cực trong phiên.
-- Hành động: Chú ý giải ngân.
-
-- Mã: **GVR**
-- Động lực (FA): Hưởng lợi kép từ xu hướng FDI và tiềm năng tài sản xanh (tín chỉ carbon).
-- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tích lũy dài hạn với các mã có lợi thế tài sản nền tảng tốt.
-- Hành động: Tiếp tục quan sát.
-
-- Mã: **TDM**
-- Động lực (FA): Cổ đông lớn thực hiện quyền mua thành công.
-- Nhận định dòng tiền: Tạo tâm lý ổn định, giảm áp lực pha loãng tâm lý, hỗ trợ giá.
-- Hành động: Tiếp tục quan sát.
-
-- Mã: **PNJ**
-- Động lực (FA): Ngành bán lẻ xa xỉ gặp áp lực do sức mua suy giảm chung.
-- Nhận định dòng tiền: Rủi ro dòng tiền rút lui nếu áp lực chi tiêu tiêu dùng tiếp tục là chủ đề chính trên truyền thông.
-- Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ.
+- **Mã:** PVD
+  - **Động lực (FA):** Căng thẳng địa chính trị eo biển Hormuz đẩy giá dầu thô tăng cao.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ dịch chuyển mạnh vào nhóm thượng nguồn khi giá dầu phản ứng với tin tức.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền có sự xác nhận bùng nổ khối lượng.
+- **Mã:** VCB, TCB
+  - **Động lực (FA):** MSCI tăng tỷ trọng ngân hàng Việt Nam trong rổ danh mục.
+  - **Nhận định dòng tiền:** Dòng tiền khối ngoại sẽ duy trì lực cầu chủ động, hỗ trợ nền giá vững chắc.
+  - **Hành động:** Tiếp tục nắm giữ, vị thế trung hạn hưởng lợi trực tiếp.
+- **Mã:** VHM, PDR
+  - **Động lực (FA):** Lợi suất trái phiếu tăng làm tăng chi phí lãi vay và áp lực định giá.
+  - **Nhận định dòng tiền:** Áp lực cung ngắn hạn có khả năng gia tăng do tâm lý ngại rủi ro đòn bẩy.
+  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy trong nhịp rung lắc.
+- **Mã:** MWG
+  - **Động lực (FA):** Kết quả kinh doanh khả quan bị "nhiễu" bởi tin tức rủi ro pháp lý mảng tài chính tiêu dùng.
+  - **Nhận định dòng tiền:** Dòng tiền có thể phân hóa, tạm thời đứng ngoài chờ làm rõ tính pháp lý.
+  - **Hành động:** Tiếp tục quan sát.
