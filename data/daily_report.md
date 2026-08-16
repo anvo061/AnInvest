@@ -1,18 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:30 - 17/08/2026
+⏱ Thời gian: 00:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá USD/VND hạ nhiệt mạnh:** -> **Đánh giá: Tích cực** -> Dòng tiền sẽ ưu tiên các nhóm ngành có tỷ trọng nợ vay USD lớn hoặc chi phí nhập khẩu cao: **Điện (POW), Hàng không (HVN), Thép (HPG).**
-- **Kỳ vọng nâng hạng thị trường (FTSE):** -> **Đánh giá: Tích cực** -> Dòng tiền ngoại (ETF) sẽ tập trung vào nhóm vốn hóa lớn (Blue-chips) để đón đầu làn sóng dịch chuyển dòng vốn: **VCB, VHM, SSI, HPG, MSN.**
-- **Căng thẳng địa chính trị Trung Đông kéo dài:** -> **Đánh giá: Tích cực (cho nhóm dầu khí)** -> Dòng tiền sẽ duy trì sự tập trung vào nhóm thượng nguồn: **PVD, PVS.**
+- **Tỷ giá hạ nhiệt:** Giá USD tại ngân hàng và thị trường tự do giảm mạnh -> **Tích cực:** Giảm áp lực chi phí tài chính (lỗ tỷ giá) cho các doanh nghiệp vay nợ USD lớn và hỗ trợ ổn định tâm lý khối ngoại -> **Dòng tiền hướng vào:** Nhóm ngành Năng lượng (điện), Hàng không và Thép.
+- **Kỳ vọng nâng hạng FTSE:** Dòng vốn ngoại dự kiến đổ vào thị trường qua các quỹ ETF -> **Tích cực:** Tạo động lực tăng trưởng dài hạn cho nhóm vốn hóa lớn (Bluechips) -> **Dòng tiền hướng vào:** Nhóm Chứng khoán (hưởng lợi phí/thanh khoản) và các mã trụ (VCB, VHM, HPG).
+- **Chuỗi cung ứng khoáng sản:** Mỹ gặp khó trong việc phá thế thống trị của Trung Quốc -> **Tích cực:** Mở cơ hội xuất khẩu và tham gia chuỗi cung ứng toàn cầu cho doanh nghiệp có trữ lượng lớn tại Việt Nam.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-- **Động lực (FA):** Căng thẳng Iran-US không có tiến triển hòa hoãn, nguồn cung dầu thắt chặt giữ giá dầu neo cao.
-- **Nhận định dòng tiền:** Hỗ trợ giá dầu ổn định giúp cải thiện biên lợi nhuận cho thuê giàn khoan. Dòng tiền ngắn hạn kỳ vọng tiếp tục phản ứng tích cực với tin tức địa chính trị.
-- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần nhất với thanh khoản gia tăng.
+- **Mã:** **MSR**
+  - **Động lực (FA):** Nhu cầu khoáng sản chiến lược từ Mỹ chưa được đáp ứng, tạo lợi thế cho doanh nghiệp sở hữu trữ lượng vonfram lớn.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ kỳ vọng vào câu chuyện địa chính trị - thương mại có thể gia tăng.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự với khối lượng lớn.
+- **Mã:** **VCB, VHM, HPG, SSI**
+  - **Động lực (FA):** Hưởng lợi kép từ việc nâng hạng FTSE và chi phí vay vốn/nguyên liệu (đối với HPG) giảm nhờ tỷ giá hạ nhiệt.
+  - **Nhận định dòng tiền:** Dòng tiền thông minh bắt đầu gom hàng trước thời điểm nâng hạng, dù có thể rung lắc kỹ thuật ngắn hạn.
+  - **Hành động:** Tiếp tục quan sát, ưu tiên tích lũy tại các nhịp điều chỉnh trong phiên (rũ bỏ cung giá thấp).
+- **Mã:** **POW, HVN**
+  - **Động lực (FA):** Giảm lỗ chênh lệch tỷ giá (đối với các khoản vay USD) trực tiếp cải thiện lợi nhuận tài chính.
+  - **Nhận định dòng tiền:** Tích cực trong ngắn hạn do yếu tố vĩ mô hỗ trợ trực tiếp.
+  - **Hành động:** Chú ý giải ngân theo đà phục hồi.
 
-- **Mã:** HPG
-- **Động lực (FA):** Hưởng lợi kép từ việc tỷ giá USD/VND giảm (giảm chi phí nhập nguyên liệu) và sự ưu tiên của khối ngoại trong kỳ vọng nâng hạng thị trường.
-- **Nhận định dòng tiền:** Tín hiệu kỹ thuật ủng hộ sự dẫn dắt của dòng tiền khối ngoại vào cổ phiếu quốc dân.
-- **Hành động:** Tiếp tục quan sát để gia tăng tỷ trọng khi có nhịp rung lắc.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Hiện tại chưa có tin tức mới liên quan đến EIB, BSR trong 15 phút qua. Tiếp tục giữ chiến lược quan sát theo kịch bản cũ.

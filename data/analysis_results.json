@@ -1,5 +1,71 @@
 ﻿[
   {
+    "Title": "Cục Hàng không Việt Nam: Chuyến bay VN34 va quệt đuôi khi cất cánh, 287 người an toàn",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/cuc-hang-khong-viet-nam-chuyen-bay-vn34-va-quet-duoi-khi-cat-canh-287-nguoi-an-toan-100260816222558564.htm",
+    "PubDate": "8/16/2026 10:46:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Sự cố kỹ thuật đơn lẻ, không gây thiệt hại về người và không làm thay đổi triển vọng kinh doanh hay vị thế tài chính của các doanh nghiệp hàng không niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Hàng không. Sự cố kỹ thuật đơn lẻ không ảnh hưởng đến dòng tiền ngành. Không có tác động đến giá cổ phiếu HVN hay ACV.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 00:41:52"
+  },
+  {
+    "Title": "Mỹ thiếu nhân lực để phá thế thống trị khoáng sản của Trung Quốc",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/my-thieu-nhan-luc-de-pha-the-thong-tri-khoang-san-cua-trung-quoc-5109777.html",
+    "PubDate": "Mon, 17 Aug 2026 00:08:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc Mỹ gặp khó khăn trong chuỗi cung ứng khoáng sản từ Trung Quốc tạo cơ hội cho các quốc gia có trữ lượng khoáng sản lớn như Việt Nam tham gia vào chuỗi cung ứng toàn cầu, đặc biệt là đất hiếm.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Khai khoáng. Tin tức vĩ mô quốc tế, thiếu lộ trình cụ thể cho Việt Nam. Dòng tiền cần thận trọng với các kỳ vọng mang tính suy diễn xa.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "MSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu trữ lượng vonfram lớn, là mắt xích quan trọng trong chuỗi cung ứng khoáng sản chiến lược mà Mỹ đang tìm kiếm."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 00:41:23"
+  },
+  {
+    "Title": "VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-cu-hich-nang-hang-ftse-5109688.html",
+    "PubDate": "Mon, 17 Aug 2026 00:10:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc nâng hạng thị trường là động lực dài hạn thu hút dòng vốn ngoại (ETF), dù ngắn hạn có thể chịu áp lực điều chỉnh kỹ thuật để rũ bỏ cung giá thấp trước chu kỳ tăng mới.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô dài hạn, chưa có tác động dòng tiền tức thời. Cần quan sát vùng hỗ trợ kỹ thuật 1.700 điểm trước khi giải ngân vào nhóm vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ tăng trưởng thanh khoản và thị phần môi giới khi dòng vốn ngoại đổ vào."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn, trọng số cao trong danh mục các quỹ ETF ngoại khi nâng hạng."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu quốc dân, ưu tiên hàng đầu của khối ngoại trong các đợt giải ngân nâng hạng."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu trụ cột, thu hút dòng vốn thụ động từ các quỹ ETF quốc tế."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 00:40:49"
+  },
+  {
     "Title": "Một doanh nghiệp cao su chuẩn bị chốt ngày thưởng cổ phiếu tỷ lệ 300% - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzQxU3p1R3I3S182bjlLUUpoWEUxMWJCa053WGVQVGlJR3BrSE1qaW4zV2xSMVVMNHNyRlMwLTdaelBMWkhHcHBPZ3B6a3kyM2VENnQ4aTFtXzlrTWdOZFMzU3l5TmYwSkZKNzNIQTNYNnRVSEVOakl5SjU2MzBka0UwZjBOd1FuMkRaUGxvU2x6cURSUHl6cnh2YTMyRFRKYllFRGt6VDZxODJR?oc=5",
@@ -16643,55 +16709,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 07:48:20"
-  },
-  {
-    "Title": "Trái cây Úc, New Zealand vào mùa 'rầm rộ' tại TP.HCM",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/trai-cay-uc-new-zealand-vao-mua-ram-ro-tai-tphcm-100260808203351819.htm",
-    "PubDate": "8/9/2026 6:24:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về hoạt động thương mại bán lẻ trái cây nhập khẩu thông thường, không tạo ra thay đổi đáng kể về biên lợi nhuận hay thị phần cho các doanh nghiệp bán lẻ niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ. Hoạt động nhập khẩu trái cây mùa vụ là nghiệp vụ kinh doanh bình thường, không tác động đến dòng tiền hay định giá cổ phiếu bán lẻ.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 07:48:11"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 23/6: Dầu thế giới giảm mạnh, trong nước chờ điều chỉnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-23-6-trong-nuoc-cho-dieu-chinh-2528342.html",
-    "PubDate": "Tue, 23 Jun 2026 07:31:20 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Giá dầu giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời giảm áp lực lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm giảm chi phí đầu vào cho vận tải nhưng gây áp lực tâm lý lên nhóm dầu khí. Tác động biên lợi nhuận cần thời gian phản ánh, chưa đủ tạo sóng dòng tiền ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 07:47:57"
-  },
-  {
-    "Title": "Vé máy bay đi Singapore, Thái Lan giảm sâu trong mùa hè",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/ve-may-bay-di-singapore-thai-lan-giam-sau-trong-mua-he-5106811.html",
-    "PubDate": "Sun, 09 Aug 2026 07:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá vé giảm kích cầu du lịch nước ngoài, thúc đẩy doanh thu các công ty lữ hành và dịch vụ hàng không, dù áp lực cạnh tranh giá vé máy bay có thể ảnh hưởng biên lợi nhuận hãng hàng không.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá vé giảm kích cầu outbound nhưng gây áp lực biên lợi nhuận hàng không. Tác động phân hóa, cần theo dõi sát biên lợi nhuận doanh nghiệp lữ hành.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VTR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ nhu cầu tour du lịch nước ngoài tăng cao nhờ giá vé máy bay giảm."
-      },
-      {
-        "Ticker": "VTD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Gia tăng doanh thu từ các dịch vụ lữ hành và đặt tour đi các thị trường Đông Nam Á."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 07:47:38"
   }
 ]
