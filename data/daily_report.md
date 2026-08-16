@@ -1,22 +1,28 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 17:50 - 16/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 18:00 - 16/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Đề xuất giảm lệ phí trước bạ cho công dân có định danh điện tử mức độ 2:** -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm **Bất động sản (đất nền/căn hộ)** và **Bán lẻ ô tô** do kỳ vọng giảm chi phí giao dịch, kích cầu tiêu dùng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Khởi động dự án khai thác khí đốt quy mô 113 tỷ m3: Đánh giá Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm Dầu khí (Thượng nguồn & Dịch vụ kỹ thuật) và Điện.
+- VietinBank (CTG) thoái vốn tài sản BĐS: Đánh giá Tích cực -> Củng cố thanh khoản ngân hàng và ghi nhận đột biến lợi nhuận trong quý tới.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-
-- **Mã: CTG**
-  - **Động lực (FA):** VietinBank chính thức thoái vốn/bán tòa tháp tại Ciputra cho đối tác BĐS lớn.
-  - **Nhận định dòng tiền:** Cải thiện tỷ lệ an toàn vốn (CAR) và ghi nhận lợi nhuận đột biến từ hoạt động khác trong quý tới. Dự kiến dòng tiền sẽ phản ứng tích cực với thông tin này, tăng vị thế cho mã ngân hàng vốn hóa lớn.
-  - **Hành động:** Chú ý giải ngân nếu có sự đồng thuận về khối lượng giao dịch tại vùng nền giá hiện tại.
-
-- **Mã: CII**
-  - **Động lực (FA):** CII liên tục gia tăng tỷ lệ sở hữu tại PC1.
-  - **Nhận định dòng tiền:** Củng cố chiến lược hệ sinh thái Hạ tầng - Năng lượng. Sự gia tăng sở hữu cho thấy dòng tiền của CII đang tích cực "gom" tài sản tại PC1, tạo kỳ vọng về tăng trưởng giá trị danh mục đầu tư tài chính.
-  - **Hành động:** Tiếp tục quan sát biến động giá của cả CII và PC1; chú ý điểm hợp lưu kỹ thuật khi dòng tiền tập trung vào các mã có cấu trúc cổ đông cô đặc.
-
-- **Mã: MWG**
-  - **Động lực (FA):** Hoàn tất mua lại cổ phiếu ESOP từ nhân viên nghỉ việc.
-  - **Nhận định dòng tiền:** Giảm pha loãng, cải thiện EPS và uy tín quản trị. Đây là tín hiệu "đỡ giá" chủ động từ doanh nghiệp, giúp giảm áp lực cung hàng trôi nổi trong ngắn hạn.
-  - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, quản trị theo kịch bản giữ giá của doanh nghiệp.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PVD**
+  - Động lực (FA): Hưởng lợi trực tiếp từ dự án khai thác khí quy mô lớn (gia tăng nhu cầu giàn khoan).
+  - Nhận định dòng tiền: Tin tức tạo "cú hích" cho nhóm dầu khí, khả năng cao dòng tiền đầu cơ sẽ quay lại các mã có tính nhạy sóng cao.
+  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên tới.
+- Mã: **GAS**
+  - Động lực (FA): Trực tiếp khai thác và phân phối khí từ dự án mới.
+  - Nhận định dòng tiền: Hưởng lợi dài hạn, dự kiến thu hút dòng tiền từ các quỹ đầu tư giá trị.
+  - Hành động: Tiếp tục quan sát để tối ưu điểm vào theo sóng ngành.
+- Mã: **POW**
+  - Động lực (FA): Biên lợi nhuận cải thiện mạnh (tăng 300%).
+  - Nhận định dòng tiền: Xác nhận đà phục hồi ngành điện, củng cố vị thế cho nhà đầu tư nắm giữ.
+  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ.
+- Mã: **CTG**
+  - Động lực (FA): Thu lãi đột biến từ thoái vốn tòa tháp Ciputra.
+  - Nhận định dòng tiền: Cải thiện chỉ số tài chính, có thể thúc đẩy lực cầu khối ngoại.
+  - Hành động: Chú ý giải ngân.
+- Mã: **MWG**
+  - Động lực (FA): Mua lại cổ phiếu ESOP.
+  - Nhận định dòng tiền: Giảm áp lực cung, tạo dư địa tăng giá ngắn hạn.
+  - Hành động: Tiếp tục quan sát.
