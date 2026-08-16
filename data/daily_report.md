@@ -1,25 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 18:55 - 16/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 19:30 - 16/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **NHNN khả thi kế hoạch mua ngoại tệ giao ngay:** Tín hiệu thanh khoản tiền đồng dồi dào, hỗ trợ hạ lãi suất và ổn định tỷ giá -> **Tích cực** -> Dòng tiền ưu tiên nhóm Ngân hàng (VCB, BID, TCB).
-- **Khởi động dự án khai thác mỏ khí đốt trữ lượng 113 tỷ m3:** Tác động trực tiếp đến thượng nguồn năng lượng -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí (GAS, PVS, PVD).
-- **Áp lực bán ròng từ khối ngoại (80.000 tỷ đồng YTD):** Tạo áp lực cung lớn lên nhóm vốn hóa lớn -> **Tiêu cực** -> Thận trọng với các mã trụ (VHM, HPG, MSN, VIC, VNM).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tín hiệu NHNN mua ngoại tệ giao ngay:** Tạo thanh khoản tiền đồng dồi dào, giảm áp lực lãi suất -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, BID, TCB)**.
+- **Dự án khai thác mỏ khí 113 tỷ m3:** Kích hoạt chuỗi giá trị năng lượng thượng nguồn -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí (GAS, PVS, PVD)**.
+- **Áp lực bán ròng khối ngoại (80.000 tỷ từ đầu năm):** Gây rào cản tâm lý lên nhóm trụ -> **Tiêu cực** -> Thận trọng với nhóm **Bluechips (VHM, HPG, MSN, VIC, VNM)**.
+- **Thoái vốn tài sản tại CTG:** Cải thiện tỷ lệ an toàn vốn (CAR) -> **Tích cực** -> Dòng tiền ngắn hạn vào **CTG**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-    - **Động lực (FA):** Được hưởng lợi trực tiếp từ dự án thăm dò, khai thác mỏ khí đốt quy mô lớn vừa công bố.
-    - **Nhận định dòng tiền:** Hưởng lợi từ game tăng trưởng khối lượng công việc dài hạn, dự kiến thu hút dòng tiền đầu cơ kỹ thuật trong ngắn hạn.
-    - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt cản nền giá.
-- **Mã: CTG**
-    - **Động lực (FA):** Thoái vốn tòa tháp tại Ciputra, cải thiện tỷ lệ an toàn vốn (CAR) và ghi nhận lợi nhuận đột biến.
-    - **Nhận định dòng tiền:** Tin tức hỗ trợ trực tiếp cho định giá, giúp cổ phiếu thu hút dòng tiền nội khối ngân hàng.
-    - **Hành động:** Tiếp tục quan sát phản ứng giá tại vùng kháng cự, ưu tiên nắm giữ.
-- **Mã: POW**
-    - **Động lực (FA):** Lợi nhuận tăng trưởng 300% nhờ tối ưu hóa vận hành, củng cố vị thế ngành điện.
-    - **Nhận định dòng tiền:** Dòng tiền thông minh bắt đầu chú ý đến nhóm năng lượng cơ bản.
-    - **Hành động:** Chú ý giải ngân quanh vùng hỗ trợ mạnh.
-- **Mã: MWG**
-    - **Động lực (FA):** Mua lại ESOP nhân viên nghỉ việc, giảm pha loãng, tăng niềm tin cổ đông.
-    - **Nhận định dòng tiền:** Tín hiệu tốt về quản trị, hỗ trợ tâm lý giữ giá cổ phiếu trước áp lực thị trường chung.
-    - **Hành động:** Tiếp tục quan sát xu hướng dòng tiền khối ngoại tại mã này.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** PVD
+- **Động lực (FA):** Được hưởng lợi trực tiếp từ dự án khai thác mỏ khí lớn vừa công bố.
+- **Nhận định dòng tiền:** Tin tức cộng hưởng với kỳ vọng thượng nguồn dầu khí sẽ tạo lực đẩy cho PVD trong các phiên tới.
+- **Hành động:** Chú ý giải ngân (Canh nhịp rung lắc để vào vị thế).
+
+- **Mã:** CTG
+- **Động lực (FA):** Thoái vốn tài sản tại Ciputra giúp ghi nhận lợi nhuận đột biến.
+- **Nhận định dòng tiền:** Tin tức hỗ trợ trực tiếp giá cổ phiếu, dự kiến thu hút dòng tiền trading ngắn hạn.
+- **Hành động:** Chú ý giải ngân (Theo dõi phản ứng khối lượng tại vùng hỗ trợ).
+
+- **Mã:** POW
+- **Động lực (FA):** Kết quả kinh doanh đột biến (+300%) củng cố nền tảng cơ bản.
+- **Nhận định dòng tiền:** Dòng tiền sẽ tìm đến các mã có câu chuyện lợi nhuận thực tế trong bối cảnh thị trường phân hóa.
+- **Hành động:** Tiếp tục quan sát (Vị thế nắm giữ an toàn).
