@@ -1,5 +1,34 @@
 ﻿[
   {
+    "Title": "VDSC: Xuất hiện tín hiệu để Ngân hàng Nhà nước có thể mua ngoại tệ giao ngay - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXVGN2g0N210NEdwc25DZ0c3ZEs5QWRpZWJoNkFMNm9rX1Q4SG5lVVQ2S2tDMkZkdndjdjl0UC1Zb0w5QmZmQTFPakpjWlY1WWwwYzRZQ1NuTHBXbDhLYW5qYlMwd0tDQlZ1TlNYNXctNUJ6eDdxNTgwUEhOYlQxUVRYX21IV2picVdtbW1hT0hFa1JFVE1iNlAxb0JmeEUxNllPYU16OFRUOGhYOExrVGVhQ2Ntdw?oc=5",
+    "PubDate": "Sun, 16 Aug 2026 10:54:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc NHNN mua ngoại tệ giúp tăng dự trữ ngoại hối, bơm thêm thanh khoản tiền đồng vào hệ thống ngân hàng, hỗ trợ giảm áp lực lãi suất và ổn định tỷ giá.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Thanh khoản hệ thống cải thiện, giảm áp lực lãi suất. Ưu tiên nhóm Ngân hàng quốc doanh có vị thế điều tiết ngoại tệ. Nhóm xuất khẩu hưởng lợi gián tiếp từ ổn định tỷ giá.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ thanh khoản hệ thống dồi dào và vị thế dẫn đầu trong điều tiết ngoại tệ."
+      },
+      {
+        "Ticker": "BID",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thanh khoản tiền đồng tăng giúp giảm chi phí huy động vốn, cải thiện NIM."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ môi trường lãi suất ổn định, thúc đẩy tăng trưởng tín dụng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-16 18:12:58"
+  },
+  {
     "Title": "Phía sau mức lợi nhuận tăng 300% của 'đại gia' sản xuất điện lớn thứ 2 Việt Nam - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDBqclZ1Sk1hNWk3bDJDeUdic2ZEMTRDY3pTLWdDVF81clZTS3JyUnlfUzRPc0k1X3lIaGhvVDVVTi1jRklob2hnblp2YlFVRkdRSFV6NzlfZndqRVRqRHBqd3NQQzBRNWN5d19wV1BaV3FvSUdvMTByaVk1MUVqNnljMlJveXNDbXRsT1JaeXZRQUFmVmRuQkdDRXk5bXhoT2lhclBWSzJ2Vi1LcE1zX0ctY0FQd00?oc=5",
@@ -16667,18 +16696,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-09 02:41:51"
-  },
-  {
-    "Title": "TCO: Thông báo giao dịch cổ phiếu của người nội bộ Nguyễn Thái Huy - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFh6ZXJLR2IxcW5hOE9sOXRyeU5IODlBNzA2eHFETTZXNi1RNURfZWhKaE0ySkVlZTZCQmI5NXZUaHd6bHY0TE1vZW5CaDh4ajRsOXFsY09CMkt3eVZ4b000UU4tNS0tT3d4RjA4d1JJVldGLU9EMlo5MkcwVmJGc3o2eV95cXZCRmtXa19oRllyZ3FwMm83ejlqTThNaExxMEZLbEhpSEZ6UQ?oc=5",
-    "PubDate": "Fri, 07 Aug 2026 10:24:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông báo giao dịch của người nội bộ là hoạt động công bố thông tin định kỳ, không phản ánh thay đổi về chiến lược kinh doanh hay yếu tố cơ bản của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - TCO. Giao dịch nội bộ cá nhân không làm thay đổi xu hướng dòng tiền lớn. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 02:06:50"
   }
 ]
