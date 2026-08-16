@@ -1,5 +1,68 @@
 ﻿[
   {
+    "Title": "Iran says no progress on reviving interim peace deal with US - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 10:39:06 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông kéo dài làm gián đoạn nguồn cung dầu, đẩy giá dầu thế giới neo cao, hỗ trợ trực tiếp cho các doanh nghiệp thượng nguồn ngành dầu khí Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Căng thẳng địa chính trị duy trì giá dầu, nhưng thiếu đột biến cung cầu. Cần theo dõi sát BSR do vị thế trung hạn đã quá hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu neo cao thúc đẩy nhu cầu khoan và đơn giá cho thuê giàn khoan tăng."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ các dự án thăm dò, khai thác dầu khí được đẩy mạnh khi giá dầu duy trì mức cao."
+      }
+    ],
+    "AnalyzedAt": "2026-08-16 20:42:59"
+  },
+  {
+    "Title": "Nguyên Phó chủ tịch Quốc hội Lê Minh Hoan: 'Cả ngành hàng đồng hành, để sầu riêng vươn xa'",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nguyen-pho-chu-tich-quoc-hoi-le-minh-hoan-ca-nganh-hang-dong-hanh-de-sau-rieng-vuon-xa-100260816114611799.htm",
+    "PubDate": "8/16/2026 2:29:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Thông tin mang tính định hướng chính sách hỗ trợ phát triển ngành hàng sầu riêng, giúp củng cố vị thế xuất khẩu và gia tăng giá trị cho các doanh nghiệp nông nghiệp có vùng trồng lớn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Phát biểu mang tính định hướng chính sách, thiếu tính cụ thể về cơ chế hỗ trợ tài chính. Tác động thực tế đến biên lợi nhuận doanh nghiệp chưa rõ ràng.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 20:42:26"
+  },
+  {
+    "Title": "TP.HCM đẩy mạnh liên kết vùng, tìm sản phẩm mới cho du lịch",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tphcm-day-manh-lien-ket-vung-tim-san-pham-moi-cho-du-lich-100260816184902216.htm",
+    "PubDate": "8/16/2026 7:28:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc đẩy mạnh liên kết vùng và đa dạng hóa sản phẩm du lịch giúp tăng lưu lượng khách, hỗ trợ doanh thu cho các doanh nghiệp dịch vụ du lịch, khách sạn và hàng không tại khu vực phía Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng hành chính, thiếu lộ trình giải ngân cụ thể. Tác động dòng tiền ngắn hạn không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 20:41:52"
+  },
+  {
+    "Title": "Kiếm hàng trăm triệu USD từ rừng, 20% doanh thu chuyển trực tiếp cho dân bản địa",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/kiem-hang-tram-trieu-usd-tu-rung-20-doanh-thu-chuyen-truc-tiep-cho-dan-ban-dia-2536011.html",
+    "PubDate": "Sun, 16 Aug 2026 20:27:20 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc thương mại hóa tín chỉ carbon rừng tạo ra nguồn thu ngoại tệ mới, thúc đẩy các doanh nghiệp có quỹ đất rừng lớn hoặc tham gia vào chuỗi giá trị tín chỉ carbon.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tín chỉ carbon là câu chuyện dài hạn, chưa có khung pháp lý và định giá cụ thể. Tác động tài chính ngắn hạn lên GVR, PHR là không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-16 20:41:35"
+  },
+  {
     "Title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
@@ -16621,63 +16684,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 04:54:15"
-  },
-  {
-    "Title": "VTK: Về việc nhận được công văn của Ủy ban Chứng khoán Nhà nước đối với báo cáo kết quả phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYkRvdl8zck1FT2ZmbUZXUHNxMmJzTUV4enNxelpTTGNCQ1dOdlN0ajh5V2ZOaGYwVE9KSUJ2STRhOTA0TXZreWh3T1AyVjM4RHFfNTVDVEJWb2x4RjFuakpnX0FHck1rbHZpSE5BOVRFd3l2ZXp4VzdXRnNrbjlPYWtmUWxkVnJwWnNoNldza0xwbGszUC16WWhiQ1JJcDRuY09vMXByb2cyMTFIc01FS1NVMkJkQUw1MXNDbDlhaFRuRnhSX1RsRVlzV1hTdk5UTEhXdlBfQ09ydzg0SklwMlpCVUljd3E2LUppS2VDTjBHcTJJV1BDaVdpZ3MxUXZtQ3cwNXNsaTdCRlp0QzlhTjh5emFGSnc2MWc?oc=5",
-    "PubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thủ tục hành chính thông thường sau khi doanh nghiệp hoàn tất phát hành cổ phiếu thưởng/tăng vốn, không tác động trực tiếp đến kết quả kinh doanh cốt lõi.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - VTK. Việc hoàn tất thủ tục tăng vốn là hoạt động hành chính, không tạo đột biến về dòng tiền hay thay đổi giá trị nội tại doanh nghiệp trong ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 04:54:06"
-  },
-  {
-    "Title": "Giá vàng hôm nay 23/6/2026 tiếp tục giảm mạnh, ‘bốc hơi’ 1,6 triệu đồng/lượng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-23-6-2026-phuc-hoi-manh-sau-tin-hieu-tich-cuc-2528277.html",
-    "PubDate": "Tue, 23 Jun 2026 15:44:09 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá vàng trong nước chủ yếu ảnh hưởng đến thị trường bán lẻ vàng vật chất, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Biến động giá vàng vật chất không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Không có tác động đến xu hướng thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 04:53:11"
-  },
-  {
-    "Title": "Nhà băng chi 6,8 tỷ đồng tặng nhân viên nhân dịp ông Phạm Nhật Vượng là cổ đông mới",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/nha-bang-chi-6-8-ty-dong-tang-nhan-dip-don-co-dong-moi-pham-nhat-vuong-2528544.html",
-    "PubDate": "Tue, 23 Jun 2026 17:08:02 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc tỷ phú Phạm Nhật Vượng trở thành cổ đông chiến lược tạo kỳ vọng về sự thay đổi quản trị và tiềm năng cộng hưởng hệ sinh thái, giúp cải thiện tâm lý nhà đầu tư đối với ngân hàng này.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR nội bộ, không thay đổi cấu trúc tài sản hay biên lợi nhuận cốt lõi. Tác động tâm lý ngắn hạn, thiếu động lực tăng trưởng bền vững.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 04:52:57"
-  },
-  {
-    "Title": "Green SM ra mắt dịch vụ gọi xe thuần điện tại Kazakhstan",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/green-sm-ra-mat-dich-vu-goi-xe-thuan-dien-tai-kazakhstan-2528611.html",
-    "PubDate": "Tue, 23 Jun 2026 18:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mở rộng thị trường quốc tế khẳng định năng lực vận hành của hệ sinh thái Vingroup, thúc đẩy thương hiệu xe điện VinFast ra thị trường toàn cầu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - VIC. Mở rộng thị trường quốc tế là bước đi chiến lược nhưng chưa tác động trực tiếp đến dòng tiền ngắn hạn hoặc biên lợi nhuận cốt lõi của tập đoàn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Khẳng định chiến lược toàn cầu hóa của hệ sinh thái, củng cố niềm tin nhà đầu tư vào khả năng mở rộng thị trường của VinFast."
-      }
-    ],
-    "AnalyzedAt": "2026-08-09 04:51:57"
   }
 ]
