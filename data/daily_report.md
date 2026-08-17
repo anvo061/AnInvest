@@ -1,20 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:20 - 18/08/2026
+⏱ Thời gian: 02:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị tại eo biển Hormuz leo thang gây rủi ro gián đoạn chuỗi cung ứng toàn cầu và biến động mạnh giá dầu -> [Đánh giá: Tiêu cực] -> [Dòng tiền phòng thủ sẽ gia tăng, áp lực bán lên nhóm Dầu khí và các ngành phụ thuộc chi phí vận tải].
+- Căng thẳng tại eo biển Hormuz gây gián đoạn chuỗi cung ứng toàn cầu và đẩy giá cước vận tải/giá dầu tăng -> [Đánh giá: Tiêu cực] -> [Dòng tiền phòng thủ có thể hướng về nhóm Dầu khí (PVD) hoặc Logistic, nhưng áp lực chung lên tâm lý thị trường là đáng kể].
+- Thanh khoản thị trường sụt giảm trước kỳ vọng nâng hạng -> [Đánh giá: Tiêu cực] -> [Nhóm ngành Chứng khoán (SSI, VND) chịu áp lực điều chỉnh do doanh thu cốt lõi bị ảnh hưởng].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: FPT
-- Động lực (FA): Thực hiện M&A quỹ đất 25.000 m2 tại TP.HCM, củng cố tăng trưởng tài sản dài hạn.
-- Nhận định dòng tiền: Tin tức hỗ trợ định giá cơ bản, tạo lực đỡ tâm lý trong ngắn hạn dù thị trường chung đang thiếu thanh khoản.
-- Hành động: Tiếp tục quan sát vùng nền giá; chưa cần giải ngân gấp do thanh khoản thị trường tổng thể đang suy yếu.
-
-- Mã: SSI, VND
-- Động lực (FA): Thanh khoản thị trường sụt giảm mạnh trước kỳ vọng nâng hạng.
-- Nhận định dòng tiền: Áp lực trực tiếp lên nguồn thu phí và margin, khó thu hút dòng tiền đầu cơ trong ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị tỷ trọng, không bắt đáy khi chưa có tín hiệu cải thiện thanh khoản hệ thống.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-- Nhận định: Căng thẳng tại Hormuz tạo biến động giá dầu khó lường, gây bất lợi cho biên lợi nhuận lọc hóa dầu và quản trị tồn kho. Với vị thế đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu hiện tại làm gia tăng rủi ro biên lợi nhuận. Khuyến nghị thực hiện **chốt lời/cơ cấu lại danh mục** để bảo toàn vốn trước khi các biến động vĩ mô tiêu cực tác động trực tiếp vào báo cáo tài chính quý III.
+- **Mã: PC1**
+  - Động lực (FA): CII tiếp tục nâng tỷ lệ sở hữu lên hơn 12%.
+  - Nhận định dòng tiền: Hành động gia tăng sở hữu của cổ đông lớn cho thấy sự tự tin vào định giá nội tại, có thể tạo lực đỡ mạnh cho giá cổ phiếu trong ngắn hạn bất chấp rung lắc chung.
+  - Hành động: Chú ý giải ngân nếu xuất hiện các phiên điều chỉnh kỹ thuật kèm khối lượng thấp.
+- **Mã: SSI, VND**
+  - Động lực (FA): Thanh khoản thị trường thấp kéo dài trước "giờ G" nâng hạng.
+  - Nhận định dòng tiền: Áp lực sụt giảm doanh thu môi giới/margin là hiện hữu. Dòng tiền ngắn hạn sẽ có xu hướng rút khỏi nhóm này để xoay vòng sang các cổ phiếu có câu chuyện riêng (M&A, thoái vốn).
+  - Hành động: Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát vùng hỗ trợ cứng, ưu tiên hạ tỷ trọng nếu mất xu hướng.
+- **Mã: FPT**
+  - Động lực (FA): M&A quỹ đất chiến lược 25.000m2 tại TP.HCM.
+  - Nhận định dòng tiền: Việc củng cố tài sản hữu hình gia tăng giá trị nội tại, giúp cổ phiếu duy trì sức mạnh giá (Relative Strength) tốt hơn thị trường chung.
+  - Hành động: Tiếp tục nắm giữ, tận dụng các nhịp rung lắc để tích lũy thêm.
