@@ -1,5 +1,63 @@
 ﻿[
   {
+    "Title": "Giá xăng dầu hôm nay 17/8: Thế giới có xu hướng tăng, trong nước giảm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-17-8-the-gioi-co-xu-huong-tang-trong-nuoc-giam-2546005.html",
+    "PubDate": "Mon, 17 Aug 2026 07:25:54 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá xăng dầu trong nước giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát chi phí đẩy.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá xăng giảm hỗ trợ biên lợi nhuận nhóm vận tải nhưng mức giảm không đột biến. Cần theo dõi sát biến động giá dầu thế giới để tránh rủi ro đảo chiều.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, giá xăng giảm hỗ trợ trực tiếp lợi nhuận."
+      },
+      {
+        "Ticker": "VTP",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí vận chuyển, tăng biên lợi nhuận cho dịch vụ chuyển phát."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 07:33:42"
+  },
+  {
+    "Title": "Tiền mặt phình to, lợi nhuận tăng mạnh: Sóng mới của cổ phiếu dầu khí?",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//tien-mat-phinh-to-loi-nhuan-tang-manh-song-moi-cua-co-phieu-dau-khi.html",
+    "PubDate": "Mon, 17 Aug 2026 00:30:53 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 4,
+    "MarketImpact": "Lượng tiền mặt dồi dào giúp các doanh nghiệp dầu khí giảm áp lực chi phí tài chính, tăng khả năng chi trả cổ tức và đầu tư vào các dự án trọng điểm, tạo nền tảng vững chắc cho tăng trưởng dài hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tiền mặt lớn là lợi thế nhưng chưa đủ tạo sóng nếu thiếu tăng trưởng doanh thu đột biến. Cần theo dõi sát tiến độ dự án thực tế thay vì kỳ vọng vào bảng cân đối kế toán.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lượng tiền mặt khổng lồ giúp duy trì cổ tức cao và đầu tư hạ tầng khí, tạo sức hút dòng tiền ổn định."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khối lượng công việc dự án lớn và bảng cân đối kế toán mạnh, hỗ trợ triển khai các dự án điện gió ngoài khơi."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tiền mặt dồi dào hỗ trợ tái đầu tư đội giàn khoan trong bối cảnh giá thuê giàn đang neo ở mức cao."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lợi nhuận tăng mạnh và tiền mặt lớn giúp tối ưu hóa vốn lưu động cho hoạt động lọc dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 07:33:27"
+  },
+  {
     "Title": "Lãi giảm hơn 90%, ‘ông lớn' hạ tầng lấy tiền đâu mua lại 108 tỷ đồng trái phiếu?",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/vay-no-lon-loi-nhuan-boc-hoi-cii-lay-tien-dau-mua-truoc-han-108-ty-trai-phieu-2545622.html",
@@ -16684,31 +16742,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-09 11:09:42"
-  },
-  {
-    "Title": "Giá vàng dự báo tăng gấp đôi lên 8.900 USD/ounce năm 2030, thực tế đến đâu?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-co-the-tang-gap-doi-len-8-900-usd-ounce-vao-nam-2030-2528282.html",
-    "PubDate": "Tue, 23 Jun 2026 08:46:28 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Dự báo dài hạn về giá vàng không có tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trên thị trường chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có ngành hưởng lợi. Dự báo giá vàng dài hạn mang tính chất tham khảo vĩ mô, không tạo ra biến động dòng tiền ngắn hạn cho các mã cổ phiếu trên sàn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 11:09:31"
-  },
-  {
-    "Title": "VIETNAM PRESS-Loans for H1 rice business up 32 pct - Vietnam Economic Times - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnhyaXpkcmhPMWFCWWJ3YTdEMGh3bzZrbndpcVpUY3E2RDJfNWhSV3N2RU9EQjNWWHpRZFhFaGRNYU1kRUZoMFNIOGpIYm5jelBwYkZQYVRyNHNIbkRCOWUwMGlQTzlmVGw2ZllCMG12UF9ObGFhakpHeXJXY1l3QmFvcGlkUQ?oc=5",
-    "PubDate": "Mon, 13 Jul 2015 07:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc tăng trưởng tín dụng 32% cho ngành lúa gạo phản ánh sự hỗ trợ vốn mạnh mẽ từ hệ thống ngân hàng, giúp các doanh nghiệp xuất khẩu gạo tăng cường thu mua và dự trữ, cải thiện vòng quay vốn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành Lương thực. Tín dụng tăng 32% hỗ trợ thanh khoản thu mua. Cần thận trọng với rủi ro nợ xấu và năng lực quản trị vốn của từng doanh nghiệp cụ thể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-09 09:57:12"
   }
 ]

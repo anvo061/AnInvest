@@ -1,26 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:15 - 17/08/2026
+⏱ Thời gian: 07:45 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thủ tướng thúc đẩy quan hệ kinh tế sâu rộng với Mỹ -> [Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm Khu công nghiệp (bất động sản công nghiệp), Xuất khẩu (thủy sản, dệt may) và Khoáng sản chiến lược.
+- **Thúc đẩy quan hệ kinh tế Việt - Mỹ:** Việc Chính phủ đẩy mạnh hợp tác kinh tế sau nâng cấp ngoại giao tạo kỳ vọng dòng vốn FDI và đơn hàng xuất khẩu tăng trưởng. -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào: Khu công nghiệp (KBC), Thủy sản (VHC), Dệt may (TNG)].
+- **Điều chỉnh giá xăng dầu:** Giá trong nước giảm giúp tối ưu hóa chi phí đầu vào. -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào: Logistics (HAH), Vận tải (VTP)].
+- **Chuẩn bị hạ tầng nâng hạng FTSE:** VN-Index có khả năng rung lắc để rũ bỏ cung giá thấp trước khi đón dòng vốn ETF ngoại. -> [Đánh giá tác động: Trung lập/Tích cực dài hạn] -> [Dòng tiền hướng vào: Nhóm vốn hóa lớn đầu ngành (SSI, VHM, HPG, VCB)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC, VHC, TNG, MSR**
-- Động lực (FA): Hưởng lợi trực tiếp từ chuỗi cung ứng Mỹ và sự khan hiếm nguồn cung khoáng sản chiến lược (đối với MSR).
-- Nhận định dòng tiền: Dòng vốn ngoại và dòng vốn đầu cơ sẽ chú ý vào nhóm cổ phiếu "câu chuyện quốc tế" trong ngắn hạn.
-- Hành động: Theo dõi sát lực cầu tại các vùng hỗ trợ cứng; chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền lớn xác nhận.
+- **Mã:** **PVD**
+- **Động lực (FA):** Lượng tiền mặt dồi dào, giá thuê giàn khoan đang neo ở mức cao, tối ưu hóa tái đầu tư.
+- **Nhận định dòng tiền:** Cổ phiếu hưởng lợi kép từ xu hướng tích cực của nhóm dầu khí và bảng cân đối kế toán khỏe mạnh. Dòng tiền có xu hướng gia tăng sự quan tâm khi định giá trở nên hấp dẫn hơn so với mặt bằng thị trường.
+- **Hành động:** Chú ý giải ngân theo nhịp điều chỉnh của thị trường chung.
 
-- Mã: **CII**
-- Động lực (FA): Lợi nhuận giảm 90%, áp lực trả nợ trái phiếu 108 tỷ đồng.
-- Nhận định dòng tiền: Tâm lý tiêu cực sẽ bao trùm, áp lực bán gia tăng từ nhà đầu tư cá nhân và tổ chức lo ngại thanh khoản.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng tại các mốc hỗ trợ kỹ thuật gần nhất.
+- **Mã:** **CII**
+- **Động lực (FA):** Lợi nhuận sụt giảm mạnh (>90%) và áp lực thanh toán trái phiếu (108 tỷ đồng).
+- **Nhận định dòng tiền:** Rủi ro tài chính hiện hữu tạo áp lực bán tháo/cơ cấu danh mục từ phía nhà đầu tư cá nhân và tổ chức.
+- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy.
 
-- Mã: **DVP**
-- Động lực (FA): Kết quả kinh doanh vượt kỳ vọng, sở hữu lượng tiền mặt ròng 500 tỷ.
-- Nhận định dòng tiền: Thu hút dòng tiền đầu tư giá trị trong bối cảnh thị trường chọn lọc doanh nghiệp có nội lực tài chính vững mạnh.
-- Hành động: Tiếp tục quan sát điểm cân bằng để thiết lập vị thế.
-
-- Mã: **SSI, VHM, HPG, VCB**
-- Động lực (FA): Dòng vốn ETF đón đầu lộ trình nâng hạng FTSE.
-- Nhận định dòng tiền: Khả năng rung lắc mạnh quanh vùng 1.700-1.720 điểm để rũ bỏ cung giá thấp trước khi tạo nền mới.
-- Hành động: Tiếp tục quan sát, ưu tiên gom dần các mã trụ trong nhịp điều chỉnh kỹ thuật.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã:** **BSR**
+- **Nhận định:** Dữ liệu cho thấy doanh nghiệp đang duy trì lợi nhuận tăng trưởng và lượng tiền mặt dồi dào, đây là nền tảng tài chính mạnh cho giai đoạn cuối năm 2026. Mặc dù đã qua mốc kỳ vọng trung hạn ban đầu (tháng 3/2026), nhưng với vị thế tài chính này, BSR vẫn giữ được sức hút dòng tiền ổn định. 
+- **Khuyến nghị:** Tiếp tục nắm giữ, chưa cần thiết phải cơ cấu chuyển dịch dòng tiền vào nhóm khác cho đến khi xuất hiện tín hiệu đảo chiều từ giá dầu thô thế giới.
