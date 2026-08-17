@@ -1,11 +1,11 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:30 ngày 17/08/2026
+⏱ Thời gian: 22:45 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- HOSE thông báo cắt margin 03 cổ phiếu do thua lỗ -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền: Tạo áp lực tâm lý ngắn hạn lên nhóm cổ phiếu thị giá thấp và nhóm có nền tảng tài chính yếu, nhà đầu tư cần rà soát danh mục margin để tránh bị giải chấp cưỡng bức].
+- Chính phủ chỉ đạo đơn giản hóa thủ tục cấp giấy chứng nhận quyền sử dụng đất -> Đánh giá tác động: Tích cực -> Dòng tiền dự kiến hướng vào nhóm Bất động sản (đặc biệt là các doanh nghiệp có quỹ đất sạch và dự án đang chờ pháp lý).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: [Nhóm cổ phiếu bị HOSE cắt margin]
-- Động lực (FA): Việc thua lỗ kéo dài dẫn đến vi phạm quy định ký quỹ (margin).
-- Nhận định dòng tiền: Dự kiến áp lực bán giải chấp sẽ xuất hiện tại phiên mở cửa, thanh khoản có thể bị nghẽn ở chiều bán đối với các mã này. 
-- Hành động: [Rủi ro vi phạm kịch bản] - Khuyến nghị hạ tỷ trọng ngay lập tức đối với danh mục đang nắm giữ các mã thuộc diện bị cắt margin, không bắt đáy cho đến khi có sự ổn định về mặt kỹ thuật.
+- Mã: VHM, PDR
+- Động lực (FA): Chính sách đẩy nhanh tiến độ cấp sổ và tháo gỡ vướng mắc pháp lý đất đai.
+- Nhận định dòng tiền: Kỳ vọng giảm thiểu rủi ro pháp lý dự án sẽ cải thiện niềm tin của dòng tiền khối ngoại và nhà đầu tư cá nhân, đẩy nhanh chu kỳ ghi nhận doanh thu.
+- Hành động: Chú ý giải ngân khi có nhịp rung lắc, theo dõi chặt chẽ khối lượng giao dịch tại vùng cản cứng.
