@@ -1,28 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:46 (18/08/2026)
+⏱ Thời gian: 06:45 ngày 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- GDP Việt Nam tăng trưởng vượt mốc 7% (Bloomberg) -> Tích cực -> Dòng tiền ưu tiên nhóm Ngân hàng (dẫn dắt tín dụng) và Bất động sản/Bán lẻ (hưởng lợi từ tiêu dùng và đầu tư).
-- Hệ sinh thái Vinhomes huy động thành công 2 tỷ USD trái phiếu -> Tích cực -> Củng cố thanh khoản ngành Bất động sản vốn hóa lớn, giảm rủi ro nợ vay.
+- Kinh tế Việt Nam tăng trưởng vượt mốc 7% theo dữ liệu Bloomberg -> [Tích cực] -> [Dòng tiền kỳ vọng xoay trục mạnh vào nhóm Ngân hàng, Bất động sản và Bán lẻ].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCB**
-  - Động lực (FA): Hưởng lợi trực tiếp từ tăng trưởng GDP > 7% và nhu cầu tín dụng nền kinh tế.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức quay lại nhóm trụ dẫn dắt.
-  - Hành động: Chú ý giải ngân nếu bứt phá nền giá hiện tại.
-- Mã: **VHM / VIC**
-  - Động lực (FA): Năng lực huy động vốn lớn khẳng định vị thế tài chính trong bối cảnh thị trường vốn khó khăn.
-  - Nhận định dòng tiền: Giảm áp lực tâm lý tiêu cực, thu hút dòng tiền trung hạn quay lại nhóm cổ phiếu bất động sản đầu ngành.
-  - Hành động: Tiếp tục quan sát phản ứng tại các vùng kháng cự cứng.
-- Mã: **PC1**
-  - Động lực (FA): CII liên tục tăng sở hữu lên hơn 12%.
-  - Nhận định dòng tiền: Dòng tiền có tính chất "cô đặc" cổ phiếu, tạo hỗ trợ cứng cho thị giá.
-  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ theo vị thế cổ đông lớn.
-- Mã: **CII**
-  - Động lực (FA): Phát hành thêm cổ phiếu ra công chúng.
-  - Nhận định dòng tiền: Áp lực pha loãng ngắn hạn, dòng tiền có xu hướng thận trọng.
-  - Hành động: Rủi ro vi phạm kịch bản kỹ thuật nếu thủng nền hỗ trợ gần nhất, cần quan sát lực hấp thụ cung.
-- Mã: **HAGL Agrico (HNG/HAG)**
-  - Động lực (FA): Chính thức triển khai IPO công ty nông nghiệp.
-  - Nhận định dòng tiền: Tạo sóng kỳ vọng cho nhóm nông nghiệp.
-  - Hành động: Chú ý quan sát dòng tiền đầu cơ gia tăng đột biến.
+- **Mã: VCB**
+  - Động lực (FA): Hưởng lợi trực tiếp từ đà tăng trưởng GDP >7% và nhu cầu tín dụng nội địa bùng nổ.
+  - Nhận định dòng tiền: Dòng tiền khối ngoại và tổ chức có khả năng dẫn dắt nhịp tăng mới dựa trên nền tảng tăng trưởng vĩ mô.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
+
+- **Mã: VHM / VIC**
+  - Động lực (FA): Huy động thành công hơn 2 tỷ USD trái phiếu, khẳng định năng lực thanh khoản hệ sinh thái.
+  - Nhận định dòng tiền: Giảm áp lực tâm lý lo ngại về dòng vốn, tạo vùng đệm hỗ trợ cứng cho thị giá trong ngắn hạn.
+  - Hành động: Tiếp tục quan sát tín hiệu cung cầu tại vùng nền.
+
+- **Mã: PC1**
+  - Động lực (FA): Cổ đông lớn (CII) tiếp tục nâng tỷ lệ sở hữu lên hơn 12%.
+  - Nhận định dòng tiền: Sự cô đặc cổ phiếu (do gom hàng từ cổ đông lớn) sẽ tạo biến động tích cực nếu dòng tiền đầu cơ nhập cuộc.
+  - Hành động: Chú ý giải ngân theo tín hiệu dòng tiền lớn.
+
+- **Mã: CII**
+  - Động lực (FA): Thông tin chào bán cổ phiếu ra công chúng đi kèm tin gom PC1.
+  - Nhận định dòng tiền: Tác động kép; áp lực pha loãng ngắn hạn đối trọng với kỳ vọng từ chiến lược đầu tư tài chính.
+  - Hành động: Rủi ro vi phạm kịch bản (pha loãng), cần quan sát sự hấp thụ cung tại các phiên tới.
