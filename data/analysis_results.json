@@ -1,5 +1,73 @@
 ﻿[
   {
+    "Title": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
+    "PubDate": "Sat, 15 Aug 2026 14:43:31 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông leo thang thường gây áp lực lên giá dầu thế giới và tâm lý rủi ro trên thị trường tài chính toàn cầu, gián tiếp ảnh hưởng đến VN-Index.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Rủi ro địa chính trị gây biến động giá dầu, tạo áp lực tâm lý lên thị trường. Cần theo dõi sát phản ứng cung cầu tại PVD, PVS và BSR.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu thế giới tăng do lo ngại xung đột giúp cải thiện kỳ vọng biên lợi nhuận cho các nhà cung cấp dịch vụ khoan."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ kỳ vọng giá dầu neo cao, thúc đẩy các dự án thăm dò và khai thác dầu khí."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu thô biến động mạnh gây rủi ro cho chi phí đầu vào và biên lợi nhuận lọc hóa dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 18:15:44"
+  },
+  {
+    "Title": "FUEKIVFS: Kết thúc giao dịch hoán đổi ngày 14/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObk51NzhVOWZPTDY4Uk1kYzhTZkl6YXJaTjBlQnNfQ2VPckhycXN2ejQzb2M0YnVINGVrN2tfTUM5b2FwcERXMWZJa2gyalhORElKVk5ZdThkbldjdTJfQWtfSmxob3R6WEN4dUt2R0c1R1c1SEw4bkk1Zk9JTGRPajZVdFNhdGZOWFJIenVJUldVTHkwbThQZVVXNEU2bmxtQlowZTBwd04wUFdMNEt6T0VlM29xdw?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 09:29:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không gây tác động đến giá trị tài sản ròng hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Hoạt động hoán đổi định kỳ không làm thay đổi cấu trúc danh mục hay dòng tiền thị trường. Không có tác động đến giá cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 18:15:24"
+  },
+  {
+    "Title": "FUEDCMID: Kết thúc giao dịch hoán đổi ngày 14/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWp6YVlVYmcyVFYzaVlzdGU1U2NkTG9ERTU4TDRQOEtkMlJBUmlobzVOQ1o2Ml9qcjN1bEJRQjA5QlFWNGNkQmlfZmhYTTB2eTBkNFNBNWNKX2VHQWVsVGxWOVRwdlg0Z0FlQ3dYMmpudnBMOEVjcTAzNmt5MkNzenZYelRvSk1tS252TFNLa3czTTFPeXVCYm9NSWNacG1KNWY4eGZOS2RlQVpzbmVvbC1kSzJmUQ?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 10:03:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc kết thúc giao dịch hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ định kỳ của quỹ, không tạo ra biến động dòng tiền hay thay đổi xu hướng thị trường. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 18:15:14"
+  },
+  {
+    "Title": "FUETPVND: Kết thúc giao dịch hoán đổi ngày 14/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSjRia2NXbVhZYzFOeGt0aDktZFM4bUNFWndDbVVLaXU3TkJ6b25RTDQxeUJUYzBncVRidVBUNGxKME9EWW1XUHlEODY2d3J4aFY3LTFWODU1LTJGaWVqWUJhOE50R3FCWEkzbDdfZkpwZHlpbV9nQ0J4d1Fta2QxWnQwTDlXR0lSNnV2ckJPRGQ1MmFVNE8wdzZCWHhPcjRNTzlZV1JjSXVpZnlzblcxRGZtT3lMZw?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 10:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay chiến lược đầu tư, không tác động đến thị trường chung.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ bình thường của quỹ hoán đổi danh mục. Không tạo ra biến động dòng tiền đáng kể trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 18:15:04"
+  },
+  {
     "Title": "FUESSV50: Kết thúc giao dịch hoán đổi ngày 14/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2s1Q2VDaUE3SmcxM0lTZEhyZkcxVjU4bm82azU1LXVzOGxrUmpieG0tT1NfRUs5bzBpb19ITzdTZ3lMVGJkTTU5bVlOZ2U1a3hkeHQ3SUdJMERGVmNONjdBVTZpQmdoZE5maFQ0dUxXZUI5dnJfX0hvVUp0MWZLYl9oa0NONkRDaU1qZFUyQmZodm9oM1JoLWVqc2lUNVhiUDBXa3lxaDFkUmN1Rmpxd2UxOWNaUQ?oc=5",
@@ -16708,63 +16776,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-10 04:29:09"
-  },
-  {
-    "Title": "VN-Index trước 'cửa ải' 1.800 điểm: Dòng tiền có đủ sức duy trì? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjVrNENUTzRkUk1YUWxZQ1M3Si1mOWFJYmZiMUdFb01mNEZOV0l1b3EwZjlkSlFjOFo5LVdDS0tkYU5Nekxndm1hRGg4THZ1UnFwOUdiWkxtR2I5SklTaWhjaGtLVW55eXZWQ2NFb3R0QXA3cWRUU0Job29Qa3ZSby1jck1BOGNMLTFGcW5QTUExOF9jNWxUcXRSSXFTVnNu?oc=5",
-    "PubDate": "Sun, 09 Aug 2026 17:03:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết phân tích kỹ thuật và tâm lý thị trường chung, không chứa thông tin vĩ mô hay doanh nghiệp cụ thể làm thay đổi biên lợi nhuận hay hoạt động kinh doanh của các mã niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất quan điểm kỹ thuật, không tác động trực tiếp đến dòng tiền cơ bản của doanh nghiệp. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 03:58:54"
-  },
-  {
-    "Title": "Gió thổi cũng ra tiền: Nhiều làng quê hẻo lánh nhận số tiền lớn",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gio-thoi-cung-ra-tien-nhieu-lang-que-heo-lanh-nhan-gan-1-000-ty-dong-nam-2526366.html",
-    "PubDate": "Tue, 21 Jul 2026 10:59:02 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc đẩy mạnh các dự án điện gió tại địa phương giúp cải thiện doanh thu cho các doanh nghiệp năng lượng tái tạo và thúc đẩy hạ tầng lưới điện.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất xã hội, thiếu dữ liệu tài chính cụ thể. Tác động đến dòng tiền doanh nghiệp chưa rõ ràng. Cần theo dõi tiến độ giải ngân dự án thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 03:23:35"
-  },
-  {
-    "Title": "Doanh nghiệp sữa duy nhất của Việt Nam góp mặt trong Fortune Southeast Asia 500",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/doanh-nghiep-sua-duy-nhat-cua-viet-nam-gop-mat-trong-fortune-southeast-asia-500-2527134.html",
-    "PubDate": "Thu, 18 Jun 2026 16:45:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc lọt vào danh sách Fortune Southeast Asia 500 khẳng định vị thế và uy tín thương hiệu của VNM, giúp củng cố niềm tin của nhà đầu tư tổ chức và khối ngoại.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Danh hiệu Fortune 500 là tin PR thương hiệu, không tác động trực tiếp đến biên lợi nhuận hay dòng tiền ngắn hạn. Không tạo động lực mua đuổi.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VNM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Uy tín thương hiệu tăng cao giúp củng cố niềm tin nhà đầu tư, hỗ trợ xu hướng tích lũy của dòng tiền dài hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 03:23:19"
-  },
-  {
-    "Title": "Đầu tư công nghệ chế biến phế phẩm nông nghiệp thành xăng sinh học",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/dau-tu-cong-nghe-che-bien-phe-pham-nong-nghiep-thanh-xang-sinh-hoc-2527137.html",
-    "PubDate": "Thu, 18 Jun 2026 18:19:45 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc phát triển công nghệ xăng sinh học từ phế phẩm nông nghiệp giúp tối ưu hóa chuỗi giá trị cho các doanh nghiệp nông nghiệp và năng lượng, thúc đẩy kinh tế tuần hoàn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng công nghệ dài hạn, chưa có tác động trực tiếp đến dòng tiền hoặc biên lợi nhuận doanh nghiệp trong ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 02:57:52"
   }
 ]
