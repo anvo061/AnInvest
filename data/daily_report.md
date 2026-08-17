@@ -1,20 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:20 - 17/08/2026
+⏱ Thời gian: 11:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động giảm mạnh 0,8 điểm % kết hợp với kế hoạch khơi thông 1,5 triệu tỷ từ Kho bạc Nhà nước -> [Tích cực] -> Dòng tiền sẽ hướng mạnh vào nhóm Ngân hàng (dẫn dắt thanh khoản), Chứng khoán (tăng margin) và Bất động sản (giảm chi phí vốn/kích cầu vay mua nhà).
-- Giá dầu thế giới tăng 6%/tuần -> [Tích cực] -> Nhóm Dầu khí thượng nguồn (PVD, PVS) hưởng lợi trực tiếp từ biên lợi nhuận dịch vụ.
+- Lãi suất huy động giảm mạnh 0,8 điểm % -> Tích cực (Cải thiện thanh khoản thị trường, giảm chi phí vốn cho doanh nghiệp) -> Dòng tiền sẽ hướng vào nhóm Chứng khoán (đòn bẩy margin) và Bất động sản (giảm áp lực chi phí lãi vay).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI, VND**
-    - Động lực (FA): Lãi suất giảm mạnh giúp tối ưu chi phí vốn và kích thích nhu cầu margin.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối nội nhập cuộc mạnh mẽ, đẩy thanh khoản thị trường lên cao.
-    - Hành động: Chú ý giải ngân gia tăng tỷ trọng khi có nhịp rung lắc.
-- Mã: **PVD**
-    - Động lực (FA): Giá dầu duy trì đà tăng 6% trong tuần, giá thuê giàn khoan có dư địa cải thiện.
-    - Nhận định dòng tiền: Dòng tiền trading ngắn hạn sẽ tìm đến nhóm năng lượng để trú ẩn và tìm lợi nhuận.
-    - Hành động: Tiếp tục nắm giữ, canh gia tăng nếu bứt phá vùng tích lũy.
+- Mã: SSI, VND
+- Động lực (FA): Hưởng lợi trực tiếp từ thanh khoản thị trường kỳ vọng tăng mạnh và nhu cầu vay Margin phục hồi nhờ môi trường lãi suất thấp.
+- Nhận định dòng tiền: Dòng tiền có xu hướng xoay trục mạnh mẽ sang nhóm tài chính nhờ kỳ vọng NIM và doanh thu mảng môi giới/cho vay tăng trưởng.
+- Hành động: Chú ý giải ngân tại các nhịp rung lắc, ưu tiên các mã có thị phần margin cao.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-    - Nhận định: Dữ liệu vĩ mô hiện tại (giá dầu tăng) hỗ trợ tích cực cho BSR trong việc cải thiện giá trị tồn kho và biên lợi nhuận lọc dầu. Kết hợp với môi trường lãi suất giảm (giảm áp lực chi phí tài chính), vị thế trung hạn của BSR được củng cố. **Khuyến nghị: Tiếp tục giữ**, chưa cần cơ cấu lại dòng tiền.
+- Mã: PDR, VHM
+- Động lực (FA): Lãi suất vay mua nhà giảm và chi phí lãi vay doanh nghiệp được tối ưu hóa.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ nhập cuộc nhóm BĐS để đón đầu chính sách.
+- Hành động: Tiếp tục quan sát phản ứng giá tại các vùng cản kỹ thuật quan trọng.
