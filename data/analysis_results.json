@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "CII: Giấy chứng nhận đăng ký chào bán cổ phiếu ra công chúng và Bản cáo bạch - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalJqOVB3NU5IZ0ttTnZSbnhTWXQwWXNidGdFY0dfM1EwQ1FRM2lnejVEM0FiZWMxV2pHYXdvUm5NMTZlN2JOcDhmWG5GcFlOSGF6d1MtYmV6YzBjTFJXSlJvU3R1cFh4QkZ4dzVFRE5EalJxNWpOXzYtSF94ZDl3YWIyMzZnQU9kcGxFYjh2YmZNUUFwbDZyNFAwUklfU0JXVVp3bkk5MEk5dWp2cTQzd1BQZUtuV0V5ZzloNDVpc2prckhURHRDZ0QwLTZsTGZa?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 02:45:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc chào bán cổ phiếu ra công chúng làm tăng số lượng cổ phiếu lưu hành, gây áp lực pha loãng EPS trong ngắn hạn và tạo áp lực cung lên thị giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - CII. Chào bán cổ phiếu gây áp lực pha loãng và cung hàng ngắn hạn. Dòng tiền thông minh sẽ thận trọng chờ đợi vùng giá chiết khấu sau khi chốt quyền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "CII",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực pha loãng cổ phiếu và tăng nguồn cung trên thị trường trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 02:56:41"
+  },
+  {
     "Title": "Nhóm CII tiếp tục tăng sở hữu lên hơn 12% vốn tại PC1 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTQtenFTcEVQcm1TTXF4Qm1PLU9nSVJYdkxta0UzaWFTUnQ3WUVGelNVUDgzMWx2U2tIemk0WEs4djZWTlBZcGo5LUNEVkk0RTllQWQtaXJLc3NpMmw0MEk0LUJ2N2ZGaGZyRkluWGxiRjNfTmRNdHl1aGl1MnJub0FOQ0JtTjdINDhBRUh3MDIxNnpDVGE4?oc=5",
@@ -16490,18 +16509,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-10 17:48:40"
-  },
-  {
-    "Title": "TPHCM kiến nghị giữ Chi cục Quản lý thị trường trực thuộc Sở Công Thương",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tphcm-kien-nghi-giu-chi-cuc-quan-ly-thi-truong-truc-thuoc-so-cong-thuong-2543858.html",
-    "PubDate": "Mon, 10 Aug 2026 16:59:43 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về cơ cấu tổ chức hành chính nhà nước, không tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Tin tức hành chính về cơ cấu tổ chức không tạo ra biến động dòng tiền hay thay đổi kỳ vọng lợi nhuận doanh nghiệp. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 17:48:31"
   }
 ]
