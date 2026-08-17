@@ -1,25 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:35
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 20:30
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng tại Biển Đỏ (cảng Mocha ngừng hoạt động) và leo thang xung đột tại Trung Đông làm gián đoạn chuỗi cung ứng và đẩy giá cước vận tải biển toàn cầu tăng cao. -> [Tác động: Phân hóa] -> [Dòng tiền ngắn hạn sẽ tập trung vào nhóm Vận tải biển (HAH) và Dầu khí (PVD, PVS), đồng thời gây áp lực biên lợi nhuận lên nhóm Xuất khẩu (VHC, TNG)].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Căng thẳng địa chính trị tại Biển Đen và Biển Đỏ leo thang:** Rủi ro gián đoạn chuỗi cung ứng và gia tăng chi phí vận tải biển toàn cầu -> **Đánh giá: Tiêu cực** cho nhóm Xuất khẩu (Thủy sản, Dệt may) do áp lực biên lợi nhuận, **Tích cực** cho nhóm Vận tải biển do hưởng lợi từ đà tăng giá cước.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HAH**
-- Động lực (FA): Gián đoạn chuỗi cung ứng toàn cầu tại Biển Đỏ, giá cước vận tải biển neo cao.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp về mặt tâm lý và kỳ vọng biên lợi nhuận, dòng tiền có khả năng gia tăng độ nhạy.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **HAH**
+- **Động lực (FA):** Căng thẳng Yemen (cảng Mocha) và khu vực Biển Đen gây gián đoạn chuỗi cung ứng, thúc đẩy giá cước vận tải biển tăng.
+- **Nhận định dòng tiền:** Dòng tiền đầu cơ ngắn hạn có khả năng xoay trục về nhóm vận tải biển để phòng vệ và tận dụng đà tăng giá cước.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận lực cầu vượt vùng cản gần nhất.
 
-- Mã: **PVD**
-- Động lực (FA): Xung đột Trung Đông leo thang thúc đẩy giá dầu thế giới.
-- Nhận định dòng tiền: Nhóm dầu khí thường có phản ứng nhanh với biến động địa chính trị, duy trì vị thế quan sát các mốc hỗ trợ cứng.
-- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ theo xu hướng.
+- **Mã:** **SSI, VHM, VCB**
+- **Động lực (FA):** Tin tức về kỳ vọng nâng hạng thị trường từ cận biên lên mới nổi (Emerging Markets).
+- **Nhận định dòng tiền:** Hỗ trợ xu hướng trung hạn cho các mã vốn hóa lớn (Bluechips); dòng tiền khối ngoại có xu hướng ưu tiên tích lũy khi có các nhịp điều chỉnh.
+- **Hành động:** Tiếp tục quan sát, ưu tiên chiến lược gom hàng tại các vùng hỗ trợ cứng.
 
-- Mã: **ITC**
-- Động lực (FA): Công bố chốt quyền trả cổ tức bằng tiền và cổ phiếu.
-- Nhận định dòng tiền: Thường tạo lực cầu hỗ trợ ngắn hạn trước ngày chốt quyền.
-- Hành động: Chú ý giải ngân theo chiến lược lướt sóng cổ tức.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Tin tức về xung đột tại Trung Đông làm tăng biến động giá dầu đầu vào. Trong bối cảnh BSR đã qua điểm rơi kỳ vọng (Tháng 3/2026), cần theo dõi sát áp lực chi phí sản xuất. Nếu giá dầu biến động quá mạnh gây bào mòn biên lợi nhuận lọc hóa dầu, cân nhắc chốt lời hoặc giảm tỷ trọng để bảo toàn dòng tiền, tránh rủi ro điều chỉnh theo chi phí nguyên liệu.
+- **Mã:** **VHC, TNG**
+- **Động lực (FA):** Chi phí logistics tăng cao do bất ổn chính trị tại các tuyến đường hàng hải trọng yếu.
+- **Nhận định dòng tiền:** Rủi ro áp lực bán ngắn hạn khi nhà đầu tư lo ngại biên lợi nhuận bị bào mòn.
+- **Hành động:** Rủi ro vi phạm kịch bản; quan sát vùng hỗ trợ kỹ thuật, sẵn sàng hạ tỷ trọng nếu mất ngưỡng hỗ trợ.
