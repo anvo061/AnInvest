@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:30 ngày 17/08/2026
+⏱ Thời gian: 18:45 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Xung đột leo thang tại Lebanon và căng thẳng tại eo biển Hormuz gây rủi ro nguồn cung dầu toàn cầu -> Đánh giá: Tích cực cho nhóm thượng nguồn dầu khí (hưởng lợi từ giá dầu tăng) / Tiêu cực cho nhóm lọc hóa dầu (rủi ro chi phí đầu vào) -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Dầu khí (PVD, PVS).
+- Căng thẳng Biển Đỏ leo thang (Cảng Mocha ngừng hoạt động) và xung đột Trung Đông: -> [Tiêu cực] -> [Dòng tiền vận tải biển (HAH) hưởng lợi ngắn hạn từ kỳ vọng cước phí tăng; nhóm xuất khẩu (VHC, TNG) và lọc hóa dầu (BSR) chịu áp lực chi phí/biên lợi nhuận].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD, PVS**
-- Động lực (FA): Căng thẳng địa chính trị tại Trung Đông và eo biển Hormuz kích hoạt kỳ vọng giá dầu duy trì nền cao, thúc đẩy nhu cầu dịch vụ khoan và thăm dò.
-- Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng với biến động giá dầu quốc tế; đây là nhóm nhạy sóng nhất trước các tin tức địa chính trị.
-- Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức thanh khoản cao, bám sát diễn biến giá dầu Brent.
+- Mã: **HAH**
+- Động lực (FA): Gián đoạn chuỗi cung ứng toàn cầu do xung đột Yemen.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển mạnh sang nhóm vận tải biển để đón sóng cước container toàn cầu.
+- Hành động: Chú ý giải ngân nếu giá vượt kháng cự với khối lượng tăng mạnh.
+- Mã: **ITC**
+- Động lực (FA): Công bố chốt quyền chia cổ tức (tiền mặt & cổ phiếu).
+- Nhận định dòng tiền: Tạo tâm lý neo giá tích cực trong ngắn hạn, kích thích lực cầu từ nhà đầu tư ưa thích cổ tức.
+- Hành động: Tiếp tục quan sát.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới biến động mạnh do rủi ro địa chính trị Trung Đông.
+- Nhận định dòng tiền: Dòng tiền có tính chất phòng thủ, nhảy vọt theo tin tức nóng.
+- Hành động: Tiếp tục quan sát (Biến động nhanh, rủi ro cao).
 
-- Mã: **CTG**
-- Động lực (FA): Xử lý thành công dự án tồn đọng 16 năm, giúp thu hồi vốn và cải thiện chất lượng tài sản.
-- Nhận định dòng tiền: Tin tức làm giảm áp lực trích lập dự phòng, củng cố kỳ vọng lợi nhuận, dòng tiền có xu hướng gia tăng sự quan tâm vào mã này trong ngắn hạn.
-- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng kháng cự kỹ thuật.
-
-- Mã: **HCM**
-- Động lực (FA): Dragon Capital thực hiện quyền mua cổ phiếu, khẳng định cam kết đồng hành dài hạn.
-- Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, hạn chế áp lực bán tháo dù thị trường chung đang rung lắc.
-- Hành động: **Tiếp tục quan sát** để tìm điểm gia tăng vị thế khi thị trường chung ổn định.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Tin tức về rủi ro chi phí đầu vào do bất ổn địa chính trị đang tạo áp lực lên biên lợi nhuận. Trong bối cảnh đã quá kỳ vọng trung hạn, cần xem xét giảm tỷ trọng nếu giá vi phạm các vùng hỗ trợ kỹ thuật quan trọng để tránh rủi ro chi phí biến động ăn mòn lợi nhuận.
