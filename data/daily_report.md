@@ -1,23 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:57 ngày 17/08/2026
+⏱ Thời gian: 19:35
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng tại Biển Đỏ (cảng Mocha ngừng hoạt động) và leo thang xung đột tại Trung Đông gây áp lực lên chuỗi cung ứng toàn cầu và giá dầu -> [Tác động: Tiêu cực đối với nhóm Xuất khẩu (chi phí logistics), Tích cực đối với nhóm Dầu khí (giá dầu)] -> Dòng tiền sẽ phân hóa mạnh vào nhóm vận tải biển (cần lọc kỹ mã hưởng lợi giá cước) và nhóm thượng nguồn dầu khí.
+- Căng thẳng tại Biển Đỏ (cảng Mocha ngừng hoạt động) và leo thang xung đột tại Trung Đông làm gián đoạn chuỗi cung ứng và đẩy giá cước vận tải biển toàn cầu tăng cao. -> [Tác động: Phân hóa] -> [Dòng tiền ngắn hạn sẽ tập trung vào nhóm Vận tải biển (HAH) và Dầu khí (PVD, PVS), đồng thời gây áp lực biên lợi nhuận lên nhóm Xuất khẩu (VHC, TNG)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **HAH**
-  - Động lực (FA): Gián đoạn vận tải biển toàn cầu làm tăng giá cước container quốc tế.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển vào nhóm vận tải biển để hưởng lợi từ "spread" giá cước.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
-- Mã: **PVD / PVS**
-  - Động lực (FA): Căng thẳng Trung Đông đẩy giá dầu thế giới tăng cao.
-  - Nhận định dòng tiền: Hưởng lợi từ tâm lý đám đông đối với nhóm cổ phiếu nhạy sóng dầu khí.
-  - Hành động: Tiếp tục quan sát điểm nổ volume; hạn chế đuổi giá nếu gap-up quá mạnh ngay đầu phiên.
+- Động lực (FA): Gián đoạn chuỗi cung ứng toàn cầu tại Biển Đỏ, giá cước vận tải biển neo cao.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp về mặt tâm lý và kỳ vọng biên lợi nhuận, dòng tiền có khả năng gia tăng độ nhạy.
+- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
+
+- Mã: **PVD**
+- Động lực (FA): Xung đột Trung Đông leo thang thúc đẩy giá dầu thế giới.
+- Nhận định dòng tiền: Nhóm dầu khí thường có phản ứng nhanh với biến động địa chính trị, duy trì vị thế quan sát các mốc hỗ trợ cứng.
+- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ theo xu hướng.
+
 - Mã: **ITC**
-  - Động lực (FA): Thông báo chốt quyền chia cổ tức bằng tiền và cổ phiếu.
-  - Nhận định dòng tiền: Tạo lực cầu đỡ giá ngắn hạn từ nhóm nhà đầu tư thích cổ tức.
-  - Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật gần nhất.
+- Động lực (FA): Công bố chốt quyền trả cổ tức bằng tiền và cổ phiếu.
+- Nhận định dòng tiền: Thường tạo lực cầu hỗ trợ ngắn hạn trước ngày chốt quyền.
+- Hành động: Chú ý giải ngân theo chiến lược lướt sóng cổ tức.
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - Mã: **BSR**
-  - Nhận định: Tin tức giá dầu biến động mạnh và rủi ro từ biến động địa chính trị là biến số rủi ro cho biên lợi nhuận lọc dầu. Với vị thế mục tiêu trung hạn đã qua điểm rơi, cần xem xét hạ tỷ trọng nếu giá dầu có dấu hiệu đảo chiều kỹ thuật, nhằm bảo toàn lợi nhuận thay vì kỳ vọng dài hạn trong bối cảnh vĩ mô bất ổn.
+- Nhận định: Tin tức về xung đột tại Trung Đông làm tăng biến động giá dầu đầu vào. Trong bối cảnh BSR đã qua điểm rơi kỳ vọng (Tháng 3/2026), cần theo dõi sát áp lực chi phí sản xuất. Nếu giá dầu biến động quá mạnh gây bào mòn biên lợi nhuận lọc hóa dầu, cân nhắc chốt lời hoặc giảm tỷ trọng để bảo toàn dòng tiền, tránh rủi ro điều chỉnh theo chi phí nguyên liệu.
