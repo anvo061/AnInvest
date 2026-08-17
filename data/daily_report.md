@@ -1,11 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:45 - 17/08/2026
+⏱ Thời gian: 23:00 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ chỉ đạo đơn giản hóa thủ tục cấp giấy chứng nhận quyền sử dụng đất -> Đánh giá tác động: Tích cực -> Dòng tiền dự kiến hướng vào nhóm Bất động sản (đặc biệt là các doanh nghiệp có quỹ đất sạch và dự án đang chờ pháp lý).
+- Chính phủ yêu cầu đơn giản hóa thủ tục cấp giấy chứng nhận quyền sử dụng đất -> Đánh giá: Tích cực (tác động trung hạn) -> Dòng tiền kỳ vọng hướng vào nhóm Bất động sản (VHM, PDR).
+- Thị trường đếm ngược 4 ngày đón tin nâng hạng từ FTSE Russell -> Đánh giá: Tích cực (tâm lý) -> Dòng tiền sẽ tập trung vào nhóm vốn hóa lớn (Bluechips/Financials: VCB, SSI).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VHM, PDR
-- Động lực (FA): Chính sách đẩy nhanh tiến độ cấp sổ và tháo gỡ vướng mắc pháp lý đất đai.
-- Nhận định dòng tiền: Kỳ vọng giảm thiểu rủi ro pháp lý dự án sẽ cải thiện niềm tin của dòng tiền khối ngoại và nhà đầu tư cá nhân, đẩy nhanh chu kỳ ghi nhận doanh thu.
-- Hành động: Chú ý giải ngân khi có nhịp rung lắc, theo dõi chặt chẽ khối lượng giao dịch tại vùng cản cứng.
+- Mã: **PNJ**
+- Động lực (FA): Tổng Giám đốc mua xong 1 triệu cổ phiếu.
+- Nhận định dòng tiền: Tín hiệu hỗ trợ tâm lý tích cực, xác nhận vùng giá trị vùng đáy/tích lũy.
+- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền gia tăng (Volume đột biến) trong phiên tới.
+
+- Mã: **VHM, PDR**
+- Động lực (FA): Chính phủ tháo gỡ nút thắt pháp lý đất đai.
+- Nhận định dòng tiền: Kỳ vọng cải thiện dòng tiền kinh doanh, giảm rủi ro pháp lý.
+- Hành động: Tiếp tục quan sát phản ứng giá tại các vùng hỗ trợ cứng, chờ dòng tiền xác nhận break-out.
+
+- Mã: **VCB, SSI**
+- Động lực (FA): Kỳ vọng nâng hạng thị trường.
+- Nhận định dòng tiền: Dòng vốn ngoại dự kiến sẽ quay lại nhóm vốn hóa lớn/đầu ngành dẫn dắt.
+- Hành động: Tiếp tục quan sát, ưu tiên vị thế nắm giữ đối với danh mục có sẵn.

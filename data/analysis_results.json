@@ -1,5 +1,61 @@
 ﻿[
   {
+    "Title": "Đếm ngược 4 ngày đón \"tin lớn\" từ FTSE, CTCK hé lộ nhóm cổ phiếu có thể hưởng lợi nhất - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlhnQVNMeXFucnlSSWFBbDkxQlRtUGdoV0loNnJKcERGdGxIdHV4QXMyWllma0RtYjU3dnFhczBLWWh1WGJ5NTZxNi16Rm9ZNWNWZ0hvdE1UczF4aF9FR2xxdDhyM1hEeFRfYXFNM2tpMlhnY0FvNl9weFE5VzNEUUdndEU0cmFZbVVqYlBOWEcwcUhsNkNQS2RMTzRiZ2R0dnRVVVplOEtsRXJMWEF3dnBqVTlIcGxORFJlWU14ZDE?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 02:40:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 5,
+    "MarketImpact": "Kỳ vọng nâng hạng thị trường từ FTSE Russell thúc đẩy dòng vốn ngoại quay trở lại các mã vốn hóa lớn, đặc biệt nhóm tài chính và bất động sản có thanh khoản cao.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính kỳ vọng định kỳ, chưa có số liệu thực tế. Dòng tiền ngoại thường phản ứng thận trọng trước ngày công bố chính thức.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn nhất, ưu tiên hàng đầu của các quỹ ETF khi nâng hạng thị trường."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ thanh khoản thị trường tăng nhờ kỳ vọng nâng hạng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 22:57:24"
+  },
+  {
+    "Title": "FUEVN100: Thông báo thay đổi giá trị tài sản ròng ngày 16/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYmhMUHowZG5mVDVGOTJ1eUNwcHBFMEJMMi0wb1VUNW5KT3daTld2YlFrOHVGZEVaY3F0MktZRGlFcG9ZaFJocTU0VllvWWlFMlZKYWRDdU1BZmxkS1ZTeTg0cW1vaGkwUlBpTVk5T3MzRW9hSHMxcHozQ2hxQjZrOU5UZk96d2NkSHFfUXloNEk3eWJYdVVIbVlZMlczWU9EUkRDNWZ6UWkzUkJQcDFickxoLW5LSzFtNWNra3ZaVnppV0FSQlE?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 09:44:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay xu hướng vĩ mô của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không mang tính chất tin tức thị trường hay thay đổi dòng tiền đầu cơ.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 22:57:11"
+  },
+  {
+    "Title": "TGĐ Phan Quốc Công mua xong 1 triệu cổ phiếu PNJ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2RQOVNuOUZuaDZGZFhMLWQ3RC0yUWFPYkZjRjBrLWwwQjBfZXFXOFdfTS1aZzVqa1JlTkdlVjlrUmZJZ3B5V29YeGVlYm8xclZVNzhDdmUzaHVUS1oyUVFORjFqNlBSaE5xX2pIZVRrdG1EVmhZbWlqaHZXMzZzZk5hSUhMeHhwTkg4dlkzOXEtUQ?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 07:57:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc lãnh đạo cấp cao mua vào cổ phiếu thể hiện sự tự tin vào triển vọng tăng trưởng của doanh nghiệp, tạo tâm lý tích cực cho cổ đông và nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - PNJ. Hành động mua gom từ nội bộ củng cố niềm tin về định giá vùng đáy. Dòng tiền thông minh thường phản ứng tích cực với tín hiệu cam kết từ ban lãnh đạo.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãnh đạo mua vào số lượng lớn cổ phiếu tạo tín hiệu tích cực về nội tại doanh nghiệp, hỗ trợ tâm lý giá trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 22:56:53"
+  },
+  {
     "Title": "FUEIP100: Thông báo thay đổi giá trị tài sản ròng ngày 16/08/2026 như sau: - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVVEQ25jWXd5SV9NTE1XLXNWQVdWX3MweW1RXzVGc0htODJWM0JwaGR6Sy00M21xcnZLeldvZ0gzSDhYeVMzTjBzQjFKWS1mdk1sb0VVZlpKMFNJMmUyUGM1S0pyUS1ZMjR0ZnVxbkxkVjJBbXhHLXNsZlFJRVB3U19wUGRiaUtiWjJfOGlUSmcySjNJbjgwcTJmVm1vY0ZZU1FybTRjZUNxT1RoLW9qXzZFMG1YRjE3LWRiRXp1Q1dBQk8tNUt4U0x3TWtJNXU4?oc=5",
@@ -16521,44 +16577,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-10 13:05:59"
-  },
-  {
-    "Title": "Doanh nghiệp Việt phát triển AI cho UAV hai rotor nghiêng đầu tiên trên thế giới",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/doanh-nghiep-viet-phat-trien-ai-cho-uav-hai-rotor-nghieng-dau-tien-tren-the-gioi-100260810105035646.htm",
-    "PubDate": "8/10/2026 11:08:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc làm chủ công nghệ AI cho UAV đánh dấu bước tiến trong ngành công nghệ cao, tạo tiền đề cho các hợp đồng quốc phòng hoặc giám sát công nghiệp, nâng cao vị thế các doanh nghiệp công nghệ niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất R&D sơ khởi, chưa có tác động trực tiếp đến doanh thu hay biên lợi nhuận của các mã công nghệ niêm yết hiện tại.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 13:05:43"
-  },
-  {
-    "Title": "Vàng thế giới lên cao nhất gần 2 tháng, trong nước đứng trước diễn biến mới",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vang-the-gioi-len-cao-nhat-gan-2-thang-trong-nuoc-dung-truoc-dien-bien-moi-2543714.html",
-    "PubDate": "Mon, 10 Aug 2026 12:37:03 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Giá vàng biến động chủ yếu ảnh hưởng đến thị trường kim loại quý và tâm lý tích trữ, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vàng/Bán lẻ. Biến động giá vàng không tác động đến dòng tiền doanh nghiệp niêm yết. Không có mã cổ phiếu hưởng lợi trực tiếp từ xu hướng này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 13:05:32"
-  },
-  {
-    "Title": "Vietjet được vinh danh với giải thưởng về tăng trưởng xanh",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vietjet-duoc-vinh-danh-voi-giai-thuong-ve-tang-truong-xanh-5107300.html",
-    "PubDate": "Mon, 10 Aug 2026 12:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Giải thưởng về tăng trưởng xanh mang tính chất truyền thông và thương hiệu, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của doanh nghiệp trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Hàng không. Giải thưởng thương hiệu không thay đổi cấu trúc chi phí hay dòng tiền. Dòng tiền thông minh sẽ không phản ứng với tin tức mang tính chất PR này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 13:05:23"
   }
 ]
