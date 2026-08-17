@@ -1,24 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:45
+⏱ Thời gian: 15:30 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng tại eo biển Hormuz làm gián đoạn chuỗi cung ứng năng lượng, đẩy giá dầu và cước vận tải tăng cao -> [Tiêu cực] -> [Dòng tiền dịch chuyển sang nhóm Năng lượng (PVD, GAS) và phân hóa nhóm Sản xuất (HPG) do áp lực chi phí].
-- TP.HCM phê duyệt đấu giá đất Thủ Thiêm giá trị lớn -> [Tích cực] -> [Dòng tiền tập trung vào nhóm Bất động sản có quỹ đất sạch tại TP.HCM (KDH)].
-- Áp lực tỷ giá hạ nhiệt do USD suy yếu toàn cầu -> [Tích cực] -> [Nhóm Chứng khoán (SSI) hưởng lợi từ kỳ vọng dòng vốn ngoại].
+- **Kỳ vọng nâng hạng thị trường từ FTSE Russell:** Tín hiệu mới trong tuần này thúc đẩy dòng vốn ngoại -> **Tích cực** -> Dòng tiền tập trung vào nhóm vốn hóa lớn (Bluechips/VN30).
+- **Căng thẳng tại eo biển Hormuz làm gián đoạn nguồn cung năng lượng:** Giá dầu và cước vận tải tăng -> **Phân hóa**: Tích cực cho nhóm Dầu khí (thượng nguồn); Tiêu cực cho nhóm Sản xuất (thép, nguyên liệu) và Logistics do áp lực chi phí đầu vào.
+- **Đấu giá đất Thủ Thiêm:** Tái khởi động hoạt động đấu giá đất tại TP.HCM -> **Tích cực** -> Dòng tiền hướng vào nhóm Bất động sản có quỹ đất sạch.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-  - Động lực (FA): Giá dầu neo cao do gián đoạn nguồn cung tại eo biển Hormuz.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự báo dòng tiền đầu cơ sẽ gia tăng áp lực mua vào nhóm dịch vụ dầu khí.
-  - Hành động: Chú ý giải ngân nếu giá vượt vùng kháng cự ngắn hạn kèm khối lượng đột biến.
-- Mã: **KDH**
-  - Động lực (FA): Thông tin đấu giá đất Thủ Thiêm tạo câu chuyện định giá lại tài sản (re-rating) cho các doanh nghiệp BĐS khu vực TP.HCM.
-  - Nhận định dòng tiền: Tích cực, kỳ vọng dòng tiền từ nhóm đầu cơ BĐS quay trở lại sau tin tức hỗ trợ.
-  - Hành động: Tiếp tục quan sát phản ứng tại vùng giá hiện tại, ưu tiên gia tăng tỷ trọng nếu nền giá được giữ vững.
-- Mã: **HPG**
-  - Động lực (FA): Áp lực giá dầu/vận tải tăng làm đội giá vốn hàng bán.
-  - Nhận định dòng tiền: Tiêu cực trong ngắn hạn, chịu áp lực bán từ khối nhà đầu tư lo ngại biên lợi nhuận bị bào mòn.
-  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ cứng.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Không có dữ liệu mới về EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái nắm giữ theo kế hoạch trung hạn.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu neo cao do căng thẳng eo biển Hormuz thúc đẩy nhu cầu khoan thăm dò.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp, dòng tiền ngắn hạn có xu hướng gia tăng tại các vùng giá hỗ trợ.
+    - Hành động: Chú ý giải ngân nếu giá test hỗ trợ thành công.
+- **Mã: HPG**
+    - Động lực (FA): Hưởng lợi từ tâm lý đón sóng nâng hạng (FTSE Russell) nhưng chịu áp lực từ chi phí nguyên liệu/vận tải tăng cao (căng thẳng Hormuz).
+    - Nhận định dòng tiền: Dòng tiền giằng co giữa kỳ vọng vĩ mô và rủi ro biên lợi nhuận.
+    - Hành động: Tiếp tục quan sát, ưu tiên giữ vị thế, thận trọng nếu giá gãy các mốc hỗ trợ kỹ thuật quan trọng.
+- **Mã: KDH**
+    - Động lực (FA): Tin đấu giá đất Thủ Thiêm kích hoạt tâm lý tích cực cho nhóm BĐS có quỹ đất tại khu vực.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ có thể tập trung ngắn hạn.
+    - Hành động: Chú ý giải ngân theo đà tăng.
+- **Mã: VHM, VCB**
+    - Động lực (FA): Là các mã đại diện vốn hóa lớn, hưởng lợi trực tiếp từ kỳ vọng dòng vốn ngoại quay lại theo tiêu chí FTSE Russell.
+    - Nhận định dòng tiền: Hút dòng tiền khối ngoại, hỗ trợ chỉ số VN-Index.
+    - Hành động: Tiếp tục giữ.
