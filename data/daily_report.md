@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:55, 18/08/2026
+⏱ Thời gian: 05:15 - 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị tại eo biển Hormuz gây gián đoạn chuỗi cung ứng toàn cầu -> **Tiêu cực** -> Dòng tiền có xu hướng dịch chuyển sang nhóm ngành Vận tải biển/Logistics và Năng lượng (PVD, PVT).
+- Tăng trưởng GDP Việt Nam duy trì trên 7% khẳng định sức khỏe kinh tế nội tại mạnh mẽ -> [Tích cực] -> Dòng tiền sẽ ưu tiên các nhóm ngành dẫn dắt: Ngân hàng (VCB), Bất động sản (VHM) và Bán lẻ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VHM**
-  - Động lực (FA): Huy động thành công hơn 2 tỷ USD trái phiếu trong một quý, khẳng định năng lực tài chính và đảm bảo vốn triển khai các đại dự án.
-  - Nhận định dòng tiền: Tác động tích cực, củng cố niềm tin vào thanh khoản doanh nghiệp, có khả năng dẫn dắt nhóm Bất động sản dân cư.
-  - Hành động: Chú ý giải ngân nếu giá vượt ngưỡng kháng cự gần nhất với vol tăng.
+- Mã: **VHM**
+  - Động lực (FA): Huy động thành công hơn 2 tỷ USD trái phiếu trong một quý, đảm bảo thanh khoản và tiến độ các dự án trọng điểm.
+  - Nhận định dòng tiền: Củng cố niềm tin nhà đầu tư, giúp cổ phiếu giảm bớt rủi ro tài chính, dễ thu hút dòng tiền trung - dài hạn.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc tích lũy.
 
-- **Mã: PC1**
-  - Động lực (FA): CII liên tục gia tăng tỷ lệ sở hữu lên hơn 12%.
-  - Nhận định dòng tiền: Tích cực; sự hiện diện của cổ đông lớn là tổ chức hạ tầng tạo điểm tựa tâm lý vững chắc, kỳ vọng dòng tiền đầu cơ sẽ chú ý đến cấu trúc sở hữu của mã này.
-  - Hành động: Tiếp tục quan sát điểm vào theo xu hướng dòng tiền của CII.
+- Mã: **PC1**
+  - Động lực (FA): CII liên tục gia tăng tỷ lệ sở hữu lên hơn 12%, khẳng định niềm tin vào giá trị nội tại và tiềm năng tăng trưởng của doanh nghiệp.
+  - Nhận định dòng tiền: Tạo hiệu ứng tâm lý tích cực cho nhà đầu tư nhỏ lẻ, hỗ trợ xu hướng tăng giá của cổ phiếu.
+  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ theo xu hướng.
 
-- **Mã: CII**
-  - Động lực (FA): Chào bán cổ phiếu ra công chúng nhằm tăng vốn.
-  - Nhận định dòng tiền: Tác động tiêu cực ngắn hạn do áp lực pha loãng EPS và gia tăng nguồn cung cổ phiếu trôi nổi.
-  - Hành động: Rủi ro vi phạm kịch bản tăng giá ngắn hạn; thận trọng với các lệnh mua đuổi khi có thông báo chính thức về thời điểm phát hành.
+- Mã: **CII**
+  - Động lực (FA): Phát hành thêm cổ phiếu ra công chúng.
+  - Nhận định dòng tiền: Áp lực pha loãng EPS trong ngắn hạn và tạo áp lực cung lên thị giá.
+  - Hành động: Rủi ro vi phạm kịch bản ngắn hạn; thận trọng với các lệnh mua đuổi tại vùng kháng cự.
