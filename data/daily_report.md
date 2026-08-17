@@ -1,17 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:45 - 17/08/2026
+⏱ Thời gian: 12:30 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị Iran leo thang gây áp lực lên nguồn cung dầu toàn cầu -> Tích cực cho nhóm Dầu khí thượng nguồn -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm thượng nguồn (PVD, PVS).
-- Siết chặt quản lý tài sản đảm bảo trái phiếu doanh nghiệp -> Tích cực (trung hạn) -> Cải thiện niềm tin và chất lượng tài sản ròng nhóm Ngân hàng (TCB, MBB).
+- **Hạ tầng giao thông:** TP.HCM phê duyệt dự án mở rộng Quốc lộ 1 tại cửa ngõ phía Nam -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Xây dựng hạ tầng (VCG, HHV, LCG)**.
+- **Địa chính trị & Năng lượng:** Căng thẳng tại Trung Đông và lệnh cấm vận Iran làm gián đoạn nguồn cung -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí thượng nguồn (PVD, PVS)**.
+- **Rủi ro Pháp lý:** Thanh tra 26 dự án tại KKT Dung Quất và siết chặt quy định trái phiếu ngân hàng -> **Tiêu cực** -> Tạo áp lực điều chỉnh lên nhóm **BĐS (NVL, PDR)** và các **Ngân hàng có tỷ trọng trái phiếu cao (TCB, VPB)**.
+- **Xuất khẩu:** Xung đột Biển Đen làm gián đoạn nguồn cung ngũ cốc toàn cầu -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xuất khẩu nông nghiệp/gạo**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD
-- Động lực (FA): Căng thẳng Iran gia tăng, thúc đẩy giá dầu thô thế giới neo cao, trực tiếp cải thiện giá thuê giàn khoan và biên lợi nhuận kỳ vọng.
-- Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại thường nhạy bén với thông tin địa chính trị dầu khí; dự báo thanh khoản sẽ cải thiện đột biến trong phiên.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc tích lũy quanh vùng hỗ trợ kỹ thuật hiện tại.
+- **Mã:** **PVD**
+  - Động lực (FA): Giá dầu tăng do căng thẳng địa chính trị Iran/Trung Đông.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ giá thuê giàn khoan neo cao; dòng tiền ngắn hạn có xu hướng gia tăng tại các mã dầu khí thượng nguồn.
+  - Hành động: **Chú ý giải ngân** theo đà tăng của giá dầu.
+- **Mã:** **VCG, HHV, LCG**
+  - Động lực (FA): Dự án mở rộng Quốc lộ 1 (TP.HCM) thúc đẩy tiến độ đầu tư công.
+  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp backlog cho các nhà thầu thi công hạ tầng.
+  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng hỗ trợ gần nhất để giải ngân.
+- **Mã:** **NVL, PDR**
+  - Động lực (FA): Siết chặt quản lý tài sản đảm bảo trái phiếu.
+  - Nhận định dòng tiền: Áp lực tâm lý tiêu cực gia tăng; khả năng huy động vốn qua kênh trái phiếu bị thu hẹp đáng kể.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ kỹ thuật quan trọng.
 
-- Mã: TCB, MBB
-- Động lực (FA): Quy định quản lý chặt "giấy chứng nhận an toàn" cho trái phiếu, giảm thiểu rủi ro pháp lý và nợ xấu tiềm ẩn từ các khoản vay trái phiếu cũ.
-- Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, giảm áp lực bán tháo nhóm ngân hàng có tỷ trọng trái phiếu cao.
-- Hành động: Tiếp tục quan sát phản ứng tại vùng cản, ưu tiên nắm giữ cho mục tiêu quản trị rủi ro danh mục.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR:** Dữ liệu thanh tra KKT Dung Quất hiện tại tạo rủi ro pháp lý cho các dự án mở rộng. Cần theo dõi sát biên bản kết luận thanh tra. Nếu tiến độ dự án bị đình trệ kéo dài, khuyến nghị **cắt/chốt lời** để đảo dòng tiền sang nhóm hạ tầng đang có động lực giải ngân tốt hơn.
