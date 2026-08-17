@@ -1,23 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:15 - 17/08/2026
+⏱ Thời gian: 17:25
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị tại Trung Đông (Eo biển Hormuz):** Giá dầu thô dự báo tăng mạnh do lo ngại gián đoạn nguồn cung -> Tích cực cho nhóm Thượng nguồn dầu khí (PVD, PVS), tiêu cực cho nhóm vận tải biển do tăng chi phí đầu vào (HAH).
-- **Thanh khoản thị trường chứng khoán suy giảm:** Tổng giá trị giao dịch sụt giảm mạnh (5.000 tỷ đồng) -> Tiêu cực cho toàn nhóm Công ty chứng khoán (SSI, VND, VCI, HCM) do sụt giảm doanh thu môi giới và lãi margin.
-- **Dòng vốn khối ngoại:** Tiếp tục bán ròng mạnh trên diện rộng tại các Bluechips (VHM, HPG, MSN, VNM) -> Tiêu cực đến chỉ số VN-Index, gây áp lực lên đà hồi phục ngắn hạn.
+- Căng thẳng địa chính trị tại eo biển Hormuz và các biện pháp siết kinh tế Iran tạo áp lực đẩy giá dầu thô tăng cao -> **Tích cực (ngắn hạn)** cho nhóm thượng nguồn dầu khí nhưng **Tiêu cực** cho nhóm vận tải biển do tăng chi phí đầu vào.
+- Áp lực bán ròng khối ngoại tập trung mạnh vào các mã vốn hóa lớn (VHM, HPG, MSN, VNM) -> **Tiêu cực** cho xu hướng ngắn hạn của chỉ số VN-Index.
+- Kỳ vọng đấu giá đất Thủ Thiêm tái kích hoạt -> **Tích cực** cho nhóm bất động sản hạ tầng khu vực TP.HCM.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCB**
-    - Động lực (FA): Khoản thu nhập bất thường 4.100 tỷ đồng từ dự án sân bay Phú Quốc.
-    - Nhận định dòng tiền: Tạo cú hích tài chính lớn, củng cố vị thế Bluechip dẫn dắt trong bối cảnh thị trường đang thiếu động lực.
-    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo chỉ số chung.
-- **Mã: CII**
-    - Động lực (FA): Thông tin đấu giá đất Thủ Thiêm kích hoạt kỳ vọng định giá lại quỹ đất.
-    - Nhận định dòng tiền: Dễ tạo sóng ngắn hạn do tính chất đầu cơ theo tin tức.
-    - Hành động: Quan sát kỹ vùng kháng cự, sẵn sàng vào lệnh nếu dòng tiền vào đột biến.
 - **Mã: PVD**
-    - Động lực (FA): Hưởng lợi trực tiếp từ việc giá dầu neo cao do bất ổn tại Trung Đông.
-    - Nhận định dòng tiền: Dòng tiền phòng thủ có xu hướng tìm đến nhóm năng lượng khi các nhóm khác bị khối ngoại bán ròng.
-    - Hành động: Tiếp tục quan sát để tối ưu hóa điểm vào lệnh theo kỹ thuật.
+    - Động lực (FA): Căng thẳng Hormuz và áp lực lên kinh tế Iran thúc đẩy giá dầu, tăng kỳ vọng về giá thuê giàn khoan.
+    - Nhận định dòng tiền: Hưởng lợi từ tâm lý phòng thủ và kỳ vọng biên lợi nhuận tăng.
+    - Hành động: **Chú ý giải ngân** nếu giữ vững vùng hỗ trợ kỹ thuật.
+- **Mã: CII**
+    - Động lực (FA): Thông tin đấu giá đất Thủ Thiêm.
+    - Nhận định dòng tiền: Nhạy sóng đầu cơ, dòng tiền có thể vào mạnh dựa trên kỳ vọng định giá lại quỹ đất.
+    - Hành động: **Tiếp tục quan sát** phản ứng tại vùng cản cứng, tránh đuổi giá cao.
+- **Mã: CTG**
+    - Động lực (FA): Xử lý dứt điểm dự án tồn đọng 16 năm tại VietinBank.
+    - Nhận định dòng tiền: Tín hiệu cải thiện chất lượng tài sản (NPL) giúp giảm áp lực trích lập, là động lực tăng trưởng bền vững hơn trong nhóm ngân hàng.
+    - Hành động: **Chú ý giải ngân** cho mục tiêu tích lũy.
+- **Mã: HCM**
+    - Động lực (FA): Cổ đông lớn Dragon Capital thực hiện quyền mua cổ phiếu.
+    - Nhận định dòng tiền: Khẳng định cam kết dài hạn, giảm áp lực cung thị trường trong ngắn hạn.
+    - Hành động: **Tiếp tục quan sát** tích lũy.
 
-*(Lưu ý: Các mã không được liệt kê trong mục 2 do thiếu dữ liệu hoặc không có sự hợp lưu tín hiệu đột biến tại thời điểm này).*
+*Lưu ý: Các mã VHM, HPG, MSN, VNM chịu áp lực bán ròng từ khối ngoại, cần quan sát kỹ vùng hỗ trợ để tránh rủi ro giải chấp hoặc bán tháo theo dòng tiền ngoại.*
