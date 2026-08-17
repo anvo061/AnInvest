@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "FUEMAV30: Kết thúc giao dịch hoán đổi ngày 14/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmJNNDFPWXFVTkFxV1IybklET29kWXJ2Ui1Udk5PMXA3STFuekhVdDZ5eHNrb19MU09XemNjemlRa29qNmJObkI5SVNJTXFYUlJOUXByTmZGQ2xuMkFxVkJkNU1GUlhzcE43ZmNDbmZGMU9hTFMxWnhGbFBKbXZpOG1oNEVwMm13bjFmejJ6LVNtSlpLTkhzY2JrUFBiWmVCOTlzV3c1a0dpX041TjRXLWZpcjlxUQ?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 09:31:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về việc kết thúc giao dịch hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần trong danh mục VN30.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá của các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 23:18:47"
+  },
+  {
+    "Title": "Nhóm CII nắm khối cổ phiếu trị giá 1000 tỷ tại doanh nghiệp của nữ Chủ tịch sinh năm 1999 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbG12NnlGVkRRbVFpZXk0QjEyek1SdE5IYlJDUlk3aVZNNFhGZVA5cUNIQU5IRXRZdk5uaHFFaVQ3WjdoSTFjc2QwUzRsci00MU9aVFpqMkNIbnRkLWhOaWdXbDRGTFh6ajNFdEQtcnV5QUZTTEVQZy1kLVhpSzNfaHoyVlpQdFh4cWNaVDdiWjlHRmV6Mi1VdTdOUW94NmQybUptUGpSZjZ6cVZyNTJGLVQ0eHVLZE52SVZzMVpDMG9SZHZmNDJZWg?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 03:40:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về cơ cấu sở hữu và đầu tư tài chính nội bộ của nhóm CII, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Hạ tầng. Đây là hoạt động đầu tư tài chính thuần túy, không tạo ra đột biến về doanh thu hay dòng tiền kinh doanh. Không tác động đến xu hướng giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "CII",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động đầu tư tài chính nội bộ, không làm thay đổi đáng kể giá trị nội tại hay dòng tiền kinh doanh của công ty."
+      }
+    ],
+    "AnalyzedAt": "2026-08-17 23:18:36"
+  },
+  {
+    "Title": "FUEDCMID: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNENJV1J3dVRHZjg5UU0zMU9BUjhqR2hwcUo0enJGZzFfMGxfU0RTLVhQMG1OWE1ab0JVazRkRnl3VGlCYktyc0RuNzd1Qlg3OHBMWkwydjRWOXhDa1I3QktEZXAxMVk5VlB2bUhrUG5LU3lBUHdXbllhM2FIaGhtUjRYOTF1YzBTNmk2SkVCazVZeW5hVVZHbWNRY0JzUXh5WmtCeWpCZ19mRUNaek11Q1hIemtBWTd2Q0R5MEtBamxoNjU0Z2szak5MaVM0WEwzMVNObmV2ay16S19vRGhmZThGZw?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 01:49:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo hành chính về thay đổi niêm yết chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thủ tục hành chính niêm yết quỹ, không tạo ra biến động dòng tiền cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-17 23:18:26"
+  },
+  {
     "Title": "Đếm ngược 4 ngày đón \"tin lớn\" từ FTSE, CTCK hé lộ nhóm cổ phiếu có thể hưởng lợi nhất - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlhnQVNMeXFucnlSSWFBbDkxQlRtUGdoV0loNnJKcERGdGxIdHV4QXMyWllma0RtYjU3dnFhczBLWWh1WGJ5NTZxNi16Rm9ZNWNWZ0hvdE1UczF4aF9FR2xxdDhyM1hEeFRfYXFNM2tpMlhnY0FvNl9weFE5VzNEUUdndEU0cmFZbVVqYlBOWEcwcUhsNkNQS2RMTzRiZ2R0dnRVVVplOEtsRXJMWEF3dnBqVTlIcGxORFJlWU14ZDE?oc=5",
@@ -16521,61 +16566,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-10 13:06:43"
-  },
-  {
-    "Title": "TCBS huy động thành công khoản vay quốc tế kèm quyền chọn vay tăng thêm lên tới 120 triệu USD - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0RZMTBlTlJzcGtrMnpiY085YkxuR19pTHJsOGlpVDZaTVZ5ZTNjRUVlMjV3NmpFTHJEZ2ZqeVZVUDlSTkVxc0xmaEtrTWpudDRXSUtvWWRRbk8xUVFseEUwYTNsUElTWThrWGN2QnhlMlhiRy1BLS1WcjdnTHA0MXBDUWs2NlpEcUhWY1IyNDAyLXBKNXNJNXNpU2N3RVVzWHRXaWU4TkFmUW03NGEzMTI1VEtWeXZYR29MNVF2aFdaRGkyUWhLUl9tVFlDUQ?oc=5",
-    "PubDate": "Mon, 10 Aug 2026 01:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Việc TCBS huy động vốn quốc tế giúp tăng cường nguồn lực tài chính, giảm chi phí vốn và mở rộng dư địa cho vay margin, tạo lợi thế cạnh tranh lớn trong nhóm công ty chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Nguồn vốn ngoại giá rẻ tối ưu chi phí vốn, gia tăng dư địa margin cho TCBS. Tác động trực tiếp đến TCB, tạo áp lực cạnh tranh lên các CTCK khác.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "TCBS là công ty con chiến lược, việc huy động vốn thành công củng cố hệ sinh thái tài chính và lợi nhuận hợp nhất của TCB."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 13:06:28"
-  },
-  {
-    "Title": "Doanh nghiệp lữ hành ở Nha Trang lo tái diễn 'tour 0 đồng' với khách Nga",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/doanh-nghiep-lu-hanh-o-nha-trang-lo-tai-dien-tour-0-dong-voi-khach-nga-100260810095352729.htm",
-    "PubDate": "8/10/2026 10:32:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Hiện tượng tour 0 đồng gây nhiễu loạn thị trường du lịch, làm giảm biên lợi nhuận của các doanh nghiệp lữ hành và khách sạn chính thống tại khu vực Nha Trang.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Du lịch. Tin tức mang tính cảnh báo địa phương, chưa tác động trực tiếp đến dòng tiền doanh nghiệp niêm yết. Cần theo dõi thêm phản ứng chính sách.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 13:06:13"
-  },
-  {
-    "Title": "Xuất khẩu sang Úc: Lợi thế từ các FTA, tạo cú hích nâng kim ngạch 20 tỉ USD",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/xuat-khau-sang-uc-loi-the-tu-cac-fta-tao-cu-hich-nang-kim-ngach-20-ti-usd-10026081010500809.htm",
-    "PubDate": "8/10/2026 11:07:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc tận dụng FTA với Úc giúp mở rộng thị trường xuất khẩu cho các nhóm hàng chủ lực như thủy sản, dệt may và thép, cải thiện biên lợi nhuận và tăng trưởng doanh thu cho các doanh nghiệp xuất khẩu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô, thiếu số liệu cụ thể về biên lợi nhuận. Tác động thực tế lên dòng tiền ngắn hạn không đáng kể. Cần theo dõi sát biên xuất khẩu thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ ưu đãi thuế quan FTA, mở rộng thị phần xuất khẩu thủy sản sang thị trường Úc."
-      },
-      {
-        "Ticker": "TNG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lợi thế cạnh tranh về giá từ FTA giúp tăng đơn hàng dệt may xuất khẩu sang thị trường Úc."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 13:05:59"
   }
 ]
