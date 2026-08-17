@@ -1,21 +1,17 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 20:30
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 21:00 - 17/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Căng thẳng địa chính trị tại Biển Đen và Biển Đỏ leo thang:** Rủi ro gián đoạn chuỗi cung ứng và gia tăng chi phí vận tải biển toàn cầu -> **Đánh giá: Tiêu cực** cho nhóm Xuất khẩu (Thủy sản, Dệt may) do áp lực biên lợi nhuận, **Tích cực** cho nhóm Vận tải biển do hưởng lợi từ đà tăng giá cước.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Áp lực thuế quan ngành thủy sản tại Mỹ**: Rào cản "thuế chồng thuế" tại thị trường xuất khẩu chủ lực (Mỹ) gây rủi ro trực tiếp lên biên lợi nhuận nhóm ngành Thủy sản -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng thoát khỏi nhóm xuất khẩu thủy sản.
+- **Kỳ vọng nâng hạng thị trường**: Thông tin về việc hút dòng vốn ngoại (ETF) tập trung vào các mã Bluechip tài chính, bất động sản vốn hóa lớn -> Đánh giá: **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm tài chính, chứng khoán (SSI, VCB) và vốn hóa lớn (VHM).
+- **Căng thẳng địa chính trị Biển Đen**: Rủi ro gián đoạn cung ứng năng lượng -> Đánh giá: **Trung lập thiên hướng Tích cực cho giá dầu** -> Dòng tiền có thể phản ứng ngắn hạn vào nhóm P (PVD, PVC).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **HAH**
-- **Động lực (FA):** Căng thẳng Yemen (cảng Mocha) và khu vực Biển Đen gây gián đoạn chuỗi cung ứng, thúc đẩy giá cước vận tải biển tăng.
-- **Nhận định dòng tiền:** Dòng tiền đầu cơ ngắn hạn có khả năng xoay trục về nhóm vận tải biển để phòng vệ và tận dụng đà tăng giá cước.
-- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận lực cầu vượt vùng cản gần nhất.
-
-- **Mã:** **SSI, VHM, VCB**
-- **Động lực (FA):** Tin tức về kỳ vọng nâng hạng thị trường từ cận biên lên mới nổi (Emerging Markets).
-- **Nhận định dòng tiền:** Hỗ trợ xu hướng trung hạn cho các mã vốn hóa lớn (Bluechips); dòng tiền khối ngoại có xu hướng ưu tiên tích lũy khi có các nhịp điều chỉnh.
-- **Hành động:** Tiếp tục quan sát, ưu tiên chiến lược gom hàng tại các vùng hỗ trợ cứng.
-
-- **Mã:** **VHC, TNG**
-- **Động lực (FA):** Chi phí logistics tăng cao do bất ổn chính trị tại các tuyến đường hàng hải trọng yếu.
-- **Nhận định dòng tiền:** Rủi ro áp lực bán ngắn hạn khi nhà đầu tư lo ngại biên lợi nhuận bị bào mòn.
-- **Hành động:** Rủi ro vi phạm kịch bản; quan sát vùng hỗ trợ kỹ thuật, sẵn sàng hạ tỷ trọng nếu mất ngưỡng hỗ trợ.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VHC, ANV**
+    - Động lực (FA): Áp lực thuế quan tại Mỹ đe dọa biên lợi nhuận xuất khẩu.
+    - Nhận định dòng tiền: Áp lực bán kỹ thuật có khả năng gia tăng khi tin tức tiêu cực được phản ánh vào kỳ vọng lợi nhuận quý tới.
+    - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên hạ tỷ trọng nếu thủng ngưỡng hỗ trợ cứng.
+- **Mã: SSI, VCB, VHM**
+    - Động lực (FA): Hưởng lợi từ làn sóng nâng hạng thị trường và dòng vốn ngoại ETF.
+    - Nhận định dòng tiền: Dòng tiền thông minh sẽ gom dần các mã này đón đầu xu hướng nâng hạng.
+    - Hành động: **Chú ý giải ngân** theo các nhịp điều chỉnh trong phiên (buy the dip).
