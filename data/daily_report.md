@@ -1,20 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:30 - 17/08/2026
+⏱ Thời gian: 23:55, 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kỳ vọng nâng hạng thị trường (FTSE Russell):** Thị trường đang đếm ngược 4 ngày đến thời điểm công bố đánh giá quan trọng -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào: Nhóm Tài chính (Ngân hàng, Chứng khoán) và các mã vốn hóa lớn (Blue-chips)].
-- **Chính sách pháp lý BĐS:** Chính phủ yêu cầu đơn giản hóa thủ tục cấp giấy chứng nhận quyền sử dụng đất -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào: Nhóm Bất động sản (vốn hóa lớn, quỹ đất sạch)].
+- Chính phủ đẩy mạnh đơn giản hóa thủ tục cấp giấy chứng nhận quyền sử dụng đất -> Tích cực cho nhóm Bất động sản -> Dòng tiền dự kiến luân chuyển vào nhóm BĐS có quỹ đất lớn và dự án đang chờ hoàn thiện pháp lý.
+- Kỳ vọng nâng hạng thị trường bởi FTSE Russell đang tạo hiệu ứng tâm lý tích cực cho các mã vốn hóa lớn và ngành Chứng khoán -> Dòng tiền ưu tiên nhóm tài chính, vốn hóa lớn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VCB, SSI
-  - Động lực (FA): Hưởng lợi trực tiếp từ dòng vốn ngoại và kỳ vọng nâng hạng thị trường từ FTSE Russell.
-  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tích lũy trước các sự kiện lớn; kỳ vọng tăng thanh khoản tại nhóm này trong 4 ngày tới.
-  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật.
-- **Mã:** PNJ
-  - Động lực (FA): TGĐ Phan Quốc Công đã mua xong 1 triệu cổ phiếu.
-  - Nhận định dòng tiền: Tín hiệu hỗ trợ tâm lý tích cực, tạo nền giá vững chắc trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế.
-- **Mã:** VHM, PDR
-  - Động lực (FA): Hưởng lợi từ chủ trương đơn giản hóa thủ tục pháp lý dự án BĐS của Chính phủ.
-  - Nhận định dòng tiền: Kỳ vọng tháo gỡ nút thắt về thanh khoản dự án, cải thiện triển vọng dòng tiền doanh nghiệp.
-  - Hành động: Chú ý giải ngân.
+- Mã: PNJ
+- Động lực (FA): Tổng Giám đốc Phan Quốc Công vừa hoàn tất mua vào 1 triệu cổ phiếu.
+- Nhận định dòng tiền: Tín hiệu nội bộ củng cố niềm tin vào định giá, hỗ trợ tâm lý giá ngắn hạn trước áp lực rung lắc thị trường.
+- Hành động: Chú ý giải ngân quanh vùng hỗ trợ kỹ thuật gần nhất.
+
+- Mã: VHM, PDR
+- Động lực (FA): Chính sách đơn giản hóa thủ tục cấp sổ hồng/đất đai được thúc đẩy.
+- Nhận định dòng tiền: Giảm thiểu rủi ro pháp lý dự án, kỳ vọng cải thiện biên lợi nhuận và tiến độ mở bán; dòng tiền thông minh có thể phản ứng sớm trước thông tin hỗ trợ hạ tầng pháp lý.
+- Hành động: Quan sát phản ứng cung cầu tại các vùng hỗ trợ cứng.
+
+- Mã: VCB, SSI
+- Động lực (FA): Dòng vốn ngoại đón đầu kỳ vọng nâng hạng FTSE Russell (đếm ngược 4 ngày).
+- Nhận định dòng tiền: Hợp lưu tích cực từ nhóm dẫn dắt thị trường, khả năng duy trì xung lực mạnh nếu thanh khoản toàn thị trường duy trì ổn định.
+- Hành động: Tiếp tục quan sát để tối ưu hóa điểm gia tăng vị thế.
