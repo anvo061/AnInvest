@@ -1,24 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 00:17 - 18/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 01:06 - 18/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Địa chính trị:** Căng thẳng Iran leo thang dưới áp lực từ ông Trump làm dấy lên rủi ro gián đoạn cung ứng dầu thô toàn cầu -> **Đánh giá: Tiêu cực** -> Dòng tiền có thể tạm thời trú ẩn vào nhóm phòng thủ hoặc biến động theo giá dầu (PVD, BSR).
-- **Thị trường chung:** Tâm lý thận trọng trước thềm nâng hạng FTSE khiến thanh khoản sụt giảm, gây áp lực lên doanh thu các CTCK -> **Đánh giá: Tiêu cực** -> Dòng tiền vào nhóm Tài chính/Chứng khoán (SSI, VND) có thể suy yếu trong ngắn hạn dù kỳ vọng dài hạn vẫn duy trì.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Căng thẳng địa chính trị Trung Đông (rủi ro từ Iran) gia tăng áp lực lên giá dầu toàn cầu -> Đánh giá: Tiêu cực -> Dòng tiền nhóm Năng lượng/Lọc hóa dầu sẽ chịu áp lực rung lắc theo biên độ giá dầu thô.
+- Thanh khoản thị trường sụt giảm trước kỳ vọng nâng hạng -> Đánh giá: Tiêu cực -> Dòng tiền rút khỏi nhóm Chứng khoán do lo ngại giảm doanh thu phí và margin.
+- Đẩy mạnh thoái vốn Nhà nước -> Đánh giá: Tích cực (trung hạn) -> Dòng tiền có xu hướng dịch chuyển tìm kiếm các doanh nghiệp có tỷ lệ sở hữu Nhà nước cao và cấu trúc tài chính lành mạnh.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: FPT**
-    - **Động lực (FA):** Chi 480 tỷ thâu tóm quỹ đất 25.000 m2 tại TP.HCM.
-    - **Nhận định dòng tiền:** Gia tăng giá trị tài sản ròng, củng cố vị thế dẫn đầu. Tác động tích cực đến tâm lý khối ngoại và nhà đầu tư dài hạn.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh theo thị trường chung.
-- **Mã: PNJ**
-    - **Động lực (FA):** TGĐ mua xong 1 triệu cổ phiếu.
-    - **Nhận định dòng tiền:** Tín hiệu nội tại mạnh mẽ, hỗ trợ nền giá cứng trong bối cảnh thị trường thiếu thanh khoản.
-    - **Hành động:** Tiếp tục nắm giữ, ưu tiên tích lũy tại các vùng hỗ trợ cứng.
-- **Mã: SSI, VND**
-    - **Động lực (FA):** Thanh khoản thị trường sụt giảm trước "giờ G" nâng hạng.
-    - **Nhận định dòng tiền:** Áp lực cung ngắn hạn do doanh thu phí/margin kém khả quan.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát lực cầu tại vùng hỗ trợ quan trọng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **DIG**
+  - Động lực (FA): Thông báo chi trả cổ tức cho cổ đông.
+  - Nhận định dòng tiền: Tín hiệu tích cực giúp gia tăng niềm tin nắm giữ của nhà đầu tư dài hạn, có thể tạo lực đỡ cho giá cổ phiếu trước các nhịp rung lắc ngắn hạn của thị trường.
+  - Hành động: Chú ý giải ngân ở các vùng hỗ trợ cứng.
+- Mã: **FPT**
+  - Động lực (FA): Thực hiện M&A quỹ đất lớn tại TP.HCM.
+  - Nhận định dòng tiền: Củng cố vị thế tài sản ròng (NAV), hỗ trợ đà tăng trưởng bền vững cho nhóm cổ phiếu Bluechip đầu ngành.
+  - Hành động: Tiếp tục nắm giữ, ưu tiên tích lũy nếu có điều chỉnh theo chỉ số chung.
+- Mã: **SSI, VND**
+  - Động lực (FA): Thanh khoản thị trường thấp làm giảm doanh thu dịch vụ chứng khoán.
+  - Nhận định dòng tiền: Áp lực bán ngắn hạn gia tăng do dòng tiền đầu cơ rút lui.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy cho đến khi thanh khoản sàn HOSE có tín hiệu cải thiện trở lại.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-    - **Nhận định:** Tin tức về căng thẳng tại Iran trực tiếp đe dọa biên lợi nhuận lọc hóa dầu do giá dầu biến động mạnh. Với vị thế đã qua điểm rơi kỳ vọng, cần theo dõi sát sao ngưỡng hỗ trợ kỹ thuật. Nếu giá dầu mất kiểm soát khiến biên lợi nhuận thu hẹp đáng kể, khuyến nghị **cơ cấu lại (hạ tỷ trọng)** để bảo toàn vốn, tránh kẹt dòng tiền trong giai đoạn biến động địa chính trị.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+  - Nhận định: Do biến động địa chính trị tại Trung Đông gây áp lực lên giá dầu thô (đầu vào), biên lợi nhuận của BSR đang đứng trước rủi ro khó lường. Với vị thế mục tiêu trung hạn đã quá điểm rơi kỳ vọng, khuyến nghị chuyển sang trạng thái "quản trị rủi ro chặt chẽ", xem xét chốt lời chủ động để bảo toàn vốn, đảo dòng tiền sang các nhóm ngành có câu chuyện riêng (thoái vốn/tăng trưởng tài sản) thay vì nắm giữ cổ phiếu nhạy cảm với biến động chính trị toàn cầu.

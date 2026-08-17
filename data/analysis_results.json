@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "Hoàn thiện thước đo rủi ro thị trường trái phiếu - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVW9Va2ZWUm5uc2dLak0yN0g1MENDUlRRa2NGekxFeURkOXk4MnNCeVFGRDVaa2dWSzN1NXVuU2otcXNSVG9fSUF5cUFVN0xZd1BSeVlIOWxMS2RTa2NXMmlVX25IN0MzelZYUHU0azVQZTJWWmdYd0RtWVhvaTBaWm8ycF8xR3JLVzJZY1dEYVJCZw?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 12:59:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về công tác quản lý, hoàn thiện khung pháp lý và công cụ giám sát thị trường trái phiếu, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Tài chính. Việc hoàn thiện thước đo rủi ro là bước đi hành chính dài hạn, không tạo biến động dòng tiền tức thời cho các mã cổ phiếu ngân hàng hay chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 00:51:01"
+  },
+  {
+    "Title": "Doanh nghiệp của ông Nguyễn Hùng Cường sắp trả cổ tức - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWdCQUp5ZE9IbjM3R2I2M2RnQTZBVDRGd3hhMUJsbmJzN1IyTDVLLXk0aXRGcFRrd1hwYmRkRmtRUng0Sk5EYll5ZlQ2N2ZUSjlJNWtkcXNBUjBZSHlNbUg1NTI4ZHo1YVJfQU5qbjRvc1AwNjFFMVBWT2RHdHRPSTN2R1p4V2JTeTdHLUl6UE5OSUpEY1J3ZA?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 17:06:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chi trả cổ tức là tín hiệu tích cực về dòng tiền và sức khỏe tài chính của doanh nghiệp, giúp gia tăng niềm tin cho cổ đông hiện hữu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Việc chi trả cổ tức là hoạt động định kỳ, không tạo đột biến dòng tiền. Cần theo dõi phản ứng tại vùng hỗ trợ kỹ thuật.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DIG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp của ông Nguyễn Hùng Cường (Phó Chủ tịch HĐQT DIC Corp) thực hiện chi trả cổ tức giúp tăng sức hấp dẫn đối với nhà đầu tư dài hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 00:50:46"
+  },
+  {
+    "Title": "CTCK chỉ ra cơ hội đầu tư từ việc thoái vốn Nhà nước - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDFFZlJmM0dXR0VYVTdrWld0elo2R2hBV1pLMGE3SHRGa0xzZUpFaWVqa2EyZlZNQTZuUGswU0JoU0N0TFdvdHdIdU5tM3V2cWY3aVgyOWFQcnJsTXBua2FnOHBrcV9YRTl5d1FFQ3U1b3llcUJCZW8xUGNBSHlkZUVVdFZtQk53NkVqX3RsS3FjM0hlb2dJ?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 17:03:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc đẩy mạnh thoái vốn Nhà nước tạo kỳ vọng về tái cấu trúc doanh nghiệp, cải thiện hiệu quả quản trị và thu hút dòng vốn ngoại, đặc biệt tại các doanh nghiệp có tỷ lệ sở hữu Nhà nước cao.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô, thiếu lộ trình cụ thể. Cần theo dõi danh mục SCIC thực tế thay vì kỳ vọng dàn trải. Tránh bẫy thanh khoản ở các mã vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 00:50:30"
+  },
+  {
     "Title": "DN có cổ phiếu đắt nhất sàn chứng khoán dự chi 480 tỷ thâu tóm công ty nắm khu đất 25.000 m2 tại TP Hồ Chí Minh - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWlV4dnBxazhDNElRRVBhWE5YXzNDbjRiRl9qQ081N3VVMEFrT0NaaEpuQWtwWVJHYk5ObzVzcTRFTVpPOGR1RG8yYk9rOUZ5eFlTMHZGdU82azdGZ3ZfMG1wYmZ5bFpiS2d3LWpicG1XcTdsaVJzc0Y4cHpEYUotMWdZeVpiY2s5dF85TlNQWnBpWFlGQ2ZZRXZPWUhRSURmWVpqQXhwa1JzWF94MmFZUGk3UE5vVkFTdTgtb1dmaW5LSFAtOS1Qd1VkSkJWU2JGMFdURFFzV3p5b0dCbmhvdWRvZHQ?oc=5",
@@ -16507,66 +16552,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-10 16:45:34"
-  },
-  {
-    "Title": "Trạm sạc xe điện dự kiến phải công khai đơn giá",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/tram-sac-xe-dien-du-kien-phai-cong-khai-don-gia-5107438.html",
-    "PubDate": "Mon, 10 Aug 2026 15:28:21 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc công khai đơn giá là quy định quản lý hành chính, giúp minh bạch hóa thị trường nhưng không tác động trực tiếp đến biên lợi nhuận hay doanh thu của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng/Hạ tầng. Quy định minh bạch giá là bước hoàn thiện pháp lý, không tạo ra biến động dòng tiền đột biến cho các mã liên quan.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 16:45:25"
-  },
-  {
-    "Title": "Record low gas stocks expose Europe to risk of price spikes - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG1wdFRFMFBsYmRrS3NqZjhZSjdmcm93UXZyVXpsTlNRVG90Y0R5elJPTXBDbHVlaHBFQUlKRmc3Rlc1a3g3dExyQndEd0xMUG5fSGVwVUxMSU94LXZzVHVELW8yaEpCY2c2T2E5bi0wc3I0Y19mVThhX1FWYWxnMkk5QmhLTXNSZ0NKdUFqNzJDaTFzQ3hCN1RVMGlZNXVBanBsOEFCZ3E?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 06:02:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Giá khí đốt toàn cầu tăng cao do rủi ro thiếu hụt tại châu Âu sẽ thúc đẩy giá bán khí đốt và giá cước vận tải LNG, tạo lợi thế cho các doanh nghiệp thượng nguồn và vận tải dầu khí Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá khí đốt châu Âu neo cao hỗ trợ giá bán khí nội địa của GAS. PVS, PVD hưởng lợi gián tiếp từ xu hướng tăng cường thăm dò năng lượng toàn cầu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ giá khí đốt thế giới tăng cao, cải thiện biên lợi nhuận gộp."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng nhu cầu dịch vụ kỹ thuật và vận tải dầu khí khi giá năng lượng neo cao."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu/khí tăng thúc đẩy hoạt động khoan thăm dò, tăng giá thuê giàn khoan."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 15:03:23"
-  },
-  {
-    "Title": "VIX: Thông báo phát hành CP để trả cổ tức năm 2025 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVy1XSndDaEdBcnQ5aDRhbFBodU5PdGw2M0hnVU5Ca1M3OE45cjhpRWY3bkRNMjItVkFCOEdzZnNiZXp3bkl5U1JsTU96a3lxYml0XzlnQlhIekJSVVY4d0R1TGFGQmpXRE1qSXJUSGNyUmllWWl5TTYtaF8tVlVOazZtM3gzVll3VGFzM0h3WXc3M0h3MVUyN2RRRHE5djZnR01rdXdseXJTVWlSU0E?oc=5",
-    "PubDate": "Mon, 10 Aug 2026 06:35:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc phát hành cổ phiếu trả cổ tức là nghiệp vụ tài chính bình thường, giúp tăng vốn điều lệ nhưng làm pha loãng EPS ngắn hạn, không tác động trực tiếp đến dòng tiền kinh doanh cốt lõi.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. VIX phát hành cổ tức cổ phiếu gây pha loãng EPS. Không tác động dòng tiền, chỉ là nghiệp vụ vốn. Quan sát phản ứng cung cầu tại vùng hỗ trợ kỹ thuật.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIX",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Tăng vốn điều lệ thông qua cổ tức cổ phiếu là hoạt động quản trị vốn, không làm thay đổi giá trị nội tại doanh nghiệp ngay lập tức."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 15:03:07"
   }
 ]
