@@ -1,16 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:15
+⏱ Thời gian: 11:45 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động giảm mạnh 0,8 điểm % -> Tích cực (Cải thiện thanh khoản thị trường, giảm chi phí vốn cho doanh nghiệp) -> Dòng tiền sẽ hướng vào nhóm Chứng khoán (đòn bẩy margin) và Bất động sản (giảm áp lực chi phí lãi vay).
+- Căng thẳng địa chính trị Iran leo thang gây áp lực lên nguồn cung dầu toàn cầu -> Tích cực cho nhóm Dầu khí thượng nguồn -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm thượng nguồn (PVD, PVS).
+- Siết chặt quản lý tài sản đảm bảo trái phiếu doanh nghiệp -> Tích cực (trung hạn) -> Cải thiện niềm tin và chất lượng tài sản ròng nhóm Ngân hàng (TCB, MBB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: SSI, VND
-- Động lực (FA): Hưởng lợi trực tiếp từ thanh khoản thị trường kỳ vọng tăng mạnh và nhu cầu vay Margin phục hồi nhờ môi trường lãi suất thấp.
-- Nhận định dòng tiền: Dòng tiền có xu hướng xoay trục mạnh mẽ sang nhóm tài chính nhờ kỳ vọng NIM và doanh thu mảng môi giới/cho vay tăng trưởng.
-- Hành động: Chú ý giải ngân tại các nhịp rung lắc, ưu tiên các mã có thị phần margin cao.
+- Mã: PVD
+- Động lực (FA): Căng thẳng Iran gia tăng, thúc đẩy giá dầu thô thế giới neo cao, trực tiếp cải thiện giá thuê giàn khoan và biên lợi nhuận kỳ vọng.
+- Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại thường nhạy bén với thông tin địa chính trị dầu khí; dự báo thanh khoản sẽ cải thiện đột biến trong phiên.
+- Hành động: Chú ý giải ngân nếu có nhịp rung lắc tích lũy quanh vùng hỗ trợ kỹ thuật hiện tại.
 
-- Mã: PDR, VHM
-- Động lực (FA): Lãi suất vay mua nhà giảm và chi phí lãi vay doanh nghiệp được tối ưu hóa.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ nhập cuộc nhóm BĐS để đón đầu chính sách.
-- Hành động: Tiếp tục quan sát phản ứng giá tại các vùng cản kỹ thuật quan trọng.
+- Mã: TCB, MBB
+- Động lực (FA): Quy định quản lý chặt "giấy chứng nhận an toàn" cho trái phiếu, giảm thiểu rủi ro pháp lý và nợ xấu tiềm ẩn từ các khoản vay trái phiếu cũ.
+- Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, giảm áp lực bán tháo nhóm ngân hàng có tỷ trọng trái phiếu cao.
+- Hành động: Tiếp tục quan sát phản ứng tại vùng cản, ưu tiên nắm giữ cho mục tiêu quản trị rủi ro danh mục.
