@@ -1,27 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:20 - 17/08/2026
+⏱ Thời gian: 17:15 - 17/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Chuỗi cung ứng khoáng sản:** Mỹ đầu tư 3 tỷ USD vào khoáng sản phục vụ quốc phòng -> **Tích cực** -> Dòng tiền hướng vào nhóm ngành khai khoáng/nguyên vật liệu có khả năng xuất khẩu (MSR).
-- **Thanh khoản thị trường:** Suy giảm xuống mức thấp nhất 1 tháng -> **Tiêu cực** -> Gây áp lực lên nhóm Chứng khoán (SSI, VND) do giảm doanh thu môi giới và lãi margin.
-- **Nâng hạng thị trường:** Tín hiệu từ FTSE Russell trong tuần này -> **Tích cực** -> Dòng tiền ngoại kỳ vọng quay trở lại nhóm vốn hóa lớn (VHM, VCB, HPG).
-- **Bất động sản:** Đấu giá đất Thủ Thiêm được phê duyệt -> **Tích cực** -> Cải thiện tâm lý nhóm BĐS, đặc biệt các đơn vị sở hữu quỹ đất lớn (KDH).
-- **Ngân hàng:** NAB huy động 100 triệu USD vốn ngoại -> **Tích cực** -> Cải thiện biên lãi thuần và hạn mức tín dụng cho ngân hàng này.
+- **Căng thẳng địa chính trị tại Trung Đông (Eo biển Hormuz):** Giá dầu thô dự báo tăng mạnh do lo ngại gián đoạn nguồn cung -> Tích cực cho nhóm Thượng nguồn dầu khí (PVD, PVS), tiêu cực cho nhóm vận tải biển do tăng chi phí đầu vào (HAH).
+- **Thanh khoản thị trường chứng khoán suy giảm:** Tổng giá trị giao dịch sụt giảm mạnh (5.000 tỷ đồng) -> Tiêu cực cho toàn nhóm Công ty chứng khoán (SSI, VND, VCI, HCM) do sụt giảm doanh thu môi giới và lãi margin.
+- **Dòng vốn khối ngoại:** Tiếp tục bán ròng mạnh trên diện rộng tại các Bluechips (VHM, HPG, MSN, VNM) -> Tiêu cực đến chỉ số VN-Index, gây áp lực lên đà hồi phục ngắn hạn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** MSR
-  - Động lực (FA): Hưởng lợi trực tiếp từ dòng vốn 3 tỷ USD của Mỹ vào chuỗi cung ứng khoáng sản quốc phòng.
-  - Nhận định dòng tiền: Kỳ vọng tạo sóng ngắn hạn nhờ tin tức quốc tế hỗ trợ định giá.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
-- **Mã:** KDH
-  - Động lực (FA): Sự kiện đấu giá đất Thủ Thiêm tạo câu chuyện định giá lại tài sản (re-rating).
-  - Nhận định dòng tiền: Nhạy sóng với tin tức đất nền, dòng tiền có thể đổ vào khi các cổ phiếu BĐS khác thiếu động lực.
-  - Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ cứng.
-- **Mã:** SSI, VND
-  - Động lực (FA): Thanh khoản thị trường sụt giảm mạnh.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do doanh thu cốt lõi bị ảnh hưởng tiêu cực.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy ngắn hạn.
-- **Mã:** PVD, GVR
-  - Động lực (FA): Dòng tiền thông minh tìm đến nhóm phòng thủ (dầu khí/cao su) khi thị trường thiếu thanh khoản.
-  - Nhận định dòng tiền: Dòng tiền luân chuyển tích cực, giữ xu hướng tăng trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát, nắm giữ theo xu hướng.
+- **Mã: VCB**
+    - Động lực (FA): Khoản thu nhập bất thường 4.100 tỷ đồng từ dự án sân bay Phú Quốc.
+    - Nhận định dòng tiền: Tạo cú hích tài chính lớn, củng cố vị thế Bluechip dẫn dắt trong bối cảnh thị trường đang thiếu động lực.
+    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo chỉ số chung.
+- **Mã: CII**
+    - Động lực (FA): Thông tin đấu giá đất Thủ Thiêm kích hoạt kỳ vọng định giá lại quỹ đất.
+    - Nhận định dòng tiền: Dễ tạo sóng ngắn hạn do tính chất đầu cơ theo tin tức.
+    - Hành động: Quan sát kỹ vùng kháng cự, sẵn sàng vào lệnh nếu dòng tiền vào đột biến.
+- **Mã: PVD**
+    - Động lực (FA): Hưởng lợi trực tiếp từ việc giá dầu neo cao do bất ổn tại Trung Đông.
+    - Nhận định dòng tiền: Dòng tiền phòng thủ có xu hướng tìm đến nhóm năng lượng khi các nhóm khác bị khối ngoại bán ròng.
+    - Hành động: Tiếp tục quan sát để tối ưu hóa điểm vào lệnh theo kỹ thuật.
+
+*(Lưu ý: Các mã không được liệt kê trong mục 2 do thiếu dữ liệu hoặc không có sự hợp lưu tín hiệu đột biến tại thời điểm này).*
