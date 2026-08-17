@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "FUEFCV50: Kết thúc giao dịch hoán đổi ngày 14/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDE5dk1YNUxBSnRzbGE2bkR2Yk1ya25pSV93X0pJanctV1c5R0R5d0pnakpMYVQ0N0RzU2JVcXFkWkxuOHhmdUlFa0RPQjBGYUJrbkxacEpudlRUQUIzWWUxb092bDBMdm83RnhVT3VnN3F4N3AxcE5TX01Ld2trbWZkRkpNM3dKR1dCUGFoMXY2M1pfTk1lbWxOOEQ?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 03:52:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về việc kết thúc giao dịch hoán đổi của quỹ ETF, không gây tác động trực tiếp đến hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền đáng kể trên thị trường cơ sở.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 04:41:31"
+  },
+  {
+    "Title": "ACBS: Doanh nghiệp liên quan Vinhomes phát hành hơn 2 tỷ USD trái phiếu trong một quý",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/acbs-doanh-nghiep-lien-quan-vinhomes-phat-hanh-hon-2-ty-usd-trai-phieu-trong-mot-quy-5110200.html",
+    "PubDate": "Tue, 18 Aug 2026 04:04:04 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc huy động thành công lượng vốn lớn khẳng định năng lực tài chính và khả năng tiếp cận vốn của hệ sinh thái Vinhomes, giúp đảm bảo tiến độ các dự án trọng điểm và củng cố niềm tin nhà đầu tư.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Việc huy động vốn lớn làm tăng áp lực nợ vay và chi phí tài chính trong tương lai. Cần theo dõi sát tiến độ giải ngân và biên lợi nhuận dự án.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Huy động vốn thành công giúp đảm bảo thanh khoản và tiến độ triển khai các đại dự án, củng cố vị thế dẫn đầu."
+      },
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Công ty mẹ hưởng lợi từ sự ổn định tài chính và khả năng huy động vốn của các đơn vị thành viên trong hệ sinh thái."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 04:41:13"
+  },
+  {
     "Title": "TCB: Nghị quyết HĐQT về phê duyệt giao dịch cấp hạn mức thẻ tín dụng cho khách hàng là Người có liên quan của Người nội bộ - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOejRGMWlULWZLUkI0RVU4SDIxTGNPcnR2Z2I4YU84WkllXzd1YkpxZ1cycjJjWWc1X1FkUkxLTExYeHNsM3djTXcxeUhDbTBGVXpwUGZRcnlnN1NRYzJvME5uT3F5V3RxSlRDaUpOc1QxMFpiV0EzblFKQlg1XzVtSmZsNWxrUkxzdmIwS3F0UzFGVGxzVDdUZ250MDdCUUFpNUNvOHlyN1g3ZnUwVWhSQTc1U2MyOGVZQ0xHdXVQak1PTDFfQTFkMVVfUERyZkdjcHhLOVlWaW8ySG9zdWR4U0hXRWlJQkR3OVM1S1FrNGZrMXVoUlhPRFpVdlJaaVNoT1k2QVI4eTZWLXRkaWc?oc=5",
@@ -16483,31 +16520,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-10 17:49:14"
-  },
-  {
-    "Title": "TP.HCM làm mới sản phẩm, mở rộng 'cửa ngõ' đón khách Úc",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-lam-moi-san-pham-mo-rong-cua-ngo-don-khach-uc-100260810141519337.htm",
-    "PubDate": "8/10/2026 3:31:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mở rộng thị trường khách du lịch quốc tế từ Úc giúp tăng doanh thu cho các doanh nghiệp hàng không và dịch vụ lưu trú, lữ hành tại TP.HCM.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất hành chính, quảng bá du lịch địa phương. Tác động biên lợi nhuận không đáng kể trong ngắn hạn. Chưa đủ dữ liệu để kích hoạt dòng tiền lớn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 17:48:59"
-  },
-  {
-    "Title": "Sau kết luận thanh tra, hoạt động mua bán vàng tại Mi Hồng ra sao?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/sau-ket-luan-thanh-tra-hoat-dong-mua-ban-vang-tai-mi-hong-ra-sao-2543914.html",
-    "PubDate": "Mon, 10 Aug 2026 16:35:27 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về hoạt động kinh doanh của một doanh nghiệp vàng tư nhân không niêm yết, không tác động trực tiếp đến các doanh nghiệp vàng niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vàng. Tin tức về doanh nghiệp tư nhân không niêm yết không ảnh hưởng đến dòng tiền của các mã vàng trên sàn. Bỏ qua tác động.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 17:48:50"
   }
 ]

@@ -1,18 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30 - 18/08/2026
+⏱ Thời gian: 04:55, 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị tại eo biển Hormuz gây gián đoạn chuỗi cung ứng toàn cầu -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền có thể tạm trú ẩn ở nhóm cổ phiếu năng lượng thượng nguồn (PVD) hoặc nhóm vận tải biển do kỳ vọng giá cước tăng].
+- Căng thẳng địa chính trị tại eo biển Hormuz gây gián đoạn chuỗi cung ứng toàn cầu -> **Tiêu cực** -> Dòng tiền có xu hướng dịch chuyển sang nhóm ngành Vận tải biển/Logistics và Năng lượng (PVD, PVT).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** CII
-  - **Động lực (FA):** Nhóm CII tăng sở hữu tại PC1 lên 12% đối ứng với thông tin chào bán cổ phiếu ra công chúng.
-  - **Nhận định dòng tiền:** Tín hiệu trái chiều. Việc tăng sở hữu PC1 thể hiện tham vọng mở rộng danh mục hạ tầng/năng lượng (Tích cực), nhưng áp lực pha loãng từ việc chào bán cổ phiếu mới (Tiêu cực) sẽ kìm hãm đà tăng giá trong ngắn hạn.
-  - **Hành động:** Quan sát. Áp lực cung kỹ thuật sẽ mạnh hơn trong các phiên tới, tránh giải ngân đuổi khi chưa kiểm định xong vùng hỗ trợ sau pha loãng.
-- **Mã:** PC1
-  - **Động lực (FA):** Được cổ đông lớn (CII) liên tục gia tăng tỷ lệ sở hữu.
-  - **Nhận định dòng tiền:** Tích cực. Sự cô đặc cổ phiếu từ cổ đông lớn giúp giảm áp lực bán trôi nổi, hỗ trợ tâm lý nhà đầu tư nhỏ lẻ.
-  - **Hành động:** Chú ý giải ngân nếu dòng tiền giữ được đà tích lũy trên MA20.
+- **Mã: VHM**
+  - Động lực (FA): Huy động thành công hơn 2 tỷ USD trái phiếu trong một quý, khẳng định năng lực tài chính và đảm bảo vốn triển khai các đại dự án.
+  - Nhận định dòng tiền: Tác động tích cực, củng cố niềm tin vào thanh khoản doanh nghiệp, có khả năng dẫn dắt nhóm Bất động sản dân cư.
+  - Hành động: Chú ý giải ngân nếu giá vượt ngưỡng kháng cự gần nhất với vol tăng.
 
----
-*Lưu ý: Các tin tức về FPT (M&A) và DIG (Cổ tức) là các thông tin doanh nghiệp riêng lẻ, không mang tính hệ thống vĩ mô, không làm thay đổi xu hướng dòng tiền lớn nên không liệt kê ưu tiên.*
+- **Mã: PC1**
+  - Động lực (FA): CII liên tục gia tăng tỷ lệ sở hữu lên hơn 12%.
+  - Nhận định dòng tiền: Tích cực; sự hiện diện của cổ đông lớn là tổ chức hạ tầng tạo điểm tựa tâm lý vững chắc, kỳ vọng dòng tiền đầu cơ sẽ chú ý đến cấu trúc sở hữu của mã này.
+  - Hành động: Tiếp tục quan sát điểm vào theo xu hướng dòng tiền của CII.
+
+- **Mã: CII**
+  - Động lực (FA): Chào bán cổ phiếu ra công chúng nhằm tăng vốn.
+  - Nhận định dòng tiền: Tác động tiêu cực ngắn hạn do áp lực pha loãng EPS và gia tăng nguồn cung cổ phiếu trôi nổi.
+  - Hành động: Rủi ro vi phạm kịch bản tăng giá ngắn hạn; thận trọng với các lệnh mua đuổi khi có thông báo chính thức về thời điểm phát hành.
