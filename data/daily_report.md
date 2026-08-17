@@ -1,20 +1,20 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 09:30 - 17/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 10:20 - 17/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giải ngân 1,5 triệu tỷ từ Kho bạc Nhà nước:** Động thái khơi thông thanh khoản vào hệ thống ngân hàng giúp giảm áp lực lãi suất -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (VCB, TCB) và các doanh nghiệp có đòn bẩy tài chính cao.
-- **Giá dầu thế giới tăng 6%:** Củng cố biên lợi nhuận cho nhóm thượng nguồn và dịch vụ dầu khí -> **Tích cực** -> Dòng tiền ưu tiên nhóm Dầu khí (PVD, PVS).
-- **Kỳ rà soát danh mục FTSE:** Áp lực bán từ các quỹ ETF tại các mã vốn hóa lớn (VHM, VIC, HPG, MSN, VNM) -> **Tiêu cực (Ngắn hạn)** -> Nhà đầu tư cần thận trọng với áp lực điều chỉnh cục bộ tại nhóm Bluechip.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Lãi suất huy động giảm mạnh 0,8 điểm % kết hợp với kế hoạch khơi thông 1,5 triệu tỷ từ Kho bạc Nhà nước -> [Tích cực] -> Dòng tiền sẽ hướng mạnh vào nhóm Ngân hàng (dẫn dắt thanh khoản), Chứng khoán (tăng margin) và Bất động sản (giảm chi phí vốn/kích cầu vay mua nhà).
+- Giá dầu thế giới tăng 6%/tuần -> [Tích cực] -> Nhóm Dầu khí thượng nguồn (PVD, PVS) hưởng lợi trực tiếp từ biên lợi nhuận dịch vụ.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-  - **Động lực (FA):** Giá dầu tăng 6% trong tuần + Tiền mặt dồi dào, năng lực tái đầu tư giàn khoan cao.
-  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có xu hướng gia tăng nhờ chất xúc tác giá dầu.
-  - **Hành động:** Chú ý giải ngân (Canh các nhịp rung lắc do thị trường chung để gia tăng vị thế).
-- **Mã: BSR**
-  - **Động lực (FA):** Giá dầu tăng cải thiện giá trị tồn kho và biên lợi nhuận lọc hóa dầu.
-  - **Nhận định dòng tiền:** Hưởng lợi từ cả giá dầu và lượng tiền mặt dồi dào giúp ổn định tài chính.
-  - **Hành động:** Chú ý giải ngân (Kết hợp quan sát trạng thái tái cơ cấu).
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **SSI, VND**
+    - Động lực (FA): Lãi suất giảm mạnh giúp tối ưu chi phí vốn và kích thích nhu cầu margin.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối nội nhập cuộc mạnh mẽ, đẩy thanh khoản thị trường lên cao.
+    - Hành động: Chú ý giải ngân gia tăng tỷ trọng khi có nhịp rung lắc.
+- Mã: **PVD**
+    - Động lực (FA): Giá dầu duy trì đà tăng 6% trong tuần, giá thuê giàn khoan có dư địa cải thiện.
+    - Nhận định dòng tiền: Dòng tiền trading ngắn hạn sẽ tìm đến nhóm năng lượng để trú ẩn và tìm lợi nhuận.
+    - Hành động: Tiếp tục nắm giữ, canh gia tăng nếu bứt phá vùng tích lũy.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Đối với BSR:** Dữ liệu cho thấy giá dầu tăng mạnh là chất xúc tác mạnh mẽ cải thiện sức khỏe tài chính và lợi nhuận của BSR. Đây là tín hiệu củng cố nền tảng để giữ vị thế thay vì cơ cấu lại vào thời điểm này. Tiếp tục duy trì vị thế nắm giữ.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+    - Nhận định: Dữ liệu vĩ mô hiện tại (giá dầu tăng) hỗ trợ tích cực cho BSR trong việc cải thiện giá trị tồn kho và biên lợi nhuận lọc dầu. Kết hợp với môi trường lãi suất giảm (giảm áp lực chi phí tài chính), vị thế trung hạn của BSR được củng cố. **Khuyến nghị: Tiếp tục giữ**, chưa cần cơ cấu lại dòng tiền.
