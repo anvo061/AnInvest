@@ -1,25 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:25 - 18/08/2026
+⏱ Thời gian: 02:20 - 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị (Mỹ - Iran):** Nguy cơ bất ổn nguồn cung dầu toàn cầu từ chính sách của ông Trump -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Áp lực lên nhóm Năng lượng & Vận tải biển].
-- **Thanh khoản thị trường:** Sự sụt giảm dòng tiền trước kỳ vọng nâng hạng -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Áp lực rút ròng lên nhóm Chứng khoán].
-- **Thoái vốn Nhà nước:** Đẩy mạnh kế hoạch thoái vốn -> [Đánh giá: Tích cực] -> [Dòng tiền: Tập trung vào các mã có tỷ lệ sở hữu Nhà nước cao/vốn hóa lớn đang trong lộ trình tái cấu trúc].
+- Căng thẳng địa chính trị tại eo biển Hormuz leo thang gây rủi ro gián đoạn chuỗi cung ứng toàn cầu và biến động mạnh giá dầu -> [Đánh giá: Tiêu cực] -> [Dòng tiền phòng thủ sẽ gia tăng, áp lực bán lên nhóm Dầu khí và các ngành phụ thuộc chi phí vận tải].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: FPT**
-  - Động lực (FA): Thực hiện M&A quỹ đất 25.000 m2 tại TP.HCM.
-  - Nhận định dòng tiền: Tích cực nhờ mở rộng giá trị tài sản và hệ sinh thái, củng cố vị thế dẫn đầu.
-  - Hành động: Chú ý giải ngân (tích lũy quanh vùng hỗ trợ).
-- **Mã: SSI, VND**
-  - Động lực (FA): Thanh khoản thị trường thấp gây áp lực lên doanh thu phí và margin.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu, rủi ro điều chỉnh theo xu hướng thị trường chung.
-  - Hành động: Rủi ro vi phạm kịch bản (quan sát chặt vùng hỗ trợ cứng, ưu tiên hạ tỷ trọng nếu thủng nền).
-- **Mã: DIG**
-  - Động lực (FA): Thông báo chi trả cổ tức.
-  - Nhận định dòng tiền: Tích cực cho cổ đông dài hạn, ổn định tâm lý nhà đầu tư.
-  - Hành động: Tiếp tục quan sát (xác nhận sức mạnh giá trong phiên).
+- Mã: FPT
+- Động lực (FA): Thực hiện M&A quỹ đất 25.000 m2 tại TP.HCM, củng cố tăng trưởng tài sản dài hạn.
+- Nhận định dòng tiền: Tin tức hỗ trợ định giá cơ bản, tạo lực đỡ tâm lý trong ngắn hạn dù thị trường chung đang thiếu thanh khoản.
+- Hành động: Tiếp tục quan sát vùng nền giá; chưa cần giải ngân gấp do thanh khoản thị trường tổng thể đang suy yếu.
+
+- Mã: SSI, VND
+- Động lực (FA): Thanh khoản thị trường sụt giảm mạnh trước kỳ vọng nâng hạng.
+- Nhận định dòng tiền: Áp lực trực tiếp lên nguồn thu phí và margin, khó thu hút dòng tiền đầu cơ trong ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị tỷ trọng, không bắt đáy khi chưa có tín hiệu cải thiện thanh khoản hệ thống.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Dữ liệu biến động giá dầu từ rủi ro địa chính trị là biến số tiêu cực lớn đối với biên lợi nhuận của BSR trong trung hạn. Đề nghị cân nhắc tái cơ cấu, giảm tỷ trọng nếu vi phạm ngưỡng chặn lỗ kỹ thuật để bảo toàn dòng tiền cho các cơ hội hiệu quả hơn.
+- Mã: BSR
+- Nhận định: Căng thẳng tại Hormuz tạo biến động giá dầu khó lường, gây bất lợi cho biên lợi nhuận lọc hóa dầu và quản trị tồn kho. Với vị thế đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu hiện tại làm gia tăng rủi ro biên lợi nhuận. Khuyến nghị thực hiện **chốt lời/cơ cấu lại danh mục** để bảo toàn vốn trước khi các biến động vĩ mô tiêu cực tác động trực tiếp vào báo cáo tài chính quý III.
