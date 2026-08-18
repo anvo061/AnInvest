@@ -1,5 +1,95 @@
 ﻿[
   {
+    "Title": "Giá xăng dầu hôm nay 18/8: Thế giới đi lên, trong nước chờ điều chỉnh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-18-8-the-gioi-di-len-trong-nuoc-cho-dieu-chinh-2546369.html",
+    "PubDate": "Tue, 18 Aug 2026 07:26:27 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Giá dầu thế giới tăng hỗ trợ biên lợi nhuận cho các doanh nghiệp thượng nguồn và dịch vụ dầu khí, đồng thời cải thiện triển vọng doanh thu cho các đơn vị khai thác.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu thế giới biến động nhẹ chưa đủ tạo đột biến biên lợi nhuận. Cần theo dõi sát diễn biến giá cơ sở trong nước. BSR cần tái cơ cấu danh mục.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ giá dầu tăng, thúc đẩy các dự án dịch vụ kỹ thuật dầu khí và khối lượng công việc."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp cải thiện giá thuê giàn khoan và biên lợi nhuận mảng khoan dịch vụ."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 07:41:49"
+  },
+  {
+    "Title": "Áp lực xử lý nợ xấu, ngân hàng đua bán tài sản bảo đảm",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//ap-luc-xu-ly-no-xau-ngan-hang-dua-ban-tai-san-bao-dam.html",
+    "PubDate": "Tue, 18 Aug 2026 00:31:25 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc đẩy mạnh bán tài sản bảo đảm cho thấy nỗ lực làm sạch bảng cân đối kế toán, tuy nhiên áp lực nợ xấu vẫn là rủi ro tiềm ẩn đối với biên lợi nhuận ngân hàng trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Áp lực nợ xấu gia tăng buộc đẩy mạnh thanh lý tài sản, gây rủi ro trích lập dự phòng và bào mòn biên lợi nhuận ngắn hạn. Cần thận trọng với các ngân hàng có tỷ trọng nợ xấu cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Áp lực xử lý nợ xấu từ mảng tín dụng tiêu dùng đòi hỏi ngân hàng phải đẩy mạnh thanh lý tài sản bảo đảm."
+      },
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc đẩy nhanh xử lý tài sản bảo đảm giúp ngân hàng sớm hoàn tất đề án tái cơ cấu và giải phóng nguồn lực."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 07:41:33"
+  },
+  {
+    "Title": "SCIC thoái vốn tại 66 doanh nghiệp: Cú hích free float hay áp lực nguồn cung?",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//scic-thoai-von-tai-66-doanh-nghiep-cu-hich-free-float-hay-ap-luc-nguon-cung.html",
+    "PubDate": "Tue, 18 Aug 2026 00:30:56 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc thoái vốn giúp tăng thanh khoản (free float) và thu hút dòng vốn ngoại, tạo cơ hội tái cấu trúc doanh nghiệp, dù có thể gây áp lực cung ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Việc thoái vốn SCIC là lộ trình dài hạn, không tác động dòng tiền tức thời. Cần theo dõi phương thức đấu giá và định giá thực tế từng doanh nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VNM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kỳ vọng SCIC thoái nốt phần vốn còn lại giúp tăng tỷ lệ sở hữu cho nhà đầu tư nước ngoài."
+      },
+      {
+        "Ticker": "BMP",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp có chất lượng tài sản tốt, việc thoái vốn tạo kỳ vọng thay đổi quản trị và tăng thanh khoản."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 07:41:02"
+  },
+  {
+    "Title": "DNSE bị phạt 802,5 triệu đồng, phải dừng một số dịch vụ ký quỹ",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//dnse-bi-phat-8025-trieu-dong-phai-dung-mot-so-dich-vu-ky-quy.html",
+    "PubDate": "Tue, 18 Aug 2026 00:33:18 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc bị đình chỉ dịch vụ ký quỹ làm giảm năng lực cạnh tranh và doanh thu từ lãi margin của DNSE, đồng thời gây lo ngại về quản trị rủi ro trong ngành chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chứng khoán. Việc đình chỉ dịch vụ margin làm suy giảm doanh thu và uy tín của DNSE. Dòng tiền có thể dịch chuyển sang các CTCK đầu ngành có hệ thống quản trị ổn định hơn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 07:40:51"
+  },
+  {
     "Title": "VCK: Giải trình biến động LNST trên BCTC bán niên 2026 soát xét so với cùng kỳ năm trước - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeERnSnc5ZWFycjdXcjJCSUdUcFd2UlJYMHk0R293bFRrZDhmR21CaEk4N0RKb3dVQU9RejJEM2UyTTZjZ0NkNWlDeVJpVVFOU1hQTzR4R1psbFNmQmgyb2pFN2lmc2dPU2gydF9sVmtSSWxHQW9sb1U4VHJnT3RpTFQ3dWV1NnV5QXh5US1sU1BuWnV1SjBsUjN3TUdkaDFHUzlBWTc0Q2tKbnR3QUNiVzlzT1ktaVVsa2R5aTZlZzlrZVdyUUR3?oc=5",
@@ -16429,79 +16519,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-10 18:41:54"
-  },
-  {
-    "Title": "TP.HCM đề xuất cơ chế đột phá cho vật liệu xây dựng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-de-xuat-co-che-dot-pha-cho-vat-lieu-xay-dung-100260810173007209.htm",
-    "PubDate": "8/10/2026 6:15:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc tháo gỡ nút thắt về vật liệu xây dựng tại TP.HCM sẽ đẩy nhanh tiến độ các dự án hạ tầng và bất động sản trọng điểm, giúp các doanh nghiệp xây dựng và cung ứng vật liệu tăng tốc doanh thu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính hành chính, chưa có văn bản pháp lý cụ thể. Tác động thực tế lên biên lợi nhuận doanh nghiệp cần thời gian kiểm chứng. Theo dõi sát dòng tiền tại các mã đầu ngành.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ việc đẩy nhanh tiến độ các dự án hạ tầng giao thông trọng điểm tại khu vực phía Nam."
-      },
-      {
-        "Ticker": "HHV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Năng lực thi công hạ tầng lớn, hưởng lợi từ cơ chế tháo gỡ vật liệu giúp tối ưu hóa chi phí và thời gian."
-      },
-      {
-        "Ticker": "KSB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhà cung cấp đá xây dựng chủ lực tại các dự án hạ tầng trọng điểm khu vực TP.HCM và lân cận."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 18:41:36"
-  },
-  {
-    "Title": "GPBank đưa ra giải pháp vay mua nhà, giảm áp lực trả nợ cho người trẻ",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/gpbank-dua-ra-giai-phap-vay-mua-nha-giam-ap-luc-tra-no-cho-nguoi-tre-10026081017104143.htm",
-    "PubDate": "8/10/2026 6:23:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc các ngân hàng nhỏ đẩy mạnh gói vay ưu đãi cho người trẻ giúp kích cầu thanh khoản phân khúc căn hộ bình dân và trung cấp, hỗ trợ các chủ đầu tư giải phóng hàng tồn kho.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. GPBank là ngân hàng quy mô nhỏ, gói vay không đủ sức lan tỏa dòng tiền toàn ngành. Tác động thực tế lên thanh khoản NLG, DXG là không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 18:41:20"
-  },
-  {
-    "Title": "TPBank trình làng ‘chuyên gia ngân hàng số’ T’AioX",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tpbank-trinh-lang-chuyen-gia-ngan-hang-so-t-aiox-2543831.html",
-    "PubDate": "Mon, 10 Aug 2026 13:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc ứng dụng AI vào dịch vụ ngân hàng giúp tối ưu hóa chi phí vận hành và nâng cao trải nghiệm khách hàng, củng cố vị thế dẫn đầu về chuyển đổi số của TPB.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - TPB. Tin tức mang tính chất PR công nghệ, chưa tác động trực tiếp đến biên lợi nhuận hay dòng tiền ngắn hạn. Cần theo dõi phản ứng giá tại vùng hỗ trợ.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "TPB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nâng cao hiệu quả vận hành và trải nghiệm khách hàng thông qua AI, tạo lợi thế cạnh tranh trong mảng ngân hàng số."
-      }
-    ],
-    "AnalyzedAt": "2026-08-10 18:41:06"
-  },
-  {
-    "Title": "Heineken Việt Nam đồng hành cùng Đà Nẵng quảng bá văn hóa và ẩm thực địa phương",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/heineken-viet-nam-dong-hanh-cung-da-nang-quang-ba-van-hoa-va-am-thuc-dia-phuong-2543859.html",
-    "PubDate": "Mon, 10 Aug 2026 14:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động truyền thông, quảng bá thương hiệu và trách nhiệm xã hội (CSR) của doanh nghiệp, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Hoạt động quảng bá thương hiệu mang tính chất CSR, không tạo ra thay đổi đột biến về doanh thu hay dòng tiền cho các mã niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-10 18:40:56"
   }
 ]
