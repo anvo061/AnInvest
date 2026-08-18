@@ -1,25 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:15
+⏱ Thời gian: 17:45 - 18:00 (18/08/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- TP.HCM đẩy mạnh thu ngân sách và quyết liệt chống "kế hoạch trên giấy" -> [Tích cực: Kỳ vọng đẩy nhanh giải ngân vốn đầu tư công, hạ tầng trọng điểm] -> Dòng tiền tập trung: Nhóm Xây dựng hạ tầng, Bất động sản khu công nghiệp.
-- Giá dầu Brent vượt 90 USD/thùng -> [Tích cực: Cải thiện trực tiếp biên lợi nhuận thượng nguồn/trung nguồn] -> Dòng tiền tập trung: Nhóm Dầu khí (PVD, PVS, BSR).
-- Rào cản xuất khẩu sang thị trường EU/Pháp gia tăng (chi phí tuân thủ xanh) -> [Tiêu cực: Áp lực lên biên lợi nhuận ngắn hạn] -> Cảnh báo rủi ro: Nhóm Dệt may (TNG, MSH), Thủy sản (VHC).
+- **Tắc nghẽn hành chính xuất khẩu:** Việc quá tải thủ tục cấp giấy chứng nhận xuất xứ (C/O) tại TP.HCM kết hợp với rào cản tiêu chuẩn xanh tại EU làm tăng chi phí tuân thủ và rủi ro chậm tiến độ giao hàng. -> **Tiêu cực** -> Dòng tiền thận trọng với nhóm ngành Xuất khẩu (Dệt may, Thủy sản).
+- **Thúc đẩy thu ngân sách TP.HCM:** Quyết tâm đạt mục tiêu thu ngân sách cuối năm tạo kỳ vọng đẩy mạnh giải ngân vốn đầu tư công. -> **Tích cực** -> Dòng tiền hướng vào nhóm Xây dựng hạ tầng & Bất động sản khu công nghiệp.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD
-  - Động lực (FA): Giá dầu Brent vượt mốc 90 USD/thùng.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự kiến kích hoạt dòng tiền đầu cơ mạnh trong phiên.
-  - Hành động: Chú ý giải ngân theo đà tăng.
-- Mã: VIG
-  - Động lực (FA): Bị cắt margin (cấm giao dịch ký quỹ).
-  - Nhận định dòng tiền: Gia tăng áp lực bán giải chấp, suy yếu thanh khoản.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/thoát vị thế.
-- Mã: CRE
-  - Động lực (FA): Thoái vốn công ty con trong bối cảnh lợi nhuận nửa đầu năm đạt thấp.
-  - Nhận định dòng tiền: Phản ánh sự suy yếu mô hình kinh doanh, dòng tiền có xu hướng rút mạnh.
-  - Hành động: Rủi ro vi phạm kịch bản, tránh bắt đáy.
+- **Mã:** HCM
+- **Động lực (FA):** Người nội bộ thực hiện quyền mua cổ phiếu.
+- **Nhận định dòng tiền:** Tín hiệu tích cực về niềm tin nội bộ, có khả năng tạo vùng đệm giá, giảm bớt áp lực điều chỉnh nếu thị trường chung rung lắc.
+- **Hành động:** Chú ý giải ngân (tích lũy quanh vùng giá hiện tại nếu dòng tiền thị trường xác nhận ổn định).
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-  - Nhận định: Dữ liệu giá dầu Brent vượt 90 USD/thùng là biến số tích cực mạnh. Dù đã quá kỳ hạn mục tiêu tháng 3/2026, nhưng với vị thế được hưởng lợi trực tiếp từ chu kỳ giá dầu, khuyến nghị **giữ vị thế (Hold)** để tối ưu hóa lợi nhuận theo sóng ngành dầu khí hiện tại, theo dõi sát vùng kháng cự mới.
+- **Mã:** VIG
+- **Động lực (FA):** Bị cắt Margin (chứng khoán không được phép giao dịch ký quỹ).
+- **Nhận định dòng tiền:** Áp lực bán kỹ thuật gia tăng mạnh, thanh khoản sẽ bị thu hẹp đáng kể do mất lực cầu từ đòn bẩy.
+- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để tránh kẹt thanh khoản.
+
+- **Mã:** VHC, TNG, MSH
+- **Động lực (FA):** Tác động kép từ ách tắc thủ tục C/O và chi phí tuân thủ tiêu chuẩn xanh EU tăng cao.
+- **Nhận định dòng tiền:** Dòng tiền sẽ chịu áp lực bán ngắn hạn do lo ngại biên lợi nhuận bị bào mòn.
+- **Hành động:** Tiếp tục quan sát; hạn chế bắt đáy cho đến khi có thông tin về việc tháo gỡ thủ tục hành chính.
+
+- **Mã:** GEG
+- **Động lực (FA):** Khó khăn trong cơ chế bán điện mặt trời mái nhà lên lưới.
+- **Nhận định dòng tiền:** Tiêu cực trực tiếp lên doanh thu, dự báo dòng tiền đầu cơ sẽ rút khỏi mã này để tìm kiếm cơ hội ở các nhóm ngành có chính sách hỗ trợ rõ ràng hơn.
+- **Hành động:** Rủi ro vi phạm kịch bản, cân nhắc hạ tỷ trọng.
