@@ -1,24 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:20 - 18/08/2026
+⏱ Thời gian: 10:20
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới vọt lên 91 USD/thùng -> Tích cực cho nhóm năng lượng -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Thượng nguồn và Dịch vụ dầu khí.
-- Áp lực lãi suất thực tế tăng (thêm 2 điểm %) và rà soát kỷ luật margin ngành chứng khoán -> Tiêu cực cho thanh khoản thị trường chung -> Dòng tiền đầu cơ có thể co cụm, phân hóa mạnh theo kết quả kinh doanh quý.
+- **Giá dầu thế giới tăng lên 91 USD/thùng:** -> Đánh giá tác động: Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm Năng lượng (Dầu khí - Thượng nguồn & Dịch vụ).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **PVD, PVS, GAS**
-    - Động lực (FA): Giá dầu tăng lên 91 USD/thùng, cải thiện trực tiếp biên lợi nhuận và giá dịch vụ khoan/thăm dò.
-    - Nhận định dòng tiền: Hưởng lợi từ đà tăng giá dầu, khả năng cao thu hút dòng tiền dẫn dắt thị trường trong phiên.
-    - Hành động: Chú ý giải ngân nếu có nhịp rung lắc đầu phiên, bám sát diễn biến giá dầu quốc tế.
-- Mã: **DIG**
-    - Động lực (FA): Hưởng lợi trực tiếp từ dự án hạ tầng cầu kết nối khu vực dự án DIC Wisteria City (Nhơn Trạch).
-    - Nhận định dòng tiền: Kỳ vọng gia tăng thanh khoản và giá trị quỹ đất, dòng tiền đầu cơ bất động sản có thể tìm đến.
-    - Hành động: Tiếp tục quan sát tín hiệu dòng tiền tại vùng hỗ trợ kỹ thuật.
+- Động lực (FA): Giá dầu thế giới duy trì đà tăng mạnh (91 USD/thùng), trực tiếp cải thiện biên lợi nhuận và nhu cầu dịch vụ khai thác.
+- Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại khả năng cao sẽ luân chuyển vào nhóm này để đón đầu báo cáo tài chính quý kế tiếp.
+- Hành động: Chú ý giải ngân (tăng tỷ trọng nếu có nhịp điều chỉnh trong phiên).
+
 - Mã: **PLX**
-    - Động lực (FA): Chào bán 23 triệu cổ phiếu quỹ.
-    - Nhận định dòng tiền: Áp lực cung hàng tăng làm pha loãng nguồn cung trôi nổi trong ngắn hạn.
-    - Hành động: Rủi ro vi phạm kịch bản, thận trọng tránh giải ngân mới.
+- Động lực (FA): Chào bán 23 triệu cổ phiếu quỹ.
+- Nhận định dòng tiền: Áp lực cung hàng tăng đột biến làm giảm xung lực tăng giá ngắn hạn, dù ngành hưởng lợi.
+- Hành động: Rủi ro vi phạm kịch bản, hạn chế giải ngân mới.
+
+- Mã: **DIG**
+- Động lực (FA): Hạ tầng kết nối Đại Phước (Nhơn Trạch) được đẩy mạnh.
+- Nhận định dòng tiền: Tin tức hỗ trợ định giá quỹ đất, tạo tâm lý tích cực cho dòng tiền đầu tư dài hạn.
+- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật cứng.
+
+- Mã: **HCM**
+- Động lực (FA): Phát hành 22 triệu cổ phiếu ESOP.
+- Nhận định dòng tiền: Áp lực pha loãng EPS gây tâm lý tiêu cực cho cổ đông ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản, theo dõi vùng hỗ trợ gần nhất.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-    - Nhận định: Dữ liệu giá dầu 91 USD/thùng là chất xúc tác mạnh cho biên lợi nhuận lọc hóa dầu. Đối với vị thế trung hạn, đây là yếu tố hỗ trợ nắm giữ. Cần theo dõi sát áp lực chốt lời khi giá đạt ngưỡng kỳ vọng, chưa cần thiết phải cơ cấu lại tại thời điểm này.
+- **Mã BSR:** Giá dầu duy trì ở mức cao 91 USD/thùng là chất xúc tác cực kỳ quan trọng cho biên lợi nhuận lọc hóa dầu. Với mục tiêu từ tháng 3/2026, đây là thời điểm "neo" giữ vị thế để tận dụng chu kỳ tăng giá dầu, chưa cần thiết phải cơ cấu lại trừ khi có tín hiệu đảo chiều kỹ thuật mạnh từ nhóm dầu khí thế giới.
