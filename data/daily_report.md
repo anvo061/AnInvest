@@ -1,22 +1,23 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 00:30 - 19/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 01:05 - 19/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **FTSE xác nhận Việt Nam gia nhập nhóm thị trường mới nổi vào tháng 9:** -> **Tích cực** -> Dòng tiền kỳ vọng sẽ tập trung mạnh vào nhóm **Bluechips (VN30)** và các công ty chứng khoán đầu ngành (**SSI**) nhờ hiệu ứng nâng hạng.
-- **Dòng tiền lớn bán ròng 80.000 tỷ từ đầu năm:** -> **Tiêu cực** -> Tạo lực cản đối với đà tăng của nhóm vốn hóa lớn (**VCB, VHM, HPG, MSN, VIC**), gây phân hóa mạnh dù có tin hỗ trợ từ nâng hạng.
-- **Hiện tượng El Niño ảnh hưởng tiêu cực đến nông sản/thủy sản:** -> **Tiêu cực** -> Rủi ro biên lợi nhuận thu hẹp đối với nhóm xuất khẩu thủy sản (**VHC, ANV, IDI**).
-- **Giá heo hơi giảm:** -> **Tiêu cực** -> Áp lực giảm doanh thu/biên lợi nhuận nhóm chăn nuôi (**DBC, BAF**).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Kỳ vọng cải cách, hiệp định thương mại mới và dòng vốn FDI chất lượng cao tạo tâm lý tích cực cho thị trường chứng khoán và BĐS khu công nghiệp -> Tích cực -> Dòng tiền hướng vào nhóm Tài chính (Chứng khoán) và Bất động sản khu công nghiệp.
+- Áp lực bán ròng từ khối ngoại (80.000 tỷ từ đầu năm) vẫn là đối trọng lớn đè nặng lên nhóm Bluechip (VN30) -> Tiêu cực -> Lưu ý rủi ro điều chỉnh kỹ thuật tại các mã vốn hóa lớn.
+- Xóa bỏ độc quyền thị trường vàng -> Trung lập -> Hưởng lợi trực tiếp cho PNJ nhờ tăng tính minh bạch.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: SSI**
-    - **Động lực (FA):** Hưởng lợi trực tiếp từ tiến trình nâng hạng thị trường của FTSE vào tháng 9.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ đón đầu nâng hạng có thể kích hoạt xung lực mua mạnh, vượt qua áp lực bán ròng chung.
-    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
-- **Mã: VHC, ANV, IDI**
-    - **Động lực (FA):** Rủi ro chuỗi cung ứng và chi phí đầu vào tăng do El Niño.
-    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại về kết quả kinh doanh quý tới.
-    - **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro, hạn chế bắt đáy.
-- **Mã: HBS**
-    - **Động lực (FA):** Phó TGĐ đăng ký bán toàn bộ 4.3 triệu cổ phiếu.
-    - **Nhận định dòng tiền:** Áp lực cung lớn, tâm lý tiêu cực bao trùm.
-    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: KBC
+- Động lực (FA): Hưởng lợi kép từ kỳ vọng hiệp định thương mại mới và làn sóng FDI chất lượng cao vào các kho xưởng xây sẵn.
+- Nhận định dòng tiền: Tin tức hỗ trợ nền tảng cơ bản, có khả năng kích hoạt dòng tiền đầu cơ và khối ngoại khi thị trường kỳ vọng vào làn sóng nâng hạng.
+- Hành động: Chú ý giải ngân theo nhịp điều chỉnh của thị trường chung.
+
+- Mã: SSI
+- Động lực (FA): Kỳ vọng nâng hạng thị trường và thanh khoản cải thiện từ dòng vốn ngoại.
+- Nhận định dòng tiền: Là mã nhạy sóng với tin vĩ mô, dễ dẫn dắt dòng tiền nhóm Chứng khoán trong ngắn hạn.
+- Hành động: Tiếp tục quan sát khối lượng giao dịch, chờ tín hiệu xác nhận từ dòng tiền nội tại.
+
+- Mã: PNJ
+- Động lực (FA): Việc xóa bỏ độc quyền vàng giúp ổn định môi trường kinh doanh và tăng niềm tin người tiêu dùng.
+- Nhận định dòng tiền: Tác động tích cực lên giá trị doanh nghiệp, dòng tiền có xu hướng tích lũy ổn định.
+- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho mục tiêu dài hạn.
