@@ -1,28 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:57 - 18/08/2026
+⏱ Thời gian: 23:30, 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Việt Nam được FTSE xác nhận vào nhóm thị trường mới nổi (Emerging Market) vào tháng 9 tới.** -> **Tích cực** -> Dòng tiền ngoại dự kiến tập trung mạnh vào các cổ phiếu vốn hóa lớn, đầu ngành (VN30) và nhóm Tài chính - Chứng khoán.
-- **Hiện tượng El Niño diễn biến phức tạp đe dọa chuỗi cung ứng nông sản, thủy sản toàn cầu.** -> **Tiêu cực** -> Áp lực lên biên lợi nhuận nhóm xuất khẩu thủy sản (VHC, ANV, IDI).
+- **FTSE xác nhận nâng hạng thị trường Việt Nam vào tháng 9**: Tác động **Tích cực (Cốt lõi)** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm cổ phiếu vốn hóa lớn, thanh khoản cao (Blue-chips, Ngân hàng, Bất động sản vốn hóa lớn).
+- **Hiện tượng El Niño gây rủi ro chuỗi cung ứng**: Tác động **Tiêu cực** -> Áp lực lên nhóm ngành Thủy sản (VHC, ANV, IDI) do chi phí đầu vào và rủi ro thời tiết.
+- **Giá heo hơi giảm liên tiếp**: Tác động **Tiêu cực** -> Áp lực lên biên lợi nhuận nhóm ngành Chăn nuôi (DBC, BAF).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: SSI, VHM, VCB**
-    - Động lực (FA): Hưởng lợi trực tiếp từ sự kiện nâng hạng thị trường của FTSE.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền ETF thụ động giải ngân theo lộ trình, tạo lực đỡ mạnh cho các mã này.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (retest).
-- **Mã: HAG**
-    - Động lực (FA): Thông tin IPO công ty con và cam kết cổ tức cao tạo kỳ vọng.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ ngắn hạn đang phản ứng tích cực với thông tin hệ sinh thái.
-    - Hành động: Tiếp tục quan sát, ưu tiên giao dịch ngắn hạn theo sóng thông tin.
+    - Động lực (FA): Hưởng lợi trực tiếp từ dòng vốn ngoại ETF sau khi FTSE nâng hạng thị trường vào tháng 9.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón đầu (Front-running) trước thời điểm chính thức nâng hạng.
+    - Hành động: **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật; ưu tiên gia tăng tỷ trọng khi có test cung.
+- **Mã: DBC, BAF**
+    - Động lực (FA): Giá heo hơi giảm gây áp lực kép lên doanh thu và biên lợi nhuận.
+    - Nhận định dòng tiền: Rủi ro thoát hàng từ khối ngoại/tự doanh để cơ cấu sang nhóm được nâng hạng.
+    - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quan sát chặt chẽ, quản trị rủi ro nếu gãy hỗ trợ cứng.
 - **Mã: HBS**
-    - Động lực (FA): Phó TGĐ đăng ký bán toàn bộ 4.3 triệu cổ phiếu.
-    - Nhận định dòng tiền: Áp lực cung lớn, tâm lý nhà đầu tư cá nhân suy yếu.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-- **Mã: PVS, PVD, BSR**
-    - Động lực (FA): Dòng tiền đầu cơ mạnh vào nhóm dầu khí.
-    - Nhận định dòng tiền: Hút tiền tốt nhưng đang tiệm cận vùng kháng cự, dễ có rung lắc.
-    - Hành động: Tiếp tục quan sát, tránh mua đuổi tại vùng giá hưng phấn.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Dù đang thu hút dòng tiền trung hạn nhờ kỳ vọng chuyển sàn, tuy nhiên xét thời điểm hiện tại (Tháng 8/2026 - đã quá kỳ vọng tháng 3/2026), cần theo dõi sát các mốc hỗ trợ cứng. Nếu dòng tiền chuyển dịch sang nhóm được hưởng lợi trực tiếp từ nâng hạng (VCB, SSI), cần cân nhắc chốt lời 1 phần để tái cơ cấu danh mục sang nhóm vốn hóa lớn.
+    - Động lực (FA): Lãnh đạo cấp cao (Phó TGĐ) đăng ký bán toàn bộ 4.3 triệu cổ phiếu.
+    - Nhận định dòng tiền: Áp lực cung lớn trong ngắn hạn, gây tiêu cực lên tâm lý nhà đầu tư cá nhân.
+    - Hành động: **Tiếp tục quan sát**, không bắt đáy khi chưa có tín hiệu hấp thụ cung từ ban lãnh đạo.
