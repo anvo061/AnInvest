@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "Giá vàng hôm nay 19-8 bất ngờ giảm mạnh",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/gia-vang-hom-nay-19-8-bat-ngo-giam-manh-100260819001656345.htm",
+    "PubDate": "8/19/2026 12:22:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng trong nước chủ yếu ảnh hưởng đến tâm lý nhà đầu tư cá nhân và các doanh nghiệp kinh doanh vàng, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Biến động giá vàng là yếu tố vĩ mô độc lập, không tác động đến dòng tiền của các nhóm ngành niêm yết trên HOSE/HNX. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-19 02:04:46"
+  },
+  {
+    "Title": "Nhân viên ngân hàng chạy đua tìm khách gửi tiền",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nhan-vien-ngan-hang-chay-dua-tim-khach-gui-tien-5110600.html",
+    "PubDate": "Wed, 19 Aug 2026 01:17:13 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc huy động vốn khó khăn buộc các ngân hàng phải tăng lãi suất đầu vào, gây áp lực lên biên lãi ròng (NIM) và chi phí vốn của toàn hệ thống.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Áp lực huy động vốn tăng gây rủi ro NIM. Cần theo dõi sát các ngân hàng có tỷ lệ LDR cao và phụ thuộc vốn ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí vốn tăng ảnh hưởng trực tiếp đến biên lợi nhuận của ngân hàng có tỷ trọng cho vay BĐS lớn."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí huy động tăng gây áp lực lên NIM trong bối cảnh ngân hàng cần duy trì thanh khoản cho mảng tín dụng tiêu dùng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 02:04:27"
+  },
+  {
     "Title": "MSCI Says Low Free-Float Among Many Hurdles for Vietnam Stocks - bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU1Ra3FJMWhwVHMtOURyS1ptazhIM1NqN3ktanhRdEhRQjJET2s5SjlTclVheVdiYkhVbWRHQmEyR0hKYkFBdk1wM0JNTG9hSTUtSG5GRFNsb1ctWWNxdGxOWDJ0ODVEY1ZyVlBwY2VwSkwydEpUdDZzM0g5Mk1jWXJJa3MwLWVCRjBtZEVRTHB6VWJLQ0VRdTNxQ3ZGcHdnVGRxSl83aHlVYkc1eEVmOUo2OA?oc=5",
@@ -16421,47 +16458,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-11 19:06:32"
-  },
-  {
-    "Title": "LPBank thăng hạng mạnh tại Bảng xếp hạng Vietnam Report 2026",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/lpbank-thang-hang-manh-tai-bang-xep-hang-vietnam-report-2026-100260811111848912.htm",
-    "PubDate": "8/11/2026 2:39:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về xếp hạng thương hiệu, không tác động trực tiếp đến bảng cân đối kế toán, biên lợi nhuận hay hoạt động kinh doanh cốt lõi của ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Xếp hạng thương hiệu mang tính chất truyền thông, không thay đổi nội tại tài chính. Dòng tiền thông minh sẽ không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 19:06:22"
-  },
-  {
-    "Title": "Lợi nhuận ngân hàng niêm yết nhảy vọt, 7 nhà băng cùng lập đỉnh mới",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/loi-nhuan-ngan-hang-niem-yet-nhay-vot-7-nha-bang-cung-lap-dinh-moi-100260811133941265.htm",
-    "PubDate": "8/11/2026 2:45:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Kết quả kinh doanh vượt trội củng cố niềm tin nhà đầu tư vào nhóm ngân hàng, thúc đẩy dòng tiền khối ngoại và nội quay lại nhóm vốn hóa lớn, hỗ trợ chỉ số VN-Index.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Lợi nhuận lập đỉnh hỗ trợ định giá P/B. Dòng tiền tập trung vào các mã có tăng trưởng tín dụng thực chất như VCB, TCB.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng dẫn dắt thị trường, lợi nhuận tăng trưởng bền vững củng cố vị thế đầu ngành."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Biên lãi thuần (NIM) cải thiện và thu nhập ngoài lãi tăng mạnh thúc đẩy lợi nhuận lập đỉnh."
-      },
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng tín dụng cao và kiểm soát chi phí hiệu quả giúp lợi nhuận bứt phá."
-      }
-    ],
-    "AnalyzedAt": "2026-08-11 19:06:08"
   }
 ]
