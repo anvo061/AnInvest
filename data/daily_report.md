@@ -1,21 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:30 - 18/08/2026
+⏱ Thời gian: 22:57 - 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ứng dụng AI/Big Data trong tín dụng:** Ngân hàng Nhà nước và các tổ chức tài chính thúc đẩy số hóa chấm điểm tín dụng hộ kinh doanh/SME -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Ngân hàng thương mại có nền tảng công nghệ mạnh (TCB, VPB).
-- **Áp lực khối ngoại:** Bán ròng 700 tỷ đồng tập trung ở nhóm Bluechips -> **Tiêu cực** -> Gây nhiễu rung lắc lên VN-Index và các trụ cột (VHM, HPG).
-- **Sóng Dầu khí:** Giá dầu neo cao và kỳ vọng dự án thượng nguồn -> **Tích cực (ngắn hạn)** -> Dòng tiền đầu cơ tập trung vào PVS, PVD, BSR.
+- **Việt Nam được FTSE xác nhận vào nhóm thị trường mới nổi (Emerging Market) vào tháng 9 tới.** -> **Tích cực** -> Dòng tiền ngoại dự kiến tập trung mạnh vào các cổ phiếu vốn hóa lớn, đầu ngành (VN30) và nhóm Tài chính - Chứng khoán.
+- **Hiện tượng El Niño diễn biến phức tạp đe dọa chuỗi cung ứng nông sản, thủy sản toàn cầu.** -> **Tiêu cực** -> Áp lực lên biên lợi nhuận nhóm xuất khẩu thủy sản (VHC, ANV, IDI).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HAG**
-- Động lực (FA): Cam kết cổ tức 50% và IPO công ty con HGI.
-- Nhận định dòng tiền: Tạo hiệu ứng tâm lý "đầu cơ theo game" mạnh, thu hút dòng tiền cá nhân trong ngắn hạn.
-- Hành động: Theo dõi sát vùng kháng cự kỹ thuật, không FOMO tại các phiên hưng phấn quá đà.
-
-- Mã: **C69**
-- Động lực (FA): Hoàn tất giải ngân 300 tỷ đồng tăng vốn.
-- Nhận định dòng tiền: Cải thiện sức khỏe tài chính và khả năng thực thi dự án, tạo niềm tin cho dòng tiền trung hạn.
-- Hành động: Chú ý giải ngân nếu dòng tiền xuất hiện phiên xác nhận khối lượng đột biến.
+- **Mã: SSI, VHM, VCB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ sự kiện nâng hạng thị trường của FTSE.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền ETF thụ động giải ngân theo lộ trình, tạo lực đỡ mạnh cho các mã này.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (retest).
+- **Mã: HAG**
+    - Động lực (FA): Thông tin IPO công ty con và cam kết cổ tức cao tạo kỳ vọng.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ ngắn hạn đang phản ứng tích cực với thông tin hệ sinh thái.
+    - Hành động: Tiếp tục quan sát, ưu tiên giao dịch ngắn hạn theo sóng thông tin.
+- **Mã: HBS**
+    - Động lực (FA): Phó TGĐ đăng ký bán toàn bộ 4.3 triệu cổ phiếu.
+    - Nhận định dòng tiền: Áp lực cung lớn, tâm lý nhà đầu tư cá nhân suy yếu.
+    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+- **Mã: PVS, PVD, BSR**
+    - Động lực (FA): Dòng tiền đầu cơ mạnh vào nhóm dầu khí.
+    - Nhận định dòng tiền: Hút tiền tốt nhưng đang tiệm cận vùng kháng cự, dễ có rung lắc.
+    - Hành động: Tiếp tục quan sát, tránh mua đuổi tại vùng giá hưng phấn.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dữ liệu ghi nhận dòng tiền trung hạn vẫn tập trung vào nhóm dầu khí và kỳ vọng chuyển sàn. Mặc dù đã qua mốc kỳ vọng ban đầu, nhưng với xung lực thị trường hiện tại, chiến lược ưu tiên là **nắm giữ và chặn lãi (trailing stop)**, chưa cần thiết phải cơ cấu toàn bộ nếu chưa gãy xu hướng tăng trung hạn.
+- **Mã: BSR**
+    - Nhận định: Dù đang thu hút dòng tiền trung hạn nhờ kỳ vọng chuyển sàn, tuy nhiên xét thời điểm hiện tại (Tháng 8/2026 - đã quá kỳ vọng tháng 3/2026), cần theo dõi sát các mốc hỗ trợ cứng. Nếu dòng tiền chuyển dịch sang nhóm được hưởng lợi trực tiếp từ nâng hạng (VCB, SSI), cần cân nhắc chốt lời 1 phần để tái cơ cấu danh mục sang nhóm vốn hóa lớn.
