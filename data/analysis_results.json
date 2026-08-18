@@ -1,5 +1,57 @@
 ﻿[
   {
+    "Title": "FUETCC50: Kết thúc giao dịch hoán đổi ngày 17/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1pKTWZwTnBtOG5XSWE3ZGsxXzliQ1VzWTlsaHdlb2FFamVNdHBFaFVZX2JjOEs5TUFQTFp6emRvR3YyVnZiM1ZiRmc0eC1fVHo1aUtPOHpCN2xKdFlDVlYtTmNEOU1IT0ZEZF83MG5jYjJxTTkzblhTNnA3S1N3WV9LZXVOSUN6MWpvdkR2NTBpUEFqaU5PcFJkWkEybVdVVXFIREJiS21Yd2VHeEluWnJsNXI4UQ?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 09:57:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về việc kết thúc giao dịch hoán đổi của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay triển vọng lợi nhuận của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm ETF. Đây là hoạt động nghiệp vụ quỹ thông thường, không tạo ra biến động dòng tiền đáng kể cho các cổ phiếu thành phần trong danh mục VN-Diamond.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-19 00:17:53"
+  },
+  {
+    "Title": "“Dòng tiền lớn” bán ròng 80.000 tỷ đồng cổ phiếu từ đầu năm, chuyên gia lý giải nguyên nhân - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0xPMmlJLUhsYS1yQ05ZTnVINWcyZWtiSktDS293aGg5aDZUWk5tUkJBajE0ODMxX1BrZlNQX0VQc05wSDdidlNmc21vbnlmUWptQmo2TzkwSi1LZS0zb01MZlNraG9QNXpzTGZ3SUVkR01qb1hxTmZZRFZhRzFhaWJ3SUJIRGFkaEFBd3pNczkyYUFoNXJsZFItWkFzQktobF80RS1pTnNlN21hYTFvbXRSOGdtZlFDcjhONlBObXVONTJLUUE?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 17:01:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Áp lực bán ròng từ khối ngoại và dòng tiền lớn gây sức ép lên thanh khoản thị trường, đặc biệt là các mã vốn hóa lớn (Bluechips) trong rổ VN30, làm suy yếu tâm lý nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Áp lực bán ròng khối ngoại gây sức ép lên nhóm vốn hóa lớn. Khuyến nghị: Hạ tỷ trọng margin, ưu tiên quản trị rủi ro tại các mã trụ VN30.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn thường là mục tiêu bán ròng chính của dòng tiền lớn để rút vốn."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán ròng từ khối ngoại gây sức ép trực tiếp lên giá cổ phiếu vốn hóa lớn."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh mục bán ròng mạnh của dòng tiền lớn, gây cản trở đà tăng giá."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực cung từ dòng tiền lớn làm suy yếu xu hướng ngắn hạn của cổ phiếu."
+      },
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu trụ cột chịu ảnh hưởng tiêu cực từ xu hướng bán ròng chung của thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 00:17:35"
+  },
+  {
     "Title": "Vietnam to Step Up Actions to Tame Gold Market, Combat Smuggling - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHpJXzhWSTJuMzhpRnpaa2JkTXcwVDhCbU5HTkJBNHF1VWZoYlhMendleXkxcHBXVmpabHRGMVZOWGlwMHZEMmZKaDJoOVhaOTU3NGVKUzNPX19wMzhINW1hZDdGUlFBamFYLV9IdXhhUGVoN0hkYl9KVUd1bVg1SlBYSmVzM3ZfTEw2QmV3M0x2bXhDbzdweUdhOHE4RV9CRUlxYXdqN3czY1RKRG1BWlBmazk?oc=5",
@@ -16385,31 +16437,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-11 17:33:43"
-  },
-  {
-    "Title": "SSI: Nghị quyết HĐQT về việc thay đổi địa điểm Chi nhánh Hà Nội - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2JUclFBbllLNUNjQkU5OW1oUXdEQUhFNEJyXzJKRjdTMXJSVlpFMWd1WHN3OHVyRTB1SHhCRXBJaUxYNV9zeGlMRVZaRENadlEwSk5XQjhCMzdmLVIwOFRjeFpWM2VVODJHUjNENGlBTDR4aU5hSkRKRm0yczU1S3BwVTJlV3RpcHA1akJtXzlTUUFDYWFyMXpWREZBdXpjc2FzZWszS01zOHZKekNMc3FPUXNpZnFDYmN5cmxKSQ?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 09:52:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về thay đổi địa điểm văn phòng, không có tác động đến hoạt động kinh doanh, doanh thu hay lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thay đổi hành chính thuần túy, không tác động đến dòng tiền hay giá cổ phiếu SSI trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 17:33:29"
-  },
-  {
-    "Title": "PPE: Công bố thông tin Văn bản của Uỷ ban chứng khoán nhà nước về tỷ lệ sở hữu nước ngoài tối đa - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc2M2WUNPNFdhdHV6QWpYUGoyaWVQUm5pUk5uQjBrVzBiMUgxaGR5QVFKbTNtREt4VkxmVU9HT19WbkxrbkJsNmxhUGJvYjZOc1JpaVFGczc0LUhnMmlqWDU3akhaVXVMM1gwZGIzVVlIWjFtQm1OR05BQTN5bVotanI4cmV5Tk5pRFUtaFZwQnRiM1E3dExBYVM1QkVPb1djcFQ1SzUxendyYWpDSm5VVmtOUmlGYVR5ejhwZGN6OXNlS3AyX2c2dnRKbW9BX1RfSnBra0x0Z0x4bjU5UU5LR2p1Z0I2UzAtMXQ0?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 09:31:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc công bố văn bản quy định tỷ lệ sở hữu nước ngoài, không làm thay đổi trực tiếp hoạt động kinh doanh hay biên lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - PPE. Thông tin hành chính về tỷ lệ sở hữu nước ngoài không tác động đến dòng tiền ngắn hạn. Không có biến động giá đáng kể từ tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 17:33:20"
   }
 ]
