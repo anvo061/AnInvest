@@ -1,5 +1,57 @@
 ﻿[
   {
+    "Title": "MSCI Says Low Free-Float Among Many Hurdles for Vietnam Stocks - bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU1Ra3FJMWhwVHMtOURyS1ptazhIM1NqN3ktanhRdEhRQjJET2s5SjlTclVheVdiYkhVbWRHQmEyR0hKYkFBdk1wM0JNTG9hSTUtSG5GRFNsb1ctWWNxdGxOWDJ0ODVEY1ZyVlBwY2VwSkwydEpUdDZzM0g5Mk1jWXJJa3MwLWVCRjBtZEVRTHB6VWJLQ0VRdTNxQ3ZGcHdnVGRxSl83aHlVYkc1eEVmOUo2OA?oc=5",
+    "PubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc MSCI nhấn mạnh vấn đề tỷ lệ cổ phiếu tự do chuyển nhượng (free-float) thấp làm giảm kỳ vọng nâng hạng thị trường trong ngắn hạn, gây áp lực lên dòng vốn ngoại.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm vốn hóa lớn (Bluechips). Rào cản free-float làm chậm dòng vốn ETF ngoại. Dòng tiền thông minh sẽ thận trọng với các mã vốn hóa lớn có tỷ lệ sở hữu nhà nước cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ lệ free-float thấp và sở hữu nhà nước cao là rào cản chính trong đánh giá của MSCI."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn chịu áp lực bán ròng từ khối ngoại khi kỳ vọng nâng hạng bị trì hoãn."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ lệ free-float thấp hạn chế khả năng thu hút dòng vốn thụ động từ các quỹ ETF quốc tế."
+      },
+      {
+        "Ticker": "BID",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cơ cấu cổ đông cô đặc gây khó khăn trong việc đáp ứng các tiêu chuẩn thanh khoản của MSCI."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực điều chỉnh ngắn hạn do tâm lý nhà đầu tư nước ngoài suy giảm trước thông tin rào cản nâng hạng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 01:19:19"
+  },
+  {
+    "Title": "Tuấn Anh Group (V68) chính thức chào sàn: Doanh nghiệp sản xuất chăn ga gối đệm hàng đầu Việt Nam gia nhập thị trường vốn - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZDVyTTJXdWwxbGJaV2hmakdnTUk2YVlkeEduWEJKdUwyZlZTMi1HR0I3MXFfSGZrWWxoSndmbzdRQVBhM00zQ1M4dFRmdFJ4cG5KbmhmcU5ZM3NBZmFsaUhUbGJXUHZIZTBwcjhKVzItcEJ5S1pFVWdudU9WaVFMTkp0dDJQVEpPZkxKYkFnYkFjNWZ3dWtRNnJzcDBDeWlfN2U0akZfdDhjcE5XYmQyZkR2OW1pM0ZHODFBeGlyRXVKSFhDV05wMjIwbWp3MVZ6VmM2YnRYTy1zVnpvS25qZExMeGJDclJfbXRjNzBoWQ?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 03:42:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc niêm yết mới của một doanh nghiệp quy mô vừa trong ngành hàng tiêu dùng không tạo ra tác động lan tỏa đáng kể đến thanh khoản hay xu hướng của các nhóm ngành lớn trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - V68. Cổ phiếu mới niêm yết thường có biến động mạnh do cung cầu sơ cấp, không ảnh hưởng đến dòng tiền của các mã dẫn dắt thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-19 01:19:08"
+  },
+  {
     "Title": "Vietnam Stocks Near Record on Reform Hopes, Trade Deal Optimism - bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ2RyNk1rUG4xd1Y3V2t5djM1Q1VtczJDSHU4U2hzVHpOczJ4RlROX2labC1IQl90cjhEbHExQ1BJWjBPZTdSanFJTWd0bGZidmEwQW5NZDVEOVhaZXgxNkFBaTRLVlh4U0FiMTVIRkRUbkh0VGZSckZsSnpEd3NxMG0tcTN3ZFl1aHF2Y2ViZWxEaHRWa3p4T0JOc0FmSnhzc1NwcU9XWDhvMGlFQ1NSbE9XMA?oc=5",
@@ -16411,31 +16463,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-11 19:06:08"
-  },
-  {
-    "Title": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXI5TE1EUEdoRUpxYzZfdDNOck5jT29pcUNLdnl4TjE2Q1Y1bnlkZS02MmFzY25KUUwxTnZxNTVxWTQybmkxUExnUWN4OXdTT2xCR3RDcmU2eHpZdEhIMWU5QURfWjl5eDNQaGliMUlRYVhYdEgxY1hPbU1zOS1rTXhRX1F2MjRaajl5cmw1Y3ZrSUpBQnNKMFFWV2E1bHN4NXR3cEFwSWJhMjN0bkxkcFV1UmNiNFpKMjdLQ3REbEt3Z1dUbXB2TlU2MA?oc=5",
-    "PubDate": "Thu, 06 Aug 2026 10:56:07 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Xung đột địa chính trị kéo dài gây áp lực lên giá dầu và chi phí vận tải biển, tạo rủi ro lạm phát chi phí đẩy và bất ổn tâm lý trên thị trường tài chính toàn cầu.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Rủi ro địa chính trị leo thang gây áp lực lạm phát toàn cầu. Dòng tiền có xu hướng rút khỏi tài sản rủi ro, không phải là tín hiệu mua cho nhóm Dầu khí hay Vận tải.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 18:28:22"
-  },
-  {
-    "Title": "FUEVFVND: Kết thúc giao dịch hoán đổi ngày 10/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzBtOTgyMXFkaVdfVkFYZkVDNUYySzBGbFhKT0hpTGtETHBJUGd2NVloeVBiN3RpTzU5UGQyeXFxU0Y1WEZ5amd5ZS1TMXRXLU0zR0FNWmt3TU5MLTFGdnNPWGdXcWtZXzB4aGxoREpCTkpVVkFrSUFRYVhyQk53d0dBMHpRR21vTmhmNm9WbDdveUN0aWFHZ1ctaTFtaWt0TE16eUhKUjl2dTYyRlZxTmpTbFI5dw?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 10:11:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay xu hướng dòng tiền của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ định kỳ của quỹ hoán đổi, không tác động đến cung cầu cổ phiếu trên thị trường. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 18:28:12"
   }
 ]

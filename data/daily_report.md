@@ -1,23 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:05 - 19/08/2026
+⏱ Thời gian: 01:30 ngày 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kỳ vọng cải cách, hiệp định thương mại mới và dòng vốn FDI chất lượng cao tạo tâm lý tích cực cho thị trường chứng khoán và BĐS khu công nghiệp -> Tích cực -> Dòng tiền hướng vào nhóm Tài chính (Chứng khoán) và Bất động sản khu công nghiệp.
-- Áp lực bán ròng từ khối ngoại (80.000 tỷ từ đầu năm) vẫn là đối trọng lớn đè nặng lên nhóm Bluechip (VN30) -> Tiêu cực -> Lưu ý rủi ro điều chỉnh kỹ thuật tại các mã vốn hóa lớn.
-- Xóa bỏ độc quyền thị trường vàng -> Trung lập -> Hưởng lợi trực tiếp cho PNJ nhờ tăng tính minh bạch.
+- **Tác động trái chiều về kỳ vọng nâng hạng và dòng vốn:** Bloomberg ghi nhận sự lạc quan từ hiệp định thương mại mới (hỗ trợ nhóm Xuất khẩu, BĐS KCN) nhưng song hành với cảnh báo từ MSCI về rào cản free-float và áp lực bán ròng khối ngoại 80.000 tỷ từ đầu năm -> **Đánh giá: Thận trọng (Mixed)** -> Dòng tiền sẽ phân hóa mạnh: Thoát dần các trụ vốn hóa lớn bị khối ngoại bán ròng (VCB, VHM, MSN), tập trung vào các mã hưởng lợi trực tiếp từ FDI (KBC, GMD, IDC).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: KBC
-- Động lực (FA): Hưởng lợi kép từ kỳ vọng hiệp định thương mại mới và làn sóng FDI chất lượng cao vào các kho xưởng xây sẵn.
-- Nhận định dòng tiền: Tin tức hỗ trợ nền tảng cơ bản, có khả năng kích hoạt dòng tiền đầu cơ và khối ngoại khi thị trường kỳ vọng vào làn sóng nâng hạng.
-- Hành động: Chú ý giải ngân theo nhịp điều chỉnh của thị trường chung.
+- **Mã: KBC**
+  - Động lực (FA): Hưởng lợi kép từ kỳ vọng hiệp định thương mại mới và làn sóng FDI chất lượng cao thúc đẩy nhu cầu kho xưởng.
+  - Nhận định dòng tiền: Tích cực. Dòng tiền có xu hướng luân chuyển vào nhóm có câu chuyện tăng trưởng thực từ hạ tầng và FDI thay vì các mã trụ bị khối ngoại "xả" ròng.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật do tâm lý thị trường chung ảnh hưởng bởi tin MSCI.
 
-- Mã: SSI
-- Động lực (FA): Kỳ vọng nâng hạng thị trường và thanh khoản cải thiện từ dòng vốn ngoại.
-- Nhận định dòng tiền: Là mã nhạy sóng với tin vĩ mô, dễ dẫn dắt dòng tiền nhóm Chứng khoán trong ngắn hạn.
-- Hành động: Tiếp tục quan sát khối lượng giao dịch, chờ tín hiệu xác nhận từ dòng tiền nội tại.
-
-- Mã: PNJ
-- Động lực (FA): Việc xóa bỏ độc quyền vàng giúp ổn định môi trường kinh doanh và tăng niềm tin người tiêu dùng.
-- Nhận định dòng tiền: Tác động tích cực lên giá trị doanh nghiệp, dòng tiền có xu hướng tích lũy ổn định.
-- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho mục tiêu dài hạn.
+- **Mã: PNJ**
+  - Động lực (FA): Chính sách xóa bỏ độc quyền thị trường vàng giúp tăng tính minh bạch và uy tín thương hiệu.
+  - Nhận định dòng tiền: Trung lập/Tích cực. Việc ổn định thị trường ngoại hối gián tiếp hỗ trợ sức mua nhóm hàng tiêu dùng xa xỉ.
+  - Hành động: Tiếp tục quan sát vị thế, theo dõi vùng hỗ trợ cứng.
