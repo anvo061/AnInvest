@@ -1,5 +1,118 @@
 ﻿[
   {
+    "Title": "E1VFVN30: Kết thúc giao dịch hoán đổi ngày 17/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzBMSWRYbHVCZjA2UG40SlFuM21ySnBtTXd4eERIMEw2SDExVFRtdnRfNWZKTDhqektRNE4wVENpYjRZaEoxRzNES0dSYTJUVk1WR3Y4QmlVeXgxMm9NVFZiRWo3TWRHS0ZFdFd3TkNmb3E2ODAxQWlWN29obXR2YjQ3WUxMUTJiVHgtN0RSV3RwMmtKc05RN1hBWHZnUW1aY3daN1AyT3NhLVYzMmhkYTlvcVZGUQ?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 10:18:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị nội tại hay xu hướng kinh doanh của các doanh nghiệp trong danh mục VN30.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là hoạt động nghiệp vụ quỹ ETF định kỳ, không tác động đến cung cầu thực tế của các mã cổ phiếu thành phần. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 18:38:28"
+  },
+  {
+    "Title": "FTS: Quyết định về việc vay vốn Techcombank - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXUwTjZWOVBiWWkza0k5bUNZVjZld2llWTg5RUxYTTBFMllCb09GcGlZZHMyYUxreXJUYTR4MlF4YVB3a0ZKNExaWTBxVjBGcXU3OVZNSC1iX05XMmpLd0tuVnNIdmVUM3h4eFV1OVNlNUpKUjJzUHNoVWlLTUxKRXhTOXlYNUJOUVpFY1pvbzFEakpvUGxFZ0pHTjRJdVl6eVJoVw?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 10:46:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc vay vốn từ ngân hàng giúp FTS bổ sung nguồn vốn lưu động, tăng cường năng lực cho vay margin, từ đó thúc đẩy doanh thu từ hoạt động môi giới và lãi cho vay.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - FTS. Việc tăng hạn mức vay giúp FTS mở rộng dư địa cho vay margin, trực tiếp cải thiện doanh thu lãi vay trong bối cảnh thanh khoản thị trường duy trì ổn định.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "FTS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Bổ sung nguồn vốn giá rẻ giúp tăng năng lực cung cấp margin, trực tiếp thúc đẩy doanh thu tài chính."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 18:38:11"
+  },
+  {
+    "Title": "Một CEO công ty chứng khoán thu nhập 3,2 tỷ đồng nửa đầu năm - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGduMHJpUE5IZWMwSnR5Zk5vb285cEl3TFNGMTNrRWdxU2RhRmRxZjZYZHc2MnlaRjJicHYxdy1iVGgyejNjYkhEcG9zUUNKVUhQb0x6Rjd0X3dwNHIybEI0S2xNVm5kRjJDQkh5R0tlZnJsS0d1Q1otQlVpQ25odUNUUjhQSHFpYzVBV2dIR01kX0ZYNmxjcTBkeEZtb3lO?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 11:08:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về thu nhập cá nhân của lãnh đạo doanh nghiệp là tin tức quản trị nội bộ, không phản ánh trực tiếp hiệu quả kinh doanh hay thay đổi biên lợi nhuận của công ty chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Thu nhập lãnh đạo là thông tin quản trị, không tác động đến dòng tiền hay định giá cổ phiếu. Bỏ qua tín hiệu này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 18:37:48"
+  },
+  {
+    "Title": "TP.HCM phát hiện, tiêu hủy nhiều lô thịt heo, gà nhiễm chất cấm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tphcm-phat-hien-tieu-huy-nhieu-lo-thit-heo-ga-nhiem-chat-cam-100260818154436096.htm",
+    "PubDate": "8/18/2026 5:30:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc siết chặt kiểm soát vệ sinh an toàn thực phẩm giúp các doanh nghiệp chăn nuôi có quy trình khép kín, đạt chuẩn (3F) gia tăng thị phần nhờ niềm tin người tiêu dùng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất quản lý hành chính, không tạo ra đột biến cung cầu hay thay đổi biên lợi nhuận ngành chăn nuôi trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 18:37:32"
+  },
+  {
+    "Title": "Kiểm soát thị trường thuốc lá: Từ thực thi đến chính sách quản lý điểm bán",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/kiem-soat-thi-truong-thuoc-la-tu-thuc-thi-den-chinh-sach-quan-ly-diem-ban-100260818173228348.htm",
+    "PubDate": "8/18/2026 6:00:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức tập trung vào quản lý hành chính và thực thi pháp luật tại các điểm bán lẻ, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động ngành. Đây là vấn đề quản lý hành chính, không làm thay đổi biên lợi nhuận hay dòng tiền của các doanh nghiệp niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 18:37:21"
+  },
+  {
+    "Title": "Cá rô phi đơn tính đang giá cao, nhưng vì sao người nuôi chưa mặn mà?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ca-ro-phi-don-tinh-dang-gia-cao-nhung-vi-sao-nguoi-nuoi-chua-man-ma-100260818110103126.htm",
+    "PubDate": "8/18/2026 6:06:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin phản ánh khó khăn trong khâu sản xuất nông nghiệp hộ gia đình, không tác động trực tiếp đến biên lợi nhuận hay doanh thu của các doanh nghiệp thủy sản niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thủy sản. Vấn đề sản xuất cá rô phi quy mô nhỏ lẻ không ảnh hưởng đến các doanh nghiệp xuất khẩu lớn. Dòng tiền không phản ứng với tin tức này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-18 18:37:11"
+  },
+  {
+    "Title": "Lãi suất tiết kiệm vẫn tăng nhưng lãi cho vay chững lại",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/lai-suat-tiet-kiem-van-tang-nhung-lai-cho-vay-chung-lai-5110534.html",
+    "PubDate": "Tue, 18 Aug 2026 18:26:25 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc lãi suất huy động tăng gây áp lực lên chi phí vốn của ngân hàng, nhưng lãi cho vay chững lại giúp duy trì nhu cầu tín dụng, tạo thế cân bằng cho biên lãi ròng (NIM) trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. NIM chịu áp lực kép khi chi phí vốn tăng nhanh hơn lãi suất cho vay. Ưu tiên nhóm có CASA cao, thận trọng với các ngân hàng có tỷ lệ nợ xấu tiềm ẩn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lợi thế chi phí vốn thấp (CASA cao) giúp VCB duy trì NIM tốt hơn các ngân hàng khác khi lãi suất huy động tăng."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cơ cấu nguồn vốn linh hoạt giúp TCB kiểm soát chi phí vốn hiệu quả trong môi trường lãi suất biến động."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Áp lực chi phí huy động tăng có thể làm thu hẹp biên lợi nhuận nếu không đẩy mạnh được tăng trưởng tín dụng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-18 18:36:56"
+  },
+  {
     "Title": "FUESSV30: Kết thúc giao dịch hoán đổi ngày 17/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGZqZ2tKYzR2NTZNWW9MS1hNd0NYYlRUeHlGVXNER0pSdzFzNGNxVEZZOVBJZnZqR3ZZS2szV1Nzbm1zdWUya2VrVURIUGRyeFAtTHNFZEZyVDVCSTRyN3pfZkpHakJoYVJBVHR2UGJ6elQ3VXNYLWVRNTB4T3M1cGhXVnN0SVlIQzVjcllfY2RYYWVXT1dSbHlpekpaU3NXMjFXS29icXNJWWdyU3NsYnd3bFhVUQ?oc=5",
@@ -16333,118 +16446,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-11 12:35:05"
-  },
-  {
-    "Title": "Australia and Vietnam deepen strategic partnership - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX254N3gzaG5FbE5BNG9vT0wyblJ0cUQ0ZDl2RVIxSURmM3ljRGFqbzdqOFgtMktIcmJQYTlad2QxZENQQkw1UWI3ZDFxdnJmMHJzZE1QQW1iQ3ZJT2ZCUzVwTEFqNERJbEk2R3YxcEllZG9fVnVCbEM1MWxhS1F2T1hKVkJ0X0JzM3dJZnF4VWdOMEs3cUVyS3l3anY4djZqNUZR?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 01:43:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc nâng tầm quan hệ chiến lược thúc đẩy hợp tác thương mại, đầu tư FDI và xuất khẩu nông sản, khoáng sản giữa hai quốc gia, tạo động lực tăng trưởng dài hạn cho các doanh nghiệp xuất khẩu và hạ tầng khu công nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính ngoại giao vĩ mô, thiếu tác động trực tiếp đến biên lợi nhuận doanh nghiệp trong ngắn hạn. Cần theo dõi lộ trình cụ thể của các hiệp định thương mại.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 12:34:50"
-  },
-  {
-    "Title": "Tuấn Anh Group chính thức được HNX chấp thuận đăng ký giao dịch, 33 triệu cổ phiếu V68 sẽ chào sàn ngày 18/8 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb0l2d1MzNWJSbXJEWkRGTmZHaldVcmtLZ3dmaTA3Zi1pU2FlajNCNWZnbVhYdVlLQURXSXc2OUpiNlBGcHBXZE10NzU2dnNiNVJLakF5RlE0RThpWEJfdFAyX3dQZ3NITHZQdERzRnZkTDFwdk5PN3JHMkZBN25jTzZqRnVCV2xtY1RBZjBsU0FackgyWjJkUzlPN2VubVE4VVV5ZlJLd0NHeTlVMG1mZ3pJQ256X1pudTJfX0F5LTN5bGphZDlvZ0t3b1JpWlRXSHVtbzdoM05jVFhySVlCQw?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 04:22:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc niêm yết mới của một doanh nghiệp quy mô nhỏ không tạo ra tác động lan tỏa đến chỉ số chung hay các nhóm ngành trọng yếu trên thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Sự kiện niêm yết đơn lẻ của V68 không tác động đến dòng tiền thị trường chung. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 12:34:38"
-  },
-  {
-    "Title": "Vingroup đưa 'nữ tướng' Lê Thị Thu Thủy ra khỏi danh sách lãnh đạo cấp cao",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vingroup-dua-nu-tuong-le-thi-thu-thuy-ra-khoi-danh-sach-lanh-dao-cap-cao-100260811095706571.htm",
-    "PubDate": "8/11/2026 10:20:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc thay đổi nhân sự cấp cao trong tập đoàn là hoạt động quản trị nội bộ bình thường, không làm thay đổi mô hình kinh doanh hay triển vọng lợi nhuận của các doanh nghiệp thuộc hệ sinh thái Vingroup.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vingroup. Thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ, không tác động đến dòng tiền hay định giá cổ phiếu. Nhà đầu tư nên đứng ngoài quan sát.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 12:34:27"
-  },
-  {
-    "Title": "Giá đền bù làm rạch Văn Thánh: Cao nhất ở đường Điện Biên Phủ, hơn 256 triệu đồng/m²",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/gia-den-bu-lam-rach-van-thanh-cao-nhat-o-duong-dien-bien-phu-hon-256-trieu-dong-m2-100260811095818108.htm",
-    "PubDate": "8/11/2026 10:27:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc chốt giá đền bù cao giúp đẩy nhanh tiến độ giải phóng mặt bằng cho dự án hạ tầng trọng điểm tại TP.HCM, tạo tiền đề cho các dự án bất động sản lân cận gia tăng giá trị quỹ đất.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc đền bù giải phóng mặt bằng là chi phí dự án hạ tầng công, không tác động trực tiếp đến biên lợi nhuận hay quỹ đất của các doanh nghiệp BĐS niêm yết cụ thể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 12:34:13"
-  },
-  {
-    "Title": "NCB đồng loạt giảm 0,5% lãi suất các gói vay",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/ncb-dong-loat-giam-05-lai-suat-cac-goi-vay-100260811103904102.htm",
-    "PubDate": "8/11/2026 11:30:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc giảm lãi suất cho vay cho thấy xu hướng nới lỏng chi phí vốn, hỗ trợ kích cầu tín dụng và giảm áp lực tài chính cho khách hàng cá nhân và doanh nghiệp nhỏ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc giảm lãi suất tại một ngân hàng quy mô nhỏ (NCB) không đại diện cho xu hướng nới lỏng toàn hệ thống. Tác động đến dòng tiền thị trường là không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 12:33:58"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 11/8: Thế giới tăng, trong nước sắp điều chỉnh",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-11-8-the-gioi-tang-trong-nuoc-sap-dieu-chinh-2544064.html",
-    "PubDate": "Tue, 11 Aug 2026 07:48:39 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá dầu thế giới tăng hỗ trợ biên lợi nhuận cho các doanh nghiệp thượng nguồn và trung nguồn trong nước, đồng thời phản ánh kỳ vọng phục hồi nhu cầu năng lượng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu thế giới tăng tạo kỳ vọng ngắn hạn nhưng biên lợi nhuận BSR chịu áp lực từ chênh lệch giá đầu vào. Cần theo dõi sát dòng tiền tại PVD, PVS.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu thuê giàn khoan và cải thiện giá dịch vụ khoan."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác khi giá dầu duy trì ở mức cao."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-11 12:33:43"
-  },
-  {
-    "Title": "BIDV triển khai gói tín dụng ưu đãi 50.000 tỷ đồng cho khách hàng doanh nghiệp",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/bidv-trien-khai-goi-tin-dung-uu-dai-50-000-ty-dong-cho-khach-hang-doanh-nghiep-2544222.html",
-    "PubDate": "Tue, 11 Aug 2026 12:00:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Gói tín dụng quy mô lớn giúp BIDV tăng trưởng dư nợ tín dụng, đồng thời hỗ trợ các doanh nghiệp sản xuất giảm chi phí vốn, thúc đẩy hoạt động kinh doanh trong bối cảnh lãi suất đang là yếu tố then chốt.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Ngành Ngân hàng. Gói 50.000 tỷ thúc đẩy tăng trưởng tín dụng BIDV. Tác động lên doanh nghiệp sản xuất là gián tiếp, chưa đủ dữ liệu để xác định đơn vị thụ hưởng cụ thể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng dư nợ tín dụng và thị phần khách hàng doanh nghiệp thông qua gói ưu đãi."
-      }
-    ],
-    "AnalyzedAt": "2026-08-11 12:33:27"
   }
 ]
