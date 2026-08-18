@@ -1,23 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15 ngày 18/08/2026
+⏱ Thời gian: 19:45 - 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động tăng, lãi cho vay chững lại:** Tác động tiêu cực đến biên lãi ròng (NIM) ngành ngân hàng; dòng tiền có xu hướng phân hóa mạnh, ưu tiên các ngân hàng có chi phí vốn (CASA) thấp để duy trì lợi nhuận.
+- Giá dầu Brent vượt ngưỡng 91 USD/thùng -> Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm Dầu khí thượng nguồn (PVD, PVS) và nhóm có tồn kho dầu lớn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: FTS**
-  - Động lực (FA): Vay vốn mới từ Techcombank giúp gia tăng nguồn lực vốn lưu động.
-  - Nhận định dòng tiền: Tích cực; tăng năng lực cho vay Margin sẽ trực tiếp thúc đẩy doanh thu tài chính trong quý tới.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật ngắn hạn.
-- **Mã: HCM**
-  - Động lực (FA): Được chấp thuận kết nối giao dịch thị trường carbon.
-  - Nhận định dòng tiền: Tiềm năng trung hạn, xác lập vị thế dẫn đầu trong mảng dịch vụ tài chính xanh.
-  - Hành động: Tiếp tục quan sát phản ứng giá tại vùng kháng cự gần nhất.
-- **Mã: HVN**
-  - Động lực (FA): Sự cố chuyến bay VN34 gây rủi ro chi phí và uy tín.
-  - Nhận định dòng tiền: Áp lực bán ngắn hạn do tâm lý nhà đầu tư bị tổn thương.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy trong phiên tới.
-- **Mã: VCB, TCB**
-  - Động lực (FA): Lợi thế nguồn vốn ổn định trước áp lực tăng lãi suất huy động.
-  - Nhận định dòng tiền: Hút dòng tiền phòng thủ (defensive) nhờ khả năng giữ NIM ổn định hơn nhóm ngân hàng nhỏ.
-  - Hành động: Tiếp tục quan sát.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới vượt 91 USD/thùng, cải thiện trực tiếp biên lợi nhuận từ giá thuê giàn khoan.
+- Nhận định dòng tiền: Dòng tiền đầu cơ sẽ phản ứng nhạy với tín hiệu này, kỳ vọng gia tăng thanh khoản đột biến.
+- Hành động: Chú ý giải ngân theo nhịp rung lắc trong phiên.
+
+- Mã: **FTS**
+- Động lực (FA): Việc ký kết hạn mức vay vốn từ Techcombank giúp gia tăng nguồn lực cho vay margin.
+- Nhận định dòng tiền: Tạo dư địa tăng trưởng doanh thu lãi vay, hỗ trợ đà tăng giá bền vững của cổ phiếu.
+- Hành động: Tiếp tục nắm giữ, theo dõi vùng kháng cự ngắn hạn.
+
+- Mã: **DSE**
+- Động lực (FA): Nhận quyết định xử phạt vi phạm hành chính từ UBCKNN.
+- Nhận định dòng tiền: Tạo áp lực bán tháo ngắn hạn do rủi ro pháp lý.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng tại vùng hỗ trợ cứng.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+- Nhận định: Giá dầu vượt 91 USD/thùng là chất xúc tác mạnh cho biên lợi nhuận lọc dầu và đánh giá lại giá trị hàng tồn kho. Dữ liệu này củng cố luận điểm tiếp tục nắm giữ thay vì chốt lời theo kế hoạch cũ, chờ tín hiệu dòng tiền xác nhận vùng đỉnh giá mới.
