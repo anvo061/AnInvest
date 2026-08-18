@@ -1,21 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:24 - 18/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 12:00 ngày 18/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Tâm lý thị trường suy yếu do áp lực điều chỉnh và dữ liệu 39.000 doanh nghiệp rút lui khỏi thị trường -> Đánh giá: Tiêu cực -> Dòng tiền có xu hướng thoát khỏi nhóm tài chính (Chứng khoán, Ngân hàng) và bán lẻ để bảo toàn vốn.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- Dữ liệu về 39.000 doanh nghiệp rút lui khỏi thị trường phản ánh sức khỏe nội tại của nền kinh tế đang suy yếu -> **Tiêu cực** -> Dòng tiền sẽ có xu hướng rút khỏi nhóm Tài chính (Ngân hàng, Chứng khoán) và Bán lẻ để trú ẩn hoặc giữ tiền mặt.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: SSI, VND, VCI
-- Động lực (FA): Tâm lý thị trường thận trọng trước dự báo điều chỉnh sâu, thanh khoản thị trường suy giảm trực tiếp ảnh hưởng đến doanh thu môi giới và lãi margin.
-- Nhận định dòng tiền: Áp lực bán chủ động có khả năng gia tăng khi tâm lý tiêu cực bao trùm nhóm chứng khoán.
-- Hành động: Rủi ro vi phạm kịch bản, cần thắt chặt quản trị rủi ro, quan sát ngưỡng hỗ trợ kỹ thuật gần nhất.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: POW**
+    - **Động lực (FA):** Lợi nhuận kỷ lục và sự gia tăng tỷ trọng từ khối ngoại (Dragon Capital).
+    - **Nhận định dòng tiền:** Tạo "neo" tâm lý tích cực ngắn hạn, có thể đi ngược thị trường trong phiên nhờ dòng tiền thông minh hỗ trợ.
+    - **Hành động:** Tiếp tục nắm giữ, theo dõi vùng hỗ trợ gần nhất; giải ngân thăm dò nếu dòng tiền duy trì độ dày trên mốc trung bình 20 phiên.
 
-- Mã: VCB, TCB
-- Động lực (FA): Số lượng doanh nghiệp rút lui khỏi thị trường cao làm tăng áp lực trích lập dự phòng rủi ro tín dụng và suy giảm nhu cầu vay vốn.
-- Nhận định dòng tiền: Dòng tiền khối ngoại và tổ chức có thể tiếp tục duy trì trạng thái thận trọng, thiếu động lực bứt phá ngắn hạn.
-- Hành động: Tiếp tục quan sát, chưa nên gia tăng tỷ trọng ở vùng giá hiện tại.
+- **Mã: SSI, VND, VCI**
+    - **Động lực (FA):** Thanh khoản thị trường suy giảm và tâm lý thận trọng bao trùm.
+    - **Nhận định dòng tiền:** Áp lực bán gia tăng khi nhà đầu tư ưu tiên bảo toàn vốn trong bối cảnh vĩ mô ảm đạm.
+    - **Hành động:** Rủi ro vi phạm kịch bản kỹ thuật cao, ưu tiên hạ tỷ trọng nếu VN-Index mất các ngưỡng hỗ trợ cứng.
 
-- Mã: MWG
-- Động lực (FA): Sức mua tiêu dùng toàn xã hội đối mặt rủi ro suy giảm do khó khăn kinh tế từ khối doanh nghiệp SMEs.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể thiếu lực đỡ do kỳ vọng vào sự phục hồi tiêu dùng bị lung lay.
-- Hành động: Tiếp tục quan sát, theo dõi sát diễn biến khối lượng giao dịch tại các vùng hỗ trợ cứng.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã: BSR**
+    - **Nhận định:** Mặc dù triển vọng lợi nhuận (25.300 tỷ) rất tích cực, nhưng giá đã tiệm cận vùng kỳ vọng. Với bối cảnh vĩ mô đang chịu áp lực từ sức khỏe doanh nghiệp chung, đây là thời điểm **cần chốt lời chủ động** để tái cơ cấu dòng tiền, thay vì tiếp tục kỳ vọng tăng trưởng thêm sau khi đã đạt mục tiêu trung hạn.
