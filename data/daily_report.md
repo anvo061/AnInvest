@@ -1,24 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:20 ngày 19/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 02:20 - 19/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kỳ vọng cải cách & Dòng vốn FDI:** Báo cáo từ Bloomberg xác nhận kỳ vọng vào cải cách vĩ mô và hiệp định thương mại mới đang tạo xung lực tích cực cho định giá thị trường. Tuy nhiên, rào cản về "tỷ lệ cổ phiếu tự do" (free-float) thấp và áp lực bán ròng từ dòng vốn lớn (80.000 tỷ đồng) đang tạo ra trạng thái giằng co mạnh mẽ tại nhóm cổ phiếu Bluechips (VN30).
-- **Áp lực chi phí vốn:** Các ngân hàng đang cạnh tranh huy động, đẩy lãi suất đầu vào tăng cục bộ -> **Tác động: Tiêu cực** lên biên lợi nhuận (NIM) ngành ngân hàng.
-- **Bất động sản khu công nghiệp (KCN):** Dòng vốn FDI chất lượng cao tiếp tục là động lực tăng trưởng thực tế -> **Tác động: Tích cực** cho nhóm KBC, SZC, IDC.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Thị trường:** Tín hiệu trái chiều giữa kỳ vọng nâng hạng/FDI tích cực và áp lực bán ròng từ dòng tiền lớn/MSCI hạ kỳ vọng ngắn hạn -> **Đánh giá: Trung lập (Thiên về rung lắc)** -> Dòng tiền sẽ phân hóa mạnh: Nhóm BĐS Khu công nghiệp (hưởng lợi FDI) có thể thu hút dòng tiền trung hạn, trong khi nhóm Bluechip (VCB, VHM, MSN) tiếp tục chịu áp lực cung từ khối ngoại.
+- **Tín dụng:** Áp lực huy động vốn từ các ngân hàng tăng cao -> **Đánh giá: Tiêu cực (ngắn hạn)** -> Dòng tiền sẽ thận trọng hơn với các mã ngân hàng có tỷ trọng cho vay BĐS/Tiêu dùng cao (TCB, VPB) do rủi ro NIM suy giảm.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, SZC, IDC**
-  - Động lực (FA): Nhu cầu thuê kho xưởng xây sẵn tăng do làn sóng FDI chất lượng cao.
-  - Nhận định dòng tiền: Dòng tiền có xu hướng chọn lọc vào nhóm có tài sản thực (quỹ đất, hạ tầng) thay vì các nhóm chịu áp lực bán ròng từ khối ngoại.
-  - Hành động: **Chú ý giải ngân** ở các nhịp điều chỉnh khi thị trường chung bị ảnh hưởng bởi áp lực bán Bluechips.
-- **Mã: TCB, VPB**
-  - Động lực (FA): Áp lực huy động vốn tăng, NIM dự kiến bị thu hẹp.
-  - Nhận định dòng tiền: Rủi ro cung ngắn hạn gia tăng do lo ngại về chi phí vốn.
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quan sát phản ứng của dòng tiền tại vùng hỗ trợ cứng, chưa vội bắt đáy.
-- **Mã: PNJ**
-  - Động lực (FA): Chính sách xóa bỏ độc quyền vàng giúp minh bạch hóa thị trường.
-  - Nhận định dòng tiền: Hưởng lợi từ sự gia tăng niềm tin tiêu dùng, dòng tiền có khả năng luân chuyển ổn định.
-  - Hành động: **Tiếp tục quan sát** xu hướng tích lũy.
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- Dữ liệu hiện tại không ghi nhận tin tức trực tiếp về EIB và BSR. Tuy nhiên, trong bối cảnh dòng tiền lớn đang rút khỏi nhóm Bluechips và áp lực lãi suất tăng, khuyến nghị giữ nguyên trạng thái quan sát (Hold) đối với các vị thế hiện có, không gia tăng tỷ trọng cho đến khi có tín hiệu dòng tiền đảo chiều tại nhóm ngân hàng và năng lượng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **KBC, SZC, IDC**
+  - **Động lực (FA):** Dòng vốn FDI chất lượng cao gia tăng nhu cầu kho xưởng, kết hợp kỳ vọng từ các hiệp định thương mại mới.
+  - **Nhận định dòng tiền:** Hưởng lợi từ câu chuyện tăng trưởng thực tế, tách biệt khỏi áp lực bán ròng tại nhóm vốn hóa lớn (Bluechips).
+  - **Hành động:** Chú ý giải ngân tại các vùng hỗ trợ cứng nếu dòng tiền nội duy trì ổn định.
+- **Mã:** **TCB, VPB**
+  - **Động lực (FA):** Áp lực chi phí vốn đầu vào tăng cao làm suy yếu biên lợi nhuận (NIM).
+  - **Nhận định dòng tiền:** Có khả năng bị khối ngoại và dòng tiền lớn gia tăng áp lực bán để tái cơ cấu sang các nhóm ngành có biên lợi nhuận ổn định hơn.
+  - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn, ưu tiên hạ tỷ trọng nếu mất các ngưỡng hỗ trợ kỹ thuật quan trọng.
+- **Mã:** **PNJ**
+  - **Động lực (FA):** Chính sách xóa bỏ độc quyền vàng giúp minh bạch hóa thị trường.
+  - **Nhận định dòng tiền:** Tác động tích cực về niềm tin người tiêu dùng và hoạt động kinh doanh cốt lõi.
+  - **Hành động:** Tiếp tục quan sát điểm cân bằng cung cầu sau tin tức.
