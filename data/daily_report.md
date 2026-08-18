@@ -2,22 +2,22 @@
 ⏱ Thời gian: 02:20 ngày 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực thanh khoản hệ thống:** Các ngân hàng thương mại đang đẩy mạnh huy động vốn đầu vào do khó khăn về thanh khoản. -> **Tiêu cực** (Ngắn hạn) -> Dòng tiền có xu hướng rút khỏi nhóm nhạy cảm với NIM (Ngân hàng) và chuyển dịch sang nhóm có dòng tiền ổn định hoặc hưởng lợi từ FDI (Bất động sản khu công nghiệp).
-- **Phân hóa dòng vốn ngoại:** Đối lập giữa kỳ vọng cải cách/FDI tích cực và áp lực bán ròng khối ngoại (do rào cản nâng hạng MSCI và tỷ lệ free-float). -> **Trung lập/Thận trọng** -> Dòng tiền ngắn hạn sẽ ưu tiên các cổ phiếu có vốn hóa vừa và nhỏ, có tỷ lệ free-float tốt hơn nhóm Blue-chips VN30.
+- **Áp lực thanh khoản hệ thống:** Các ngân hàng thương mại đang đẩy mạnh huy động vốn dẫn đến xu hướng tăng lãi suất đầu vào. -> **Tiêu cực (Ngắn hạn)** -> Dòng tiền có xu hướng rút khỏi nhóm đầu cơ/bất động sản, tập trung vào nhóm phòng thủ hoặc nhóm hưởng lợi trực tiếp từ tăng trưởng FDI (KCN).
+- **Rào cản nâng hạng thị trường:** Báo cáo MSCI nhấn mạnh tỷ lệ *free-float* thấp là rào cản chính. -> **Tiêu cực (Trung hạn)** -> Tạo áp lực bán lên các cổ phiếu vốn hóa lớn (VCB, VHM, GAS, BID) vốn đang chịu sức ép bán ròng từ dòng tiền lớn từ đầu năm.
+- **Sóng FDI và xuất khẩu:** Dòng vốn FDI chất lượng cao tiếp tục đổ vào kho xưởng xây sẵn. -> **Tích cực** -> Dòng tiền sẽ ưu tiên các mã BĐS Khu công nghiệp có sẵn hạ tầng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, SZC, IDC**
-  - **Động lực (FA):** Nhu cầu thuê kho xưởng xây sẵn tăng cao nhờ FDI chất lượng cao; hạ tầng kết nối tốt.
-  - **Nhận định dòng tiền:** Hưởng lợi từ sự dịch chuyển dòng vốn khỏi nhóm vốn hóa lớn (Blue-chips) đang chịu áp lực bán ròng từ khối ngoại.
-  - **Hành động:** Chú ý giải ngân (Canh các nhịp rung lắc do áp lực chung của thị trường để gia tăng tỷ trọng).
-- **Mã: TCB, VPB**
-  - **Động lực (FA):** Áp lực chi phí vốn (Cost of fund) tăng cao do cuộc đua lãi suất huy động.
-  - **Nhận định dòng tiền:** Tiêu cực; áp lực bán có thể gia tăng do lo ngại biên lãi ròng (NIM) bị thu hẹp.
-  - **Hành động:** Rủi ro vi phạm kịch bản (Thận trọng, tránh bắt đáy trong giai đoạn dòng tiền đang chịu áp lực rút vốn).
-- **Mã: PNJ**
-  - **Động lực (FA):** Chính sách xóa bỏ độc quyền vàng giúp minh bạch hóa thị trường.
-  - **Nhận định dòng tiền:** Tích cực trong trung hạn nhờ niềm tin người tiêu dùng tăng.
-  - **Hành động:** Tiếp tục quan sát (Chờ đợi vùng giá tích lũy ổn định).
+- **Mã:** KBC, IDC, SZC
+  - **Động lực (FA):** Nhu cầu kho xưởng FDI tăng cao; các mã này không nằm trong danh mục bị khối ngoại bán ròng mạnh như nhóm Bluechips.
+  - **Nhận định dòng tiền:** Dòng tiền thông minh sẽ trú ẩn vào nhóm có câu chuyện tăng trưởng thực (cho thuê BĐS KCN) thay vì nhóm vốn hóa lớn đang bị MSCI và dòng tiền lớn "bỏ rơi".
+  - **Hành động:** Chú ý giải ngân (tỷ trọng vừa phải, quan sát hỗ trợ cứng).
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Không có dữ liệu mới liên quan đến EIB và BSR trong chu kỳ 15 phút qua. Duy trì chiến lược hiện tại.
+- **Mã:** TCB, VPB
+  - **Động lực (FA):** Áp lực chi phí vốn tăng, gây rủi ro lên biên lãi ròng (NIM).
+  - **Nhận định dòng tiền:** Có khả năng bị khối ngoại và nhà đầu tư lớn bán ròng để tái cơ cấu danh mục.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng của dòng tiền tại vùng hỗ trợ gần nhất.
+
+- **Mã:** PNJ
+  - **Động lực (FA):** Thị trường vàng được minh bạch hóa, xóa bỏ độc quyền.
+  - **Nhận định dòng tiền:** Hưởng lợi về niềm tin và thị phần, đây là mã có tính phòng thủ cao trong giai đoạn vĩ mô biến động lãi suất.
+  - **Hành động:** Tiếp tục quan sát (theo dõi sát biến động tỷ giá và giá vàng làm chỉ báo phụ).
