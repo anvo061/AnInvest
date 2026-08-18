@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "Giá vàng hôm nay 19/8/2026: Suy giảm mạnh, SJC có thể tiếp tục hạ sâu",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-19-8-2026-suy-giam-manh-sjc-co-the-tiep-tuc-ha-sau-2546660.html",
+    "PubDate": "Wed, 19 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng trong nước chủ yếu chịu ảnh hưởng bởi chính sách quản lý và giá vàng thế giới, không tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng là yếu tố vĩ mô độc lập, không tạo ra dòng tiền chuyển dịch vào các nhóm ngành niêm yết. Bỏ qua tác động.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-19 06:11:42"
+  },
+  {
+    "Title": "Cá tra tỷ USD của Việt Nam gặp khó tại Mỹ, tăng tốc ở thị trường Trung Quốc",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ca-tra-ty-usd-cua-viet-nam-gap-kho-tai-mu-tang-toc-o-thi-truong-trung-quoc-2546540.html",
+    "PubDate": "Wed, 19 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc chuyển dịch trọng tâm sang thị trường Trung Quốc giúp các doanh nghiệp thủy sản duy trì sản lượng xuất khẩu, bù đắp sự sụt giảm tại thị trường Mỹ, ổn định doanh thu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Xuất khẩu cá tra gặp khó tại Mỹ gây áp lực biên lợi nhuận. Việc chuyển hướng sang Trung Quốc chỉ mang tính bù đắp sản lượng, chưa đảm bảo tăng trưởng đột biến. Theo dõi VHC, ANV.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp đầu ngành có khả năng linh hoạt điều chỉnh thị trường xuất khẩu, hưởng lợi từ nhu cầu phục hồi tại Trung Quốc."
+      },
+      {
+        "Ticker": "ANV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị trường Trung Quốc là thị trường xuất khẩu trọng điểm của ANV, giúp cải thiện biên lợi nhuận và sản lượng tiêu thụ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 06:11:28"
+  },
+  {
     "Title": "VETC thu phí duy trì ví điện tử gần 80.000 đồng/năm, Tasco hưởng lợi ra sao?",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/vetc-thu-phi-duy-tri-vi-dien-tu-gan-80-000-dong-nam-tasco-huong-loi-ra-sao-2546627.html",
@@ -16444,31 +16481,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-11 20:38:09"
-  },
-  {
-    "Title": "Việt Nam - Australia hợp tác nâng sức chống chịu, phục hồi kinh tế",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/viet-nam-australia-hop-tac-nang-suc-chong-chiu-phuc-hoi-kinh-te-5108023.html",
-    "PubDate": "Tue, 11 Aug 2026 19:40:02 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Thông tin mang tính chất ngoại giao, hợp tác vĩ mô dài hạn, chưa có tác động cụ thể đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Vĩ mô. Hợp tác ngoại giao mang tính định hướng dài hạn, chưa tạo ra biến động dòng tiền tức thời cho các nhóm ngành cụ thể. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 20:37:59"
-  },
-  {
-    "Title": "HCM: Thông báo thực hiện quyền mua cổ phiếu của tổ chức có liên quan đến người nội bộ HFIC - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVI5UkxWU0VYUUlDcUV6MHBCWjhqSHZDZHFVZlB4RnVSR090bzlHOFMwNDBsX3NGV1lVR2sxVHdiQlZlcHNFX3RNMXQyTU4ybVVyVVY4S3dBV01USjlqclVLVW1TUDFBQXlncS1qSFcxNGRlaHp4am9UQjhnZkRpTmxpSFBNX2xSbXVndlZNZl9yZGlWbkFtZklwSXVSNU5oU2RlVXhsaXhRUGVTbFNuWnN4WmpWd2ZaeXhTbllvZ3VSXzRfd2hjNjZmMzI4bkJOdGQ4OTFFUVZhRzlFTDlobUNBQQ?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 09:51:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là giao dịch thực hiện quyền mua của cổ đông nội bộ/tổ chức liên quan, mang tính chất điều chỉnh cơ cấu sở hữu nội bộ, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - HCM. Giao dịch thực hiện quyền của cổ đông nội bộ là hoạt động quản trị thông thường, không tạo đột biến dòng tiền hay thay đổi kỳ vọng lợi nhuận ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 19:06:59"
   }
 ]

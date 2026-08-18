@@ -1,24 +1,30 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:00 ngày 19/08/2026
+⏱ Thời gian: 06:30 - 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Rào cản nâng hạng & Áp lực bán ròng:** MSCI nhấn mạnh vấn đề tỷ lệ cổ phiếu tự do (free-float) thấp và thống kê dòng tiền lớn đã bán ròng 80.000 tỷ đồng từ đầu năm -> **Đánh giá: Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút lui tại nhóm vốn hóa lớn (Bluechips/VN30), dòng tiền đầu cơ có xu hướng phân hóa mạnh sang các nhóm hưởng lợi FDI/Hạ tầng thay vì trụ cột thị trường.
-- **Dịch chuyển dòng vốn FDI:** Nhu cầu kho xưởng xây sẵn gia tăng do FDI chất lượng cao -> **Đánh giá: Tích cực** -> Dòng tiền hướng vào nhóm Bất động sản khu công nghiệp.
+- **Rào cản nâng hạng từ MSCI:** MSCI đánh giá thấp tỷ lệ free-float của cổ phiếu Việt Nam -> **Tiêu cực** -> Dòng tiền khối ngoại tại nhóm Blue-chip (VCB, VHM, GAS, BID, MSN) sẽ chịu áp lực bán ròng mạnh trong ngắn hạn.
+- **Áp lực chi phí vốn hệ thống:** Ngân hàng tăng lãi suất huy động để thu hút dòng tiền -> **Tiêu cực** -> NIM của nhóm ngân hàng (TCB, VPB) chịu áp lực suy giảm, gây tác động ngược lên tâm lý nhóm cổ phiếu tài chính.
+- **Dòng vốn FDI chất lượng cao:** Nhu cầu kho xưởng tăng do làn sóng dịch chuyển sản xuất -> **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm Bất động sản khu công nghiệp (KBC, SZC, IDC).
+- **Phục hồi xuất khẩu thủy sản:** Chuyển dịch sang thị trường Trung Quốc thay thế thị trường Mỹ -> **Tích cực** -> Nhóm thủy sản (VHC, ANV) có triển vọng duy trì sản lượng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, IDC, SZC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI chất lượng cao và nhu cầu thuê kho xưởng xây sẵn.
-  - Nhận định dòng tiền: Nhóm này có khả năng "lội ngược dòng" khi dòng vốn lớn thoát khỏi các mã trụ (VCB, VHM, MSN), tập trung dòng tiền vào các doanh nghiệp có quỹ đất sẵn sàng.
-  - Hành động: **Chú ý giải ngân** khi có nhịp điều chỉnh theo rung lắc chung của thị trường.
+- **Mã: KBC, SZC, IDC**
+  - Động lực (FA): Hưởng lợi trực tiếp từ sự gia tăng của FDI chất lượng cao và nhu cầu kho xưởng xây sẵn.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ có xu hướng tìm đến các nhóm ngành có câu chuyện tăng trưởng thực tế (FDI) để trú ẩn trước áp lực bán từ khối ngoại tại nhóm vốn hóa lớn.
+  - Hành động: Chú ý giải ngân nếu giá test lại vùng hỗ trợ kỹ thuật.
+- **Mã: VCB, VHM, GAS, BID, MSN**
+  - Động lực (FA): Bị MSCI chỉ đích danh về rào cản free-float thấp.
+  - Nhận định dòng tiền: Rủi ro bán ròng từ các quỹ ETF thụ động gia tăng.
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng đáy cũ.
+- **Mã: VHC, ANV**
+  - Động lực (FA): Thị trường Trung Quốc bù đắp cho sự suy giảm tại Mỹ.
+  - Nhận định dòng tiền: Hợp lưu tích cực, dòng tiền ổn định nhờ triển vọng biên lợi nhuận cải thiện.
+  - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế.
 - **Mã: TCB, VPB**
-  - Động lực (FA): Áp lực huy động vốn tăng cao (nhân viên ngân hàng chạy đua tìm khách).
-  - Nhận định dòng tiền: NIM chịu áp lực tiêu cực, dòng tiền ngắn hạn có thể thoái lui để chờ ổn định chi phí vốn.
-  - Hành động: **Rủi ro vi phạm kịch bản**, hạn chế gia tăng vị thế.
+  - Động lực (FA): Áp lực tăng chi phí đầu vào.
+  - Nhận định dòng tiền: Tiêu cực do áp lực lên NIM.
+  - Hành động: Quan sát thận trọng, tránh bắt đáy khi chưa có tín hiệu ổn định lãi suất.
 - **Mã: HUT**
-  - Động lực (FA): VETC bắt đầu thu phí duy trì ví điện tử (80.000đ/năm).
-  - Nhận định dòng tiền: Tăng nguồn thu ổn định, cải thiện biên lợi nhuận dịch vụ, hỗ trợ tâm lý tích cực ngắn hạn.
-  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch để xác nhận lực cầu.
-- **Mã: PNJ**
-  - Động lực (FA): Việc xóa bỏ độc quyền vàng và xu hướng tăng dự trữ vàng của các quốc gia.
-  - Nhận định dòng tiền: Hưởng lợi từ sự minh bạch thị trường và tâm lý tích cực của nhà đầu tư bán lẻ.
-  - Hành động: **Tiếp tục quan sát**.
+  - Động lực (FA): Tối ưu hóa doanh thu từ phí duy trì ví VETC.
+  - Nhận định dòng tiền: Tin tức hỗ trợ dòng tiền ổn định cho hệ sinh thái Tasco.
+  - Hành động: Tiếp tục quan sát.
