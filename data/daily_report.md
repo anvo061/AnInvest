@@ -1,11 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:55
+⏱ Thời gian: 13:30 - 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- VinaCapital nhận định cổ phiếu vẫn hấp dẫn trong môi trường lãi suất 9% -> Đánh giá: Tích cực -> Dòng tiền sẽ hướng vào nhóm cổ phiếu có nền tảng cơ bản tốt, giảm áp lực rút vốn khỏi thị trường chứng khoán.
+- SHB triển khai giảm lãi suất cho vay hỗ trợ doanh nghiệp SME -> Đánh giá tác động: Tích cực (cục bộ) -> Dòng tiền sẽ hướng vào nhóm Ngân hàng TMCP có chiến lược đẩy mạnh tín dụng bán lẻ/SME và nhóm cổ phiếu sản xuất được hưởng lợi từ chi phí vốn thấp.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: POW
-- Động lực (FA): Lợi nhuận kỷ lục; Dragon Capital gia tăng tỷ trọng sở hữu.
-- Nhận định dòng tiền: Sự kết hợp giữa kết quả kinh doanh đột biến và dòng tiền khối ngoại tạo dư địa tăng giá ngắn hạn, dù cần theo dõi thêm áp lực chi phí tài chính tại dự án Nhơn Trạch 3&4.
-- Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật để kiểm định lại vùng hỗ trợ mới.
+- Mã: SHB
+- Động lực (FA): Công bố giảm lãi suất cho vay nhằm thúc đẩy dư nợ tín dụng.
+- Nhận định dòng tiền: Tin tức trực diện hỗ trợ tâm lý tích cực, kỳ vọng cải thiện tăng trưởng tín dụng nửa cuối năm. Dòng tiền có khả năng kích hoạt phản ứng tăng giá ngắn hạn nếu đi kèm khối lượng giao dịch đột biến.
+- Hành động: Chú ý giải ngân (theo dõi bám sát vùng kháng cự kỹ thuật hiện tại).
+
+- Mã: NVB
+- Động lực (FA): Kế hoạch tăng vốn điều lệ gấp đôi lên gần 62.280 tỷ đồng.
+- Nhận định dòng tiền: Áp lực pha loãng cổ phiếu trong tương lai là rất lớn. Dòng tiền thông minh có xu hướng né tránh các mã đang trong lộ trình tăng vốn quy mô lớn để ưu tiên các mã có EPS tăng trưởng bền vững.
+- Hành động: Rủi ro vi phạm kịch bản (cân nhắc giảm tỷ trọng nếu vi phạm ngưỡng hỗ trợ kỹ thuật gần nhất).
