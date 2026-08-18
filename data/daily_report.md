@@ -1,26 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:10 - 18/08/2026
+⏱ Thời gian: 11:24 - 18/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- 39.000 doanh nghiệp rút lui khỏi thị trường: Đánh giá tác động tiêu cực -> Gia tăng áp lực nợ xấu lên nhóm Ngân hàng và làm suy giảm sức mua lên nhóm Bán lẻ.
+- Tâm lý thị trường suy yếu do áp lực điều chỉnh và dữ liệu 39.000 doanh nghiệp rút lui khỏi thị trường -> Đánh giá: Tiêu cực -> Dòng tiền có xu hướng thoát khỏi nhóm tài chính (Chứng khoán, Ngân hàng) và bán lẻ để bảo toàn vốn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCB, TCB**
-- Động lực (FA): Số lượng doanh nghiệp đóng cửa lớn gây áp lực trích lập dự phòng và rủi ro nợ xấu.
-- Nhận định dòng tiền: Tâm lý thận trọng bao trùm nhóm vốn hóa lớn, dòng tiền có thể tạm thời rút khỏi nhóm ngân hàng để tránh rủi ro hệ thống ngắn hạn.
-- Hành động: **Rủi ro vi phạm kịch bản**. Theo dõi sát ngưỡng hỗ trợ cứng, hạn chế giải ngân mới trong ngắn hạn.
+- Mã: SSI, VND, VCI
+- Động lực (FA): Tâm lý thị trường thận trọng trước dự báo điều chỉnh sâu, thanh khoản thị trường suy giảm trực tiếp ảnh hưởng đến doanh thu môi giới và lãi margin.
+- Nhận định dòng tiền: Áp lực bán chủ động có khả năng gia tăng khi tâm lý tiêu cực bao trùm nhóm chứng khoán.
+- Hành động: Rủi ro vi phạm kịch bản, cần thắt chặt quản trị rủi ro, quan sát ngưỡng hỗ trợ kỹ thuật gần nhất.
 
-- Mã: **MWG**
-- Động lực (FA): Sức mua tiêu dùng toàn nền kinh tế chịu tác động tiêu cực từ tình trạng thu hẹp sản xuất của doanh nghiệp vừa và nhỏ.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu do kỳ vọng biên lợi nhuận bị ảnh hưởng bởi sức mua giảm.
-- Hành động: **Tiếp tục quan sát**, chờ đợi tín hiệu cân bằng tại vùng hỗ trợ kỹ thuật.
+- Mã: VCB, TCB
+- Động lực (FA): Số lượng doanh nghiệp rút lui khỏi thị trường cao làm tăng áp lực trích lập dự phòng rủi ro tín dụng và suy giảm nhu cầu vay vốn.
+- Nhận định dòng tiền: Dòng tiền khối ngoại và tổ chức có thể tiếp tục duy trì trạng thái thận trọng, thiếu động lực bứt phá ngắn hạn.
+- Hành động: Tiếp tục quan sát, chưa nên gia tăng tỷ trọng ở vùng giá hiện tại.
 
-- Mã: **PLX**
-- Động lực (FA): Chào bán 23 triệu cổ phiếu quỹ.
-- Nhận định dòng tiền: Áp lực cung tăng đột biến làm mất cân đối cung cầu ngắn hạn, khả năng cao sẽ có nhịp điều chỉnh giá để hấp thụ lượng cổ phiếu này.
-- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vị thế hoặc quan sát phản ứng tại vùng giá thấp hơn.
-
-- Mã: **HCM**
-- Động lực (FA): Phát hành 22 triệu cổ phiếu ESOP.
-- Nhận định dòng tiền: Áp lực pha loãng EPS gây tâm lý tiêu cực cho nhà đầu tư cá nhân, tạo áp lực cung tiềm năng.
-- Hành động: **Tiếp tục quan sát**, không ưu tiên giải ngân cho đến khi thị trường hấp thụ hết áp lực pha loãng.
+- Mã: MWG
+- Động lực (FA): Sức mua tiêu dùng toàn xã hội đối mặt rủi ro suy giảm do khó khăn kinh tế từ khối doanh nghiệp SMEs.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể thiếu lực đỡ do kỳ vọng vào sự phục hồi tiêu dùng bị lung lay.
+- Hành động: Tiếp tục quan sát, theo dõi sát diễn biến khối lượng giao dịch tại các vùng hỗ trợ cứng.
