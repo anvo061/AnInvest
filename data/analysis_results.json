@@ -1,5 +1,43 @@
 ﻿[
   {
+    "Title": "VETC thu phí duy trì ví điện tử gần 80.000 đồng/năm, Tasco hưởng lợi ra sao?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vetc-thu-phi-duy-tri-vi-dien-tu-gan-80-000-dong-nam-tasco-huong-loi-ra-sao-2546627.html",
+    "PubDate": "Wed, 19 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc thu phí duy trì ví VETC giúp cải thiện biên lợi nhuận và dòng tiền ổn định cho hệ sinh thái của Tasco, tối ưu hóa hiệu quả vận hành mảng dịch vụ thu phí không dừng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Mã HUT. Phí duy trì ví là nguồn thu nhỏ, không đủ tạo đột biến biên lợi nhuận. Cần theo dõi phản ứng dòng tiền thực tế tại vùng hỗ trợ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HUT",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tasco sở hữu VETC, việc thu phí duy trì giúp tăng doanh thu dịch vụ và cải thiện hiệu quả tài chính của công ty con."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 05:46:33"
+  },
+  {
+    "Title": "Sau 13 năm, một quốc gia bất ngờ quay lại mua vàng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/sau-13-nam-mot-quoc-gia-bat-ngo-quay-lai-mua-vang-2546609.html",
+    "PubDate": "Wed, 19 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc các quốc gia tăng dự trữ vàng tạo lực đẩy cho giá vàng thế giới, gián tiếp thúc đẩy tâm lý đầu cơ vào các doanh nghiệp kinh doanh vàng bạc tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vàng bạc. Giá vàng thế giới tăng không đồng nghĩa với biên lợi nhuận PNJ tăng do rủi ro trích lập dự phòng và biến động giá nguyên liệu đầu vào.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá vàng tăng hỗ trợ biên lợi nhuận gộp và kích thích nhu cầu mua sắm trang sức, tích trữ của người dân."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 05:46:18"
+  },
+  {
     "Title": "Giá vàng hôm nay 19-8 bất ngờ giảm mạnh",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/gia-vang-hom-nay-19-8-bat-ngo-giam-manh-100260819001656345.htm",
@@ -16432,31 +16470,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-11 19:06:59"
-  },
-  {
-    "Title": "FUEMAVND: Kết thúc giao dịch hoán đổi ngày 10/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGdjM2F2Xy1adFFEb3VOd0JyZHFLVTVpcnNCdFBDZExQODZVbkI4RFZ2RS1NOWF0Q2tTMS16MDBXeGFzZXdIUVZXU1kzZDJSaFRKdVlhWDQ2cWRUT3ZJTWJULUZ5a0dNMWdSYXVpdGxJdndaR1d2eEx5Rng4SlBFWDk5M3FBYXFveU5tb1hCc0tNN3ZaWDN6S09RNWpVUndEb09VQjZZUDVoOU5TQXZrdllGY2otUQ?oc=5",
-    "PubDate": "Tue, 11 Aug 2026 10:14:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc kết thúc giao dịch hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền trên thị trường cơ sở. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 19:06:49"
-  },
-  {
-    "Title": "Sản phẩm xuất khẩu nào 'đắt hàng' tại Úc, có tiềm năng vào thị trường hơn 1.600 tỉ USD?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/san-pham-xuat-khau-nao-dat-hang-tai-uc-co-tiem-nang-vao-thi-truong-hon-1600-ti-usd-10026081110495961.htm",
-    "PubDate": "8/11/2026 2:27:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc mở rộng thị phần tại Úc đối với các mặt hàng nông sản, thủy sản và dệt may giúp các doanh nghiệp xuất khẩu gia tăng doanh thu và cải thiện biên lợi nhuận nhờ tận dụng ưu đãi thuế quan.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất định hướng vĩ mô, thiếu dữ liệu cụ thể về biên lợi nhuận. Cần theo dõi sát sao báo cáo xuất khẩu thực tế thay vì kỳ vọng mơ hồ.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 19:06:32"
   }
 ]
