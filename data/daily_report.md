@@ -1,29 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:39 (19/08/2026)
+⏱ Thời gian: 20:45 - 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng tại eo biển Hormuz (Tấn công tàu vận tải):** -> [Đánh giá: Tích cực (với nhóm Dầu khí)] -> Dòng tiền dự kiến hướng vào nhóm Thượng nguồn (Upstream) và Vận tải dầu khí do kỳ vọng giá dầu tăng mạnh và gián đoạn nguồn cung.
+- **Địa chính trị (Eo biển Hormuz):** Sự cố tàu hàng bị tấn công gây lo ngại gián đoạn nguồn cung dầu toàn cầu -> Đánh giá: **Tích cực** cho nhóm Dầu khí (PVD, PVS, PVT, BSR) do giá dầu dự báo neo cao.
+- **Chính sách (Đề xuất thuế BĐS bỏ hoang):** Đại biểu Quốc hội đề xuất đánh thuế BĐS "ngủ im" -> Đánh giá: **Tiêu cực** cho nhóm BĐS (NVL, DIG, DXG) do áp lực thanh khoản và chi phí vốn.
+- **Xuất khẩu:** Ứng dụng công nghệ nâng cao giá trị thủy sản -> Đánh giá: **Tích cực** cho nhóm Thủy sản (VHC, ANV) nhờ kỳ vọng cải thiện biên lợi nhuận.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu thế giới dự kiến tăng do rủi ro địa chính trị tại eo biển Hormuz.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ phản ứng mạnh với các cổ phiếu nhạy sóng dầu khí.
-  - Hành động: Chú ý giải ngân nếu dòng tiền vào nhóm dầu khí xác nhận vượt ngưỡng kháng cự gần nhất.
-- **Mã: PVS, PVT, BSR**
-  - Động lực (FA): Hưởng lợi từ đà tăng của giá dầu và rủi ro chuỗi cung ứng.
-  - Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển sang nhóm năng lượng để trú ẩn và tìm kiếm lợi nhuận ngắn hạn.
-  - Hành động: Quan sát phản ứng tại vùng hỗ trợ, ưu tiên vị thế nếu thanh khoản nhóm này gia tăng.
-
-- **Mã: VIB**
-  - Động lực (FA): Thông báo chốt quyền phát hành cổ phiếu tăng vốn từ nguồn vốn chủ sở hữu.
-  - Nhận định dòng tiền: Tin tức củng cố tâm lý cổ đông, hỗ trợ đà tăng giá ngắn hạn thông qua kỳ vọng cổ phiếu thưởng.
-  - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế trước ngày ĐKCC.
-
-- **Mã: VHM, PDR, NLG**
-  - Động lực (FA): Thủ tướng chỉ đạo minh bạch định giá đất để giảm chi phí đầu vào BĐS.
-  - Nhận định dòng tiền: Tác động tích cực trung hạn, giúp ổn định tâm lý nhóm BĐS dân dụng.
-  - Hành động: Tiếp tục quan sát, ưu tiên các mã có quỹ đất sạch và tiến độ pháp lý tốt.
+- **Mã:** PVD
+  - **Động lực (FA):** Căng thẳng eo biển Hormuz đẩy giá dầu tăng mạnh.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ nhóm dầu khí dự kiến sẽ luân chuyển mạnh vào nhóm thượng nguồn và khoan.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì khối lượng vượt mức trung bình 20 phiên.
+- **Mã:** VIB
+  - **Động lực (FA):** Thông báo ngày ĐKCC tăng vốn từ nguồn vốn chủ sở hữu.
+  - **Nhận định dòng tiền:** Tâm lý tích cực ngắn hạn trước ngày chốt quyền, dòng tiền sẽ neo giữ để hưởng quyền.
+  - **Hành động:** Tiếp tục quan sát.
+- **Mã:** NVL / DIG
+  - **Động lực (FA):** Rủi ro từ đề xuất thuế BĐS bỏ hoang.
+  - **Nhận định dòng tiền:** Áp lực cung tiềm ẩn từ nhóm cổ đông sợ rủi ro pháp lý/chi phí tăng.
+  - **Hành động:** Rủi ro vi phạm kịch bản (cần quan sát chặt ngưỡng hỗ trợ gần nhất).
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - **Mã: BSR**
-  - Nhận định: Mặc dù tin tức địa chính trị đang hỗ trợ giá dầu (và biên lợi nhuận lọc dầu) của BSR, tuy nhiên xét trên góc nhìn "Tái cơ cấu" (do đã vượt mốc kỳ vọng tháng 3/2026), dữ liệu này là cơ hội để chốt lời chủ động theo kế hoạch thay vì gia tăng vị thế. Ưu tiên hiện thực hóa lợi nhuận nếu giá tiếp cận vùng đỉnh cũ.
+  - **Nhận định:** Tin tức về giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu là yếu tố bổ trợ tốt. Tuy nhiên, do đã qua điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu này chỉ mang tính hỗ trợ ngắn hạn. **Khuyến nghị:** Giữ vị thế theo dõi, chưa cần tất toán nếu giá chưa gãy trendline trung hạn, tận dụng nhịp tăng ngắn hạn từ tin địa chính trị để hạ dần tỷ trọng nếu đạt target lợi nhuận mục tiêu.
