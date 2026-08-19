@@ -1,25 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:30 - 19/08/2026
+⏱ Thời gian: 16:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dầu khí thượng nguồn & Năng lượng:** Dự án khí Lô B - Ô Môn chính thức khởi động (6,2 tỷ USD) cùng tín hiệu thiếu hụt nhiên liệu tại Nga gây áp lực tăng giá dầu -> **Tích cực** -> Dòng tiền tập trung nhóm Dầu khí thượng nguồn (PVS, PVD) và Lọc hóa dầu (BSR).
-- **Bất động sản:** NVL tất toán 8.000 tỷ đồng nợ trái phiếu -> **Tích cực** -> Cải thiện niềm tin và thanh khoản nhóm Bất động sản dân dụng.
-- **Địa chính trị:** Căng thẳng Biển Đông gia tăng -> **Tiêu cực (thận trọng)** -> Rủi ro tâm lý ngắn hạn cho nhóm Vận tải biển và Dầu khí khu vực.
+- Thanh khoản thị trường HoSE xuống mức thấp nhất 2 tháng và khối ngoại tiếp tục bán ròng mạnh các mã vốn hóa lớn (VHM, HPG, MSN, VIC, VNM) -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi nhóm Blue-chip, gây áp lực điều chỉnh lên chỉ số chung.
+- Giá dầu thế giới hạ nhiệt do nguồn cung từ eo biển Hormuz nối lại -> **Tiêu cực** -> Áp lực giảm giá lên nhóm dầu khí thượng nguồn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS**
-  - Động lực (FA): Hưởng lợi kép từ siêu dự án Lô B và giá dầu neo cao do thiếu hụt nguồn cung toàn cầu.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại khả năng cao sẽ luân chuyển vào nhóm này để đón sóng tăng trưởng dài hạn.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: NVL**
-  - Động lực (FA): Giảm áp lực trái phiếu, cải thiện bảng cân đối kế toán.
-  - Nhận định dòng tiền: Kỳ vọng tạo điểm đảo chiều xu hướng ngắn hạn nhờ giải tỏa áp lực nợ.
-  - Hành động: Quan sát phản ứng tại các vùng kháng cự cứng, theo dõi lực cầu thực tế.
-- **Mã: AAA, APH**
-  - Động lực (FA): Mỹ siết quy định nhãn 'tái chế' nhựa.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do chi phí tuân thủ gia tăng, biên lợi nhuận bị đe dọa.
-  - Hành động: Rủi ro vi phạm kịch bản, cần cân nhắc hạ tỷ trọng nếu thủng vùng hỗ trợ nền.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu hạ nhiệt làm giảm kỳ vọng về đơn giá cho thuê giàn khoan.
+- Nhận định dòng tiền: Kỳ vọng ngắn hạn suy yếu, áp lực bán có thể gia tăng khi tâm lý thị trường chung đang thận trọng.
+- Hành động: **Rủi ro vi phạm kịch bản** – Cần quan sát chặt chẽ vùng hỗ trợ gần nhất, tránh bắt đáy trong bối cảnh thanh khoản thị trường suy giảm.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Tin tức về thiếu hụt nhiên liệu tại Nga hỗ trợ mạnh cho biên lợi nhuận lọc dầu (crack spread). Vị thế vẫn duy trì tốt. Tiếp tục nắm giữ, chưa cần cơ cấu lại dòng tiền vào thời điểm này.
+- Mã: **PNJ**
+- Động lực (FA): Quỹ ngoại lớn Vanguard gia tăng tỷ trọng sở hữu.
+- Nhận định dòng tiền: Tạo hiệu ứng tâm lý tích cực, hỗ trợ thanh khoản và tạo "bệ đỡ" cho cổ phiếu trong giai đoạn thị trường rung lắc.
+- Hành động: **Chú ý giải ngân** – Theo dõi phản ứng của dòng tiền nội đối với tín hiệu từ dòng vốn ngoại.
+
+- Mã: **SHB**
+- Động lực (FA): Giảm lãi suất cho vay doanh nghiệp SME nhằm mở rộng thị phần tín dụng.
+- Nhận định dòng tiền: Tác động tích cực về mặt chiến lược dài hạn, giúp cải thiện sức cạnh tranh của ngân hàng.
+- Hành động: **Tiếp tục quan sát** – Chờ đợi phản ứng của thị trường trước thông tin này trong bối cảnh thanh khoản chung đang thấp.
