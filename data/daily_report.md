@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:25 ngày 19/08/2026
+⏱ Thời gian: 10:25 - 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **AI Boom & Năng lượng tái tạo:** Làn sóng đầu tư hạ tầng AI tại ĐNA thúc đẩy nhu cầu trung tâm dữ liệu và năng lượng sạch -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Công nghệ (FPT, CMG)** và **Năng lượng hạ tầng (REE)**.
-- **Rào cản nâng hạng (MSCI):** MSCI nhấn mạnh vấn đề tỷ lệ Free-float thấp tại Việt Nam -> **Tiêu cực** -> Dòng tiền khối ngoại tiếp tục gây áp lực bán lên các mã trụ vốn hóa lớn (VCB, VHM, GAS, BID).
-- **Thanh khoản hệ thống:** Tín dụng nghẽn, áp lực chi phí huy động tăng (NIM) -> **Tiêu cực** -> Thận trọng với nhóm **Ngân hàng (TCB, VPB, VCB)**.
+- Căng thẳng địa chính trị Trung Đông leo thang và áp lực tỷ giá (Rupee/USD) gây lo ngại về chi phí năng lượng -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền phân hóa mạnh: Nhóm thượng nguồn Dầu khí (PVD, PVS) hút tiền do kỳ vọng giá dầu, nhóm vận tải/hậu cần (GMD, HAH) và năng lượng nhiệt điện (POW, GAS) chịu áp lực chi phí].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: FPT, CMG**
-    - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng hạ tầng AI và trung tâm dữ liệu khu vực.
-    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các nhóm có câu chuyện tăng trưởng thực (Growth Narrative) thay vì các nhóm trụ bị định kiến bởi rào cản nâng hạng.
-    - Hành động: **Chú ý giải ngân** tại các nhịp rung lắc, ưu tiên FPT cho danh mục dài hạn.
-- **Mã: PVD, PVS**
-    - Động lực (FA): Nhóm dầu khí đang là điểm sáng hút tiền kỹ thuật khi thị trường kiểm định ngưỡng 1.750.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ tập trung mạnh do giá dầu và kỳ vọng kết quả kinh doanh cuối năm.
-    - Hành động: **Tiếp tục quan sát** ngưỡng kháng cự 1.750, sẵn sàng chốt lời ngắn hạn nếu dòng tiền chững lại tại cản.
-- **Mã: VHC, ANV**
-    - Động lực (FA): Chuyển dịch thị trường xuất khẩu sang Trung Quốc bù đắp sự sụt giảm từ Mỹ.
-    - Nhận định dòng tiền: Ổn định, phản ứng tích cực với thông tin cân bằng lại thị trường đầu ra.
-    - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng tích lũy.
+- Mã: **PVD**
+- Động lực (FA): Căng thẳng địa chính trị Iran đe dọa nguồn cung, giá dầu kỳ vọng neo cao.
+- Nhận định dòng tiền: Dòng tiền đầu cơ đang tập trung mạnh vào nhóm dầu khí để kiểm định ngưỡng kháng cự VN-Index; PVD giữ vị thế dẫn dắt.
+- Hành động: Chú ý giải ngân nếu bám sát kịch bản vượt kháng cự, quản trị rủi ro chặt chẽ nếu giá dầu quay đầu giảm mạnh.
+
+- Mã: **TCH**
+- Động lực (FA): Công bố ngày chốt quyền phát hành cổ phiếu từ nguồn vốn chủ sở hữu.
+- Nhận định dòng tiền: Tạo tâm lý tích cực ngắn hạn, kích thích thanh khoản giao dịch.
+- Hành động: Quan sát phản ứng cung cầu tại vùng hỗ trợ hiện tại trước khi vào lệnh.
+
+- Mã: **FPT**
+- Động lực (FA): Hưởng lợi từ làn sóng đầu tư hạ tầng AI và trung tâm dữ liệu khu vực Đông Nam Á.
+- Nhận định dòng tiền: Dòng tiền cơ bản ổn định, hưởng lợi từ xu hướng vĩ mô dài hạn bất chấp nhiễu loạn ngắn hạn.
+- Hành động: Tiếp tục giữ, canh điểm gia tăng khi thị trường rung lắc.
