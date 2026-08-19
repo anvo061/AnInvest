@@ -1,5 +1,109 @@
 ﻿[
   {
+    "Title": "SDN: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDhyWElJdWhoVWJvRWQyNmQ2TF83ZzhSemJ5dWRycDNnR1VzY2dnaHJKUnZNV2ZEc3NaSlFwWDA4TVJxd2t3R2xCRHVSa21PVWpGMVltVVNpSk1lTzczQk5rcmg4ekhSWlJLMXRPdTlJLWNPUFdYUUY5MGJHTTVjOEh3Y3FxQnlsX2VJV2dEeE12aVBiMGxVeEtScVJyNmRFWEdMRGdXQ3NUWm9vRnViYg?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 10:13:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin trả cổ tức bằng tiền mặt là hoạt động định kỳ của doanh nghiệp, không tạo ra thay đổi đột biến về giá trị nội tại hay xu hướng dòng tiền lớn trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SDN. Việc trả cổ tức là kế hoạch tài chính thông thường, không tác động đến xu hướng dòng tiền ngành. Không có tín hiệu giao dịch đặc biệt.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-19 19:02:26"
+  },
+  {
+    "Title": "AGR: Nghị quyết HĐQT về việc triển khai phương án phát hành cổ phiếu để trả cổ tức năm 2025 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGJEZkVOTXl3NzRRcjc1UTgyOG5ybGJURDNGNk02cXZkUzIyUzliY3A4U1FPWGJ1SlMzVzZZTUJjaXNPV1RYSjRCR013dTVmd0hXZkFYbXFCaHB2UGJ3dEkzbHZhM2dFU1o1a1VIWE42WjNyRlhUemxzaHhkVUFJcW9wWWNDbmxEajFsRnJ5Y0VsQXM5WGUyUnkxajI2dW5IOXN3UGhMOWY0SWhkS3czRVpjQjRPdV9VeWpReGowNWltbFZ0ZndjUjIzYVBWblhGWm83ektBZTBLeHVUZTJQc0E3MUI?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 10:17:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc phát hành cổ phiếu trả cổ tức giúp doanh nghiệp giữ lại vốn để tái đầu tư, tăng quy mô vốn điều lệ, đồng thời tạo tâm lý tích cực cho cổ đông hiện hữu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - AGR. Phát hành cổ phiếu trả cổ tức là nghiệp vụ pha loãng vốn, không tạo ra dòng tiền mới. Tác động thực tế lên thị giá thường không đáng kể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "AGR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn điều lệ, củng cố năng lực tài chính và tạo kỳ vọng tăng trưởng cho cổ đông."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 19:01:42"
+  },
+  {
+    "Title": "Tăng giá trị thủy sản Việt Nam bằng công nghệ",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tang-gia-tri-thuy-san-viet-nam-bang-cong-nghe-100260819154751255.htm",
+    "PubDate": "8/19/2026 4:27:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc ứng dụng công nghệ giúp tối ưu hóa quy trình sản xuất, nâng cao chất lượng sản phẩm và biên lợi nhuận cho các doanh nghiệp xuất khẩu thủy sản, tăng khả năng cạnh tranh tại các thị trường khó tính.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Thủy sản. Công nghệ giúp tối ưu biên lợi nhuận và nâng cao giá trị xuất khẩu. Dòng tiền thông minh sẽ chú ý đến các doanh nghiệp đầu ngành có năng lực chuyển đổi số tốt.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp đầu ngành cá tra, có lợi thế lớn trong việc áp dụng công nghệ để nâng cao giá trị gia tăng và thâm nhập thị trường cao cấp."
+      },
+      {
+        "Ticker": "ANV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cải thiện quy trình sản xuất giúp giảm chi phí vận hành, hỗ trợ biên lợi nhuận trong bối cảnh cạnh tranh xuất khẩu gay gắt."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 19:00:54"
+  },
+  {
+    "Title": "PNJ bất ngờ có cổ đông lớn mới trước thềm đại hội bất thường",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/pnj-bat-ngo-co-co-dong-lon-moi-truoc-them-dai-hoi-bat-thuong-100260819161258909.htm",
+    "PubDate": "8/19/2026 4:30:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc xuất hiện cổ đông lớn mới thường tạo kỳ vọng về sự thay đổi trong quản trị hoặc chiến lược kinh doanh, giúp củng cố niềm tin của nhà đầu tư vào PNJ trước các sự kiện quan trọng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - PNJ. Thông tin cổ đông lớn mới chưa rõ danh tính và mục đích. Cần quan sát thêm biến động thanh khoản trước khi xác nhận dòng tiền thông minh tham gia.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ đông lớn mới gia tăng kỳ vọng về quản trị và tiềm năng tăng trưởng, thu hút dòng tiền đầu cơ ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 18:59:07"
+  },
+  {
+    "Title": "Thủ tướng: Nhà nước định giá để giảm chi phí nhà, đất",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/thu-tuong-nha-nuoc-dinh-gia-de-giam-chi-phi-nhadat-5110957.html",
+    "PubDate": "Wed, 19 Aug 2026 18:30:07 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc Nhà nước kiểm soát định giá đất giúp minh bạch hóa thị trường, giảm chi phí đầu vào cho các dự án BĐS, hỗ trợ đẩy nhanh tiến độ pháp lý và tăng khả năng tiếp cận nhà ở cho người dân.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách định giá đất mới cần lộ trình thực thi cụ thể. Tác động biên lợi nhuận chưa rõ ràng trong ngắn hạn. Cần theo dõi sát phản ứng dòng tiền tại nhóm BĐS vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Minh bạch định giá giúp đẩy nhanh tiến độ các đại dự án, cải thiện biên lợi nhuận."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm rủi ro pháp lý và chi phí tiền sử dụng đất, hỗ trợ triển khai các dự án tồn đọng."
+      },
+      {
+        "Ticker": "NLG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ phân khúc nhà ở bình dân/trung cấp khi chi phí đất được kiểm soát tốt hơn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 18:58:26"
+  },
+  {
     "Title": "FUEVN100: Kết thúc giao dịch hoán đổi ngày 18/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2ZYR0NmTXM5ZU5lV1QzSjdLNU1UR05VdUd1UDh5aXBaMERXM0hDODNzS0ZQTU9FU3lUWDlsbGcteVZ0M1dxUldJRUxPR2UzNndOdTdQZFZmMHMxUWRwZzRydHEyMGIzRUUxVUpKdi1fVHBBX1RmQkpJU1hUU3BjRXRYb0Q0WGxyaTdBa253bmxXSGNHNVAwYUp0RElweEJJa0dGYjI3Y0pSUnlwaE02NGxTdzhVQQ?oc=5",
@@ -16553,102 +16657,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-12 18:57:50"
-  },
-  {
-    "Title": "Một thế lực bất ngờ \"tung\" hơn 1.000 tỷ đồng gom cổ phiếu Việt Nam phiên 12/8 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHdINk1JazlHMzEtQWwwY2NYLUpPNUtjVk5xd1FGM1RleFVTYmRiZHlzZWRPMHlPQURFQ25rV1NoYW11LXptSV9PSE53YUlJU05Pc2dtUVZFcUJzdjlqQ2FRelFOM1RYRGdTODhmX0l3QTNFbHFQLXVicmVxRFQ4bFQtU3VvX2c5SWZFWkNOMmdsd3cwSFMzcFJTSHNpUVBJT1doRndmeXVLTUFKd3lpcm5jZEY?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 11:20:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Dòng tiền lớn giải ngân đột biến vào các mã vốn hóa lớn (Bluechips) giúp cải thiện thanh khoản và tâm lý thị trường, tạo lực đỡ cho chỉ số VN-Index trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Dòng tiền lớn giải ngân 1.000 tỷ đồng mang tính chất thăm dò, chưa xác nhận xu hướng đảo chiều bền vững. Cần quan sát thêm lực cầu duy trì tại nhóm VN30.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-12 18:57:35"
-  },
-  {
-    "Title": "TP.HCM dự kiến khởi công loạt dự án dịp 2-9, có quốc lộ 13 và đường sắt Thủ Thiêm - Long Thành",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-du-kien-khoi-cong-loat-du-an-dip-2-9-co-quoc-lo-13-va-duong-sat-thu-thiem-long-thanh-100260812162358994.htm",
-    "PubDate": "8/12/2026 5:09:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc đẩy mạnh đầu tư công tại TP.HCM tạo khối lượng công việc lớn cho các doanh nghiệp xây lắp hạ tầng và hưởng lợi gián tiếp cho các dự án bất động sản có quỹ đất dọc tuyến đường.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Xây dựng hạ tầng. Dự án hạ tầng trọng điểm tạo kỳ vọng backlog cho các nhà thầu có năng lực thi công thực tế. Cần lọc kỹ mã có dự án cụ thể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhà thầu hạ tầng lớn, có năng lực thi công các dự án giao thông trọng điểm quốc gia."
-      },
-      {
-        "Ticker": "HHV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chuyên gia trong lĩnh vực đầu tư và thi công hạ tầng giao thông, hưởng lợi từ làn sóng đầu tư công."
-      },
-      {
-        "Ticker": "CII",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp có nhiều dự án hạ tầng và bất động sản tại khu vực Thủ Thiêm và cửa ngõ TP.HCM."
-      }
-    ],
-    "AnalyzedAt": "2026-08-12 18:57:20"
-  },
-  {
-    "Title": "TikTok bắt tay lan tỏa thực phẩm Tick xanh trách nhiệm, hỗ trợ quảng bá video",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tiktok-bat-tay-lan-toa-thuc-pham-tick-xanh-trach-nhiem-ho-tro-quang-ba-video-100260812145022749.htm",
-    "PubDate": "8/12/2026 5:10:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc hợp tác quảng bá thực phẩm sạch giúp các doanh nghiệp tiêu dùng có thương hiệu lớn tăng độ phủ sóng và thúc đẩy doanh số bán hàng qua kênh thương mại điện tử.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR thương mại, không tác động trọng yếu đến biên lợi nhuận hay dòng tiền của các doanh nghiệp tiêu dùng lớn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-12 18:57:04"
-  },
-  {
-    "Title": "Cá linh nuôi cận mùa nước nổi đạt giá trị thương phẩm cao",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/ca-linh-nuoi-can-mua-nuoc-noi-dat-gia-tri-thuong-pham-cao-100260812172528535.htm",
-    "PubDate": "8/12/2026 6:03:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về sản lượng và giá trị nông sản địa phương mang tính chất thời vụ, không tác động trọng yếu đến biên lợi nhuận của các doanh nghiệp thủy sản niêm yết quy mô lớn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thủy sản. Sản lượng cá linh nuôi quy mô nhỏ lẻ không ảnh hưởng đến doanh thu xuất khẩu của các doanh nghiệp đầu ngành. Dòng tiền không phản ứng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-12 18:56:54"
-  },
-  {
-    "Title": "ESG là yêu cầu bắt buộc nếu doanh nghiệp muốn bán hàng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/khong-con-lua-chon-esg-thanh-yeu-cau-bat-buoc-neu-doanh-nghiep-muon-ban-hang-2544808.html",
-    "PubDate": "Wed, 12 Aug 2026 18:51:46 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc áp dụng tiêu chuẩn ESG trở thành rào cản kỹ thuật bắt buộc để xuất khẩu, thúc đẩy các doanh nghiệp sản xuất lớn nâng cấp quy trình, tăng lợi thế cạnh tranh dài hạn tại thị trường quốc tế.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Xuất khẩu. ESG là xu hướng dài hạn, chưa tạo đột biến dòng tiền ngắn hạn. Cần theo dõi chi phí chuyển đổi và biên lợi nhuận thực tế của VHC, TNG, GMD.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp thủy sản đầu ngành, có lợi thế về tiêu chuẩn xanh, dễ dàng đáp ứng yêu cầu khắt khe từ thị trường EU/Mỹ."
-      },
-      {
-        "Ticker": "TNG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngành dệt may chịu áp lực ESG lớn, TNG đã chuẩn bị hạ tầng xanh giúp duy trì lợi thế cạnh tranh đơn hàng xuất khẩu."
-      },
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cảng biển xanh là mắt xích quan trọng trong chuỗi cung ứng ESG, giúp GMD thu hút các hãng tàu quốc tế ưu tiên tiêu chuẩn bền vững."
-      }
-    ],
-    "AnalyzedAt": "2026-08-12 18:56:38"
   }
 ]
