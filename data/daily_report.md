@@ -1,22 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15 ngày 19/08/2026
+⏱ Thời gian: 19:39 (19/08/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thủ tướng chỉ đạo minh bạch định giá đất để giảm chi phí đầu vào BĐS -> Đánh giá: Tích cực (trung hạn) -> Dòng tiền sẽ hướng vào nhóm BĐS có quỹ đất sạch, pháp lý rõ ràng (VHM, PDR, NLG).
-- Ứng dụng công nghệ nâng cao giá trị thủy sản xuất khẩu -> Đánh giá: Tích cực -> Dòng tiền tập trung vào nhóm xuất khẩu có hàm lượng kỹ thuật cao (VHC, ANV).
+- **Căng thẳng tại eo biển Hormuz (Tấn công tàu vận tải):** -> [Đánh giá: Tích cực (với nhóm Dầu khí)] -> Dòng tiền dự kiến hướng vào nhóm Thượng nguồn (Upstream) và Vận tải dầu khí do kỳ vọng giá dầu tăng mạnh và gián đoạn nguồn cung.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VHM, PDR, NLG**
-  - Động lực (FA): Thủ tướng chỉ đạo quyết liệt việc định giá đất nhằm giảm chi phí nhà ở, hỗ trợ tháo gỡ khó khăn cho các dự án tồn đọng.
-  - Nhận định dòng tiền: Tin tức mang tính chất "cởi trói" chính sách, kỳ vọng giúp giảm áp lực giải chấp và ổn định tâm lý cho nhóm BĐS đang bị bán tháo. Tuy nhiên, dòng tiền cần quan sát thêm lực cầu bắt đáy sau phiên giảm điểm mạnh hôm nay.
-  - Hành động: Chú ý quan sát phản ứng giá tại vùng hỗ trợ, ưu tiên VHM, PDR cho mục tiêu hồi phục kỹ thuật.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới dự kiến tăng do rủi ro địa chính trị tại eo biển Hormuz.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ phản ứng mạnh với các cổ phiếu nhạy sóng dầu khí.
+  - Hành động: Chú ý giải ngân nếu dòng tiền vào nhóm dầu khí xác nhận vượt ngưỡng kháng cự gần nhất.
+- **Mã: PVS, PVT, BSR**
+  - Động lực (FA): Hưởng lợi từ đà tăng của giá dầu và rủi ro chuỗi cung ứng.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển sang nhóm năng lượng để trú ẩn và tìm kiếm lợi nhuận ngắn hạn.
+  - Hành động: Quan sát phản ứng tại vùng hỗ trợ, ưu tiên vị thế nếu thanh khoản nhóm này gia tăng.
 
-- Mã: **VHC, ANV**
-  - Động lực (FA): Tối ưu hóa quy trình sản xuất bằng công nghệ, giúp cải thiện biên lợi nhuận trong bối cảnh xuất khẩu cạnh tranh.
-  - Nhận định dòng tiền: Tin tức hỗ trợ cải thiện FA, phù hợp để giữ vị thế trong danh mục phòng thủ khi thị trường chung đang có rung lắc.
-  - Hành động: Tiếp tục quan sát đà tăng, nắm giữ nếu không vi phạm kịch bản đảo chiều kỹ thuật.
+- **Mã: VIB**
+  - Động lực (FA): Thông báo chốt quyền phát hành cổ phiếu tăng vốn từ nguồn vốn chủ sở hữu.
+  - Nhận định dòng tiền: Tin tức củng cố tâm lý cổ đông, hỗ trợ đà tăng giá ngắn hạn thông qua kỳ vọng cổ phiếu thưởng.
+  - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế trước ngày ĐKCC.
 
-- Mã: **PNJ**
-  - Động lực (FA): Xuất hiện cổ đông lớn mới trước thềm đại hội bất thường.
-  - Nhận định dòng tiền: Kỳ vọng về thay đổi chiến lược quản trị có thể tạo sóng đầu cơ ngắn hạn.
-  - Hành động: Chú ý giải ngân tỷ trọng nhỏ nếu có tín hiệu dòng tiền vào mạnh ở vùng tích lũy.
+- **Mã: VHM, PDR, NLG**
+  - Động lực (FA): Thủ tướng chỉ đạo minh bạch định giá đất để giảm chi phí đầu vào BĐS.
+  - Nhận định dòng tiền: Tác động tích cực trung hạn, giúp ổn định tâm lý nhóm BĐS dân dụng.
+  - Hành động: Tiếp tục quan sát, ưu tiên các mã có quỹ đất sạch và tiến độ pháp lý tốt.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Nhận định: Mặc dù tin tức địa chính trị đang hỗ trợ giá dầu (và biên lợi nhuận lọc dầu) của BSR, tuy nhiên xét trên góc nhìn "Tái cơ cấu" (do đã vượt mốc kỳ vọng tháng 3/2026), dữ liệu này là cơ hội để chốt lời chủ động theo kế hoạch thay vì gia tăng vị thế. Ưu tiên hiện thực hóa lợi nhuận nếu giá tiếp cận vùng đỉnh cũ.
