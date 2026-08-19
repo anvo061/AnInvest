@@ -1,24 +1,20 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 21:20 ngày 19/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 21:50 (19/08/2026)
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Địa chính trị (Eo biển Hormuz):** Căng thẳng leo thang đe dọa nguồn cung dầu toàn cầu, đẩy giá dầu tăng mạnh -> **Tích cực (ngắn hạn)** cho nhóm Thượng nguồn và Vận tải dầu khí.
-- **Chính sách thuế BĐS:** Đề xuất đánh thuế BĐS bỏ hoang -> **Tiêu cực** cho nhóm BĐS có quỹ đất lớn nhưng triển khai chậm, làm tăng rủi ro chi phí vốn.
-- **Nâng hạng thị trường:** SSI Research xác nhận VPB là tâm điểm thu hút vốn ngoại -> **Tích cực** cho nhóm Ngân hàng thanh khoản cao.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Căng thẳng địa chính trị (Eo biển Hormuz):** Sự cố tấn công tàu hàng đẩy giá dầu thế giới tăng mạnh -> Tác động: **Tích cực** cho nhóm Dầu khí (PVD, PVS, PVT, BSR).
+- **Đề xuất đánh thuế BĐS bỏ hoang:** Áp lực gia tăng chi phí vốn và rủi ro pháp lý cho các doanh nghiệp quỹ đất lớn -> Tác động: **Tiêu cực** cho nhóm Bất động sản (NVL, DIG, DXG).
+- **Kỳ vọng nâng hạng thị trường:** SSI Research định hướng dòng tiền vào nhóm Ngân hàng -> Tác động: **Tích cực** cho VPB.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD, BSR**
-    - **Động lực (FA):** Căng thẳng tại eo biển Hormuz làm đứt gãy cung ứng dầu.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng xoay trục vào nhóm năng lượng để trú ẩn và đón sóng tăng giá dầu.
-    - **Hành động:** Quan sát kỹ ngưỡng kháng cự gần nhất, ưu tiên giữ vị thế nếu giá dầu duy trì đà tăng.
-- **Mã: VPB**
-    - **Động lực (FA):** Được định danh là tâm điểm thu hút vốn ngoại trong kịch bản nâng hạng.
-    - **Nhận định dòng tiền:** Khả năng thu hút dòng tiền khối ngoại (ETF/Quỹ chủ động) gia tăng, hỗ trợ lực cầu nâng giá.
-    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
-- **Mã: NVL, DIG, DXG**
-    - **Động lực (FA):** Đề xuất đánh thuế BĐS bỏ hoang.
-    - **Nhận định dòng tiền:** Rủi ro áp lực bán tháo ngắn hạn từ nhóm nhà đầu tư cá nhân lo ngại chính sách.
-    - **Hành động:** Rủi ro vi phạm kịch bản, cần đánh giá lại tỷ trọng nắm giữ nếu giá thủng các hỗ trợ cứng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** VPB
+  - Động lực (FA): Được SSI Research kỳ vọng là tâm điểm thu hút dòng vốn ngoại nhờ thanh khoản và câu chuyện nâng hạng thị trường.
+  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tập trung vào nhóm vốn hóa lớn (Blue-chips) hưởng lợi từ chính sách nâng hạng.
+  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức thanh khoản cao trong phiên tới.
+- **Mã:** PVD
+  - Động lực (FA): Giá dầu thô phản ứng tức thì với rủi ro tại eo biển Hormuz.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ tìm đến nhóm thượng nguồn khi giá dầu biến động mạnh.
+  - Hành động: **Tiếp tục quan sát** để xác nhận phản ứng của giá tại các vùng cản kỹ thuật.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **BSR:** Dữ liệu địa chính trị hiện tại (tăng giá dầu) đang hỗ trợ trực tiếp cho biên lợi nhuận lọc dầu và giá trị tồn kho. **Khuyến nghị:** Tiếp tục giữ vị thế, tận dụng nhịp tăng giá để quản trị rủi ro thay vì bán sớm, chưa cần thiết phải cơ cấu lại danh mục tại thời điểm này.
+🔄 3. Cảnh báo Tái cơ cấu (Nhóm BSR):
+- **Nhận định:** Dữ liệu mới (giá dầu tăng do căng thẳng địa chính trị) mang lại tác động **Tích cực** ngắn hạn cho biên lợi nhuận lọc dầu và giá trị hàng tồn kho của BSR. Tuy nhiên, vì BSR nằm trong danh mục trung hạn (điểm rơi kỳ vọng T3/2026 đã qua), đây là cơ hội để tối ưu hóa lợi nhuận (Exit/Scale down) nếu giá bật tăng mạnh, nhằm đảo dòng tiền sang các mã có dư địa tăng trưởng cao hơn trong nửa cuối năm 2026.
