@@ -1,24 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:15
+⏱ Thời gian: 15:10
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kỳ vọng nâng hạng thị trường chứng khoán Việt Nam:** Tạo lực đẩy tâm lý cho nhóm Tài chính, Ngân hàng và vốn hóa lớn (Blue-chips) -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Chứng khoán (SSI) và Ngân hàng quốc doanh (VCB).
-- **Đẩy mạnh giải ngân đầu tư công (Khởi công cao tốc Quy Nhơn - Pleiku):** Thúc đẩy nhóm hạ tầng giao thông và vật liệu xây dựng -> **Tích cực** -> Dòng tiền chú ý: VCG, HHV, KSB.
+- **Thiếu hụt nhiên liệu tại Nga:** Căng thẳng nguồn cung dầu toàn cầu đẩy giá dầu duy trì ở mức cao -> [Tác động: Tích cực] -> [Dòng tiền hướng tới: Nhóm dầu khí thượng nguồn (PVD, PVS)].
+- **Kỳ vọng nâng hạng thị trường:** Thu hút dòng vốn ngoại quy mô lớn và cải thiện thanh khoản toàn hệ thống -> [Tác động: Tích cực] -> [Dòng tiền hướng tới: Nhóm Tài chính (SSI) và vốn hóa lớn (VCB)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu dự báo tăng do thiếu hụt nguồn cung tại Nga, tối ưu hóa biên lợi nhuận cho thuê giàn khoan.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ sự nhạy bén của nhóm thượng nguồn với giá dầu thế giới.
+  - Hành động: Chú ý giải ngân nếu dòng tiền phiên chiều duy trì đà tăng khối lượng.
+- **Mã: NVL**
+  - Động lực (FA): Kế hoạch tất toán 8.000 tỷ đồng trái phiếu.
+  - Nhận định dòng tiền: Giảm áp lực nợ vay, giải tỏa tâm lý lo ngại về thanh khoản, khả năng cao sẽ thu hút dòng tiền bắt đáy.
+  - Hành động: Quan sát phản ứng tại các vùng hỗ trợ cứng, ưu tiên nắm giữ nếu có sự đồng thuận từ thanh khoản.
 - **Mã: PNJ**
-  - Động lực (FA): Quỹ đầu tư quốc tế (quản lý 12.000 tỷ USD) trở thành cổ đông lớn, củng cố niềm tin tổ chức sau giai đoạn điều chỉnh sâu.
-  - Nhận định dòng tiền: Tạo vùng đệm tâm lý vững chắc, giảm áp lực bán tháo, thu hút dòng tiền đầu tư dài hạn.
-  - Hành động: Chú ý quan sát phản ứng giá tại vùng nền, ưu tiên nắm giữ cho mục tiêu hồi phục.
-- **Mã: MSN**
-  - Động lực (FA): Kết quả kinh doanh mảng Masan Consumer tăng trưởng tích cực, củng cố lợi nhuận hợp nhất.
-  - Nhận định dòng tiền: Dòng tiền có xu hướng gia tăng vào các mã có câu chuyện lợi nhuận nội tại rõ ràng trong bối cảnh thị trường biến động.
-  - Hành động: Tiếp tục quan sát đà tăng trưởng dòng tiền.
-- **Mã: SSI, VCB**
-  - Động lực (FA): Hưởng lợi trực tiếp từ kỳ vọng nâng hạng thị trường.
-  - Nhận định dòng tiền: Dòng tiền thông minh sẽ sớm tìm đến nhóm vốn hóa lớn (Large-caps) và nhóm ngành tài chính để đón sóng nâng hạng.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc.
-- **Mã: VCG, HHV, KSB**
-  - Động lực (FA): Tin khởi công dự án hạ tầng trọng điểm cao tốc Quy Nhơn - Pleiku.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ hạ tầng thường phản ứng nhanh với tin khởi công, dự kiến khối lượng giao dịch gia tăng trong phiên.
-  - Hành động: Chú ý giải ngân theo đà (momentum).
+  - Động lực (FA): Cổ đông lớn là quỹ quản lý tài sản 12.000 tỷ USD gia tăng sở hữu.
+  - Nhận định dòng tiền: Xác nhận uy tín dài hạn, củng cố vị thế cổ phiếu trong danh mục các quỹ đầu tư.
+  - Hành động: Tiếp tục nắm giữ, vị thế trung hạn an toàn.
+- **Mã: TRC**
+  - Động lực (FA): Chốt quyền chia cổ phiếu thưởng tỷ lệ 1:3.
+  - Nhận định dòng tiền: Tạo sự chú ý mạnh mẽ cho dòng tiền đầu cơ ngắn hạn (trading game).
+  - Hành động: Chú ý giải ngân nhanh theo tín hiệu kỹ thuật, đề phòng áp lực chốt lời sau khi tin tức phản ánh vào giá.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Dữ liệu mới: Giá dầu tăng do thiếu hụt nguồn cung tại Nga giúp cải thiện crack spread (biên lợi nhuận lọc dầu).
+  - Nhận định: Dữ liệu hiện tại là tín hiệu tích cực củng cố cho luận điểm giữ vị thế, thay vì cắt lỗ. Tiếp tục quan sát biến động biên lợi nhuận quý tới để đánh giá lại điểm chốt lời kỳ hạn tháng 3/2026.
