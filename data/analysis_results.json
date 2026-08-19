@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "SSB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Thu Hương, Hoàng Mạnh Phú, Vũ Đình Khoán, Nguyễn Tuấn Cường - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR3FoQWVNZjhhbFJfRllJdk9xSnNwTmZnc2hyb3dJN3dMYmViYmMtbVVqVFdGYXpuc1B1alJnODBUa1RNRVZaQmFFcGswN3NsTG92MXQ0N0hkNWlyZG1QWUJCNGFNU3RPRG51MkpWeWNaU2dUZ3hkbnV1SktYSWoxd1dNWFlHanRJVVU4dElQNDU3TFpKazdRSkNLS1JLWlhHVHMxMkUwR3piNl9hQUdqZUJNUGRHVUZ1aFE0XzhQekI1NEhVVUJCaW9PZV9RNHRoa3V3ejM5ZElRQ0FYU0k0YzJQQ21FSUlYREhtai0xR0FZWG5IVTJaeEExeVl0WHQtazF3elIzaXM?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 10:21:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin giao dịch cá nhân của người nội bộ, không phản ánh thay đổi về chiến lược kinh doanh hay tình hình tài chính của ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SSB. Giao dịch nội bộ mang tính cá nhân, không tác động đến xu hướng dòng tiền lớn của cổ phiếu. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 03:13:27"
+  },
+  {
     "Title": "APG: Thông báo về tình trạng chứng khoán của cổ phiếu - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2xYY081dnJYVTY1WkhGWEc2Zzh5bERBam1qZDJDcVlGdnJQdFl3TmVBV3JheWtQUnp1aWtab2hsY0hsWGpZLVpVQ0ppbDF1U3ktODFJMUxTeFJvM0UtZHJweHhHcXdsOUE2anBSZE5IdFdiOE1KS1NLU2hwUkNiU3JnOHo0aGhtLTRIcG1iMmJPcURqblVlNGtnN3E0VThZM3dtNUUwNURINU5KX3NTS29B?oc=5",
@@ -16636,29 +16649,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-13 01:06:05"
-  },
-  {
-    "Title": "Vietjet tăng 82.000 chỗ, sẵn sàng phục vụ cao điểm Quốc khánh 2-9",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vietjet-tang-82000-cho-san-sang-phuc-vu-cao-diem-quoc-khanh-2-9-100260812111405418.htm",
-    "PubDate": "8/12/2026 2:00:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc tăng tải cung ứng trong dịp cao điểm lễ giúp tối ưu hóa doanh thu vận tải hành khách và cải thiện biên lợi nhuận cho các hãng hàng không.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Hàng không. Tăng tải cung ứng dịp lễ giúp cải thiện doanh thu và dòng tiền ngắn hạn. Dòng tiền thông minh sẽ chú ý đến VJC và ACV.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VJC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng công suất vận chuyển trực tiếp thúc đẩy doanh thu mảng vận tải hành khách trong quý 3."
-      },
-      {
-        "Ticker": "ACV",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lưu lượng hành khách tăng cao giúp tăng doanh thu dịch vụ cảng hàng không và phí phục vụ mặt đất."
-      }
-    ],
-    "AnalyzedAt": "2026-08-13 01:05:47"
   }
 ]
