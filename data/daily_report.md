@@ -1,25 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:45 - 19/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 21:20 ngày 19/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Địa chính trị (Eo biển Hormuz):** Sự cố tàu hàng bị tấn công gây lo ngại gián đoạn nguồn cung dầu toàn cầu -> Đánh giá: **Tích cực** cho nhóm Dầu khí (PVD, PVS, PVT, BSR) do giá dầu dự báo neo cao.
-- **Chính sách (Đề xuất thuế BĐS bỏ hoang):** Đại biểu Quốc hội đề xuất đánh thuế BĐS "ngủ im" -> Đánh giá: **Tiêu cực** cho nhóm BĐS (NVL, DIG, DXG) do áp lực thanh khoản và chi phí vốn.
-- **Xuất khẩu:** Ứng dụng công nghệ nâng cao giá trị thủy sản -> Đánh giá: **Tích cực** cho nhóm Thủy sản (VHC, ANV) nhờ kỳ vọng cải thiện biên lợi nhuận.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Địa chính trị (Eo biển Hormuz):** Căng thẳng leo thang đe dọa nguồn cung dầu toàn cầu, đẩy giá dầu tăng mạnh -> **Tích cực (ngắn hạn)** cho nhóm Thượng nguồn và Vận tải dầu khí.
+- **Chính sách thuế BĐS:** Đề xuất đánh thuế BĐS bỏ hoang -> **Tiêu cực** cho nhóm BĐS có quỹ đất lớn nhưng triển khai chậm, làm tăng rủi ro chi phí vốn.
+- **Nâng hạng thị trường:** SSI Research xác nhận VPB là tâm điểm thu hút vốn ngoại -> **Tích cực** cho nhóm Ngân hàng thanh khoản cao.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-  - **Động lực (FA):** Căng thẳng eo biển Hormuz đẩy giá dầu tăng mạnh.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ nhóm dầu khí dự kiến sẽ luân chuyển mạnh vào nhóm thượng nguồn và khoan.
-  - **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì khối lượng vượt mức trung bình 20 phiên.
-- **Mã:** VIB
-  - **Động lực (FA):** Thông báo ngày ĐKCC tăng vốn từ nguồn vốn chủ sở hữu.
-  - **Nhận định dòng tiền:** Tâm lý tích cực ngắn hạn trước ngày chốt quyền, dòng tiền sẽ neo giữ để hưởng quyền.
-  - **Hành động:** Tiếp tục quan sát.
-- **Mã:** NVL / DIG
-  - **Động lực (FA):** Rủi ro từ đề xuất thuế BĐS bỏ hoang.
-  - **Nhận định dòng tiền:** Áp lực cung tiềm ẩn từ nhóm cổ đông sợ rủi ro pháp lý/chi phí tăng.
-  - **Hành động:** Rủi ro vi phạm kịch bản (cần quan sát chặt ngưỡng hỗ trợ gần nhất).
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD, BSR**
+    - **Động lực (FA):** Căng thẳng tại eo biển Hormuz làm đứt gãy cung ứng dầu.
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng xoay trục vào nhóm năng lượng để trú ẩn và đón sóng tăng giá dầu.
+    - **Hành động:** Quan sát kỹ ngưỡng kháng cự gần nhất, ưu tiên giữ vị thế nếu giá dầu duy trì đà tăng.
+- **Mã: VPB**
+    - **Động lực (FA):** Được định danh là tâm điểm thu hút vốn ngoại trong kịch bản nâng hạng.
+    - **Nhận định dòng tiền:** Khả năng thu hút dòng tiền khối ngoại (ETF/Quỹ chủ động) gia tăng, hỗ trợ lực cầu nâng giá.
+    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+- **Mã: NVL, DIG, DXG**
+    - **Động lực (FA):** Đề xuất đánh thuế BĐS bỏ hoang.
+    - **Nhận định dòng tiền:** Rủi ro áp lực bán tháo ngắn hạn từ nhóm nhà đầu tư cá nhân lo ngại chính sách.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần đánh giá lại tỷ trọng nắm giữ nếu giá thủng các hỗ trợ cứng.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - **Nhận định:** Tin tức về giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu là yếu tố bổ trợ tốt. Tuy nhiên, do đã qua điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu này chỉ mang tính hỗ trợ ngắn hạn. **Khuyến nghị:** Giữ vị thế theo dõi, chưa cần tất toán nếu giá chưa gãy trendline trung hạn, tận dụng nhịp tăng ngắn hạn từ tin địa chính trị để hạ dần tỷ trọng nếu đạt target lợi nhuận mục tiêu.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR:** Dữ liệu địa chính trị hiện tại (tăng giá dầu) đang hỗ trợ trực tiếp cho biên lợi nhuận lọc dầu và giá trị tồn kho. **Khuyến nghị:** Tiếp tục giữ vị thế, tận dụng nhịp tăng giá để quản trị rủi ro thay vì bán sớm, chưa cần thiết phải cơ cấu lại danh mục tại thời điểm này.
