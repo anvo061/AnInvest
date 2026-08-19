@@ -1,29 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:10
+⏱ Thời gian: 15:30 - 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thiếu hụt nhiên liệu tại Nga:** Căng thẳng nguồn cung dầu toàn cầu đẩy giá dầu duy trì ở mức cao -> [Tác động: Tích cực] -> [Dòng tiền hướng tới: Nhóm dầu khí thượng nguồn (PVD, PVS)].
-- **Kỳ vọng nâng hạng thị trường:** Thu hút dòng vốn ngoại quy mô lớn và cải thiện thanh khoản toàn hệ thống -> [Tác động: Tích cực] -> [Dòng tiền hướng tới: Nhóm Tài chính (SSI) và vốn hóa lớn (VCB)].
+- **Dầu khí thượng nguồn & Năng lượng:** Dự án khí Lô B - Ô Môn chính thức khởi động (6,2 tỷ USD) cùng tín hiệu thiếu hụt nhiên liệu tại Nga gây áp lực tăng giá dầu -> **Tích cực** -> Dòng tiền tập trung nhóm Dầu khí thượng nguồn (PVS, PVD) và Lọc hóa dầu (BSR).
+- **Bất động sản:** NVL tất toán 8.000 tỷ đồng nợ trái phiếu -> **Tích cực** -> Cải thiện niềm tin và thanh khoản nhóm Bất động sản dân dụng.
+- **Địa chính trị:** Căng thẳng Biển Đông gia tăng -> **Tiêu cực (thận trọng)** -> Rủi ro tâm lý ngắn hạn cho nhóm Vận tải biển và Dầu khí khu vực.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu dự báo tăng do thiếu hụt nguồn cung tại Nga, tối ưu hóa biên lợi nhuận cho thuê giàn khoan.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ sự nhạy bén của nhóm thượng nguồn với giá dầu thế giới.
-  - Hành động: Chú ý giải ngân nếu dòng tiền phiên chiều duy trì đà tăng khối lượng.
+- **Mã: PVD, PVS**
+  - Động lực (FA): Hưởng lợi kép từ siêu dự án Lô B và giá dầu neo cao do thiếu hụt nguồn cung toàn cầu.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại khả năng cao sẽ luân chuyển vào nhóm này để đón sóng tăng trưởng dài hạn.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
 - **Mã: NVL**
-  - Động lực (FA): Kế hoạch tất toán 8.000 tỷ đồng trái phiếu.
-  - Nhận định dòng tiền: Giảm áp lực nợ vay, giải tỏa tâm lý lo ngại về thanh khoản, khả năng cao sẽ thu hút dòng tiền bắt đáy.
-  - Hành động: Quan sát phản ứng tại các vùng hỗ trợ cứng, ưu tiên nắm giữ nếu có sự đồng thuận từ thanh khoản.
-- **Mã: PNJ**
-  - Động lực (FA): Cổ đông lớn là quỹ quản lý tài sản 12.000 tỷ USD gia tăng sở hữu.
-  - Nhận định dòng tiền: Xác nhận uy tín dài hạn, củng cố vị thế cổ phiếu trong danh mục các quỹ đầu tư.
-  - Hành động: Tiếp tục nắm giữ, vị thế trung hạn an toàn.
-- **Mã: TRC**
-  - Động lực (FA): Chốt quyền chia cổ phiếu thưởng tỷ lệ 1:3.
-  - Nhận định dòng tiền: Tạo sự chú ý mạnh mẽ cho dòng tiền đầu cơ ngắn hạn (trading game).
-  - Hành động: Chú ý giải ngân nhanh theo tín hiệu kỹ thuật, đề phòng áp lực chốt lời sau khi tin tức phản ánh vào giá.
+  - Động lực (FA): Giảm áp lực trái phiếu, cải thiện bảng cân đối kế toán.
+  - Nhận định dòng tiền: Kỳ vọng tạo điểm đảo chiều xu hướng ngắn hạn nhờ giải tỏa áp lực nợ.
+  - Hành động: Quan sát phản ứng tại các vùng kháng cự cứng, theo dõi lực cầu thực tế.
+- **Mã: AAA, APH**
+  - Động lực (FA): Mỹ siết quy định nhãn 'tái chế' nhựa.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do chi phí tuân thủ gia tăng, biên lợi nhuận bị đe dọa.
+  - Hành động: Rủi ro vi phạm kịch bản, cần cân nhắc hạ tỷ trọng nếu thủng vùng hỗ trợ nền.
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - **Mã: BSR**
-  - Dữ liệu mới: Giá dầu tăng do thiếu hụt nguồn cung tại Nga giúp cải thiện crack spread (biên lợi nhuận lọc dầu).
-  - Nhận định: Dữ liệu hiện tại là tín hiệu tích cực củng cố cho luận điểm giữ vị thế, thay vì cắt lỗ. Tiếp tục quan sát biến động biên lợi nhuận quý tới để đánh giá lại điểm chốt lời kỳ hạn tháng 3/2026.
+  - Nhận định: Tin tức về thiếu hụt nhiên liệu tại Nga hỗ trợ mạnh cho biên lợi nhuận lọc dầu (crack spread). Vị thế vẫn duy trì tốt. Tiếp tục nắm giữ, chưa cần cơ cấu lại dòng tiền vào thời điểm này.
