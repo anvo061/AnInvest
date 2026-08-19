@@ -1,22 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:15
+⏱ Thời gian: 16:49:30 - 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thanh khoản thị trường HoSE xuống mức thấp nhất 2 tháng và khối ngoại tiếp tục bán ròng mạnh các mã vốn hóa lớn (VHM, HPG, MSN, VIC, VNM) -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi nhóm Blue-chip, gây áp lực điều chỉnh lên chỉ số chung.
-- Giá dầu thế giới hạ nhiệt do nguồn cung từ eo biển Hormuz nối lại -> **Tiêu cực** -> Áp lực giảm giá lên nhóm dầu khí thượng nguồn.
+- Nhu cầu tàu chở dầu toàn cầu tăng do thay đổi lộ trình vận tải (tránh điểm nghẽn) -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào nhóm Vận tải biển/Logistics dầu khí].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu hạ nhiệt làm giảm kỳ vọng về đơn giá cho thuê giàn khoan.
-- Nhận định dòng tiền: Kỳ vọng ngắn hạn suy yếu, áp lực bán có thể gia tăng khi tâm lý thị trường chung đang thận trọng.
-- Hành động: **Rủi ro vi phạm kịch bản** – Cần quan sát chặt chẽ vùng hỗ trợ gần nhất, tránh bắt đáy trong bối cảnh thanh khoản thị trường suy giảm.
+- Mã: **PVT**
+- Động lực (FA): Việc Trung Quốc điều phối tàu chở dầu đi lộ trình xa hơn giúp thắt chặt nguồn cung tàu toàn cầu, đẩy giá cước vận tải.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp từ xu hướng cước quốc tế, có khả năng đi ngược dòng với thị trường chung đang thiếu thanh khoản.
+- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền vào mạnh trong phiên.
 
-- Mã: **PNJ**
-- Động lực (FA): Quỹ ngoại lớn Vanguard gia tăng tỷ trọng sở hữu.
-- Nhận định dòng tiền: Tạo hiệu ứng tâm lý tích cực, hỗ trợ thanh khoản và tạo "bệ đỡ" cho cổ phiếu trong giai đoạn thị trường rung lắc.
-- Hành động: **Chú ý giải ngân** – Theo dõi phản ứng của dòng tiền nội đối với tín hiệu từ dòng vốn ngoại.
+- Mã: **SSI, VND, VCI**
+- Động lực (FA): Thanh khoản HOSE sụt giảm về mức thấp nhất 2 tháng, kết hợp áp lực bán ròng liên tục từ khối ngoại.
+- Nhận định dòng tiền: Áp lực tiêu cực lên doanh thu cốt lõi (môi giới, margin). Dòng tiền ngắn hạn đang rút khỏi nhóm chứng khoán.
+- Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi thanh khoản thị trường chưa có tín hiệu cải thiện.
 
-- Mã: **SHB**
-- Động lực (FA): Giảm lãi suất cho vay doanh nghiệp SME nhằm mở rộng thị phần tín dụng.
-- Nhận định dòng tiền: Tác động tích cực về mặt chiến lược dài hạn, giúp cải thiện sức cạnh tranh của ngân hàng.
-- Hành động: **Tiếp tục quan sát** – Chờ đợi phản ứng của thị trường trước thông tin này trong bối cảnh thanh khoản chung đang thấp.
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này).
