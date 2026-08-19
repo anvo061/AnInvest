@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Vietnam’s Hubris Risks Unraveling Its Boom - Bloomberg",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjkxT2gyWVFGa0JHNHJwd2JXVHR4UEkxaHhfclpPSlEzWjFJa1FVY0dHTnR3TEhReURDdHZQb29JN2NPMXQ5SF9ZSk1BdGI5Nk5ESDRfMnVHV2hpeXM5TUtQNkltVW11N01ObzYzczA2SmdfaGo5a3ZJRWI2VjIwdHk0UDh1M3JrM2NGaUlCNzlpYXM1N2VyUk9BXzFnLXlveWZCZVl6SFo?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 19:00:02 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Bài viết mang tính cảnh báo về rủi ro vĩ mô, quản trị và sự bền vững của đà tăng trưởng kinh tế Việt Nam, có thể gây tâm lý thận trọng cho khối ngoại và dòng tiền đầu cơ ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Cảnh báo vĩ mô từ Bloomberg gây áp lực tâm lý lên khối ngoại. Dòng tiền thông minh ưu tiên phòng thủ, giảm tỷ trọng nhóm vốn hóa lớn (VN30) để quản trị rủi ro.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu trụ cột chịu áp lực bán ròng từ khối ngoại khi tâm lý thị trường suy yếu."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhạy cảm với các đánh giá tiêu cực về môi trường kinh doanh và rủi ro vĩ mô."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 05:19:40"
+  },
+  {
     "Title": "SSB: Thông báo giao dịch cổ phiếu của Người nội bộ Nguyễn Thị Thu Hương, Hoàng Mạnh Phú, Vũ Đình Khoán, Nguyễn Tuấn Cường - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR3FoQWVNZjhhbFJfRllJdk9xSnNwTmZnc2hyb3dJN3dMYmViYmMtbVVqVFdGYXpuc1B1alJnODBUa1RNRVZaQmFFcGswN3NsTG92MXQ0N0hkNWlyZG1QWUJCNGFNU3RPRG51MkpWeWNaU2dUZ3hkbnV1SktYSWoxd1dNWFlHanRJVVU4dElQNDU3TFpKazdRSkNLS1JLWlhHVHMxMkUwR3piNl9hQUdqZUJNUGRHVUZ1aFE0XzhQekI1NEhVVUJCaW9PZV9RNHRoa3V3ejM5ZElRQ0FYU0k0YzJQQ21FSUlYREhtai0xR0FZWG5IVTJaeEExeVl0WHQtazF3elIzaXM?oc=5",
@@ -16636,18 +16660,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-13 01:06:15"
-  },
-  {
-    "Title": "Một doanh nghiệp sắp \"phát\" 3.000 đồng/cp, hơn thập kỷ bền bỉ trả cổ tức tiền mặt cao - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2FLU2NLOS1GUGJES05zc0hPb2dGams3ZDlMQUYxaUhaaHd0UUE3Z2o5Zjh4QmtCc0JRMWZYOGNiSTNlWU1IM29yVnZscm1faTJ3X2V0WTJTSlZfbkpDNnZwVmFiRG5BZmoxdFRiYVRGbF9CYnh5b205TVpfM1hrMl80dkQwVDNPRGxnOFVLOExiT21YMVpFTW5XaWttQlR2andwZzdvQUlKT1pTTUZHX0RjYnBwdlJqajhfNFFn?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 17:03:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về việc chi trả cổ tức tiền mặt là hoạt động định kỳ của doanh nghiệp, không tạo ra thay đổi đột biến về cơ cấu tài chính hay triển vọng tăng trưởng kinh doanh.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Cổ phiếu giá trị. Việc trả cổ tức tiền mặt là kế hoạch đã biết, không tác động đến xu hướng dòng tiền đầu cơ ngắn hạn. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 01:06:05"
   }
 ]
