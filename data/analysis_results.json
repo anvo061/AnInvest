@@ -1,5 +1,58 @@
 ﻿[
   {
+    "Title": "Nghịch lý 11 triệu tỷ đồng \"trú ẩn\" ngân hàng: \"Van\" huy động mở to nhưng \"vòi\" tín dụng vẫn nghẽn",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//nghich-ly-11-trieu-ty-dong-tru-an-ngan-hang-van-huy-dong-mo-to-nhung-voi-tin-dung-van-nghen.html",
+    "PubDate": "Wed, 19 Aug 2026 00:00:10 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Dòng tiền ứ đọng tại ngân hàng cho thấy sức hấp thụ vốn của nền kinh tế yếu, gây áp lực lên tăng trưởng tín dụng và biên lãi thuần (NIM) của các ngân hàng thương mại.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Tín dụng nghẽn gây áp lực lên NIM và tăng trưởng lợi nhuận. Dòng tiền thông minh sẽ thận trọng với nhóm vốn hóa lớn ngành tài chính.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tăng trưởng tín dụng chậm ảnh hưởng trực tiếp đến thu nhập lãi thuần của ngân hàng đầu ngành."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 07:34:53"
+  },
+  {
+    "Title": "Trước ‘giờ G’, chứng khoán Việt thiếu tiền hay thiếu sức hút?",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//truoc-gio-g-chung-khoan-viet-thieu-tien-hay-thieu-suc-hut.html",
+    "PubDate": "Tue, 18 Aug 2026 23:58:57 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Tin tức phản ánh tâm lý thận trọng của nhà đầu tư trước kỳ rà soát nâng hạng, không thay đổi bản chất hoạt động kinh doanh của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Thanh khoản suy yếu và áp lực bán ròng từ khối ngoại tạo rủi ro điều chỉnh ngắn hạn. Dòng tiền thông minh rút lui chờ đợi, ưu tiên quản trị rủi ro thay vì giải ngân mới.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Cổ phiếu vốn hóa lớn, nhạy cảm với dòng vốn ngoại nhưng đang chịu áp lực bán ròng từ khối ngoại."
+      },
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Cổ phiếu trụ cột trong danh mục FTSE, biến động phụ thuộc vào kỳ vọng nâng hạng."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Đại diện nhóm chứng khoán, thanh khoản thị trường thấp ảnh hưởng trực tiếp đến doanh thu môi giới."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Cổ phiếu quốc dân thường xuyên bị khối ngoại bán ròng, gây áp lực lên giá trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 07:34:30"
+  },
+  {
     "Title": "Giá vàng hôm nay 19/8/2026: Suy giảm mạnh, SJC có thể tiếp tục hạ sâu",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/gia-vang-hom-nay-19-8-2026-suy-giam-manh-sjc-co-the-tiep-tuc-ha-sau-2546660.html",
@@ -16449,37 +16502,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-11 20:38:35"
-  },
-  {
-    "Title": "VinFast bán gần 21.800 ôtô điện tháng 7",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vinfast-ban-gan-21-800-oto-dien-thang-7-5107991.html",
-    "PubDate": "Tue, 11 Aug 2026 19:00:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Doanh số tăng trưởng mạnh của VinFast củng cố niềm tin vào hệ sinh thái Vingroup, thúc đẩy tâm lý tích cực cho nhóm cổ phiếu họ Vin và các doanh nghiệp phụ trợ trong chuỗi cung ứng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm họ Vin. Doanh số xe điện tăng trưởng hỗ trợ tâm lý thị trường, tuy nhiên chưa tác động trực tiếp đến biên lợi nhuận cốt lõi của VHM. Cần theo dõi thanh khoản VIC.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh số xe điện tăng trưởng trực tiếp củng cố sức khỏe tài chính và kỳ vọng tăng trưởng cho tập đoàn mẹ."
-      }
-    ],
-    "AnalyzedAt": "2026-08-11 20:38:18"
-  },
-  {
-    "Title": "Tổng công ty Đường sắt Việt Nam chuyển thành mô hình tập đoàn",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/tong-cong-ty-duong-sat-viet-nam-chuyen-thanh-mo-hinh-tap-doan-5107946.html",
-    "PubDate": "Tue, 11 Aug 2026 18:13:44 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc chuyển đổi mô hình quản lý của Tổng công ty Đường sắt Việt Nam là thay đổi về cơ cấu tổ chức hành chính, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vận tải. Đây là thay đổi cơ cấu hành chính nội bộ, không tạo ra đột biến về doanh thu hay lợi nhuận cho các mã niêm yết. Dòng tiền không phản ứng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-11 20:38:09"
   }
 ]
