@@ -2,21 +2,20 @@
 ⏱ Thời gian: 05:30 - 20/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Rủi ro thương mại:** Mỹ siết chặt quy định hàng hóa chuyển tải (transshipment) gây áp lực lớn lên ngành Dệt may -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm xuất khẩu dệt may (TNG, MSH, VGT) do lo ngại rủi ro pháp lý và chi phí tuân thủ tăng cao.
-- **Tâm lý vĩ mô:** Báo cáo từ Bloomberg cảnh báo rủi ro về sự bền vững tăng trưởng kinh tế Việt Nam -> **Tiêu cực** -> Gây áp lực tâm lý lên khối ngoại và nhóm cổ phiếu trụ (VCB, VHM), có thể dẫn đến xu hướng bán ròng thận trọng trong phiên sáng.
+- **Rủi ro thương mại & Tăng trưởng:** Mỹ siết chặt quy định hàng chuyển tải (transshipment) và các cảnh báo về rủi ro vĩ mô (Bloomberg) tạo áp lực bán ròng lên khối ngoại và nhóm xuất khẩu -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm dệt may (TNG, MSH, VGT) và gây áp lực lên nhóm Bluechip (VCB, VHM).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** HCM
-- **Động lực (FA):** Được chấp thuận kết nối giao dịch thị trường Carbon.
-- **Nhận định dòng tiền:** Điểm sáng hiếm hoi trong bối cảnh thị trường thận trọng. Việc tiên phong trong mảng tài chính xanh tạo kỳ vọng về doanh thu mới, có thể dẫn dòng tiền đầu cơ phân hóa vào mã này.
-- **Hành động:** Chú ý giải ngân (vùng hỗ trợ cứng), theo dõi phản ứng dòng tiền tại ngưỡng cản kỹ thuật.
+- **Mã: HCM**
+  - Động lực (FA): Được chấp thuận kết nối giao dịch thị trường carbon.
+  - Nhận định dòng tiền: Tin tức mang tính định hướng dài hạn, tạo câu chuyện riêng để giữ nhịp cho cổ phiếu trong bối cảnh thị trường chung đang chịu áp lực tiêu cực.
+  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc theo thị trường chung, ưu tiên tích lũy cho tầm nhìn trung hạn.
+- **Mã: FTS**
+  - Động lực (FA): Vay thêm hạn mức 1.500 tỷ đồng bổ sung nguồn vốn margin.
+  - Nhận định dòng tiền: Tăng cường năng lực cung ứng margin trực tiếp cải thiện doanh thu dịch vụ trong bối cảnh thanh khoản thị trường đang gặp khó khăn.
+  - Hành động: Tiếp tục quan sát phản ứng dòng tiền, ưu tiên giữ vị thế nếu giữ được vùng hỗ trợ kỹ thuật.
+- **Mã: TCH**
+  - Động lực (FA): Thông báo tăng vốn từ nguồn vốn chủ sở hữu.
+  - Nhận định dòng tiền: Tạo hiệu ứng tâm lý tích cực ngắn hạn cho nhà đầu tư cá nhân, giúp cải thiện thanh khoản giao dịch.
+  - Hành động: Tiếp tục quan sát kịch bản tăng giá ngắn hạn theo thông tin chia thưởng.
 
-- **Mã:** FTS
-- **Động lực (FA):** Kế hoạch vay hạn mức 1.500 tỷ đồng bổ sung nguồn vốn margin.
-- **Nhận định dòng tiền:** Tích cực trong trung hạn. Việc gia tăng đòn bẩy cho vay margin cho thấy tín hiệu tự tin về nhu cầu thị trường, hỗ trợ trực tiếp biên lợi nhuận lãi vay.
-- **Hành động:** Tiếp tục quan sát kịch bản dòng tiền của nhóm chứng khoán chung, ưu tiên nắm giữ.
-
-- **Mã:** TCH
-- **Động lực (FA):** Chốt quyền nhận cổ phiếu thưởng từ nguồn vốn chủ sở hữu.
-- **Nhận định dòng tiền:** Hỗ trợ giá ngắn hạn thông qua hiệu ứng tâm lý tăng thanh khoản.
-- **Hành động:** Tiếp tục quan sát (chờ điểm cân bằng sau khi chia nếu có biến động giá đột ngột).
+⚠️ **Lưu ý đặc biệt:** Tránh xa nhóm Dệt may (TNG, MSH, VGT) trong ngắn hạn do rủi ro pháp lý/thuế quan từ thị trường Mỹ.
