@@ -1,16 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:30
+⏱ Thời gian: 22:54 - 19/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kinh tế Việt Nam duy trì sức chống chịu và tiềm năng tăng trưởng tốt trước các biến động thương mại quốc tế (theo Bloomberg) -> **Tích cực** -> Củng cố tâm lý dòng vốn ngoại (FDI/FII) vào các nhóm ngành dẫn dắt thị trường (Ngân hàng, BĐS khu công nghiệp).
+- Các định chế quốc tế (Bloomberg) xác nhận sức chống chịu của kinh tế Việt Nam trước biến động thương mại toàn cầu -> [Tích cực] -> Dòng tiền ngoại có xu hướng ổn định, tập trung vào nhóm vốn hóa lớn (Bluechips/Ngân hàng) đón đầu câu chuyện nâng hạng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **CII**
-- Động lực (FA): Chốt quyền mua 67,2 triệu trái phiếu chuyển đổi.
-- Nhận định dòng tiền: Áp lực pha loãng cổ phiếu trong tương lai có thể tạo tâm lý thận trọng, triệt tiêu xung lực tăng giá ngắn hạn dù mục đích huy động vốn là để tái cơ cấu nợ.
-- Hành động: **Rủi ro vi phạm kịch bản** (Quan sát áp lực bán tại các vùng kháng cự kỹ thuật).
+- Mã: VPB
+- Động lực (FA): SSI Research nhận định là tâm điểm nhóm ngân hàng trong kịch bản nâng hạng thị trường.
+- Nhận định dòng tiền: Tin tức củng cố vị thế dẫn dắt dòng tiền của VPB nhờ thanh khoản và room ngoại.
+- Hành động: Chú ý giải ngân nếu xuất hiện điểm re-test hỗ trợ kỹ thuật; duy trì vị thế nếu đang nắm giữ.
 
-- Mã: **VPB**
-- Động lực (FA): Được SSI Research kỳ vọng là tâm điểm nhóm ngân hàng đón đầu làn sóng nâng hạng thị trường.
-- Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển vào các mã ngân hàng có thanh khoản lớn và room ngoại cao.
-- Hành động: **Chú ý giải ngân** nếu xuất hiện dòng tiền xác nhận đẩy giá vượt vùng tích lũy ngắn hạn.
+- Mã: CII
+- Động lực (FA): Chốt quyền mua 67,2 triệu trái phiếu chuyển đổi.
+- Nhận định dòng tiền: Áp lực pha loãng cổ phiếu trong tương lai có thể tạo rào cản tâm lý ngắn hạn, khiến dòng tiền thận trọng trong các nhịp tăng giá.
+- Hành động: Rủi ro vi phạm kịch bản tăng giá ngắn hạn; quan sát phản ứng cung cầu tại vùng hỗ trợ cứng.
+
+- Mã: PBC
+- Động lực (FA): Tổng giám đốc bị phạt và cấm giao dịch 18 tháng vì giao dịch "chui".
+- Nhận định dòng tiền: Rủi ro quản trị nghiêm trọng, gây hiệu ứng bán tháo và mất thanh khoản cục bộ.
+- Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, thoát vị thế nếu đang nắm giữ.
