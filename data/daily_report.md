@@ -1,24 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:30 ngày 19/08/2026
+⏱ Thời gian: 17:53 (19/08/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đề xuất đánh thuế BĐS "ngủ im":** Đánh giá tiêu cực đối với nhóm Bất động sản dân cư (NVL, DIG, DXG) do áp lực chi phí vốn trên quỹ đất tồn đọng và rủi ro pháp lý/tài chính.
-- **Duy trì mua ròng từ khối ngoại/tổ chức:** Đánh giá tích cực ngắn hạn; dòng tiền lớn đang chủ động nâng đỡ tại các vùng hỗ trợ kỹ thuật, giúp giảm thiểu rủi ro bán tháo.
-- **Thanh khoản thị trường thấp (èo uột):** Đánh giá tiêu cực đối với nhóm Chứng khoán (SSI, VND, VCI); doanh thu phí môi giới và margin bị bào mòn trực tiếp do thiếu dòng tiền lan tỏa.
-- **Hạ tầng quốc gia (Đường sắt Thủ Thiêm - Long Thành):** Đánh giá tích cực trung hạn cho nhóm Xây lắp hạ tầng & Vật liệu xây dựng.
+- Google dịch chuyển chuỗi cung ứng sang Việt Nam -> **Tích cực** -> Dòng tiền dự kiến dịch chuyển mạnh vào nhóm **Bất động sản Khu công nghiệp (KCN)**.
+- Trung Quốc đặt mục tiêu hạ tầng năng lượng mới 2030 -> **Tích cực** -> Dòng tiền chú ý nhóm **Xây lắp điện & Nguyên vật liệu**.
+- Đẩy mạnh tự chủ ngân sách đô thị (TP.HCM, Hà Nội) & Thẩm tra dự án đường sắt Thủ Thiêm - Long Thành -> **Tích cực** -> Nhóm **Đầu tư công & Hạ tầng** được củng cố động lực tăng trưởng trung hạn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVT**
-- Động lực (FA): Các hãng vận tải Trung Quốc thay đổi lộ trình, tránh các điểm nghẽn, làm tăng nhu cầu tàu chở dầu (tanker) quốc tế.
-- Nhận định dòng tiền: Hưởng lợi từ sự khan hiếm nguồn cung tàu quốc tế, hỗ trợ kỳ vọng cải thiện giá cước.
-- Hành động: Chú ý quan sát (theo dõi tín hiệu bứt phá khỏi nền giá hiện tại).
+- Mã: **KBC, SZC**
+- Động lực (FA): Hưởng lợi trực tiếp từ làn sóng dịch chuyển chuỗi cung ứng của Google từ Trung Quốc sang Việt Nam.
+- Nhận định dòng tiền: Tin tức đủ mạnh để kích hoạt tâm lý hưng phấn, dự báo thanh khoản nhóm KCN sẽ tăng đột biến trong các phiên tới.
+- Hành động: **Chú ý giải ngân** nếu giá test lại các vùng hỗ trợ kỹ thuật, ưu tiên vị thế có sẵn.
 
-- Mã: **VJC**
-- Động lực (FA): Mở rộng đường bay TP.HCM - Colombo.
-- Nhận định dòng tiền: Tạo tâm lý tích cực nhẹ, giúp tối ưu hóa hiệu suất đội bay trong bối cảnh du lịch phục hồi.
-- Hành động: Tiếp tục quan sát (đánh giá sức mạnh dòng tiền nội tại trước khi vào lệnh).
+- Mã: **SHB**
+- Động lực (FA): Năng lực chuyển đổi số trong tài chính hộ kinh doanh được ghi nhận tại sự kiện với Thống đốc NHNN.
+- Nhận định dòng tiền: Tạo bệ đỡ tâm lý tốt, giúp SHB thoát khỏi trạng thái tích lũy nếu dòng tiền lan tỏa sang nhóm Ngân hàng mid-cap.
+- Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng cản gần nhất.
 
-- Mã: **Nhóm Chứng khoán (SSI, VND, VCI)**
-- Động lực (FA): Thanh khoản thị trường suy giảm mạnh.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn do lợi nhuận cốt lõi bị đe dọa.
-- Hành động: Rủi ro vi phạm kịch bản (cần hạ tỷ trọng nếu mất các vùng hỗ trợ cứng).
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này).
