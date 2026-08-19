@@ -1,5 +1,37 @@
 ﻿[
   {
+    "Title": "HCM: Thông báo thực hiện quyền mua cổ phiếu của người nội bộ Lâm Hữu Hổ, Nguyễn Thị Hoàng Lan, Trịnh Hoài Giang - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeElNUl9oSXFEOFB3aWdfNUpyUTAxMUlrQTJJRjhMTHNEOVRfSDhNYkdIZUxBTkhta1NGQkx0bmpMZFVWNFZRVHpFUnJKNVlicWhGT3AtaEZuWWtLaTg0b3IwNkkxeUU3UmJRQmhvblZEZnBkSnZFRlVlSHQxTXNJS0t2R3Y1SzhOX1dJdHlWREQ0Zy1VbFNXWU1WcWdndEQ2X0ZGVnJ4YTNNd1ZzWTJIbW42OGtNNVRQalNrMng2cEg2OVdNWVJSeHlIZzJoNkM3QzFXQ2M3VllXMzNET3NZTkJkOVJGSUg3dEU3ZGJzN3dsMjY2VmF1c1l5N20?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 10:37:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động giao dịch quyền mua thông thường của người nội bộ, không làm thay đổi cơ bản hoạt động kinh doanh hay dòng tiền của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - HCM. Giao dịch quyền mua của người nội bộ là hoạt động quản trị bình thường, không tạo tín hiệu thay đổi xu hướng dòng tiền ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-19 23:18:09"
+  },
+  {
+    "Title": "FPTS muốn vay ngân hàng hạn mức 1.500 tỷ đồng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1h5YkdlOHNSNGJKYlk5Y0FJNHNtdHBpVnlJUjVuYjFZZm9vd1JaYU9UQVFfQ0l0MUQ5NFhIeU9IdlgzeGtXVVlkME85aENvTmV4WVFGZDNaVzBLeUY0ZXM4aGRCTmJlMm1ySWVFV0pmNTg0NmNJZkdfMW5vZEhRZHBMQUxXbUgxd2tF?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 04:16:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc tăng hạn mức vay giúp FPTS bổ sung nguồn vốn cho hoạt động cho vay margin, từ đó gia tăng doanh thu lãi từ dịch vụ chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - FTS. Việc mở rộng hạn mức vay cho thấy nhu cầu margin tăng cao, củng cố doanh thu lãi vay. Dòng tiền sẽ phản ứng tích cực với kỳ vọng tăng trưởng thị phần.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "FTS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng nguồn vốn cho vay margin giúp cải thiện doanh thu lãi vay và thị phần môi giới."
+      }
+    ],
+    "AnalyzedAt": "2026-08-19 23:17:54"
+  },
+  {
     "Title": "FUEMAVND: Kết thúc giao dịch hoán đổi ngày 18/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHFpWnE4bXNxMXh5RDgtVnY2eC1mZjlKOE44Wldic09iUzJxUEpEaGNaYnRxMmhaUDZia0ZYUzZ6Zzd2QnhGOWRoYXk4OXFCUm5vV2xuMEZzQXc1d1J1UEZaem5IUlE5UXNLM2JYX2pVZ3lVVGNQalZtcGw4UW1fbXNpQjBTUXU1U3pJN2kzcG03emlNcUlFXzY1dDA?oc=5",
@@ -16617,31 +16649,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-12 23:09:01"
-  },
-  {
-    "Title": "FUEKIV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXpYeExoSnZRX0l1aUF3RE1NdEpmYXdNa2R6dXEzcDNLTEN5Wko5UTd3TUVEdTRDcllHeXQzOWxWbnA3d3I1Qi1oZEpmMEVBT3lUcm44RG1TeHhxQnZtVkVqakhReTRPYlJ0cjhONTJpcXlHcDdOdEZ4eFQzNk9iMnZ5ZHM0aFhwVGo0ZUVva0k0amlSTTA2bDVBeUpTODQ4Q1YxalZzOUNnU1ZfQzQ0QWxTYkFlVWE2WF9QWkNOdnhzWkc2UlhodXIwMFRudEFfemdB?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 02:19:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục hoán đổi của quỹ ETF, không phản ánh thay đổi chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi cung cầu trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-12 23:08:46"
-  },
-  {
-    "Title": "HHV: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUN5WnVEUElaZ3VlNXpheGVZRGF1clFDRmtnRnd1cUx3em5jTE1yUFFOTjdWdnhSNUZnLTJoWDU4d1NhRkhlVlNVdWViY3lZREdOMW9iOWhsODJ6dnVvUnZ6aTVKbmFjV0IwMmlDSktSRzlieVV6VmdES1NNSndnZHZKcGowc2EzOEVuMXlXSEtRNWNKODJsUi05RmJUOWR0eXNUeGlZOFJROHJiNzNPYVprZFJSNXJDaVY3RDJCWXRkeUttYjgzSg?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 02:30:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - HHV. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay giá trị nội tại của cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-12 23:08:33"
   }
 ]
