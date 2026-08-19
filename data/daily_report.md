@@ -1,24 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 13:15 - 19/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 14:15
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Đầu tư công:** Khởi công dự án trọng điểm cao tốc Quy Nhơn - Pleiku với hạng mục kỹ thuật phức tạp -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm xây lắp hạ tầng và vật liệu xây dựng (Đá, thép, nhựa đường).
-- **Ngành Phân bón:** Cải thiện biên lợi nhuận ròng nhờ tối ưu hóa chi phí sản xuất (dù doanh thu đi ngang) -> **Tích cực** -> Củng cố sức khỏe tài chính doanh nghiệp trong môi trường kinh doanh khó khăn.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Kỳ vọng nâng hạng thị trường chứng khoán Việt Nam:** Tạo lực đẩy tâm lý cho nhóm Tài chính, Ngân hàng và vốn hóa lớn (Blue-chips) -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Chứng khoán (SSI) và Ngân hàng quốc doanh (VCB).
+- **Đẩy mạnh giải ngân đầu tư công (Khởi công cao tốc Quy Nhơn - Pleiku):** Thúc đẩy nhóm hạ tầng giao thông và vật liệu xây dựng -> **Tích cực** -> Dòng tiền chú ý: VCG, HHV, KSB.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** VCG, HHV
-    - **Động lực (FA):** Khởi công dự án cao tốc Quy Nhơn - Pleiku, trực tiếp gia tăng backlog khối lượng công việc.
-    - **Nhận định dòng tiền:** Hưởng lợi từ làn sóng giải ngân đầu tư công cuối năm; dòng tiền kỳ vọng sẽ luân chuyển sang nhóm này khi các dự án hạ tầng lớn được khởi động.
-    - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc tích lũy.
-- **Mã:** KSB
-    - **Động lực (FA):** Nhu cầu đá xây dựng tăng đột biến từ các công trình cao tốc đi qua khu vực miền Trung và Tây Nguyên.
-    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về doanh thu từ các dự án hạ tầng.
-    - **Hành động:** Tiếp tục quan sát điểm entry theo dòng tiền khối ngoại/tự doanh.
-- **Mã:** DPM, DCM
-    - **Động lực (FA):** Hiệu quả quản trị chi phí được cải thiện, biên lợi nhuận tăng trưởng.
-    - **Nhận định dòng tiền:** Khả năng thu hút dòng tiền trung hạn nhờ yếu tố "lợi nhuận thực" (bottom-line) dù doanh thu không tăng trưởng đột biến.
-    - **Hành động:** Tiếp tục quan sát.
-- **Mã:** CII
-    - **Động lực (FA):** Phát hành trái phiếu chuyển đổi (áp lực pha loãng).
-    - **Nhận định dòng tiền:** Áp lực cung tiềm năng trong tương lai, tâm lý nhà đầu tư ngắn hạn có thể tiêu cực.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng với vị thế nắm giữ ngắn hạn.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PNJ**
+  - Động lực (FA): Quỹ đầu tư quốc tế (quản lý 12.000 tỷ USD) trở thành cổ đông lớn, củng cố niềm tin tổ chức sau giai đoạn điều chỉnh sâu.
+  - Nhận định dòng tiền: Tạo vùng đệm tâm lý vững chắc, giảm áp lực bán tháo, thu hút dòng tiền đầu tư dài hạn.
+  - Hành động: Chú ý quan sát phản ứng giá tại vùng nền, ưu tiên nắm giữ cho mục tiêu hồi phục.
+- **Mã: MSN**
+  - Động lực (FA): Kết quả kinh doanh mảng Masan Consumer tăng trưởng tích cực, củng cố lợi nhuận hợp nhất.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng gia tăng vào các mã có câu chuyện lợi nhuận nội tại rõ ràng trong bối cảnh thị trường biến động.
+  - Hành động: Tiếp tục quan sát đà tăng trưởng dòng tiền.
+- **Mã: SSI, VCB**
+  - Động lực (FA): Hưởng lợi trực tiếp từ kỳ vọng nâng hạng thị trường.
+  - Nhận định dòng tiền: Dòng tiền thông minh sẽ sớm tìm đến nhóm vốn hóa lớn (Large-caps) và nhóm ngành tài chính để đón sóng nâng hạng.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc.
+- **Mã: VCG, HHV, KSB**
+  - Động lực (FA): Tin khởi công dự án hạ tầng trọng điểm cao tốc Quy Nhơn - Pleiku.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ hạ tầng thường phản ứng nhanh với tin khởi công, dự kiến khối lượng giao dịch gia tăng trong phiên.
+  - Hành động: Chú ý giải ngân theo đà (momentum).
