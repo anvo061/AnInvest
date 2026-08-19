@@ -1,27 +1,23 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:15 - 19/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 11:45 - 19/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đề xuất hợp nhất Luật Ngân sách và Luật Đầu tư công**: -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm **Xây dựng hạ tầng & Vật liệu xây dựng (VCG, HHV, LCG)** do kỳ vọng rút ngắn thủ tục giải ngân vốn.
-- **Căng thẳng địa chính trị Trung Đông (Iran/Mỹ)**: -> [Tiêu cực] -> Áp lực lên nhóm **Vận tải & Cảng biển (GMD, HAH)** do chi phí nhiên liệu tăng; nhóm **Năng lượng (PVD, PVS)** hưởng lợi từ giá dầu, nhưng nhóm **Điện/Khí (POW, GAS)** chịu rủi ro chi phí đầu vào và nợ ngoại tệ.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Địa chính trị & Năng lượng:** Căng thẳng tại eo biển Hormuz đẩy giá dầu lên đỉnh 3 tuần -> **Tiêu cực (với Logistics/Vận tải) / Tích cực (với nhóm Dầu khí thượng nguồn)** -> Dòng tiền dự kiến phân hóa mạnh, rút khỏi nhóm vận tải biển và đổ vào nhóm thăm dò, khai thác, lọc hóa dầu.
+- **Đầu tư công:** Đề xuất hợp nhất Luật Ngân sách và Luật Đầu tư công -> **Tích cực** -> Dòng tiền hướng vào nhóm xây lắp hạ tầng (VCG, HHV, LCG).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCG, HHV, LCG**
-- Động lực (FA): Chính phủ đề xuất hợp nhất luật để đẩy nhanh giải ngân đầu tư công.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ chuyển dịch mạnh vào nhóm này trong ngắn hạn để đón sóng chính sách.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá (breakout) với thanh khoản cải thiện.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD, PVS**
+    - **Động lực (FA):** Giá dầu thế giới tăng do rủi ro địa chính trị; kỳ vọng giá dịch vụ khoan và thăm dò tăng.
+    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có xu hướng gia tăng tại nhóm dầu khí để đón đầu sự kiện giá dầu neo cao.
+    - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận duy trì trong phiên.
+- **Mã: GMD, HAH**
+    - **Động lực (FA):** Giá dầu tăng làm tăng trực tiếp chi phí vận hành đội tàu/logistics. Dù có hỗ trợ từ FTA Hải Phòng, nhưng áp lực chi phí nhiên liệu sẽ gây sức ép lên biên lợi nhuận ngắn hạn.
+    - **Nhận định dòng tiền:** Rủi ro bị bán mạnh do lo ngại chi phí vận hành ăn mòn lợi nhuận.
+    - **Hành động:** Tiếp tục quan sát, rủi ro vi phạm kịch bản hỗ trợ.
+- **Mã: TCB**
+    - **Động lực (FA):** Hợp tác với Bệnh viện Bạch Mai, mở rộng hệ sinh thái CASA.
+    - **Nhận định dòng tiền:** Tín hiệu tích cực cho tăng trưởng bền vững, hỗ trợ tâm lý nhà đầu tư tổ chức.
+    - **Hành động:** Tiếp tục quan sát điểm cân bằng kỹ thuật.
 
-- Mã: **PVD**
-- Động lực (FA): Căng thẳng địa chính trị khiến giá dầu neo cao.
-- Nhận định dòng tiền: Hưởng lợi từ sự an toàn tương đối trong bối cảnh thị trường e ngại rủi ro; dòng tiền thượng nguồn dầu khí có thể duy trì trạng thái mạnh.
-- Hành động: Tiếp tục quan sát kịch bản bám sát xu hướng dầu thế giới.
-
-- Mã: **CDP**
-- Động lực (FA): Lãi quý II tăng nhưng nợ vay vượt 2.300 tỷ đồng và biến động nhân sự cấp cao.
-- Nhận định dòng tiền: Rủi ro bán tháo cao do bất ổn quản trị.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không gia tăng tỷ trọng.
-
-- Mã: **TCH**
-- Động lực (FA): Thông báo chốt danh sách tăng vốn từ nguồn vốn chủ sở hữu.
-- Nhận định dòng tiền: Phản ứng tích cực về mặt tâm lý, kỳ vọng tăng thanh khoản ngắn hạn.
-- Hành động: Chú ý giải ngân theo nhịp điều chỉnh kỹ thuật trước ngày đăng ký cuối cùng.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR:** Dữ liệu giá dầu tăng là yếu tố "Support" mạnh cho biên lợi nhuận lọc dầu. Với vị thế mục tiêu trung hạn (tháng 3/2026 đã qua), hiện tại cần giữ vị thế nhưng thiết lập chặn lãi (trailing stop) chặt chẽ, tận dụng nhịp hưng phấn của giá dầu để hiện thực hóa một phần lợi nhuận nếu cổ phiếu tiệm cận vùng kháng cự kỹ thuật.
