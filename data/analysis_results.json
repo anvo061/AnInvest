@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Các phố kim cương rơi vào cảnh chưa từng thấy, tiệm mở cửa đón gió",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/hang-loat-cua-hang-kim-cuong-o-tphcm-van-dong-cua-noi-mo-lai-vang-khach-2547000.html",
+    "PubDate": "Thu, 20 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Sức mua hàng xa xỉ suy giảm mạnh phản ánh tâm lý thắt chặt chi tiêu của người tiêu dùng, gây áp lực lên doanh thu các doanh nghiệp bán lẻ trang sức cao cấp.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Bán lẻ trang sức. Sức cầu hàng xa xỉ suy yếu kéo dài gây áp lực lên biên lợi nhuận. Dòng tiền thông minh sẽ tránh xa các mã bán lẻ trang sức trong ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sức mua trang sức cao cấp suy giảm ảnh hưởng trực tiếp đến doanh thu và tăng trưởng của PNJ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 06:56:16"
+  },
+  {
     "Title": "Tin tức sáng 20-8: Lãi suất liên ngân hàng giảm mạnh ở kỳ hạn ngắn",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/tin-tuc-sang-20-8-lai-suat-lien-ngan-hang-giam-manh-o-ky-han-ngan-100260819194601807.htm",
@@ -16663,18 +16682,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-13 02:18:11"
-  },
-  {
-    "Title": "FUEVN50G: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdW9nby1KUl9KUHl6MTVFalFrSEtxYk9rNE1laDFhR0s2Z0oxYVk1Wkd6bm44WFpRVUFmTjJkRXAwU0toQm00YXl6a3FfSlhkVnh6aVExT0prZ2F4ZG1VLTYzTjQ2bHBoc0lyQmh2UUpSTG9BZldlY2pmTlJnWmVKUDN1ZkpGY2lORWNDY245SEQzU2hGckdfUF91Ry0tQTNqNmloOUtnTW1KenRvTXBWV1I4N19DWUVIVmtpMEFEUklVbmFVcDRRVTk4b2ZnRzR3Z2J3?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 02:13:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về hoạt động kinh doanh hay yếu tố vĩ mô tác động đến giá trị nội tại của các doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới hay thay đổi xu hướng giá của các mã cổ phiếu trong danh mục.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 02:18:01"
   }
 ]
