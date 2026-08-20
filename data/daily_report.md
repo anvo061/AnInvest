@@ -1,33 +1,28 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 22:55
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 23:45 - 20/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Căng thẳng Biển Đỏ leo thang:** Houthis tấn công tàu Saudi -> **Tiêu cực** -> Áp lực lên chi phí logistics, dự báo giá cước vận tải biển tăng, gây áp lực chi phí đầu vào cho nhóm xuất nhập khẩu.
-- **Thỏa thuận kiểm soát chuyển tải hàng hóa với Mỹ:** Phía Việt Nam chủ động giải quyết quan ngại -> **Tích cực** -> Giảm thiểu rủi ro thuế phòng vệ thương mại cho nhóm xuất khẩu sang Mỹ.
-- **Giá dầu duy trì neo cao do địa chính trị:** Mỹ duy trì áp lực lên Iran -> **Tích cực** -> Dòng tiền ưu tiên nhóm dầu khí thượng nguồn (PVD, PVS).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Căng thẳng địa chính trị (Trung Đông & Biển Đỏ) leo thang:** Dẫn đến áp lực lên giá dầu và cước vận tải biển toàn cầu -> [Tác động: Trái chiều - Tích cực cho nhóm thượng nguồn Dầu khí, tiêu cực cho nhóm xuất khẩu chịu áp lực chi phí logistics] -> [Dòng tiền hướng vào: PVD, PVS].
+- **Chủ động giải quyết quan ngại chuyển tải hàng hóa với Mỹ:** Chính phủ khẳng định giải pháp xây dựng quan hệ thương mại bền vững -> [Tác động: Tích cực] -> [Dòng tiền hướng vào: Nhóm xuất khẩu VHC, TNG].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-    - **Động lực (FA):** Căng thẳng Trung Đông và lệnh phong tỏa hàng hải duy trì giá dầu ở mức cao, tăng nhu cầu và giá thuê giàn khoan.
-    - **Nhận định dòng tiền:** Hưởng lợi từ tâm lý phòng thủ và kỳ vọng lợi nhuận biên tăng.
-    - **Hành động:** Chú ý giải ngân (tận dụng rung lắc nếu có).
-- **Mã: VHC, TNG**
-    - **Động lực (FA):** Chủ động giải quyết quan ngại chuyển tải hàng hóa giúp ổn định đơn hàng tại thị trường Mỹ.
-    - **Nhận định dòng tiền:** Hỗ trợ tâm lý tích cực, giảm áp lực bán tháo do rủi ro pháp lý.
-    - **Hành động:** Tiếp tục quan sát đà hồi phục.
-- **Mã: VHM**
-    - **Động lực (FA):** Đề xuất luật hóa cơ chế phát triển khu đô thị lấn biển (100.000 tỷ).
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ dài hạn có thể chú ý, nhưng cần theo dõi sát diễn biến thông qua các phiên tới.
-    - **Hành động:** Tiếp tục quan sát phản ứng tại các vùng kháng cự kỹ thuật.
-- **Mã: VCG**
-    - **Động lực (FA):** Vướng mắc tại dự án Long Thành (tiến độ, giải phóng mặt bằng).
-    - **Nhận định dòng tiền:** Tác động tiêu cực lên kỳ vọng ghi nhận doanh thu ngắn hạn.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng với vị thế mua mới.
-- **Mã: SSI**
-    - **Động lực (FA):** Lãnh đạo đăng ký mua vào 5 triệu cổ phiếu trước thềm nâng hạng.
-    - **Nhận định dòng tiền:** Tín hiệu dẫn dắt tích cực cho nhóm chứng khoán.
-    - **Hành động:** Chú ý giải ngân theo dòng tiền dẫn dắt.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: MSN**
-    - **Động lực (FA):** WinCommerce tăng trưởng vượt kế hoạch.
-    - **Nhận định dòng tiền:** Củng cố kỳ vọng cơ bản cho tập đoàn.
-    - **Hành động:** Tiếp tục quan sát duy trì vị thế.
+    - Động lực (FA): WinCommerce đạt kết quả kinh doanh vượt kỳ vọng nửa đầu 2026.
+    - Nhận định dòng tiền: Tin tức củng cố nền tảng lợi nhuận cho tập đoàn, hỗ trợ lực cầu ổn định.
+    - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế khi có tín hiệu dòng tiền khối ngoại ủng hộ.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu duy trì đà tăng do phong tỏa hàng hải tại Trung Đông và lệnh trừng phạt từ Mỹ.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng với giá dầu Brent.
+    - Hành động: Chú ý giải ngân nếu bám sát kịch bản giá dầu ổn định trên vùng hỗ trợ tâm lý.
+- **Mã: VHM**
+    - Động lực (FA): Đề xuất luật hóa cơ chế khu đô thị lấn biển.
+    - Nhận định dòng tiền: Tạo kỳ vọng về "game" thay đổi pháp lý dài hạn, thúc đẩy dòng tiền đầu cơ tìm kiếm cơ hội ở các đại dự án ven biển.
+    - Hành động: Tiếp tục quan sát biến động thanh khoản, tránh "FOMO" khi chưa có thông tin nghị định hướng dẫn cụ thể.
+- **Mã: SSI**
+    - Động lực (FA): Lãnh đạo đăng ký mua 5 triệu cổ phiếu trước thềm nâng hạng.
+    - Nhận định dòng tiền: Củng cố niềm tin cho nhà đầu tư cá nhân, tạo vùng đệm giá hỗ trợ mạnh.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật ngắn hạn.
+- **Mã: VCG**
+    - Động lực (FA): Áp lực tiến độ tại dự án Long Thành.
+    - Nhận định dòng tiền: Tiêu cực trong ngắn hạn, dòng tiền có khả năng rút lui để trú ẩn sang các nhóm ngành phòng thủ.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cắt giảm nếu thủng vùng hỗ trợ nền gần nhất.
