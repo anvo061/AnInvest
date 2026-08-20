@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Vietnam economy seen growing 8% in 2022, beating official target - govt - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE03ODg2WXdrLVRyaldla3lKWnNkSE9wN2ExOHhRRDhzaGQ4ZlZrWHFKT3J3Mndmd3ZuVW9TbXNycEVieXItZGxZT2o3c1hiNTBFYVA2NlhFSEZaYkFFQnFSYXQyZkJ1MnJjTVBRdldCNE5MWGZXZEFQYjBJUW5iMFpMMXU2aDNTQ21wUlpYYVI3VkJzaDJFMU5QR1A0eEpBaktjRjhxNG9YbkViTi1XZlBETQ?oc=5",
+    "PubDate": "Tue, 11 Oct 2022 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Tăng trưởng GDP vượt kỳ vọng củng cố niềm tin nhà đầu tư vào nền tảng vĩ mô, thúc đẩy dòng vốn ngoại và cải thiện triển vọng lợi nhuận các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. GDP tăng trưởng vượt kỳ vọng củng cố nền tảng vĩ mô. Dòng tiền ưu tiên nhóm Ngân hàng (VCB, TCB) nhờ kỳ vọng tăng trưởng tín dụng và cải thiện chất lượng tài sản.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng kinh tế mạnh thúc đẩy nhu cầu tín dụng và cải thiện chất lượng tài sản ngân hàng."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ sự phục hồi của các ngành kinh tế trọng điểm và nhu cầu vay vốn doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 04:39:38"
+  },
+  {
     "Title": "Novaland đặt mục tiêu bàn giao gần 2.300 căn nhà trong nửa cuối năm",
     "Source": "VnExpress Kinh Doanh",
     "Link": "https://vnexpress.net/novaland-dat-muc-tieu-ban-giao-gan-2-300-can-nha-trong-nua-cuoi-nam-5111458.html",
@@ -16639,39 +16663,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-14 06:26:16"
-  },
-  {
-    "Title": "Tin tức sáng 14-8: Lãi suất liên ngân hàng đồng loạt giảm, qua đêm về 4,5%/năm",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tin-tuc-sang-14-8-lai-suat-lien-ngan-hang-dong-loat-giam-qua-dem-ve-45-nam-100260813202723089.htm",
-    "PubDate": "8/14/2026 4:57:00 AM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Lãi suất liên ngân hàng hạ nhiệt giúp giảm áp lực chi phí vốn cho các ngân hàng thương mại, cải thiện thanh khoản hệ thống và tạo dư địa cho lãi suất cho vay giảm, hỗ trợ dòng tiền vào thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng, Chứng khoán. Lãi suất liên ngân hàng hạ nhiệt giảm áp lực chi phí vốn, cải thiện thanh khoản hệ thống và hỗ trợ NIM ngân hàng cùng dư địa margin cho công ty chứng khoán.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lãi suất giảm thúc đẩy nhu cầu vay margin, tăng doanh thu lãi vay và phí môi giới."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí vốn rẻ hơn giúp tối ưu hóa lợi nhuận từ hoạt động cho vay margin."
-      },
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng có chi phí vốn thấp nhất hệ thống, hưởng lợi từ thanh khoản dồi dào để mở rộng tín dụng."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cải thiện biên lãi thuần (NIM) nhờ chi phí vốn đầu vào giảm nhanh."
-      }
-    ],
-    "AnalyzedAt": "2026-08-14 06:25:07"
   }
 ]
