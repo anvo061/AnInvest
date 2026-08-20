@@ -1,22 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:30 - 20/08/2026
+⏱ Thời gian: 18:10
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lợi suất trái phiếu toàn cầu giảm:** Dòng tiền khối ngoại kỳ vọng bớt áp lực tỷ giá, hỗ trợ thanh khoản nhóm Tài chính - Chứng khoán. -> [Tích cực] -> Nhóm ngành: Chứng khoán (SSI, VND), Ngân hàng (VCB).
-- **Phê duyệt 600 mã số vùng trồng sầu riêng:** Mở rộng hạn ngạch xuất khẩu chính ngạch sang Trung Quốc. -> [Tích cực] -> Nhóm ngành: Nông nghiệp (HAG).
-- **Triển khai hạ tầng đường sắt Thủ Thiêm - Long Thành:** Đẩy mạnh giải ngân đầu tư công giai đoạn cuối năm. -> [Tích cực] -> Nhóm ngành: Xây lắp hạ tầng (VCG, HHV), Bất động sản hạ tầng (CII).
-- **Căng thẳng địa chính trị Trung Đông (Rủi ro bomb/Iran):** Áp lực tâm lý lên thị trường tài chính toàn cầu. -> [Tiêu cực] -> Nhóm ngành: Lưu ý rủi ro chung cho toàn thị trường.
+- Chính sách thuế & Năng lượng: Đề xuất giảm 30% thuế cho SMEs (Tích cực) đối chọi với việc tăng giá xăng dầu (Tiêu cực - chi phí đẩy) -> Đánh giá: Trung lập, áp lực chi phí sẽ bào mòn biên lợi nhuận nhóm vận tải/sản xuất nhưng được bù đắp bởi cầu nội địa nhờ ưu đãi thuế -> Dòng tiền ưu tiên: Nhóm Tiêu dùng & Bán lẻ.
+- Tín hiệu dòng vốn toàn cầu: Lợi suất TPCP Mỹ giảm & Trung Quốc nới lỏng giao thương (thị thực & xuất khẩu nông sản) -> Đánh giá: Tích cực -> Dòng tiền hướng vào: Nhóm Chứng khoán (SSI, VND) và Nông nghiệp (HAG).
+- Đầu tư công: Phê duyệt quy mô hạ tầng Thủ Thiêm - Long Thành -> Đánh giá: Tích cực dài hạn -> Dòng tiền tập trung: Nhóm hạ tầng (VCG, HHV, CII).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HAG**
-    - Động lực (FA): Được hưởng lợi trực tiếp từ việc gia tăng diện tích và mã số vùng trồng xuất khẩu sầu riêng chính ngạch.
-    - Nhận định dòng tiền: Tin tức bổ trợ cho đà tăng trưởng doanh thu, có thể kích hoạt dòng tiền đầu cơ nhóm Nông nghiệp.
-    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần nhất.
-- **Mã: VCG, HHV, CII**
-    - Động lực (FA): Dự án đường sắt Thủ Thiêm - Long Thành là động lực tăng trưởng khối lượng công việc thực tế (Backlog).
-    - Nhận định dòng tiền: Nhóm cổ phiếu hạ tầng thường có tính chu kỳ cao khi có tin dự án trọng điểm, dòng tiền sẽ luân chuyển mạnh vào nhóm này.
-    - Hành động: Tiếp tục quan sát tín hiệu volume, nếu volume đột biến cần theo sát diễn biến giá.
-- **Mã: SSI, VND**
-    - Động lực (FA): Lợi suất trái phiếu giảm là "bệ đỡ" cho margin và doanh thu môi giới.
-    - Nhận định dòng tiền: Phản ứng nhanh với tin tức vĩ mô, củng cố vị thế cho nhóm ngành tài chính.
-    - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ theo xu hướng.
+- Mã: HAG
+  - Động lực (FA): Được hưởng lợi từ việc Trung Quốc cấp thêm gần 600 mã số vùng trồng sầu riêng.
+  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp biên lợi nhuận mảng xuất khẩu, tạo hiệu ứng "bệ phóng" tâm lý cho cổ phiếu.
+  - Hành động: Chú ý giải ngân (Canh nhịp rung lắc kỹ thuật).
+- Mã: VJC
+  - Động lực (FA): Tự chủ bảo dưỡng tàu bay (giảm chi phí thuê ngoài).
+  - Nhận định dòng tiền: Củng cố nội lực dài hạn, giảm áp lực biên lợi nhuận khi giá xăng dầu tăng.
+  - Hành động: Tiếp tục quan sát (Chờ điểm xác nhận dòng tiền vào vùng hỗ trợ).
+- Mã: GMD
+  - Động lực (FA): Giá xăng dầu tăng mạnh (+1.300đ/lít).
+  - Nhận định dòng tiền: Áp lực trực tiếp lên biên lợi nhuận khai thác cảng và vận tải.
+  - Hành động: Rủi ro vi phạm kịch bản (Thận trọng với các vị thế mua mới ngắn hạn).
+- Mã: PLX
+  - Động lực (FA): Giá bán lẻ xăng dầu tăng.
+  - Nhận định dòng tiền: Hưởng lợi từ việc giải phóng hàng tồn kho giá thấp, cải thiện biên lợi nhuận ngắn hạn.
+  - Hành động: Chú ý giải ngân (Bám sát biến động biên độ giá dầu).
