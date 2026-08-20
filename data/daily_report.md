@@ -1,28 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15 ngày 20/08/2026
+⏱ Thời gian: 19:30 - 20/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Iran - Mỹ leo thang:** Tác động tiêu cực đến tâm lý thị trường toàn cầu do rủi ro lạm phát, giá dầu thế giới tăng mạnh -> **Dòng tiền dịch chuyển:** Nhóm Dầu khí (PVS, PVD) hưởng lợi từ giá dầu, trong khi nhóm Logistics/Vận tải (GMD) chịu áp lực chi phí.
-- **Duy trì đà giải ngân nội địa:** Sự phối hợp giữa đầu tư công (dự án hạ tầng miền Trung 20.000 tỉ), chính sách FDI (liên kết chuỗi cung ứng) và khối tự doanh mua ròng đón đầu FTSE Russell -> **Đánh giá:** Tích cực cho nhóm vốn hóa lớn (VN30) và xây lắp hạ tầng.
+- **Căng thẳng địa chính trị Iran - Mỹ leo thang:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền hướng vào: Nhóm dầu khí thượng nguồn (PVD, PVS) do giá dầu tăng; nhóm lọc dầu (BSR) chịu áp lực chi phí đầu vào].
+- **Thúc đẩy liên kết FDI & nội địa:** -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào: Khu công nghiệp (KBC, GVR, SZC) và Logistics (GMD)].
+- **Tự doanh gom hàng đón đầu kỳ FTSE Russell:** -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào: Nhóm Bluechip/VN30 (HPG, VHM, VCB)].
+- **Dự án đại lộ Huế 20.000 tỷ đồng:** -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào: Nhóm xây lắp hạ tầng (VCG, HHV)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVS, PVD**
-    - Động lực (FA): Giá dầu thế giới tăng do căng thẳng Iran - Mỹ.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ đổ vào nhóm dầu khí thượng nguồn để "trú ẩn" và đón sóng giá dầu.
-    - Hành động: Chú ý giải ngân nếu có nhịp rung lắc đầu phiên, bám sát ngưỡng kháng cự kỹ thuật.
-- **Mã: VCG, HHV**
-    - Động lực (FA): Tin dự án đại lộ Bắc Nam 20.000 tỉ tại Huế.
-    - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp cho triển vọng khối lượng công việc, củng cố đà tăng của dòng tiền vào nhóm đầu tư công.
-    - Hành động: Tiếp tục quan sát vị thế, gia tăng tỷ trọng nếu giá vượt vùng nền với thanh khoản xác nhận.
-- **Mã: HPG, VHM, VCB**
-    - Động lực (FA): Hoạt động mua ròng của khối tự doanh và kỳ vọng cơ cấu quỹ FTSE Russell.
-    - Nhận định dòng tiền: Dòng tiền thông minh tập trung "gom hàng" vốn hóa lớn, giữ nhịp chỉ số.
-    - Hành động: Tiếp tục nắm giữ, ưu tiên tích lũy khi có điều chỉnh.
-- **Mã: GMD**
-    - Động lực (FA): Giá xăng dầu tăng mạnh gây áp lực chi phí vận tải + hưởng lợi từ sóng FDI.
-    - Nhận định dòng tiền: Tác động đa chiều, dòng tiền có thể phân hóa.
-    - Hành động: Rủi ro vi phạm kịch bản biên lợi nhuận, theo dõi chặt chẽ áp lực bán ở vùng giá cao.
 - **Mã: PNJ**
-    - Động lực (FA): Kỳ vọng từ cuộc họp bất thường.
-    - Nhận định dòng tiền: Kỳ vọng tích cực thu hút dòng tiền ngắn hạn.
-    - Hành động: Quan sát phản ứng dòng tiền tại phiên họp, tránh đua lệnh quá đà.
+  - Động lực (FA): Quỹ ngoại gia tăng tỷ trọng, củng cố vị thế ngắn hạn.
+  - Nhận định dòng tiền: Tạo hiệu ứng tâm lý tích cực, kỳ vọng dòng tiền khối ngoại quay lại nhóm bán lẻ.
+  - Hành động: **Chú ý giải ngân** nếu giá duy trì trên các ngưỡng hỗ trợ kỹ thuật gần nhất.
+- **Mã: HHV**
+  - Động lực (FA): Tin tiêu cực từ việc rà soát thu phí VETC đối lập với tin tích cực từ dự án đại lộ Huế.
+  - Nhận định dòng tiền: Dòng tiền có thể phân hóa. Rủi ro ngắn hạn từ mảng vận hành thu phí làm lu mờ kỳ vọng xây lắp.
+  - Hành động: **Tiếp tục quan sát** phản ứng giá tại các vùng hỗ trợ cứng, tránh FOMO tin đầu tư công.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Nhận định: Áp lực giá dầu thô tăng từ căng thẳng Iran đang trực tiếp bào mòn biên lợi nhuận lọc dầu. Với mục tiêu trung hạn từ tháng 3/2026, đây là thời điểm cần cân nhắc giảm tỷ trọng để bảo toàn vốn trước rủi ro chi phí đầu vào tăng đột biến, chờ điểm cân bằng mới.
