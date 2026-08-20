@@ -1,27 +1,33 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 22:45 - 20/08/2026
+⏱ **Thời gian:** 22:55
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Địa chính trị & Xuất khẩu:** Căng thẳng Trung Đông (giá dầu tăng) kết hợp với các cam kết chủ động giải quyết vướng mắc pháp lý về chuyển tải hàng hóa với Mỹ và hỗ trợ tín dụng xuất khẩu -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Dầu khí (Thượng nguồn)** và **Xuất khẩu (Thủy sản, Dệt may)**.
+- **Căng thẳng Biển Đỏ leo thang:** Houthis tấn công tàu Saudi -> **Tiêu cực** -> Áp lực lên chi phí logistics, dự báo giá cước vận tải biển tăng, gây áp lực chi phí đầu vào cho nhóm xuất nhập khẩu.
+- **Thỏa thuận kiểm soát chuyển tải hàng hóa với Mỹ:** Phía Việt Nam chủ động giải quyết quan ngại -> **Tích cực** -> Giảm thiểu rủi ro thuế phòng vệ thương mại cho nhóm xuất khẩu sang Mỹ.
+- **Giá dầu duy trì neo cao do địa chính trị:** Mỹ duy trì áp lực lên Iran -> **Tích cực** -> Dòng tiền ưu tiên nhóm dầu khí thượng nguồn (PVD, PVS).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **PVD**
-  - **Động lực (FA):** Căng thẳng địa chính trị leo thang tại Iran làm gián đoạn nguồn cung, giá dầu neo cao.
-  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về doanh thu từ nhu cầu thuê giàn khoan tăng cao.
-  - **Hành động:** **Chú ý giải ngân** nếu giá test lại nền hỗ trợ ngắn hạn.
-- **Mã:** **SSI**
-  - **Động lực (FA):** Lãnh đạo đăng ký mua 5 triệu cổ phiếu trước thềm nâng hạng.
-  - **Nhận định dòng tiền:** Tạo niềm tin cho nhà đầu tư cá nhân, củng cố đà tăng trong ngắn hạn.
-  - **Hành động:** **Tiếp tục quan sát** phản ứng giá tại vùng đỉnh cũ.
-- **Mã:** **MSN**
-  - **Động lực (FA):** WinCommerce vượt kế hoạch kinh doanh nửa đầu 2026.
-  - **Nhận định dòng tiền:** Cải thiện định giá tập đoàn, thu hút dòng tiền trung hạn.
-  - **Hành động:** **Chú ý giải ngân** quanh vùng giá tích lũy.
-- **Mã:** **VHM**
-  - **Động lực (FA):** Đề xuất luật hóa cơ chế lấn biển (100.000 tỉ đồng) khơi thông pháp lý.
-  - **Nhận định dòng tiền:** Kỳ vọng nhóm BĐS vốn hóa lớn được hưởng lợi từ việc giải phóng quỹ đất.
-  - **Hành động:** **Tiếp tục quan sát** dòng tiền khối ngoại.
-- **Mã:** **VCG**
-  - **Động lực (FA):** Vướng mắc tại dự án Long Thành gây áp lực tiến độ.
-  - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do rủi ro chậm trễ ghi nhận doanh thu.
-  - **Hành động:** **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
+- **Mã: PVD**
+    - **Động lực (FA):** Căng thẳng Trung Đông và lệnh phong tỏa hàng hải duy trì giá dầu ở mức cao, tăng nhu cầu và giá thuê giàn khoan.
+    - **Nhận định dòng tiền:** Hưởng lợi từ tâm lý phòng thủ và kỳ vọng lợi nhuận biên tăng.
+    - **Hành động:** Chú ý giải ngân (tận dụng rung lắc nếu có).
+- **Mã: VHC, TNG**
+    - **Động lực (FA):** Chủ động giải quyết quan ngại chuyển tải hàng hóa giúp ổn định đơn hàng tại thị trường Mỹ.
+    - **Nhận định dòng tiền:** Hỗ trợ tâm lý tích cực, giảm áp lực bán tháo do rủi ro pháp lý.
+    - **Hành động:** Tiếp tục quan sát đà hồi phục.
+- **Mã: VHM**
+    - **Động lực (FA):** Đề xuất luật hóa cơ chế phát triển khu đô thị lấn biển (100.000 tỷ).
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ dài hạn có thể chú ý, nhưng cần theo dõi sát diễn biến thông qua các phiên tới.
+    - **Hành động:** Tiếp tục quan sát phản ứng tại các vùng kháng cự kỹ thuật.
+- **Mã: VCG**
+    - **Động lực (FA):** Vướng mắc tại dự án Long Thành (tiến độ, giải phóng mặt bằng).
+    - **Nhận định dòng tiền:** Tác động tiêu cực lên kỳ vọng ghi nhận doanh thu ngắn hạn.
+    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng với vị thế mua mới.
+- **Mã: SSI**
+    - **Động lực (FA):** Lãnh đạo đăng ký mua vào 5 triệu cổ phiếu trước thềm nâng hạng.
+    - **Nhận định dòng tiền:** Tín hiệu dẫn dắt tích cực cho nhóm chứng khoán.
+    - **Hành động:** Chú ý giải ngân theo dòng tiền dẫn dắt.
+- **Mã: MSN**
+    - **Động lực (FA):** WinCommerce tăng trưởng vượt kế hoạch.
+    - **Nhận định dòng tiền:** Củng cố kỳ vọng cơ bản cho tập đoàn.
+    - **Hành động:** Tiếp tục quan sát duy trì vị thế.
