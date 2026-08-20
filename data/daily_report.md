@@ -2,20 +2,22 @@
 ⏱ Thời gian: 06:15 - 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **GDP dự báo tăng trưởng 8%:** Vượt kỳ vọng chính thức, củng cố nền tảng vĩ mô vững chắc -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, TCB)** vốn nhạy với sức khỏe tăng trưởng tín dụng và chất lượng tài sản.
-- **Thoái vốn nhà nước tại doanh nghiệp tỷ USD:** Đẩy mạnh cơ cấu sở hữu -> **Tích cực** -> Dòng tiền đầu cơ và khối ngoại tập trung vào các mã Bluechip có lộ trình thoái vốn, tăng thanh khoản thị trường.
-- **Căng thẳng địa chính trị Biển Đỏ & Nga-Ukraine:** Nguy cơ gián đoạn logistics và giá dầu/lương thực -> **Tiêu cực/Trung lập** -> Cần theo dõi sát áp lực chi phí vận tải lên nhóm Xuất khẩu.
+- **Tăng trưởng GDP dự báo đạt 8%:** -> [Đánh giá tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm Ngân hàng (VCB, TCB) nhờ kỳ vọng tăng trưởng tín dụng và cải thiện chất lượng tài sản].
+- **Chủ trương thoái vốn nhà nước tại doanh nghiệp vốn hóa lớn:** -> [Đánh giá tác động: Tích cực] -> [Dòng tiền tập trung vào nhóm cổ phiếu Bluechip có tỷ lệ sở hữu nhà nước cao, kỳ vọng cải thiện hiệu quả quản trị].
+- **Căng thẳng địa chính trị (Biển Đỏ/Ukraine):** -> [Đánh giá tác động: Tiêu cực/Trung lập] -> [Gia tăng áp lực lên chi phí logistics, cần thận trọng với nhóm xuất nhập khẩu chịu ảnh hưởng cước phí vận tải].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL**
-    - Động lực (FA): Mục tiêu bàn giao 2.300 căn nhà trong nửa cuối năm.
-    - Nhận định dòng tiền: Tin tức trực diện giúp giải tỏa tâm lý lo ngại về dòng tiền dự án; khả năng hút dòng tiền bắt đáy ngắn hạn.
-    - Hành động: **Chú ý giải ngân** theo kịch bản quản trị rủi ro chặt chẽ.
-- **Mã: SSI**
-    - Động lực (FA): Người nội bộ (em trai lãnh đạo) đăng ký mua 100 tỷ đồng cổ phiếu.
-    - Nhận định dòng tiền: Tín hiệu nội bộ tự tin hỗ trợ vùng giá nền, củng cố động lực cho nhóm chứng khoán đang hưởng lợi từ kỳ vọng nâng hạng.
-    - Hành động: **Tiếp tục quan sát** khối lượng khớp lệnh thực tế tại vùng hỗ trợ.
-- **Mã: DBC, BAF**
-    - Động lực (FA): Giá thịt heo giảm, sức mua yếu.
-    - Nhận định dòng tiền: Áp lực biên lợi nhuận thu hẹp có thể kích hoạt làn sóng bán tháo kỹ thuật.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên bảo toàn vốn.
+- Mã: **SSI**
+- Động lực (FA): Người nội bộ (em trai lãnh đạo) đăng ký mua 100 tỷ đồng cổ phiếu.
+- Nhận định dòng tiền: Tạo tín hiệu củng cố niềm tin cho nhà đầu tư cá nhân, hỗ trợ đà tăng ngắn hạn.
+- Hành động: Chú ý giải ngân theo vùng hỗ trợ kỹ thuật hiện tại.
+
+- Mã: **NVL**
+- Động lực (FA): Mục tiêu bàn giao 2.300 căn nhà trong nửa cuối năm 2026.
+- Nhận định dòng tiền: Cải thiện bảng cân đối kế toán, kỳ vọng dòng tiền kinh doanh khả quan hơn, giảm áp lực nợ vay.
+- Hành động: Tiếp tục quan sát phản ứng tại vùng giá bàn giao/ghi nhận doanh thu.
+
+- Mã: **DBC / BAF**
+- Động lực (FA): Giá thịt heo giảm, sức mua nội địa yếu.
+- Nhận định dòng tiền: Gây áp lực tiêu cực lên biên lợi nhuận gộp, rủi ro điều chỉnh giá trong ngắn hạn.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng hoặc quan sát chặt chẽ biên lợi nhuận kỳ tới.
