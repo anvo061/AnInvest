@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:45
+⏱ Thời gian: 13:15, 20/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- TP.HCM khởi động dự án cầu Phú Mỹ 2 và cầu Cần Giờ từ tháng 9/2026 -> Tích cực -> Nhóm Xây dựng hạ tầng & Bất động sản vùng ven.
-- Kỳ vọng Fed nới lỏng chính sách (Dovish) -> Tích cực -> Giảm áp lực tỷ giá, hỗ trợ thanh khoản thị trường chung.
-- Căng thẳng địa chính trị liên quan đến Iran -> Tiêu cực -> Áp lực lên chi phí vận tải biển và giá dầu.
+- TP.HCM khởi động dự án cầu Phú Mỹ 2 và cầu Cần Giờ từ tháng 9/2026 -> Đánh giá: Tích cực -> Dòng tiền hướng vào: Nhóm Xây dựng hạ tầng (VCG, HHV).
+- Kỳ vọng Fed nới lỏng chính sách (dovish) làm giảm áp lực tỷ giá USD/VND -> Đánh giá: Tích cực -> Dòng tiền hướng vào: Nhóm ngành có nợ vay USD lớn hoặc nhóm Tài chính/Chứng khoán.
+- Leo thang căng thẳng địa chính trị liên quan đến Iran -> Đánh giá: Tiêu cực -> Dòng tiền cần thận trọng với: Nhóm Vận tải biển/Logistics (GMD).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCG, HHV**
-    - Động lực (FA): Hưởng lợi trực tiếp từ các dự án đầu tư công trọng điểm tại TP.HCM (cầu Phú Mỹ 2, cầu Cần Giờ).
-    - Nhận định dòng tiền: Dòng tiền đầu cơ có xu hướng tập trung mạnh vào nhóm xây dựng hạ tầng khi có tin tức hỗ trợ giải ngân cụ thể.
-    - Hành động: Chú ý giải ngân nếu xuất hiện nhịp chỉnh nhẹ trong phiên.
+- Mã: **VCG**
+- Động lực (FA): Hưởng lợi trực tiếp từ các dự án hạ tầng giao thông trọng điểm tại TP.HCM (cầu Phú Mỹ 2, cầu Cần Giờ) bắt đầu triển khai tháng 9/2026.
+- Nhận định dòng tiền: Tin tức bổ trợ cho kỳ vọng về khối lượng công việc (backlog) trong trung hạn, kỳ vọng dòng tiền đầu cơ sẽ sớm phản ứng với nhóm hạ tầng.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, theo dõi khối lượng khớp lệnh để xác nhận dòng tiền lớn tham gia.
+
+- Mã: **HHV**
+- Động lực (FA): Chuyên gia trong lĩnh vực hạ tầng giao thông, hưởng lợi từ làn sóng đẩy mạnh giải ngân đầu tư công tại TP.HCM.
+- Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển vào nhóm hạ tầng khi có thông tin dự án mới.
+- Hành động: Chú ý giải ngân, ưu tiên mua gom trong các phiên rung lắc.
+
 - Mã: **GMD**
-    - Động lực (FA): Rủi ro địa chính trị leo thang.
-    - Nhận định dòng tiền: Áp lực lên biên lợi nhuận từ chi phí vận tải có thể tạo áp lực bán kỹ thuật.
-    - Hành động: Rủi ro vi phạm kịch bản, cần quan sát chặt vùng hỗ trợ cứng.
-- Mã: **HVN, ACV**
-    - Động lực (FA): Mở bán vé Tết 2027 giúp cải thiện dòng tiền ứng trước.
-    - Nhận định dòng tiền: Dòng tiền tích cực ngắn hạn do tâm lý kỳ vọng doanh thu mùa cao điểm.
-    - Hành động: Tiếp tục quan sát đà tăng.
+- Động lực (FA): Rủi ro chi phí vận tải và bảo hiểm tăng cao do căng thẳng địa chính trị.
+- Nhận định dòng tiền: Áp lực tâm lý từ tin tức tiêu cực có thể khiến dòng tiền ngắn hạn chốt lời hoặc đứng ngoài quan sát.
+- Hành động: Quan sát chặt chẽ tại các vùng hỗ trợ cứng, tạm dừng mở vị thế mua mới đến khi áp lực địa chính trị hạ nhiệt.
