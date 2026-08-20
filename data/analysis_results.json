@@ -1,5 +1,160 @@
 ﻿[
   {
+    "Title": "Iran says it will escalate if US does not honour deal within weeks - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ19NRUJoZTZ6N2V4Q2RUejU0UTRHc2dqa0ltemFkMUpKSkNEVmlPTmZxcUg2VkxycU1TN1l6STVpeXFvTTJHNlR4S3lnVTBkVmVUVExtUm1faHVrR0lmdWJyc0kzSjVBU0xBWEc4TFBlMmlvLU1NcHg5aDNBaDJUcWpETTJldHRoQzdhT2FUa3dINjVDd2J1UGFNcVd0VEp6cW43T3AxbmNjbzBfc3JCRWxjWGZEVWtFZEIwdQ?oc=5",
+    "PubDate": "Mon, 17 Aug 2026 13:42:01 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông gia tăng gây áp lực lên giá dầu thế giới, tạo rủi ro lạm phát và ảnh hưởng tâm lý thị trường chứng khoán toàn cầu.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Căng thẳng địa chính trị đẩy giá dầu biến động mạnh. Dòng tiền thận trọng, áp lực chi phí đầu vào tăng cao đối với các doanh nghiệp lọc hóa dầu.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng hỗ trợ triển vọng các dự án thăm dò và khai thác dầu khí."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu neo cao thúc đẩy nhu cầu thuê giàn khoan và cải thiện giá dịch vụ."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu thô tăng nhanh gây áp lực lên chi phí đầu vào của nhà máy lọc dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 19:00:08"
+  },
+  {
+    "Title": "FUEVN100: Kết thúc giao dịch hoán đổi ngày 19/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEpFVngwOW5EV1V3OHFlbFlpTENzWjc1VnRFaEZXN3lrbHA0TjRIb1VfdDlEMUNYbnNOSGF0SUF0TExYaWVRVU01cngwTURxOEQzTzdubTFic25KZ3pNM3VzY3VBeUdzeHRoNjBndk1RZDg0NTN5OHlJSWdCaHBPVHgyRmduU0pGZEJUb2RjTUl1VkQtbGlQVnRtM2x5VGJLY29paVBxX01jUjN6MmpKeWVLQldtdw?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 09:23:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về danh mục đầu tư hay tác động đến giá trị tài sản ròng (NAV) của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm ETF. Đây là hoạt động nghiệp vụ bình thường của quỹ hoán đổi, không tạo ra biến động dòng tiền đáng kể trên thị trường cơ sở.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 18:58:02"
+  },
+  {
+    "Title": "FUEKIV30: Kết thúc giao dịch hoán đổi ngày 19/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWtWVFk2WWE3Y3BYQl9YSVQ1UU1ReFkteEQzMEljS25HdjRFNmtSaGxxdUtTdjFXVVc2eEk3ZVg4R21STGtlWkg5aWhhVkFsMGRnQkNTWUFfdmFLM0VJbE9wSWNqMm5xN3JLMDRWcVV1SFVrSjI2a1dlV015QjdyQjY1dWExemNseUh0VWMtdGhZSGhvSFZMUjFQaThGSS1HdHFmTTlYbW1lNXJZam9HSXdnMDNEdw?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 09:55:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các cổ phiếu thành phần trong danh mục VN30.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là nghiệp vụ vận hành quỹ ETF thông thường, không tạo ra biến động dòng tiền bất thường trên thị trường. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 18:56:49"
+  },
+  {
+    "Title": "FUESSV50: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGt1OWsxU1YycGFLMnBMRlpHZGVqRnRhNTI5WmhhaGx6UWs4emwwb0VWSlg1N0Y3ekU4X3U3V0p6c1M2clFvSXVsMEw2VkV3cU9SRlhmN0RHMHI4a2NOb3BjRWdwWW5RT2JsbkRXblhsQzY5eGRhQU5uamt1V2JOcUxjb3BpTTdTY3FxRUFVMWxJaWdsTVUyU2l6U3RoMWV2X0VDMUE3WDFSN2V4bEkyZjRiaEFDeEpZcUJISWRJYzRFQm9TbldzQVVscVZ6LUpzeUtv?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 03:08:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN50. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đáng kể trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 18:54:46"
+  },
+  {
+    "Title": "Thu hút FDI: Phải kéo doanh nghiệp Việt đi cùng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/thu-hut-fdi-phai-keo-doanh-nghiep-viet-di-cung-100260820165137546.htm",
+    "PubDate": "8/20/2026 5:59:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Chính sách thúc đẩy liên kết giữa doanh nghiệp FDI và nội địa giúp các doanh nghiệp khu công nghiệp và hạ tầng logistics hưởng lợi từ làn sóng mở rộng chuỗi cung ứng.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm BĐS Khu công nghiệp. Chính sách ưu tiên nội địa hóa chuỗi cung ứng FDI thúc đẩy nhu cầu thuê đất và dịch vụ logistics. Dòng tiền sẽ tập trung vào KBC, GVR, GMD.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Quỹ đất lớn sẵn sàng cho thuê, hưởng lợi trực tiếp từ làn sóng FDI và nhu cầu mở rộng chuỗi cung ứng."
+      },
+      {
+        "Ticker": "GVR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu quỹ đất khu công nghiệp lớn, hưởng lợi từ xu hướng chuyển dịch sản xuất và nội địa hóa."
+      },
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ nhu cầu logistics tăng cao khi các doanh nghiệp FDI tăng cường kết nối với chuỗi cung ứng nội địa."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Vị trí chiến lược tại Bà Rịa - Vũng Tàu, thu hút mạnh dòng vốn FDI vào các ngành công nghiệp phụ trợ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 18:53:17"
+  },
+  {
+    "Title": "Tự doanh mua ròng 508 tỉ đồng trước ngày FTSE Russell chốt danh mục cổ phiếu Việt Nam",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tu-doanh-mua-rong-508-ti-dong-truoc-ngay-ftse-russell-chot-danh-muc-co-phieu-viet-nam-100260820174721685.htm",
+    "PubDate": "8/20/2026 6:00:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Hoạt động mua ròng của khối tự doanh trước kỳ cơ cấu FTSE Russell cho thấy sự chuẩn bị đón đầu dòng vốn ngoại, tạo tâm lý tích cực cho các cổ phiếu vốn hóa lớn trong danh mục VN30.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Tự doanh mua ròng đón đầu kỳ cơ cấu FTSE. Tập trung nhóm vốn hóa lớn (VN30). Lưu ý: Lực cầu ngắn hạn, cần theo dõi sát biến động khối ngoại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn, thanh khoản cao, thường là mục tiêu ưu tiên trong các kỳ cơ cấu quỹ ngoại."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Trọng số lớn trong danh mục FTSE, hưởng lợi từ dòng tiền mua đón đầu của tự doanh."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu dẫn dắt thị trường, thường được khối tự doanh tích lũy trước các sự kiện lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 18:52:48"
+  },
+  {
+    "Title": "Huế sắp có dự án đại lộ Bắc Nam 20.000 tỉ đồng song song với đường sắt cao tốc",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/hue-sap-co-du-an-dai-lo-bac-nam-20000-ti-dong-song-song-voi-duong-sat-cao-toc-100260820174914538.htm",
+    "PubDate": "8/20/2026 6:02:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Dự án hạ tầng quy mô lớn thúc đẩy khối lượng công việc cho các doanh nghiệp xây lắp hạ tầng và cung ứng vật liệu xây dựng tại khu vực miền Trung.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Hạ tầng. Dự án 20.000 tỉ đồng tại Huế tạo kỳ vọng backlog cho nhà thầu. Cần theo dõi sát tiến độ giải ngân thực tế và năng lực trúng thầu của doanh nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhà thầu hạ tầng hàng đầu, có năng lực và kinh nghiệm trúng thầu các dự án cao tốc, đại lộ quy mô lớn."
+      },
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp chuyên thi công hạ tầng giao thông, hưởng lợi trực tiếp từ làn sóng đầu tư công tại khu vực miền Trung."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 18:52:26"
+  },
+  {
     "Title": "HCM: Thông báo thực hiện quyền mua cổ phiếu của người nội bộ Nguyễn Quốc Huân - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONkVMakZOUEN4OEw1SFo4Qmx4UmdBaVhzMmItdEZqVWJaLXJ3bzZscG1nVjg5QzBEZE9PT0x3ZXVPZHlQeGpyNS1MN2ZUYWZZN3kwQVQ4aFNOVFVkbHVSTGs3cklHN3hsZ3ZxLUpxRk5yUGhMbTNpOWFxbWl5Wmp0dlBFVUZSbTZJRkJmTXNzUEZJWF9DcUw4Q2t2em95WnRDa3l4dUtjdU1zak13dzIzbG5aZjI3TGlkM0stMWxVQ2Y3Z3RCTEJJeDB3djVOYXptNXc?oc=5",
@@ -16508,107 +16663,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-13 23:32:43"
-  },
-  {
-    "Title": "TP.HCM tập trung phát triển hạ tầng giao thông kết nối khu vực cảng biển Cái Mép, Thị Vải và Cần Giờ",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-tap-trung-phat-trien-ha-tang-giao-thong-ket-noi-khu-vuc-cang-bien-cai-mep-thi-vai-va-can-gio-100260813175541179.htm",
-    "PubDate": "8/13/2026 8:58:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc hoàn thiện hạ tầng kết nối cảng biển giúp giảm chi phí logistics, tăng công suất khai thác cảng và thúc đẩy giá trị quỹ đất khu vực lân cận, tạo động lực tăng trưởng dài hạn cho nhóm cảng biển và BĐS khu công nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Cảng biển và BĐS KCN. Hạ tầng kết nối tối ưu logistics, tăng giá trị quỹ đất. Dòng tiền tập trung vào GMD, SZC.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ việc tăng lưu lượng hàng hóa thông qua cảng nhờ hạ tầng kết nối thuận tiện."
-      },
-      {
-        "Ticker": "SZC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Quỹ đất lớn tại Bà Rịa - Vũng Tàu hưởng lợi trực tiếp từ sự bùng nổ hạ tầng giao thông kết nối cảng biển."
-      }
-    ],
-    "AnalyzedAt": "2026-08-13 23:32:28"
-  },
-  {
-    "Title": "Hơn 13.000 khách hàng miền Bắc lắp điện mặt trời, nhiều tỉnh bắt đầu hỗ trợ tiền",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/hon-13-000-khach-hang-mien-bac-lap-dien-mat-troi-nhieu-tinh-bat-dau-ho-tro-tien-2545138.html",
-    "PubDate": "Thu, 13 Aug 2026 22:39:56 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Chính sách hỗ trợ thúc đẩy nhu cầu lắp đặt điện mặt trời mái nhà, tạo dư địa tăng trưởng doanh thu cho các doanh nghiệp cung cấp thiết bị và giải pháp năng lượng tái tạo.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Chính sách hỗ trợ điện mặt trời mái nhà quy mô nhỏ, tác động doanh thu không đáng kể với các doanh nghiệp lớn. Cần theo dõi thêm.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 23:32:12"
-  },
-  {
-    "Title": "FUEBFVND: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOel9CV1Q3X1FpZlkyck9VSTBmVENCVFhlQkE2NlFodUE3bkMtbEFwVHlQWDQtRy1IV0ZLRFlsa1FKdmpyZmhCMGxUNi1ySkhiaUh5QXd4eGtLdWVUdlJWRG5VMkFBSkRzdUFVLUhDaDBuZDZRUGdpc3Q4ZThDVEpQR2pkeU5HX3pCcWV3dlVrZVVuZ2FBWEp1bmlTYk9fakktaWVndW5acjR1YVpYWVh1YmxTY0EzZw?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 10:30:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ vận hành quỹ ETF thông thường, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 22:39:01"
-  },
-  {
-    "Title": "FUETPVND: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnc3RjBiTHJDeVBrU0NOdnI0dEZfVlZiSmlKT3FNVTZ2VE1yTUFXZG0wUXdwall1V3hMU1g3MW04WGVDNVFzcTVadEZpaG5mTThXcGJIRXRLb0Z1ZUhDWXhpUl9wa3lHYkFMdnZMdmVEUlFuNFJrZTB6NWJIZDZIWlFUdC04VUVCdVlFaXdWRXJ1QWxoQ1gxMXkxT0k0aVNwREN2WmRCMFBBai1ad2VLaUl4c3Rzdw?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 09:41:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay chiến lược đầu tư, không tác động đến thị trường chung.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ bình thường của quỹ hoán đổi danh mục, không tạo ra tín hiệu dòng tiền mới cho thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 22:38:49"
-  },
-  {
-    "Title": "FUEIP100: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd29MTVN4ZWVHWXRVb2RTdDN6NGI4TlM4Z0lMc0huczhoTk90UFhnTkw5X2dSSUVDTmgwRnE4d18zaHVURVEzcVlEb0JHZElqOWdkVUc5VnZ3bFB4T1lSWUJZaHZJcS1tYmVPTWljOGFNb1hyQnFaMU85NmZpLXdnT3dObFVLVDlmYWVQSzlOZnpHdFJIZUVHQkhYTXdCb3o2Mkx1cHU0bUgyUFA0dzdFSWZycGZmZw?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 09:25:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô, không tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ bình thường của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho các cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 22:38:39"
-  },
-  {
-    "Title": "Ba con diều gắn đèn chớp lại khiến máy bay chờ ở Tân Sơn Nhất",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/ba-con-dieu-gan-den-chop-lai-khien-may-bay-cho-o-tan-son-nhat-100260813205356173.htm",
-    "PubDate": "8/13/2026 9:02:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là sự cố an ninh hàng không mang tính chất đơn lẻ, không ảnh hưởng đến hoạt động kinh doanh, doanh thu hay chi phí vận hành của các doanh nghiệp hàng không niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Hàng không. Sự cố an ninh đơn lẻ không tác động đến cấu trúc dòng tiền hay biên lợi nhuận của các hãng hàng không. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 22:38:27"
-  },
-  {
-    "Title": "Kiểm soát doanh nghiệp nhập khẩu tăng đột biến khi nhập siêu hơn 20,3 tỉ USD",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/kiem-soat-doanh-nghiede-nhap-khau-tang-dot-bien-khi-nhap-sieu-hon-203-ti-usd-100260813201548956.htm",
-    "PubDate": "8/13/2026 9:10:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về quản lý hành chính và kiểm soát thương mại vĩ mô, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết cụ thể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Đây là động thái quản lý hành chính, không làm thay đổi dòng tiền hay triển vọng lợi nhuận của các doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 22:38:13"
   }
 ]
