@@ -2,27 +2,26 @@
 ⏱ Thời gian: 23:45 - 20/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị (Trung Đông & Biển Đỏ) leo thang:** Dẫn đến áp lực lên giá dầu và cước vận tải biển toàn cầu -> [Tác động: Trái chiều - Tích cực cho nhóm thượng nguồn Dầu khí, tiêu cực cho nhóm xuất khẩu chịu áp lực chi phí logistics] -> [Dòng tiền hướng vào: PVD, PVS].
-- **Chủ động giải quyết quan ngại chuyển tải hàng hóa với Mỹ:** Chính phủ khẳng định giải pháp xây dựng quan hệ thương mại bền vững -> [Tác động: Tích cực] -> [Dòng tiền hướng vào: Nhóm xuất khẩu VHC, TNG].
+- **Địa chính trị Trung Đông & Biển Đỏ căng thẳng:** Căng thẳng tại Biển Đỏ và lệnh phong tỏa hải quân của Mỹ đối với Iran làm gián đoạn cung ứng, đẩy giá dầu tăng cao -> **Tích cực** cho nhóm Dầu khí thượng nguồn; **Tiêu cực** cho chi phí logistics xuất nhập khẩu.
+- **Cam kết giải quyết quan ngại chuyển tải hàng hóa với Mỹ:** Chính phủ Việt Nam chủ động làm việc với Mỹ về quy tắc xuất xứ -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xuất khẩu (VHC, TNG)** nhờ giảm thiểu rủi ro pháp lý/thuế quan.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MSN**
-    - Động lực (FA): WinCommerce đạt kết quả kinh doanh vượt kỳ vọng nửa đầu 2026.
-    - Nhận định dòng tiền: Tin tức củng cố nền tảng lợi nhuận cho tập đoàn, hỗ trợ lực cầu ổn định.
-    - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế khi có tín hiệu dòng tiền khối ngoại ủng hộ.
 - **Mã: PVD**
-    - Động lực (FA): Giá dầu duy trì đà tăng do phong tỏa hàng hải tại Trung Đông và lệnh trừng phạt từ Mỹ.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng với giá dầu Brent.
-    - Hành động: Chú ý giải ngân nếu bám sát kịch bản giá dầu ổn định trên vùng hỗ trợ tâm lý.
-- **Mã: VHM**
-    - Động lực (FA): Đề xuất luật hóa cơ chế khu đô thị lấn biển.
-    - Nhận định dòng tiền: Tạo kỳ vọng về "game" thay đổi pháp lý dài hạn, thúc đẩy dòng tiền đầu cơ tìm kiếm cơ hội ở các đại dự án ven biển.
-    - Hành động: Tiếp tục quan sát biến động thanh khoản, tránh "FOMO" khi chưa có thông tin nghị định hướng dẫn cụ thể.
+  - Động lực (FA): Giá dầu duy trì đà tăng do nguồn cung gián đoạn từ xung đột địa chính trị.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp về giá cho thuê giàn khoan; dòng tiền có xu hướng gia tăng vào nhóm thượng nguồn.
+  - Hành động: **Chú ý giải ngân** nếu thị trường chung có nhịp điều chỉnh kỹ thuật (pull-back).
+
+- **Mã: MSN**
+  - Động lực (FA): WinCommerce vượt kế hoạch kinh doanh nửa đầu 2026, khẳng định vị thế dẫn đầu mảng bán lẻ.
+  - Nhận định dòng tiền: Củng cố đà tăng trưởng cơ bản, dòng tiền sẽ tập trung vào sự an toàn và tăng trưởng thực.
+  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch vùng đỉnh để xác nhận dòng tiền lớn (big boys) gia tăng vị thế.
+
 - **Mã: SSI**
-    - Động lực (FA): Lãnh đạo đăng ký mua 5 triệu cổ phiếu trước thềm nâng hạng.
-    - Nhận định dòng tiền: Củng cố niềm tin cho nhà đầu tư cá nhân, tạo vùng đệm giá hỗ trợ mạnh.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật ngắn hạn.
+  - Động lực (FA): Lãnh đạo đăng ký mua vào 5 triệu cổ phiếu trước thềm nâng hạng thị trường.
+  - Nhận định dòng tiền: Tín hiệu nội bộ cực mạnh, củng cố niềm tin về định giá.
+  - Hành động: **Chú ý giải ngân** theo đà mua của lãnh đạo.
+
 - **Mã: VCG**
-    - Động lực (FA): Áp lực tiến độ tại dự án Long Thành.
-    - Nhận định dòng tiền: Tiêu cực trong ngắn hạn, dòng tiền có khả năng rút lui để trú ẩn sang các nhóm ngành phòng thủ.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cắt giảm nếu thủng vùng hỗ trợ nền gần nhất.
+  - Động lực (FA): Tiến độ sân bay Long Thành vướng mắc pháp lý và giải phóng mặt bằng.
+  - Nhận định dòng tiền: Tạo áp lực tiêu cực lên kỳ vọng tăng trưởng doanh thu ngắn hạn.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cần thận trọng với vị thế mua mới cho đến khi có thông tin tháo gỡ cụ thể.
