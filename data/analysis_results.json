@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "Hàng loạt doanh nghiệp vốn hóa tỷ USD vào 'tầm ngắm'",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lan-song-thoai-von-nha-nuoc-hang-loat-doanh-nghiep-von-hoa-ty-usd-vao-tam-ngam-2546853.html",
+    "PubDate": "Fri, 21 Aug 2026 05:31:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc đẩy mạnh thoái vốn nhà nước tại các doanh nghiệp vốn hóa lớn tạo kỳ vọng về sự thay đổi quản trị, tăng hiệu quả hoạt động và thu hút dòng vốn ngoại, thúc đẩy thanh khoản thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chính sách dài hạn, thiếu lộ trình cụ thể. Cần thận trọng với các mã vốn hóa lớn, tránh kỳ vọng ngắn hạn thái quá vào thoái vốn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 05:51:10"
+  },
+  {
+    "Title": "Giá thịt heo giảm, sức mua vẫn ì ạch, tiểu thương ngóng khách",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-thit-heo-giam-suc-mua-van-i-ach-tieu-thuong-ngong-khach-2547286.html",
+    "PubDate": "Fri, 21 Aug 2026 05:45:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Giá heo hơi giảm cùng sức mua yếu phản ánh áp lực lên biên lợi nhuận của các doanh nghiệp chăn nuôi, làm giảm kỳ vọng tăng trưởng doanh thu trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chăn nuôi. Giá heo giảm và cầu yếu gây áp lực biên lợi nhuận. Khuyến nghị: Thận trọng với DBC, BAF.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DBC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biên lợi nhuận gộp mảng chăn nuôi bị thu hẹp do giá bán giảm trong khi chi phí đầu vào vẫn duy trì."
+      },
+      {
+        "Ticker": "BAF",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sức mua yếu ảnh hưởng trực tiếp đến doanh thu chuỗi thịt mát và hiệu quả kinh doanh của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 05:50:44"
+  },
+  {
     "Title": "Vietnam economy seen growing 8% in 2022, beating official target - govt - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE03ODg2WXdrLVRyaldla3lKWnNkSE9wN2ExOHhRRDhzaGQ4ZlZrWHFKT3J3Mndmd3ZuVW9TbXNycEVieXItZGxZT2o3c1hiNTBFYVA2NlhFSEZaYkFFQnFSYXQyZkJ1MnJjTVBRdldCNE5MWGZXZEFQYjBJUW5iMFpMMXU2aDNTQ21wUlpYYVI3VkJzaDJFMU5QR1A0eEpBaktjRjhxNG9YbkViTi1XZlBETQ?oc=5",
@@ -16637,31 +16674,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-14 06:26:47"
-  },
-  {
-    "Title": "FUESSVFL: Kết thúc giao dịch hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGVZSVI5VllIekQwbDFIWG9WR0NTTlNud3l0SEgwUFNHZWpIY2dnYVVZdW03aDQ5by1TTFV1dGgwQXQzNmZlTHdIWl93N3NoZTVBNkJrMUdyb3RrOHZZYXhCc3IxdE9XdEZMSlZFcHNzVEpaRmNQXzVwWGItX3Z0MTVjVnVqdkVRNFpMTEtQWUk3Qk1UQUIxOTZLc3ZxRHlobERxemVjcmlBaGZMQ3p0NVJPNG9xdw?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 10:34:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm cổ phiếu trong danh mục ETF. Đây là hoạt động hoán đổi chứng chỉ quỹ định kỳ, không tác động đến cung cầu thực tế của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-14 06:26:29"
-  },
-  {
-    "Title": "FUEKIVFS: Thông báo thay đổi giá trị tài sản ròng ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnJYNTdoZ2NqR09scm9CaUdhT3liOVNJSm5aQ0p1YU5MS25XSEhyQlR3UDRIaEozLWZ5ODZuc0h0SlJPOS1jb0c4VVM1enpPNWVlTTJIUlJ3WnNZaTJEOFdwOWl1ZVM2dHhXSk84eXplVjJxbkN2YWxGYVJycHhkb2VVa1RQemxQdWRwa0FGSVdqVDNmcE9RNVFrRHNPWFI1Z1FKRnZnc09LOFVxYmVpYWtpWkNNRDY3THZ0OUZXZjdHOTlpUVE?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 10:28:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về biến động giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược đầu tư của các doanh nghiệp thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Thông báo NAV định kỳ là nghiệp vụ hành chính, không tác động đến cung cầu hay dòng tiền của các mã cổ phiếu trong danh mục.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-14 06:26:16"
   }
 ]
