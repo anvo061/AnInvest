@@ -2,23 +2,26 @@
 ⏱ Thời gian: 01:15 - 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mỹ xác nhận Việt Nam chủ động giải quyết các quan ngại về chuyển tải hàng hóa -> Tích cực (Giảm rủi ro phòng vệ thương mại) -> Dòng tiền sẽ hướng vào nhóm Xuất khẩu (Thủy sản, Dệt may).
-- Căng thẳng Biển Đỏ leo thang (Houthi tấn công tàu Saudi) -> Tiêu cực (Áp lực giá cước vận tải và chi phí nhập khẩu nguyên liệu) -> Cần lưu ý rủi ro biên lợi nhuận nhóm doanh nghiệp nhập khẩu/xuất khẩu có cự ly vận chuyển xa.
+- Mỹ xác nhận Việt Nam chủ động giải quyết quan ngại chuyển tải hàng hóa -> Tích cực (Giảm rủi ro phòng vệ thương mại) -> Dòng tiền hướng vào nhóm **Xuất khẩu (Thủy sản, Dệt may)**.
+- Căng thẳng địa chính trị Biển Đỏ leo thang (tấn công tàu Saudi) -> Tiêu cực (Áp lực chi phí Logistics) -> Ảnh hưởng biên lợi nhuận nhóm **Xuất nhập khẩu**.
+- Luật hóa cơ chế phát triển đô thị lấn biển -> Tích cực -> Nhóm **Bất động sản vốn hóa lớn**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VHC**
-    - Động lực (FA): Việc Việt Nam đàm phán thành công với Mỹ về chống chuyển tải hàng hóa giúp VHC giảm thiểu rủi ro áp thuế phòng vệ thương mại.
-    - Nhận định dòng tiền: Kỳ vọng ổn định hóa dòng vốn khối ngoại nhờ giảm bớt rủi ro chính sách; tích cực cho xu hướng trung hạn.
-    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
+- Mã: **VHC, TNG**
+  - Động lực (FA): Giảm rủi ro bị áp thuế phòng vệ thương mại tại Mỹ thông qua đàm phán song phương.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại nhóm xuất khẩu do yếu tố rủi ro pháp lý đã được gỡ bỏ.
+  - Hành động: Chú ý giải ngân nếu có xác nhận dòng tiền vượt đỉnh ngắn hạn.
 - Mã: **MSN**
-    - Động lực (FA): Kết quả vượt kỳ vọng của WinCommerce củng cố nền tảng lợi nhuận nửa cuối năm.
-    - Nhận định dòng tiền: Dòng tiền tích cực, củng cố kỳ vọng phục hồi định giá cho tập đoàn.
-    - Hành động: Tiếp tục nắm giữ, theo dõi vùng đỉnh cũ.
+  - Động lực (FA): WinCommerce vượt kế hoạch kinh doanh nửa đầu 2026.
+  - Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, kỳ vọng dòng tiền ổn định chảy vào cổ phiếu vốn hóa lớn (Bluechip) ngành bán lẻ.
+  - Hành động: Tiếp tục quan sát đà tăng, nắm giữ.
 - Mã: **VHM**
-    - Động lực (FA): Đề xuất luật hóa cơ chế phát triển đô thị lấn biển tạo hành lang pháp lý cho các đại dự án.
-    - Nhận định dòng tiền: Hỗ trợ tâm lý mạnh cho nhóm BĐS vốn hóa lớn, có thể tạo lực đẩy dòng tiền vào phiên tới.
-    - Hành động: Quan sát phản ứng tại các vùng hỗ trợ cứng.
+  - Động lực (FA): Hưởng lợi từ hành lang pháp lý mới cho các dự án đô thị lấn biển.
+  - Nhận định dòng tiền: Tin tức hỗ trợ định giá tài sản dài hạn, có thể thu hút dòng vốn đầu cơ vào dự án.
+  - Hành động: Chú ý giải ngân tại các nhịp điều chỉnh kỹ thuật.
 - Mã: **VCG**
-    - Động lực (FA): Tiến độ sân bay Long Thành tiếp tục vướng mắc, tạo áp lực lên kế hoạch ghi nhận doanh thu.
-    - Nhận định dòng tiền: Rủi ro điều chỉnh ngắn hạn do tâm lý thận trọng từ nhà đầu tư.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/hạ tỷ trọng nếu giá mất các mốc hỗ trợ kỹ thuật quan trọng.
+  - Động lực (FA): Vướng mắc tiến độ tại dự án sân bay Long Thành.
+  - Nhận định dòng tiền: Áp lực tâm lý ngắn hạn, rủi ro điều chỉnh nếu tin tức tiêu cực lan rộng.
+  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát mốc hỗ trợ cứng.
+
+*(Các mã khác như VIX, CEO, NKG, PVD, PC1 không có thông tin đột biến trong chu kỳ này)*
