@@ -1,21 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:07 - 20/08/2026
+⏱ Thời gian: 21:52 - 20/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Trung Đông (Phong tỏa Iran):** Đẩy giá dầu thô tăng cao -> **Tích cực** -> Dòng tiền tập trung vào nhóm Thượng nguồn (Dầu khí).
-- **Chỉ đạo tháo gỡ tín dụng xuất khẩu:** Giảm áp lực chi phí tài chính cho doanh nghiệp sản xuất -> **Tích cực** -> Dòng tiền hướng vào nhóm Xuất khẩu (Thủy sản, Dệt may).
-- **Đề xuất giảm 30% thuế cho SMEs:** Hỗ trợ trực tiếp biên lợi nhuận doanh nghiệp nhỏ -> **Tích cực** -> Cải thiện tâm lý nhóm Midcap & Smallcap.
+- **Địa chính trị & Năng lượng:** Căng thẳng tại Trung Đông leo thang với tuyên bố phong tỏa từ phía Mỹ -> **Tích cực (ngắn hạn)** -> Dòng tiền ưu tiên nhóm **Dầu khí (PVD, PVS)**.
+- **Pháp lý BĐS:** Đề xuất luật hóa cơ chế khu đô thị lấn biển -> **Tích cực** -> Dòng tiền kỳ vọng vào các mã **BĐS vốn hóa lớn (VHM)** có quỹ đất ven biển.
+- **Tín dụng xuất khẩu:** Chính phủ chỉ đạo đảm bảo hạn mức tín dụng cho xuất khẩu -> **Tích cực** -> Cải thiện biên lợi nhuận nhóm **Thủy sản (VHC, ANV) & Dệt may (TNG)**.
+- **Hạ tầng:** Vướng mắc tại dự án sân bay Long Thành -> **Tiêu cực** -> Gây áp lực tâm lý ngắn hạn lên nhóm **Xây dựng hạ tầng (VCG)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - **Động lực (FA):** Căng thẳng địa chính trị tại Trung Đông làm gián đoạn nguồn cung, kỳ vọng giá thuê giàn khoan neo cao.
-    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ sự nhạy bén của nhóm ngành thượng nguồn trước biến động vĩ mô; khả năng thu hút dòng tiền đầu cơ theo giá dầu.
-    - **Hành động:** Quan sát điểm phá vỡ (breakout) kỹ thuật để gia tăng vị thế.
 - **Mã: SSI**
-    - **Động lực (FA):** Lãnh đạo đăng ký mua vào 5 triệu cổ phiếu trước thềm nâng hạng thị trường.
-    - **Nhận định dòng tiền:** Tạo tín hiệu "insider" mạnh mẽ, củng cố niềm tin cho nhà đầu tư tổ chức trong bối cảnh thị trường cần động lực dẫn dắt.
-    - **Hành động:** Chú ý giải ngân theo tín hiệu mua của lãnh đạo.
-- **Mã: VHC, TNG, ANV**
-    - **Động lực (FA):** Chính sách ưu tiên tiếp cận tín dụng cho xuất khẩu.
-    - **Nhận định dòng tiền:** Cải thiện biên lợi nhuận ròng, tạo dư địa tăng giá khi chi phí vốn được tối ưu hóa.
-    - **Hành động:** Tiếp tục quan sát phản ứng dòng tiền tại vùng nền giá hiện tại.
+  - Động lực (FA): Lãnh đạo đăng ký mua lượng lớn cổ phiếu (5 triệu đơn vị) trước kỳ vọng nâng hạng thị trường.
+  - Nhận định dòng tiền: Tín hiệu nội bộ cực kỳ mạnh mẽ, củng cố niềm tin nhà đầu tư, dự kiến dòng tiền sẽ gia tăng sự chú ý vào nhóm Chứng khoán.
+  - Hành động: **Chú ý giải ngân** theo đà tăng của dòng tiền lớn.
+
+- **Mã: VHM**
+  - Động lực (FA): Thông tin luật hóa cơ chế lấn biển (100.000 tỉ đồng).
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp về mặt pháp lý dài hạn, kích hoạt dòng tiền đầu cơ vào nhóm BĐS vốn hóa lớn.
+  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng kháng cự kỹ thuật.
+
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thô chịu áp lực tăng do căng thẳng Trung Đông (phong tỏa Iran).
+  - Nhận định dòng tiền: Tương quan thuận với giá dầu, dòng tiền ngắn hạn sẽ tìm đến PVD như một tài sản phòng thủ và đầu cơ theo giá hàng hóa.
+  - Hành động: **Chú ý giải ngân** nếu giá dầu duy trì đà tăng trong phiên tới.
+
+- **Mã: VCG**
+  - Động lực (FA): Thông tin tiêu cực về tiến độ thi công sân bay Long Thành.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do rủi ro chậm trễ doanh thu, cần theo dõi lực đỡ tại các vùng hỗ trợ cứng.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên nắm giữ quan sát, không gia tăng tỷ trọng.
