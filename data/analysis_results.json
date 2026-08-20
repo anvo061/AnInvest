@@ -1,5 +1,110 @@
 ﻿[
   {
+    "Title": "Tôm cá xuất khẩu: Phải tiến tới 'gây choáng trước khi giết mổ'",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tom-ca-xuat-khau-phai-tien-toi-gay-choang-truoc-khi-giet-mo-100260819232140415.htm",
+    "PubDate": "8/20/2026 6:41:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Quy định mới về phúc lợi động vật làm tăng chi phí đầu tư công nghệ và vận hành cho các doanh nghiệp thủy sản xuất khẩu sang thị trường khó tính như EU.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thủy sản. Quy định phúc lợi động vật là lộ trình dài hạn, tác động chi phí không đáng kể trong ngắn hạn. Chưa có biến động dòng tiền bất thường.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vận hành tăng do yêu cầu tuân thủ tiêu chuẩn phúc lợi động vật mới tại các thị trường xuất khẩu chính."
+      },
+      {
+        "Ticker": "ANV",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí đầu tư hạ tầng giết mổ theo tiêu chuẩn mới làm giảm biên lợi nhuận gộp ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 10:10:39"
+  },
+  {
+    "Title": "VBI ký hợp tác bảo lãnh viện phí với Bệnh viện Tai Mũi Họng Trung ương",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vbi-ky-hop-tac-bao-lanh-vien-phi-voi-benh-vien-tai-mui-hong-trung-uong-2547143.html",
+    "PubDate": "Thu, 20 Aug 2026 09:39:33 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Đây là hoạt động nghiệp vụ thông thường của VBI (công ty con của VietinBank) nhằm mở rộng mạng lưới bảo lãnh viện phí, không tạo ra thay đổi đột biến về doanh thu hay lợi nhuận hợp nhất của ngân hàng mẹ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Hoạt động mở rộng dịch vụ bảo hiểm phi nhân thọ thông thường. Không tác động đáng kể đến dòng tiền ngắn hạn của cổ phiếu ngân hàng mẹ CTG.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 10:10:28"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 20/8/2026: Kỳ hạn 6 tháng chạm 9,2%/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-20-8-2026-ky-han-6-thang-cham-9-2-nam-2547126.html",
+    "PubDate": "Thu, 20 Aug 2026 10:03:37 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Lãi suất huy động tăng mạnh gây áp lực lên chi phí vốn của doanh nghiệp, làm giảm sức hấp dẫn của thị trường chứng khoán và gia tăng chi phí lãi vay cho các doanh nghiệp có đòn bẩy cao.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực chi phí vốn toàn thị trường. Nhóm BĐS (VHM, PDR) chịu áp lực nợ vay; nhóm Chứng khoán (SSI) giảm sức hấp dẫn dòng tiền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí lãi vay tăng cao gây áp lực lên biên lợi nhuận và khả năng thanh toán nợ của doanh nghiệp BĐS."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lãi suất tăng làm giảm sức hấp dẫn của kênh chứng khoán, ảnh hưởng tiêu cực đến thanh khoản và doanh thu margin."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp BĐS có đòn bẩy cao chịu áp lực chi phí tài chính lớn khi lãi suất huy động tăng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-20 10:10:11"
+  },
+  {
+    "Title": "'Big 4' ngân hàng đồng loạt ưu đãi giảm giá vé máy bay",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/big-4-ngan-hang-dong-loat-uu-dai-giam-gia-ve-may-bay-5110883.html",
+    "PubDate": "Thu, 20 Aug 2026 08:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Chương trình kích cầu tiêu dùng qua thẻ ngân hàng giúp tăng doanh số thanh toán không dùng tiền mặt và hỗ trợ lưu thông hàng không, dù tác động trực tiếp đến lợi nhuận ngân hàng không đáng kể.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Chương trình khuyến mãi thẻ chỉ là hoạt động marketing thông thường, không tạo đột biến doanh thu hay biên lợi nhuận cho ngân hàng và hàng không. Tác động dòng tiền không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 10:09:08"
+  },
+  {
+    "Title": "TP HCM hỗ trợ 200 doanh nghiệp xây dựng mô hình chuyển đổi số",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/tp-hcm-ho-tro-200-doanh-nghiep-xay-dung-mo-hinh-chuyen-doi-so-5111111.html",
+    "PubDate": "Thu, 20 Aug 2026 09:46:39 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Chương trình hỗ trợ chuyển đổi số thúc đẩy nhu cầu dịch vụ CNTT, giải pháp phần mềm và hạ tầng số, tạo cơ hội doanh thu cho các doanh nghiệp công nghệ đầu ngành.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính hành chính, hỗ trợ diện rộng, không tạo đột biến doanh thu tức thời cho các doanh nghiệp công nghệ lớn. Tác động thực tế không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 10:08:52"
+  },
+  {
+    "Title": "Giá vàng tăng gần 4 triệu đồng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-20-8-5111115.html",
+    "PubDate": "Thu, 20 Aug 2026 09:30:30 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng trong nước chủ yếu phản ánh tâm lý tích trữ và chênh lệch giá quốc tế, không tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Giá vàng tăng là hiện tượng tâm lý trú ẩn, không tạo ra dòng tiền chuyển dịch vào các mã cổ phiếu niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-20 10:08:23"
+  },
+  {
     "Title": "Asian refiners buy more US crude as Hormuz remains blocked, traders say - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlN0VmVmMnYyZEZPYkVONE5aOWdIYjAwcnJWVkVCd3l0bGNGaS1sbExKRklIY1F1MW12elZPYWh6ZkNTR2JZU1V5TVBoV2pTYVgwMld4c1FUWDQ0QkplRjBQSGNzZC05TUotenBvLVpWSlJ3V0VWZFpQZXA4WGwwMjVTRk1CbVY2eUI3NnRYbG5WQjBDNFIyTzJwWVRXQS1ySks0MU1RM2xZV1RQNFNLZHJLUEI1Q1kydFVv?oc=5",
@@ -16641,83 +16746,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-13 05:24:16"
-  },
-  {
-    "Title": "FUEKIV30: Kết thúc giao dịch hoán đổi ngày 11/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFh1VDdFQU01WE1OSzM3M2xFYVgyUHd6eU9VOGQwelVRMk9HMXJKQk9uMXY5bTFSX0F2NjgzYXBfWE5EZmdIME1fVWxvT1FXUGdpY0tTR3dISkVkek43S1RtT3Y5Z0tCTWp5eTRPYUZYZjI5TmN2MXdSWGlXUnNjY19BUzkwb3B1aWF2Z2N1Uk9qSHBSMElvS2FIUng3ZDV0R3F1dVFNd2pqeXBiWEVwb1VYekp0Zw?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 10:06:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các cổ phiếu thành phần trong danh mục VN30.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền đáng kể cho các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 05:24:06"
-  },
-  {
-    "Title": "FUEDCMID: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUM2WVVxUW1pYnI4NzljUkNFVDJ5NzVLWDdLcFFIbDVKaVc3SmlFY3JGM1RiV3U3VU9KMmltZHNKdWMxcmE5Z3hQdXUyTWd4cG55YWxQRjJyQ1lHeEpnVnJ2dzVqZ2E0SU1ZUWVZQ3Q4dU5mR1FVaURqX1dfNGRwMmVEeDl3ZkpncTRJYzQ2MUNZMVZHR1prMXl6RDBTOGN3eGRXSzFlWElCU3pXQU1DMU5Bemw1Ni1qUkdUemRmRUR1VGtRcUN1OGs3UnN1UE83VHA0?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 02:18:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về hoạt động kinh doanh hay yếu tố vĩ mô tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi cung cầu thực tế trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 05:23:57"
-  },
-  {
-    "Title": "FUESSV30: Thông báo thay đổi giá trị tài sản ròng ngày 11/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGxqMHdNV3Y2Q2lvQTl2Q1o1bTZkUE5PODZ1VWtTeDl2NDhkRHAzcW0yNmlzQ1lwaGxjeEFSazVvUnFPa2FrSVFuWVM5a2RiamtRTnNkZFpYMV9pNHZxVXNuWE9fNzNqWm52QW9mMGotUG9JMGs3dHQtbUxFbE1aV0Y5S2xfa2w0UTk2dU1EYUxGU21zYjhaTHpsdy1rN25oOXBxLXVqY2V5Slg4bF93bndUWVpISHRzZ3hXd2VpaVlycU1rOFE?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 10:23:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay xu hướng thị trường chung.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 04:43:39"
-  },
-  {
-    "Title": "FUEMITEC: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORjNfWk1GNXFHeDlWVmxxSWNLbWk1T0pfanpycUVHYkhKWXRHb3JBRjhLYTZmWXNYWlpuTDBlR3pxX0N0OHR0aFl2UUJyUVZ2Yms3aG4yVEkwaG9yd01RMGRWd3BvaGEyMzhjMjU2TXB6MG5ZQTFmanFxeERBcVBOT2E5N1l4RG1UQzlFU3NMUFpwTnlXZ3k0VFFuN2J4X096OXYtLUJlbHN2OHAzYWlya2Y4RWdKT0pVRFI0dk9IZy02dU42VEpSWkVaX2w5OWhsR2JR?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 02:17:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất nghiệp vụ hành chính, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tác động đến cung cầu hay xu hướng giá của các mã cổ phiếu trong danh mục.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 04:43:23"
-  },
-  {
-    "Title": "FUEKIVFS: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 12/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRjlkNktOdjJtM1lFYU5KWHd2QjRybEl2dWJ0NVVEY1Zmc2owTDBNeWlUTk9FS0x1WnlPV2RhWVdtdUpNSjU0RlI0ZENHdTdBcmI5dEdld2wxZnZ6dkxSVTVzT0hMYTdOTUNKTHJNS051S1Fyc3FNdF9oVHhBYk9KUVhTRjVLbzhLQWZlY1hrOF95eThiSC1oRTZHYVZsTWpBeDUxNkVJWVZhZTRBS29IRF9Oc1FPRldxQnpiamg0LThkbTNTWTBRamlBbEptSi1SQjRR?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 02:19:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã hưởng lợi. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 04:43:13"
-  },
-  {
-    "Title": "FUEIP100: Kết thúc giao dịch hoán đổi ngày 11/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWlIb0tCMUVZSE9VTFhpc2xEU2pQQjdQUDgtSXJRMlpSNGRFWVN2Zzg5SnlFLUR4N0pUckRCNXRQWjFoa0ZHaW5JTWpGRTFtVjBlY0Vkdk9LS2x4UlhTS2tpTG5JRE1veHdxYTc1VnFOLUV2Vll5YVg4R0pYSGV3ZEhXV0tCdmxWZFA3aFpGR2FEMUhnSHZaajA0aTUxa0F1ZU95bk5KOGJORTVCYWN3emNHSWR3UQ?oc=5",
-    "PubDate": "Wed, 12 Aug 2026 08:59:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay chiến lược đầu tư, không tác động đến cung cầu cổ phiếu trên thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ hoán đổi định kỳ của chứng chỉ quỹ, không tạo ra biến động dòng tiền hay xu hướng giá cho các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-13 04:00:48"
   }
 ]

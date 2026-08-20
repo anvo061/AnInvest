@@ -1,27 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:20
+⏱ Thời gian: 10:25 ngày 20/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giá dầu neo cao do gián đoạn nguồn cung tại eo biển Hormuz** -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung mạnh vào nhóm **Dầu khí (Thượng nguồn & Lọc hóa dầu)**.
-- **Áp lực NIM ngân hàng từ lãi suất huy động tăng vs. nợ công Mỹ vượt 40.000 tỷ USD** -> **Tiêu cực/Thận trọng** -> Áp lực lên nhóm cổ phiếu Tài chính/Ngân hàng vốn hóa lớn, ngoại trừ các ngân hàng có tỷ trọng CASA cao.
+- Lãi suất huy động kỳ hạn 6 tháng thiết lập mặt bằng mới 9,2%/năm -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm Bất động sản (đòn bẩy cao) và Chứng khoán (giảm sức hấp dẫn margin), đồng thời ép biên lợi nhuận (NIM) ngành Ngân hàng co hẹp.
+- Gián đoạn tại eo biển Hormuz đẩy giá dầu thô thế giới tăng vọt -> **Tích cực** -> Dòng tiền có xu hướng trú ẩn và tập trung vào nhóm Dầu khí (PVD, PVS, BSR).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu thế giới tăng mạnh sau sự cố tại Hormuz.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp về tâm lý và kỳ vọng cải thiện giá thuê giàn khoan.
-  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: PVS**
-  - Động lực (FA): Giá dầu tăng thúc đẩy khối lượng công việc thăm dò & khai thác.
-  - Nhận định dòng tiền: Dòng tiền sẽ phân hóa theo nhóm dầu khí, PVS là mã có tính an toàn cao hơn PVD nhờ các hợp đồng dài hạn.
-  - Hành động: **Tiếp tục quan sát** phản ứng vùng giá mục tiêu.
-- **Mã: NVL**
-  - Động lực (FA): Huy động thành công 8.000 tỷ đồng.
-  - Nhận định dòng tiền: Giảm áp lực nợ ngắn hạn, cải thiện niềm tin cho nhóm BĐS dân cư.
-  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch (cần thanh khoản đột biến để xác nhận xu hướng).
-- **Mã: PNJ**
-  - Động lực (FA): Sức mua hàng xa xỉ/trang sức suy giảm tại các thị trường trọng điểm.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn có xu hướng rút khỏi các mã bán lẻ hàng xa xỉ.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cần theo dõi chặt chẽ hỗ trợ cứng.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu tăng do gián đoạn nguồn cung Hormuz, thúc đẩy giá thuê giàn khoan và cải thiện biên lợi nhuận.
+- Nhận định dòng tiền: Hưởng lợi từ tâm lý phòng thủ và kỳ vọng tăng trưởng doanh thu trong bối cảnh vĩ mô bất ổn.
+- Hành động: Chú ý giải ngân (Canh điểm vào khi thị trường chung điều chỉnh do áp lực lãi suất).
+
+- Mã: **VHM / PDR**
+- Động lực (FA): Lãi suất huy động 9,2% gây áp lực trực tiếp lên chi phí tài chính và khả năng thanh toán nợ.
+- Nhận định dòng tiền: Dòng tiền có rủi ro bị rút mạnh để cơ cấu sang các tài sản an toàn hơn hoặc tiền mặt.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
+
+- Mã: **VHC / ANV**
+- Động lực (FA): Quy định mới về tiêu chuẩn 'gây choáng trước giết mổ' tại thị trường EU.
+- Nhận định dòng tiền: Áp lực chi phí ngắn hạn làm giảm sức hấp dẫn của dòng tiền đầu cơ.
+- Hành động: Tiếp tục quan sát (Chờ phản ứng của giá tại các vùng hỗ trợ cứng).
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Tin tức về giá dầu tăng giúp biên lợi nhuận lọc dầu (crack spread) duy trì mức hấp dẫn. Dữ liệu này củng cố luận điểm **Nắm giữ** để kỳ vọng vào biên lợi nhuận quý tới. Chưa có tín hiệu cần cắt/cơ cấu.
+- **BSR**: Dữ liệu giá dầu thế giới tăng (do eo biển Hormuz) đang hỗ trợ mạnh cho biên lợi nhuận lọc dầu (crack spread) của BSR. Dữ liệu hiện tại ủng hộ việc **duy trì vị thế**, chưa cần cơ cấu lại dòng tiền dù đã qua mốc kỳ vọng tháng 3/2026.
