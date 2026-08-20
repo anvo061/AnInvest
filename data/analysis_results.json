@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Nhiều ngân hàng trả lãi suất tiết kiệm trên 9% một năm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nhieu-ngan-hang-tra-lai-suat-tiet-kiem-tren-9-mot-nam-5111481.html",
+    "PubDate": "Fri, 21 Aug 2026 06:00:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Lãi suất huy động tăng cao gây áp lực lên chi phí vốn (COF) của ngân hàng và làm giảm sức hấp dẫn của kênh đầu tư chứng khoán, gây áp lực rút vốn khỏi thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất huy động tăng gây áp lực lên chi phí vốn (COF) toàn ngành ngân hàng, làm giảm định giá P/E và thu hẹp dòng tiền margin trên thị trường chứng khoán.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Lãi suất tăng làm giảm thanh khoản thị trường và nhu cầu sử dụng margin, ảnh hưởng trực tiếp doanh thu CTCK."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vốn vay tăng cao gây áp lực lên biên lợi nhuận và khả năng thanh toán nợ của doanh nghiệp BĐS."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 06:57:18"
+  },
+  {
     "Title": "Giá vàng hôm nay 21/8/2026: Bật tăng dữ dội, SJC có thể lại tăng tốc",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/gia-vang-hom-nay-21-8-2026-bat-tang-du-doi-sjc-co-the-lai-tang-toc-2547442.html",
@@ -16645,34 +16669,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-14 07:04:55"
-  },
-  {
-    "Title": "Ngân hàng khát vốn, nhưng có nhà băng hút tiền cực mạnh, dư tới 240.000 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/ngan-hang-khat-von-nhung-conha-bang-hut-tien-c-tien-cuc-manh-du-toi-240-000-ty-dong-2545079.html",
-    "PubDate": "Fri, 14 Aug 2026 05:15:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Việc các ngân hàng lớn duy trì thanh khoản dồi dào giúp giảm chi phí vốn đầu vào (COF), tạo dư địa hạ lãi suất cho vay và cải thiện biên lãi thuần (NIM) trong bối cảnh tín dụng tăng trưởng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Thanh khoản dồi dào giúp tối ưu chi phí vốn và mở rộng NIM. Dòng tiền thông minh sẽ tập trung vào các ngân hàng có lợi thế huy động vốn giá rẻ như VCB, TCB.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lợi thế dẫn đầu về huy động vốn giá rẻ giúp duy trì NIM cao và ổn định trong môi trường cạnh tranh lãi suất."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tỷ lệ CASA cao giúp ngân hàng chủ động nguồn vốn, giảm áp lực chi phí huy động khi nhu cầu tín dụng tăng."
-      },
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Quy mô vốn lớn và thanh khoản dồi dào hỗ trợ tăng trưởng tín dụng mạnh mẽ trong nửa cuối năm."
-      }
-    ],
-    "AnalyzedAt": "2026-08-14 07:04:31"
   }
 ]
