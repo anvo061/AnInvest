@@ -1,28 +1,32 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 14:56
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 15:30
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giá xăng dầu tăng mạnh (trên 1.300 đồng/lít) & BOJ dự kiến tăng lãi suất trong tháng 9:** -> **Tiêu cực** đối với các doanh nghiệp vận tải, logistics chịu áp lực chi phí đầu vào và các doanh nghiệp có nợ vay JPY lớn; **Tích cực** cục bộ cho nhóm kinh doanh xăng dầu.
-- **Phê duyệt 140 mã số vùng trồng sầu riêng tại Đắk Lắk:** -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung vào nhóm Nông nghiệp xuất khẩu có sở hữu diện tích sầu riêng lớn.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Giá xăng dầu tăng mạnh (>1.300 đồng/lít) gây áp lực lạm phát chi phí đẩy -> [Tác động: Tiêu cực đến biên lợi nhuận nhóm Vận tải, Logistics; Tích cực với nhóm bán lẻ xăng dầu đầu nguồn].
+- Trung Quốc phê duyệt mở rộng mã số vùng trồng sầu riêng tại Đắk Lắk -> [Tác động: Tích cực với các doanh nghiệp nông nghiệp xuất khẩu chính ngạch].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: HAG**
-    - **Động lực (FA):** Hưởng lợi trực tiếp từ việc gia tăng hạn ngạch xuất khẩu sầu riêng chính ngạch sang Trung Quốc thông qua các mã số vùng trồng mới được phê duyệt.
-    - **Nhận định dòng tiền:** Tin tức hỗ trợ trực tiếp vào kỳ vọng doanh thu, tạo động lực cho dòng tiền đầu cơ nhóm Nông nghiệp.
-    - **Hành động:** Chú ý giải ngân nếu dòng tiền có xác nhận vượt ngưỡng kháng cự gần nhất.
-- **Mã: GMD, HAH**
-    - **Động lực (FA):** Áp lực chi phí nhiên liệu đầu vào tăng đột biến (xăng dầu tăng hơn 1.300 đồng/lít).
-    - **Nhận định dòng tiền:** Tiêu cực ngắn hạn, gây áp lực chốt lời lên nhóm vận tải/logistics.
-    - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn, ưu tiên quản trị rủi ro, không mở vị thế mới.
-- **Mã: PLX**
-    - **Động lực (FA):** Hưởng lợi từ biên lợi nhuận bán lẻ cải thiện khi giá bán lẻ điều chỉnh tăng.
-    - **Nhận định dòng tiền:** Tích cực.
-    - **Hành động:** Tiếp tục quan sát phản ứng tại vùng giá hiện tại.
-- **Mã: PNJ**
-    - **Động lực (FA):** Cổ đông lớn gia tăng sở hữu.
-    - **Nhận định dòng tiền:** Củng cố xu hướng tích lũy, tạo nền tảng hỗ trợ mạnh.
-    - **Hành động:** Tiếp tục giữ vị thế.
-- **Mã: REE, POW**
-    - **Động lực (FA):** Rủi ro tỷ giá JPY/VND tăng do BOJ dự kiến thắt chặt tiền tệ.
-    - **Nhận định dòng tiền:** Áp lực từ chi phí tài chính có thể gây tâm lý tiêu cực.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng theo dõi diễn biến tỷ giá trong ngắn hạn.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PVS**
+- Động lực (FA): Backlog dự án đạt 7 tỷ USD, đảm bảo tăng trưởng doanh thu dài hạn.
+- Nhận định dòng tiền: Tin tức củng cố xu hướng tích lũy, phù hợp cho vị thế trung dài hạn.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+
+- Mã: **HAG**
+- Động lực (FA): Đối nghịch giữa cảnh báo dư cung (tiêu cực) và tin mở rộng mã số vùng trồng xuất khẩu chính ngạch (tích cực).
+- Nhận định dòng tiền: Tin xuất khẩu chính ngạch là "key" quan trọng hơn giúp giải tỏa rủi ro dư cung nội địa.
+- Hành động: Tiếp tục quan sát biến động cung cầu tại vùng hỗ trợ.
+
+- Mã: **GMD**
+- Động lực (FA): Áp lực bán từ cổ đông lớn ngoại kết hợp chi phí vận hành (xăng dầu) tăng.
+- Nhận định dòng tiền: Chịu áp lực cung kép, ngắn hạn tiêu cực.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt dao rơi.
+
+- Mã: **PNJ**
+- Động lực (FA): "Cá mập" gia tăng sở hữu, củng cố niềm tin chiến lược.
+- Nhận định dòng tiền: Dòng tiền lớn có dấu hiệu gom hàng, tạo bệ đỡ cho giá.
+- Hành động: Chú ý giải ngân theo dòng tiền của tổ chức.
+
+- Mã: **HAH, PLX**
+- Động lực (FA): Giá xăng dầu tăng trực tiếp ảnh hưởng giá vốn (HAH - tiêu cực) và biên lợi nhuận bán lẻ (PLX - tích cực).
+- Nhận định dòng tiền: Phân hóa rõ rệt theo nhóm ngành dầu khí và logistics.
+- Hành động: PLX có thể quan sát, HAH cần thận trọng với chi phí đầu vào.
