@@ -1,30 +1,29 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian: 00:30 ngày 21/08/2026**
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 01:15 (21/08/2026)
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Địa chính trị & Năng lượng:** Căng thẳng tại Biển Đỏ (Houthi) và Iran đẩy áp lực lên giá dầu và logistics toàn cầu. -> **Tích cực (Thượng nguồn Dầu khí) / Tiêu cực (Vận tải & XNK do chi phí vận tải tăng)** -> Dòng tiền ưu tiên nhóm P (Dầu khí), thận trọng với nhóm Vận tải biển/Xuất khẩu.
-- **Pháp lý Thương mại:** Việt Nam chủ động giải quyết quan ngại về chuyển tải hàng hóa với Mỹ. -> **Tích cực** -> Giảm thiểu rủi ro pháp lý cho nhóm Thủy sản (VHC) và Dệt may (TNG).
-- **Pháp lý BĐS:** Đề xuất luật hóa cơ chế khu đô thị lấn biển. -> **Tích cực** -> Dòng tiền hướng vào nhóm BĐS có quỹ đất lớn (VHM).
-- **Hạ tầng:** Vướng mắc tại sân bay Long Thành. -> **Tiêu cực** -> Áp lực lên nhóm Xây dựng hạ tầng (VCG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Giải quyết quan ngại chuyển tải hàng hóa với Mỹ**: Chính phủ Việt Nam chủ động đối thoại giảm rủi ro bị áp thuế phòng vệ thương mại -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm ngành **Xuất khẩu (Thủy sản, Dệt may)**.
+- **Leo thang căng thẳng Biển Đỏ (Houthi tấn công tàu Saudi)**: Gây áp lực lên chi phí logistics toàn cầu -> **Tiêu cực** -> Gây sức ép biên lợi nhuận nhóm ngành **Xuất nhập khẩu và Vận tải biển**.
+- **Luật hóa cơ chế phát triển đô thị lấn biển (100.000 tỷ đồng)**: Tạo hành lang pháp lý cho các dự án quy mô lớn -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Bất động sản (đặc biệt các mã sở hữu quỹ đất ven biển)**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-    - Động lực (FA): Căng thẳng Iran/Trung Đông duy trì mặt bằng giá dầu cao và nhu cầu giàn khoan.
-    - Nhận định dòng tiền: Hợp lưu giữa biến động vĩ mô và tính chất nhạy sóng của PVD, dòng tiền có khả năng đẩy mạnh vào mã này.
-    - Hành động: **Chú ý giải ngân** nếu giá test lại vùng hỗ trợ trong phiên.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VHC**
+  - Động lực (FA): Giảm thiểu rủi ro pháp lý/áp thuế tại thị trường Mỹ từ động thái ngoại giao của Chính phủ.
+  - Nhận định dòng tiền: Hỗ trợ tâm lý tích cực, giảm áp lực bán tháo theo tin đồn thương mại.
+  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì trên đường MA20.
+- **Mã: TNG**
+  - Động lực (FA): Ổn định đơn hàng xuất khẩu sang Mỹ nhờ giảm rủi ro phòng vệ thương mại.
+  - Nhận định dòng tiền: Củng cố đà tăng ngắn hạn, dòng tiền kỳ vọng phân bổ vào nhóm hàng tiêu dùng thiết yếu xuất khẩu.
+  - Hành động: **Tiếp tục quan sát** khối lượng giao dịch tại vùng cản cũ.
 - **Mã: MSN**
-    - Động lực (FA): WinCommerce vượt kế hoạch kinh doanh nửa đầu 2026.
-    - Nhận định dòng tiền: Thông tin tích cực từ nội tại doanh nghiệp tạo lực đỡ vững chắc, dòng tiền ổn định.
-    - Hành động: **Tiếp tục quan sát** phản ứng giá tại các kháng cự ngắn hạn.
-- **Mã: VHC, TNG**
-    - Động lực (FA): Giảm rủi ro bị áp thuế phòng vệ từ Mỹ.
-    - Nhận định dòng tiền: Cải thiện tâm lý nhà đầu tư, giảm áp lực bán tháo.
-    - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền lớn.
+  - Động lực (FA): WinCommerce vượt kế hoạch kinh doanh nửa đầu 2026.
+  - Nhận định dòng tiền: Tích cực trực tiếp vào định giá tập đoàn; tiềm năng thu hút dòng vốn ngoại đang tìm kiếm cổ phiếu cơ bản.
+  - Hành động: **Chú ý giải ngân** khi có nhịp điều chỉnh kỹ thuật (pullback).
 - **Mã: VHM**
-    - Động lực (FA): Hành lang pháp lý mới cho dự án lấn biển.
-    - Nhận định dòng tiền: Hỗ trợ tích cực cho định giá dài hạn, tạo kỳ vọng cho nhà đầu tư trung hạn.
-    - Hành động: **Chú ý giải ngân** theo kịch bản break nền.
+  - Động lực (FA): Hưởng lợi trực tiếp từ dự Luật Phát triển đô thị (cơ chế lấn biển).
+  - Nhận định dòng tiền: Tin tức đủ mạnh để kích hoạt sóng hồi nếu thị trường chung ủng hộ.
+  - Hành động: **Chú ý giải ngân** với tỷ trọng thăm dò.
 - **Mã: VCG**
-    - Động lực (FA): Tiến độ dự án trọng điểm gặp khó khăn.
-    - Nhận định dòng tiền: Dòng tiền có thể e ngại và thoái lui.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
+  - Động lực (FA): Vướng mắc tiến độ tại sân bay Long Thành.
+  - Nhận định dòng tiền: Tác động tiêu cực, gây áp lực lên tâm lý nhà đầu tư ngắn hạn.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
