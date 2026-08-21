@@ -1,22 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:55, 21/08/2026
+⏱ Thời gian: 00:30 (22/08/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lợi suất trái phiếu Mỹ giảm (do tăng mua lại trái phiếu) làm giảm áp lực tỷ giá, tạo dư địa chính sách tiền tệ nới lỏng -> **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND)** và **Ngân hàng (VCB)**.
-- Tín dụng Trung Quốc sụt giảm kỷ lục làm suy yếu nhu cầu nguyên vật liệu -> **Tiêu cực** -> Áp lực lên nhóm **Thép (HPG, HSG)** do lo ngại biên lợi nhuận xuất khẩu thu hẹp.
+- Lợi suất trái phiếu Mỹ hạ nhiệt làm giảm áp lực tỷ giá, mở ra dư địa nới lỏng chính sách tiền tệ -> **Tích cực** -> Dòng tiền ưu tiên nhóm Chứng khoán (hưởng lợi từ thanh khoản) và Ngân hàng (ổn định biên lãi thuần).
+- Danh sách FTSE GEIS công bố các mã Bank vốn hóa lớn -> **Tích cực** -> Dòng vốn ETF ngoại sẽ tạo lực đỡ chủ động cho nhóm trụ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **DGC**
+  - Động lực (FA): Bị cắt margin.
+  - Nhận định dòng tiền: Áp lực bán giải chấp ngắn hạn khó tránh khỏi do yếu tố tâm lý và kỹ thuật tài khoản.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu đang nắm giữ ngắn hạn.
 - Mã: **LTG**
-- Động lực (FA): Hủy giao dịch bắt buộc trên UPCoM từ 25/08/2026 do chậm nộp BCTC.
-- Nhận định dòng tiền: Rủi ro thanh khoản cực độ, dòng tiền thoát thoát exit bằng mọi giá khi thông tin được công bố rộng rãi.
-- Hành động: **Loại khỏi mọi danh mục theo dõi**, rủi ro vi phạm kịch bản an toàn tài sản nghiêm trọng.
-
+  - Động lực (FA): Hủy giao dịch bắt buộc trên UPCoM từ 25/8.
+  - Nhận định dòng tiền: Mất thanh khoản hoàn toàn, rủi ro mất trắng giá trị nếu không được chuyển sàn hoặc tái cơ cấu.
+  - Hành động: Thoát vị thế bằng mọi giá trước ngày hiệu lực.
+- Mã: **VCB, TCB, MBB, CTG, VPB**
+  - Động lực (FA): Lọt rổ FTSE Global Equity Index Series.
+  - Nhận định dòng tiền: Thu hút dòng vốn thụ động, tạo nền giá vững chắc.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (Backtest vùng hỗ trợ).
 - Mã: **PNJ**
-- Động lực (FA): Tâm lý thị trường cải thiện sau khi các lo ngại pháp lý/kinh doanh được giải tỏa (phản ứng qua phiên tím).
-- Nhận định dòng tiền: Dòng tiền lớn quay trở lại, PNJ đóng vai trò dẫn dắt nhóm bán lẻ.
-- Hành động: **Tiếp tục quan sát** xung lực tại vùng kháng cự mới để xác nhận điểm mua gia tăng.
-
-- Mã: **SSI, VND**
-- Động lực (FA): Hưởng lợi trực tiếp từ áp lực tỷ giá hạ nhiệt và kỳ vọng nới lỏng chính sách tiền tệ.
-- Nhận định dòng tiền: Dòng tiền kỳ vọng vào thanh khoản thị trường tăng, ưu tiên nhóm chứng khoán đầu ngành.
-- Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức khớp lệnh đột biến trong phiên tới.
+  - Động lực (FA): Phản ứng tích cực sau giải tỏa thông tin tiêu cực.
+  - Nhận định dòng tiền: Dòng tiền thông minh quay lại sau khi rủi ro được chiết khấu đủ.
+  - Hành động: Tiếp tục quan sát đà tăng, quản trị rủi ro ở vùng đỉnh cũ.
