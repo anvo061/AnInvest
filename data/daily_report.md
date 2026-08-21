@@ -1,22 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:15 - 21/08/2026
+⏱ Thời gian: 23:55, 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lợi suất trái phiếu Mỹ giảm & Tín dụng Trung Quốc suy yếu:** Áp lực tỷ giá hạ nhiệt tạo dư địa cho chính sách tiền tệ nới lỏng (Tích cực: Ngân hàng, Chứng khoán); đồng thời rủi ro cầu thép từ Trung Quốc giảm gây áp lực biên lợi nhuận nhóm xuất khẩu sắt thép (Tiêu cực: Thép). 
-- **Siết trách nhiệm đầu tư công tại TP.HCM:** Đẩy nhanh tiến độ giải ngân dự án (Tích cực: Xây dựng hạ tầng).
+- Lợi suất trái phiếu Mỹ giảm (do tăng mua lại trái phiếu) làm giảm áp lực tỷ giá, tạo dư địa chính sách tiền tệ nới lỏng -> **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND)** và **Ngân hàng (VCB)**.
+- Tín dụng Trung Quốc sụt giảm kỷ lục làm suy yếu nhu cầu nguyên vật liệu -> **Tiêu cực** -> Áp lực lên nhóm **Thép (HPG, HSG)** do lo ngại biên lợi nhuận xuất khẩu thu hẹp.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND, VCB**
-  - Động lực (FA): Lợi suất trái phiếu Mỹ giảm, áp lực tỷ giá hạ nhiệt.
-  - Nhận định dòng tiền: Kỳ vọng thanh khoản cải thiện và nới lỏng margin, dòng tiền có xu hướng xoay trục vào nhóm Tài chính - Ngân hàng.
-  - Hành động: Chú ý giải ngân theo đà tăng (Breakout).
+- Mã: **LTG**
+- Động lực (FA): Hủy giao dịch bắt buộc trên UPCoM từ 25/08/2026 do chậm nộp BCTC.
+- Nhận định dòng tiền: Rủi ro thanh khoản cực độ, dòng tiền thoát thoát exit bằng mọi giá khi thông tin được công bố rộng rãi.
+- Hành động: **Loại khỏi mọi danh mục theo dõi**, rủi ro vi phạm kịch bản an toàn tài sản nghiêm trọng.
 
-- **Mã: HPG, HSG**
-  - Động lực (FA): Tín dụng Trung Quốc giảm kỷ lục, nhu cầu thép suy yếu.
-  - Nhận định dòng tiền: Rủi ro áp lực bán từ khối ngoại hoặc các quỹ trading theo trend quốc tế.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy ngắn hạn.
+- Mã: **PNJ**
+- Động lực (FA): Tâm lý thị trường cải thiện sau khi các lo ngại pháp lý/kinh doanh được giải tỏa (phản ứng qua phiên tím).
+- Nhận định dòng tiền: Dòng tiền lớn quay trở lại, PNJ đóng vai trò dẫn dắt nhóm bán lẻ.
+- Hành động: **Tiếp tục quan sát** xung lực tại vùng kháng cự mới để xác nhận điểm mua gia tăng.
 
-- **Mã: PNJ**
-  - Động lực (FA): Tâm lý thị trường giải tỏa sau khi các rủi ro pháp lý/kinh doanh được làm rõ.
-  - Nhận định dòng tiền: Dòng tiền lớn quay lại mạnh mẽ, tín hiệu kỹ thuật tích cực.
-  - Hành động: Tiếp tục quan sát điểm re-test hỗ trợ sau phiên bùng nổ.
+- Mã: **SSI, VND**
+- Động lực (FA): Hưởng lợi trực tiếp từ áp lực tỷ giá hạ nhiệt và kỳ vọng nới lỏng chính sách tiền tệ.
+- Nhận định dòng tiền: Dòng tiền kỳ vọng vào thanh khoản thị trường tăng, ưu tiên nhóm chứng khoán đầu ngành.
+- Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức khớp lệnh đột biến trong phiên tới.

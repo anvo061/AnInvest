@@ -1,5 +1,63 @@
 ﻿[
   {
+    "Title": "FUESSV30: Thông báo thay đổi giá trị tài sản ròng ngày 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzExWUNXZEFKbC1VU1BfSnRGVjhvVDA2UU1wSUZhYW5hWGk2TVpUTkRpakYtelNhQld4bWcwbExVS1ZLcllJeFNHWExPQkt1Yk92aTUwNlFHS3NUSXBnOTRmZDRkMW1leGpjaWIyLUV6T2N4OEw5SFh0VHBna2J6ZnJuZW8wZ2lrWTM4cFJYMXo5d0EtcGNWQXRFWERiLWx0WXBRWkZ6dlY2bi1CQkZrdG5EOVRvMVlMQXFpWDdia1dSNmpGekE?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 09:42:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo NAV định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch cho các cổ phiếu thành phần trong danh mục.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 23:49:55"
+  },
+  {
+    "Title": "Cổ phiếu LTG của Lộc Trời bị hủy giao dịch trên UPCoM từ ngày 25/8/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1F5eWdsYzNObE1wcklmTmN6TjhTQzQxRmpoM2ptRUN0bTlNSGFlSzZ1QXB3NGo0Mk5NRmZLTXNJcEVVU0lQTkVrLW4tcG5zVHJueDAyYzU2ekIwRC1CZklYTnUyMzBCZlZlTmVncU9ra00yOWlzSXkzNUVXY0hjMThiQkJaLUcxMXBpaElVYmpGSHNsVEFpVG5abUlsR2I1RGZQZG5uV3lWS1lRcVhvUQ?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 05:58:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Việc hủy niêm yết bắt buộc do chậm nộp báo cáo tài chính phản ánh tình trạng quản trị yếu kém và rủi ro thanh khoản nghiêm trọng, gây thiệt hại trực tiếp cho cổ đông.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - LTG. Hủy niêm yết do vi phạm công bố thông tin là tín hiệu đỏ về sức khỏe tài chính. Dòng tiền sẽ rút chạy hoàn toàn, rủi ro mất thanh khoản vĩnh viễn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "LTG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Hủy giao dịch bắt buộc làm mất tính thanh khoản, gây thiệt hại lớn cho nhà đầu tư và phản ánh rủi ro tài chính nội tại."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 23:49:29"
+  },
+  {
+    "Title": "FUEMAV30: Thông báo thay đổi giá trị tài sản ròng tuần từ 14/08/2026 đến 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFpPSHZYanRqTjEtbU1raEtzS2F2bkJ3N0RqbVU3b0JwMjZQc2pmTXJBVmpaM09EcmV4clplRUd3Z0VQTk5yanI2MjMyamViRmtGeEQyMUExYUluVktaM3dmSEhrZUkzSnNweGtfNWFzQU0zb3JmRkt5Q2dXT1d2dmdKS3Y0V2lKV0VCYS1ielFiSTVzODQ0c2l1Vk9qWUs2VGdmeFlUOVRLYUNGb3FPeVZ5ZmJyNWpCVGZld3ItU1FzRE5aRUhsZnozclIwWnVhNElZV0JENnZwNlU?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 10:56:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược đầu tư của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là báo cáo định kỳ về NAV, không mang tính chất thay đổi xu hướng dòng tiền của các cổ phiếu thành phần trong danh mục VN30.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 23:49:19"
+  },
+  {
+    "Title": "Xây dựng hợp tác xã đủ lớn, hướng tới top 300 thế giới",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/xay-dung-hop-tac-xa-du-lon-huong-toi-top-300-the-gioi-10026082116024128.htm",
+    "PubDate": "8/21/2026 9:00:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính định hướng chính sách dài hạn cho mô hình hợp tác xã, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có nhóm ngành hưởng lợi trực tiếp. Đây là định hướng chính sách vĩ mô dài hạn, không tạo ra biến động dòng tiền ngắn hạn trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 23:49:08"
+  },
+  {
     "Title": "FUEABVND: Thông báo thay đổi giá trị tài sản ròng tuần từ 14/08/2026 đến 20/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbXNfOUlpZjh1b00xa2RSajZwSXlqQTB3OGplaUFDYy1sQ0FFb0NiclZQbGtvb0NXcDRTemhOXzVwb1Jxc3dtWnZvLVNha21GU3lrN2ZWRmQzOEFyU1FzWmRFYWgweW52bmwzWml6bm1Xc1ZPUXZWeGo0aTF2dnB2MW9oWXE4ajZoQWoyWG1CdmJOb3JDdVJQd1dfMVQyQ2l2eWlocW5JZ0xYQjR5c2ljaGxZX3RDcE5JS2lfQno1TVRyQy1YQzRYSkhsSWpSakpYWDBRdFBvOURXOGs?oc=5",
@@ -16677,57 +16735,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-15 06:57:54"
-  },
-  {
-    "Title": "FUESSV50: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObU9ZaGNlcDIwaWlZREU4cVk2WWZIY1pxZ1M3Zkl6Q3BVMmhWbzIyRVpsVWJmVGlTMnFYVDEtY081NjNURUk3a1RQYndwWjVhU0l5dVhBSWFyOTdmN3N2M3RoRW9xZVNkSFdmUFhQeWZSdnJydFdGY2oxXzlGNHVIOUpOb05hdkUxRjBmbWc1amZpWGtmRnhFVTZOaWRlU0FKQWVaeUVVa0J5QUlWNk9idFRDbHN5UElUTlR3NU5VY3NZWXpxSFRMeG0tSVNOTmVzYXp2TE9xSkdncU9hSFhaT19wWQ?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 02:10:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo hành chính về việc thay đổi niêm yết chứng chỉ quỹ ETF, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thủ tục hành chính thay đổi niêm yết quỹ ETF, không tạo ra biến động dòng tiền hay thay đổi giá trị nội tại của các cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 06:15:52"
-  },
-  {
-    "Title": "Hơn 450.000 tỷ đồng 'hàng mới' lên thị trường trong khoảng 1 năm qua: Mã 'bé hạt tiêu' nhân bằng lần, cổ phiếu 'hàng hiệu' bay hơn 20% - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd0lNREozUVc4ZUkwaXI0aWVtZk5HSmNCdkY2TjIxVEREVWM0WGpud2ExNF9qOG9YOExoSU81MmY4LXIwN0hxdE1WbmtqOGI1OXlndXowUTdmcWcxbGpwbHdaaTVQb2xxRUV6blRTOEVQUUhzdHBRVm5WNFJTRTg4aXB6WFdtUEp6M3lJQm40dkhTVnNpMmUtUzZKejhBN2ZRaVRhZHpiZTNBZ20zMmJTODFHNktxdkJOdmRETEoxVTd0M0xpZUlfSDlHSXNBVHdpd2RJcUdYeUhGSXVUQ0JjXzdjMjNBR091RVJoSTZkbmFpS0ZTdVlj?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 23:30:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết tổng hợp dữ liệu lịch sử về các đợt niêm yết mới, không phản ánh thông tin kinh tế vĩ mô hay thay đổi nội tại doanh nghiệp có khả năng tác động đến giá cổ phiếu trong tương lai.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Bài viết mang tính chất thống kê dữ liệu quá khứ, không cung cấp tín hiệu giao dịch mới cho dòng tiền thông minh.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 06:15:38"
-  },
-  {
-    "Title": "FUEKIVFS: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTkwTklJRGN3SlpCQXVOcG0wVjExZjBEZzVyZ0tEQzhIQk9ZdkV3ejlDV3p5WUJjblE3aW14d1BQZS1HWkJMQTd1WUNXR0NSTTlLaXJTQldQRy1Vel9NVkwyWlMyVEh4Y2dvSloyczZJanktOEVuczB0NDlpcmc4QU5pZHBmWlBvZ2N1bHZsejlIcTV5THJxUnNTRnNYcGlHZWd2M1pDNDQ4ZGRXMEhHVnhORXdpTzl1TjJPTjZMOVNxZlZ0S0swRW01SEQ1VVJpdWo5NzNNVVliYl81TXpONWdWRQ?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 02:11:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo hành chính về thay đổi niêm yết của chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Thay đổi niêm yết là thủ tục hành chính định kỳ, không ảnh hưởng đến dòng tiền hay xu hướng giá của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 06:15:13"
-  },
-  {
-    "Title": "Giá vàng hôm nay 15/8/2026 biến động mạnh, SJC và vàng nhẫn đồng loạt giảm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-15-8-2026-bien-dong-manh-sjc-va-vang-nhan-dong-loat-giam-2545619.html",
-    "PubDate": "Sat, 15 Aug 2026 06:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá vàng trong nước chủ yếu phản ánh cung cầu thị trường bán lẻ và giá vàng thế giới, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng bán lẻ không ảnh hưởng đến biên lợi nhuận doanh nghiệp niêm yết. Dòng tiền không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 06:14:52"
   }
 ]
