@@ -1,20 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 21/08/2026
+⏱ Thời gian: 08:15 - 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động tại nhiều ngân hàng vượt 9%/năm: [Tiêu cực] -> Tạo áp lực lên chi phí vốn (COF) toàn thị trường và làm suy giảm sức hấp dẫn của định giá cổ phiếu (P/E), đặc biệt gây áp lực lên nhóm Tài chính (CTCK) và Bất động sản.
-- Đẩy mạnh thoái vốn nhà nước tại các doanh nghiệp vốn hóa tỷ USD: [Tích cực] -> Kỳ vọng dòng tiền khối ngoại tập trung vào các mã Bluechip/VN30 có lộ trình thoái vốn, tăng thanh khoản thị trường.
-- Tăng trưởng GDP dự báo đạt 8%: [Tích cực] -> Củng cố niềm tin vĩ mô, hỗ trợ nhóm Ngân hàng (VCB, TCB) trong việc mở rộng tín dụng.
+- **Lãi suất huy động tăng (>9%)**: Đánh giá tiêu cực. Chi phí vốn (COF) tăng cao sẽ ép biên lợi nhuận doanh nghiệp vay nợ nhiều và làm suy giảm sự hấp dẫn của kênh chứng khoán đối với nhà đầu tư cá nhân -> **Dòng tiền có xu hướng thận trọng, rút khỏi nhóm vốn hóa lớn và các doanh nghiệp BĐS có đòn bẩy tài chính cao.**
+- **Sửa đổi chính sách pháp lý BĐS**: Đánh giá tích cực (dài hạn). Việc tháo gỡ nút thắt pháp lý kỳ vọng cải thiện nguồn cung -> **Dòng tiền hướng vào nhóm BĐS có dự án sẵn sàng triển khai (VHM, PDR, NLG).**
+- **Thoái vốn nhà nước tại doanh nghiệp vốn hóa lớn**: Đánh giá tích cực. Tạo kỳ vọng thay đổi quản trị và tăng thanh khoản -> **Dòng tiền sẽ tập trung vào các mã thuộc diện thoái vốn (Blue-chips có vốn Nhà nước).**
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI**
-- Động lực (FA): Áp lực từ lãi suất huy động tăng (giảm nhu cầu margin) đối trọng với tín hiệu tích cực từ giao dịch mua vào của người nội bộ (100 tỷ đồng).
-- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể phân hóa. Lực mua nội bộ tạo vùng đệm tâm lý, nhưng áp lực vĩ mô (lãi suất) sẽ kìm hãm đà tăng giá.
-- Hành động: Tiếp tục quan sát; theo dõi mốc hỗ trợ cứng dựa trên giá mua của người nội bộ.
-- Mã: **NVL**
-- Động lực (FA): Mục tiêu bàn giao 2.300 căn hộ trong nửa cuối năm, cải thiện dòng tiền.
-- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp cho bảng cân đối kế toán, giúp giảm rủi ro thanh khoản.
-- Hành động: Chú ý giải ngân nếu dòng tiền có sự xác nhận của khối ngoại (hưởng ứng xu hướng thoái vốn/nâng hạng).
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- Hiện chưa có tin tức mới đột biến về EIB và BSR trong chu kỳ này. Giữ nguyên vị thế theo chiến lược nắm giữ cũ.
+- **Mã: VHM**
+  - Động lực (FA): Hưởng lợi kép từ sửa đổi pháp lý dự án, nhưng đối mặt với áp lực lãi suất tăng.
+  - Nhận định dòng tiền: Giằng co giữa kỳ vọng tháo gỡ pháp lý và áp lực chi phí lãi vay; cần quan sát vùng hỗ trợ.
+  - Hành động: Tiếp tục quan sát, chưa giải ngân mới cho đến khi xu hướng lãi suất ổn định lại.
+- **Mã: SSI**
+  - Động lực (FA): Nội bộ mua vào 100 tỷ đồng (tín hiệu mạnh), tuy nhiên bị đối nghịch bởi rủi ro thanh khoản từ mặt bằng lãi suất tăng.
+  - Nhận định dòng tiền: Dòng tiền nội bộ có thể tạo đệm đỡ cho giá, nhưng áp lực bán ròng từ khối ngoại (do rủi ro vĩ mô) có thể xảy ra.
+  - Hành động: Quan sát chặt chẽ tại vùng giá nội bộ mua vào; chú ý rủi ro vi phạm kịch bản nếu thị trường chung phản ứng tiêu cực với tin lãi suất.
+- **Mã: NVL**
+  - Động lực (FA): Kế hoạch bàn giao 2.300 căn nhà nửa cuối năm.
+  - Nhận định dòng tiền: Cải thiện dòng tiền kinh doanh giúp giảm áp lực nợ vay, tạo điểm tựa cho cổ phiếu.
+  - Hành động: Chú ý giải ngân nếu dòng tiền thị trường duy trì ổn định.
+- **Mã: DBC, BAF**
+  - Động lực (FA): Giá heo giảm và sức mua yếu.
+  - Nhận định dòng tiền: Tiêu cực, dòng tiền có khả năng rút lui khỏi nhóm chăn nuôi.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc chốt lời nếu có nhịp hồi.
