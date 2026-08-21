@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:30 - 21/08/2026
+⏱ Thời gian: 15:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng tại eo biển Hormuz gia tăng rủi ro nguồn cung năng lượng toàn cầu và đẩy chi phí logistics lên cao -> Tác động: Tiêu cực (với ngành vận tải biển) / Tích cực (với nhóm dầu khí) -> Dòng tiền sẽ phân hóa mạnh vào nhóm Dầu khí (PVD, PVS) và chịu áp lực rút khỏi nhóm Vận tải biển (HAH).
+- **Thông tin cốt lõi:** SCIC lên kế hoạch thoái vốn quy mô lớn trong bối cảnh kỳ vọng nâng hạng FTSE kết hợp với áp lực từ lợi suất trái phiếu Mỹ tăng cao (đỉnh từ 2007). 
+- **Đánh giá tác động:** Tích cực (trung - dài hạn) đối với nhóm vốn hóa lớn có vốn Nhà nước; Tiêu cực (ngắn hạn) đối với áp lực tỷ giá và chi phí vốn toàn thị trường.
+- **Dòng tiền:** Sẽ tập trung vào các mã Bluechip có tỷ lệ sở hữu Nhà nước cao (VNM, VCB, GAS, SAB) để đón đầu sóng thoái vốn, trong khi nhóm doanh nghiệp vay nợ ngoại tệ lớn hoặc nhạy cảm với lãi suất sẽ bị bán ròng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu dự báo duy trì mức cao do rủi ro nguồn cung tại vùng Vịnh, hỗ trợ trực tiếp biên lợi nhuận mảng dịch vụ khoan.
-- Nhận định dòng tiền: Dòng tiền có xu hướng tìm đến nhóm năng lượng khi bất ổn địa chính trị leo thang; kỳ vọng lực cầu mạnh trong ngắn hạn.
-- Hành động: Chú ý giải ngân nếu test lại vùng hỗ trợ kỹ thuật gần nhất.
-
-- Mã: **PNJ**
-- Động lực (FA): Rủi ro pháp lý vụ buôn lậu kim cương được gỡ bỏ, giải tỏa tâm lý thị trường.
-- Nhận định dòng tiền: Dòng tiền đầu cơ đang chảy vào mạnh (bật trần), tuy nhiên cần thận trọng với áp lực chi phí dự phòng trong quý II.
-- Hành động: Tiếp tục quan sát; ưu tiên quản trị rủi ro nếu giá tiếp cận vùng kháng cự mạnh.
-
-- Mã: **KDM**
-- Động lực (FA): Bị cắt Margin.
-- Nhận định dòng tiền: Áp lực bán giải chấp từ tài khoản sử dụng đòn bẩy sẽ gia tăng.
-- Hành động: Rủi ro vi phạm kịch bản; ưu tiên hạ tỷ trọng nếu đang nắm giữ.
+- **Mã: VNM, VCB, GAS, SAB**
+  - **Động lực (FA):** Kế hoạch thoái vốn của SCIC được xác nhận từ Bloomberg.
+  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart money) sẽ bắt đầu gia tăng tỷ trọng tại các mã này để cơ cấu danh mục đón đầu "Game" thoái vốn.
+  - **Hành động:** Chú ý giải ngân từng phần (Entry phù hợp với kỹ thuật) khi thị trường rung lắc do áp lực tâm lý từ lợi suất trái phiếu Mỹ.
+- **Mã: PVD**
+  - **Động lực (FA):** Bất ổn tại eo biển Hormuz khiến nguồn cung năng lượng thắt chặt, giá dầu neo cao.
+  - **Nhận định dòng tiền:** Hưởng lợi từ tâm lý phòng thủ và kỳ vọng lợi nhuận nhóm dầu khí.
+  - **Hành động:** Tiếp tục quan sát; canh nhịp chỉnh để gia tăng vị thế khi giá dầu thế giới xác nhận vùng nền mới.
+- **Mã: LCD, HEV, KDM**
+  - **Động lực (FA):** Bị đưa vào diện kiểm soát/cắt margin do vấn đề tài chính/công bố thông tin.
+  - **Nhận định dòng tiền:** Áp lực bán tháo và giải chấp ngắn hạn rất lớn.
+  - **Hành động:** Rủi ro vi phạm kịch bản cao; tuyệt đối không bắt đáy, ưu tiên thoát vị thế để bảo toàn vốn.
