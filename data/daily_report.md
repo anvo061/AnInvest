@@ -1,21 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:15 - 22/08/2026
+⏱ Thời gian: 02:40
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thủ tướng Việt Nam đàm phán tháo gỡ rào cản thuế quan với phía Mỹ -> Đánh giá: **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm Xuất khẩu (Dệt may: TNG, Thủy sản: VHC).
-- Khối ngoại duy trì áp lực bán ròng các mã vốn hóa lớn (VHM, HPG, VNM, VIC, MSN) trước kỳ review nâng hạng -> Đánh giá: **Tiêu cực** -> Gây áp lực điều chỉnh lên chỉ số chung và nhóm cổ phiếu Bluechip.
-- Thông tin tích cực từ việc cổ phiếu Ngân hàng lọt rổ FTSE GEIS -> Đánh giá: **Tích cực** -> Kỳ vọng lực cầu từ khối ngoại đối với nhóm VCB, TCB, MBB, CTG, VPB.
+- Đàm phán tháo gỡ rào cản thuế quan với Mỹ cho hàng dệt may, thủy sản -> Tích cực -> Nhóm Xuất khẩu (TNG, VHC).
+- Áp lực bán ròng khối ngoại trước kỳ review nâng hạng -> Tiêu cực -> Nhóm vốn hóa lớn (VHM, HPG, VNM, VIC, MSN).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **PNJ**
-  - Động lực (FA): Xác nhận không thay đổi quy trình kinh doanh, rủi ro pháp lý về kim cương lậu được loại bỏ hoàn toàn.
-  - Nhận định dòng tiền: Giải tỏa tâm lý bán tháo, dòng tiền có thể quay lại do định giá bị chiết khấu quá đà trước tin đồn.
-  - Hành động: **Chú ý giải ngân** (theo dõi điểm break-out hỗ trợ kỹ thuật).
-- Mã: **DGC**
-  - Động lực (FA): Bị cắt margin.
-  - Nhận định dòng tiền: Áp lực bán giải chấp ngắn hạn do giảm sức mua của nhà đầu tư dùng đòn bẩy.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng chờ cân bằng.
+- Động lực (FA): Xác nhận không dính líu kim cương lậu và giữ nguyên quy trình vận hành.
+- Nhận định dòng tiền: Rủi ro pháp lý đã được triệt tiêu, dòng tiền đầu cơ hoảng loạn tạm dừng, tâm lý nhà đầu tư ổn định trở lại.
+- Hành động: Theo dõi sát lực cầu bắt đáy; vùng giá hiện tại có thể xem xét tích lũy lại nếu giữ được nền hỗ trợ cứng.
+
 - Mã: **MWG**
-  - Động lực (FA): Chốt quyền cổ tức tiền mặt sau niêm yết.
-  - Nhận định dòng tiền: Thu hút dòng vốn đầu tư giá trị, neo giữ giá tốt trong bối cảnh thị trường biến động.
-  - Hành động: **Tiếp tục quan sát** (điểm rơi cổ tức là động lực hỗ trợ vùng giá).
+- Động lực (FA): Chốt danh sách cổ tức tiền mặt sau niêm yết.
+- Nhận định dòng tiền: Tạo bệ đỡ tâm lý cho dòng tiền dài hạn/đầu tư giá trị, giảm thiểu tác động tiêu cực từ biến động thị trường chung.
+- Hành động: Tiếp tục quan sát.
+
+- Mã: **DGC**
+- Động lực (FA): Bị cắt margin.
+- Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng mạnh do nhà đầu tư buộc phải hạ tỷ lệ vay; khả năng xuất hiện nhịp điều chỉnh ngắn hạn để kiểm định lại hỗ trợ.
+- Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, tránh bắt dao rơi trong phiên bị cắt margin.
+
+- Mã: **TNG, VHC**
+- Động lực (FA): Triển vọng nới lỏng thuế quan Mỹ.
+- Nhận định dòng tiền: Tín hiệu hỗ trợ tâm lý tích cực, có thể thu hút dòng tiền dẫn dắt nhóm Midcap xuất khẩu.
+- Hành động: Chú ý giải ngân nếu dòng tiền có sự xác nhận tăng về thanh khoản.
