@@ -1,16 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:30 - 22/08/2026
+⏱ Thời gian: 06:00 ngày 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam ghi nhận thâm hụt thương mại kỷ lục do nhập khẩu tăng vọt -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền chịu áp lực bán tại nhóm có nợ vay ngoại tệ lớn và nhóm sản xuất phụ thuộc nhập khẩu nguyên liệu (Thép, Năng lượng)].
+- Việt Nam ghi nhận thâm hụt thương mại kỷ lục do nhập khẩu tăng mạnh -> [Đánh giá: Tiêu cực] -> [Dòng tiền ngắn hạn: Gây áp lực tỷ giá USD/VND, bất lợi cho nhóm ngành có nợ vay ngoại tệ lớn (Điện, Thép) và chịu áp lực chi phí đầu vào cao].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **POW**
-- Động lực (FA): Áp lực thâm hụt thương mại đẩy tỷ giá USD/VND lên cao, gây áp lực trực tiếp lên dư nợ vay ngoại tệ lớn của doanh nghiệp.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ rút khỏi mã này do rủi ro chi phí tài chính tăng vọt ăn mòn lợi nhuận.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
+- Động lực (FA): Thâm hụt thương mại kỷ lục làm tăng áp lực tỷ giá.
+- Nhận định dòng tiền: Rủi ro chi phí tài chính tăng cao trong ngắn hạn do dư nợ vay ngoại tệ lớn; dòng tiền có khả năng suy yếu do lo ngại biên lợi nhuận bị bào mòn.
+- Hành động: Rủi ro vi phạm kịch bản; yêu cầu quan sát chặt diễn biến tỷ giá trong phiên.
 
 - Mã: **HPG**
-- Động lực (FA): Chi phí nhập khẩu nguyên liệu (quặng sắt, than) gia tăng do biến động tỷ giá từ dữ liệu thâm hụt thương mại.
-- Nhận định dòng tiền: Dòng tiền có thể phản ứng tiêu cực ngắn hạn do lo ngại biên lợi nhuận gộp bị co hẹp.
-- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật gần nhất.
+- Động lực (FA): Áp lực tỷ giá tăng làm tăng chi phí nhập khẩu quặng sắt và than.
+- Nhận định dòng tiền: Chịu áp lực bán ngắn hạn do lo ngại biên lợi nhuận gộp chịu tác động tiêu cực từ yếu tố vĩ mô.
+- Hành động: Tiếp tục quan sát phản ứng của vùng hỗ trợ gần nhất, chưa giải ngân mới.

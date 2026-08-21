@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "Giá vàng thế giới tăng vọt, vì sao SJC thấp hơn giá quốc tế?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-the-gioi-tang-vot-vi-sao-sjc-thap-hon-gia-quoc-te-2547824.html",
+    "PubDate": "Sat, 22 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng thế giới và chênh lệch giá SJC là vấn đề quản lý vĩ mô, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Không có tác động trực tiếp đến xu hướng giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 05:47:28"
+  },
+  {
+    "Title": "Bánh trung thu tăng 5.000-7.000 đồng/cái, người bán nói thẳng điều lo ngại",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/banh-trung-thu-tang-5-000-7-000-dong-cai-nguoi-ban-noi-thang-dieu-lo-ngai-2547758.html",
+    "PubDate": "Sat, 22 Aug 2026 05:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc tăng giá bán lẻ bánh trung thu phản ánh chi phí nguyên liệu đầu vào tăng cao, tác động không đáng kể đến doanh thu tổng thể của các doanh nghiệp thực phẩm niêm yết do tính chất thời vụ ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thực phẩm. Giá bán tăng bù đắp chi phí nguyên liệu nhưng rủi ro sức mua suy giảm. Tác động biên lợi nhuận không đáng kể, dòng tiền không có biến động đột biến.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Mảng thực phẩm tiêu dùng có đóng góp từ bánh trung thu nhưng tỷ trọng nhỏ, không ảnh hưởng trọng yếu đến kết quả kinh doanh hợp nhất."
+      },
+      {
+        "Ticker": "KDC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Doanh nghiệp có mảng bánh kẹo nhưng quy mô thị phần bánh trung thu không còn là động lực tăng trưởng chính."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 05:47:18"
+  },
+  {
     "Title": "Vietnam Posts Largest Trade Deficit on Record as Imports Surge - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUNJLUtHcXZUOFZNUkdJSDZXVFRJUk4wUlgybWlJNmVNU3FPcDFHdFZfQlRVcFVDSmF5NXdJa3BxOVFBeTA1RVlSb3lkcF9MNWxBVlJhdzdJZURidklpWEgxWWFScWRlVWlPMnN0NmVwc19XWi13QmtmTWRFUUNzNUtWLVdZZVFteHpjbjFqeDhNeE40X0Jxb09pY0ttei0wUUVVa0ZTbTdwRnc2N1dqdE1rSQ?oc=5",
@@ -16636,48 +16673,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-15 14:14:55"
-  },
-  {
-    "Title": "Doanh số bán lẻ của Mỹ bất ngờ giảm",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/doanh-so-ban-le-cua-my-bat-ngo-giam-5109449.html",
-    "PubDate": "Sat, 15 Aug 2026 12:53:59 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Doanh số bán lẻ Mỹ giảm cho thấy nhu cầu tiêu dùng suy yếu, gây áp lực lên các doanh nghiệp xuất khẩu hàng hóa Việt Nam sang thị trường này.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Sức mua Mỹ suy giảm gây áp lực lên biên lợi nhuận nhóm xuất khẩu. Cần theo dõi sát VHC, TNG. ANV tỷ trọng xuất Mỹ thấp, loại khỏi danh mục ảnh hưởng trực tiếp.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHC",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Mỹ là thị trường xuất khẩu chủ lực, nhu cầu giảm làm giảm sản lượng tiêu thụ."
-      },
-      {
-        "Ticker": "TNG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Đơn hàng dệt may phụ thuộc vào sức mua của người tiêu dùng Mỹ."
-      }
-    ],
-    "AnalyzedAt": "2026-08-15 13:36:23"
-  },
-  {
-    "Title": "MSH - Tăng tốc trong Q2 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjd3cEEwUUJIOFFhb3FoeWpMZ0o5dGFnU0VIVjBOaWNjZXRDb3dHN0pQZ1J5WjBDYXE4c2M1SHZaMXRyd19qZWRvdFNuZE5zWWlXTjVVRDZYNUpJTUNNZXRVeTBJcFp1V0pOSTBlRUtXbmJNSHJOajRQTk8tOEVRMkt1WDdOTW1WMDhfU0lLdks?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 03:48:57 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Kết quả kinh doanh tăng trưởng trong Q2/2026 phản ánh sự phục hồi của đơn hàng xuất khẩu dệt may, củng cố đà tăng giá cổ phiếu MSH và nhóm ngành dệt may trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. MSH ghi nhận tăng trưởng Q2/2026 nhờ đơn hàng xuất khẩu hồi phục. Dòng tiền tập trung vào cổ phiếu có kết quả kinh doanh thực tế, tránh lan man sang các mã cùng ngành chưa có số liệu xác nhận.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MSH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Kết quả kinh doanh tăng trưởng Q2 là động lực trực tiếp thúc đẩy giá cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-15 12:42:43"
   }
 ]
