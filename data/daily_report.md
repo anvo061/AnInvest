@@ -1,28 +1,22 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 22:34 - 21/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 23:15 - 21/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lợi suất trái phiếu Mỹ giảm sau động thái mua lại trái phiếu của FED:** -> **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm **Chứng khoán (SSI, VND)** và **Ngân hàng (VCB)** nhờ áp lực tỷ giá hạ nhiệt, nới lỏng chính sách tiền tệ.
-- **Tín dụng Trung Quốc suy giảm kỷ lục:** -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm **Thép (HPG, HSG)** do lo ngại nhu cầu đầu tư công và xây dựng tại thị trường xuất khẩu trọng điểm suy yếu.
-- **Xuất khẩu rau quả (sầu riêng) bùng nổ:** -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm **Nông nghiệp quy mô lớn (HAG)**.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Lợi suất trái phiếu Mỹ giảm & Tín dụng Trung Quốc suy yếu:** Áp lực tỷ giá hạ nhiệt tạo dư địa cho chính sách tiền tệ nới lỏng (Tích cực: Ngân hàng, Chứng khoán); đồng thời rủi ro cầu thép từ Trung Quốc giảm gây áp lực biên lợi nhuận nhóm xuất khẩu sắt thép (Tiêu cực: Thép). 
+- **Siết trách nhiệm đầu tư công tại TP.HCM:** Đẩy nhanh tiến độ giải ngân dự án (Tích cực: Xây dựng hạ tầng).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **PNJ**
-- **Động lực (FA):** Tâm lý thị trường cải thiện mạnh mẽ, các rủi ro pháp lý/kinh doanh được làm rõ.
-- **Nhận định dòng tiền:** Dòng tiền đầu cơ và khối ngoại quay lại mạnh mẽ, xác nhận phiên tăng trần với xung lực lớn.
-- **Hành động:** Chú ý giải ngân nếu có nhịp test nhẹ trong phiên; nắm giữ theo đà phục hồi.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: SSI, VND, VCB**
+  - Động lực (FA): Lợi suất trái phiếu Mỹ giảm, áp lực tỷ giá hạ nhiệt.
+  - Nhận định dòng tiền: Kỳ vọng thanh khoản cải thiện và nới lỏng margin, dòng tiền có xu hướng xoay trục vào nhóm Tài chính - Ngân hàng.
+  - Hành động: Chú ý giải ngân theo đà tăng (Breakout).
 
-- **Mã:** **HAG**
-- **Động lực (FA):** Kim ngạch xuất khẩu sầu riêng đạt mốc 4 tỷ USD, hưởng lợi trực tiếp từ vùng trồng lớn.
-- **Nhận định dòng tiền:** Dòng tiền ngành nông nghiệp có tín hiệu gia tăng theo tin vĩ mô ngành xuất khẩu.
-- **Hành động:** Tiếp tục quan sát điểm nổ khối lượng để gia tăng vị thế.
+- **Mã: HPG, HSG**
+  - Động lực (FA): Tín dụng Trung Quốc giảm kỷ lục, nhu cầu thép suy yếu.
+  - Nhận định dòng tiền: Rủi ro áp lực bán từ khối ngoại hoặc các quỹ trading theo trend quốc tế.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy ngắn hạn.
 
-- **Mã:** **SSI, VND, VCB**
-- **Động lực (FA):** Áp lực tỷ giá hạ nhiệt (hưởng lợi vĩ mô từ lãi suất Mỹ).
-- **Nhận định dòng tiền:** Dòng tiền sẽ xoay trục từ nhóm sản xuất sang nhóm Tài chính - Chứng khoán khi thanh khoản thị trường kỳ vọng cải thiện.
-- **Hành động:** Chú ý giải ngân theo chiến lược mua gom khi thị trường rung lắc.
-
-- **Mã:** **HPG, HSG**
-- **Động lực (FA):** Nhu cầu tín dụng tại Trung Quốc suy yếu, gây rủi ro biên lợi nhuận xuất khẩu.
-- **Nhận định dòng tiền:** Dòng tiền có khả năng bị rút ra hoặc chững lại do rủi ro từ yếu tố vĩ mô ngoại lai.
-- **Hành động:** Rủi ro vi phạm kịch bản, thận trọng hạ tỷ trọng nếu mất các vùng hỗ trợ kỹ thuật ngắn hạn.
+- **Mã: PNJ**
+  - Động lực (FA): Tâm lý thị trường giải tỏa sau khi các rủi ro pháp lý/kinh doanh được làm rõ.
+  - Nhận định dòng tiền: Dòng tiền lớn quay lại mạnh mẽ, tín hiệu kỹ thuật tích cực.
+  - Hành động: Tiếp tục quan sát điểm re-test hỗ trợ sau phiên bùng nổ.
