@@ -1,22 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:00 ngày 21/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 21:30 - 21/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- FTSE chính thức công bố danh sách 27 cổ phiếu quan trọng và 90 mã vào rổ Micro Cap -> Đánh giá: Tích cực -> Dòng tiền dự kiến hướng vào nhóm vốn hóa lớn (Blue-chips) và nhóm chứng khoán (nhờ kỳ vọng thanh khoản cải thiện).
-- Đề xuất giảm thuế TNCN (bậc 1-3) -> Đánh giá: Tích cực -> Dòng tiền hướng vào nhóm Bán lẻ (MWG) và tiêu dùng thiết yếu.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Danh sách FTSE chính thức:** Việc công bố 27 mã trong danh mục FTSE thu hút dòng vốn ETF ngoại -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm vốn hóa lớn (Blue-chips), cải thiện thanh khoản chỉ số chung.
+- **Xuất khẩu nông nghiệp:** Kim ngạch sầu riêng mục tiêu 4 tỷ USD -> **Tích cực** -> Dòng tiền hướng vào nhóm nông nghiệp có vùng nguyên liệu lớn.
+- **Chính sách Thuế:** Đề xuất giảm thuế TNCN bậc 1-3 -> **Tích cực** -> Dòng tiền hướng vào nhóm Bán lẻ và tiêu dùng thiết yếu.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HPG, VHM, VCB, FPT, MSN, SSI**
-- Động lực (FA): Lọt vào danh mục FTSE (đợt review chính thức).
-- Nhận định dòng tiền: Lực cầu chủ động từ các quỹ ETF ngoại sẽ gia tăng, tạo nền tảng hỗ trợ giá và thanh khoản cho các mã này trong giai đoạn tới.
-- Hành động: Chú ý giải ngân theo nhịp chỉnh của dòng tiền khối ngoại khi các quỹ bắt đầu cơ cấu danh mục.
-
-- Mã: **MWG**
-- Động lực (FA): Hưởng lợi từ chính sách giảm thuế TNCN, trực tiếp gia tăng sức mua nhóm hàng điện tử/tiêu dùng.
-- Nhận định dòng tiền: Phản ứng tích cực nếu chính sách được thông qua sớm.
-- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
-
-- Mã: **VCB, BID**
-- Động lực (FA): Dòng tiền gửi lớn từ khối bảo hiểm (169.000 tỷ) vào hệ thống ngân hàng quốc doanh.
-- Nhận định dòng tiền: Cải thiện thanh khoản và chi phí vốn (CASA), hỗ trợ NIM trong trung hạn.
-- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho vị thế trung hạn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** HAG
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ bùng nổ xuất khẩu sầu riêng và giá bán kỳ vọng cao.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng vào nhóm nông nghiệp khi có tin vĩ mô hỗ trợ xuất khẩu.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá ngắn hạn với vol lớn.
+- **Mã:** HPG, VHM, VCB, FPT, MSN
+  - **Động lực (FA):** Được xác nhận trong danh mục FTSE.
+  - **Nhận định dòng tiền:** Lực cầu chủ động từ các quỹ ETF sẽ tạo "bệ đỡ" giá trong các phiên tới.
+  - **Hành động:** Tiếp tục quan sát biến động dòng tiền khối ngoại; ưu tiên nắm giữ để đón sóng tái cơ cấu.
+- **Mã:** MWG
+  - **Động lực (FA):** Hưởng lợi từ chính sách giảm thuế TNCN (tăng sức mua nội địa).
+  - **Nhận định dòng tiền:** Kỳ vọng cải thiện dòng tiền tiêu dùng trong trung hạn.
+  - **Hành động:** Tiếp tục quan sát, giải ngân thăm dò khi có nhịp điều chỉnh.
