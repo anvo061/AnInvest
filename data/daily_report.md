@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:15
+⏱ Thời gian: 15:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thông tin cốt lõi:** SCIC lên kế hoạch thoái vốn quy mô lớn trong bối cảnh kỳ vọng nâng hạng FTSE kết hợp với áp lực từ lợi suất trái phiếu Mỹ tăng cao (đỉnh từ 2007). 
-- **Đánh giá tác động:** Tích cực (trung - dài hạn) đối với nhóm vốn hóa lớn có vốn Nhà nước; Tiêu cực (ngắn hạn) đối với áp lực tỷ giá và chi phí vốn toàn thị trường.
-- **Dòng tiền:** Sẽ tập trung vào các mã Bluechip có tỷ lệ sở hữu Nhà nước cao (VNM, VCB, GAS, SAB) để đón đầu sóng thoái vốn, trong khi nhóm doanh nghiệp vay nợ ngoại tệ lớn hoặc nhạy cảm với lãi suất sẽ bị bán ròng.
+- SCIC lên kế hoạch thoái vốn quy mô lớn đón đầu nâng hạng FTSE -> **Tích cực (Cấp độ vĩ mô)** -> Dòng tiền sẽ tập trung mạnh vào các cổ phiếu vốn hóa lớn, có tỷ lệ sở hữu nhà nước cao (Blue-chips nhóm dầu khí, ngân hàng, thực phẩm).
+- Lợi suất trái phiếu Mỹ 30 năm đạt đỉnh 2007, gây áp lực tỷ giá -> **Tiêu cực (Cấp độ vĩ mô)** -> Áp lực lên nhóm doanh nghiệp vay nợ ngoại tệ lớn (điện, hạ tầng) và định giá toàn thị trường.
+- Thanh khoản thị trường sụt giảm về vùng thấp ("cú sốc thuế quan") -> **Tiêu cực** -> Áp lực điều chỉnh doanh thu phí môi giới và margin của nhóm ngành chứng khoán (SSI, VND, VCI).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VNM, VCB, GAS, SAB**
-  - **Động lực (FA):** Kế hoạch thoái vốn của SCIC được xác nhận từ Bloomberg.
-  - **Nhận định dòng tiền:** Dòng tiền lớn (Smart money) sẽ bắt đầu gia tăng tỷ trọng tại các mã này để cơ cấu danh mục đón đầu "Game" thoái vốn.
-  - **Hành động:** Chú ý giải ngân từng phần (Entry phù hợp với kỹ thuật) khi thị trường rung lắc do áp lực tâm lý từ lợi suất trái phiếu Mỹ.
-- **Mã: PVD**
-  - **Động lực (FA):** Bất ổn tại eo biển Hormuz khiến nguồn cung năng lượng thắt chặt, giá dầu neo cao.
-  - **Nhận định dòng tiền:** Hưởng lợi từ tâm lý phòng thủ và kỳ vọng lợi nhuận nhóm dầu khí.
-  - **Hành động:** Tiếp tục quan sát; canh nhịp chỉnh để gia tăng vị thế khi giá dầu thế giới xác nhận vùng nền mới.
-- **Mã: LCD, HEV, KDM**
-  - **Động lực (FA):** Bị đưa vào diện kiểm soát/cắt margin do vấn đề tài chính/công bố thông tin.
-  - **Nhận định dòng tiền:** Áp lực bán tháo và giải chấp ngắn hạn rất lớn.
-  - **Hành động:** Rủi ro vi phạm kịch bản cao; tuyệt đối không bắt đáy, ưu tiên thoát vị thế để bảo toàn vốn.
+- Mã: **VNM, VCB, GAS, SAB**
+- Động lực (FA): Hưởng lợi trực tiếp từ chủ trương thoái vốn của SCIC và kỳ vọng nâng hạng thị trường.
+- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các tài sản chiến lược có nền tảng cơ bản tốt để đón sóng thoái vốn, bất chấp sự phân hóa thanh khoản chung của thị trường.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo rung lắc chung của chỉ số do áp lực tỷ giá.
+
+- Mã: **SSI, VND, VCI**
+- Động lực (FA): Báo cáo thanh khoản sụt giảm nghiêm trọng làm suy yếu kỳ vọng doanh thu môi giới và margin.
+- Nhận định dòng tiền: Dòng tiền đang có dấu hiệu rút ra hoặc thận trọng, khả năng cao sẽ xảy ra phân hóa mạnh, chỉ giữ lại các mã có câu chuyện riêng (như VND với nghiệp vụ chứng quyền).
+- Hành động: Quan sát chặt chẽ, rủi ro vi phạm kịch bản ngắn hạn nếu thanh khoản thị trường không cải thiện trong 2 phiên tới.
+
+- Mã: **POW**
+- Động lực (FA): Áp lực tỷ giá từ lợi suất trái phiếu Mỹ gây tăng chi phí nợ vay ngoại tệ và nguyên liệu.
+- Nhận định dòng tiền: Tiêu cực, dòng tiền sẽ ưu tiên bán hạ tỷ trọng để tránh rủi ro tỷ giá.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/cơ cấu danh mục.
