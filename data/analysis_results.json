@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Vietnam Posts Largest Trade Deficit on Record as Imports Surge - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUNJLUtHcXZUOFZNUkdJSDZXVFRJUk4wUlgybWlJNmVNU3FPcDFHdFZfQlRVcFVDSmF5NXdJa3BxOVFBeTA1RVlSb3lkcF9MNWxBVlJhdzdJZURidklpWEgxWWFScWRlVWlPMnN0NmVwc19XWi13QmtmTWRFUUNzNUtWLVdZZVFteHpjbjFqeDhNeE40X0Jxb09pY0ttei0wUUVVa0ZTbTdwRnc2N1dqdE1rSQ?oc=5",
+    "PubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Thâm hụt thương mại kỷ lục gây áp lực lên tỷ giá USD/VND, làm tăng chi phí nhập khẩu nguyên liệu và rủi ro lạm phát, gây bất lợi cho các doanh nghiệp có nợ vay ngoại tệ lớn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Thâm hụt thương mại kỷ lục gây áp lực tỷ giá USD/VND. Rủi ro chi phí tài chính tăng cao đối với doanh nghiệp vay nợ ngoại tệ lớn và nhập khẩu nguyên liệu đầu vào.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có dư nợ vay ngoại tệ lớn, chi phí tài chính sẽ tăng mạnh khi tỷ giá biến động bất lợi."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí nhập khẩu nguyên liệu đầu vào (quặng sắt, than) tăng do tỷ giá, gây áp lực lên biên lợi nhuận gộp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 05:25:38"
+  },
+  {
     "Title": "FUEMAV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 20/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGJIMU9EYTlubXBtOXlxMllJY3dwcklUeFpnb1ROSEc3S3YxUFBKUDcxNDV6SDZzVzVKUk53TVRsS1VfRzdyWTVkTW4yaExnYzA4N21KMno1eS0ybDlRUDhBWkllSkREWUMwVk1hSWVSemhRdVpyT0g0LTBROTBiejJFc0NlRHFRVUhwb0thSm5IRTVSZnA4d01vczJ5RGJncDl5cDlPZ204UzZRRXlTcFFmcXBtNnRhUkZTRE5fb1l5V2w0VG00TTJZSmVPZUFKTG1J?oc=5",
@@ -16655,18 +16679,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-15 12:42:43"
-  },
-  {
-    "Title": "Khi nào nhà đầu tư chứng khoán có thể được mở tài khoản online? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXBzR0ZUckdNX0lrd094Q0E5SzVwZnhURmZHeElWTS1jVHgyT3pNbURHUFdmVzdVN29pMWtMaFlySHRCZ1V2ZXhSRHVXQ3Mwc1pZMGRyLUtfbUpQWGVZVTk3STlMZzl0TFY4VDRMU1RrR2FORUtoTFpZcEVIWFd3N1FtS2FFajFEYWEwbEF1dGNKSnJRb3dOWXI5MjdFYUNzeUdYMA?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 05:25:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc đẩy mạnh mở tài khoản online giúp các công ty chứng khoán tối ưu chi phí vận hành, tăng tốc độ tiếp cận khách hàng mới và cải thiện thị phần thông qua chuyển đổi số.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức về mở tài khoản online đã bão hòa, không còn là yếu tố đột biến tạo alpha cho nhóm chứng khoán. Tác động thực tế lên biên lợi nhuận không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 12:42:28"
   }
 ]
