@@ -1,5 +1,110 @@
 ﻿[
   {
+    "Title": "VIEW Yields fall after US Treasury says it will double some bond buybacks - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVlWdFdnWlU0S0d1Wjl4Y29odDBTcV81Tm4wU1JNNTM4MzNQN1ZrMXZVWTNsR1UxNUNYUTNXN3BBMG91NENRLXUxRVRkYnJKajlPWDlLam5LRGxuaG5EbG9hWlJqZHFyZjUtaGFhdHFSU0FGQjRqc1VEbmY1QTgtdDFacWp0TjZmVEFnS3ZESXJGUllQMjVqS3pLbEpvaVc5OUhxS0lPdw?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 15:31:47 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Lợi suất trái phiếu Mỹ giảm làm giảm áp lực tỷ giá lên VND, tạo dư địa cho NHNN duy trì chính sách tiền tệ nới lỏng, hỗ trợ thanh khoản thị trường chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Lợi suất Mỹ giảm hạ nhiệt áp lực tỷ giá, giảm rủi ro dòng vốn ngoại rút ròng. Ưu tiên nhóm Ngân hàng và Chứng khoán có beta cao với lãi suất.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ thanh khoản thị trường cải thiện khi áp lực tỷ giá hạ nhiệt."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Dòng tiền margin tăng mạnh nhờ kỳ vọng chính sách tiền tệ nới lỏng."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Áp lực tỷ giá giảm giúp ngân hàng ổn định bảng cân đối và biên lãi thuần."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 22:01:16"
+  },
+  {
+    "Title": "China July bank loans post record contraction as credit demand falters - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWjFXMjdobXhQVG1kNHlDU2lLZWZHQmxnd2lRRnZwaDUxZU00SHo3eExRWVVjSm9EN21KbDlZNmJadDUyUnQ2eG5sRll6TVdiamszbzBjbFNfbWVBbF9sTVZOcGF1clhzOGVmTVJueTNOTXJScEZXU3ZqMWZSMDJRcjFmWWNXZC1KWUQwbXQtTDdDejVyUFVHTlNEUENzWlhsb2VOdkZkRzFWci1oTzkwMUlTN2U?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 10:33:29 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Sự suy giảm tín dụng tại Trung Quốc báo hiệu nhu cầu tiêu thụ nguyên vật liệu và hàng hóa từ Việt Nam sang thị trường này sẽ suy yếu, gây áp lực lên các ngành xuất khẩu chủ lực.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Tín dụng Trung Quốc co hẹp gây áp lực lên giá thép khu vực. Cần thận trọng với nhóm thép xuất khẩu. Thủy sản ít chịu tác động trực tiếp từ tín dụng xây dựng.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhu cầu thép tại Trung Quốc suy yếu làm giảm giá thép khu vực, ảnh hưởng biên lợi nhuận xuất khẩu."
+      },
+      {
+        "Ticker": "HSG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro giảm giá bán tôn mạ tại thị trường Trung Quốc do nhu cầu tín dụng xây dựng thấp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 22:00:58"
+  },
+  {
+    "Title": "FUESSV50: Thông báo thay đổi giá trị tài sản ròng tuần từ 14/08/2026 đến 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc05lQ0tLRml6bDhiQUVuZTZXV2xNWGE2ZkZ4WlFveHpncVRUVUV0RXNNSVVkZHd1NnkxaU1QODNrQ09zTUhpa2Y3UFBxUlFJUWo4cjdxX1NZdmJvTlM3dWZHZzZORk5xaGFOb3pSVGZ1S2FSdTluQnlIZGhoUjZYMXRUVm5fQkktdHVOZHhLTXRCZ0pFRk1PS0p2LVAyOHRLU01qLWFpaGxkWEY4Z1ZoS1d5ei1JZXJud1U5Vl9LNVdWbTRCVFFSWEZ2UTB1OUtCbHBDR1pUaEdIUW8?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 09:38:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược đầu tư của các doanh nghiệp thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 22:00:48"
+  },
+  {
+    "Title": "FUEMITEC: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 21/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWlpZEJXOTZUOUZiRDVQcmlMNlkydExwTjNQNWNNUkFqMEhPUjh5U3pyRkVkVHRmaHBMOWJJSzBmTmlsQ3pId2hFYmtqRVRvUWotTEJsWjNrSUFwRVhvVzJCOGJRTUxfeGU4Q3pWaWVVODF0Rnl2ZzZzWGtYb2w4NHd6VURzeHM4NVBOZldVcXZWNWltVlk2SmZDeTNCQTI5TTlaUXVkVmVBTjdzWEdZOEhKOEdBYi1MdzdtdUk2SF9Vd3h0T3NYUGtoYWlKNkhkQVRN?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 02:09:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không mang tính chất thay đổi chiến lược hay tác động đến hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 22:00:34"
+  },
+  {
+    "Title": "Ngày làm bù 22/8, thị trường chứng khoán có giao dịch không? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0JNSVJuRENOcmszbTNydVdCYnVWaWVnQVppVzd4QUtSN0VFclNEbWdxc1ZzMWEtUDBpSGV1RS15cHdWT3ljM1I0RmpGNXZrd2FIZlFkeWxkWFZ1cmpURC16dlplLTVwSVVBLXlKNGhrLXJNNklDVnNkM09jdUw4MmYyOGpIbG8zemxOUG9Kd2dIeEc2NzRtQVRfRkgxOXc?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 14:28:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về lịch làm việc hành chính, không ảnh hưởng đến hoạt động kinh doanh hay dòng tiền của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là thông tin lịch làm việc hành chính, không có giá trị giao dịch hay thay đổi cung cầu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 22:00:25"
+  },
+  {
+    "Title": "Nên giảm thuế cho doanh nghiệp có doanh thu trên 10 tỷ đồng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nen-giam-thue-cho-doanh-nghiep-co-doanh-thu-tren-10-ty-dong-5111868.html",
+    "PubDate": "Fri, 21 Aug 2026 20:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Đề xuất giảm thuế thu nhập doanh nghiệp giúp cải thiện biên lợi nhuận ròng và dòng tiền hoạt động cho các doanh nghiệp sản xuất, bán lẻ và dịch vụ quy mô vừa và lớn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Đây chỉ là đề xuất chính sách, chưa có văn bản pháp lý cụ thể. Tác động thực tế lên EPS chưa rõ ràng. Cần theo dõi lộ trình phê duyệt tại Quốc hội.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 22:00:08"
+  },
+  {
     "Title": "FUEDCMID: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 21/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdm55emJmcm5Hc1ZFNVIzYXVaaEFwb3E3dGdid0E4MEh3MzUyUmZoTC1ESnFzdm0zSWpwWmNnMUR2R3BXa2M1Y0xaYlE2ZDdTdWVxRS1POEdmdWllbm5sTDdhY1FTakZoV0V6dlBIZGFnSkJyWk9MMlV1dGIzWTgyazFEc28tWU03VFhOUlVLV18yUTZVcFZJaWpIR01IVW9KNEdvQ1pUWkRnX3ZkRm1lMHdDQ3VtZm82UnNHeWhUYlVrN2hFeFA0WmtyTHJnTnlIVGQw?oc=5",
@@ -16629,95 +16734,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-15 05:41:22"
-  },
-  {
-    "Title": "HCT: Bị kiểm soát, duy trì cảnh báo từ 19.8.2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMGdVM3Q1T1lVbzk2UFdtWUN2UFVOcVI1TVZDVjh2aEZtU1NVbWNUVTNYVGZIVFlJSnF5ZW5MWjJoOElwd3lBVjVYUE9ZTFJtVHpXaC1JSnkzRDRZVU5GRmNiTnEzTV9YaFY5NDhYZGFOY1hPbjJTd21SOHJ1MWYzU2kwWk13QkRXS0tub0NjXzNEU0d1U1M0YkJOV0I3OEdTaGtMSHZYcUxSMmpJU2R6dTNYd2lrRHZMdlRORmdqVWtyMmVVTDcxRmtqWDVoUkFPemZETFc2aGxyTnBFZlRyTTlSLTRvOFBudkNPbDNQcERxa0o2ZDBuTGpOSnlUcHFRX2ZqNFdieFIycHZScklxSGxOWTA?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 17:00:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -8,
-    "MarketImpact": "Việc HCT bị đưa vào diện kiểm soát và duy trì cảnh báo phản ánh tình trạng tài chính yếu kém, gây rủi ro thanh khoản và hạn chế giao dịch cho nhà đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - HCT. Cổ phiếu vào diện kiểm soát, rủi ro hủy niêm yết cao. Khuyến nghị: Thoát vị thế ngay lập tức, tuyệt đối không bắt đáy.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HCT",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Bị đưa vào diện kiểm soát và duy trì cảnh báo làm hạn chế khả năng giao dịch và gia tăng rủi ro cho nhà đầu tư."
-      }
-    ],
-    "AnalyzedAt": "2026-08-15 05:40:33"
-  },
-  {
-    "Title": "FUEDCMID: Kết thúc giao dịch hoán đổi ngày 13/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmFGWjYxemZHbGYwZE1HSmRGbG5adWdZb3lrZVZMX05iQVVJbjVubDREaFBVQ0MwNHJ6RGpvaUlkYTF1R1N1ZW9id2FjYzJQUWVwanhqLUc4aXBLbU5FbmdZdkFiVHJmT1pOYXRZeDNXR3RQTlktZHJWeU1LRUR2NElqNmhwdDV2Q1Z0bi05aUo3SHQ5R25rcFktcFppN0VFaWQycEhVQnpHeG9ueUdyUmtndWJrdw?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 09:55:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay dòng tiền của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ hoán đổi chứng chỉ quỹ ETF thông thường, không tạo ra biến động dòng tiền trên thị trường cơ sở. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 05:40:15"
-  },
-  {
-    "Title": "DOC: Ngày đăng ký cuối cùng lấy ý kiến cổ đông bằng văn bản, trả cổ tức bằng tiền mặt - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWNNaFgtQm1nTlBPV0xTVEY0bG15eW02a3lCbmcwU2NXUG55TDNmZGxWMXlnZ0YyRnJtVzc1ellLNFFTTHl6OF9QdnZXQUpTRG9fNWliQWUyRjVFUzJmaDNaVHY5RzByZ256b3FiNTNQSEZubzh3RVgwc3UzLUMzMXl3TW1OOUhnY1Rwb2lERWQ1T056aGpqZVJKTnozalZZVmM0MUtrdUFEOU4yRFBFeFRmb19lempRb1JlTVRuOTNhUQ?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 09:49:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc trả cổ tức tiền mặt cho thấy tình hình tài chính ổn định và dòng tiền mặt dồi dào của doanh nghiệp, tạo tâm lý tích cực cho cổ đông hiện hữu.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - DOC. Cổ tức tiền mặt là tín hiệu sức khỏe tài chính tốt. Dòng tiền đầu tư giá trị sẽ phản ứng tích cực, hỗ trợ giá cổ phiếu trong ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DOC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Việc chi trả cổ tức tiền mặt khẳng định năng lực tài chính và tạo niềm tin cho nhà đầu tư."
-      }
-    ],
-    "AnalyzedAt": "2026-08-15 04:58:22"
-  },
-  {
-    "Title": "FUEKIVFS: Thông báo thay đổi giá trị tài sản ròng ngày 13/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU04wVTJFX3RKUkkzT0dkS2pDZ3B1UThXTkIxMlo1WXQ4TGZocDFGU3M5V29IalN6X1BfYkpFMm03Q3RKSXhkbXRyRzhOOGtXRFktZHgzd1I5ekF4cVYtcjkydGQ4REpUYUd4SEJEQU5NMXQyTDUxYlZqdVhtQmdScFpQc0ZaN1BkSnRmZE5rcERXYVl2SmlYQkVSeVA3V0RXSUdmb1VUTlZUVWtHNTAxWVcwV203bXNpT0hna1liVmF6ZW9aRWc?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 07:11:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay xu hướng thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 04:58:09"
-  },
-  {
-    "Title": "SHS: Nghị quyết Hội đồng quản trị - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNamxKYVZUVTNFN0VWTmhUTXhRX2lUVGt1cjZfMHJoWjBkY1NrYkkwTnBwaC1aV0FPcVM4aEYxdWpDclpqamZWdW5rS0RsWFItek04RVFHVk5La2MzUkIxRk5zNkdub25WVFZxenZwc0l6WUZLNW51WHc4VzZsWTM4REpTd3FuUmtMenhCNEI0UTdrMGJIdHpF?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 08:48:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về nghị quyết HĐQT thường mang tính chất hành chính hoặc công bố thông tin định kỳ, không chứa đựng các thay đổi đột biến về chiến lược kinh doanh hay tài chính.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Chứng khoán. Nghị quyết HĐQT không chứa thông tin bất thường về dòng tiền hay lợi nhuận. Dòng tiền sẽ phản ứng theo xu hướng chung của thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 04:57:43"
-  },
-  {
-    "Title": "FUEIP100: Thông báo thay đổi giá trị tài sản ròng ngày 13/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHVyOXI4ZDhNOWZLNnlzWnhxSkJ6MjgtcWpoMi1reG9tX0QycWRSU2E2eWtpVndIbXVvNVJMN3lDWkp1M2JFSWgzVGVVTXBzVk41b212elJOS1BnWjhCVHBRWU9Tc2hHeDlfcXlVOG9LeExUSjlqUEpLSXpjNEhOVzM1a1VsWExiRmV0Y2QxZlY5UDVwQUpQWk9OS1k4dlNvNThSVlY1UGJwRVNEdmRHc0pJbU5LTHNQcjVIdXlFVEh5VFV2ZEE?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 09:18:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay xu hướng vĩ mô của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch cho dòng tiền thông minh.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 04:41:28"
   }
 ]
