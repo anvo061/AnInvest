@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "FUEKIVND: Kết thúc giao dịch hoán đổi ngày 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWtETjJ3bmlyVlBMeVRMT0djTUZoWkxRVUJXc0xlc2xDbFVhNFN5UUctMXQzVksxTm5uSnBnaWZ0N3RveE90ekhyRXRFRm9SX3BUSlhaUTkzb2ZfX3FUeDJZQ0JtWWFMZTBReXVwMUNwMUhMYTdCTENhVDhMNUgwS1ZNX1o4ZnJVbE1BN0R6X3hYWEpEOFhNMThObm11ZS1rX0M0R0hwT1ZhWW9wTnVVN29CWmFHZw?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 09:47:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến giá trị tài sản ròng hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Đây là hoạt động nghiệp vụ thông thường của quỹ ETF, không tạo ra biến động dòng tiền đáng kể trên thị trường cơ sở. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 22:34:13"
+  },
+  {
+    "Title": "FUETPVND: Thông báo thay đổi giá trị tài sản ròng ngày 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZDBwWHFyNHF6Yi1pdE1kLTFwMml5MlhucGdyb1EwOVZYOUpxUXZ3Sk5lOEtHNjZjVnlzOU1GYmFDZmd1Q3NzOWFNQ2hheFlZeHozdkNTR0ZueTdYWmpNQzRoN3QxencxMlFJdnVpeGU3cEdMMHRyc3dUdTh0UTdKVG9kbjdrZW9JQWo3eFN2RU44WGJpcE1mSFlaVllFYnhVTlNIZGp5NUlONXBHeHNGOVY0MUt4NXBlT1psVHU3NkRRQUk0Rnc?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 10:29:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về biến động giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi chiến lược hay tác động trực tiếp đến giá cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là báo cáo định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-21 22:34:03"
+  },
+  {
+    "Title": "PNJ tím lịm và đã ‘thở phào’? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VOTJsMG1OaEFkT3ZqMDcxM25BYkNNSkdHS1RXeGY2Tjcyb0F5bUUtZlRtTnIzcGJvWTZpaTF0Q3JfcWlObkdMOThSQjU1djlZYy1oRkZESGZjRzRicWxIcHY0YmpsazZqZFJrZGhpUVVFR1lh?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 04:12:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc cổ phiếu PNJ tăng trần phản ánh tâm lý nhà đầu tư tích cực sau khi các lo ngại về rủi ro pháp lý hoặc kinh doanh được giải tỏa, thúc đẩy dòng tiền quay lại nhóm bán lẻ trang sức.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. PNJ tăng trần do tin tức giải tỏa tâm lý, không phải thay đổi nội tại. Cần thận trọng với bẫy bull-trap khi thanh khoản chưa xác nhận bền vững.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tâm lý thị trường cải thiện mạnh mẽ, dòng tiền lớn quay lại sau khi các thông tin tiêu cực được làm rõ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-21 22:33:47"
+  },
+  {
     "Title": "VIEW Yields fall after US Treasury says it will double some bond buybacks - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVlWdFdnWlU0S0d1Wjl4Y29odDBTcV81Tm4wU1JNNTM4MzNQN1ZrMXZVWTNsR1UxNUNYUTNXN3BBMG91NENRLXUxRVRkYnJKajlPWDlLam5LRGxuaG5EbG9hWlJqZHFyZjUtaGFhdHFSU0FGQjRqc1VEbmY1QTgtdDFacWp0TjZmVEFnS3ZESXJGUllQMjVqS3pLbEpvaVc5OUhxS0lPdw?oc=5",
@@ -16695,44 +16740,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-15 05:57:29"
-  },
-  {
-    "Title": "Nuôi tôm càng xanh ‘vượt lũ’ ở Quảng Trị, 5 ha mang về hơn 2,3 tỷ đồng mỗi năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/nuoi-tom-cang-xanh-vuot-lu-o-quang-tri-5-ha-mang-ve-hon-2-3-ty-dong-moi-nam-2544459.html",
-    "PubDate": "Sat, 15 Aug 2026 05:38:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là mô hình sản xuất nông nghiệp quy mô hộ gia đình, không có tác động đáng kể đến doanh thu hoặc biên lợi nhuận của các doanh nghiệp thủy sản niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Thủy sản. Mô hình nuôi trồng quy mô nhỏ lẻ, không ảnh hưởng đến cấu trúc doanh thu của các doanh nghiệp thủy sản lớn. Không tác động dòng tiền.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 05:57:17"
-  },
-  {
-    "Title": "Doanh nghiệp nào được dùng hóa đơn điện tử không có mã của cơ quan thuế?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/doanh-nghiep-nao-duoc-dung-hoa-don-dien-tu-khong-co-ma-cua-co-quan-thue-2545573.html",
-    "PubDate": "Sat, 15 Aug 2026 05:45:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hướng dẫn về thủ tục hành chính thuế, không làm thay đổi hoạt động kinh doanh, doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là quy định hành chính về hóa đơn, không tạo ra thay đổi về dòng tiền hay lợi nhuận doanh nghiệp. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 05:57:08"
-  },
-  {
-    "Title": "E1VFVN30: Kết thúc giao dịch hoán đổi ngày 13/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzNWRzdYQXdtTm9vRmFORmhlSW5oaTFtUlgzNHVoTE05S0ZraF9hY1E1bXMyd3U1emRneEZZSTREWUUyYm9fcFY0TC1IamZGcTc5ZUNLMWtYMkhiLXNMcUFQNEN3UjgtamtFOVpBeHkyRFoySW1fNXhXVlRyRUp4Wm51ZkJVWUJBNU9kd0UwWVgzMUdVbHNxQVpzcEtJTGhiUGMxT0VfQmtVanQtdllISHVlZ09iQQ?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 09:45:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về giá trị tài sản ròng hay chiến lược đầu tư, không tác động đến cung cầu cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ quỹ ETF định kỳ, không tạo ra biến động dòng tiền bất thường cho các mã trong rổ VN30.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 05:41:22"
   }
 ]
