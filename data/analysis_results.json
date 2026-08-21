@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "FUEMAV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGJIMU9EYTlubXBtOXlxMllJY3dwcklUeFpnb1ROSEc3S3YxUFBKUDcxNDV6SDZzVzVKUk53TVRsS1VfRzdyWTVkTW4yaExnYzA4N21KMno1eS0ybDlRUDhBWkllSkREWUMwVk1hSWVSemhRdVpyT0g0LTBROTBiejJFc0NlRHFRVUhwb0thSm5IRTVSZnA4d01vczJ5RGJncDl5cDlPZ204UzZRRXlTcFFmcXBtNnRhUkZTRE5fb1l5V2w0VG00TTJZSmVPZUFKTG1J?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 02:14:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về hoạt động kinh doanh hay vĩ mô, không tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 04:45:42"
+  },
+  {
+    "Title": "FUEMITEC: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 20/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjhnaEpkdDJTWi03dmI1Y2tCbzhTdU05S1RUY3dUTkFlUkNHTjdUdm5lTFBubmNwREdDRXpzQlFkbUZ6SGdqNktCZ3loRm1pODFaRlFkVDJHNGsxcUU5VlRKYnFEWl96ZnRCdEpxNTZ0b3FwU1Riam9tMGt2bTJmXzVDNndUT3NjT3JUUmR5YndiVzdXQk15T0Q1RVozdklfckpfaGYxVXhfWnM0VzB2UVZUdERvTnhjajVuMnRJMUNPU2hzTklFaUNaWFFzWVNHdHAw?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 02:18:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho các mã thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 04:45:32"
+  },
+  {
+    "Title": "DRG: 03.09.2026, ngày GDKHQ trả cổ tức bằng tiền mặt (169đ/cp) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmE3UXNFOGxKb2RybzVsVTEycl9MMGpFbTI1Mm5IVzZPWm55N1Y3dnpwY256aVpHOVZEbTgzT1U1UkQ2eE5QYUR6WFZmWVN0UzJsTjBJbHhKbEtVV09kMk00aDJQVGJmRzZ3VjdxR004dGxaZ2Zka0djbVNncVBoRks3eWlhSWtQOGlnbURnRHF0YmVibGg4MGpNS0c5S3RtLVVyVC1QNnNvMy1zUUdXb2NuSHJMdw?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 17:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt là hoạt động định kỳ, không làm thay đổi đáng kể giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - DRG. Cổ tức tiền mặt là hoạt động thường niên, không tạo đột biến dòng tiền. Giá cổ phiếu sẽ điều chỉnh tương ứng vào ngày GDKHQ. Không có tác động lan tỏa ngành.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "DRG",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Chi trả cổ tức tiền mặt là hoạt động tài chính bình thường, giá cổ phiếu sẽ điều chỉnh giảm tương ứng vào ngày GDKHQ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 04:45:22"
+  },
+  {
     "Title": "NAC: 04.09.2026, ngày GDKHQ trả cổ tức bằng tiền mặt (2.200đ/cp) - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUpDTUxza0xIQjJZczVoZjZMaHJPbzFYSDZTX3o1UlZ6SC1fR2RFdjVTTlFWYmFnNlRWNWItd0ltTFJ3bzYxTUhBc3Rob1FNOHNyOW9wS0RyMUNuTmd5Zmx1VG1Ybm16T0o4dTM2RTlVMlhoUzVCeEV2cmF5Umtla1RrWGVKcmczcGJMaFY4UzNyWGh3ZExPR25SMGJPYmFxUDliY0lTRVV2WFdKMUYxdzltMkc5OVU?oc=5",
@@ -16623,56 +16668,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-15 12:42:28"
-  },
-  {
-    "Title": "Tự doanh công ty chứng khoán đảo chiều mua ròng gần 1.100 tỉ đồng sau tuần bán kỷ lục",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tu-doanh-cong-ty-chung-khoan-dao-chieu-mua-rong-gan-1100-ti-dong-sau-tuan-ban-ky-luc-100260815100607523.htm",
-    "PubDate": "8/15/2026 11:04:00 AM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc khối tự doanh đảo chiều mua ròng mạnh cho thấy sự tự tin trở lại của dòng tiền thông minh, giúp cải thiện tâm lý thị trường và hỗ trợ thanh khoản cho các mã vốn hóa lớn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Tự doanh đảo chiều mua ròng 1.100 tỷ đồng sau nhịp bán kỷ lục. Dòng tiền thông minh quay lại hỗ trợ thanh khoản, kỳ vọng tạo đáy ngắn hạn tại nhóm vốn hóa lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ sự cải thiện thanh khoản và tâm lý thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-15 12:42:08"
-  },
-  {
-    "Title": "MSB 35 năm - Khi di sản được viết tiếp bởi những con người hôm nay",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/msb-35-nam-khi-di-san-duoc-viet-tiep-boi-nhung-con-nguoi-hom-nay-2545708.html",
-    "PubDate": "Sat, 15 Aug 2026 12:01:12 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết mang tính chất kỷ niệm, truyền thông thương hiệu nhân dịp kỷ niệm thành lập, không chứa thông tin tài chính hay chiến lược kinh doanh mới tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Tin tức mang tính chất truyền thông thương hiệu, không có tác động đến dòng tiền hay thay đổi vị thế tài chính của MSB.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-15 12:14:58"
-  },
-  {
-    "Title": "CTD__MUA_Từ phục hồi tới tăng trưởng - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWFSc0ZFeVFWSUVrdy1HcFZiTElaYzV6UHhmQnk0QUktdTM3VWJZYmdCclk2NkpJUDJtOXBUOTZWc1IxZ0JUWnNORkZidG91Nm42RDMyUUp2X0FvVUFEeE1xQ2hmNWY1OWw1N1dSWDZrYXhSN0NZYlR2czVjb2NVaEd1VWpTX0JCVm4xRl9qcVUwaFFhZHFQcHhn?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Khuyến nghị mua từ các tổ chức tài chính phản ánh kỳ vọng vào sự cải thiện biên lợi nhuận và backlog dự án của Coteccons, thúc đẩy tâm lý tích cực cho nhóm xây dựng dân dụng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR, thiếu số liệu backlog cụ thể. Dòng tiền cần xác nhận qua khối lượng giao dịch tại vùng hỗ trợ trước khi giải ngân.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "CTD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Được nâng hạng triển vọng tăng trưởng, thu hút dòng tiền đầu tư vào cổ phiếu xây dựng đầu ngành."
-      }
-    ],
-    "AnalyzedAt": "2026-08-15 11:53:50"
   }
 ]
