@@ -1,23 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:00 - 21/08/2026
+⏱ Thời gian: 18:30 - 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kỳ vọng nâng hạng & chính sách đất đai:** Dòng tiền đầu cơ đổ mạnh vào nhóm Chứng khoán (+33 điểm VN-Index) kết hợp với khung pháp lý đất đai mới làm minh bạch hóa định giá bất động sản -> Tích cực -> Dòng tiền tập trung vào nhóm Chứng khoán (đón sóng nâng hạng) và Bất động sản (vốn hóa lớn, quỹ đất sạch).
+- **Kỳ vọng nâng hạng thị trường và động thái mua ròng từ tự doanh:** Dòng tiền tổ chức đang củng cố niềm tin vào nhóm ngành Chứng khoán, kỳ vọng hưởng lợi từ sự gia tăng thanh khoản và phí môi giới -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào: Nhóm Chứng khoán (SSI, VND, HCM, VCI)].
+- **Điều chỉnh Luật Đất đai (Định giá đất theo cơ chế mới):** Tác động tích cực tới các doanh nghiệp BĐS có quỹ đất sạch và pháp lý minh bạch, giảm thiểu rủi ro pháp lý dài hạn -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào: Nhóm Bất động sản (VHM, KDH)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: SSI, VND, HCM, VCI**
-    - Động lực (FA): Kỳ vọng nâng hạng thị trường, thanh khoản bùng nổ, khối tự doanh và khối ngoại đồng loạt mua ròng.
-    - Nhận định dòng tiền: Dòng tiền đang tập trung cường độ cao vào nhóm này để đón đầu xu hướng nâng hạng.
-    - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng tại các nhịp điều chỉnh trong phiên (nếu có).
-- **Mã: VHM, KDH**
-    - Động lực (FA): Luật Đất đai sửa đổi với cơ chế định giá mới giúp triệt tiêu giá ảo, đẩy nhanh tiến độ pháp lý dự án.
-    - Nhận định dòng tiền: Hưởng lợi từ sự cải thiện tâm lý thị trường chung và nền tảng cơ bản được củng cố.
-    - Hành động: Chú ý giải ngân vị thế nắm giữ cho mục tiêu trung hạn.
+    - **Động lực (FA):** Sự cộng hưởng giữa dòng tiền tự doanh tích cực và kỳ vọng nâng hạng thị trường.
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ đang tập trung mạnh, tạo hiệu ứng lan tỏa toàn nhóm ngành.
+    - **Hành động:** Chú ý giải ngân (tận dụng nhịp chỉnh nếu có), theo dõi sát diễn biến khối lượng trong phiên kế tiếp.
 - **Mã: APS**
-    - Động lực (FA): Bị cắt margin.
-    - Nhận định dòng tiền: Rủi ro bán giải chấp cao, dòng tiền đầu cơ sẽ rút lui.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu đang nắm giữ.
-- **Mã: VGI**
-    - Động lực (FA): Mở rộng thị trường quốc tế thứ 11.
-    - Nhận định dòng tiền: Tích cực dài hạn, củng cố vị thế doanh nghiệp.
-    - Hành động: Tiếp tục quan sát để tìm điểm vào theo xu hướng tăng.
+    - **Động lực (FA):** Bị đưa vào danh sách không được phép giao dịch ký quỹ (cắt Margin).
+    - **Nhận định dòng tiền:** Áp lực bán giải chấp từ các tài khoản dùng đòn bẩy sẽ tăng cao.
+    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy trong giai đoạn mất thanh khoản margin.
