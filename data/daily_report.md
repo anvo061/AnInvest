@@ -1,22 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:10 ngày 21/08/2026
+⏱ Thời gian: 13:40 - 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Maersk nâng dự báo lợi nhuận nhờ giá cước vận tải biển tăng cao -> Đánh giá: Tích cực -> Dòng tiền sẽ hướng vào nhóm cổ phiếu Vận tải biển và Logistics.
-- Giá năng lượng toàn cầu phát tín hiệu báo động (tăng) -> Đánh giá: Tích cực -> Dòng tiền sẽ hướng vào nhóm Dầu khí (Thượng nguồn).
+- Ngành Vận tải biển & Logistics: Maersk nâng dự báo lợi nhuận nhờ nhu cầu và giá cước toàn cầu tăng cao -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung vào nhóm cảng biển và vận tải container (GMD, HAH).
+- Ngành Năng lượng: Tín hiệu báo động thị trường năng lượng toàn cầu -> **Tích cực** -> Kỳ vọng tăng giá thuê giàn khoan và dịch vụ dầu khí (PVD, PVS).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD
-- Động lực (FA): Giá năng lượng toàn cầu biến động tăng, trực tiếp cải thiện biên lợi nhuận từ giá thuê giàn khoan.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ gia tăng vào nhóm dầu khí để đón sóng giá năng lượng.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc tích lũy trong phiên.
-
-- Mã: GMD, HAH
-- Động lực (FA): Maersk (tập đoàn logistics hàng đầu thế giới) nâng dự báo lợi nhuận nhờ nhu cầu và giá cước vận tải duy trì cao.
-- Nhận định dòng tiền: Lan tỏa tâm lý tích cực từ thị trường quốc tế, tạo xung lực tăng giá ngắn hạn cho nhóm vận tải biển Việt Nam.
-- Hành động: Chú ý giải ngân theo đà tăng trưởng của ngành.
-
-- Mã: FPT
-- Động lực (FA): Sở hữu lượng tiền mặt khổng lồ, thu lãi ngân hàng trung bình 27 tỷ/ngày.
-- Nhận định dòng tiền: Điểm tựa tài chính vững chắc giúp giảm rủi ro thị trường, thu hút dòng tiền trú ẩn an toàn.
-- Hành động: Tiếp tục quan sát để nắm giữ vị thế.
+- Mã: **PNJ**
+  - Động lực (FA): Thông tin làm rõ vụ việc liên quan đến buôn lậu kim cương, giải tỏa rủi ro pháp lý.
+  - Nhận định dòng tiền: Lực cầu bắt đáy mạnh mẽ sau khi rủi ro được gỡ bỏ; trạng thái kỹ thuật chuyển sang hồi phục nhanh.
+  - Hành động: **Chú ý giải ngân** (theo dõi sát lực cầu duy trì quanh vùng giá hiện tại).
+- Mã: **FPT**
+  - Động lực (FA): Lượng tiền mặt lớn tạo doanh thu tài chính ổn định, củng cố nền tảng tài chính.
+  - Nhận định dòng tiền: Dòng tiền phòng thủ và tăng trưởng bền vững gia tăng vị thế.
+  - Hành động: **Tiếp tục quan sát** (tận dụng nền tảng tài chính mạnh để gia tăng tỷ trọng khi có nhịp chỉnh).
+- Mã: **PVD**
+  - Động lực (FA): Giá năng lượng toàn cầu biến động tăng thúc đẩy nhu cầu dịch vụ khoan.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển vào nhóm năng lượng khi giá dầu có dấu hiệu tăng nhiệt.
+  - Hành động: **Chú ý giải ngân**.
