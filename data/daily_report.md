@@ -1,27 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:40
+⏱ Thời gian: 03:00 - 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Đàm phán tháo gỡ rào cản thuế quan với Mỹ cho hàng dệt may, thủy sản -> Tích cực -> Nhóm Xuất khẩu (TNG, VHC).
-- Áp lực bán ròng khối ngoại trước kỳ review nâng hạng -> Tiêu cực -> Nhóm vốn hóa lớn (VHM, HPG, VNM, VIC, MSN).
+- Thủ tướng Việt Nam đàm phán tháo gỡ rào cản thuế quan với Mỹ (Yellen) -> [Tích cực] -> [Dòng tiền kỳ vọng hướng vào nhóm ngành xuất khẩu chủ lực: Dệt may (TNG), Thủy sản (VHC)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **PNJ**
-- Động lực (FA): Xác nhận không dính líu kim cương lậu và giữ nguyên quy trình vận hành.
-- Nhận định dòng tiền: Rủi ro pháp lý đã được triệt tiêu, dòng tiền đầu cơ hoảng loạn tạm dừng, tâm lý nhà đầu tư ổn định trở lại.
-- Hành động: Theo dõi sát lực cầu bắt đáy; vùng giá hiện tại có thể xem xét tích lũy lại nếu giữ được nền hỗ trợ cứng.
+- Động lực (FA): Thông tin xác định kim cương lậu không liên quan đến PNJ được xác nhận, loại bỏ rủi ro pháp lý/uy tín.
+- Nhận định dòng tiền: Tin tức mang tính giải tỏa tâm lý cực mạnh (relief rally), dòng tiền bán lẻ trang sức sẽ phản ứng tích cực ngay trong phiên tới.
+- Hành động: Chú ý giải ngân (Canh nhịp rung lắc đầu phiên để gia tăng vị thế).
 
 - Mã: **MWG**
-- Động lực (FA): Chốt danh sách cổ tức tiền mặt sau niêm yết.
-- Nhận định dòng tiền: Tạo bệ đỡ tâm lý cho dòng tiền dài hạn/đầu tư giá trị, giảm thiểu tác động tiêu cực từ biến động thị trường chung.
-- Hành động: Tiếp tục quan sát.
-
-- Mã: **DGC**
-- Động lực (FA): Bị cắt margin.
-- Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng mạnh do nhà đầu tư buộc phải hạ tỷ lệ vay; khả năng xuất hiện nhịp điều chỉnh ngắn hạn để kiểm định lại hỗ trợ.
-- Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, tránh bắt dao rơi trong phiên bị cắt margin.
+- Động lực (FA): Thông báo chốt danh sách cổ tức tiền mặt sau niêm yết Điện Máy Xanh.
+- Nhận định dòng tiền: Khẳng định sức khỏe dòng tiền nội tại, thu hút dòng tiền đầu tư giá trị ổn định.
+- Hành động: Tiếp tục quan sát (Bám sát phản ứng quanh ngưỡng hỗ trợ kỹ thuật gần nhất).
 
 - Mã: **TNG, VHC**
-- Động lực (FA): Triển vọng nới lỏng thuế quan Mỹ.
-- Nhận định dòng tiền: Tín hiệu hỗ trợ tâm lý tích cực, có thể thu hút dòng tiền dẫn dắt nhóm Midcap xuất khẩu.
-- Hành động: Chú ý giải ngân nếu dòng tiền có sự xác nhận tăng về thanh khoản.
+- Động lực (FA): Triển vọng hưởng lợi từ các đàm phán tháo gỡ rào cản thương mại với Mỹ.
+- Nhận định dòng tiền: Dòng tiền có xu hướng đón đầu các nhóm ngành hưởng lợi từ chính sách vĩ mô.
+- Hành động: Tiếp tục quan sát (Chờ điểm hợp lưu kỹ thuật trước khi xác nhận giải ngân).
