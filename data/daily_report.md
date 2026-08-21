@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:45
+⏱ Thời gian: 16:35
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- SCIC lên kế hoạch thoái vốn quy mô lớn đón đầu nâng hạng FTSE -> **Tích cực (Cấp độ vĩ mô)** -> Dòng tiền sẽ tập trung mạnh vào các cổ phiếu vốn hóa lớn, có tỷ lệ sở hữu nhà nước cao (Blue-chips nhóm dầu khí, ngân hàng, thực phẩm).
-- Lợi suất trái phiếu Mỹ 30 năm đạt đỉnh 2007, gây áp lực tỷ giá -> **Tiêu cực (Cấp độ vĩ mô)** -> Áp lực lên nhóm doanh nghiệp vay nợ ngoại tệ lớn (điện, hạ tầng) và định giá toàn thị trường.
-- Thanh khoản thị trường sụt giảm về vùng thấp ("cú sốc thuế quan") -> **Tiêu cực** -> Áp lực điều chỉnh doanh thu phí môi giới và margin của nhóm ngành chứng khoán (SSI, VND, VCI).
+- Khối ngoại đảo chiều mua ròng mạnh mẽ trên diện rộng, đặc biệt tập trung vào nhóm Ngân hàng và các mã vốn hóa lớn trong phiên VN-Index tăng 34 điểm -> Tích cực -> Dòng tiền sẽ hướng mạnh vào nhóm Ngân hàng (dẫn dắt) và nhóm Chứng khoán (hưởng lợi từ thanh khoản cải thiện).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VNM, VCB, GAS, SAB**
-- Động lực (FA): Hưởng lợi trực tiếp từ chủ trương thoái vốn của SCIC và kỳ vọng nâng hạng thị trường.
-- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các tài sản chiến lược có nền tảng cơ bản tốt để đón sóng thoái vốn, bất chấp sự phân hóa thanh khoản chung của thị trường.
-- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo rung lắc chung của chỉ số do áp lực tỷ giá.
+- Mã: **SHB**
+- Động lực (FA): Khối ngoại chi số tiền lớn mua ròng trong phiên hôm nay.
+- Nhận định dòng tiền: Tạo hiệu ứng lan tỏa, củng cố đà tăng ngắn hạn; dòng tiền lớn xác nhận tham gia.
+- Hành động: **Chú ý giải ngân** (theo dõi sát lực cầu duy trì ở các phiên kế tiếp).
 
-- Mã: **SSI, VND, VCI**
-- Động lực (FA): Báo cáo thanh khoản sụt giảm nghiêm trọng làm suy yếu kỳ vọng doanh thu môi giới và margin.
-- Nhận định dòng tiền: Dòng tiền đang có dấu hiệu rút ra hoặc thận trọng, khả năng cao sẽ xảy ra phân hóa mạnh, chỉ giữ lại các mã có câu chuyện riêng (như VND với nghiệp vụ chứng quyền).
-- Hành động: Quan sát chặt chẽ, rủi ro vi phạm kịch bản ngắn hạn nếu thanh khoản thị trường không cải thiện trong 2 phiên tới.
+- Mã: **NKG**
+- Động lực (FA): Căng thẳng Mỹ - Trung về cáo buộc lẩn tránh thuế qua nước thứ ba gia tăng rủi ro bị áp thuế phòng vệ thương mại.
+- Nhận định dòng tiền: Áp lực tâm lý đè nặng lên nhóm xuất khẩu thép, rủi ro điều chỉnh ngắn hạn nếu tin tức tiếp tục leo thang.
+- Hành động: **Rủi ro vi phạm kịch bản** (cần quản trị danh mục, hạ tỷ trọng nếu giá vi phạm các ngưỡng hỗ trợ kỹ thuật quan trọng).
 
-- Mã: **POW**
-- Động lực (FA): Áp lực tỷ giá từ lợi suất trái phiếu Mỹ gây tăng chi phí nợ vay ngoại tệ và nguyên liệu.
-- Nhận định dòng tiền: Tiêu cực, dòng tiền sẽ ưu tiên bán hạ tỷ trọng để tránh rủi ro tỷ giá.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/cơ cấu danh mục.
+- Mã: **SSI**
+- Động lực (FA): Hưởng lợi trực tiếp từ sự bùng nổ thanh khoản và tâm lý hưng phấn toàn thị trường.
+- Nhận định dòng tiền: Dòng tiền nội và ngoại đang tập trung mạnh vào các cổ phiếu đầu ngành chứng khoán để đón sóng hồi phục của chỉ số.
+- Hành động: **Tiếp tục quan sát** (vị thế tốt có thể nắm giữ, chờ gia tăng theo sóng thanh khoản).
