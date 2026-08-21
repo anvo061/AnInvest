@@ -1,21 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:35
+⏱ Thời gian: 17:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Khối ngoại đảo chiều mua ròng mạnh mẽ trên diện rộng, đặc biệt tập trung vào nhóm Ngân hàng và các mã vốn hóa lớn trong phiên VN-Index tăng 34 điểm -> Tích cực -> Dòng tiền sẽ hướng mạnh vào nhóm Ngân hàng (dẫn dắt) và nhóm Chứng khoán (hưởng lợi từ thanh khoản cải thiện).
+- **Căng thẳng thương mại Mỹ - Trung (nghi vấn lẩn tránh thuế):** Rủi ro điều tra nguồn gốc xuất xứ hàng hóa xuất khẩu sang Mỹ gia tăng -> **Tiêu cực** đối với các nhóm ngành xuất khẩu chủ lực (đặc biệt là thép) -> Dòng tiền có xu hướng thận trọng, rút bớt khỏi các nhóm nhạy cảm với thuế quan.
+- **Dòng tiền khối ngoại quay lại mua ròng:** Đã lan tỏa sang nhóm Ngân hàng (SHB) và hỗ trợ tâm lý thị trường chung -> **Tích cực** -> Dòng tiền tập trung vào các mã vốn hóa lớn (Bluechips) và nhóm tài chính.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SHB**
-- Động lực (FA): Khối ngoại chi số tiền lớn mua ròng trong phiên hôm nay.
-- Nhận định dòng tiền: Tạo hiệu ứng lan tỏa, củng cố đà tăng ngắn hạn; dòng tiền lớn xác nhận tham gia.
-- Hành động: **Chú ý giải ngân** (theo dõi sát lực cầu duy trì ở các phiên kế tiếp).
-
-- Mã: **NKG**
-- Động lực (FA): Căng thẳng Mỹ - Trung về cáo buộc lẩn tránh thuế qua nước thứ ba gia tăng rủi ro bị áp thuế phòng vệ thương mại.
-- Nhận định dòng tiền: Áp lực tâm lý đè nặng lên nhóm xuất khẩu thép, rủi ro điều chỉnh ngắn hạn nếu tin tức tiếp tục leo thang.
-- Hành động: **Rủi ro vi phạm kịch bản** (cần quản trị danh mục, hạ tỷ trọng nếu giá vi phạm các ngưỡng hỗ trợ kỹ thuật quan trọng).
-
-- Mã: **SSI**
-- Động lực (FA): Hưởng lợi trực tiếp từ sự bùng nổ thanh khoản và tâm lý hưng phấn toàn thị trường.
-- Nhận định dòng tiền: Dòng tiền nội và ngoại đang tập trung mạnh vào các cổ phiếu đầu ngành chứng khoán để đón sóng hồi phục của chỉ số.
-- Hành động: **Tiếp tục quan sát** (vị thế tốt có thể nắm giữ, chờ gia tăng theo sóng thanh khoản).
+- **Mã: NKG, HSG**
+  - Động lực (FA): Căng thẳng thương mại Mỹ-Trung gia tăng, rủi ro bị áp thuế phòng vệ thương mại từ Mỹ.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại chính sách. Dòng tiền ngắn hạn có thể sẽ tránh nhóm này để chuyển hướng sang các nhóm ít chịu ảnh hưởng bởi vĩ mô quốc tế.
+  - Hành động: **Rủi ro vi phạm kịch bản**; cần quan sát chặt vùng hỗ trợ cứng, ưu tiên hạ tỷ trọng nếu tin tức về điều tra thuế cụ thể hóa.
+- **Mã: VGI**
+  - Động lực (FA): Mở rộng thị trường viễn thông quốc tế thứ 11.
+  - Nhận định dòng tiền: Tích cực dài hạn, củng cố đà tăng nhờ kỳ vọng tăng trưởng doanh thu ngoại tệ.
+  - Hành động: **Chú ý giải ngân** nếu có nhịp điều chỉnh kỹ thuật, nắm giữ theo mục tiêu dài hạn.
+- **Mã: APS**
+  - Động lực (FA): Bị cắt Margin (ký quỹ).
+  - Nhận định dòng tiền: Tác động tiêu cực trực tiếp, gây áp lực cung ép bán giải chấp.
+  - Hành động: **Rủi ro vi phạm kịch bản**; tuyệt đối đứng ngoài, tránh bắt đáy trong giai đoạn bị hạn chế sức mua.
+- **Mã: SHB**
+  - Động lực (FA): Khối ngoại mua ròng mạnh.
+  - Nhận định dòng tiền: Dòng tiền thông minh từ tổ chức đang dẫn dắt, hỗ trợ thanh khoản.
+  - Hành động: **Tiếp tục quan sát** xu hướng mua của khối ngoại, duy trì vị thế nếu giá vẫn giữ trên các đường trung bình động ngắn hạn.
