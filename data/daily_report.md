@@ -1,22 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:08 ngày 21/08/2026
+⏱ Thời gian: 12:30 ngày 21/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hãng vận tải biển toàn cầu Maersk nâng dự báo lợi nhuận nhờ nhu cầu và giá cước vận tải phục hồi -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Vận tải biển và Logistics.
-- Thị trường trái phiếu doanh nghiệp sôi động trở lại với các đợt huy động vốn lớn -> **Trung lập (Phân hóa)** -> Dòng tiền sẽ ưu tiên các mã BĐS có nền tảng dự án tốt, tránh xa các mã chịu áp lực đảo nợ cao.
+- Maersk nâng dự báo lợi nhuận nhờ nhu cầu toàn cầu và giá cước vận tải biển tăng cao -> Tích cực -> Dòng tiền kỳ vọng hướng vào nhóm cổ phiếu vận tải biển, Logistics (GMD, HAH).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GMD, HAH**
-- Động lực (FA): Maersk nâng dự báo lợi nhuận toàn cầu, phản ánh sự phục hồi bền vững của lưu lượng hàng hóa và giá cước vận tải biển.
-- Nhận định dòng tiền: Tin tức bổ trợ mạnh cho xu hướng tăng trưởng lợi nhuận của các doanh nghiệp vận tải biển Việt Nam, kỳ vọng thu hút dòng tiền đầu cơ và cả đầu tư giá trị ngắn hạn.
-- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu xác nhận từ khối lượng giao dịch trong phiên.
+- **Mã: GMD, HAH**
+- **Động lực (FA):** Tập đoàn vận tải biển Maersk (đơn vị đầu ngành thế giới) nâng dự báo lợi nhuận do sự phục hồi của nhu cầu và giá cước container.
+- **Nhận định dòng tiền:** Dòng tiền đầu cơ và trung hạn có xu hướng phản ứng tích cực với thông tin từ các "ông lớn" ngành vận tải quốc tế. Đây là tín hiệu gia tăng biên lợi nhuận kỳ vọng cho các doanh nghiệp cảng biển và vận tải trong nước.
+- **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên; quan sát khối lượng khớp lệnh để xác nhận dòng tiền lớn gia nhập.
 
-- Mã: **DHG**
-- Động lực (FA): Chốt quyền trả cổ tức tiền mặt 5.000 đồng/cp.
-- Nhận định dòng tiền: Tạo lực đỡ tâm lý vững chắc, giảm thiểu rủi ro điều chỉnh giá khi thị trường rung lắc.
-- Hành động: Tiếp tục nắm giữ, phù hợp cho danh mục phòng thủ.
-
-- Mã: **VHM, PDR**
-- Động lực (FA): Năng lực huy động vốn trái phiếu thành công giúp củng cố thanh khoản.
-- Nhận định dòng tiền: Dòng tiền thông minh sẽ phân hóa, ưu tiên VHM/PDR trong nhóm BĐS để tối ưu hóa vốn.
-- Hành động: Tiếp tục quan sát kịch bản dòng tiền tại vùng hỗ trợ cứng.
+- **Mã: VHM, PDR**
+- **Động lực (FA):** Kênh huy động vốn qua trái phiếu doanh nghiệp bắt đầu cho thấy dấu hiệu khởi sắc.
+- **Nhận định dòng tiền:** Dòng tiền sẽ phân hóa mạnh. Ưu tiên các mã có năng lực huy động vốn để phát triển dự án (VHM, PDR) thay vì các doanh nghiệp huy động chỉ để đảo nợ.
+- **Hành động:** Tiếp tục quan sát phản ứng của giá tại các vùng hỗ trợ cứng; tránh đuổi giá ở các mã có áp lực tài chính cao (NVL).
