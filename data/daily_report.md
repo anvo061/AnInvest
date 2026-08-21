@@ -1,21 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:15 ngày 22/08/2026
+⏱ Thời gian: 01:25 - 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đàm phán thương mại Việt - Mỹ:** Thủ tướng thúc đẩy tháo gỡ rào cản thuế quan với phía Mỹ -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục sang nhóm Xuất khẩu (Dệt may: **TNG**, Thủy sản: **VHC**).
-- **Review danh mục quỹ ngoại:** FTSE GEIS bổ sung loạt mã Ngân hàng -> **Tích cực** -> Dòng tiền thụ động hỗ trợ thanh khoản nhóm Bluechip (**VCB, TCB, MBB, CTG, VPB**), đối trọng với áp lực bán ròng từ khối ngoại ở nhóm vốn hóa lớn khác (**VHM, HPG, VNM, VIC, MSN**).
-- **Rủi ro vận hành doanh nghiệp:** DGC bị cắt margin và LTG hủy niêm yết bắt buộc -> **Tiêu cực** -> Gây áp lực bán giải chấp ngắn hạn và tâm lý hoang mang tại các mã bị ảnh hưởng trực tiếp.
+- **Nâng hạng thị trường:** Các mã ngân hàng (VCB, TCB, MBB, CTG, VPB) lọt rổ FTSE GEIS tạo tín hiệu tích cực về dòng vốn thụ động ngoại khối -> **Tích cực** -> Dòng tiền tập trung vào nhóm Ngân hàng vốn hóa lớn.
+- **Áp lực Khối ngoại:** Tiếp tục bán ròng mạnh tại nhóm VN30 (VHM, HPG, VNM, VIC, MSN) trước kỳ review nâng hạng -> **Tiêu cực** -> Gây nhiễu và đè nén thanh khoản nhóm Bluechip.
+- **Thương mại Mỹ - Việt:** Đàm phán tháo gỡ rào cản thuế quan -> **Tích cực** -> Dòng tiền hướng vào nhóm Xuất khẩu (TNG, VHC).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TNG, VHC**
-  - Động lực (FA): Triển vọng mở rộng thị phần tại Mỹ nhờ nỗ lực tháo gỡ rào cản thuế quan.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể tìm đến các mã này như một "câu chuyện mới" để lướt sóng ngắn hạn.
-  - Hành động: Theo dõi sát lực cầu tại các vùng hỗ trợ cứng; nếu volume vào đột biến, cân nhắc giải ngân tỷ trọng thấp.
+- **Mã: PNJ**
+    - Động lực (FA): Xác nhận quy trình kinh doanh không thay đổi sau rà soát pháp lý, rủi ro tiêu cực được loại bỏ hoàn toàn.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền "bắt đáy" kỹ thuật quay lại sau khi tâm lý hoảng loạn được giải tỏa.
+    - Hành động: Chú ý giải ngân khi có tín hiệu dòng tiền xác nhận trở lại vùng nền.
 - **Mã: DGC**
-  - Động lực (FA): Bị cắt margin.
-  - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng mạnh khi nhà đầu tư buộc phải đưa tài khoản về ngưỡng an toàn.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng hoặc đứng ngoài quan sát cho đến khi lực bán giải chấp ngưng lại.
-- **Mã: VCB, TCB, MBB, CTG, VPB**
-  - Động lực (FA): Lọt rổ FTSE GEIS.
-  - Nhận định dòng tiền: Dòng tiền "smart money" sẽ duy trì vị thế ở các mã này trong giai đoạn cơ cấu quỹ, tạo điểm tựa cho chỉ số.
-  - Hành động: Tiếp tục giữ vị thế, tận dụng nhịp rung lắc từ khối ngoại để gom thêm nếu có giá chiết khấu.
+    - Động lực (FA): Thông báo cắt margin.
+    - Nhận định dòng tiền: Áp lực bán giải chấp ngắn hạn, thanh khoản suy yếu.
+    - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại các vùng hỗ trợ cứng, tránh bắt dao rơi.
+- **Mã: MWG**
+    - Động lực (FA): Công bố trả cổ tức tiền mặt.
+    - Nhận định dòng tiền: Củng cố niềm tin nhà đầu tư về dòng tiền nội tại của doanh nghiệp bán lẻ.
+    - Hành động: Tiếp tục quan sát đà tăng trưởng, phù hợp giữ vị thế tích sản.
+- **Mã: LTG**
+    - Động lực (FA): Hủy giao dịch bắt buộc trên UPCoM từ 25/8.
+    - Nhận định dòng tiền: Rủi ro thanh khoản cực độ, cần rút vốn ngay lập tức.
+    - Hành động: Rủi ro vi phạm kịch bản nghiêm trọng, ưu tiên thoát vị thế bằng mọi giá (nếu còn).
