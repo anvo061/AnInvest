@@ -1,24 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:15
+⏱ Thời gian: 12:08 ngày 21/08/2026
 
-🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Hãng vận tải biển toàn cầu Maersk nâng dự báo lợi nhuận nhờ nhu cầu và giá cước vận tải phục hồi -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Vận tải biển và Logistics.
+- Thị trường trái phiếu doanh nghiệp sôi động trở lại với các đợt huy động vốn lớn -> **Trung lập (Phân hóa)** -> Dòng tiền sẽ ưu tiên các mã BĐS có nền tảng dự án tốt, tránh xa các mã chịu áp lực đảo nợ cao.
 
-- **Mã: PVD**
-    - **Động lực (FA):** BSC hạ khuyến nghị và điều chỉnh giảm 9% dự báo lợi nhuận năm 2026.
-    - **Nhận định dòng tiền:** Áp lực cung ngắn hạn sẽ gia tăng do hiệu ứng bán theo khuyến nghị từ các định chế tài chính. Cần quan sát phản ứng tại các vùng hỗ trợ kỹ thuật cứng.
-    - **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn; tạm dừng giải ngân, quan sát áp lực bán tại vùng giá hỗ trợ.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **GMD, HAH**
+- Động lực (FA): Maersk nâng dự báo lợi nhuận toàn cầu, phản ánh sự phục hồi bền vững của lưu lượng hàng hóa và giá cước vận tải biển.
+- Nhận định dòng tiền: Tin tức bổ trợ mạnh cho xu hướng tăng trưởng lợi nhuận của các doanh nghiệp vận tải biển Việt Nam, kỳ vọng thu hút dòng tiền đầu cơ và cả đầu tư giá trị ngắn hạn.
+- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu xác nhận từ khối lượng giao dịch trong phiên.
 
-- **Mã: PNJ**
-    - **Động lực (FA):** Kết luận chính thức không liên quan đến vụ án buôn lậu kim cương được công bố.
-    - **Nhận định dòng tiền:** Sự kiện giúp giải tỏa hoàn toàn "phủ định danh dự", dòng tiền đầu cơ và đầu tư giá trị có khả năng quay lại mạnh mẽ sau giai đoạn bị chiết khấu do rủi ro pháp lý.
-    - **Hành động:** Chú ý giải ngân (nếu thị trường chung ổn định).
+- Mã: **DHG**
+- Động lực (FA): Chốt quyền trả cổ tức tiền mặt 5.000 đồng/cp.
+- Nhận định dòng tiền: Tạo lực đỡ tâm lý vững chắc, giảm thiểu rủi ro điều chỉnh giá khi thị trường rung lắc.
+- Hành động: Tiếp tục nắm giữ, phù hợp cho danh mục phòng thủ.
 
-- **Mã: DHG**
-    - **Động lực (FA):** Chốt trả cổ tức tiền mặt 5.000 đồng/cp.
-    - **Nhận định dòng tiền:** Tạo "neo" giá an toàn, thu hút dòng tiền bền vững tìm kiếm thu nhập thụ động trong bối cảnh thị trường biến động.
-    - **Hành động:** Tiếp tục quan sát (cổ phiếu thường phản ứng tích cực sau thông tin cổ tức nhưng cần kiểm soát vùng giá mua để tối ưu lợi tức).
-
-- **Mã: HBC**
-    - **Động lực (FA):** Kế hoạch dồn lực trả nợ trong năm 2026.
-    - **Nhận định dòng tiền:** Tác động tích cực đến niềm tin vào khả năng cải thiện bảng cân đối kế toán. Dòng tiền có xu hướng tích cực hơn khi rủi ro tài chính giảm bớt.
-    - **Hành động:** Quan sát diễn biến dòng tiền tại vùng nền giá.
+- Mã: **VHM, PDR**
+- Động lực (FA): Năng lực huy động vốn trái phiếu thành công giúp củng cố thanh khoản.
+- Nhận định dòng tiền: Dòng tiền thông minh sẽ phân hóa, ưu tiên VHM/PDR trong nhóm BĐS để tối ưu hóa vốn.
+- Hành động: Tiếp tục quan sát kịch bản dòng tiền tại vùng hỗ trợ cứng.
