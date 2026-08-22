@@ -1,24 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:05 ngày 23/08/2026
+⏱ Thời gian: 02:00 ngày 23/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Sức mua tại thị trường Mỹ suy giảm ("Người Mỹ thắt hầu bao") -> [Đánh giá: Tiêu cực] -> [Dòng tiền nhóm xuất khẩu: Dệt may (TNG, MSH), Thủy sản (VHC) chịu áp lực giảm đơn hàng, cần thận trọng].
-- Kỳ vọng nâng hạng thị trường -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào nhóm vốn hóa lớn: Chứng khoán (SSI), Ngân hàng (VCB)].
+- Sức mua tại thị trường Mỹ suy giảm ("Người Mỹ thắt hầu bao") -> Tiêu cực cho nhóm xuất khẩu (Dệt may: TNG, MSH; Thủy sản: VHC) -> Dòng tiền sẽ chịu áp lực bán tại các nhóm ngành phụ thuộc đơn hàng Mỹ.
+- Kỳ vọng nâng hạng thị trường vẫn là động lực trung hạn -> Tích cực cho nhóm Chứng khoán (SSI) và Ngân hàng quốc doanh (VCB) -> Dòng tiền sẽ tập trung vào các mã vốn hóa lớn, thanh khoản cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **BVB, TNC**
   - Động lực (FA): Bị HOSE cắt margin.
-  - Nhận định dòng tiền: Giảm sức mua mạnh, rủi ro bị bán giải chấp từ các tài khoản dùng đòn bẩy.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng hoặc thoát vị thế chờ cân bằng.
+  - Nhận định dòng tiền: Giảm sức mua, rủi ro bị bán giải chấp từ các tài khoản dùng đòn bẩy cao.
+  - Hành động: Theo dõi sát áp lực bán tại vùng hỗ trợ, né tránh nếu tài khoản đang dùng đòn bẩy.
 - Mã: **SZB**
-  - Động lực (FA): Ngày 27/7/2026 GDKHQ trả cổ tức tiền mặt 4.500đ/cp.
-  - Nhận định dòng tiền: Lực đỡ từ nhà đầu tư giá trị, tạo vùng tích lũy ổn định.
-  - Hành động: **Chú ý giải ngân** nếu giá điều chỉnh về vùng hỗ trợ trước ngày GDKHQ.
-- Mã: **SDK**
-  - Động lực (FA): Người nhà lãnh đạo đăng ký bán 686.400 cổ phiếu.
-  - Nhận định dòng tiền: Tạo áp lực cung ngắn hạn, tâm lý tiêu cực đối với nhà đầu tư cá nhân.
-  - Hành động: **Tiếp tục quan sát**, tạm dừng mua mới.
+  - Động lực (FA): Ngày 27/7/2026 chốt quyền cổ tức tiền mặt 4.500 đ/cp.
+  - Nhận định dòng tiền: Tạo lực đỡ giá nhờ dòng tiền đầu tư giá trị tìm đến trước ngày GDKHQ.
+  - Hành động: Tiếp tục nắm giữ, tận dụng nhịp tăng giá trước ngày GDKHQ để quản trị vị thế.
 - Mã: **SJS**
-  - Động lực (FA): Nghị quyết HĐQT thông qua phương án tăng vốn.
-  - Nhận định dòng tiền: Kỳ vọng vào năng lực triển khai dự án, tích cực cho trung hạn nhưng cần theo dõi tiến độ thực hiện.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng hỗ trợ hiện tại.
+  - Động lực (FA): Nghị quyết triển khai tăng vốn điều lệ.
+  - Nhận định dòng tiền: Cải thiện triển vọng thanh khoản và năng lực dự án, tác động tích cực ngắn hạn.
+  - Hành động: Theo dõi phản ứng dòng tiền tại các ngưỡng cản kỹ thuật.
+- Mã: **SDK**
+  - Động lực (FA): Người nhà lãnh đạo đăng ký bán lượng lớn cổ phiếu.
+  - Nhận định dòng tiền: Áp lực cung lớn, tâm lý tiêu cực bao trùm.
+  - Hành động: Cảnh giác rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
