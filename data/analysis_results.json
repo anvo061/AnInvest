@@ -1,5 +1,86 @@
 ﻿[
   {
+    "Title": "Global Funds Sell Record Amount of Vietnam Stocks After Rally - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMk0xT1J4QU9CM0tfQmpaelBtYjRPU2FxLWpHV05pSDNnVGU0M3czNTkyU2NaX3luakN4YU5yRVVLTTlCeVNDSUx6VkNrbmx4WnlrVmxtUGNuenhaamhsR2ZuN1JaY0psa1dIYUlobEFBZjNBVUVMbmc4dVJnN1hEZ20xMTk3bVJBN21udVZNelhObW81Y2txNnVLa3lYMU9xZU9nMmJ5d1R4eHBEckpMV05R?oc=5",
+    "PubDate": "Tue, 02 Sep 2025 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Áp lực bán ròng kỷ lục từ khối ngoại gây tâm lý tiêu cực lên các mã vốn hóa lớn (Bluechips), làm suy yếu thanh khoản và xu hướng tăng giá ngắn hạn của VN-Index.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm VN30. Khối ngoại xả hàng kỷ lục tạo áp lực cung lớn lên các mã trụ. Dòng tiền thông minh sẽ thận trọng, ưu tiên quan sát vùng hỗ trợ cứng của VHM, VCB, HPG.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường là mục tiêu bán ròng chính của khối ngoại, gây áp lực giảm giá ngắn hạn."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu quốc dân chịu áp lực bán ròng mạnh từ các quỹ ETF ngoại."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Vốn hóa lớn, chịu ảnh hưởng trực tiếp khi khối ngoại rút vốn khỏi thị trường."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh mục bị khối ngoại cơ cấu bán mạnh."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Đại diện nhóm chứng khoán, chịu áp lực tâm lý chung khi dòng vốn ngoại rút lui."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 20:42:23"
+  },
+  {
+    "Title": "VTP: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGlHazdHY191QVVaeUpMNWlVTHppSncxUjVCVUU5WFJIYW5GdXlLN3R1UVZMSnBiOFl6TlRrSDQ4NThOeG1obkFmTExrbXY1NjFmNHczb1B6Tk5qTm1jRHFJWTRxVk5lS2h3YXlRa0lBdHBFTldrc3FkQ0J5aXB3U19VNG81ZWFnV2F3S3RpZHcwOGJuSnp4cGJka2NOdE5uMDQwOGxDT1drWGd3UWZB?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 10:27:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - VTP. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không tạo ra biến động dòng tiền hay thay đổi cấu trúc sở hữu đáng kể. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 20:42:13"
+  },
+  {
+    "Title": "Giảm 30% thuế và phép tính của Bộ trưởng Bộ Tài chính Ngô Văn Tuấn",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/giam-30-thue-va-phep-tin-cua-bo-truong-bo-tai-chinh-ngo-van-tuan-10026082217422594.htm",
+    "PubDate": "8/22/2026 6:10:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc giảm thuế thu nhập doanh nghiệp giúp cải thiện biên lợi nhuận ròng cho các doanh nghiệp, đặc biệt là nhóm bán lẻ và sản xuất, từ đó kích thích dòng tiền đầu tư vào thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Chính sách giảm thuế hỗ trợ biên lợi nhuận ròng doanh nghiệp sản xuất và bán lẻ. Cần theo dõi sát lộ trình thực thi để tránh kỳ vọng quá mức vào các mã vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp bán lẻ hưởng lợi trực tiếp từ việc giảm thuế, giúp cải thiện biên lợi nhuận ròng."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm thuế hỗ trợ trực tiếp cho các mảng kinh doanh tiêu dùng và bán lẻ của tập đoàn."
+      },
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngành bán lẻ trang sức hưởng lợi từ chính sách hỗ trợ thuế giúp tăng lợi nhuận sau thuế."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 20:41:57"
+  },
+  {
     "Title": "Tin vui cho cổ đông Hóa chất Đức Giang - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3NfaXh2QkdRU2ZmaHlMQUR5NW5wZjFQQ1lqR0RKNXpsM0ZvU2hORlBLSTY2MExsUWVsLU5MUF9JcXZod3VyVUpabGNaVXBxMGZWTWdDSkcxdEkwNFZ4Z01DMlJsdnIxbkZ4NUlYVWRKTEE4d1c4RkdOckNyWXBCbDZQSVI?oc=5",
@@ -16642,66 +16723,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-16 18:12:58"
-  },
-  {
-    "Title": "Phía sau mức lợi nhuận tăng 300% của 'đại gia' sản xuất điện lớn thứ 2 Việt Nam - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDBqclZ1Sk1hNWk3bDJDeUdic2ZEMTRDY3pTLWdDVF81clZTS3JyUnlfUzRPc0k1X3lIaGhvVDVVTi1jRklob2hnblp2YlFVRkdRSFV6NzlfZndqRVRqRHBqd3NQQzBRNWN5d19wV1BaV3FvSUdvMTByaVk1MUVqNnljMlJveXNDbXRsT1JaeXZRQUFmVmRuQkdDRXk5bXhoT2lhclBWSzJ2Vi1LcE1zX0ctY0FQd00?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 00:24:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Kết quả kinh doanh đột biến của doanh nghiệp điện lớn khẳng định sự phục hồi của nhóm ngành năng lượng, củng cố niềm tin dòng tiền vào các cổ phiếu điện có nền tảng cơ bản tốt.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Điện. Lợi nhuận đột biến xác nhận chu kỳ hồi phục ngành. Dòng tiền tập trung vào mã đầu ngành có tăng trưởng thực chất như POW.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "POW",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Là doanh nghiệp sản xuất điện lớn, hưởng lợi từ tâm lý tích cực của ngành và cải thiện biên lợi nhuận."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 17:57:17"
-  },
-  {
-    "Title": "Bắt đầu khoan thăm dò, khai thác mỏ khí đốt với trữ lượng hơn 113 tỷ mét khối - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkpkaWhJN1BwUDZJWjdGN0ZTWWdDeWxoX1Nqa0dtSkN1aGxleTM3VGM4SnpheWVxMjlHeXoxemdpWUhSYmJobXUxT1FyaXNpSUJoRE1XSVlGNU1JQi1peGFKYkUyU1ZsbDltdFQ5YkRyc0Y3REJoYnA0VUVuSGpaQThKYlpyNzZCYXBGanVtcTNvMjQ2ZGptZlFpRFAwNnpudkUwTFpZX1pPbkNZSEJYY1E3RVBNVHc?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 17:05:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Việc triển khai dự án khí quy mô lớn giúp gia tăng nguồn cung năng lượng, tạo khối lượng công việc khổng lồ cho các doanh nghiệp thượng nguồn và hạ nguồn ngành dầu khí trong dài hạn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Dự án quy mô lớn tạo kỳ vọng tăng trưởng doanh thu dài hạn cho các nhà thầu dịch vụ và đơn vị vận hành. Dòng tiền sẽ tập trung vào GAS, PVS, PVD.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ việc gia tăng nguồn cung khí và mở rộng hạ tầng phân phối khí."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhà thầu dịch vụ kỹ thuật dầu khí hàng đầu, hưởng lợi từ các hợp đồng EPC và khoan thăm dò."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đơn vị cung cấp giàn khoan trực tiếp tham gia vào các dự án thăm dò và khai thác."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 17:57:02"
-  },
-  {
-    "Title": "Chứng khoán thất bại trước mốc 1.800 điểm, điều gì chờ đợi tuần tới? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnV3YjFwNm9JeDRnV09sZFdfMGk5WWRpQjJkNThGem9panUwVTAtQXJxdWNNZzc5SnB2VDU4VTFoZ3ZxWGFzLVpKbG5yaXFjOEo0VDRKRzM0WTdYNVE0UFBmamhJSEdRaXBCR0llQjhvUWs0NkFIOFdhYVRfMlh5RTl6dWJ0WlJDVW1KdXZBNmYzUHhzbGk0S1huUS1WYS1tVGVNSzZOaEw?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 10:40:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết tổng hợp diễn biến thị trường, không chứa thông tin vĩ mô hay doanh nghiệp mới có khả năng thay đổi xu hướng dòng tiền.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất tổng hợp kỹ thuật, không có thông tin mới tác động đến cung cầu. Dòng tiền sẽ tiếp tục vận động theo xu hướng hiện tại.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 17:56:51"
   }
 ]
