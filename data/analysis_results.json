@@ -1,5 +1,56 @@
 ﻿[
   {
+    "Title": "FUEMAVND: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUzJsM2o3dFRVaFJnQXF3RVU2cEtqNl9iUVFwTkRrZnVfcnM5Vy1sbjQ1eE11aXpERm5oSldCeE0wUFBSbVlmRnduSFpxOGZsNFhCRW5vSUJtSVpNS1ctOElmOEp2YjloN1NKakpOSDYzaXVNR3QwQUVPZXNVT3JwZUpLc1RoN0l4ejdlSDZsZGc1bmtnTnB3TFBaVzh2bkJTV0JZeHJFOE5QZFprZTU2VkhtdGMyVHRNR2hwV1owalFoOW1LX0wxdEdsbE54M19CcF9PMUlKLVlmWTNTNXpSQVRDbw?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 02:09:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo hành chính về việc thay đổi niêm yết chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thủ tục hành chính niêm yết quỹ, không tác động đến dòng tiền thị trường hay nhóm ngành cụ thể. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 12:50:33"
+  },
+  {
+    "Title": "MSB: Thông báo ngày ĐKCC phát hành cổ phiếu để tăng vốn cổ phần từ NVCSH - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk1BQUk4dFZuU0tjZFRlQnJ3aHdrWmVGRFFfdUtUOFN6WWJOTG1kSUdwQ1Z2ZUxvZjBCMVpubVoxdzlrTEl3U3NGYlg5aW9xd2VQUFUySHJ4Qmt0Qno3bTdTSGZ4SlhDSXA2Y3Yxa2JmeFB1TU1tSWg2UVhtYkFMRDl5dnIzdjBRWks4bkctM1ZNN28tOTZNQmRMX2l5QW0zSXNNMExwWVNmRHRHTTRQazN6U1JEOGlIOWJBUzY2ZmRRNEV5Wk5qRVJEYw?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 03:28:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc phát hành cổ phiếu từ nguồn vốn chủ sở hữu giúp tăng vốn điều lệ, cải thiện hệ số an toàn vốn (CAR) và năng lực cho vay của ngân hàng, tạo tâm lý tích cực cho cổ đông.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - MSB. Tăng vốn từ nguồn vốn chủ sở hữu giúp củng cố bảng cân đối kế toán. Dòng tiền thường có xu hướng tích lũy trước ngày chốt quyền để đón sóng cổ phiếu thưởng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MSB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn điều lệ giúp ngân hàng mở rộng quy mô tín dụng và cải thiện chỉ số tài chính, thu hút sự quan tâm của dòng tiền ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 12:49:55"
+  },
+  {
+    "Title": "SAL: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjNDQUZzNW1BdDhjeWxhcHlnQ0JaYlNQM2VWMk5XdDI5RmlRel9yTjlpRW5scjNBV195cUhGcEFFUjhvQTBTSkJwcjlibkpfRVJGRFZFZ1JoVnBIaHhsR0xta3IxVjVBS3dCc2tDZkdlSlUxYmJoVHhOWGJDcnotQjhoWUtTZUxfck9lNC1WdG5lNkc5eTB5UVRXQ0lzRmhIa2RVeUFIclBSZVBhMllzbA?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 05:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt thể hiện tình hình tài chính ổn định và cam kết chia sẻ lợi nhuận với cổ đông của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Cổ tức tiền mặt là hoạt động định kỳ, không tạo đột biến dòng tiền. Thanh khoản SAL thấp, tác động giá không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SAL",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc chốt quyền trả cổ tức tiền mặt tạo động lực tăng giá ngắn hạn do kỳ vọng nhận cổ tức của nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 12:49:40"
+  },
+  {
     "Title": "VLW: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONm9rdXZKNldscU1sWGNZNXk2aTJzYzQ3bkxNRi1Da0lfQUdWdUJidDY3bFVFZ1NsWk9OMGJoRmk2RFotTUlYY0c1ODhUZVR0UkRXcUJ1d2lIQllfclpiRVYyX1JGbkpLT0VjZDdHNW52dDI5TGpaQi1JdThOTUUzR0VjYlFjUjhobUVmalBwT2ZtN1c2MkRiZ19fN0NYSVpkYjRwNnR6blN3dmVaTjNoWA?oc=5",
@@ -16686,55 +16737,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 06:54:39"
-  },
-  {
-    "Title": "Thị trường tín chỉ carbon Việt Nam sau 2 tháng giao dịch: 92 doanh nghiệp tham gia - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2VhTVpxVzdtNnp0dElROWRKMHB4V21kODRBczFTTVk2bG5odGhWQWRIWExWX0htNndMdU1sXy01TDAwZW4zT0F0Vjk3NGYwdkRzallJOVFyRWxxUDk3bW4wSUpSVE5OZDZVRUYwanlmSGp2MndSQkF1X3JhdnN1NjM1ZnJDV3FsUHhzbGo1amFTZEMyS0tmLVJzXzBpOUlLaTdCeERyNjNuamRIcjhPRUVsOGcwT1FaS2lEYXpB?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 02:04:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc vận hành thị trường tín chỉ carbon tạo ra nguồn thu nhập mới từ tài sản xanh cho các doanh nghiệp sở hữu quỹ rừng hoặc năng lượng tái tạo, thúc đẩy xu hướng ESG.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Thị trường carbon sơ khai, chưa có khung pháp lý định giá rõ ràng. Tác động tài chính chưa đáng kể trong ngắn hạn. Cần theo dõi lộ trình áp dụng thuế carbon.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GVR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Sở hữu diện tích rừng cao su lớn, tiềm năng chuyển đổi thành tín chỉ carbon mang lại nguồn thu bổ sung."
-      },
-      {
-        "Ticker": "REE",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Danh mục đầu tư năng lượng tái tạo (thủy điện, điện gió) hưởng lợi trực tiếp từ cơ chế tín chỉ carbon."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 06:54:23"
-  },
-  {
-    "Title": "Tin tức sáng 16-8: TP.HCM lấy ý kiến hoàn thiện phương án bồi thường dự án rạch Văn Thánh",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tin-tuc-sang-16-8-tphcm-lay-y-kien-hoan-thien-phuong-an-boi-thuong-du-an-rach-van-thanh-100260815211027446.htm",
-    "PubDate": "8/16/2026 5:00:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là thông tin hành chính về công tác giải phóng mặt bằng tại địa phương, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp bất động sản niêm yết trên sàn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Tin tức mang tính chất hành chính địa phương, không tạo ra thay đổi về dòng tiền hay kỳ vọng lợi nhuận cho các mã BĐS niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 06:32:41"
-  },
-  {
-    "Title": "Giá vàng hôm nay 16/8/2026: Vàng thế giới dậy sóng, trong nước neo cao",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-16-8-2026-vang-the-gioi-day-song-trong-nuoc-neo-cao-2545793.html",
-    "PubDate": "Sun, 16 Aug 2026 06:07:15 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Biến động giá vàng là yếu tố vĩ mô, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Biến động giá vàng là kênh trú ẩn tài sản, không tác động đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 06:09:50"
   }
 ]
