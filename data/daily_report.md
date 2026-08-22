@@ -1,22 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:30 - 22/08/2026
+⏱ Thời gian: 16:48
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thủ tướng chỉ đạo khẩn trương tháo gỡ pháp lý cho các dự án bất động sản tồn đọng -> Đánh giá tác động: Tích cực -> Dòng tiền dự kiến hướng vào nhóm ngành: Bất động sản (BĐS).
-- Định hướng nâng hạng thị trường chứng khoán Việt Nam từ UBCKNN -> Đánh giá tác động: Tích cực (trung hạn) -> Dòng tiền dự kiến hướng vào nhóm ngành: Chứng khoán.
+- Chính phủ chỉ đạo khẩn trương tháo gỡ dự án tồn đọng & định hướng phát triển đô thị lấn biển -> Tác động: Tích cực (Nhóm Bất động sản dân dụng và hạ tầng đô thị).
+- Phát biểu từ UBCKNN về lộ trình nâng hạng thị trường -> Tác động: Tích cực (Nhóm Tài chính - Chứng khoán).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: NVL, PDR, DIG, DXG
-- Động lực (FA): Thủ tướng yêu cầu tháo gỡ pháp lý cho các dự án tồn đọng.
-- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp cho tâm lý nhóm BĐS vốn đang bị đè nặng bởi áp lực nợ vay và rủi ro pháp lý; kỳ vọng thanh khoản cải thiện mạnh trong ngắn hạn.
-- Hành động: Chú ý giải ngân (theo dõi phản ứng giá tại các vùng hỗ trợ kỹ thuật gần nhất).
-
-- Mã: SSI
-- Động lực (FA): Thông điệp nâng hạng thị trường từ cơ quan quản lý.
-- Nhận định dòng tiền: Củng cố vị thế dẫn đầu trong sóng kỳ vọng nâng hạng, hút dòng vốn ngoại và nhà đầu tư tổ chức.
-- Hành động: Tiếp tục quan sát (ưu tiên vị thế cho các nhịp rung lắc).
-
+  - Động lực (FA): Chỉ đạo của Thủ tướng về tháo gỡ pháp lý cho các dự án tồn đọng.
+  - Nhận định dòng tiền: Kỳ vọng giải tỏa áp lực tâm lý và thanh khoản cho nhóm BĐS; dòng tiền đầu cơ sẽ phản ứng nhanh trước thông tin hỗ trợ pháp lý.
+  - Hành động: Chú ý quan sát phản ứng dòng tiền tại vùng hỗ trợ kỹ thuật; không mua đuổi khi chưa có xác nhận từ khối lượng giao dịch.
 - Mã: VHM
-- Động lực (FA): Định hướng cơ chế phát triển đô thị lấn biển.
-- Nhận định dòng tiền: Tác động tích cực đến kỳ vọng tăng trưởng quỹ đất dài hạn, phù hợp với dòng tiền đầu tư giá trị có tầm nhìn xa.
-- Hành động: Chú ý giải ngân (tích lũy dần ở các vùng giá ổn định).
+  - Động lực (FA): Định hướng cơ chế phát triển đô thị lấn biển của Bộ Tài chính.
+  - Nhận định dòng tiền: Hỗ trợ tích cực cho tầm nhìn dài hạn, duy trì lực đỡ cho cổ phiếu trụ.
+  - Hành động: Tiếp tục quan sát phản ứng tại vùng giá hiện tại.
+- Mã: SSI
+  - Động lực (FA): Định hướng nâng hạng thị trường từ UBCKNN.
+  - Nhận định dòng tiền: Hưởng lợi từ tâm lý đón đầu dòng vốn ngoại; nhóm cổ phiếu chứng khoán đầu ngành thường dẫn dắt sóng khi có thông tin nâng hạng.
+  - Hành động: Chú ý giải ngân nếu dòng tiền đồng thuận bứt phá các mốc kháng cự ngắn hạn.
