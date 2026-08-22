@@ -1,24 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:30 ngày 22/08/2026
+⏱ Thời gian: 10:20 - 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thâm hụt thương mại kỷ lục (Bloomberg):** Gây áp lực trực tiếp lên tỷ giá USD/VND và chi phí tài chính doanh nghiệp -> **Tiêu cực** -> Dòng tiền thận trọng với nhóm sản xuất nhập khẩu nguyên liệu (HPG) và doanh nghiệp nợ vay ngoại tệ (POW).
-- **Giá dầu thế giới hồi phục:** Hỗ trợ biên lợi nhuận thượng nguồn -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí (PVD, PVS).
-- **Giá căn hộ tại các đô thị lớn tăng:** Phản ánh nhu cầu thực và khan hiếm nguồn cung -> **Tích cực** -> Dòng tiền hướng vào nhóm Bất động sản dân cư (VHM, KDH, NLG).
+- Giá dầu thế giới duy trì đà tăng kết hợp với xu hướng tăng giá căn hộ tại các đại đô thị -> [Đánh giá tác động: Tích cực đến nhóm Bất động sản và Năng lượng] -> [Dòng tiền sẽ hướng vào: PVD, PVS (Dầu khí) và VHM, KDH, NLG (Bất động sản)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HDB**
-    - Động lực (FA): Dự kiến phát hành 500 triệu USD trái phiếu quốc tế và niêm yết tại London.
-    - Nhận định dòng tiền: Tin tức mang tính định hướng chiến lược dài hạn, giúp cải thiện hệ số CAR và uy tín quốc tế, hỗ trợ tâm lý nhà đầu tư tổ chức trong bối cảnh vĩ mô đang chịu áp lực tỷ giá.
-    - Hành động: Chú ý giải ngân (theo dõi vùng hỗ trợ kỹ thuật để tối ưu hóa giá vốn).
-- **Mã: MWG**
-    - Động lực (FA): Thương hiệu Điện Máy Xanh được định giá cao bởi dòng vốn ngoại.
-    - Nhận định dòng tiền: Tạo động lực tăng giá ngắn hạn, tạo đối trọng với xu hướng điều chỉnh của thị trường chung.
-    - Hành động: Tiếp tục quan sát (xác nhận lực cầu ngoại trong phiên).
-- **Mã: HPG, POW**
-    - Động lực (FA): Áp lực từ thâm hụt thương mại và rủi ro tỷ giá.
-    - Nhận định dòng tiền: Rủi ro điều chỉnh do áp lực chi phí tài chính và biến động tỷ giá.
-    - Hành động: Rủi ro vi phạm kịch bản (cần hạ tỷ trọng nếu thủng vùng hỗ trợ nền).
-
-🔄 3. Cảnh báo Tái cơ cấu (Chỉ xuất hiện nếu có tin về EIB, BSR):
-- *Chưa có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này.*
+- Mã: **MWG**
+  - Động lực (FA): Dòng vốn ngoại ghi nhận sự quan tâm đặc biệt đối với thương hiệu Điện Máy Xanh trong báo cáo từ Bloomberg.
+  - Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, giảm áp lực bán khi thị trường chung biến động.
+  - Hành động: Tiếp tục quan sát tín hiệu dòng tiền khối ngoại tại vùng giá hiện tại.
+- Mã: **HDB**
+  - Động lực (FA): Kế hoạch phát hành 500 triệu USD trái phiếu quốc tế và niêm yết tại London.
+  - Nhận định dòng tiền: Tích cực trong trung hạn nhờ tối ưu chi phí vốn (Cost of Funds) và cải thiện hệ số CAR.
+  - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật ngắn hạn.
+- Mã: **PVD**
+  - Động lực (FA): Giá dầu thế giới tiếp tục xu hướng tăng hỗ trợ trực tiếp biên lợi nhuận dịch vụ khoan.
+  - Nhận định dòng tiền: Dòng tiền kỳ vọng xoay chuyển sang nhóm thượng nguồn khi giá hàng hóa nhạy sóng.
+  - Hành động: Chú ý giải ngân theo đà tăng của giá dầu.
+- Mã: **VHM, KDH, NLG**
+  - Động lực (FA): Giá căn hộ tăng ổn định tại các đại đô thị phản ánh cung-cầu thực.
+  - Nhận định dòng tiền: Kỳ vọng cải thiện biên lợi nhuận gộp trong báo cáo tài chính các quý tới.
+  - Hành động: Tiếp tục quan sát điểm vào kỹ thuật (lưu ý ngưỡng kháng cự ngành).
