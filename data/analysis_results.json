@@ -1,5 +1,61 @@
 ﻿[
   {
+    "Title": "Tin vui cho cổ đông Hóa chất Đức Giang - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3NfaXh2QkdRU2ZmaHlMQUR5NW5wZjFQQ1lqR0RKNXpsM0ZvU2hORlBLSTY2MExsUWVsLU5MUF9JcXZod3VyVUpabGNaVXBxMGZWTWdDSkcxdEkwNFZ4Z01DMlJsdnIxbkZ4NUlYVWRKTEE4d1c4RkdOckNyWXBCbDZQSVI?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 08:06:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tiêu đề bài báo mang tính chất chung chung, không cung cấp thông tin cụ thể về sự kiện kinh doanh, tài chính hay thay đổi vĩ mô tác động đến doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Hóa chất. Tin tức thiếu dữ liệu định lượng cụ thể, không đủ cơ sở để dòng tiền thông minh phản ứng. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 20:01:48"
+  },
+  {
+    "Title": "Sẽ truy xuất nguồn gốc sầu riêng từ vùng trồng cho tới đóng gói, kiểm nghiệm, xuất khẩu",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/se-truy-xuat-nguon-goc-sau-rieng-tu-vung-trong-cho-toi-dong-goi-kiem-nghiem-xuat-khau-100260822173708228.htm",
+    "PubDate": "8/22/2026 7:09:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc chuẩn hóa truy xuất nguồn gốc giúp sầu riêng Việt Nam củng cố vị thế tại thị trường Trung Quốc, giảm rủi ro bị trả hàng, từ đó cải thiện biên lợi nhuận cho các doanh nghiệp xuất khẩu nông sản.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Quy định truy xuất nguồn gốc là yêu cầu kỹ thuật bắt buộc, không phải động lực tăng trưởng đột biến. Tác động biên lợi nhuận chưa rõ ràng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HAG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp sở hữu diện tích trồng sầu riêng lớn, hưởng lợi trực tiếp từ việc chuẩn hóa xuất khẩu chính ngạch."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 20:01:33"
+  },
+  {
+    "Title": "Thỏa thuận thương mại Mỹ - Canada đổ vỡ, mức thuế 50% có hiệu lực",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/thoa-thuan-thuong-mai-my-canada-do-vo-muc-thue-50-co-hieu-luc-10026082218395012.htm",
+    "PubDate": "8/22/2026 7:31:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Căng thẳng thương mại Mỹ - Canada làm gián đoạn chuỗi cung ứng toàn cầu, gây áp lực lên các doanh nghiệp Việt Nam có thị trường xuất khẩu chính tại Bắc Mỹ do rủi ro suy thoái kinh tế và biến động tỷ giá.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu. Thuế quan 50% Mỹ-Canada gây sốc chuỗi cung ứng, rủi ro lạm phát và suy giảm cầu tiêu dùng Bắc Mỹ. Dòng tiền sẽ rút khỏi các mã xuất khẩu chủ lực sang khu vực này.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu trọng điểm, rủi ro giảm đơn hàng do sức mua suy yếu từ căng thẳng thương mại."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực từ biến động tỷ giá và rủi ro suy giảm nhu cầu tiêu dùng tại thị trường Bắc Mỹ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 20:01:17"
+  },
+  {
     "Title": "Giá vàng lên mức cao nhất trong tháng - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVRwU0NSc0FwSzlDS0tlakVucWJSOFdqdEVjUGtZcjBIb0FQb3c3ZjVQeWxoZkF4QWNYWm1BSk80bTM0VWlQSWJTaHZmS1plZXJnSXNHZHNzWVdOdXF6SW9XaGp6MDZ4T1lpRXlCXzVuR1dmcGp2TC10Y0xjNlplWldCbw?oc=5",
@@ -16647,56 +16703,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 17:56:51"
-  },
-  {
-    "Title": "VinFast có động thái mới tại quốc gia đông dân thứ 4 thế giới - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFJRY0F5VGFCRDlqellmOE5kQlRoRzZNX2ZHM3BCbVdXUzl4Nmt5NmI2eWc4dE0zN2NWd3lwU1V4X2hya0hfSFpKaUJCcl9wUmcyNFg5UWgtQk9oSVRpWGhtRmZaWGJSR1d0ZjB3NzB3ZWRLVGV0alVRNGR3REVMR0ZKM1ZPQ2JiVGtVRmJrV3Jua3F1c1VmT25aeUZfejRORjFZ?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 17:01:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mở rộng thị trường quốc tế giúp VinFast tăng quy mô tiêu thụ, gián tiếp củng cố hệ sinh thái Vingroup và các đối tác cung ứng linh kiện, dịch vụ liên quan.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính PR thương hiệu, chưa có số liệu cụ thể về doanh thu hay dòng tiền thực tế. Tác động đến VIC là gián tiếp và không đáng kể trong ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 17:37:22"
-  },
-  {
-    "Title": "Thế Giới Di Động mua lại cổ phiếu ESOP của nhân viên đã nghỉ việc - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMWNrcjI4MHpNdGNPdVJITTB3RDlKMTNxNWdZSWZZOFFkbTdndXdQZko5WXhtaElfUjNFV1ZTeUdyWGJjTF9KTW4yQUtPYk1yNFZ3NWhUWmJMMWFoamRBTTRKMHg1QVZrUWgwTnFwWGQ4QjVXb1BwX2R6ME9INk9BMXFueHpvNW5rY2dIWkREemNjRlpENjFkVkZVV2lxRS1aaWotWVV2QXQ?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 04:15:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mua lại cổ phiếu ESOP giúp giảm áp lực pha loãng cổ phiếu, thể hiện cam kết quản trị và niềm tin của ban lãnh đạo vào giá trị nội tại doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - MWG. Việc mua lại ESOP là nghiệp vụ quản trị nội bộ thông thường, không tác động trực tiếp đến dòng tiền kinh doanh hay biên lợi nhuận cốt lõi.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "MWG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm áp lực pha loãng, cải thiện chỉ số tài chính và thể hiện sự chủ động trong quản trị cổ phiếu thưởng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 17:36:51"
-  },
-  {
-    "Title": "Vietcap: VietinBank bán tòa tháp tại Ciputra cho một chủ đầu tư bất động sản hàng đầu Việt Nam - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0RmQlNVeDJmSDlVaEFjTHNIUkl1STY5MDVkYm1sTlIyeEZSN216ZERFZ2V0bmI4Rm9oZWVFamJ3eGtpbjJudWxBZnltcEdzc1NRT252WEtyd09xSmdTeVd5V2VESWllS0ZRbkQyWGUzVmg4cVI4Z1B1cXF6OS14Wmt3YmdlbmczRER5VnZCM0ZyS3RpcF9zNXVrWG9mSnMxVTN1Qm5HQlFxajBobFBpc2ZyN05fcEFhTWc1enJHc2luSy1Bd2NQZF9wZjNYeXBm?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 03:20:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc thoái vốn tài sản không cốt lõi giúp VietinBank cải thiện tỷ lệ an toàn vốn và ghi nhận lợi nhuận đột biến, đồng thời cho thấy thanh khoản thị trường BĐS cao cấp đang cải thiện.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - CTG. Thoái vốn tài sản không cốt lõi giúp cải thiện bảng cân đối và ghi nhận lợi nhuận bất thường. Cần theo dõi sát biên lợi nhuận thực tế từ thương vụ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "CTG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thoái vốn tài sản giúp cải thiện tỷ lệ an toàn vốn và ghi nhận lợi nhuận đột biến từ hoạt động khác."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 17:11:23"
   }
 ]
