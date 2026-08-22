@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Công ty con của Hóa chất Đức Giang đón tin vui - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV20talFDUEM1NnhENm4xSmNuM2JJQjUzNV80UlBLU2dTVGFmcWhVTm9uc1RkQ1lYTlE3b3VabDVfVk0wSHpRUVkyV1RxRVh3MWduNlNDMUJ1NkZtMDVNd29DanIxNzUzUFFJMF9nUVNoWnVLeXlNWXFGOVlldEpTLWJ1aDJmY3B2amNJamVVVQ?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 10:17:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Thông tin tích cực từ công ty con củng cố triển vọng tăng trưởng doanh thu và lợi nhuận hợp nhất cho tập đoàn mẹ, củng cố vị thế đầu ngành hóa chất.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức dạng PR chung chung, thiếu số liệu tài chính cụ thể. Chưa đủ cơ sở để dòng tiền lớn gia tăng vị thế. Cần theo dõi thêm báo cáo thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DGC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Công ty mẹ hưởng lợi trực tiếp từ sự phát triển và kết quả kinh doanh khả quan của các đơn vị thành viên."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 04:42:06"
+  },
+  {
     "Title": "SJS: Nghị quyết HĐQT về việc triển khai thực hiện Phương án tăng vốn điều lệ và các vấn đề liên quan - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWGNmRER1Nmd1VF9tbVpQeWFBcnY3VXRsWlloR3JUTkl6STlWdFRuOWhqVEdvb2I2RkliSE93R3JfeEp6NGF0bm5KRlJrS05zQllJakQ2aE1VWEVjYzFIZmFudXdyZGdMQzB2UV9Lb2xTS0FuWEZxcUZpTmdRNW1Gc2lONm5HVGFja0xIcXVWb184YXE2R1ViOU81YkJDVm9HZTB1bGRPeTFsN2EyeU5TX0RKTHAzSEVoeGtyRUFlNkh2MlAtRWVZNUZWODFTbEJCa01CakJnaENNLXk0ZUhrUEQ1Yld2Q2VVMFZrenZ4clY?oc=5",
@@ -16672,34 +16691,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 22:42:16"
-  },
-  {
-    "Title": "Giá USD tự do, ngân hàng giảm mạnh - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lTjRtSGpkTFFQT1N3ZW5GWUJiaDREa3RjNDQ5LTI2U0tZSGxkWm0zRmhWN1dQN0FqQWN6S1Y5ZFBxQVE2UjEza1VEeGExLUwtOVBsMkVvZ1g4d3dpLXhFYmItbjVZNy1Xbmp2OTFza0NueDVmYTdSdVVZSnRPZw?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 03:36:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Tỷ giá hạ nhiệt giúp giảm áp lực lên chi phí tài chính của các doanh nghiệp vay nợ USD lớn và giảm áp lực bán ròng của khối ngoại trên thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Tỷ giá hạ nhiệt giảm áp lực chi phí tài chính và lỗ tỷ giá. Ưu tiên doanh nghiệp nợ vay USD lớn hoặc nhập khẩu nguyên liệu cao như POW, HVN, HPG.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "POW",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm lỗ chênh lệch tỷ giá cho các khoản vay đầu tư dự án điện."
-      },
-      {
-        "Ticker": "HVN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí vận hành và nợ vay bằng USD."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí nhập khẩu nguyên liệu đầu vào bằng USD."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 22:20:30"
   }
 ]
