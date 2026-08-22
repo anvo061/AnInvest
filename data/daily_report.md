@@ -1,21 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 21:00 - 22/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 21:50 - 22/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tin tức:** Khối ngoại bán ròng kỷ lục kết hợp với áp lực từ đổ vỡ thương mại Mỹ - Canada (thuế 50%) và thông tin tích cực về chính sách giảm 30% thuế TNDN. -> **Đánh giá:** Tác động hỗn hợp (Tiêu cực ngắn hạn về dòng vốn, tích cực về kỳ vọng biên lợi nhuận doanh nghiệp) -> **Dòng tiền:** Có khả năng phân hóa mạnh, rút khỏi Bluechips (VHM, HPG, VCB, SSI) và tìm cơ hội trú ẩn/đầu cơ vào nhóm Bán lẻ (MWG, MSN, PNJ) hoặc Nông nghiệp xuất khẩu (HAG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Áp lực bán ròng kỷ lục từ khối ngoại gây áp lực trực tiếp lên nhóm Bluechips, trong khi chính sách giảm 30% thuế TNDN tạo kỳ vọng hỗ trợ biên lợi nhuận cho nhóm Bán lẻ và Sản xuất tiêu dùng -> Đánh giá: Đối trọng giữa áp lực dòng vốn ngoại và chính sách tài khóa nội địa -> Dòng tiền có xu hướng phân hóa mạnh sang các nhóm hưởng lợi từ chính sách nội tại.
+- Căng thẳng thương mại Mỹ - Canada gây rủi ro đứt gãy chuỗi cung ứng toàn cầu -> Đánh giá: Tiêu cực đối với nhóm xuất khẩu chủ lực sang Bắc Mỹ (Thủy sản, Dệt may).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** HAG
-  - **Động lực (FA):** Chủ trương truy xuất nguồn gốc sầu riêng giúp chuẩn hóa xuất khẩu chính ngạch sang Trung Quốc, giảm thiểu rủi ro pháp lý và chi phí trung gian.
-  - **Nhận định dòng tiền:** Hưởng lợi từ câu chuyện tăng biên lợi nhuận biên và ổn định đầu ra, có thể tạo lực cầu đối ứng với đà bán ròng của khối ngoại ở nhóm vốn hóa lớn.
-  - **Hành động:** Quan sát vùng nền giá hiện tại, chú ý giải ngân nếu dòng tiền duy trì sức mạnh trên đường MA20.
-
-- **Mã:** MWG, MSN, PNJ
-  - **Động lực (FA):** Chính sách giảm 30% thuế thu nhập doanh nghiệp tác động trực tiếp đến dòng tiền thuần sau thuế của khối bán lẻ.
-  - **Nhận định dòng tiền:** Đây là nhóm "phòng thủ chủ động" có thể thu hút dòng vốn nội địa khi khối ngoại rút mạnh khỏi các mã trụ truyền thống.
-  - **Hành động:** Theo dõi sát ngưỡng cản kỹ thuật; ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc do thị trường chung tiêu cực.
-
-- **Mã:** VHC, TNG
-  - **Động lực (FA):** Căng thẳng thương mại Mỹ - Canada và thuế quan 50% đe dọa trực tiếp đơn hàng và chuỗi cung ứng Bắc Mỹ.
-  - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng do lo ngại suy giảm lợi nhuận từ thị trường xuất khẩu trọng điểm.
-  - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ cứng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: MWG, MSN, PNJ**
+  - Động lực (FA): Hưởng lợi trực tiếp từ chính sách giảm 30% thuế TNDN, cải thiện biên lợi nhuận ròng.
+  - Nhận định dòng tiền: Dòng tiền nội có khả năng tìm đến các mã này như "vịnh tránh bão" trước áp lực bán ròng của khối ngoại lên nhóm VN30 khác.
+  - Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu cầu chủ động tại các vùng hỗ trợ cứng.
+- **Mã: VHC, TNG**
+  - Động lực (FA): Rủi ro từ đàm phán Mỹ - Canada đổ vỡ và rào cản thương mại mới (thuế 50%).
+  - Nhận định dòng tiền: Áp lực tâm lý bán tháo ngắn hạn cao do lo ngại suy giảm đơn hàng.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy sớm.
+- **Mã: HAG**
+  - Động lực (FA): Chuẩn hóa truy xuất nguồn gốc sầu riêng giúp tăng uy tín xuất khẩu chính ngạch.
+  - Nhận định dòng tiền: Tin tức bổ trợ cho đà tăng trưởng cơ bản, dòng tiền có thể phản ứng tích cực trong ngắn hạn.
+  - Hành động: Tiếp tục quan sát sự xác nhận của volume.
+- **Mã: HTN**
+  - Động lực (FA): Ngày GDKHQ thưởng cổ phiếu (2:1).
+  - Nhận định dòng tiền: Kỳ vọng cải thiện thanh khoản, tạo sóng ngắn hạn.
+  - Hành động: Chú ý giải ngân theo sóng kỹ thuật ngắn hạn.
