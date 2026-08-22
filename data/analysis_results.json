@@ -1,5 +1,61 @@
 ﻿[
   {
+    "Title": "DMC: Thông báo ngày ĐKCC chi trả cổ tức năm 2025 bằng tiền - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUktoblA5UEZ5X3czc1FlX1RvY2R1OFpjLVBzZHFyZW50TzNwQnVlOXFQNWFwWk5raVZNa2VZbzFsRnBERDFlQmw4TkxEWDNsWExTWjk4a29nUmMzN21QSmx6cDdacUlYMDd6UTFOVnI3ZG4zOFhXellaMFNrR3NXWVdFZWFrWEJKSkJ5Rnk5TTFlX0duWkduN0F6eVNaN01zQVE0NmNBeUdpTzZfSFBQSDZHNXJfZEpT?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 09:12:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt là hoạt động định kỳ, phản ánh tình hình tài chính ổn định của doanh nghiệp nhưng không tạo ra thay đổi đột biến về giá trị nội tại.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - DMC. Cổ tức tiền mặt là hoạt động thường niên, không tác động mạnh đến dòng tiền đầu cơ. Chỉ thu hút nhà đầu tư giá trị nắm giữ dài hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "DMC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Cổ tức tiền mặt là thông tin đã được dự báo, tác động không đáng kể đến xu hướng giá ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 18:55:44"
+  },
+  {
+    "Title": "TCX: Nghị quyết HĐQT số 012108 ngày 21/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm9UVEpzVHdmRi1EeW1ybk03bFljQ212cWQwNDdXV1pTSTBxWURKckk3ZEtOSHFOdHBJaU9HaFlab3lXUEp2WVNwV05fSko3cDhYeHV2MFQ3TWZCOXVZN0ZES3dIMFM1U183UmppWFVhR0IzbEY1NDlVaU5Td1hOeTFpZjAzcjEzakVkSA?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 09:01:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin công bố nghị quyết HĐQT thông thường, không chứa nội dung cụ thể về thay đổi chiến lược, tài chính hay hoạt động kinh doanh trọng yếu tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Thông tin hành chính thiếu dữ liệu định lượng, không tạo ra biến động dòng tiền đáng kể trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 18:55:34"
+  },
+  {
+    "Title": "Đàm phán thương mại Mỹ - Canada đổ bể",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/dam-phan-thuong-mai-my-canada-do-be-5112231.html",
+    "PubDate": "Sat, 22 Aug 2026 18:37:22 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Căng thẳng thương mại Mỹ - Canada làm gia tăng rủi ro đứt gãy chuỗi cung ứng toàn cầu, gây áp lực lên tâm lý thị trường và các doanh nghiệp xuất khẩu Việt Nam sang thị trường Bắc Mỹ.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu. Căng thẳng Mỹ-Canada gây rủi ro logistics và tâm lý thị trường. Cần theo dõi sát biên lợi nhuận VHC, TNG do áp lực chi phí vận tải và biến động tỷ giá.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro gián đoạn chuỗi cung ứng và chi phí logistics tăng cao ảnh hưởng biên lợi nhuận xuất khẩu sang thị trường Bắc Mỹ."
+      },
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Bất ổn thương mại quốc tế có thể làm giảm đơn hàng từ các đối tác tại khu vực Bắc Mỹ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 18:55:19"
+  },
+  {
     "Title": "HNX: Số liệu Quản lý Sở hữu của Nhà đầu tư nước ngoài tại ngày 24/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM01RS1M3Y1JmRGJoNEdFMFNmZEU5aHdqR1J4b1RiRmYxR3ZwMV9ldzZwUExiUGc4amRld3B1Y05ZbGg0ZUlKOS1JQjVjZl9ocEtyT0c1bzFmejBSQ09LOXFCdTIwMjFaYUVWalljdzlRVUE2VzlmOHVLVDA1b3ZlVTRPTHM3U01rVl9tMm0zanl0dmxTU0o0VGlCYm56Y2ZyRy1ZUE5kQ2NKa3BYNEhKNlRrR0FIS0ZEclVXMlJLX1c1ZHpHcVpNa1p3?oc=5",
@@ -16642,44 +16698,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 17:11:11"
-  },
-  {
-    "Title": "Ngân hàng nào hút được thêm nhiều tiền gửi nhất trong nửa đầu năm? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUpDaEJDWFk5TVk5dUsyR0VvQ0FFa1Aza014NjYtM0dUdDFIZENnUHc0WTVKNnBtSXd5UjV4czdqUWVqLXN6a2FQcTYtczlldTBCNTRnejcyMWVUWGhQb1RaVF9vdS1NQ2JleHFoWjViMER6TlFSUVV5RGhfOXNMUW91T2xTQTc5S2FPTmlGa0p6TlJYUDEzV29ha043d2NScEMzNVRydmQ?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 02:32:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc tăng trưởng tiền gửi giúp các ngân hàng cải thiện thanh khoản, giảm chi phí vốn (COF) và tạo dư địa cho tăng trưởng tín dụng trong nửa cuối năm.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính thống kê quá khứ, thiếu yếu tố đột biến dòng tiền. Cần theo dõi NIM thực tế thay vì chỉ nhìn số dư tiền gửi.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 16:48:57"
-  },
-  {
-    "Title": "Tất cả người dân có sổ đỏ chú ý các bước cần làm trên VNeID - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN19UQzVOUWVQNktISnNJWHFWelRlM2dZRXBwVktoTFBPVGhueVZDSGo3QVZPLU14b3o4Zll0UXktRzdmTlkyb1pHWTRxdkZVVFRNZml1RmJTXzlHVENSUW5OeUVNMHB5MllIZ0tEU3g5SXFRandYVDhrY0pTN3hxWGZPZVlxd2w3M3JKVlBWeWtrcmFsNlU5OHlxUWRQR1l1?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 13:30:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hướng dẫn thủ tục hành chính về chuyển đổi số trong quản lý đất đai, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Đây là thủ tục hành chính cá nhân, không tạo ra biến động dòng tiền hay thay đổi cơ bản đối với các doanh nghiệp bất động sản trên sàn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 16:48:46"
-  },
-  {
-    "Title": "Top doanh nghiệp ngành Công nghệ - Viễn thông - Truyền thông - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBb05qcFRFV1g1ekJ2ckpBcGlQUjlFdzB1TlA3N0RIYUlCX3ZfeHZRWkFDcEJNeTJYT2dUR3E5aV82V0QyUTQ1ZncxdmFqZTNhNkM1dzF4NGJwWVBMNmR3R2c4eXZtZG96eEE?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 11:42:47 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết tổng hợp danh sách doanh nghiệp, không chứa thông tin tài chính mới hoặc sự kiện kinh tế có khả năng làm thay đổi biên lợi nhuận hay dòng tiền của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Công nghệ. Bài viết mang tính chất liệt kê, không có thông tin mới tác động đến cung cầu. Dòng tiền không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 16:48:34"
   }
 ]
