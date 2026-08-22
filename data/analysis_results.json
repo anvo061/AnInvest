@@ -1,5 +1,18 @@
 ﻿[
   {
+    "Title": "Vietnam minister says president's resignation has not affected policies - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUpfZ21GaWFRdlpwWUxzUnlrcXNuaF9IaEt4VDVwSWo0djMyMmxEdUdPcFZWOFNpcHA3d2lyUVJfMkNvek1qZ1dIcmhZX2NYYnFTRWpoZkk5bGszVDdqaXhuWmNjT0pnemJEeVN5c1piclZackpHc0FHbWJ2bUFWY2JST0NYdFd3TGtVTGNtanRQVkt1blBUSTNXd0ZPTGNIdUpqSE5WamszbjJ6UzFBaXlSQTNvaTg?oc=5",
+    "PubDate": "Tue, 26 Mar 2024 07:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Thông tin khẳng định sự ổn định chính trị và tính nhất quán trong chính sách điều hành kinh tế, giúp giải tỏa tâm lý lo ngại của nhà đầu tư nước ngoài.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính trấn an hành chính, không thay đổi cấu trúc dòng tiền. Thị trường cần quan sát phản ứng thực tế của khối ngoại thay vì kỳ vọng vào phát ngôn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 20:57:33"
+  },
+  {
     "Title": "Global Funds Sell Record Amount of Vietnam Stocks After Rally - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMk0xT1J4QU9CM0tfQmpaelBtYjRPU2FxLWpHV05pSDNnVGU0M3czNTkyU2NaX3luakN4YU5yRVVLTTlCeVNDSUx6VkNrbmx4WnlrVmxtUGNuenhaamhsR2ZuN1JaY0psa1dIYUlobEFBZjNBVUVMbmc4dVJnN1hEZ20xMTk3bVJBN21udVZNelhObW81Y2txNnVLa3lYMU9xZU9nMmJ5d1R4eHBEckpMV05R?oc=5",
@@ -16694,34 +16707,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 18:33:00"
-  },
-  {
-    "Title": "VDSC: Xuất hiện tín hiệu để Ngân hàng Nhà nước có thể mua ngoại tệ giao ngay - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXVGN2g0N210NEdwc25DZ0c3ZEs5QWRpZWJoNkFMNm9rX1Q4SG5lVVQ2S2tDMkZkdndjdjl0UC1Zb0w5QmZmQTFPakpjWlY1WWwwYzRZQ1NuTHBXbDhLYW5qYlMwd0tDQlZ1TlNYNXctNUJ6eDdxNTgwUEhOYlQxUVRYX21IV2picVdtbW1hT0hFa1JFVE1iNlAxb0JmeEUxNllPYU16OFRUOGhYOExrVGVhQ2Ntdw?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 10:54:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc NHNN mua ngoại tệ giúp tăng dự trữ ngoại hối, bơm thêm thanh khoản tiền đồng vào hệ thống ngân hàng, hỗ trợ giảm áp lực lãi suất và ổn định tỷ giá.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Thanh khoản hệ thống cải thiện, giảm áp lực lãi suất. Ưu tiên nhóm Ngân hàng quốc doanh có vị thế điều tiết ngoại tệ. Nhóm xuất khẩu hưởng lợi gián tiếp từ ổn định tỷ giá.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ thanh khoản hệ thống dồi dào và vị thế dẫn đầu trong điều tiết ngoại tệ."
-      },
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản tiền đồng tăng giúp giảm chi phí huy động vốn, cải thiện NIM."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ môi trường lãi suất ổn định, thúc đẩy tăng trưởng tín dụng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 18:12:58"
   }
 ]
