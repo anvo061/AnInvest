@@ -1,20 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:57 - 22/08/2026
+⏱ Thời gian: 2026-08-23 00:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Khối ngoại bán ròng kỷ lục và rủi ro thương mại Bắc Mỹ:** Áp lực rút vốn ngoại trên diện rộng (tâm điểm VHM, HPG, VCB, MSN, SSI) kết hợp với căng thẳng thương mại Mỹ-Canada làm gia tăng rủi ro suy thoái đơn hàng xuất khẩu (đặc biệt nhóm thủy sản/dệt may như VHC, TNG) -> **Đánh giá: Tiêu cực** -> **Dòng tiền:** Có xu hướng rút khỏi nhóm vốn hóa lớn (Bluechips), phòng thủ tại nhóm được hưởng lợi từ chính sách tài khóa (bán lẻ: MWG, MSN, PNJ).
-- **Chính sách hỗ trợ thuế:** Việc giảm 30% thuế TNDN tạo "vùng đệm" lợi nhuận cho nhóm Bán lẻ và Sản xuất -> **Đánh giá: Tích cực** -> **Dòng tiền:** Hỗ trợ giữ nhịp cho nhóm MWG, MSN, PNJ trước áp lực bán ròng từ khối ngoại.
+- **Áp lực bán ròng kỷ lục từ khối ngoại đối nghịch với kỳ vọng nâng hạng:** Dòng vốn ngoại rút mạnh gây áp lực lên các mã Bluechips (VHM, HPG, VCB, MSN, SSI), tạo nhiễu đối với kỳ vọng dài hạn từ việc nâng hạng thị trường -> Đánh giá: **Tiêu cực ngắn hạn** -> Dòng tiền có xu hướng phòng thủ hoặc dịch chuyển khỏi nhóm vốn hóa lớn (Large-cap) đang bị xả ròng.
+- **Chính sách hỗ trợ từ Bộ Tài chính:** Đề xuất giảm 30% thuế giúp cải thiện biên lợi nhuận ròng -> Đánh giá: **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Bán lẻ (MWG, MSN, PNJ) nhờ khả năng phục hồi lợi nhuận.
+- **Sức cầu từ thị trường Mỹ suy yếu:** Các doanh nghiệp xuất khẩu chủ lực chịu rủi ro sụt giảm đơn hàng -> Đánh giá: **Tiêu cực** -> Nhóm Dệt may (TNG, MSH) và Thủy sản (VHC) đối mặt áp lực bán theo tin.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HAG**
-    - **Động lực (FA):** Chính sách chuẩn hóa truy xuất nguồn gốc sầu riêng giúp củng cố vị thế xuất khẩu chính ngạch sang Trung Quốc.
-    - **Nhận định dòng tiền:** Gia tăng tính ổn định doanh thu, giảm rủi ro biên lợi nhuận cho chuỗi giá trị nông nghiệp.
-    - **Hành động:** Chú ý giải ngân nếu giá tích lũy quanh vùng hỗ trợ, kỳ vọng hưởng lợi từ tăng trưởng xuất khẩu bền vững.
+- **Mã: SSI**
+    - Động lực (FA): Hưởng lợi từ thanh khoản kỳ vọng nâng hạng nhưng chịu áp lực bán ròng trực tiếp từ khối ngoại.
+    - Nhận định dòng tiền: Giằng co mạnh giữa dòng tiền kỳ vọng nội tại và áp lực rút vốn ngoại.
+    - Hành động: **Tiếp tục quan sát** phản ứng tại các vùng hỗ trợ cứng, tránh bắt dao rơi khi khối ngoại chưa dừng bán.
+- **Mã: MWG, MSN, PNJ**
+    - Động lực (FA): Hưởng lợi trực tiếp từ đề xuất giảm 30% thuế TNDN.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh tìm đến nhóm hưởng lợi chính sách để bù đắp cho sự rút lui của khối ngoại ở nhóm Bluechips tài chính/bất động sản.
+    - Hành động: **Chú ý giải ngân** nếu tín hiệu kỹ thuật tại vùng hỗ trợ tích cực.
+- **Mã: TNG, VHC, MSH**
+    - Động lực (FA): "Người Mỹ thắt hầu bao" – rủi ro giảm đơn hàng xuất khẩu.
+    - Nhận định dòng tiền: Áp lực tâm lý tiêu cực có thể kích hoạt làn sóng bán tháo ngắn hạn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, cần thận trọng, ưu tiên quản trị rủi ro.
 - **Mã: HTN**
-    - **Động lực (FA):** Ngày GDKHQ thưởng cổ phiếu tỷ lệ 2:1 (10/09/2026).
-    - **Nhận định dòng tiền:** Thường tạo xung lực ngắn hạn do tâm lý "game" tăng vốn và cải thiện thanh khoản.
-    - **Hành động:** Tiếp tục quan sát khối lượng giao dịch trước ngày GDKHQ; ưu tiên lướt sóng ngắn hạn theo kỳ vọng thưởng.
-- **Mã: VHC, TNG**
-    - **Động lực (FA):** Rủi ro từ thỏa thuận thương mại Mỹ - Canada đổ vỡ và áp lực thuế quan 50%.
-    - **Nhận định dòng tiền:** Tiêu cực do thị trường Bắc Mỹ chiếm tỷ trọng lớn trong cơ cấu xuất khẩu.
-    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng hoặc đứng ngoài quan sát biến động tỷ giá.
+    - Động lực (FA): Thông tin GDKHQ thưởng cổ phiếu (2:1).
+    - Nhận định dòng tiền: Tạo sự chú ý ngắn hạn, cải thiện thanh khoản.
+    - Hành động: **Tiếp tục quan sát** dòng tiền vào trước ngày GDKHQ.

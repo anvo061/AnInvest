@@ -1,5 +1,90 @@
 ﻿[
   {
+    "Title": "2 ngày cuối tuần dài đằng đẵng với nhà đầu tư chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEdWSHlZQWJlekI3THRlcGgtczl3OE5qUnZyNWYxUElxWkgwazNGN3JqUy1SM255RW5CWjI4eDFtcjRZR0p2VVJLLThHS0FCWmdsRHpYaEFFVTd0eC1hTGpMb2pLbk5WZ2RidC1DRWNyTmMySllrY0MxbDJrYTJsU1d2aEtTajZoclVac0loYWhGSjVydmdYNmFlbVNDQQ?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 17:10:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất tâm lý thị trường, phản ánh sự chờ đợi của nhà đầu tư trong kỳ nghỉ cuối tuần, không chứa thông tin vĩ mô hay doanh nghiệp cụ thể.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có. Bài viết chỉ phản ánh tâm lý chờ đợi của nhà đầu tư cá nhân, không có tác động đến cung cầu hay dòng tiền thông minh trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 00:36:47"
+  },
+  {
+    "Title": "Không chỉ chứng khoán, nhóm cổ phiếu này được dự báo hưởng lợi kép sau nâng hạng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVVva3lzdVFHVjFmS25XNkJncVhPQktEMENvSGFBQW1aZFNQYWhDRUQxSmphMWprNWlRTGczdm9QSTdhLVdNUlRiU0wza09WM0JsVEpLX1plQUd5QnlfT3lmMWhacHlBc0tmYVVzOUVETmROdmUtaVNBblYxVS1iNERDekhxeVJZR0FrYmhTOGI1V3BIQU5kLVd3cVlqbHNWQkxBb3hCYjE2REhlNlNTYnhpaWRBSFdMdkFB?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 17:08:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc nâng hạng thị trường thu hút dòng vốn ngoại (ETF, quỹ chủ động) vào các cổ phiếu vốn hóa lớn, thanh khoản cao và nhóm ngành tài chính, bất động sản khu công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR định hướng, thiếu lộ trình cụ thể. Dòng vốn ngoại chỉ giải ngân khi có tiêu chí định lượng rõ ràng. Cần thận trọng với kỳ vọng nâng hạng quá sớm.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ tăng trưởng thanh khoản và phí môi giới khi dòng vốn ngoại đổ vào."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu ngân hàng đầu ngành, chiếm tỷ trọng lớn trong danh mục các quỹ ETF ngoại."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 00:36:14"
+  },
+  {
+    "Title": "Soi định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2VGc1pQbncySDJMdjdjUG5HVUh2di1NM2xZMWlMbXpzdUtVZTJRaXgwTC1OM1dQLTNXc2dja2RyMFdtMFM0dHJSRy1ib3pvMVlQS2Q4b252NEw1NzNEZS1wTGJFOF9GdUZISm1VakgyRUUzOGxVN2gyNVJOOEJ3UEdNNHdKa1R0ejR3X2p3SWlpS09kS3htVFBDaUl2cTQ?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 17:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Kỳ vọng nâng hạng thị trường tạo động lực tăng trưởng thanh khoản và định giá cho nhóm cổ phiếu chứng khoán, thu hút dòng vốn ngoại và nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tổng hợp, định hướng dư luận (PR). Thiếu dữ liệu định lượng về dòng vốn thực tế. Cần thận trọng với kỳ vọng nâng hạng đã phản ánh vào giá.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị phần môi giới lớn và vị thế đầu ngành hưởng lợi trực tiếp từ sự gia tăng thanh khoản thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 00:35:58"
+  },
+  {
+    "Title": "Người Mỹ thắt hầu bao",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nguoi-my-that-hau-bao-5112243.html",
+    "PubDate": "Sun, 23 Aug 2026 00:01:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Sức mua tại thị trường Mỹ suy giảm trực tiếp ảnh hưởng đến đơn hàng xuất khẩu của các doanh nghiệp Việt Nam trong lĩnh vực dệt may, thủy sản và đồ gỗ.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu (TNG, VHC). Nhu cầu tiêu dùng Mỹ giảm làm chậm đơn hàng, gây áp lực lên biên lợi nhuận. Dòng tiền sẽ thận trọng với nhóm cổ phiếu xuất khẩu trong ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu chủ lực, sức mua giảm trực tiếp làm giảm đơn hàng và doanh thu."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhu cầu tiêu thụ thủy sản tại Mỹ suy yếu gây áp lực lên giá bán và sản lượng xuất khẩu."
+      },
+      {
+        "Ticker": "MSH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp dệt may phụ thuộc lớn vào thị trường Mỹ, chịu rủi ro giảm đơn hàng từ các đối tác bán lẻ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 00:35:31"
+  },
+  {
     "Title": "Tàu container Hàn Quốc thử tuyến đường Bắc Cực để tránh ngõ Trung Đông khói lửa",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/tau-container-han-quoc-thu-tuyen-duong-bac-cuc-de-tranh-ngo-trung-dong-khoi-lua-100260822215010986.htm",
@@ -16635,63 +16720,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-16 20:06:53"
-  },
-  {
-    "Title": "Bidiphar chốt ngày chia cổ tức bằng tiền mặt tỷ lệ 20% - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWYtRTUtaF9uTlJRcmxfbllDSEt3X3hoWE1qQXhkNElKTjFNZmdNVGQ0RVIxWWozeDZHNEtPSTJlM0lfUTkyaGpqcDJ6b0hOZ01ncU5jZVQ3UE5pRjlEclBEOXlIVElsbjBTVFppZHFXdHltSElfSWo4WWt3MExqenRzWHN5VktGMER3NUxDSzJQT2l1cVNCaA?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 12:50:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc chi trả cổ tức tiền mặt khẳng định sức khỏe tài chính ổn định và dòng tiền dồi dào của doanh nghiệp, tạo tâm lý tích cực cho cổ đông hiện hữu.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - DBD. Cổ tức tiền mặt 20% củng cố niềm tin nhà đầu tư dài hạn. Dòng tiền sẽ ổn định quanh vùng giá hiện tại, giảm áp lực bán tháo.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DBD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ tức tiền mặt tỷ lệ 20% tạo lợi suất hấp dẫn, thu hút dòng tiền đầu tư giá trị và ổn định tâm lý cổ đông."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 20:06:37"
-  },
-  {
-    "Title": "Tỷ phú Nguyễn Thị Phương Thảo bơm thêm vốn gấp 6 lần cho ví Galaxy Pay để đầu tư Starlink - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0hPNGZCMUFtNW82T290d0ZFejdOek9SZ0ExYjcwQ2xabTk1dlJ2QXoxby1FR2VfNGdDc1RIcWFXQW1vMFlickhxT1lqbHl5U3pxZWgwdjdrYTZadE4tTmJLRmNDd0dCUFFJS3dCN0dtZGlSOWhKbHdyYzViRWNOVVVFdEdGX0hoVEN6TDBxVW4xVXp3MGgyVkFpVk84bVJQWk15T1duX0k3ZXdlei1fU3RqTUVMbG1zUzRUU1JWLUFiV3pqdUFqZQ?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 00:07:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động đầu tư cá nhân hoặc thông qua các đơn vị chưa niêm yết, không tác động trực tiếp đến bảng cân đối kế toán hay kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Hoạt động đầu tư của ví điện tử tư nhân không ảnh hưởng đến dòng tiền các mã niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 20:06:27"
-  },
-  {
-    "Title": "Vietnam Hopes to Lure Foreign Market Investors With New Products - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTlrSnZ4bWhZdExqbWFoZ1RXRkl5X3A0cDdhT1lsdExnT0xRcW1jdWVMVlVFZXQtWXpvRndleE5xcmZlV2x6RUZ0OFcxd1dVaWtiOUJCcDNYN09PQk5DdlduVG83Vy12d3I3UXZ2a3dFMmxjemdzX3ZmLVJSemE3S2dLSGRYenJ3b3oyZlRhVmQzVkNjT2lEMVNxbEhQa2N1RGRGV0h5Z0V3elZia1k0NFN1WHVYZw?oc=5",
-    "PubDate": "Tue, 11 Jun 2019 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc đa dạng hóa sản phẩm tài chính giúp tăng tính thanh khoản và thu hút dòng vốn ngoại, hỗ trợ nâng hạng thị trường và cải thiện định giá các công ty chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Tin tức mang tính định hướng vĩ mô dài hạn, chưa có tác động trực tiếp đến dòng tiền ngắn hạn hay biên lợi nhuận thực tế của các CTCK.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 19:15:49"
-  },
-  {
-    "Title": "Tương lai ngành cà phê: Cần công thức 'phối trộn' giữa hai thế hệ",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tuong-lai-nganh-ca-phe-can-cong-thuc-phoi-tron-giua-hai-the-he-100260814093003599.htm",
-    "PubDate": "8/16/2026 4:49:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Bài viết mang tính chất định hướng chiến lược quản trị và phát triển bền vững cho ngành cà phê, không có tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Nông nghiệp. Đây là thông tin định hướng quản trị, không tạo ra biến động dòng tiền tức thời. Không có tác động đến giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 19:15:33"
   }
 ]
