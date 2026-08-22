@@ -1,28 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:15 - 22/08/2026
+⏱ Thời gian: 14:50 - 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dòng vốn ngoại (ETF FTSE):** 27 cổ phiếu Việt Nam được thêm vào rổ FTSE với kỳ vọng dòng vốn 1,5 tỷ USD -> **Tích cực (Lan tỏa mạnh)** -> Dòng tiền sẽ hướng vào nhóm Bluechips vốn hóa lớn (HPG, VHM, VCB, MSN, SSI).
-- **Giá dầu thế giới:** Nguồn cung dầu từ Venezuela gián đoạn thúc đẩy giá dầu thô tăng -> **Tích cực (Ngành Dầu khí)** -> Dòng tiền ưu tiên nhóm Thượng nguồn (PVD, PVS).
-- **Tín dụng BĐS:** Dòng tiền tín dụng chảy mạnh vào BĐS nhưng áp lực lãi suất vẫn là rào cản -> **Trung lập phân hóa** -> Dòng tiền sẽ rút khỏi các mã nợ vay cao (DIG, NVL) để dịch chuyển sang các mã quỹ đất sạch, tài chính mạnh (KDH, VHM).
+- **Dòng vốn ngoại (FTSE):** Việc 27 cổ phiếu Việt Nam vào rổ FTSE kỳ này dự kiến đón dòng vốn thụ động khoảng 1,5 tỷ USD -> **Tích cực** -> Dòng tiền tập trung vào nhóm vốn hóa lớn (Blue-chips) có thanh khoản cao (HPG, VHM, VCB, MSN, SSI).
+- **Thị trường Dầu khí:** Gián đoạn nguồn cung từ Venezuela đẩy giá dầu thế giới tăng -> **Tích cực** -> Dòng tiền ngắn hạn ưu tiên nhóm thượng nguồn (PVD, PVS).
+- **Tín dụng Bất động sản:** Áp lực chi phí vốn từ dư nợ 2,5 triệu tỷ đồng vẫn cao -> **Tiêu cực phân hóa** -> Dòng tiền phân tách rõ rệt: ưu tiên doanh nghiệp ít đòn bẩy (VHM, KDH), thận trọng với nhóm vay nợ cao (NVL, DIG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thô tăng do nút thắt nguồn cung tại Venezuela.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận kỳ vọng cải thiện, khả năng thu hút dòng tiền đầu cơ ngành năng lượng.
-- Hành động: Chú ý giải ngân khi giá kiểm tra lại vùng hỗ trợ kỹ thuật gần nhất.
-
 - Mã: **EVF**
-- Động lực (FA): Tăng vốn điều lệ và mở rộng room ngoại.
-- Nhận định dòng tiền: Kỳ vọng gia tăng hệ số CAR và sự chú ý từ khối ngoại sẽ tạo xung lực tăng trưởng dài hạn.
-- Hành động: Tiếp tục quan sát phản ứng tại vùng cản cũ, ưu tiên vị thế nắm giữ.
-
+  - Động lực (FA): Thông qua kế hoạch tăng vốn điều lệ và mở rộng room ngoại.
+  - Nhận định dòng tiền: Tin tức hỗ trợ cải thiện kỳ vọng về hệ số an toàn vốn (CAR), dòng tiền kỳ vọng tăng mạnh khi câu chuyện nới room được cụ thể hóa.
+  - Hành động: Chú ý giải ngân (Canh rung lắc tại vùng hỗ trợ kỹ thuật).
 - Mã: **CII**
-- Động lực (FA): Đề xuất quy hoạch TOD ga Thủ Thiêm tạo kỳ vọng giá trị đất nền.
-- Nhận định dòng tiền: Tin tức mang tính chất dài hạn, dòng tiền ngắn hạn có thể phản ứng hưng phấn theo kỳ vọng hạ tầng.
-- Hành động: Chú ý giải ngân với tỷ trọng vừa phải, cẩn trọng rủi ro "tin ra là bán" nếu dòng tiền không duy trì được thanh khoản.
-
+  - Động lực (FA): Đề xuất quy hoạch TOD tại Thủ Thiêm.
+  - Nhận định dòng tiền: Tác động mang tính chất "kích hoạt" kỳ vọng quỹ đất, dòng tiền đầu cơ sẽ phản ứng nhanh trước thông tin này.
+  - Hành động: Tiếp tục quan sát (Chờ tín hiệu xác nhận từ khối lượng giao dịch).
 - Mã: **MSB**
-- Động lực (FA): Phát hành cổ phiếu từ nguồn vốn chủ sở hữu tăng quy mô vốn.
-- Nhận định dòng tiền: Tạo tâm lý tích cực ngắn hạn cho cổ đông, khả năng có nhịp kéo giá trước ngày chốt quyền.
-- Hành động: Chú ý giải ngân vị thế ngắn hạn.
+  - Động lực (FA): Chốt quyền tăng vốn từ nguồn vốn chủ sở hữu.
+  - Nhận định dòng tiền: Tâm lý tích cực từ việc chia tách cổ phiếu thường thu hút nhà đầu tư cá nhân trong ngắn hạn.
+  - Hành động: Chú ý giải ngân (Ưu tiên nắm giữ chờ ngày GDKHQ).
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dữ liệu giá dầu tăng do sự kiện Venezuela là yếu tố hỗ trợ biên lợi nhuận, tuy nhiên cần theo dõi sát áp lực chi phí đầu vào. Hiện tại, vị thế trung hạn vẫn giữ nguyên. Chưa có dữ liệu mới đủ mạnh để thay đổi trạng thái (giữ/bán).

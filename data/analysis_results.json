@@ -1,5 +1,37 @@
 ﻿[
   {
+    "Title": "VLW:10.09.2026, ngày GDKHQ trả cổ tức bằng tiền mặt (2.500đ/cp) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2pXRVVDdlFuX0pyQzc1aUg4bktRcXZXbDdLVzZrOUtRMEZ4VjBWRm5vQ1lZZ1A2eW1UM2M5dnJFNmdIbzJTTHBVUnE1bVpfWHFNMTFBbkxKb1BqZ0hUbE1vQ1FuX2VCc203OTJwZ3NLNVp1M0pmQkVOdXBtX1kyVzZYeG5aQkdnTFFvY0p5STA1aS1Ib01WeVZLV2E2azVFcGdBV1BVam5TUWtLU1Y0X2ppcFR2QQ?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin trả cổ tức bằng tiền mặt là sự kiện định kỳ, đã được phản ánh vào kế hoạch tài chính của doanh nghiệp và không tác động đến giá trị nội tại hay dòng tiền kinh doanh cốt lõi.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Mã VLW. Việc trả cổ tức là sự kiện hành chính định kỳ, không tạo ra đột biến dòng tiền. Nhà đầu tư cần chú ý điều chỉnh giá tham chiếu vào ngày GDKHQ.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-22 14:42:44"
+  },
+  {
+    "Title": "TTD: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUFrQWNySmU0UTE5VUNCNkZid25ha05wa1B3Mk1UNncydkY1WWZDalJYQUhaTGE0WW43bG1BcGdoOHNGQTBsSWZCTm9PUDl0TXFNZlc3aXFRd2dlRkgyb29TUkxRQUdXSWkxSlFOZTdsWVZIYXJXRXdwZkczV2o2d2lqMUFYQm84OTBnbWctQ2hwWC15SXk2M3BnQVloYWJMajk4ckdjWWVnR3JaaTk2bQ?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 07:24:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động định kỳ của doanh nghiệp, không làm thay đổi giá trị nội tại hay triển vọng kinh doanh của công ty.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TTD. Trả cổ tức tiền mặt là sự kiện định kỳ, không tác động đến xu hướng dòng tiền lớn. Nhà đầu tư cần quan sát phản ứng giá sau ngày giao dịch không hưởng quyền.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "TTD",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Sự kiện trả cổ tức là hoạt động tài chính thông thường, giá cổ phiếu sẽ được điều chỉnh tương ứng vào ngày giao dịch không hưởng quyền."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 14:42:34"
+  },
+  {
     "Title": "FUEKIVFS: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 20/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUZhUXd0cXkyVjVKUVZPaTh5cWhUNXdJa2cxa2Z3aDgwN3pCV1hDY1JTUXNadDUybXcyY0xXM0Y2QTgwWS1ISG5iRXdBMzczb1hFcVU5eU51YU9ENHlvU29kLTBTQk45ZEJ6OG9KdURWSklBMTFwR2Q1cktjMmZzQld3bHlsLWVFamNkZThWNXp2eTdWVDdPUXJGM0lvYXJrMVkzd00wOTd3UGFBR3J5TGdFZUFtT3VsU0pUNUVnTmlNYl80NnV4WnZROWZrM1V1VFFN?oc=5",
@@ -16668,47 +16700,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 11:26:27"
-  },
-  {
-    "Title": "'Our resources, our prices': Indonesia's Prabowo announces new commodity bourse - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbldya3k5bkVnRy11ZjVqam0wLTJDTFhqdVJ6cUp5dGhhNFBkc21zdW9qV05henRwWEo5SXFWaEdwRHYtMklGd1Z2R2NZODg2aVJ5b015aWFnLXVGQ1QtZndjeVRkYmRGOFRhWnY5blRXczQ2dXJjNW9MbWQzLWZRZGZMTHVPQk9TbG1RZDBOMExOZGxNSXJ0TnV2UlpiQ29FZ2JBazZfdFF4aF9TVlY5dC12czBNX0pHQWM4Qw?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 11:58:29 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Việc Indonesia kiểm soát sàn giao dịch hàng hóa có thể làm tăng chi phí đầu vào đối với các doanh nghiệp Việt Nam nhập khẩu nguyên liệu từ khu vực này, gây áp lực lên biên lợi nhuận.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách sàn hàng hóa Indonesia mới ở giai đoạn công bố, chưa có tác động trực tiếp đến giá nguyên liệu thực tế. Cần theo dõi thêm lộ trình thực thi.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 10:58:08"
-  },
-  {
-    "Title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 22:36:06 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Căng thẳng tại eo biển Hormuz làm gián đoạn nguồn cung dầu toàn cầu, đẩy giá dầu thô tăng cao, trực tiếp hỗ trợ biên lợi nhuận của các doanh nghiệp thượng nguồn ngành dầu khí Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Rủi ro vĩ mô. Căng thẳng Hormuz gây áp lực lạm phát và chi phí vận tải. BSR chịu rủi ro biên lợi nhuận lọc dầu do biến động giá dầu đầu vào.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu khoan và giá thuê giàn khoan, cải thiện trực tiếp doanh thu."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ khối lượng công việc dịch vụ kỹ thuật dầu khí tăng khi giá dầu duy trì mức cao."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu trong ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 10:57:52"
   }
 ]
