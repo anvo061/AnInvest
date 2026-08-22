@@ -1,16 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:30 - 22/08/2026
+⏱ Thời gian: 12:00 ngày 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Bộ trưởng Bộ Xây dựng cảnh báo giá nhà ở đô thị tăng quá cao, để ngỏ khả năng can thiệp chính sách -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm **Bất động sản dân cư**.
-- FTSE Russell công bố danh mục cổ phiếu tiềm năng nâng hạng -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)** đón đầu dòng vốn ngoại.
+- FTSE công bố danh sách 117 cổ phiếu Việt Nam chuẩn bị cho kỳ nâng hạng -> [Đánh giá tác động: Tích cực] -> Dòng tiền sẽ tập trung mạnh vào nhóm vốn hóa lớn (Blue-chips) có thanh khoản cao.
+- Bộ Xây dựng cảnh báo giá nhà ở đô thị tăng quá cao -> [Đánh giá tác động: Tiêu cực] -> Nhóm Bất động sản (VHM, NVL, PDR, DXG, DIG) đối mặt với áp lực chốt lời ngắn hạn và rủi ro điều chỉnh chính sách.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VHM, NVL, PDR, DXG, DIG**
-    - Động lực (FA): Phát biểu của lãnh đạo Bộ Xây dựng về việc giá nhà tăng quá cao.
-    - Nhận định dòng tiền: Tạo áp lực chốt lời ngắn hạn, tâm lý thận trọng bao trùm do lo ngại các biện pháp quản lý hành chính cứng rắn.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu thủng ngưỡng hỗ trợ kỹ thuật gần nhất.
-- **Mã: SSI, VND, VCI, HCM**
-    - Động lực (FA): Thông tin nằm trong danh sách FTSE Russell.
-    - Nhận định dòng tiền: Hưởng lợi từ hiệu ứng tâm lý "đón đầu" dòng vốn ETF, thanh khoản nhóm này dự báo sẽ cải thiện đột biến.
-    - Hành động: Chú ý giải ngân khi có nhịp rung lắc, tập trung vào các mã có tỷ trọng vốn ngoại cao (VCI, SSI).
+- Mã: VCB, HPG, FPT, MSN
+- Động lực (FA): Nằm trong danh sách ưu tiên của FTSE cho lộ trình nâng hạng thị trường.
+- Nhận định dòng tiền: Dòng tiền khối ngoại khả năng cao sẽ gia tăng tỷ trọng tại các mã này để đón đầu kỳ review/nâng hạng, tạo lực đỡ vững chắc cho các nhịp rung lắc.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (lợi dụng tâm lý thận trọng từ nhóm BĐS lan tỏa lên chỉ số chung).
+
+- Mã: VHM
+- Động lực (FA): Hợp lưu ngược chiều: Được FTSE chú ý nhưng chịu áp lực trực tiếp từ phát biểu định hướng kiểm soát giá nhà của Bộ Xây dựng.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ phân hóa, áp lực bán kỹ thuật gia tăng.
+- Hành động: Tiếp tục quan sát; rủi ro vi phạm kịch bản nếu giá đóng cửa thủng hỗ trợ ngắn hạn.
