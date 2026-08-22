@@ -1,26 +1,24 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 15:45 - 22/08/2026
+⏱ **Thời gian:** 16:00 - 22/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thông điệp nâng hạng thị trường từ UBCKNN:** Khẳng định quyết tâm đưa chứng khoán Việt Nam lên hạng -> **Đánh giá: Tích cực** -> **Dòng tiền:** Tập trung nhóm Tài chính (Chứng khoán).
-- **Gián đoạn nguồn cung dầu thô từ Venezuela:** Đẩy giá dầu thô thế giới chịu áp lực tăng -> **Đánh giá: Tích cực (ngắn hạn)** -> **Dòng tiền:** Nhóm Thượng nguồn Dầu khí (PVD, PVS).
-- **Định hướng phát triển đô thị lấn biển:** Mở rộng không gian kinh tế từ Bộ Tài chính -> **Đánh giá: Tích cực (dài hạn)** -> **Dòng tiền:** Nhóm Bất động sản có quỹ đất lớn (VHM).
+- **Tháo gỡ pháp lý dự án tồn đọng:** Thủ tướng chỉ đạo quyết liệt giải quyết vướng mắc pháp lý cho các dự án BĐS trọng điểm -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Bất động sản (Mid-cap/Large-cap có quỹ đất lớn).**
+- **Nâng hạng thị trường:** UBCKNN xác nhận lộ trình vươn tầm quốc tế -> **Tích cực** -> Dòng tiền trung và dài hạn hướng vào nhóm **Chứng khoán (Brokerage).**
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: SSI**
-    - **Động lực (FA):** Thông điệp từ UBCKNN về lộ trình nâng hạng và "biển lớn" cho chứng khoán Việt Nam.
-    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về thanh khoản và tâm lý khối ngoại; khả năng thu hút dòng tiền dẫn dắt thị trường.
-    - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc quanh nền hỗ trợ.
-- **Mã: PVD**
-    - **Động lực (FA):** Giá dầu chịu áp lực tăng do căng thẳng cung ứng toàn cầu (Venezuela).
-    - **Nhận định dòng tiền:** Nhạy sóng theo giá dầu, kỳ vọng cải thiện đơn giá thuê giàn khoan.
-    - **Hành động:** Quan sát kịch bản bứt phá vùng kháng cự ngắn hạn.
-- **Mã: EVF**
-    - **Động lực (FA):** Tăng vốn điều lệ và mở room ngoại.
-    - **Nhận định dòng tiền:** Cải thiện hệ số an toàn vốn (CAR), tạo câu chuyện kỳ vọng cho nhà đầu tư tổ chức.
-    - **Hành động:** Theo dõi sát dòng tiền ngoại vào phiên tiếp theo.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-    - **Nhận định:** Dữ liệu tin tức về việc giá dầu tăng tạo biên độ lợi nhuận lọc dầu (crack spread) không ổn định. Với vị thế đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu này **không đủ mạnh** để giữ vị thế dài hạn nếu biên lợi nhuận bị bào mòn bởi chi phí đầu vào. 
-    - **Khuyến nghị:** Cân nhắc chốt lời hoặc cơ cấu sang nhóm Thượng nguồn (PVD) nếu BSR có tín hiệu suy yếu về dòng tiền trong phiên tới.
+- **Mã:** NVL, PDR, DIG, DXG
+    - **Động lực (FA):** Chỉ đạo trực tiếp từ Chính phủ về tháo gỡ pháp lý cho các dự án tồn đọng.
+    - **Nhận định dòng tiền:** Kích hoạt tâm lý hưng phấn ngắn hạn, thanh khoản nhóm này dự kiến bùng nổ do giải tỏa áp lực nợ vay và cải thiện kỳ vọng ghi nhận doanh thu.
+    - **Hành động:** **Chú ý giải ngân** tại các điểm re-test hỗ trợ cứng.
+- **Mã:** SSI
+    - **Động lực (FA):** Thông điệp nâng hạng thị trường từ lãnh đạo UBCKNN.
+    - **Nhận định dòng tiền:** Củng cố xu hướng tích lũy, thu hút dòng vốn ngoại và nhà đầu tư tổ chức trong bối cảnh thị trường bước vào "cuộc chơi mới".
+    - **Hành động:** **Tiếp tục quan sát** để gia tăng vị thế khi có tín hiệu dòng tiền dẫn dắt (Leader).
+- **Mã:** SEA
+    - **Động lực (FA):** Chốt quyền cổ tức tiền mặt 5%.
+    - **Nhận định dòng tiền:** Lực cầu phòng thủ từ nhóm nhà đầu tư thu nhập cố định, giảm thiểu rủi ro điều chỉnh trong phiên.
+    - **Hành động:** **Tiếp tục quan sát** diễn biến giá quanh ngày GDKHQ.
+- **Mã:** VHM
+    - **Động lực (FA):** Định hướng phát triển đô thị lấn biển theo chỉ đạo từ Bộ Tài chính.
+    - **Nhận định dòng tiền:** Mở ra kỳ vọng về quỹ đất dài hạn, củng cố vị thế dẫn đầu trong nhóm BĐS dân dụng.
+    - **Hành động:** **Chú ý giải ngân** theo chiến lược đầu tư giá trị dài hạn.
