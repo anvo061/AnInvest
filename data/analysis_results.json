@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Vietnam Defies Asia Slowdown as Economic Growth Holds Above 6% - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTV9EVnE2d0RyTU9TZ0s4M3NiNndjVWw4bzNJZnF0NnpWVzhEcE5jWDNQZ0Rtdm1kelBsY0dnRndFSUY1cFB6dHBPZ1pRLWwwdGMyaXJzTkhmTV9GUUsxWGI5bjNRXzhNQjlGeEx2QTNTZkFpZVI4SDYwWU14M1E4TVpFV2EzOFVhVmt4X1EzZDktaG1lY0lhRnJiX2JQQWJ3S1o4bGR3?oc=5",
+    "PubDate": "Wed, 28 Dec 2016 08:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Tăng trưởng GDP ổn định trên 6% củng cố niềm tin của nhà đầu tư nước ngoài, thúc đẩy dòng vốn FDI và cải thiện thanh khoản toàn thị trường chứng khoán.",
+    "TapeReaderNote": "Vĩ mô ổn định hỗ trợ tâm lý thị trường chung. Dòng vốn FDI kỳ vọng duy trì, ưu tiên nhóm BĐS KCN và Logistics. Cần theo dõi sát thanh khoản khối ngoại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng GDP cao thúc đẩy làn sóng FDI, trực tiếp gia tăng nhu cầu thuê đất khu công nghiệp."
+      },
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hoạt động xuất nhập khẩu tăng trưởng theo GDP thúc đẩy nhu cầu dịch vụ cảng biển và logistics."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 04:56:17"
+  },
+  {
     "Title": "Công ty con của Hóa chất Đức Giang đón tin vui - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV20talFDUEM1NnhENm4xSmNuM2JJQjUzNV80UlBLU2dTVGFmcWhVTm9uc1RkQ1lYTlE3b3VabDVfVk0wSHpRUVkyV1RxRVh3MWduNlNDMUJ1NkZtMDVNd29DanIxNzUzUFFJMF9nUVNoWnVLeXlNWXFGOVlldEpTLWJ1aDJmY3B2amNJamVVVQ?oc=5",
@@ -16678,18 +16702,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 22:56:40"
-  },
-  {
-    "Title": "PXL: Báo cáo tài chính bán niên năm 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVEhzM3ZRekFlUXAzNnh3TGlqRUNJa2xjeFF4UzlfcHprVklBV2hKaWI2U19RZ0dTSVlIR1hQRDM5UEVuWVkyRnR0VTVpZGJ4cjgta3UyNExGOVREeUVZdXBzc0R5RVNaaTZNa3h3QXUtbDY4alZrU05MdVBnZENyVzdYUlkyX3RJbkc0NjY5bkhLaW01WTZXRjY4WUdzODVx?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 15:30:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc công bố báo cáo tài chính định kỳ là nghĩa vụ công bố thông tin thông thường, không chứa đựng các đột biến về lợi nhuận hay thay đổi chiến lược kinh doanh trọng yếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - PXL. Báo cáo tài chính định kỳ không tạo ra bất ngờ về dòng tiền. Thanh khoản thấp, không có tín hiệu giao dịch đột biến từ khối lượng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 22:42:16"
   }
 ]
