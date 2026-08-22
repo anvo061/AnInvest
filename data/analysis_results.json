@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "SDK: Cha ông Nguyễn Thái Sơn Phó Tổng Giám đốc; Ủy viên HĐQT đăng ký bán 686.400 CP - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY2xiV3R4SUowejRMWkxIZi1VUzFNSjBvOTZtVmJkY0RRZlZQVmVuRC1hcDBnazB6SXljb2V6dFZZMXZsZ2FZYWtSYUd1TVNzbDZLLUNITEJPbEJqdW9nWlkzUjN6UGM1N1V3YURCYmU1VTdMS0tHR19SbjZ2NllkVkZvcjJrSUtiNmMwSGlyVEVZWDNSVVJodjNpMUlWVU00emswMF94Q2pfTHdZMlBpTTdIM2dIYURwYXNDejgzMVlaUWpNb0g0OWJpbU51a3AxRnktN0ZqS3NXeWJpaUR2SHFLYllmWDE5Z3daY0FB?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc người nhà lãnh đạo đăng ký bán lượng lớn cổ phiếu tạo áp lực cung ngắn hạn và tâm lý thận trọng cho nhà đầu tư cá nhân đối với mã SDK.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - SDK. Lượng cung từ người nội bộ gây áp lực tâm lý lên giá cổ phiếu. Dòng tiền thông minh sẽ đứng ngoài quan sát cho đến khi áp lực bán kết thúc.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SDK",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ người nhà lãnh đạo làm gia tăng nguồn cung cổ phiếu trôi nổi, gây áp lực giảm giá ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 01:13:54"
+  },
+  {
     "Title": "SZB: 27.7.2026, ngày GDKHQ trả cổ tức năm 2025 (4.500 đ/cp) - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzg3UnRnOThNLVRnNWxyanhDczhxMmY5eGJxMll1OGN6dGs5aEJucGJBVERUejBYSFhvWkJqSkRyVk5pQndkM19zbGU0THFnR08tb25HSTUzSWo2QlRqdnBKYjdYOFA4Vm5QWUx1dXVqUWFMYnZlOXhtOU5RU3dKSE5GTDU2QXFWZGVpT0h4ZFh6TnV6SUdNWE9OVmhVNEJoblBNNERDY25qRjc0bGZLYw?oc=5",
@@ -16702,29 +16721,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-16 20:57:50"
-  },
-  {
-    "Title": "Iran says no progress on reviving interim peace deal with US - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 10:39:06 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông kéo dài làm gián đoạn nguồn cung dầu, đẩy giá dầu thế giới neo cao, hỗ trợ trực tiếp cho các doanh nghiệp thượng nguồn ngành dầu khí Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Căng thẳng địa chính trị duy trì giá dầu, nhưng thiếu đột biến cung cầu. Cần theo dõi sát BSR do vị thế trung hạn đã quá hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu neo cao thúc đẩy nhu cầu khoan và đơn giá cho thuê giàn khoan tăng."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò, khai thác dầu khí được đẩy mạnh khi giá dầu duy trì mức cao."
-      }
-    ],
-    "AnalyzedAt": "2026-08-16 20:42:59"
   }
 ]
