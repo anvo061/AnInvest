@@ -1,24 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:15 - 23/08/2026
+⏱ Thời gian: 05:40 - 23/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng GDP Việt Nam duy trì trên 6%**: Đánh giá **Tích cực**. Dòng tiền có xu hướng ưu tiên nhóm **Bất động sản Khu công nghiệp (KBC)** và **Cảng biển - Logistics (GMD)** do kỳ vọng FDI và hoạt động xuất khẩu phục hồi bền vững.
-- **Dự báo sức mua tại thị trường Mỹ suy giảm ("Người Mỹ thắt hầu bao")**: Đánh giá **Tiêu cực**. Tạo áp lực lên nhóm ngành xuất khẩu chủ lực (Dệt may: **TNG, MSH**; Thủy sản: **VHC**) do rủi ro sụt giảm đơn hàng ngắn hạn.
+- Kinh tế Việt Nam duy trì tăng trưởng trên 6%, cao hơn mặt bằng chung Châu Á -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Bất động sản khu công nghiệp và Cảng biển/Logistics.
+- Sức mua tại Mỹ suy yếu -> [Đánh giá: Tiêu cực] -> Rủi ro điều chỉnh dòng tiền ngắn hạn đối với các nhóm ngành xuất khẩu chủ lực (Dệt may, Thủy sản).
+- Kỳ vọng nâng hạng thị trường -> [Đánh giá: Tích cực] -> Hỗ trợ tâm lý tích lũy nhóm Tài chính (Chứng khoán, Ngân hàng) vốn hóa lớn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC**
-    - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI nhờ tăng trưởng GDP ổn định.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại nhóm vốn hóa khu công nghiệp.
-    - Hành động: **Chú ý giải ngân** nếu xuất hiện phiên bùng nổ khối lượng.
-- **Mã: BVB**
-    - Động lực (FA): Bị HOSE cắt margin.
-    - Nhận định dòng tiền: Áp lực bán từ tài khoản dùng đòn bẩy sẽ gia tăng.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng để tránh giải chấp.
-- **Mã: SZB**
-    - Động lực (FA): Ngày GDKHQ trả cổ tức tiền mặt cao (4.500đ/cp).
-    - Nhận định dòng tiền: Tạo lực đỡ tâm lý tốt trước ngày GDKHQ.
-    - Hành động: **Tiếp tục quan sát** phản ứng của cung cầu quanh vùng giá hỗ trợ.
-- **Mã: SDK**
-    - Động lực (FA): Người nhà lãnh đạo đăng ký bán lượng lớn cổ phiếu.
-    - Nhận định dòng tiền: Gây áp lực cung ngắn hạn, tâm lý nhà đầu tư cá nhân sẽ suy yếu.
-    - Hành động: **Rủi ro vi phạm kịch bản**, đứng ngoài quan sát.
+- Mã: HAG
+  - Động lực (FA): Việt Nam giữ vị thế số 1 xuất khẩu sầu riêng.
+  - Nhận định dòng tiền: Kỳ vọng tạo sóng tâm lý tích cực do hưởng lợi trực tiếp từ biên lợi nhuận mảng nông nghiệp.
+  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- Mã: KBC, GMD
+  - Động lực (FA): GDP tăng trưởng ổn định thúc đẩy FDI và hoạt động xuất nhập khẩu.
+  - Nhận định dòng tiền: Dòng tiền trung hạn có nền tảng hỗ trợ, xu hướng củng cố.
+  - Hành động: Tiếp tục quan sát tín hiệu gia tăng khối lượng.
+- Mã: BVB, TNC
+  - Động lực (FA): Bị cắt Margin trên HOSE.
+  - Nhận định dòng tiền: Áp lực bán giải chấp/thoái vị thế margin sẽ gây nhiễu và đè nặng giá ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy.
+- Mã: SDK
+  - Động lực (FA): Cổ đông nội bộ đăng ký bán lượng lớn.
+  - Nhận định dòng tiền: Áp lực cung lớn, khả năng suy yếu ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản, hạ tỷ trọng.
