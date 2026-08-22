@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Thanh tra chỉ ra hàng trăm ha đất rừng tại Phú Quốc bị lấn chiếm - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW1kQmMzSXB1S1RJVllTUFRtM3laZ1pKcjd4Q01GdzFNU2FpMWtpX1M4N0l0ZlFFeUVqRnJmeHJNQWZKd0lMb3ZRVUxpSWNRa0VYUWJsVmtfMk1wLWZjbjlsNXQybEpEU0k4QUJRLTdOajRFNHZWd1pSYS13Nlp0QjdGc0EteGNFeU9URmt5MExQTTFDdk5PMTZzTmdfWmppdldPRw?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 02:33:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Thông tin thanh tra đất đai tại Phú Quốc làm tăng rủi ro pháp lý cho các dự án BĐS nghỉ dưỡng tại khu vực, gây tâm lý thận trọng cho nhà đầu tư đối với các doanh nghiệp có quỹ đất lớn tại đây.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS Phú Quốc. Thanh tra đất rừng gia tăng rủi ro pháp lý cục bộ, gây áp lực tâm lý ngắn hạn lên các doanh nghiệp có dự án tại khu vực này.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "CEO",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có quỹ đất và dự án trọng điểm tại Phú Quốc, chịu rủi ro rà soát pháp lý cao."
+      }
+    ],
+    "AnalyzedAt": "2026-08-22 18:13:49"
+  },
+  {
     "Title": "EVNNPT có tân Chủ tịch HĐTV - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tcGV3ZFF1NkhaSHBxQ0NWOU5kdTVoOUpUd2RMeDR4YmdQY01zWFlDcjNaSmhGUm5zWFBlOG8ySVNzenQ1SldJRzlyODVRVTY1RnVmLWJQVWZRaVRINi1CM04yY0VObmZvWS1ZckhYWlVOcjY1?oc=5",
@@ -16662,18 +16681,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-16 16:15:35"
-  },
-  {
-    "Title": "Kỷ lục của VinFast – Trống Đồng: Lớn hơn mọi “thánh địa” bóng đá, vượt xa sân nhà MU, Barca, Real… - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUFlT1R5QXhoZW5xQ1NKa05RT25oQjIxT3p3RzlXNHloZkhOQkFtRklBcWp5bkJDZ092ejREeDZ3c1Vfd3J6U3ZwaXJrbF9VdWhES0Q5UDB6dUpKRkVKVjZjWExrYllFWkc4U3NPUXNKWl8wVnZpMkV6ZldrNDl6YzRUMG9uTmhNWkl1TnNjRTAtYmxOb0NnUjcxMjVyUTFqc3JfZ055QURCbzNUc1hoUGRqRnhJV2dFU25HdXppV3kzVjRWZUJR?oc=5",
-    "PubDate": "Sat, 15 Aug 2026 17:07:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về sự kiện truyền thông và hạ tầng sự kiện của VinFast, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thông tin sự kiện truyền thông, không có tác động đến dòng tiền hay định giá cổ phiếu VIC trên thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-16 15:53:20"
   }
 ]
