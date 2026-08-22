@@ -1,26 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:30 - 22/08/2026
+⏱ Thời gian: 18:45
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ đẩy mạnh tháo gỡ pháp lý cho hơn 4.600 dự án tồn đọng -> **Tích cực** -> Dòng tiền kỳ vọng xoay chuyển sang nhóm Bất động sản có quỹ đất sạch và năng lực pháp lý tốt.
+🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: CEO**
-    - Động lực (FA): Thông tin thanh tra hàng trăm ha đất rừng tại Phú Quốc bị lấn chiếm.
-    - Nhận định dòng tiền: Rủi ro pháp lý trực tiếp tại khu vực trọng điểm gây áp lực bán giải tỏa tâm lý, dòng tiền ngắn hạn sẽ suy yếu.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cần chặn lỗ nếu mất ngưỡng hỗ trợ kỹ thuật quan trọng.
+  - Động lực (FA): Thanh tra chỉ ra hàng trăm ha đất rừng tại Phú Quốc bị lấn chiếm.
+  - Nhận định dòng tiền: Rủi ro pháp lý tại địa bàn trọng điểm gây áp lực tâm lý tiêu cực lên cổ đông. Dòng tiền ngắn hạn có xu hướng né tránh do lo ngại rà soát dự án.
+  - Hành động: **Rủi ro vi phạm kịch bản**; khuyến nghị theo dõi chặt chẽ diễn biến tại ngưỡng hỗ trợ kỹ thuật gần nhất, tuyệt đối không bắt đáy khi chưa có kết luận thanh tra chính thức.
 
 - **Mã: PVD**
-    - Động lực (FA): Lợi nhuận sụt giảm bất chấp doanh thu tăng (áp lực chi phí/tài chính).
-    - Nhận định dòng tiền: Phân kỳ giữa doanh thu và lợi nhuận là tín hiệu "báo động đỏ" về hiệu quả vận hành; dòng tiền thông minh khả năng sẽ rút lui để tìm cơ hội tại nhóm có biên lợi nhuận ổn định hơn.
-    - Hành động: **Chú ý rủi ro**, hạ tỷ trọng ưu tiên bảo toàn vốn.
-
-- **Mã: HVN**
-    - Động lực (FA): Nhu cầu vé máy bay dịp 2/9 tăng mạnh, xác nhận phục hồi ngành dịch vụ.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ đón sóng lễ hội sẽ hỗ trợ tích cực cho đà tăng ngắn hạn.
-    - Hành động: **Tiếp tục quan sát** điểm gia tăng vị thế khi rung lắc.
+  - Động lực (FA): Lợi nhuận sụt giảm bất chấp doanh thu tăng 25%.
+  - Nhận định dòng tiền: Phản ứng tiêu cực từ thị trường do vấn đề biên lợi nhuận và quản trị chi phí. Áp lực bán khả năng cao sẽ gia tăng trong các phiên tới.
+  - Hành động: **Rủi ro vi phạm kịch bản**; xem xét hạ tỷ trọng nếu giá vi phạm vùng hỗ trợ cứng để bảo toàn vốn.
 
 - **Mã: MBB**
-    - Động lực (FA): Cổ đông lớn (Viettel) mua thêm cổ phiếu đối ứng với rủi ro nợ xấu và dòng tiền kinh doanh âm.
-    - Nhận định dòng tiền: Lực đỡ từ cổ đông lớn chỉ mang tính chất ổn định tâm lý tạm thời, chưa giải quyết được vấn đề nội tại (nợ xấu).
-    - Hành động: **Tiếp tục quan sát**, không giải ngân thêm.
+  - Động lực (FA): Viettel chi hơn ngàn tỷ mua cổ phiếu trong bối cảnh nợ xấu tăng, dòng tiền kinh doanh âm 53.000 tỷ.
+  - Nhận định dòng tiền: Lực đỡ từ cổ đông lớn chỉ có tác dụng tạo "vùng đệm" tâm lý ngắn hạn, khó thay đổi xu hướng nếu các chỉ số cơ bản (nợ xấu/dòng tiền) không cải thiện.
+  - Hành động: **Tiếp tục quan sát**; thận trọng với sự phân kỳ giữa lực mua của cổ đông lớn và chất lượng bảng cân đối kế toán.
+
+- **Mã: HVN**
+  - Động lực (FA): Nhu cầu vé máy bay dịp 2/9 tăng cao, hãng phát cảnh báo sớm.
+  - Nhận định dòng tiền: Kỳ vọng tích cực vào kết quả kinh doanh quý 3/2026. Dòng tiền có xu hướng tích lũy theo mùa vụ (seasonality).
+  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì sự chủ động trên các vùng kháng cự hiện tại.
