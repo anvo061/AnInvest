@@ -2,20 +2,17 @@
 ⏱ Thời gian: 22:15 - 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Khối ngoại bán ròng kỷ lục & Rủi ro thương mại Bắc Mỹ:** Áp lực bán ròng từ các quỹ toàn cầu gây suy yếu nhóm vốn hóa lớn (Bluechips), cộng hưởng với tin đổ vỡ thương mại Mỹ - Canada làm tăng rủi ro cho nhóm xuất khẩu chủ lực. -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi các mã vốn hóa lớn (VHM, HPG, VCB, SSI) và nhóm xuất khẩu sang Bắc Mỹ (VHC, TNG).
-- **Chính sách tài khóa hỗ trợ:** Đề xuất giảm 30% thuế TNDN. -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục sang nhóm bán lẻ (MWG, MSN, PNJ) để đón đầu dư địa cải thiện biên lợi nhuận.
-- **Thúc đẩy hạ tầng:** Khảo sát dự án tại Bà Rịa - Vũng Tàu. -> **Trung lập/Tích cực** -> Dòng tiền khu vực (BĐS, Hạ tầng) có thể hưởng lợi ngắn hạn.
+- **Khối ngoại bán ròng kỷ lục (Bloomberg):** Áp lực rút vốn khỏi các mã vốn hóa lớn (Bluechips) đang gây áp lực nặng nề lên chỉ số chung -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi các mã trụ (VHM, HPG, VCB, SSI) và chuyển dịch sang trạng thái phòng thủ hoặc các mã Mid-cap có câu chuyện riêng biệt.
+- **Đề xuất giảm 30% thuế TNDN:** Chính sách hỗ trợ trực tiếp biên lợi nhuận ròng -> **Tích cực** -> Dòng tiền có khả năng luân chuyển vào nhóm Bán lẻ và Tiêu dùng (MWG, MSN, PNJ) để đón đầu kỳ vọng phục hồi biên lợi nhuận.
+- **Căng thẳng thương mại Mỹ - Canada:** Gây rủi ro gián đoạn chuỗi cung ứng và suy giảm nhu cầu từ Bắc Mỹ -> **Tiêu cực** -> Rủi ro điều chỉnh giá đối với các mã xuất khẩu chủ lực (VHC, TNG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HTN**
-    - Động lực (FA): Ngày 10/09/2026 GDKHQ thưởng cổ phiếu tỷ lệ 2:1.
-    - Nhận định dòng tiền: Kỳ vọng pha loãng cổ phiếu kèm tăng vốn thu hút sự chú ý của nhóm đầu cơ ngắn hạn, giúp cải thiện thanh khoản trước ngày chốt.
-    - Hành động: Chú ý theo dõi (Quan sát vùng hỗ trợ kỹ thuật trước ngày chốt quyền).
-- **Mã: HAG**
-    - Động lực (FA): Siết chặt quản lý xuất khẩu sầu riêng (truy xuất nguồn gốc).
-    - Nhận định dòng tiền: Là doanh nghiệp hưởng lợi từ việc chuẩn hóa để giữ thị phần tại Trung Quốc, tạo kỳ vọng ổn định doanh thu.
-    - Hành động: Tiếp tục quan sát (theo dõi sát biến động giá nếu thị trường chung điều chỉnh mạnh do áp lực bán ngoại).
-- **Mã: VHC, TNG**
-    - Động lực (FA): Rủi ro thuế 50% từ căng thẳng Mỹ - Canada.
-    - Nhận định dòng tiền: Áp lực tâm lý từ tin tức quốc tế đè nặng lên giá cổ phiếu, rủi ro điều chỉnh kỹ thuật cao.
-    - Hành động: Rủi ro vi phạm kịch bản (Cân nhắc hạ tỷ trọng nếu thủng vùng hỗ trợ nền gần nhất).
+- **Mã:** HTN
+- **Động lực (FA):** Công bố chốt quyền nhận thưởng cổ phiếu tỷ lệ 2:1 vào ngày 10.9.2026.
+- **Nhận định dòng tiền:** Việc tăng vốn điều lệ và pha loãng kỹ thuật thường thu hút dòng tiền đầu cơ ngắn hạn trước ngày GDKHQ. Tuy nhiên, cần chú ý thanh khoản thực tế để tránh bẫy bull-trap.
+- **Hành động:** Chú ý giải ngân vị thế ngắn hạn, theo dõi sát khối lượng giao dịch vùng nền hiện tại.
+
+- **Mã:** HAG
+- **Động lực (FA):** Chủ trương chuẩn hóa truy xuất nguồn gốc sầu riêng xuất khẩu chính ngạch sang Trung Quốc.
+- **Nhận định dòng tiền:** Tin tức hỗ trợ củng cố vị thế doanh nghiệp, giảm rủi ro hàng rào kỹ thuật, tạo kỳ vọng cải thiện doanh thu biên tại thị trường lớn nhất.
+- **Hành động:** Tiếp tục quan sát, ưu tiên nắm giữ nếu dòng tiền duy trì trên vùng hỗ trợ kỹ thuật gần nhất.
