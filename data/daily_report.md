@@ -1,22 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:00 - 22/08/2026
+⏱ Thời gian: 09:30 ngày 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam ghi nhận thâm hụt thương mại kỷ lục do nhập khẩu tăng mạnh -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực bán tại nhóm có nợ vay ngoại tệ lớn và doanh nghiệp phụ thuộc nguyên liệu nhập khẩu (Điện, Thép)].
-- Giá vàng SJC tiến sát 150 triệu đồng/lượng -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền: Áp lực rút vốn khỏi thị trường chứng khoán sang kênh trú ẩn].
+- **Thâm hụt thương mại kỷ lục (Bloomberg):** Gây áp lực trực tiếp lên tỷ giá USD/VND và chi phí tài chính doanh nghiệp -> **Tiêu cực** -> Dòng tiền thận trọng với nhóm sản xuất nhập khẩu nguyên liệu (HPG) và doanh nghiệp nợ vay ngoại tệ (POW).
+- **Giá dầu thế giới hồi phục:** Hỗ trợ biên lợi nhuận thượng nguồn -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí (PVD, PVS).
+- **Giá căn hộ tại các đô thị lớn tăng:** Phản ánh nhu cầu thực và khan hiếm nguồn cung -> **Tích cực** -> Dòng tiền hướng vào nhóm Bất động sản dân cư (VHM, KDH, NLG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HDB**
-- Động lực (FA): Dự kiến phát hành 500 triệu USD trái phiếu quốc tế và kế hoạch niêm yết tại London.
-- Nhận định dòng tiền: Tin tức tích cực giúp cải thiện chỉ số CAR và vị thế vốn dài hạn, có thể tạo lực đỡ cho cổ phiếu trước áp lực vĩ mô chung.
-- Hành động: Chú ý giải ngân (theo dõi vùng hỗ trợ kỹ thuật trước khi vào lệnh).
+- **Mã: HDB**
+    - Động lực (FA): Dự kiến phát hành 500 triệu USD trái phiếu quốc tế và niêm yết tại London.
+    - Nhận định dòng tiền: Tin tức mang tính định hướng chiến lược dài hạn, giúp cải thiện hệ số CAR và uy tín quốc tế, hỗ trợ tâm lý nhà đầu tư tổ chức trong bối cảnh vĩ mô đang chịu áp lực tỷ giá.
+    - Hành động: Chú ý giải ngân (theo dõi vùng hỗ trợ kỹ thuật để tối ưu hóa giá vốn).
+- **Mã: MWG**
+    - Động lực (FA): Thương hiệu Điện Máy Xanh được định giá cao bởi dòng vốn ngoại.
+    - Nhận định dòng tiền: Tạo động lực tăng giá ngắn hạn, tạo đối trọng với xu hướng điều chỉnh của thị trường chung.
+    - Hành động: Tiếp tục quan sát (xác nhận lực cầu ngoại trong phiên).
+- **Mã: HPG, POW**
+    - Động lực (FA): Áp lực từ thâm hụt thương mại và rủi ro tỷ giá.
+    - Nhận định dòng tiền: Rủi ro điều chỉnh do áp lực chi phí tài chính và biến động tỷ giá.
+    - Hành động: Rủi ro vi phạm kịch bản (cần hạ tỷ trọng nếu thủng vùng hỗ trợ nền).
 
-- Mã: **POW**
-- Động lực (FA): Thâm hụt thương mại kỷ lục làm tăng rủi ro tỷ giá.
-- Nhận định dòng tiền: Áp lực chi phí tài chính tăng từ dư nợ ngoại tệ lớn sẽ tạo tâm lý tiêu cực lên thị trường ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
-
-- Mã: **HPG**
-- Động lực (FA): Chi phí nhập khẩu nguyên liệu (quặng sắt, than) tăng do tỷ giá biến động.
-- Nhận định dòng tiền: Biên lợi nhuận gộp chịu áp lực tiêu cực từ dữ liệu vĩ mô mới.
-- Hành động: Tiếp tục quan sát (đánh giá lại vùng hỗ trợ nếu dòng tiền bán tháo xuất hiện).
+🔄 3. Cảnh báo Tái cơ cấu (Chỉ xuất hiện nếu có tin về EIB, BSR):
+- *Chưa có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này.*
