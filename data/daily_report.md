@@ -2,17 +2,22 @@
 ⏱ Thời gian: 22:15 - 22/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Khối ngoại bán ròng kỷ lục (Bloomberg):** Áp lực rút vốn khỏi các mã vốn hóa lớn (Bluechips) đang gây áp lực nặng nề lên chỉ số chung -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi các mã trụ (VHM, HPG, VCB, SSI) và chuyển dịch sang trạng thái phòng thủ hoặc các mã Mid-cap có câu chuyện riêng biệt.
-- **Đề xuất giảm 30% thuế TNDN:** Chính sách hỗ trợ trực tiếp biên lợi nhuận ròng -> **Tích cực** -> Dòng tiền có khả năng luân chuyển vào nhóm Bán lẻ và Tiêu dùng (MWG, MSN, PNJ) để đón đầu kỳ vọng phục hồi biên lợi nhuận.
-- **Căng thẳng thương mại Mỹ - Canada:** Gây rủi ro gián đoạn chuỗi cung ứng và suy giảm nhu cầu từ Bắc Mỹ -> **Tiêu cực** -> Rủi ro điều chỉnh giá đối với các mã xuất khẩu chủ lực (VHC, TNG).
+- **Áp lực bán ròng khối ngoại:** Các quỹ toàn cầu bán kỷ lục sau nhịp hồi phục -> [Tiêu cực] -> [Dòng tiền bị rút mạnh tại các mã Bluechips: VHM, HPG, VCB, SSI].
+- **Chính sách hỗ trợ:** Đề xuất giảm 30% thuế TNDN -> [Tích cực] -> [Nhóm ngành Bán lẻ & Tiêu dùng: MWG, MSN, PNJ].
+- **Căng thẳng thương mại Mỹ - Canada:** Đổ vỡ đàm phán, thuế tăng 50% -> [Tiêu cực] -> [Các doanh nghiệp xuất khẩu chủ lực sang Bắc Mỹ: VHC, TNG].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã:** HTN
-- **Động lực (FA):** Công bố chốt quyền nhận thưởng cổ phiếu tỷ lệ 2:1 vào ngày 10.9.2026.
-- **Nhận định dòng tiền:** Việc tăng vốn điều lệ và pha loãng kỹ thuật thường thu hút dòng tiền đầu cơ ngắn hạn trước ngày GDKHQ. Tuy nhiên, cần chú ý thanh khoản thực tế để tránh bẫy bull-trap.
-- **Hành động:** Chú ý giải ngân vị thế ngắn hạn, theo dõi sát khối lượng giao dịch vùng nền hiện tại.
+- **Động lực (FA):** Ngày 10/09/2026 GDKHQ thưởng cổ phiếu tỷ lệ 2:1.
+- **Nhận định dòng tiền:** Gia tăng sự chú ý ngắn hạn do yếu tố kỹ thuật (tăng vốn/thanh khoản). 
+- **Hành động:** Tiếp tục quan sát phản ứng dòng tiền tại vùng nền giá hiện tại, chú ý rủi ro chốt lời sau ngày GDKHQ.
+
+- **Mã:** VHC, TNG
+- **Động lực (FA):** Rủi ro từ căng thẳng thương mại Mỹ - Canada gây áp lực biên lợi nhuận xuất khẩu.
+- **Nhận định dòng tiền:** Tiềm ẩn áp lực bán tháo theo tâm lý lo ngại bất ổn chuỗi cung ứng.
+- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng nếu mất các ngưỡng hỗ trợ kỹ thuật quan trọng.
 
 - **Mã:** HAG
-- **Động lực (FA):** Chủ trương chuẩn hóa truy xuất nguồn gốc sầu riêng xuất khẩu chính ngạch sang Trung Quốc.
-- **Nhận định dòng tiền:** Tin tức hỗ trợ củng cố vị thế doanh nghiệp, giảm rủi ro hàng rào kỹ thuật, tạo kỳ vọng cải thiện doanh thu biên tại thị trường lớn nhất.
-- **Hành động:** Tiếp tục quan sát, ưu tiên nắm giữ nếu dòng tiền duy trì trên vùng hỗ trợ kỹ thuật gần nhất.
+- **Động lực (FA):** Quy định chuẩn hóa, truy xuất nguồn gốc sầu riêng xuất khẩu.
+- **Nhận định dòng tiền:** Thông tin bổ trợ tích cực cho định hướng xuất khẩu chính ngạch, có thể tạo lực đỡ tâm lý.
+- **Hành động:** Tiếp tục quan sát dòng tiền vào nhóm nông nghiệp, chưa cần hành động vội.
