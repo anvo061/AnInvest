@@ -1,24 +1,28 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 13:30 - 22/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 14:15 - 22/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thông tin:** FTSE thêm 27 cổ phiếu Việt Nam vào rổ danh mục, chiếm gần 60% vốn hóa toàn HOSE -> **Tích cực** -> Dòng tiền dự kiến tập trung vào nhóm **Blue-chip, Tài chính (Ngân hàng/Chứng khoán) và các trụ cột vốn hóa lớn** nhờ lực cầu từ các quỹ ETF thụ động.
-- **Thông tin:** Dư nợ tín dụng BĐS đạt hơn 2,5 triệu tỷ đồng, áp lực chi phí vốn vẫn cao -> **Tiêu cực phân hóa** -> Dòng tiền sẽ ưu tiên các doanh nghiệp BĐS có bảng cân đối kế toán sạch (ít nợ vay) và thận trọng với các đơn vị có đòn bẩy cao.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Dòng vốn ngoại (ETF FTSE):** 27 cổ phiếu Việt Nam được thêm vào rổ FTSE với kỳ vọng dòng vốn 1,5 tỷ USD -> **Tích cực (Lan tỏa mạnh)** -> Dòng tiền sẽ hướng vào nhóm Bluechips vốn hóa lớn (HPG, VHM, VCB, MSN, SSI).
+- **Giá dầu thế giới:** Nguồn cung dầu từ Venezuela gián đoạn thúc đẩy giá dầu thô tăng -> **Tích cực (Ngành Dầu khí)** -> Dòng tiền ưu tiên nhóm Thượng nguồn (PVD, PVS).
+- **Tín dụng BĐS:** Dòng tiền tín dụng chảy mạnh vào BĐS nhưng áp lực lãi suất vẫn là rào cản -> **Trung lập phân hóa** -> Dòng tiền sẽ rút khỏi các mã nợ vay cao (DIG, NVL) để dịch chuyển sang các mã quỹ đất sạch, tài chính mạnh (KDH, VHM).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** VHM
-  - **Động lực (FA):** Hưởng lợi kép từ danh mục FTSE (trụ cột vốn hóa) và vị thế tài chính vững mạnh giúp tận dụng tín dụng tốt hơn đối thủ.
-  - **Nhận định dòng tiền:** Dòng vốn ngoại thụ động sẽ tạo nền hỗ trợ mạnh, kỳ vọng thanh khoản cải thiện.
-  - **Hành động:** Chú ý giải ngân theo nhịp chỉnh của thị trường.
-- **Mã:** HPG, VCB, SSI
-  - **Động lực (FA):** Được xướng tên trong đợt cơ cấu của FTSE, đại diện cho nhóm vốn hóa lớn và thanh khoản cao.
-  - **Nhận định dòng tiền:** Dòng tiền tổ chức và khối ngoại sẽ tập trung mạnh vào các mã này trong ngắn hạn.
-  - **Hành động:** Tiếp tục quan sát điểm vào tối ưu trong phiên.
-- **Mã:** NVL, DIG
-  - **Động lực (FA):** Áp lực chi phí vốn từ báo cáo dư nợ tín dụng BĐS toàn ngành.
-  - **Nhận định dòng tiền:** Dòng tiền sẽ e dè, khả năng cao chịu áp lực rung lắc khi dòng vốn thông minh ưu tiên các mã có nền tảng cơ bản khỏe hơn.
-  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-- **Mã:** MSB
-  - **Động lực (FA):** Thông báo tăng vốn điều lệ từ nguồn vốn chủ sở hữu.
-  - **Nhận định dòng tiền:** Tạo sự chú ý ngắn hạn cho dòng tiền đầu cơ theo tin tức (game tăng vốn).
-  - **Hành động:** Chú ý giải ngân với tỷ trọng vừa phải.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thô tăng do nút thắt nguồn cung tại Venezuela.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận kỳ vọng cải thiện, khả năng thu hút dòng tiền đầu cơ ngành năng lượng.
+- Hành động: Chú ý giải ngân khi giá kiểm tra lại vùng hỗ trợ kỹ thuật gần nhất.
+
+- Mã: **EVF**
+- Động lực (FA): Tăng vốn điều lệ và mở rộng room ngoại.
+- Nhận định dòng tiền: Kỳ vọng gia tăng hệ số CAR và sự chú ý từ khối ngoại sẽ tạo xung lực tăng trưởng dài hạn.
+- Hành động: Tiếp tục quan sát phản ứng tại vùng cản cũ, ưu tiên vị thế nắm giữ.
+
+- Mã: **CII**
+- Động lực (FA): Đề xuất quy hoạch TOD ga Thủ Thiêm tạo kỳ vọng giá trị đất nền.
+- Nhận định dòng tiền: Tin tức mang tính chất dài hạn, dòng tiền ngắn hạn có thể phản ứng hưng phấn theo kỳ vọng hạ tầng.
+- Hành động: Chú ý giải ngân với tỷ trọng vừa phải, cẩn trọng rủi ro "tin ra là bán" nếu dòng tiền không duy trì được thanh khoản.
+
+- Mã: **MSB**
+- Động lực (FA): Phát hành cổ phiếu từ nguồn vốn chủ sở hữu tăng quy mô vốn.
+- Nhận định dòng tiền: Tạo tâm lý tích cực ngắn hạn cho cổ đông, khả năng có nhịp kéo giá trước ngày chốt quyền.
+- Hành động: Chú ý giải ngân vị thế ngắn hạn.
