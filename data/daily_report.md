@@ -1,24 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:00 - 23/08/2026
+⏱ Thời gian: 15:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Quốc hội chốt ưu đãi thu hút đầu tư dầu khí & Căng thẳng địa chính trị Iran-Mỹ đẩy giá dầu tăng -> Tác động: **Tích cực (ngắn hạn)** -> Dòng tiền tập trung vào nhóm **Dịch vụ Dầu khí (Upstream)**.
-- Dòng vốn ngoại dự kiến đổ vào qua ETF (FTSE) đạt 80.000 tỷ -> Tác động: **Tích cực** -> Dòng tiền hướng vào nhóm **Vốn hóa lớn (Large-cap)** (VHM, HPG, VCB).
+- Quốc hội thông qua ưu đãi đầu tư dầu khí kết hợp căng thẳng địa chính trị Trung Đông đẩy giá dầu tăng >2% -> Tích cực cho nhóm Dầu khí (Thượng nguồn) -> Dòng tiền sẽ tập trung vào các mã dịch vụ kỹ thuật và khoan.
+- FTSE thay đổi danh mục dự kiến bơm ~80.000 tỷ đồng vào Việt Nam -> Tích cực cho nhóm vốn hóa lớn (Bluechips) -> Dòng tiền khối ngoại sẽ ưu tiên các mã trụ cột.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS**
-    - Động lực (FA): Hưởng lợi kép từ chính sách ưu đãi đầu tư dầu khí quốc gia và giá dầu thế giới tăng do xung đột địa chính trị.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng mạnh với các mã nhạy sóng dầu khí.
-    - Hành động: **Chú ý giải ngân** (theo dõi điểm bứt phá thanh khoản).
+- **Mã: PVS, PVD**
+  - Động lực (FA): Hưởng lợi kép từ giá dầu thế giới tăng và cơ chế ưu đãi đầu tư dầu khí mới được Quốc hội thông qua.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ và dòng tiền theo xu hướng (trend-following) sẽ chảy mạnh vào nhóm này trong ngắn hạn.
+  - Hành động: Chú ý giải ngân theo đà tăng, quản trị rủi ro tại vùng kháng cự kỹ thuật.
+
 - **Mã: VHM, HPG, VCB**
-    - Động lực (FA): Kỳ vọng đón dòng vốn ngoại mạnh từ các quỹ ETF.
-    - Nhận định dòng tiền: Hỗ trợ chỉ số và tạo tâm lý tích cực cho thị trường chung.
-    - Hành động: **Tiếp tục quan sát** phản ứng của khối ngoại tại các vùng cản tâm lý.
+  - Động lực (FA): Hưởng lợi trực tiếp từ kỳ vọng dòng vốn ETF đổ vào theo thay đổi danh mục FTSE.
+  - Nhận định dòng tiền: Dòng tiền khối ngoại sẽ gia tăng mua ròng, tạo lực đỡ cho chỉ số VN-Index.
+  - Hành động: Tiếp tục quan sát tín hiệu giao dịch khối ngoại để xác nhận điểm vào.
+
 - **Mã: HVN, VJC**
-    - Động lực (FA): Sức cầu dịp lễ thấp hơn kỳ vọng, áp lực chi phí nhiên liệu (giá dầu tăng).
-    - Nhận định dòng tiền: Tiêu cực, rủi ro điều chỉnh cao.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
-- **Mã: PNJ**
-    - Động lực (FA): Giao dịch mua vào 1 triệu cổ phiếu của TGĐ.
-    - Nhận định dòng tiền: Tạo bệ đỡ tâm lý ngắn hạn.
-    - Hành động: **Tiếp tục quan sát** phản ứng giá tại các phiên tới.
+  - Động lực (FA): Sức cầu yếu dịp lễ 2/9, tỷ lệ lấp đầy thấp.
+  - Nhận định dòng tiền: Tiêu cực, có nguy cơ bị bán tháo ngắn hạn do áp lực tâm lý từ báo cáo doanh thu yếu.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy trong giai đoạn này.

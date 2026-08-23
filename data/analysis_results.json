@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 21:12:11 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Giá dầu tăng mạnh do rủi ro địa chính trị tại Trung Đông, thúc đẩy kỳ vọng tăng trưởng doanh thu cho các doanh nghiệp thượng nguồn và dịch vụ dầu khí tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá dầu tăng thúc đẩy tâm lý đầu cơ thượng nguồn. Dòng tiền tập trung vào PVS, PVD nhờ kỳ vọng giá dịch vụ khoan và xây lắp tăng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ giá dầu tăng, thúc đẩy các dự án thăm dò và khai thác, tăng khối lượng công việc mảng dịch vụ kỹ thuật."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu cao cải thiện giá thuê giàn khoan, trực tiếp tăng biên lợi nhuận cho doanh nghiệp khoan dầu khí."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 15:18:21"
+  },
+  {
     "Title": "Iran threatens military response to US sanctions - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
@@ -16677,18 +16701,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 10:59:03"
-  },
-  {
-    "Title": "Chủ tịch Nura: ‘Việt Nam có thể trở thành thị trường trọng điểm của mô hình tầm soát’",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/chu-tich-nura-viet-nam-co-the-tro-thanh-thi-truong-trong-diem-cua-mo-hinh-tam-soat-5109444.html",
-    "PubDate": "Mon, 17 Aug 2026 08:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về mô hình tầm soát sức khỏe của doanh nghiệp nước ngoài chưa có tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp y tế niêm yết trên sàn chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Y tế. Tin tức mang tính chất định hướng thị trường, chưa có tác động cụ thể đến dòng tiền của các mã y tế niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 10:58:52"
   }
 ]
