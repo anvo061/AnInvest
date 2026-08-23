@@ -1,5 +1,48 @@
 ﻿[
   {
+    "Title": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
+    "PubDate": "Sat, 22 Aug 2026 12:21:29 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc thông tuyến qua eo biển Hormuz giúp giảm bớt căng thẳng nguồn cung dầu toàn cầu, ổn định giá dầu và giảm chi phí vận tải, hỗ trợ tích cực cho các doanh nghiệp dầu khí thượng nguồn và vận tải biển.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất địa chính trị cục bộ, không thay đổi cấu trúc cung cầu dầu thô toàn cầu. Tác động đến biên lợi nhuận doanh nghiệp nội địa là không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nguồn cung dầu thô ổn định giúp tối ưu hóa công suất vận hành nhà máy lọc dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 21:46:06"
+  },
+  {
+    "Title": "UK forecaster predicts strongest El Niño in living memory - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFRUbTNrSkNvN1VTeUlGbDJQZk0ybzVSeG9HT2tDQmN0TGdWUndTTkhXdlQzRjZzR1JNclFDNDF5S3R5MWtjTU1aZXV3WXh1MTZGSkZHbS1KMkw1R3p6M184aTliX2hyUExLVXFFdHVmOWJCZHEtcE43RHllMWp5S2lDSGZNRTY5UXh1Ti1QcGViR19MYXFzX3YzaGVMNXlQbkVQZTBtenREQkpnOG40?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 08:24:17 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Hiện tượng El Niño cực đoan gây hạn hán, ảnh hưởng tiêu cực đến sản lượng nông nghiệp, thủy điện và làm tăng chi phí đầu vào cho các ngành sản xuất thực phẩm.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. El Niño cực đoan đe dọa sản lượng thủy điện và chi phí đầu vào nông nghiệp. Cần thận trọng với nhóm thủy điện (POW, REE) và rủi ro biên lợi nhuận ngành thực phẩm.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Hạn hán làm giảm lưu lượng nước về hồ, ảnh hưởng trực tiếp đến sản lượng phát điện của các nhà máy thủy điện."
+      },
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Danh mục đầu tư vào các nhà máy thủy điện chịu rủi ro sụt giảm doanh thu do thiếu hụt nguồn nước."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 21:45:50"
+  },
+  {
     "Title": "Oil closes at three-week high as hopes of US-Iran peace deal fade - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
@@ -16685,31 +16728,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 14:37:55"
-  },
-  {
-    "Title": "Du lịch Gia Lai tăng trưởng ấn tượng, 7 tháng thu gần 23.000 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/du-lich-gia-lai-tang-truong-an-tuong-7-thang-thu-gan-23-000-ty-dong-2546097.html",
-    "PubDate": "Mon, 17 Aug 2026 14:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Sự tăng trưởng du lịch tại Gia Lai mang tính chất địa phương, không có doanh nghiệp niêm yết quy mô lớn nào có hoạt động kinh doanh trọng yếu tại khu vực này để hưởng lợi trực tiếp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Du lịch/Hàng không. Tăng trưởng du lịch địa phương quy mô nhỏ, không tác động đáng kể đến dòng tiền các mã vốn hóa lớn trên sàn. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 14:37:45"
-  },
-  {
-    "Title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
-    "PubDate": "Mon, 17 Aug 2026 13:52:02 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Highlands Coffee là doanh nghiệp tư nhân không niêm yết. Thông tin này phản ánh sức khỏe ngành F&B nhưng không tác động trực tiếp đến các mã cổ phiếu trên sàn chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành F&B. Doanh nghiệp không niêm yết, không tạo biến động dòng tiền trên sàn. Thông tin mang tính tham khảo về sức cầu tiêu dùng nội địa.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 14:37:17"
   }
 ]

@@ -1,21 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 21:15 - 23/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 21:46:06
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giá dầu thế giới đạt đỉnh 3 tuần (do rủi ro địa chính trị):** -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm **Dầu khí thượng nguồn (PVD, PVS)**.
-- **Dự án đường sắt Chơn Thành - Cái Mép (6,4 tỷ USD):** -> **Tích cực** -> Củng cố kỳ vọng dài hạn cho nhóm **Cảng biển (GMD)** và **Bất động sản KCN (SZC)** tại khu vực Bà Rịa - Vũng Tàu.
-- **Rủi ro vận tải toàn cầu (El Niño - Kênh đào Panama):** -> **Tiêu cực** -> Áp lực lên biên lợi nhuận nhóm **Xuất khẩu (VHC)** do chi phí logistics tăng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Địa chính trị & Năng lượng:** Việc Iran thông tuyến Hormuz kết hợp với đà tăng giá dầu do rủi ro địa chính trị tạo áp lực trái chiều lên giá thành đầu vào nhưng hỗ trợ biên lợi nhuận cho nhóm thượng nguồn -> **Tích cực (ngắn hạn)** -> Dòng tiền hướng vào nhóm **Dầu khí (PVD, PVS, BSR)**.
+- **Hạ tầng:** Dự án đường sắt 6,4 tỷ USD kết nối siêu cảng Cái Mép -> **Tích cực** -> Dòng tiền hướng vào nhóm **Cảng biển (GMD)** và **Khu công nghiệp (SZC)**.
+- **Biến đổi khí hậu:** El Niño cực đoan gây hạn hán toàn cầu -> **Tiêu cực** -> Áp lực lên nhóm **Thủy điện (POW, REE)** và biên lợi nhuận doanh nghiệp **Xuất khẩu (VHC)** do chi phí logistics tăng.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-    - **Động lực (FA):** Giá dầu duy trì đà tăng mạnh; nhu cầu thuê giàn khoan cải thiện.
-    - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ tâm lý tích cực của giá dầu, kỳ vọng hút dòng tiền đầu cơ ngắn hạn.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp test hỗ trợ, ưu tiên gia tăng tỷ trọng khi giá dầu thế giới giữ ổn định trên vùng đỉnh hiện tại.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** PVD, PVS, BSR
+  - **Động lực (FA):** Giá dầu duy trì mức cao do rủi ro địa chính trị và tín hiệu thông tuyến Hormuz giúp tối ưu hóa công suất vận hành.
+  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn sẽ tập trung vào nhóm dầu khí do kỳ vọng cải thiện biên lợi nhuận từ giá dầu neo cao.
+  - **Hành động:** Chú ý giải ngân tại các nhịp rung lắc, ưu tiên PVD và PVS theo sóng giá dầu.
+- **Mã:** GMD, SZC
+  - **Động lực (FA):** Dự án hạ tầng đường sắt 6,4 tỷ USD được phê duyệt/đẩy mạnh, tạo động lực tăng trưởng dài hạn cho lưu lượng hàng hóa và hạ tầng KCN Bà Rịa - Vũng Tàu.
+  - **Nhận định dòng tiền:** Hưởng lợi từ làn sóng đầu tư hạ tầng, dòng tiền dài hạn có xu hướng tích lũy.
+  - **Hành động:** Tiếp tục quan sát điểm entry kỹ thuật; ưu tiên nắm giữ cho mục tiêu tăng trưởng hạ tầng.
+- **Mã:** POW, REE
+  - **Động lực (FA):** Dự báo El Niño mạnh làm giảm lưu lượng nước về hồ thủy điện.
+  - **Nhận định dòng tiền:** Rủi ro điều chỉnh do kết quả kinh doanh quý tới chịu áp lực chi phí.
+  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế giải ngân mới.
 
-- **Mã: GMD, SZC**
-    - **Động lực (FA):** Thông tin khởi động dự án hạ tầng chiến lược kết nối siêu cảng Cái Mép.
-    - **Nhận định dòng tiền:** Dòng tiền dài hạn sẽ phản ứng tích cực với thông tin hạ tầng.
-    - **Hành động:** Tiếp tục quan sát phản ứng của dòng tiền tại vùng nền giá hiện tại, giải ngân từng phần nếu khối lượng giao dịch gia tăng đột biến.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Hiện tại chưa có tin tức trọng yếu phát sinh liên quan đến **EIB, BSR** trong chu kỳ 15 phút này. Giữ nguyên trạng thái chiến lược.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - **Nhận định:** Dữ liệu mới (giá dầu tăng + thông tuyến Hormuz) củng cố trạng thái vận hành hiệu quả cho BSR. Xét thời điểm hiện tại (tháng 8/2026), cổ phiếu này vẫn đang hưởng lợi trực tiếp từ biên lợi nhuận lọc hóa dầu. **Khuyến nghị: Tiếp tục giữ** để tối ưu hóa sóng tăng giá năng lượng hiện tại, chưa cần tái cơ cấu.
