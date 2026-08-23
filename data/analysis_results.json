@@ -1,5 +1,55 @@
 ﻿[
   {
+    "Title": "Euro zone business activity growing at fastest pace since November, PMIs show - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJRUTVFVzFGV1dITUg0YmRpcFBpN18wZGdmTVgwdU1oWU5xU3dWaWhzWUtONDdWWElvbnpmTHhGLXJDcDBSczdnTnZKVFo0T2hMWEpydGhIOG9rT3g5NW1fWk5nZXBKOFRRbG4yWldPZXc3ak9XTEhqRzVyUTF0X3VNZXo3NVMyenJndGhpTkQ2ZXFzalRYUXZCX0E4SGFQU21LWFpCTmxkMlBWUmx5bG11WlRNM2ZPNnlMSkdn?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 09:58:40 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Sự phục hồi kinh tế tại Eurozone hỗ trợ nhu cầu xuất khẩu hàng hóa từ Việt Nam, đặc biệt là các ngành hàng tiêu dùng và dệt may sang thị trường châu Âu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. PMI Eurozone cải thiện nhẹ chưa đủ tạo sóng ngành. Tác động đến xuất khẩu có độ trễ lớn, chưa phản ánh ngay vào dòng tiền ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 16:17:13"
+  },
+  {
+    "Title": "Treasury yields are rising - why does it matter? - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2hqY3NCTUdIbGJoZUR6aXVTVXlZUFZPVFNmc3dFcTUwRGkwcG1DRW1rZHlLTGV4WWdaV2xielR5WTZhcUdnNEYyX2pmcTcyRmFZYzQtVThYeDBKb3JHUEJkc1VuamNUbV80ckhHcURLVEMwcmpUSE4yRHJmLUtYMEprWEZhQ1d3cFdyMElEbTdxLVAtMVQ2YjZSVzIxUlU?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 19:35:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Lợi suất trái phiếu Mỹ tăng gây áp lực lên tỷ giá USD/VND, buộc NHNN thắt chặt thanh khoản, làm tăng chi phí vốn và gây áp lực rút ròng từ khối ngoại trên TTCK Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lợi suất Mỹ tăng gây áp lực tỷ giá, thu hẹp dư địa chính sách tiền tệ. Khối ngoại có xu hướng rút ròng, gây áp lực lên nhóm vốn hóa lớn và chứng khoán.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tỷ giá và lãi suất làm giảm thanh khoản thị trường, ảnh hưởng trực tiếp đến doanh thu môi giới và margin."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vốn vay tăng cao gây áp lực lên biên lợi nhuận và khả năng trả nợ của doanh nghiệp BĐS có đòn bẩy lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 16:16:58"
+  },
+  {
+    "Title": "Một ngân hàng treo thưởng biệt thự 25 tỷ để hút khách gửi tiền",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/mot-ngan-hang-treo-thuong-biet-thu-25-ty-de-hut-khach-gui-tien-5112325.html",
+    "PubDate": "Sun, 23 Aug 2026 13:56:05 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Đây là chiến dịch marketing cạnh tranh huy động vốn thông thường của các ngân hàng thương mại, không phản ánh thay đổi vĩ mô về lãi suất hay thanh khoản hệ thống.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Chiến dịch marketing đơn lẻ nhằm tăng CASA/huy động vốn. Không tác động đáng kể đến biên lợi nhuận (NIM) hay xu hướng dòng tiền ngành ngân hàng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 16:16:47"
+  },
+  {
     "Title": "Hộ kinh doanh sợ sai, ngại lớn: Gỡ bằng chính sách thuế đơn giản",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/ho-kinh-doanh-so-sai-ngai-lon-go-bang-chinh-sach-thue-don-gian-100260823101252076.htm",
@@ -16651,55 +16701,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 11:39:14"
-  },
-  {
-    "Title": "Ngăn \"khoảng trống\" thanh tra tài sản mã hóa, chặn rủi ro \"giấy chứng nhận an toàn\" cho trái phiếu",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//ngan-khoang-trong-thanh-tra-tai-san-ma-hoa-chan-rui-ro-giay-chung-nhan-an-toan-cho-trai-phieu.html",
-    "PubDate": "Mon, 17 Aug 2026 04:28:27 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc siết chặt quản lý tài sản đảm bảo trái phiếu giúp minh bạch hóa thị trường, giảm rủi ro nợ xấu cho các ngân hàng và tổ chức tài chính, củng cố niềm tin nhà đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Siết quản lý tài sản đảm bảo làm tăng chi phí tuân thủ và áp lực trích lập dự phòng ngắn hạn cho các ngân hàng có danh mục trái phiếu lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng có tỷ trọng trái phiếu doanh nghiệp lớn, việc quản lý chặt chẽ giúp giảm rủi ro nợ xấu tiềm ẩn."
-      },
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cải thiện chất lượng tài sản và niềm tin thị trường đối với danh mục trái phiếu doanh nghiệp của ngân hàng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 11:38:58"
-  },
-  {
-    "Title": "FUESSV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc0c5emF6UktfZ2FWb1RTSkc4NkxWSDVHYXlXaWZibmpaZWF2OGV5QllSZkU3UzR0c2RYdHY0Z2JvTXcyckc2SElUWTA0d0NEbWc3SHRpYXZWaTRHTDh0azZfQmRWRzJBZGYzNWtuTUdJSF8yQl9KUm9EMEtJSzVrTGM3NWhSS0d0TTA1dUdvLU11UzR2c3ZFUms5WTU2V0xxd29FNF8xemFCWDZRX1Q2YTJnT0VmU0xiRVBZemVMR0lkNnNGWVBoTTI3Y3VDTG43TDhJ?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 02:12:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Thông báo cơ cấu định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 10:59:52"
-  },
-  {
-    "Title": "FUEDCMID: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbEVKbEczQWZWLUVxdl8yaG84YmtkZk5YbTktZlBheW9FVEZZd3o5Q3R1RzZTTFZSbnJvdEhoeWhLdnBQRkNBXzljVHlVck03VmlkSXlXN2hWNlpSWkZXNlZLSzA3R1RRWjhVMFM2VDNIM1JDZWQxQ3RCcFhHNEJwdk14VVJzX1BZNjMtb3FkdnV5V1l4MXJzZEJsRDVUbHdkX3hMSG55WnhRQnNUTWFoWjVPN0FtczVvQS1lMDMtc1RDSlZRYTFPQ3BCSVNNU2ctSFNR?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 02:13:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất nghiệp vụ vận hành quỹ, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi xu hướng dòng tiền đối với các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 10:59:43"
   }
 ]
