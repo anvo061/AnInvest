@@ -1,5 +1,65 @@
 ﻿[
   {
+    "Title": "Tin tức sáng 23-8: Một doanh nghiệp cho đối tác vay hơn 1.000 tỉ đồng, lãi suất 12%",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tin-tuc-sang-23-8-mot-doanh-nghiep-cho-doi-tac-vay-hon-1000-ti-dong-lai-suat-12-100260822144333324.htm",
+    "PubDate": "8/23/2026 6:46:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về giao dịch cho vay giữa các doanh nghiệp là hoạt động tài chính nội bộ thông thường, không tạo ra tác động thay đổi xu hướng dòng tiền trên thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Đây là giao dịch tài chính nội bộ, không tác động đến biên lợi nhuận hay dòng tiền thị trường. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 09:13:58"
+  },
+  {
+    "Title": "Giá xăng dầu hôm nay 23/8: Thế giới và trong nước đều ghi nhận tuần tăng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-23-8-the-gioi-va-trong-nuoc-deu-ghi-nhan-tuan-tang-2548208.html",
+    "PubDate": "Sun, 23 Aug 2026 08:40:34 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Giá dầu tăng cải thiện biên lợi nhuận khai thác cho các doanh nghiệp thượng nguồn và tăng giá trị hàng tồn kho cho các doanh nghiệp phân phối, vận tải dầu khí.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá dầu tăng hỗ trợ biên lợi nhuận thượng nguồn. Lưu ý: BSR thuộc danh mục cần tái cơ cấu do quá hạn vị thế từ tháng 3/2026.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu thuê giàn khoan và đơn giá dịch vụ khoan, cải thiện biên lợi nhuận."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khối lượng công việc và giá dịch vụ kỹ thuật dầu khí tăng theo giá dầu."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp tăng giá trị hàng tồn kho và biên lợi nhuận lọc dầu trong ngắn hạn."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá bán khí thường neo theo giá dầu thế giới, giúp cải thiện doanh thu và lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 09:13:27"
+  },
+  {
+    "Title": "Lắp điện mặt trời hộ gia đình bao lâu hoàn vốn?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/lap-dien-mat-troi-ho-gia-dinh-bao-lau-hoan-von-5111789.html",
+    "PubDate": "Sun, 23 Aug 2026 08:32:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc phổ biến điện mặt trời mái nhà hộ gia đình thúc đẩy nhu cầu thiết bị điện và lắp đặt, tạo dư địa tăng trưởng cho các doanh nghiệp ngành điện và xây lắp điện.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Tin tức mang tính chất tư vấn tiêu dùng, không tạo đột biến doanh thu cho các doanh nghiệp niêm yết. Tác động thực tế đến dòng tiền là không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 09:12:52"
+  },
+  {
     "Title": "Giá vàng hôm nay 23/8/2026 tăng nóng, SJC đắt thêm 3,6 triệu đồng/lượng",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/gia-vang-hom-nay-23-8-2026-tang-nong-sjc-dat-them-3-6-trieu-dong-luong-2548145.html",
@@ -16648,65 +16708,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 00:41:23"
-  },
-  {
-    "Title": "VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-cu-hich-nang-hang-ftse-5109688.html",
-    "PubDate": "Mon, 17 Aug 2026 00:10:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc nâng hạng thị trường là động lực dài hạn thu hút dòng vốn ngoại (ETF), dù ngắn hạn có thể chịu áp lực điều chỉnh kỹ thuật để rũ bỏ cung giá thấp trước chu kỳ tăng mới.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô dài hạn, chưa có tác động dòng tiền tức thời. Cần quan sát vùng hỗ trợ kỹ thuật 1.700 điểm trước khi giải ngân vào nhóm vốn hóa lớn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ tăng trưởng thanh khoản và thị phần môi giới khi dòng vốn ngoại đổ vào."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn, trọng số cao trong danh mục các quỹ ETF ngoại khi nâng hạng."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu quốc dân, ưu tiên hàng đầu của khối ngoại trong các đợt giải ngân nâng hạng."
-      },
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu trụ cột, thu hút dòng vốn thụ động từ các quỹ ETF quốc tế."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 00:40:49"
-  },
-  {
-    "Title": "Một doanh nghiệp cao su chuẩn bị chốt ngày thưởng cổ phiếu tỷ lệ 300% - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzQxU3p1R3I3S182bjlLUUpoWEUxMWJCa053WGVQVGlJR3BrSE1qaW4zV2xSMVVMNHNyRlMwLTdaelBMWkhHcHBPZ3B6a3kyM2VENnQ4aTFtXzlrTWdOZFMzU3l5TmYwSkZKNzNIQTNYNnRVSEVOakl5SjU2MzBka0UwZjBOd1FuMkRaUGxvU2x6cURSUHl6cnh2YTMyRFRKYllFRGt6VDZxODJR?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 17:04:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc thưởng cổ phiếu tỷ lệ cao thường tạo tâm lý tích cực ngắn hạn cho cổ đông, tăng tính thanh khoản và thu hút dòng tiền đầu cơ vào cổ phiếu doanh nghiệp đó.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin thưởng cổ phiếu là sự kiện kỹ thuật, không thay đổi giá trị nội tại. Dòng tiền đầu cơ ngắn hạn có thể xuất hiện nhưng rủi ro pha loãng cao. Cần thận trọng.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 00:18:26"
-  },
-  {
-    "Title": "Chuyên gia Mirae Asset gọi tên loạt cổ phiếu đáng chú ý giữa lúc thị trường rung lắc - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ096VTlZX2Njc1RnX1FSODdGYXZ6ZEdyTGxQcW84a0stUG9WRGFuSWtCcDVOMVFhcGpmYnh1TEdJT1lkcUVCSTZ0TTA4UldQMnVRNmo4YXBMNTZVQm5CTFgyQ0E4SmlMbi1TWjNsQnJRSk1MdFY1UUNIYmYtaFY1OXBEb0p5MTFBcGdSQWhoVnBCSDVhUkFSOEV3Y2c2aUZmQ19weVFaNy05ZWhOZGEyUm1oS2UzbFlJTGNiYU9FTHQzZw?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 17:03:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin mang tính chất khuyến nghị từ công ty chứng khoán, không phải tin tức vĩ mô hay thay đổi nội tại doanh nghiệp, không tác động trực tiếp đến cung cầu thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Khuyến nghị từ CTCK mang tính tham khảo, không làm thay đổi cấu trúc dòng tiền hay xu hướng giá của các mã cổ phiếu trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 00:18:14"
   }
 ]
