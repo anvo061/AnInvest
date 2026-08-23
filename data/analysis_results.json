@@ -1,5 +1,34 @@
 ﻿[
   {
+    "Title": "Oil closes at three-week high as hopes of US-Iran peace deal fade - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 01:15:36 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Giá dầu tăng do rủi ro địa chính trị giúp cải thiện biên lợi nhuận cho các doanh nghiệp thượng nguồn và dịch vụ dầu khí tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá dầu tăng do rủi ro địa chính trị hỗ trợ biên lợi nhuận thượng nguồn. Tập trung PVD, PVS. Lưu ý: BSR cần tái cơ cấu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu thuê giàn khoan và cải thiện đơn giá dịch vụ khoan."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác được đẩy mạnh khi giá dầu duy trì ở mức cao."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 20:59:31"
+  },
+  {
     "Title": "Canadian dollar hits near 3-month high as oil prices climb - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkNjRERQLVdRMmFsWWZMXzJ2QUNBS2xYMXhhOE9JMFZsQkdzMUlsVVVJOXJGUTRNbXNOejI1OWNIUjdvN1ViN2hzLXZPUTFnRjdkMkJaWC0wNEJLM2dTZjlocGZKaThLaGUwNWhUTUVabTlSZExGb2g1V2Y1Y0VpVEduMUhxM3VHbUZZUHZHbEVXYlUtZ1N5ZUhfdjd0X1JJMGc?oc=5",
@@ -16682,34 +16711,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 14:37:17"
-  },
-  {
-    "Title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - reuters.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 23:54:51 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Căng thẳng tại eo biển Hormuz làm gián đoạn chuỗi cung ứng năng lượng toàn cầu, đẩy giá cước vận tải và giá dầu tăng, gây áp lực lạm phát và chi phí đầu vào cho các doanh nghiệp Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Căng thẳng Hormuz đẩy chi phí vận tải và giá năng lượng tăng. Rủi ro biên lợi nhuận cho nhóm sản xuất và vận tải biển do chi phí đầu vào biến động mạnh.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu và khí đốt tăng do gián đoạn nguồn cung hỗ trợ biên lợi nhuận của doanh nghiệp thượng nguồn."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu neo cao thúc đẩy nhu cầu khoan thăm dò, hưởng lợi trực tiếp cho các nhà cung cấp dịch vụ dầu khí."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vận chuyển nguyên liệu đầu vào tăng cao gây áp lực lên biên lợi nhuận gộp của doanh nghiệp sản xuất thép."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 13:38:26"
   }
 ]
