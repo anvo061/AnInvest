@@ -1,5 +1,34 @@
 ﻿[
   {
+    "Title": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Căng thẳng địa chính trị tại Iran làm gián đoạn nguồn cung dầu toàn cầu, đẩy giá dầu thế giới tăng mạnh, trực tiếp cải thiện biên lợi nhuận cho các doanh nghiệp thượng nguồn ngành dầu khí Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá dầu tăng do rủi ro địa chính trị thúc đẩy dòng tiền đầu cơ vào nhóm thượng nguồn PVD, PVS. Lưu ý: BSR cần tái cơ cấu do vị thế quá hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu khoan thăm dò, cải thiện giá thuê giàn khoan và biên lợi nhuận."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khối lượng công việc dịch vụ kỹ thuật dầu khí và các dự án năng lượng lớn."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 22:55:43"
+  },
+  {
     "Title": "TTG: Giấy chứng nhận đăng ký địa điểm kinh doanh Bình Dương - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXFyWmZTNVRnV2wyM3FiREdiNUs4Q09PTHN0cXpDQS1DOHpINDVGT2Y0ZUhVbktUVXVBWnVlaV91c0xLT0llb3BCUVlnR3ROUDNtQkczYS0wV3l5RmxQVmN1OTlXLXdUT3ZCRUhLMUFtQVotQ2RGUlZqeFpFNG91b3VIc3NEQm5KVld4QU9iSnlLX3J2bVdwY0F5WUNVQ3VaWjJKclkyeWQzQk5mSlBZVXFDcjhvTWkwd0E?oc=5",
@@ -16703,24 +16732,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 15:22:16"
-  },
-  {
-    "Title": "VietCap đầu tư hơn 389 tỷ đồng vào Hadasa Holdings của bà Trương Nguyễn Thiên Kim - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2NiYVE3MDdaNEo0Q1p3OS0xbUJTZlM5dnN6S1pweFN5UWZIdXVLeDhuMHlNR0lmVnYtREZTRHVBMGR1UGdBZGszdXB5c2s2bVZScXpZUmVMdi1rVDJNd2xQeVZ1ZnNXMjRhbENVUFdQdG9IY0thZ09URTJYWUtCTFhJTzREQVpScjBWa3Rra2JXRjQ2UVRuSl9PZ0E0dkRaSkxmTlhFM2xHVVllbUV6LUJPRk10NVAzRExJUnp3?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 06:39:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc VietCap (VCI) đầu tư vào Hadasa Holdings là hoạt động đầu tư tài chính thuần túy, không tác động trực tiếp đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của VCI trên thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Chứng khoán. Đây là hoạt động đầu tư vốn thông thường của VCI, không tạo đột biến về doanh thu hay dòng tiền ngắn hạn. Không tác động đáng kể đến giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCI",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Hoạt động đầu tư tài chính nằm trong nghiệp vụ bình thường của công ty chứng khoán, không làm thay đổi đáng kể cấu trúc tài sản hay lợi nhuận ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 14:38:29"
   }
 ]
