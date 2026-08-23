@@ -1,26 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30
+⏱ Thời gian: 05:00 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Dữ liệu bán lẻ Mỹ suy giảm kết hợp với rủi ro lạm phát từ giá dầu tăng tạo sự phân hóa dòng tiền: Nhóm xuất khẩu chịu áp lực bán, nhóm dầu khí (thượng nguồn) tiếp nhận dòng tiền đầu cơ. 
-- Trung Quốc cam kết hỗ trợ tài khóa giúp giảm bớt lo ngại về suy thoái toàn cầu, hỗ trợ tâm lý nhóm nguyên vật liệu (thép, cao su) -> Tác động: Trái chiều (Thận trọng với nhóm xuất khẩu sang Mỹ, chú ý lực đỡ từ kỳ vọng hồi phục tại Trung Quốc).
+- **Trung Quốc cam kết hỗ trợ tài khóa:** Tác động **Tích cực** đến kỳ vọng phục hồi nhu cầu nguyên vật liệu, dòng tiền khả năng cao dịch chuyển vào nhóm thép (HPG) và cao su (GVR).
+- **Suy yếu sức mua tại Mỹ (Doanh số bán lẻ giảm):** Tác động **Tiêu cực** đến nhóm xuất khẩu chủ lực (TNG, VHC) do lo ngại suy thoái ảnh hưởng trực tiếp đến đơn hàng.
+- **Biến động giá dầu & Địa chính trị:** Tác động **Tích cực** đến nhóm thượng nguồn/dịch vụ dầu khí (PVD, PVS), nhưng cần thận trọng vì áp lực lạm phát toàn cầu có thể làm giảm kỳ vọng nới lỏng tiền tệ của các ngân hàng trung ương.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới duy trì đà tăng do căng thẳng địa chính trị Iran và kỳ vọng thắt chặt nguồn cung.
-- Nhận định dòng tiền: Dòng tiền có xu hướng hội tụ vào nhóm thượng nguồn nhờ hưởng lợi trực tiếp từ giá thuê giàn khoan và biên lợi nhuận cải thiện.
-- Hành động: **Chú ý giải ngân** nếu giữ vững nền giá trong phiên.
-
-- Mã: **HPG**
-- Động lực (FA): Trung Quốc cam kết hỗ trợ tài khóa để thúc đẩy tăng trưởng kinh tế.
-- Nhận định dòng tiền: Kỳ vọng nhu cầu thép hồi phục từ thị trường Trung Quốc tạo điểm tựa tâm lý cho dòng tiền dài hạn quay trở lại.
-- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền khối ngoại tại vùng cản cứng.
-
-- Mã: **MWG, TCB**
-- Động lực (FA): Không được thêm vào rổ chỉ số FTSE.
-- Nhận định dòng tiền: Áp lực bán từ các quỹ ETF ngoại và sự hụt hẫng trong kỳ vọng ngắn hạn khiến cổ phiếu khó bứt phá trong phiên tới.
-- Hành động: **Rủi ro vi phạm kịch bản** tăng giá ngắn hạn, ưu tiên hạ tỷ trọng nếu mất các ngưỡng hỗ trợ kỹ thuật quan trọng.
+- **Mã: PVD, PVS**
+  - **Động lực (FA):** Giá dầu neo cao do căng thẳng tại Iran và đe dọa phong tỏa nguồn cung.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và trung hạn đang tập trung mạnh vào nhóm dầu khí thượng nguồn do biên lợi nhuận được cải thiện trực tiếp từ giá bán và giá thuê giàn khoan.
+  - **Hành động:** Chú ý giải ngân theo đà tăng, quản trị rủi ro tại các vùng kháng cự kỹ thuật.
+- **Mã: TNG, VHC**
+  - **Động lực (FA):** Dữ liệu vĩ mô Mỹ cho thấy sức cầu yếu (giảm lần đầu sau 9 tháng).
+  - **Nhận định dòng tiền:** Rủi ro áp lực bán lớn khi triển vọng xuất khẩu sang thị trường Mỹ bị đe dọa.
+  - **Hành động:** Thận trọng, hạn chế bắt đáy; theo dõi chặt chẽ vùng hỗ trợ cứng.
+- **Mã: MWG, TCB**
+  - **Động lực (FA):** Không được thêm vào rổ chỉ số FTSE.
+  - **Nhận định dòng tiền:** Dòng vốn ngoại thụ động hụt hơi, khả năng tích lũy đi ngang kéo dài do mất động lực thúc đẩy ngắn hạn.
+  - **Hành động:** Tiếp tục quan sát, chưa ưu tiên giải ngân cho đến khi dòng tiền nội xác nhận tiếp quản thay thế.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Giá dầu tăng mạnh và duy trì đà ổn định giúp cải thiện tích cực biên lợi nhuận lọc dầu và giá trị hàng tồn kho. Dữ liệu vĩ mô hiện tại ủng hộ việc **Tiếp tục giữ** vị thế để tối ưu hóa lợi nhuận trong chu kỳ tăng giá dầu, chưa cần thiết phải cơ cấu lại danh mục tại thời điểm này.
+- **Mã: BSR**
+  - **Nhận định:** Dữ liệu vĩ mô (giá dầu tăng) đang hỗ trợ tích cực cho giá trị tồn kho và biên lợi nhuận lọc dầu. Tiếp tục **Giữ vị thế** theo xu hướng giá năng lượng thế giới, tuy nhiên cần chủ động chốt lời một phần nếu biên lợi nhuận đạt kỳ vọng tháng 8/2026 để xoay vòng vốn sang các nhóm hưởng lợi từ chính sách tài khóa Trung Quốc (HPG/GVR).
