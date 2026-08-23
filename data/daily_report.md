@@ -1,24 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:45 ngày 23/08/2026
+⏱ Thời gian: 13:15, 23/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngành Dầu khí:** Tập đoàn Dầu khí (PVN) được sử dụng lợi nhuận xử lý chi phí đầu tư mỏ dầu khí thất bại kết hợp với đà tăng của giá xăng dầu thế giới -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Thượng nguồn (PVS, PVD)** và **Phân phối/Hạ nguồn (BSR, GAS)**.
-- **Logistics:** Việc siết chặt thủ tục hải quan đối với hàng thương mại điện tử tạo môi trường cạnh tranh công bằng -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm **Logistics/Vận tải (GMD, HAH)**.
+- **Chính sách Thương mại:** Siết chặt thủ tục hải quan và định danh điện tử đối với hàng hóa qua sàn TMĐT -> **Tích cực (ngắn hạn)** -> Dòng tiền hướng vào nhóm **Logistics (GMD, HAH)** do nhu cầu dịch vụ khai báo hải quan chính ngạch tăng.
+- **Tái cấu trúc Năng lượng:** PVN được sử dụng lợi nhuận xử lý chi phí mỏ dầu khí thất bại -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí thượng nguồn (PVS, PVD)** nhờ gia tăng khối lượng công việc từ các dự án trọng điểm.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD, PVS
-  - **Động lực (FA):** Được gỡ bỏ rào cản tài chính (xử lý dự án thất bại) giúp làm sạch bảng cân đối + Giá dầu thế giới tăng hỗ trợ giá dịch vụ.
-  - **Nhận định dòng tiền:** Dòng tiền có tính lan tỏa cao từ nhóm dầu khí, khả năng cao sẽ duy trì sức mạnh trong phiên.
-  - **Hành động:** Chú ý giải ngân nếu giá cổ phiếu xác nhận vượt kháng cự gần nhất.
 - **Mã:** PNJ
-  - **Động lực (FA):** Lãnh đạo cấp cao (TGĐ) đăng ký mua 1 triệu cổ phiếu.
-  - **Nhận định dòng tiền:** Tín hiệu nội bộ củng cố lòng tin, thường tạo nền giá cứng trong ngắn hạn.
-  - **Hành động:** Tiếp tục quan sát, ưu tiên tích lũy nếu có rung lắc trong phiên theo áp lực cơ cấu của khối ngoại.
+  - **Động lực (FA):** Tổng Giám đốc mua vào 1 triệu cổ phiếu.
+  - **Nhận định dòng tiền:** Tín hiệu nội gián tích cực, củng cố vùng hỗ trợ ngắn hạn.
+  - **Hành động:** Chú ý giải ngân quanh vùng hỗ trợ kỹ thuật gần nhất.
+- **Mã:** PVS, PVD
+  - **Động lực (FA):** PVN làm sạch bảng cân đối, dồn lực cho dự án mới.
+  - **Nhận định dòng tiền:** Hưởng lợi từ sự ổn định chiến lược của tập đoàn mẹ, giảm rủi ro phi hệ thống.
+  - **Hành động:** Tiếp tục nắm giữ, gia tăng tỷ trọng nếu có nhịp rung lắc.
 - **Mã:** HPG, VHM, VIC
-  - **Động lực (FA):** Áp lực bán ròng từ khối ngoại trong kỳ cơ cấu FTSE.
-  - **Nhận định dòng tiền:** Dòng tiền ngắn hạn bị nhiễu do cung ngoại, dễ xuất hiện biến động giảm giá bất ngờ.
-  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy trong lúc các quỹ ETF đang đẩy mạnh xả hàng.
+  - **Động lực (FA):** Áp lực bán ròng từ khối ngoại trong kỳ tái cơ cấu FTSE.
+  - **Nhận định dòng tiền:** Áp lực cung tăng ngắn hạn, tiềm ẩn biến động biên độ mạnh.
+  - **Hành động:** Quan sát, không bắt đáy vội trong tuần cơ cấu.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - **Nhận định:** Dữ liệu vĩ mô hiện tại (giá dầu tăng + cơ chế tài chính mới của PVN) là yếu tố hỗ trợ mạnh cho vị thế trung hạn. **Khuyến nghị: Tiếp tục nắm giữ**, chưa cần tái cơ cấu. Theo dõi sát biên lợi nhuận lọc dầu trong báo cáo quý tới để ra quyết định tiếp theo.
+- Hiện chưa có dữ liệu mới đột biến về EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái chiến lược hiện tại.
