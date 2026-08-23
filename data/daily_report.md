@@ -1,25 +1,21 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 03:10 ngày 24/08/2026
+⏱ **Thời gian:** 03:08 ngày 24/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Trung Quốc cam kết hỗ trợ tài khóa:** Tăng kỳ vọng phục hồi nhu cầu nguyên vật liệu từ thị trường lớn nhất khu vực -> **Tích cực** -> Nhóm Thép (HPG), Cao su (GVR).
-- **Doanh số bán lẻ Mỹ suy giảm lần đầu sau 9 tháng:** Dấu hiệu suy yếu sức cầu tại thị trường xuất khẩu trọng điểm -> **Tiêu cực** -> Nhóm Dệt may (TNG), Thủy sản (VHC).
-- **Giá dầu neo cao do bất ổn địa chính trị (Iran/Trung Đông):** Tiếp tục duy trì biên lợi nhuận cho nhóm thượng nguồn -> **Tích cực** -> Nhóm Dầu khí (PVD, PVS, BSR).
-- **Thông tin nâng hạng FTSE (loại trừ MWG, TCB, REE):** Làm trì hoãn kỳ vọng dòng vốn ngoại thụ động -> **Tiêu cực** -> Nhóm Bluechip/Vốn hóa lớn.
+- **Trung Quốc cam kết hỗ trợ tài khóa:** Tăng cường kỳ vọng phục hồi sản xuất và tiêu thụ nguyên liệu -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm Thép (HPG) và Cao su/Khu công nghiệp (GVR).
+- **Doanh số bán lẻ Mỹ suy giảm:** Cảnh báo suy thoái sức cầu tại thị trường xuất khẩu trọng điểm -> **Tiêu cực** -> Áp lực lên nhóm Dệt may (TNG) và Thủy sản (VHC).
+- **Giá dầu neo cao do địa chính trị:** Nguồn cung bất ổn tại Trung Đông tiếp tục hỗ trợ biên lợi nhuận nhóm năng lượng -> **Tích cực** -> Dòng tiền tập trung nhóm Dầu khí thượng nguồn (PVD, PVS).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** HPG, GVR
-  - **Động lực (FA):** Trung Quốc cam kết tung gói hỗ trợ tài khóa nhằm thúc đẩy tăng trưởng kinh tế.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ kỳ vọng sự phục hồi nhu cầu thép và cao su tự nhiên từ Trung Quốc sẽ tìm đến nhóm này trong phiên tới.
-  - **Hành động:** Chú ý giải ngân nếu dòng tiền vào sớm tại vùng hỗ trợ.
-- **Mã:** PVD, PVS
-  - **Động lực (FA):** Căng thẳng địa chính trị eo biển Hormuz và đe dọa phong tỏa Iran đẩy giá dầu duy trì mức cao 4 tuần.
-  - **Nhận định dòng tiền:** Dòng tiền thông minh đã và đang luân chuyển vào nhóm dầu khí do tính phòng thủ và hưởng lợi từ giá dầu.
-  - **Hành động:** Tiếp tục quan sát kịch bản Breakout.
-- **Mã:** TNG, VHC
-  - **Động lực (FA):** Dữ liệu bán lẻ Mỹ tháng 7 suy giảm.
-  - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng khi triển vọng đơn hàng xuất khẩu cuối năm bị nghi ngờ.
-  - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+- **Mã: PVD, PVS, HPG, GVR**
+    - **Động lực (FA):** Hưởng lợi kép từ giá dầu neo cao và kích thích kinh tế tại Trung Quốc.
+    - **Nhận định dòng tiền:** Dòng tiền có xu hướng luân chuyển từ nhóm Bluechip bị loại khỏi rổ FTSE sang nhóm có câu chuyện tăng trưởng (Commodities).
+    - **Hành động:** Chú ý giải ngân theo nhịp chỉnh, ưu tiên PVD khi giá dầu duy trì đà tăng.
+- **Mã: TNG, VHC, MWG, TCB**
+    - **Động lực (FA):** Sức cầu Mỹ yếu và thất bại trong việc lọt rổ FTSE.
+    - **Nhận định dòng tiền:** Dòng tiền có dấu hiệu thoái lui hoặc suy yếu, áp lực bán ngắn hạn gia tăng.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần quan sát vùng hỗ trợ cứng để tránh "bắt dao rơi".
 
 🔄 **3. Cảnh báo Tái cơ cấu:**
-- **BSR:** Dữ liệu giá dầu neo cao và nguồn cung dầu thô qua eo Hormuz ổn định trở lại là yếu tố hỗ trợ mạnh cho biên lợi nhuận lọc dầu. Mặc dù đã qua kỳ vọng tháng 3/2026, nhưng với bối cảnh địa chính trị hiện tại, **ưu tiên nắm giữ để tối ưu lợi thế hàng tồn kho**, chưa cần thực hiện đảo dòng tiền lúc này.
+- **Mã: BSR**
+    - **Nhận định:** Dữ liệu vĩ mô hiện tại (giá dầu tăng + ổn định nguồn cung từ Hormuz) đang hỗ trợ tích cực cho biên lợi nhuận lọc dầu. Với vị thế đã đi qua điểm rơi kỳ vọng, nhà đầu tư nên giữ lại một phần vị thế để hưởng lợi từ giá dầu, phần còn lại có thể chốt lời để đảo sang các nhóm ngành có động lực tăng trưởng mới (Dịch vụ dầu khí như PVD) nhằm tối ưu hóa vòng quay vốn.
