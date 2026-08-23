@@ -1,25 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 24/08/2026
+⏱ Thời gian: 06:10 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Trung Quốc cam kết kích thích tài khóa:** Động thái này trực tiếp hỗ trợ kỳ vọng phục hồi sản xuất công nghiệp và nhu cầu nguyên vật liệu tại khu vực. -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Thép (HPG)** và **Cao su/Khu công nghiệp (GVR)**.
-- **Doanh số bán lẻ Mỹ suy giảm:** Cảnh báo sớm về sức cầu tiêu dùng tại thị trường xuất khẩu chủ lực. -> **Tiêu cực** -> Áp lực lên nhóm **Dệt may (TNG)** và **Thủy sản (VHC)**.
-- **Giá dầu duy trì vùng đỉnh (ngắn hạn):** Hệ quả từ căng thẳng địa chính trị. -> **Tích cực (ngắn hạn)** -> Dòng tiền tập trung vào nhóm **Dịch vụ dầu khí (PVD, PVS)**.
+- **Áp lực lạm phát và chi phí đầu vào:** Giá dầu duy trì mức cao (tăng theo căng thẳng Trung Đông) kết hợp giá than cốc thế giới tăng mạnh -> **Tiêu cực** đối với các ngành thâm dụng năng lượng và nguyên liệu (Thép, Vận tải); **Tích cực** ngắn hạn cho nhóm Dầu khí thượng nguồn (PVD, PVS).
+- **Phân kỳ xuất khẩu:** Dữ liệu bán lẻ Mỹ suy yếu (tiêu cực cho dệt may/thủy sản) đối trọng với tín hiệu kích thích tài khóa từ Trung Quốc (hỗ trợ nhóm vật liệu cơ bản). -> **Dòng tiền sẽ phân hóa mạnh**, ưu tiên các mã có thị trường xuất khẩu đa dạng hoặc hưởng lợi từ đầu tư công/kích cầu nội địa.
+- **Rủi ro tâm lý:** Việc các mã trụ (MWG, TCB, REE) không vào rổ FTSE làm giảm kỳ vọng dòng vốn ETF ngắn hạn. -> **Tâm lý thận trọng** bao trùm nhóm Bluechip.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HPG**
-  - Động lực (FA): Trung Quốc cam kết hỗ trợ tài khóa, kỳ vọng thúc đẩy nhu cầu thép.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại sau thông tin kích thích kinh tế từ Trung Quốc.
-  - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì nền giá ổn định.
 - **Mã: PVD**
-  - Động lực (FA): Giá dầu neo cao do khủng hoảng Trung Đông.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ đang tập trung mạnh do hưởng lợi trực tiếp từ giá cho thuê giàn khoan.
-  - Hành động: **Tiếp tục quan sát** vùng cản kỹ thuật; rủi ro vi phạm kịch bản nếu giá dầu quay đầu đột ngột.
-- **Mã: TNG, VHC**
-  - Động lực (FA): Dữ liệu bán lẻ Mỹ lần đầu suy giảm sau 9 tháng.
-  - Nhận định dòng tiền: Áp lực chốt lời gia tăng do lo ngại suy thoái kinh tế tại thị trường Mỹ.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu gãy nền hỗ trợ gần nhất.
+  - Động lực (FA): Giá dầu duy trì vùng đỉnh 4 tuần, Iran phát hiện trữ lượng khí lớn không làm giảm kỳ vọng giá dầu ngay lập tức, trong khi xung đột Trung Đông leo thang thúc đẩy giá thuê giàn khoan.
+  - Nhận định dòng tiền: Hưởng lợi từ sự xoay trục của dòng tiền tìm kiếm trú ẩn/đầu cơ theo giá hàng hóa.
+  - Hành động: Chú ý giải ngân nếu dòng tiền duy trì trên nền giá hiện tại.
+- **Mã: NKG/HPG**
+  - Động lực (FA): Giá than cốc (nguyên liệu đầu vào thiết yếu) tăng, gây áp lực trực tiếp lên biên lợi nhuận gộp.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn từ các tổ chức khi biên lợi nhuận bị bào mòn.
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ kỹ thuật gần nhất.
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - **Mã: BSR**
-  - Nhận định: Giá dầu tăng tạo lợi thế ngắn hạn về biên lợi nhuận lọc dầu và định giá tồn kho. Tuy nhiên, xét trong khung thời gian "Tái cơ cấu" (tháng 6/2026), đây là điểm rơi thuận lợi để tối ưu hóa danh mục. **Khuyến nghị: Chốt lời một phần** để đảo dòng tiền sang các nhóm ngành có xung lực tăng trưởng dài hạn hơn, thay vì kỳ vọng vào yếu tố giá hàng hóa biến động thất thường.
+  - Nhận định: Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu trong ngắn hạn. Tuy nhiên, đã đi qua điểm rơi kỳ vọng tháng 3/2026, nên ưu tiên nắm giữ để tối ưu hóa lợi nhuận theo nhịp tăng của giá dầu, sẵn sàng cơ cấu nếu xuất hiện tín hiệu phân phối hoặc đảo chiều giá dầu toàn cầu.

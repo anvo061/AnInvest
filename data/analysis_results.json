@@ -1,5 +1,34 @@
 ﻿[
   {
+    "Title": "Indian steel mills face margin squeeze as global coking coal prices rise - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWZBZEdfTUhtUGtsMUxVNDBycnZ0SzczRThRSU9TOEk2SzQ5MFRYU0wzX1BMWnJ2U18zUHF5RW52RTY0dXpfSldYU1BTbjRoM2d4dDgyVHRNZGxPX0NyR19BazBvMkVHU3gwYTdkLVJjV2dXQ0hYeTBYMWJaemViODJqcEY1NW5TQ216M0gxdklJemNoY090QkVzbFBLQlhJMkFSbl90cDhuczE5d0tvMkxQUVdYa0Jp?oc=5",
+    "PubDate": "Wed, 19 Aug 2026 07:25:45 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Giá than cốc thế giới tăng làm tăng chi phí đầu vào (COGS) cho các doanh nghiệp thép Việt Nam, gây áp lực trực tiếp lên biên lợi nhuận gộp trong các quý tới.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Thép. Giá than cốc toàn cầu tăng gây áp lực biên lợi nhuận gộp. Cần theo dõi sát biến động giá bán đầu ra của HPG, HSG, NKG để đánh giá khả năng chuyển chi phí.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí than cốc tăng làm tăng giá vốn sản xuất thép, gây áp lực lên biên lợi nhuận gộp của nhà sản xuất thép lớn nhất."
+      },
+      {
+        "Ticker": "HSG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí đầu vào tăng trong khi giá bán khó tăng tương ứng sẽ thu hẹp biên lợi nhuận mảng tôn mạ."
+      },
+      {
+        "Ticker": "NKG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí nguyên liệu đầu vào cao làm giảm khả năng cạnh tranh về giá và biên lợi nhuận xuất khẩu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 05:55:44"
+  },
+  {
     "Title": "Điện mặt trời mái nhà giúp tiết kiệm tiền tỷ, nhưng còn một điểm nghẽn",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/dien-mat-troi-mai-nha-giup-tiet-kiem-tien-ty-nhung-con-mot-diem-nghen-2547999.html",
@@ -16681,34 +16710,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 16:55:53"
-  },
-  {
-    "Title": "Những biện pháp Mỹ có thể tung ra nhằm siết kinh tế Iran",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/nhung-bien-phap-my-co-the-tung-ra-nham-siet-kinh-te-iran-100260817142509692.htm",
-    "PubDate": "8/17/2026 3:37:00 PM",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông có thể gây gián đoạn nguồn cung dầu toàn cầu, đẩy giá dầu tăng cao, gây áp lực lạm phát và chi phí đầu vào cho các doanh nghiệp vận tải, sản xuất.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Căng thẳng địa chính trị đẩy giá dầu tăng, gây áp lực chi phí vận tải. Nhóm dầu khí (PVD, PVS) hưởng lợi ngắn hạn từ giá dầu, nhóm vận tải (HAH) chịu rủi ro biên lợi nhuận.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu khoan và giá thuê giàn khoan, hưởng lợi trực tiếp từ căng thẳng địa chính trị."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác khi giá dầu duy trì ở mức cao."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu tăng làm tăng chi phí vận hành, gây áp lực lên biên lợi nhuận của doanh nghiệp vận tải biển."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 16:55:38"
   }
 ]
