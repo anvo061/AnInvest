@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "Diesel prices overtake jet fuel in Europe as global shortage widens - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejlyV0VLYkdZTjh6Z2JGUF8tczNIMGNic1RNSlY4cC13b01ERjV0ZnpmSFNpSHFRSThUUDIzY25KbmpLTVVLMzB1aXJEODJMMUl5QkY3OU95TlR0S215YnJTelNxYy1PT2NKbHdqZ0xidV9lRGRxa3ppekp3aENoRmFleG53RF9XVFFpRmtvNEwwSFJ2WHpxZExaS1FyZDZpdmJoeUtpYjJ0U18wa3FLTUNmYw?oc=5",
+    "PubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Sự thiếu hụt diesel toàn cầu đẩy giá dầu thành phẩm tăng cao, cải thiện biên lợi nhuận lọc dầu cho các doanh nghiệp trong nước có công suất lọc hóa dầu lớn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Lọc dầu. Crack spread Diesel tăng mạnh hỗ trợ biên lợi nhuận BSR. Cần theo dõi sát vị thế BSR do đã quá hạn nắm giữ trung hạn từ tháng 3/2026.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ biên lợi nhuận lọc dầu (crack spread) tăng cao khi giá diesel thế giới neo ở mức cao."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 17:37:48"
+  },
+  {
+    "Title": "India allows duty-free imports of 1 million metric tons of raw sugar - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 16:03:20 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc Ấn Độ mở cửa nhập khẩu đường giúp cân bằng cung cầu toàn cầu, tạo cơ hội cho các doanh nghiệp đường Việt Nam đẩy mạnh xuất khẩu hoặc hưởng lợi từ xu hướng giá đường thế giới ổn định.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Đường. Ấn Độ nhập khẩu đường làm giảm áp lực cung toàn cầu, không trực tiếp tạo dư địa xuất khẩu cho Việt Nam. Cần quan sát biến động giá đường thế giới.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 17:37:33"
+  },
+  {
+    "Title": "Chứng khoán ra sao trước kỳ nghỉ 2/9? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEFoMjBRUnlVOWh0Rl9wcUxGY2ozVHNIZ3JUaEZRNmd4Tk5kOXl5MXlPUkxkTHZOVEp3MnVuTUx4R1daU20ybkFLWlZXcVp4bkY5NUZ3OVJBTHR3Wl9UU1I0SGV0SURUNHpNVFEzWnVpTi1LQWlnTGpnQ05aeXlVVzlB?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 10:35:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết phân tích tâm lý thị trường trước kỳ nghỉ lễ, không chứa thông tin vĩ mô hay doanh nghiệp mới có khả năng thay đổi biên lợi nhuận hoặc dòng tiền thực tế.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Tâm lý thận trọng trước kỳ nghỉ lễ thường làm giảm thanh khoản ngắn hạn. Không có tác động trực tiếp đến dòng tiền của các mã cổ phiếu cụ thể.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 17:37:23"
+  },
+  {
     "Title": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
@@ -16659,44 +16704,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 12:20:56"
-  },
-  {
-    "Title": "Thêm một công ty chứng khoán lên kế hoạch IPO - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVlZc0loNmdrMDVfQXA5NzludkVyVU9FaWRsdGxCNFRKb2FIb0t3LWZZdGpmT2xGaWs3WVJ6WTQ1ek5QWnJQWkVUVDI2SXFUSHM0d1RxaUk0dERrTGVUV2E2LV9vRUY3Vl9Ua1R6TjFlcmJyWUFPR0lvOWpET3lwQWJyRThUUWl3U1UxUQ?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 04:48:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc một công ty chứng khoán nhỏ IPO không làm thay đổi cấu trúc thị phần hay dòng tiền của các công ty chứng khoán đầu ngành đang niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. IPO của đơn vị nhỏ không tạo áp lực cạnh tranh đáng kể hay thay đổi thanh khoản thị trường. Dòng tiền thông minh không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 12:20:46"
-  },
-  {
-    "Title": "Đề xuất bãi bỏ trách nhiệm của Bộ Tài chính trong kiểm tra nghiệp vụ in, đúc, tiêu hủy tiền",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/de-xuat-bai-bo-trach-nhiem-cua-bo-tai-chinh-trong-kiem-tra-nghiep-vu-in-duc-tieu-huy-tien-100260817094358966.htm",
-    "PubDate": "8/17/2026 10:29:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thay đổi về thủ tục hành chính và phân cấp quản lý nhà nước, không tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Đây là điều chỉnh thủ tục hành chính nội bộ giữa các cơ quan nhà nước, không tạo ra tác động dòng tiền hay thay đổi kỳ vọng lợi nhuận cho bất kỳ mã cổ phiếu nào.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 12:20:32"
-  },
-  {
-    "Title": "Thanh tra 26 dự án ở Khu kinh tế Dung Quất: Đều chưa đủ thủ tục, nhiều sai sót khi cấp phép",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/thanh-tra-26-du-an-o-khu-kinh-te-dung-quat-deu-chua-du-thu-tuc-nhieu-sai-sot-khi-cap-phep-100260814104941443.htm",
-    "PubDate": "8/17/2026 10:49:00 AM",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Việc thanh tra diện rộng tại KKT Dung Quất gây rủi ro pháp lý, đình trệ tiến độ triển khai dự án và ảnh hưởng đến tâm lý nhà đầu tư đối với các doanh nghiệp có quỹ đất hoặc dự án tại khu vực này.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Rủi ro pháp lý tại KKT Dung Quất. Áp lực tâm lý lên các dự án trọng điểm khu vực. Cần theo dõi sát tiến độ pháp lý của BSR và các doanh nghiệp hạ tầng liên quan.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 12:20:14"
   }
 ]

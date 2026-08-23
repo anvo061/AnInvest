@@ -1,24 +1,27 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 17:15 - 23/08/2026
+⏱ **Thời gian:** 17:50 ngày 23/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giá dầu thế giới biến động mạnh do rủi ro địa chính trị Iran:** Tăng do lo ngại lệnh trừng phạt và gián đoạn nguồn cung -> **Tích cực** cho nhóm Dầu khí thượng nguồn (PVS, PVD, GAS) nhờ cải thiện biên lợi nhuận và giá thuê giàn khoan; **Tiêu cực** cho nhóm Vận tải/Cảng biển (GMD) do áp lực chi phí nhiên liệu.
-- **Lợi suất trái phiếu Mỹ tăng:** Gây áp lực lên tỷ giá USD/VND và thanh khoản hệ thống -> **Tiêu cực** cho nhóm Chứng khoán (SSI) và BĐS (VHM) do tăng chi phí vốn và rủi ro rút ròng từ khối ngoại.
+- **Địa chính trị & Năng lượng:** Căng thẳng Iran leo thang kết hợp thiếu hụt diesel toàn cầu thúc đẩy giá dầu thô và dầu thành phẩm tăng mạnh -> **Tích cực** cho nhóm Năng lượng & Dịch vụ dầu khí.
+- **Tài chính:** Lợi suất trái phiếu Mỹ tăng gây áp lực lên tỷ giá và chi phí vốn -> **Tiêu cực** cho nhóm Bất động sản và Chứng khoán.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD, PVS**
-    - **Động lực (FA):** Giá dầu neo cao do căng thẳng tại Trung Đông và nguồn cung từ Iran sụt giảm.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ dịch chuyển mạnh vào nhóm thượng nguồn nhờ sự ổn định của giá dầu thế giới; kỳ vọng sóng tăng ngắn hạn dựa trên biên lợi nhuận cải thiện.
-    - **Hành động:** Chú ý giải ngân theo đà tăng, quản trị rủi ro tại các vùng cản kỹ thuật.
-- **Mã: VNF**
-    - **Động lực (FA):** Người có liên quan đến Ủy viên HĐQT đăng ký mua 1.000.000 cổ phiếu.
-    - **Nhận định dòng tiền:** Tín hiệu nội bộ tạo tâm lý hỗ trợ giá, giảm bớt áp lực cung ngắn hạn.
-    - **Hành động:** Tiếp tục quan sát phản ứng giá tại vùng tích lũy.
-- **Mã: SZC**
-    - **Động lực (FA):** Chốt quyền cổ tức tiền mặt 10%.
-    - **Nhận định dòng tiền:** Thu hút dòng tiền đầu tư giá trị và cổ tức; tạo điểm tựa tâm lý an toàn trong bối cảnh thị trường biến động.
-    - **Hành động:** Tiếp tục quan sát chờ điểm vào hợp lý.
-- **Mã: SSI, VHM**
-    - **Động lực (FA):** Lợi suất trái phiếu Mỹ tăng gây áp lực vĩ mô chung.
-    - **Nhận định dòng tiền:** Dòng tiền có xu hướng e ngại các cổ phiếu nhạy cảm với lãi suất và tỷ giá.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng ngắn hạn, ưu tiên thủ thế.
+- **Mã:** PVS, PVD
+  - **Động lực (FA):** Giá dầu neo cao do lệnh trừng phạt Iran và thiếu hụt nguồn cung diesel toàn cầu.
+  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp về biên lợi nhuận từ giá thuê giàn khoan và khối lượng công việc dịch vụ kỹ thuật thượng nguồn.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì trên nền giá hiện tại.
+- **Mã:** BSR
+  - **Động lực (FA):** Biên lợi nhuận lọc dầu (crack spread) cải thiện mạnh nhờ giá diesel thế giới tăng.
+  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ sự mất cân đối cung cầu năng lượng thế giới.
+  - **Hành động:** Chú ý giải ngân.
+- **Mã:** SSI, VHM
+  - **Động lực (FA):** Áp lực từ lợi suất trái phiếu Mỹ tăng.
+  - **Nhận định dòng tiền:** Chịu áp lực rút ròng của khối ngoại và chi phí vốn tăng, gây cản trở đà tăng ngắn hạn.
+  - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quan sát.
+- **Mã:** VNF, SZC
+  - **Động lực (FA):** Tin tức tích cực từ nội bộ (VNF) và kế hoạch trả cổ tức tiền mặt (SZC).
+  - **Nhận định dòng tiền:** Hỗ trợ tâm lý tích cực, tạo lực đỡ cho cổ phiếu trong ngắn hạn.
+  - **Hành động:** Tiếp tục quan sát.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR:** Dữ liệu vĩ mô (thiếu hụt diesel toàn cầu) củng cố luận điểm giữ vị thế. Đây là động lực mạnh mẽ hỗ trợ biên lợi nhuận cho doanh nghiệp trong chu kỳ này. **Khuyến nghị:** Tiếp tục nắm giữ, ưu tiên tối ưu hóa lợi nhuận.
