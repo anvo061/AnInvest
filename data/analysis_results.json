@@ -1,5 +1,66 @@
 ﻿[
   {
+    "Title": "Lý do Tổng Giám đốc PNJ mua 1 triệu cổ phiếu công ty - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdi1aLUdTZlhVcXViQmd0UWhqU2RuRnBKZFFYSU0tRHctQ2RDMzNNZWs4TGhTR21BVkNaSFRDTllGRTlPQVQtejVuM0g0SkV5VkJmamhnMkt1SThsN1JSVlB4Q0U4RWtLSzBaaHBQZ3VZZnExMFc0dTlZc0Z4cS1DMFBoY1ZOTVh1Yzl4SUJ4SEc5N3ZkWjh3?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 05:22:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc lãnh đạo cấp cao mua vào cổ phiếu thể hiện sự tự tin vào triển vọng tăng trưởng và định giá của doanh nghiệp, tạo tâm lý tích cực cho nhà đầu tư cá nhân.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - PNJ. Hành động mua vào của lãnh đạo là tín hiệu 'insider buying' củng cố niềm tin. Dòng tiền thông minh thường phản ứng tích cực với các giao dịch nội bộ quy mô lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giao dịch mua vào của TGĐ tạo tâm lý tích cực, hỗ trợ giá cổ phiếu trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 12:42:27"
+  },
+  {
+    "Title": "Tự doanh mua ròng nhưng khối ngoại 'xả hàng' trong tuần FTSE công bố danh mục",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tu-doanh-mua-rong-nhung-khoi-ngoai-xa-hang-trong-tuan-ftse-cong-bo-danh-muc-100260822233132045.htm",
+    "PubDate": "8/23/2026 9:53:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Áp lực bán ròng từ khối ngoại trong kỳ cơ cấu FTSE tạo biến động ngắn hạn tại các mã vốn hóa lớn, trong khi tự doanh mua ròng cho thấy sự đối ứng thanh khoản, giúp giảm thiểu rủi ro điều chỉnh sâu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm vốn hóa lớn (VN30). Áp lực bán từ khối ngoại trong kỳ cơ cấu FTSE gây nhiễu ngắn hạn. Dòng tiền tự doanh đối ứng giúp giữ nhịp, tránh hoảng loạn diện rộng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên là tâm điểm bán ròng của khối ngoại trong các kỳ cơ cấu quỹ FTSE."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn chịu áp lực bán mạnh từ các quỹ ETF ngoại trong kỳ tái cơ cấu danh mục."
+      },
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biến động giá ngắn hạn do áp lực bán ròng từ khối ngoại trong tuần FTSE công bố danh mục."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 12:42:11"
+  },
+  {
+    "Title": "Dự án biệt thự ven biển hơn 240 tỉ đồng sau 9 năm vẫn là bãi đất trống",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/du-an-biet-thu-ven-bien-hon-240-ti-dong-sau-9-nam-van-la-bai-dat-trong-100260822154818887.htm",
+    "PubDate": "8/23/2026 10:28:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về một dự án đơn lẻ, quy mô nhỏ, không đại diện cho xu hướng chung của ngành bất động sản niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động ngành. Dự án quy mô nhỏ, tính chất đơn lẻ, không ảnh hưởng đến dòng tiền của các doanh nghiệp bất động sản vốn hóa lớn trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 12:42:01"
+  },
+  {
     "Title": "Petrovietnam được sử dụng lợi nhuận để xử lý chi phí đầu tư mỏ dầu khí thất bại",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/petrovietnam-duoc-su-dung-loi-nhuan-de-xu-ly-chi-phi-dau-tu-mo-dau-khi-that-bai-100260823102547622.htm",
@@ -16611,102 +16672,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 09:08:05"
-  },
-  {
-    "Title": "VN-Index có thể lùi về 1.700 điểm trước kỳ rà soát bán niên của FTSE",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-ky-ra-soat-ban-nien-cua-ftse-5109688.html",
-    "PubDate": "Mon, 17 Aug 2026 00:10:00 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Áp lực bán từ các quỹ ETF trong kỳ rà soát danh mục FTSE tạo rủi ro điều chỉnh ngắn hạn cho các mã vốn hóa lớn, gây tâm lý thận trọng cho nhà đầu tư cá nhân.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm vốn hóa lớn (Bluechips). Kỳ rà soát FTSE gây áp lực bán ròng ngắn hạn. Dòng tiền thông minh sẽ quan sát vùng hỗ trợ, tránh giải ngân mạnh vào các mã bị loại hoặc giảm tỷ trọng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn thường chịu áp lực bán ròng từ các quỹ ETF trong kỳ cơ cấu danh mục."
-      },
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Thanh khoản lớn và tỷ trọng cao trong danh mục FTSE khiến mã này dễ bị bán mạnh khi quỹ cơ cấu."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực bán từ khối ngoại trong kỳ rà soát có thể gây biến động giá ngắn hạn."
-      },
-      {
-        "Ticker": "MSN",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Rủi ro bị giảm tỷ trọng hoặc bán ròng từ các quỹ ETF theo danh mục FTSE."
-      },
-      {
-        "Ticker": "VNM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Cổ phiếu trụ cột thường xuyên nằm trong danh mục cơ cấu của các quỹ ETF ngoại."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 09:07:48"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 17/8: Thế giới có xu hướng tăng, trong nước giảm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-17-8-the-gioi-co-xu-huong-tang-trong-nuoc-giam-2546005.html",
-    "PubDate": "Mon, 17 Aug 2026 07:25:54 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá xăng dầu trong nước giảm giúp giảm chi phí đầu vào cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá xăng giảm hỗ trợ biên lợi nhuận nhóm vận tải nhưng mức giảm không đột biến. Cần theo dõi sát biến động giá dầu thế giới để tránh rủi ro đảo chiều.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, giá xăng giảm hỗ trợ trực tiếp lợi nhuận."
-      },
-      {
-        "Ticker": "VTP",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm áp lực chi phí vận chuyển, tăng biên lợi nhuận cho dịch vụ chuyển phát."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 07:33:42"
-  },
-  {
-    "Title": "Tiền mặt phình to, lợi nhuận tăng mạnh: Sóng mới của cổ phiếu dầu khí?",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//tien-mat-phinh-to-loi-nhuan-tang-manh-song-moi-cua-co-phieu-dau-khi.html",
-    "PubDate": "Mon, 17 Aug 2026 00:30:53 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 4,
-    "MarketImpact": "Lượng tiền mặt dồi dào giúp các doanh nghiệp dầu khí giảm áp lực chi phí tài chính, tăng khả năng chi trả cổ tức và đầu tư vào các dự án trọng điểm, tạo nền tảng vững chắc cho tăng trưởng dài hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tiền mặt lớn là lợi thế nhưng chưa đủ tạo sóng nếu thiếu tăng trưởng doanh thu đột biến. Cần theo dõi sát tiến độ dự án thực tế thay vì kỳ vọng vào bảng cân đối kế toán.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lượng tiền mặt khổng lồ giúp duy trì cổ tức cao và đầu tư hạ tầng khí, tạo sức hút dòng tiền ổn định."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ khối lượng công việc dự án lớn và bảng cân đối kế toán mạnh, hỗ trợ triển khai các dự án điện gió ngoài khơi."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tiền mặt dồi dào hỗ trợ tái đầu tư đội giàn khoan trong bối cảnh giá thuê giàn đang neo ở mức cao."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lợi nhuận tăng mạnh và tiền mặt lớn giúp tối ưu hóa vốn lưu động cho hoạt động lọc dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 07:33:27"
   }
 ]
