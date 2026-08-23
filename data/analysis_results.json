@@ -1,5 +1,55 @@
 ﻿[
   {
+    "Title": "Petrovietnam được sử dụng lợi nhuận để xử lý chi phí đầu tư mỏ dầu khí thất bại",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/petrovietnam-duoc-su-dung-loi-nhuan-de-xu-ly-chi-phi-dau-tu-mo-dau-khi-that-bai-100260823102547622.htm",
+    "PubDate": "8/23/2026 10:56:00 AM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Việc cho phép PVN xử lý các khoản đầu tư thất bại bằng lợi nhuận giúp làm sạch bảng cân đối kế toán, giảm áp lực tài chính và tạo dư địa để tập trung nguồn lực cho các dự án trọng điểm mới.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Việc xử lý nợ xấu đầu tư giúp PVN khơi thông dòng vốn, đẩy nhanh tiến độ các dự án thượng nguồn trọng điểm (Lô B - Ô Môn).",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ việc đẩy nhanh tiến độ các dự án dầu khí trọng điểm sau khi PVN xử lý xong các vướng mắc tài chính."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng khối lượng công việc từ các dự án thăm dò và khai thác khi PVN tái cấu trúc và tập trung nguồn lực đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 12:07:06"
+  },
+  {
+    "Title": "Chủ nền tảng thương mại điện tử phải kết nối dữ liệu với hải quan, thực hiện định danh điện tử",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chu-nen-tang-thuong-mai-dien-tu-phai-ket-noi-du-lieu-voi-hai-quan-thuc-hien-dinh-danh-dien-tu-10026082310385626.htm",
+    "PubDate": "8/23/2026 11:03:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là quy định về quản lý hành chính và tuân thủ pháp luật đối với các sàn TMĐT, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ/Công nghệ. Quy định mang tính hành chính, tăng chi phí tuân thủ nhưng không làm thay đổi cấu trúc dòng tiền ngành. Không có tác động giao dịch ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 12:06:53"
+  },
+  {
+    "Title": "Hàng hóa qua thương mại điện tử phải làm thủ tục hải quan",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/hang-hoa-qua-thuong-mai-dien-tu-phai-lam-thu-tuc-hai-quan-5112332.html",
+    "PubDate": "Sun, 23 Aug 2026 10:16:18 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc siết chặt thủ tục hải quan đối với hàng TMĐT giúp tạo môi trường cạnh tranh công bằng, giảm áp lực hàng nhập lậu giá rẻ cho các doanh nghiệp bán lẻ và logistics nội địa.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Siết thủ tục hải quan TMĐT tăng chi phí vận hành logistics xuyên biên giới. Tác động biên lợi nhuận bán lẻ nội địa chưa rõ ràng trong ngắn hạn. Cần theo dõi phản ứng dòng tiền nhóm Logistics.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 12:06:36"
+  },
+  {
     "Title": "TCBS chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 20% - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmlrVnZQdzgwLTZKRVZjSXcyakVhdlJ2TGRkN2pqcVhvbjYxUDhVOG11Y1FWRDJ3Y3ZHNEhnQkhSZG9ESlhjQS1yX1p6QVZKeXB3cDVwc2lCVmlXdm1QN1ZHVDNwQUpKWHNtM0w2aTZOSHdHU2hhVUt5VWtqLTJOaGl5by1wRm9PcXRHWHRSM2Z1QQ?oc=5",
@@ -16658,50 +16708,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 07:33:27"
-  },
-  {
-    "Title": "Lãi giảm hơn 90%, ‘ông lớn' hạ tầng lấy tiền đâu mua lại 108 tỷ đồng trái phiếu?",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vay-no-lon-loi-nhuan-boc-hoi-cii-lay-tien-dau-mua-truoc-han-108-ty-trai-phieu-2545622.html",
-    "PubDate": "Mon, 17 Aug 2026 06:00:00 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -5,
-    "MarketImpact": "Lợi nhuận sụt giảm mạnh kết hợp với áp lực thanh toán trái phiếu tạo rủi ro về dòng tiền và khả năng trả nợ của doanh nghiệp, gây tâm lý tiêu cực cho nhà đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - CII. Lợi nhuận sụt giảm 90% cùng áp lực nợ trái phiếu tạo rủi ro thanh khoản. Dòng tiền thông minh sẽ thận trọng, áp lực bán kỹ thuật gia tăng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "CII",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lợi nhuận giảm sâu và áp lực trả nợ trái phiếu làm suy yếu sức khỏe tài chính, gây áp lực lên giá cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 06:09:01"
-  },
-  {
-    "Title": "Con trai mua bảo hiểm rồi qua đời, người mẹ chật vật đòi hơn 2,3 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/con-trai-mua-bao-hiem-roi-qua-doi-nguoi-me-chat-vat-doi-hon-2-3-ty-dong-2545902.html",
-    "PubDate": "Mon, 17 Aug 2026 05:45:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là vụ việc tranh chấp dân sự đơn lẻ, không phản ánh xu hướng kinh doanh hay thay đổi chính sách vĩ mô của ngành bảo hiểm niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Bảo hiểm. Tin tức tranh chấp dân sự đơn lẻ không tác động đến dòng tiền hay định giá các doanh nghiệp bảo hiểm niêm yết trên sàn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 05:54:47"
-  },
-  {
-    "Title": "Sầu riêng Đắk Lắk trước cơ hội tỷ USD: Làm lớn phải tính đường dài",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/sau-rieng-dak-lak-truoc-co-hoi-ty-usd-lam-lon-phai-tinh-duong-dai-2545926.html",
-    "PubDate": "Mon, 17 Aug 2026 05:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc mở rộng quy mô và nâng cao giá trị xuất khẩu sầu riêng tạo động lực tăng trưởng doanh thu cho các doanh nghiệp nông nghiệp có vùng trồng lớn và hệ thống logistics lạnh.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô ngành, thiếu thông tin cụ thể về biên lợi nhuận hoặc hợp đồng xuất khẩu mới. Cần theo dõi sát dòng tiền thực tế tại nhóm nông nghiệp.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 05:34:01"
   }
 ]
