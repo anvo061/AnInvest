@@ -1,24 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 09:30 - 23/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 10:30 - 23/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tăng trưởng GDP ổn định trên 6%:** Tín hiệu củng cố niềm tin FDI và thanh khoản thị trường chung. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Khu công nghiệp (KBC)** và **Cảng biển/Logistics (GMD)**.
-- **Giá dầu thế giới/trong nước ghi nhận tuần tăng:** Cải thiện biên lợi nhuận và giá trị tồn kho. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí (PVD, PVS, BSR, GAS)**.
-- **Việt Nam dẫn đầu xuất khẩu sầu riêng:** Gia tăng doanh thu nhóm nông nghiệp. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Nông nghiệp/Logistics nông sản (HAG)**.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tăng trưởng GDP giữ vững trên 6% & Xuất khẩu sầu riêng dẫn đầu:** Định hướng vĩ mô tích cực, củng cố dòng vốn FDI và kỳ vọng kết quả kinh doanh nhóm nông nghiệp/logistics -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm BĐS Khu công nghiệp (KBC, GMD) và Nông nghiệp (HAG).
+- **Giá xăng dầu ghi nhận tuần tăng:** Cải thiện biên lợi nhuận thượng nguồn và hàng tồn kho -> **Tích cực** -> Dòng tiền vào nhóm Dầu khí (PVD, PVS, BSR, GAS).
+- **Chính sách thúc đẩy nhà ở xã hội & Khởi công dự án BĐS:** Cải thiện nguồn cung và nhu cầu thực -> **Tích cực** -> Dòng tiền hướng vào nhóm BĐS dân cư (NLG).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu thế giới tăng thúc đẩy nhu cầu thuê giàn khoan và dịch vụ.
-    - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự báo lực cầu gia tăng trong phiên.
-    - Hành động: **Chú ý giải ngân** nếu xuất hiện điểm re-test vùng hỗ trợ gần nhất.
-- **Mã: KBC**
-    - Động lực (FA): GDP tăng trưởng ổn định thúc đẩy dòng vốn FDI vào BĐS khu công nghiệp.
-    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các mã đầu ngành khi vĩ mô tích cực.
-    - Hành động: **Tiếp tục quan sát** ngưỡng kháng cự kỹ thuật để gia tăng vị thế.
-- **Mã: BVB, TNC**
-    - Động lực (FA): Bị cắt margin theo thông báo từ HOSE.
-    - Nhận định dòng tiền: Áp lực bán từ các tài khoản dùng đòn bẩy cao là khó tránh khỏi.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu giá vi phạm các ngưỡng hỗ trợ kỹ thuật quan trọng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PVD, BSR**
+    - Động lực (FA): Giá dầu thế giới và trong nước ghi nhận tuần tăng.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ tập trung vào các mã thượng nguồn (PVD) nhờ nhu cầu giàn khoan tăng, và các mã hạ nguồn/phân phối (BSR) nhờ tăng giá trị hàng tồn kho.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- **Mã: NLG**
+    - Động lực (FA): Hưởng lợi kép từ chính sách nhà ở công nhân và việc khởi công dự án mới tại TP.HCM.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng tích lũy do triển vọng doanh thu khả quan từ nhu cầu thực.
+    - Hành động: Tiếp tục quan sát, điểm mua an toàn tại vùng nền hỗ trợ.
+- **Mã: HAG**
+    - Động lực (FA): Việt Nam vươn lên số 1 thế giới về xuất khẩu sầu riêng.
+    - Nhận định dòng tiền: Tin tức mang tính bổ trợ mạnh cho nhóm nông nghiệp, kỳ vọng hút dòng tiền đầu cơ.
+    - Hành động: Chú ý giải ngân với tỷ trọng vừa phải.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **BSR:** Dữ liệu vĩ mô (giá dầu tăng) hiện tại hỗ trợ tích cực cho biên lợi nhuận lọc dầu. Duy trì nắm giữ, chưa cần cơ cấu lại vị thế.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã BSR:** Giá dầu tăng (động lực ngắn hạn) đang làm thay đổi cục diện so với kỳ vọng ban đầu. Tuy nhiên, thời điểm hiện tại (tháng 6/2026) đã quá thời hạn mục tiêu (tháng 3/2026). Dữ liệu giá dầu tăng là cơ hội để chốt lời chủ động thay vì tiếp tục nắm giữ trung hạn, nhằm đảo dòng tiền sang các nhóm ngành có dư địa tăng trưởng theo GDP (KBC, GMD).
