@@ -1,21 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 02:00 - 24/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 02:05 - 24/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Địa chính trị & Năng lượng:** Căng thẳng leo thang tại Iran và eo biển Hormuz đẩy giá dầu thế giới lên mức cao nhất trong 4 tuần -> **Tích cực (ngắn hạn)** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Dầu khí thượng nguồn (PVD, PVS).
-- **Kinh tế Mỹ:** Chỉ số bán lẻ (Retail Sales) suy giảm lần đầu sau 9 tháng -> **Tiêu cực** -> Tạo áp lực lên nhóm xuất khẩu (TNG, VHC) do lo ngại sức cầu suy giảm.
-- **Biến đổi khí hậu:** Dự báo El Niño cực đoan -> **Tiêu cực** -> Rủi ro sụt giảm sản lượng nhóm thủy điện (ảnh hưởng POW, REE).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Giá dầu neo cao do địa chính trị & Sức cầu Mỹ suy yếu:** Dầu khí hưởng lợi từ giá bán/tồn kho (Tích cực), nhưng nhóm xuất khẩu (TNG, VHC) đối diện rủi ro suy thoái cầu tiêu dùng Mỹ (Tiêu cực). Dòng tiền phân hóa mạnh: Chảy vào nhóm thượng nguồn/dịch vụ dầu khí, rút khỏi nhóm xuất khẩu chủ lực Mỹ.
+- **Rủi ro thời tiết cực đoan (El Niño):** Dự báo El Niño mạnh nhất lịch sử gây áp lực tiêu cực lên nhóm thủy điện (POW, REE) do thiếu hụt lưu lượng nước.
+- **Nhóm vốn hóa lớn (Bluechip) thiếu động lực:** Việc MWG, TCB, REE không vào rổ FTSE làm giảm kỳ vọng dòng vốn ngoại ngắn hạn, gây áp lực điều chỉnh lên nhóm cổ phiếu dẫn dắt.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **PVD, PVS**
-  - **Động lực (FA):** Giá dầu duy trì neo cao do rủi ro nguồn cung từ Iran và eo biển Hormuz.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng tìm đến nhóm thượng nguồn để trú ẩn và kỳ vọng cải thiện giá thuê giàn khoan/dịch vụ.
-  - **Hành động:** Chú ý giải ngân theo đà tăng, quan sát ngưỡng kháng cự gần nhất.
-- **Mã:** **MWG, TCB, REE**
-  - **Động lực (FA):** Thông tin không được thêm vào rổ FTSE kỳ tháng 9/2026.
-  - **Nhận định dòng tiền:** Áp lực bán từ khối ngoại và tâm lý thất vọng của nhà đầu tư cá nhân có thể gây điều chỉnh ngắn hạn.
-  - **Hành động:** Tiếp tục quan sát, chưa vội bắt đáy cho đến khi dòng tiền ổn định trở lại.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PVD, PVS**
+  - Động lực (FA): Giá dầu duy trì mức cao 4 tuần qua + Căng thẳng địa chính trị Iran đe dọa nguồn cung.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ và tạo lập sẽ ưu tiên nhóm dầu khí do câu chuyện giá dầu là "key driver" rõ rệt nhất hiện tại.
+  - Hành động: Tập trung quan sát điểm bứt phá kỹ thuật; duy trì trạng thái nắm giữ.
+- **Mã: TNG, VHC**
+  - Động lực (FA): Doanh số bán lẻ Mỹ lần đầu sụt giảm sau 9 tháng.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại suy thoái thị trường xuất khẩu chính. 
+  - Hành động: Cảnh giác rủi ro vi phạm kịch bản kỹ thuật, cân nhắc giảm tỷ trọng nếu thủng vùng hỗ trợ gần.
+- **Mã: POW, REE**
+  - Động lực (FA): Dự báo El Niño cực đoan đe dọa biên lợi nhuận mảng thủy điện.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng thoái lui hoặc tránh nhóm này trong ngắn hạn do rủi ro thời tiết.
+  - Hành động: Quan sát kỹ vùng hỗ trợ cứng, tránh bắt đáy khi tin tức bất lợi chưa phản ánh hết vào giá.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-  - **Nhận định:** Dữ liệu hiện tại (giá dầu neo cao + nguồn cung dầu thô ổn định qua eo biển Hormuz) đang tạo môi trường lý tưởng cho biên lợi nhuận lọc hóa dầu. Mặc dù đã qua mốc kỳ vọng trung hạn tháng 3/2026, nhưng trạng thái "siêu lợi nhuận" từ giá dầu giúp BSR vẫn duy trì sức mạnh. **Khuyến nghị:** Tiếp tục nắm giữ, ưu tiên trailing stop (chốt lời từng phần theo kỹ thuật) để bảo toàn thành quả thay vì thoái vốn toàn bộ.
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- **BSR:** Dữ liệu vĩ mô (giá dầu tăng & ổn định nguồn cung qua eo biển Hormuz) đang củng cố giá trị nội tại cho BSR. Với vị thế mục tiêu trung hạn, đây là dữ liệu hỗ trợ mạnh để **tiếp tục nắm giữ**, chưa cần tái cơ cấu.
+- **EIB:** Hiện tại chưa có tin tức mới liên quan đến nội tại doanh nghiệp trong chu kỳ này; giữ nguyên vị thế quan sát.
