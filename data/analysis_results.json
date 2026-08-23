@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "China pledges timely fiscal support to bolster growth - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb3g2VHlmZV9xdHNua2U5aGFmT0l2c1pWRnR6NGRuQWM5My1vaEl6ZG1ic1pYcE1CWnkwRGRDaVNKT2xzNVVaeFB5UjVzRkFqR2tfNGRneV9MdDdGV05fVXN1dW1WWkh1SWp2d3U3dEVvd2V1c2RhWkRxc3hZQ2tUcTFkQXQ3a3M2RFpVanczc1dFWXRMaDNhU0NYQ0N1cEVrZVFQYmxiOVU?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 02:54:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Kích thích tài khóa tại Trung Quốc giúp cải thiện nhu cầu nguyên vật liệu và hàng hóa xuất khẩu từ Việt Nam, hỗ trợ tâm lý thị trường khu vực.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm xuất khẩu. Chính sách tài khóa Trung Quốc hỗ trợ nhu cầu nguyên liệu. Dòng tiền có thể cải thiện nhẹ cho nhóm thép, cao su nhưng tác động thực tế cần theo dõi thêm.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kỳ vọng nhu cầu thép phục hồi từ thị trường Trung Quốc giúp cải thiện giá bán và sản lượng xuất khẩu."
+      },
+      {
+        "Ticker": "GVR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu cao su tự nhiên tăng theo đà phục hồi sản xuất công nghiệp tại Trung Quốc."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 02:53:16"
+  },
+  {
     "Title": "US retail sales post first decline in nine months in July - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
@@ -16719,24 +16743,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 16:54:29"
-  },
-  {
-    "Title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
-    "PubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc Mỹ đẩy mạnh đầu tư vào chuỗi cung ứng khoáng sản tạo động lực cho các doanh nghiệp khai thác và chế biến khoáng sản tại Việt Nam, đặc biệt là các đơn vị có khả năng xuất khẩu sang thị trường Mỹ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách Mỹ tập trung vào chuỗi cung ứng nội địa, tác động gián tiếp và dài hạn. Chưa có bằng chứng về đơn hàng cụ thể cho doanh nghiệp Việt Nam. Cần thận trọng với kỳ vọng ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp hàng đầu về khai thác vonfram và khoáng sản, hưởng lợi trực tiếp từ nhu cầu chuỗi cung ứng quốc phòng Mỹ."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 16:06:43"
   }
 ]
