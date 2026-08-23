@@ -1,20 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:30 - 24/08/2026
+⏱ Thời gian: 00:50 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Iran - Mỹ đẩy giá dầu neo ở mức cao (4-week high) và rủi ro thời tiết cực đoan (El Niño) ảnh hưởng nhóm thủy điện:** -> [Tác động: Trái chiều] -> [Dòng tiền hướng tới nhóm Dầu khí (PVD, PVS, BSR) do kỳ vọng biên lợi nhuận; dòng tiền thận trọng với nhóm điện tái tạo/thủy điện (POW, REE) do rủi ro vận hành].
-- **Thông tin loại bỏ các mã Bluechip khỏi rổ FTSE:** -> [Tác động: Tiêu cực ngắn hạn] -> [Áp lực bán chủ động có thể gia tăng lên nhóm vốn hóa lớn (MWG, TCB, REE) do tâm lý thất vọng từ dòng vốn ngoại].
+- Căng thẳng địa chính trị Trung Đông đẩy giá dầu duy trì mức cao (đỉnh 4 tuần) và dự báo El Niño cực đoan gây hạn hán. -> [Tác động: Trái chiều] -> [Dòng tiền phân hóa: Tập trung mạnh vào nhóm Dầu khí (PVD, PVS, BSR) và rút khỏi nhóm Thủy điện/Năng lượng tái tạo chịu ảnh hưởng bởi El Niño (POW, REE)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD, PVS
-- **Động lực (FA):** Giá dầu thế giới liên tục duy trì đà tăng do bất ổn địa chính trị tại Trung Đông, nhu cầu khoan và dịch vụ kỹ thuật dầu khí tăng.
-- **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng tập trung mạnh vào nhóm này để "trú ẩn" và tìm kiếm lợi nhuận từ biến động hàng hóa.
-- **Hành động:** Chú ý giải ngân theo nhịp chỉnh ngắn hạn, không đuổi giá khi đã vượt nền.
-
-- **Mã:** MWG, TCB, REE
-- **Động lực (FA):** Không được thêm vào rổ chỉ số FTSE, kỳ vọng dòng vốn thụ động bị trì hoãn.
-- **Nhận định dòng tiền:** Áp lực bán từ khối ngoại có thể làm yếu đi xu hướng ngắn hạn của các mã này.
-- **Hành động:** Rủi ro vi phạm kịch bản kỹ thuật tăng giá; tạm dừng giải ngân, quan sát vùng hỗ trợ cứng.
+- Mã: **PVD, PVS, BSR**
+  - Động lực (FA): Giá dầu thế giới neo cao và xu hướng duy trì do rủi ro nguồn cung từ Iran.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp về biên lợi nhuận và giá trị tồn kho; dòng tiền có xu hướng luân chuyển sang nhóm thượng nguồn dầu khí làm nơi trú ẩn an toàn.
+  - Hành động: Chú ý giải ngân theo nhịp điều chỉnh trong phiên (Core tickers).
+- Mã: **MWG, TCB, REE**
+  - Động lực (FA): Loại khỏi rổ chỉ số FTSE.
+  - Nhận định dòng tiền: Áp lực bán cơ cấu từ các quỹ ETF ngoại gây cản trở đà tăng giá trong ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản kỹ thuật, quan sát chặt mức hỗ trợ cứng để tránh "bắt dao rơi".
+- Mã: **ABS**
+  - Động lực (FA): Vi phạm quy định CBTT, bị nhắc nhở giải trình ý kiến ngoại trừ BCTC.
+  - Nhận định dòng tiền: Tâm lý tiêu cực lan tỏa, rủi ro thanh khoản cao.
+  - Hành động: Tránh xa, rủi ro vi phạm quản trị doanh nghiệp.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Dữ liệu giá dầu duy trì mức cao liên tục là điểm tựa FA vững chắc. Tuy nhiên, do đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu hiện tại chỉ củng cố vị thế "nắm giữ để tối ưu hóa biên lợi nhuận" chứ không phải điểm mua mới. Khuyến nghị: Duy trì nắm giữ, canh chốt lời từng phần nếu giá tiệm cận ngưỡng kháng cự mạnh khi dòng tiền lan tỏa sang nhóm khác.
+- **BSR**: Dữ liệu giá dầu duy trì mức cao củng cố kỳ vọng lợi nhuận cho giai đoạn cuối năm. Tuy nhiên, do đã quá thời điểm rơi kỳ vọng (Tháng 3/2026), cần theo dõi chặt chẽ dòng tiền chốt lời từ khối ngoại. Nếu giá không giữ được đà tăng theo giá dầu thế giới, cần cân nhắc hạ tỷ trọng để đảo dòng tiền sang nhóm ngành có câu chuyện tăng trưởng mới.

@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "ABS: Nhắc nhở chậm CBTT giải trình ý kiến ngoại trừ đối với BCTC bán niên soát xét năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMnpvay1GUWMtZDB4aV95OWtVMVlVbkFIanFrMnl0OE5MQlUwQzNNU05UektpdXV2dmtLVDBoMGxBYzc3bU9USG9iNDVxU011bmo4Qk1hUlRPZ2lrWmhEa2tIaGo4Q0psSVVLa3A1cDJiTkJUcEsxclZhdXl1VW9uRzVWQ21qVXRsZjVmYUJPdER6dy1CaGJkb0VoVEdSS084WHNZRS1kc2tQUjZ2Q1dsTWpab2x0WG9vV1FibnFJVGZEY1pkTkV6RVJ4Zw?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 02:13:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc chậm trễ công bố thông tin giải trình ý kiến ngoại trừ cho thấy sự yếu kém trong quản trị doanh nghiệp và minh bạch tài chính, gây rủi ro cho nhà đầu tư.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - ABS. Chậm trễ CBTT phản ánh quản trị yếu kém, làm giảm uy tín doanh nghiệp. Dòng tiền thông minh sẽ tránh xa mã này do rủi ro pháp lý và minh bạch.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "ABS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Vi phạm quy định CBTT và tồn tại ý kiến ngoại trừ làm giảm niềm tin của nhà đầu tư, gây áp lực bán ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 00:42:26"
+  },
+  {
+    "Title": "Maybank gọi tên 10 DN triển vọng trong các tháng cuối năm: Nhóm ngân hàng, công nghệ, năng lượng góp mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ0hONGxZR2ttMjZ4MFptU1c5QW0wNzR6enYtZ18zOGl1SXRZZElLenFTZTVSamlLeklvcVNfc2xJSVJYX1lzZlBFeWloNXEyWk1pdWRtR2RKcEJObE9kMndjMmt1OXR6a0lTUmttSkJ4Mk1oN2h2d3lBbWlwLTAwdHZYeWhrNmZTdEE0Z0VtYlBMeFdMTHlDaUc2aHNjZ3ptLUFzYkROWnFfQzVsaW9manhXZV8wM0drc05yUzM3R1ozUk9ybjVDRnBfYzJRV1FPLThMSE51ZnI?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 17:11:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Báo cáo từ tổ chức tài chính uy tín tạo hiệu ứng tâm lý tích cực, thu hút dòng tiền khối ngoại và nhà đầu tư cá nhân tập trung vào các nhóm ngành dẫn dắt thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Báo cáo từ Maybank mang tính chất định hướng danh mục, không phải tin tức đột biến về dòng tiền. Cần quan sát phản ứng thực tế tại các mã đầu ngành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-24 00:42:11"
+  },
+  {
+    "Title": "Những doanh nghiệp có tỷ USD tiền mặt",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nhung-doanh-nghiep-co-ty-usd-tien-mat-5111429.html",
+    "PubDate": "Mon, 24 Aug 2026 00:16:15 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Lượng tiền mặt lớn giúp doanh nghiệp hưởng lợi từ lãi suất tiền gửi cao, giảm áp lực nợ vay và tạo dư địa cho M&A hoặc mở rộng đầu tư trong bối cảnh kinh tế phục hồi.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính liệt kê, thiếu yếu tố kích hoạt dòng tiền ngắn hạn. Tiền mặt lớn là lợi thế dài hạn, không phải động lực tăng giá tức thời.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-24 00:41:55"
+  },
+  {
     "Title": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
@@ -16682,61 +16727,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 16:06:33"
-  },
-  {
-    "Title": "QTC: CBTT biện pháp và lộ trình khắc phục tình trạng chứng khoán - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVE56YjcyTXdFajhMTllxV3hsUktwMzZhWVYwc1NUamppMVhuM29kWnJveDloaEM0YzRUNFJjV0Yza1hOUHBYSDQzdXdqdWhSSXFFcVpDUzBBdXV1WkJPdm9qSlozc1V2TUNrSEhPRDBKd1Z2QUxYZEpOdDNVOTlVRFE1b0xuR3lrOG9TanV5UHVJaHlPZE1Cc3A2eGUxd19lTW9heFVoVE1IWG5ZcmppR2t2VmpNZ2hpaS10OVNJQzg?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 08:31:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc khắc phục tình trạng chứng khoán bị cảnh báo/kiểm soát của doanh nghiệp, không tác động đến xu hướng dòng tiền chung của thị trường hay ngành.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - QTC. Thông tin hành chính về lộ trình khắc phục tình trạng chứng khoán không thay đổi giá trị nội tại hay dòng tiền đầu cơ. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 16:06:24"
-  },
-  {
-    "Title": "Thanh khoản chứng khoán xuống thấp nhất 1 tháng - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGJGS0l3cVFBRXM3T2hXT2VJYjJmYTVCQWc5NzFEWm1YOUxPdFNJTjdKOUQ5RUdqVTBWaXVNb05pQVBJWnpTU2FzTjRRa05zQUxrOFdkd3dPaWVXckdnSEFiVDBvblBBZWtFM09YR0t3VlZYZGRRbjhsMzE0N19MWngyTmE2OC11Q0lUbmMyb3E?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 08:45:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Thanh khoản sụt giảm phản ánh tâm lý thận trọng của nhà đầu tư, làm giảm doanh thu phí môi giới và lãi margin của các công ty chứng khoán trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chứng khoán. Thanh khoản thấp gây áp lực lên doanh thu phí môi giới và lãi margin. Dòng tiền thận trọng, ưu tiên quan sát, chưa có động lực bứt phá ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Doanh thu môi giới và lãi margin chịu áp lực trực tiếp khi thanh khoản thị trường suy giảm."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Thanh khoản thấp ảnh hưởng tiêu cực đến mảng dịch vụ chứng khoán và tâm lý nhà đầu tư cá nhân."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 16:06:09"
-  },
-  {
-    "Title": "Nam A Bank nâng quy mô hợp tác với BlueOrchard lên 100 triệu USD, tiếp tục mở rộng tín dụng với các đối tác Thụy Sĩ",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//nam-a-bank-nang-quy-mo-hop-tac-voi-blueorchard-len-100-trieu-usd-tiep-tuc-mo-rong-tin-dung-voi-cac-doi-tac-thuy-si.html",
-    "PubDate": "Mon, 17 Aug 2026 08:34:32 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc huy động vốn quốc tế giá rẻ giúp NAB tối ưu hóa chi phí vốn (COF), cải thiện biên lãi thuần (NIM) và gia tăng hạn mức tín dụng cho các dự án xanh.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Ngân hàng (NAB). Dòng vốn ngoại giá rẻ giúp cải thiện NIM và củng cố thanh khoản. Dòng tiền thông minh sẽ chú ý đến NAB nhờ lợi thế chi phí vốn so với các ngân hàng nhỏ khác.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "NAB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Huy động được nguồn vốn ngoại giá rẻ giúp cải thiện NIM và mở rộng dư địa cho vay, củng cố vị thế tài chính."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 16:05:55"
   }
 ]
