@@ -1,28 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:00 ngày 23/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 17:15 - 23/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lợi suất trái phiếu Mỹ tăng mạnh gây áp lực kép: tỷ giá USD/VND căng thẳng và rủi ro rút ròng từ khối ngoại -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm vốn hóa lớn (BĐS, Chứng khoán) và ưu tiên nhóm phòng thủ/hưởng lợi từ giá dầu].
-- Căng thẳng Trung Đông leo thang (cấm vận Iran) đẩy giá dầu Brent tăng mạnh -> [Tác động: Tích cực (ngắn hạn cho nhóm thượng nguồn) / Tiêu cực (chi phí đầu vào cho vận tải)] -> [Dòng tiền hướng vào nhóm Dầu khí (PVD, PVS) và thoái lui khỏi Vận tải biển (GMD)].
-- Kỳ vọng dòng vốn ngoại từ FTSE (80.000 tỷ đồng) -> [Tác động: Tích cực (trung hạn)] -> [Dòng tiền nâng đỡ các mã vốn hóa lớn (HPG, VHM, VCB) bất chấp rung lắc ngắn hạn].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Giá dầu thế giới biến động mạnh do rủi ro địa chính trị Iran:** Tăng do lo ngại lệnh trừng phạt và gián đoạn nguồn cung -> **Tích cực** cho nhóm Dầu khí thượng nguồn (PVS, PVD, GAS) nhờ cải thiện biên lợi nhuận và giá thuê giàn khoan; **Tiêu cực** cho nhóm Vận tải/Cảng biển (GMD) do áp lực chi phí nhiên liệu.
+- **Lợi suất trái phiếu Mỹ tăng:** Gây áp lực lên tỷ giá USD/VND và thanh khoản hệ thống -> **Tiêu cực** cho nhóm Chứng khoán (SSI) và BĐS (VHM) do tăng chi phí vốn và rủi ro rút ròng từ khối ngoại.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu tăng mạnh do rủi ro địa chính trị; cải thiện biên lợi nhuận nhờ giá thuê giàn khoan tăng.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn đang phản ứng tích cực với tin tức giá dầu, tạo xung lực tăng giá mạnh bất chấp áp lực vĩ mô chung.
-- Hành động: Chú ý giải ngân khi có nhịp chỉnh kỹ thuật; theo dõi sát kịch bản giá dầu thế giới.
-
-- Mã: **GMD**
-- Động lực (FA): Áp lực kép từ giá dầu tăng (chi phí vận hành) và rủi ro đứt gãy chuỗi cung ứng toàn cầu do căng thẳng chính trị.
-- Nhận định dòng tiền: Dòng tiền có xu hướng e ngại do biên lợi nhuận bị bào mòn bởi chi phí đầu vào.
-- Hành động: Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên quan sát chặt chẽ vùng hỗ trợ gần nhất.
-
-- Mã: **SZC**
-- Động lực (FA): Chốt quyền chia cổ tức tiền mặt 10% – khẳng định sức khỏe dòng tiền doanh nghiệp.
-- Nhận định dòng tiền: Hút dòng tiền đầu tư giá trị trong bối cảnh thị trường biến động, tạo vùng đệm tâm lý vững chắc cho cổ đông.
-- Hành động: Tiếp tục quan sát để nắm giữ, kỳ vọng dòng tiền ổn định nâng đỡ giá cổ phiếu.
-
-- Mã: **SSI / VHM**
-- Động lực (FA): Áp lực từ lợi suất trái phiếu Mỹ tăng và chi phí vốn vay doanh nghiệp BĐS.
-- Nhận định dòng tiền: Áp lực bán từ khối ngoại có thể gia tăng, dòng tiền ngắn hạn suy yếu.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng không bắt đáy nếu dòng tiền chưa xác nhận sự cân bằng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PVD, PVS**
+    - **Động lực (FA):** Giá dầu neo cao do căng thẳng tại Trung Đông và nguồn cung từ Iran sụt giảm.
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ dịch chuyển mạnh vào nhóm thượng nguồn nhờ sự ổn định của giá dầu thế giới; kỳ vọng sóng tăng ngắn hạn dựa trên biên lợi nhuận cải thiện.
+    - **Hành động:** Chú ý giải ngân theo đà tăng, quản trị rủi ro tại các vùng cản kỹ thuật.
+- **Mã: VNF**
+    - **Động lực (FA):** Người có liên quan đến Ủy viên HĐQT đăng ký mua 1.000.000 cổ phiếu.
+    - **Nhận định dòng tiền:** Tín hiệu nội bộ tạo tâm lý hỗ trợ giá, giảm bớt áp lực cung ngắn hạn.
+    - **Hành động:** Tiếp tục quan sát phản ứng giá tại vùng tích lũy.
+- **Mã: SZC**
+    - **Động lực (FA):** Chốt quyền cổ tức tiền mặt 10%.
+    - **Nhận định dòng tiền:** Thu hút dòng tiền đầu tư giá trị và cổ tức; tạo điểm tựa tâm lý an toàn trong bối cảnh thị trường biến động.
+    - **Hành động:** Tiếp tục quan sát chờ điểm vào hợp lý.
+- **Mã: SSI, VHM**
+    - **Động lực (FA):** Lợi suất trái phiếu Mỹ tăng gây áp lực vĩ mô chung.
+    - **Nhận định dòng tiền:** Dòng tiền có xu hướng e ngại các cổ phiếu nhạy cảm với lãi suất và tỷ giá.
+    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng ngắn hạn, ưu tiên thủ thế.
