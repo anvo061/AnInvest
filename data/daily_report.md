@@ -1,24 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 00:45 - 24/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 00:50 - 24/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Năng lượng:** Giá dầu neo mức cao (4 tuần) do căng thẳng địa chính trị Iran - Mỹ và dự báo El Niño cực đoan ảnh hưởng nguồn cung năng lượng thủy điện -> **Tác động: Phân hóa mạnh** (Tích cực nhóm Dầu khí thượng nguồn, Tiêu cực nhóm Thủy điện).
-- **Thị trường:** Việc MWG, TCB, REE không được thêm vào rổ FTSE -> **Tác động: Tiêu cực ngắn hạn** tới tâm lý nhóm vốn hóa lớn (Bluechip) do hụt kỳ vọng dòng vốn ngoại thụ động.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Căng thẳng địa chính trị tại Trung Đông (Iran-Mỹ) thúc đẩy giá dầu duy trì vùng đỉnh 3-4 tuần -> Tác động: Tích cực -> Dòng tiền sẽ tập trung vào nhóm Thượng nguồn và Dịch vụ dầu khí (PVS, PVD, BSR).
+- Dự báo El Niño cực đoan gây hạn hán diện rộng -> Tác động: Tiêu cực -> Áp lực lên nhóm Thủy điện (POW, REE).
+- Thông tin các mã vốn hóa lớn (MWG, TCB, REE) lỡ nhịp nâng hạng FTSE -> Tác động: Tiêu cực -> Gây áp lực tâm lý và lực bán ròng ngắn hạn lên khối Bluechip.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD, PVS**
-    - **Động lực (FA):** Giá dầu duy trì mức cao (4 tuần) và rủi ro địa chính trị eo biển Hormuz thúc đẩy nhu cầu thăm dò/khai thác.
-    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có xu hướng tập trung vào nhóm dầu khí thượng nguồn do biên lợi nhuận được cải thiện trực tiếp từ giá dầu.
-    - **Hành động:** Chú ý giải ngân nếu bám sát hỗ trợ kỹ thuật; không mua đuổi khi biên độ biến động quá lớn theo tin địa chính trị.
-- **Mã: POW, REE**
-    - **Động lực (FA):** Cảnh báo El Niño cực đoan gây hạn hán.
-    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại sụt giảm sản lượng thủy điện.
-    - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ cứng.
-- **Mã: ABS**
-    - **Động lực (FA):** Nhắc nhở chậm công bố thông tin, tồn tại ý kiến ngoại trừ.
-    - **Nhận định dòng tiền:** Tiêu cực. Rủi ro bán tháo hoặc mất thanh khoản do vấn đề minh bạch.
-    - **Hành động:** Tránh xa, ưu tiên quản trị rủi ro danh mục.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PVD, PVS**
+  - Động lực (FA): Giá dầu tăng do rủi ro nguồn cung tại Iran và eo biển Hormuz.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận cải thiện và kỳ vọng đơn giá dịch vụ khoan/kỹ thuật tăng.
+  - Hành động: Chú ý giải ngân nếu nền giá tích lũy quanh vùng hỗ trợ, ưu tiên vị thế nắm giữ theo sóng giá dầu.
+- Mã: **BSR**
+  - Động lực (FA): Giá dầu neo cao cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu.
+  - Nhận định dòng tiền: Dòng tiền đang tích cực phản ứng với diễn biến địa chính trị.
+  - Hành động: Tiếp tục quan sát để tái cơ cấu theo mục tiêu lợi nhuận (xem chi tiết mục 3).
+- Mã: **REE, POW**
+  - Động lực (FA): Rủi ro El Niño gây thiếu hụt nguồn nước; REE còn chịu thêm áp lực tâm lý từ tin FTSE.
+  - Nhận định dòng tiền: Khả năng điều chỉnh ngắn hạn do lo ngại sụt giảm sản lượng thủy điện.
+  - Hành động: Rủi ro vi phạm kịch bản, cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ kỹ thuật cứng.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-    - **Nhận định:** Dữ liệu giá dầu tăng liên tục là "cơn gió ngược" thuận lợi giúp cải thiện hàng tồn kho và biên lợi nhuận cho BSR. Tuy nhiên, do đã qua thời điểm kỳ vọng trung hạn (tháng 3/2026), đây là nhịp **tận dụng tăng giá để chốt lời/cơ cấu lại dòng tiền** sang các nhóm ngành có câu chuyện tăng trưởng mới (như Chứng khoán - nhóm hưởng lợi từ thanh khoản và kỳ vọng KRX), thay vì nắm giữ dài hạn ở vùng giá đã đạt mục tiêu.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR (Cập nhật):** Dữ liệu giá dầu tăng mạnh hỗ trợ trực tiếp cho lợi nhuận cốt lõi của BSR. Tuy nhiên, thời điểm hiện tại đã là tháng 8/2026, vượt mốc thời gian mục tiêu ban đầu (Tháng 3/2026). 
+- **Quyết định:** Nếu giá dầu duy trì đà tăng này, đây là cơ hội thoát hàng hoặc chốt lời kỳ vọng thay vì giữ dài hạn. Khuyến nghị thực hiện **Tái cơ cấu (Chốt lời từng phần)** để đảo dòng tiền sang nhóm chứng khoán (như SSI) hoặc các mã đang hưởng lợi từ chu kỳ tăng trưởng mới.
