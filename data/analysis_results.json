@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Explainer: What El Niño's return means for the Panama Canal — and global trade - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWZLckNpd0p0X1hFRE1PNkowRC03X2ZuMzE4a0xlUjhhN2hKN3B0VFN5cWhDZGk5SzJ2MWkyUmZORG9iN19tdm44ZXJVOFdtWjdUSWs1c2Q3OXBZTEIzdGdzMFlvekJWMkw4Z2kyby1tXzB4RW1nWFJhdG9DV0NfWjJDX1dnTzBBMjhqbTFRR1RRNzA4Skx4U3VyOXgwSFBwSkQ1Mk9rckFkZ05y?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 18:10:52 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Hiện tượng El Niño gây hạn hán tại kênh đào Panama làm gián đoạn chuỗi cung ứng toàn cầu, đẩy chi phí vận tải biển tăng cao, ảnh hưởng đến biên lợi nhuận các doanh nghiệp xuất nhập khẩu Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. El Niño gây hạn hán tại Panama ảnh hưởng chuỗi cung ứng toàn cầu. Tác động đến doanh nghiệp Việt Nam mang tính gián tiếp, cần theo dõi biến động cước phí vận tải quốc tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí logistics tăng cao làm thu hẹp biên lợi nhuận gộp của các doanh nghiệp xuất khẩu thủy sản sang thị trường Mỹ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 18:14:17"
+  },
+  {
     "Title": "Góc nhìn chuyên gia: Index chinh phục lại 1.800 điểm, chờ nhịp rung lắc để giải ngân thay vì mua đuổi - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGRKYl9hZ1BSaXF3aWU0ZldIbWQ5ejA1WkZJVFVYcXg5NEdROGJMaWxwdDBrSllPbmR2UlJoUlR4SjlDLUl1LTNCXzVLc0swdF9VazBpRDk2dk9ldjVJMkpmZ25la3dJdDFNNEllS1Bfcy14cU9MQV9GUXkwYVI2bzN3OExFbEY1ZlQzd3BYelQzU2tfUEd5UGlPQ2pEQzByWUpzSFJfNXRKMXVnTDlvRm5ZZ2xOZXVValVINUR0eHBDMHljODFHbm9ERnBlTUpSS2pv?oc=5",
@@ -16691,18 +16710,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-17 12:57:07"
-  },
-  {
-    "Title": "Hàng tỷ cổ phiếu ngân hàng sắp 'bung', cuộc đua tăng vốn bước vào giai đoạn mới",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//hang-ty-co-phieu-ngan-hang-sap-bung-cuoc-dua-tang-von-buoc-vao-giai-doan-moi.html",
-    "PubDate": "Mon, 17 Aug 2026 05:47:41 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc phát hành thêm lượng lớn cổ phiếu gây áp lực pha loãng EPS và tạo áp lực cung lớn lên thị trường, đòi hỏi dòng tiền hấp thụ mạnh để duy trì xu hướng giá.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Áp lực pha loãng là tất yếu trong chu kỳ tăng vốn. Cần phân loại mã dựa trên hiệu quả sử dụng vốn thay vì đánh đồng tiêu cực toàn ngành.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 12:56:50"
   }
 ]

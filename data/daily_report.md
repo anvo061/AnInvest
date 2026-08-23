@@ -1,27 +1,31 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:57:16
+⏱ Thời gian: 18:14:17
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Biến động giá dầu & Năng lượng:** Giá dầu thế giới neo cao do rủi ro địa chính trị (Iran) và thiếu hụt Diesel toàn cầu -> **Tích cực (Nhóm Dầu khí thượng nguồn/Lọc dầu)** -> Dòng tiền sẽ tập trung vào các mã có biên lợi nhuận nhạy với giá dầu và giá sản phẩm lọc hóa dầu.
-- **Áp lực Lợi suất trái phiếu Mỹ:** Lợi suất tăng gây áp lực tỷ giá và thanh khoản thị trường -> **Tiêu cực (Nhóm Tài chính/Chứng khoán & Bất động sản đòn bẩy cao)** -> Cần thận trọng với các vị thế sử dụng margin cao trong ngắn hạn.
+- **Địa chính trị & Năng lượng:** Căng thẳng Iran và thiếu hụt diesel toàn cầu đẩy giá dầu và giá thành phẩm năng lượng neo cao -> **Tích cực (Năng lượng) / Tiêu cực (Vận tải)** -> Dòng tiền sẽ ưu tiên nhóm thượng nguồn (Dầu khí) và lọc dầu, thận trọng với nhóm chi phí vận tải (Cảng biển).
+- **Chuỗi cung ứng:** Hạn hán tại kênh đào Panama làm tăng chi phí logistics toàn cầu -> **Tiêu cực** -> Dòng tiền cần thận trọng với nhóm xuất khẩu thủy sản (biên lợi nhuận gộp chịu áp lực).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: BSR**
-    - Động lực (FA): Giá Diesel thế giới vượt giá nhiên liệu bay do thiếu hụt nguồn cung toàn cầu.
-    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận lọc dầu (crack spread) cải thiện mạnh.
-    - Hành động: Chú ý giải ngân (tận dụng nhịp rung lắc).
-- **Mã: PVD, PVS**
-    - Động lực (FA): Giá dầu duy trì mức cao do rủi ro địa chính trị và nguồn cung từ Iran sụt giảm.
-    - Nhận định dòng tiền: Dòng tiền thượng nguồn sẽ duy trì đà tăng do kỳ vọng cải thiện hiệu suất giàn khoan và đơn giá dịch vụ.
-    - Hành động: Tiếp tục quan sát (nắm giữ theo xu hướng).
-- **Mã: GMD**
-    - Động lực (FA): Giá dầu tăng tạo áp lực chi phí nhiên liệu trong vận tải.
-    - Nhận định dòng tiền: Rủi ro biên lợi nhuận bị bào mòn, cần thận trọng.
-    - Hành động: Rủi ro vi phạm kịch bản (theo dõi ngưỡng hỗ trợ cứng).
-- **Mã: SZC**
-    - Động lực (FA): Thông báo chốt quyền chia cổ tức tiền mặt 10%.
-    - Nhận định dòng tiền: Thu hút dòng tiền đầu tư giá trị, ổn định tâm lý cổ đông.
-    - Hành động: Tiếp tục quan sát.
+- Mã: **BSR**
+  - Động lực (FA): Giá diesel tại Châu Âu tăng cao do thiếu hụt nguồn cung toàn cầu.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận lọc dầu (crack spread) mở rộng.
+  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc theo thị trường chung.
+- Mã: **PVD, PVS**
+  - Động lực (FA): Giá dầu neo cao do rủi ro trừng phạt Iran; nhu cầu dịch vụ kỹ thuật và giá thuê giàn khoan tăng.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển mạnh vào nhóm thượng nguồn khi yếu tố vĩ mô ủng hộ.
+  - Hành động: **Tiếp tục quan sát** để gia tăng tỷ trọng khi dòng tiền xác nhận vượt cản.
+- Mã: **VHC**
+  - Động lực (FA): Chi phí logistics tăng do El Niño ảnh hưởng kênh đào Panama.
+  - Nhận định dòng tiền: Áp lực tâm lý ngắn hạn lên cổ phiếu xuất khẩu do rủi ro biên lợi nhuận thu hẹp.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu giá vi phạm vùng hỗ trợ kỹ thuật.
+- Mã: **SZC**
+  - Động lực (FA): Chốt quyền trả cổ tức tiền mặt 10%.
+  - Nhận định dòng tiền: Tín hiệu tích cực về dòng tiền nội tại, thu hút dòng tiền đầu tư giá trị.
+  - Hành động: **Tiếp tục quan sát** phản ứng giá tại ngày giao dịch không hưởng quyền.
+- Mã: **VNF**
+  - Động lực (FA): Người nội bộ đăng ký mua 1 triệu cổ phiếu.
+  - Nhận định dòng tiền: Sự tự tin của nội bộ giúp tạo lực đỡ ngắn hạn.
+  - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì thanh khoản ổn định.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Dữ liệu vĩ mô (thiếu hụt Diesel) củng cố luận điểm giữ vị thế. Tuy nhiên, do đã qua thời điểm kỳ vọng tháng 3/2026, cần đặt chặn lãi (trailing stop) chặt chẽ tại các vùng hỗ trợ kỹ thuật mới để bảo toàn lợi nhuận nếu có biến động bất ngờ từ tỷ giá.
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- **BSR:** Dữ liệu vĩ mô (giá diesel/crack spread) hiện tại đang củng cố luận điểm nắm giữ để tối ưu biên lợi nhuận. Giữ nguyên vị thế, chưa cần cơ cấu.
