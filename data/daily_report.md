@@ -1,23 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:15, 23/08/2026
+⏱ Thời gian: 14:15 - 23/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Chính sách Thương mại:** Siết chặt thủ tục hải quan và định danh điện tử đối với hàng hóa qua sàn TMĐT -> **Tích cực (ngắn hạn)** -> Dòng tiền hướng vào nhóm **Logistics (GMD, HAH)** do nhu cầu dịch vụ khai báo hải quan chính ngạch tăng.
-- **Tái cấu trúc Năng lượng:** PVN được sử dụng lợi nhuận xử lý chi phí mỏ dầu khí thất bại -> **Tích cực** -> Dòng tiền hướng vào nhóm **Dầu khí thượng nguồn (PVS, PVD)** nhờ gia tăng khối lượng công việc từ các dự án trọng điểm.
+- **Thông qua loạt ưu đãi đầu tư dầu khí & Cơ chế tài chính cho Petrovietnam:** -> [Tích cực] -> Dòng tiền sẽ tập trung mạnh vào nhóm **Dầu khí (Thượng nguồn)** do được gỡ bỏ nút thắt tài chính và hưởng ưu đãi thuế.
+- **Căng thẳng nguồn cung đồng trên LME:** -> [Tích cực] -> Nhóm **Sản xuất công nghiệp/Khai khoáng** liên quan đến đồng.
+- **Sức cầu hàng không dịp lễ 2/9 yếu:** -> [Tiêu cực] -> Nhóm **Hàng không (HVN, VJC)** chịu áp lực điều chỉnh do kỳ vọng doanh thu mùa lễ không đạt.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PNJ
-  - **Động lực (FA):** Tổng Giám đốc mua vào 1 triệu cổ phiếu.
-  - **Nhận định dòng tiền:** Tín hiệu nội gián tích cực, củng cố vùng hỗ trợ ngắn hạn.
-  - **Hành động:** Chú ý giải ngân quanh vùng hỗ trợ kỹ thuật gần nhất.
-- **Mã:** PVS, PVD
-  - **Động lực (FA):** PVN làm sạch bảng cân đối, dồn lực cho dự án mới.
-  - **Nhận định dòng tiền:** Hưởng lợi từ sự ổn định chiến lược của tập đoàn mẹ, giảm rủi ro phi hệ thống.
-  - **Hành động:** Tiếp tục nắm giữ, gia tăng tỷ trọng nếu có nhịp rung lắc.
-- **Mã:** HPG, VHM, VIC
-  - **Động lực (FA):** Áp lực bán ròng từ khối ngoại trong kỳ tái cơ cấu FTSE.
-  - **Nhận định dòng tiền:** Áp lực cung tăng ngắn hạn, tiềm ẩn biến động biên độ mạnh.
-  - **Hành động:** Quan sát, không bắt đáy vội trong tuần cơ cấu.
+- **Mã: PVD, PVS**
+    - Động lực (FA): Quốc hội chốt ưu đãi đầu tư; PVN được phép xử lý chi phí mỏ dầu thất bại bằng lợi nhuận.
+    - Nhận định dòng tiền: Tin tức mang tính "cởi trói" chiến lược, tạo kỳ vọng khối lượng công việc EPCI và nhu cầu giàn khoan tăng đột biến trong dài hạn. Dòng tiền dự kiến sẽ phản ứng tích cực, ưu tiên theo dõi các phiên bùng nổ thanh khoản.
+    - Hành động: **Chú ý giải ngân** nếu có sự đồng thuận của khối lượng giao dịch.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Hiện chưa có dữ liệu mới đột biến về EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái chiến lược hiện tại.
+- **Mã: PNJ**
+    - Động lực (FA): TGĐ mua 1 triệu cổ phiếu.
+    - Nhận định dòng tiền: Tín hiệu hỗ trợ tâm lý mạnh trong ngắn hạn, đặc biệt trong bối cảnh khối ngoại bán ròng nhóm vốn hóa lớn.
+    - Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ kỹ thuật.
+
+- **Mã: HVN, VJC**
+    - Động lực (FA): Dữ liệu lấp đầy chuyến bay dịp lễ 2/9 thấp (dưới 50%).
+    - Nhận định dòng tiền: Rủi ro biên lợi nhuận thu hẹp, khả năng dòng tiền sẽ rút khỏi nhóm này để tìm kiếm cơ hội ở các ngành có câu chuyện tăng trưởng rõ ràng hơn.
+    - Hành động: **Rủi ro vi phạm kịch bản** tăng trưởng ngắn hạn.
+
+- **Mã: VLW**
+    - Động lực (FA): Thông báo chốt quyền cổ tức tiền mặt 2.500đ/cp.
+    - Nhận định dòng tiền: Thu hút nhà đầu tư giá trị trong giai đoạn thị trường biến động.
+    - Hành động: Tiếp tục quan sát biến động giá trước ngày GDKHQ.
