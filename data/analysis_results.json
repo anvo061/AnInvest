@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "US retail sales post first decline in nine months in July - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
+    "PubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Sức mua tại Mỹ suy giảm làm dấy lên lo ngại về suy thoái kinh tế toàn cầu, gây áp lực lên các doanh nghiệp xuất khẩu Việt Nam sang thị trường này.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xuất khẩu (Dệt may, Thủy sản). Sức cầu Mỹ yếu làm giảm đơn hàng, gây áp lực lên biên lợi nhuận. Dòng tiền có xu hướng thận trọng với TNG, VHC.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "TNG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp dệt may phụ thuộc lớn vào đơn hàng từ Mỹ, sức cầu suy giảm ảnh hưởng trực tiếp đến doanh thu."
+      },
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Mỹ là thị trường xuất khẩu chủ lực của thủy sản, nhu cầu tiêu dùng giảm gây áp lực lên giá bán và sản lượng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 01:47:26"
+  },
+  {
     "Title": "ABS: Nhắc nhở chậm CBTT giải trình ý kiến ngoại trừ đối với BCTC bán niên soát xét năm 2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMnpvay1GUWMtZDB4aV95OWtVMVlVbkFIanFrMnl0OE5MQlUwQzNNU05UektpdXV2dmtLVDBoMGxBYzc3bU9USG9iNDVxU011bmo4Qk1hUlRPZ2lrWmhEa2tIaGo4Q0psSVVLa3A1cDJiTkJUcEsxclZhdXl1VW9uRzVWQ21qVXRsZjVmYUJPdER6dy1CaGJkb0VoVEdSS084WHNZRS1kc2tQUjZ2Q1dsTWpab2x0WG9vV1FibnFJVGZEY1pkTkV6RVJ4Zw?oc=5",
@@ -16714,18 +16738,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 16:06:43"
-  },
-  {
-    "Title": "PCH: Thông báo của VSDC về việc điều chỉnh thông tin số lượng chứng khoán - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUDc0cnhRaDlkUVlqaHZjOGpGUWtLTklmd2lnY3pjcVZpQWN3YUtjV3lpNFUtbUxXUnZnb09MeklfTlBpbjdveDB1NzlmaUl2bjA2djZEU05uWG9uWU5BRzQ5cmdwQ3FTVDhIWGpSemVkbUp6YjQ0U1NDZUV2Y2VWSUwwUUktQ1lnV1dJSFoyc2VBalNDdVhkWHJMa3VveW4xRnpsZ2p2NVBPV2htRjNzYUcxSDlpczI2RkY1VjducjJOVWJXOThRN19obU0?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 08:34:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc điều chỉnh dữ liệu lưu ký tại VSDC, không làm thay đổi giá trị nội tại hay hoạt động kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - PCH. Đây là nghiệp vụ hành chính thông thường tại VSDC, không tác động đến cung cầu hay dòng tiền của cổ phiếu trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 16:06:33"
   }
 ]
