@@ -1,22 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:45 - 23/08/2026
+⏱ Thời gian: 15:00 - 23/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Quốc hội thông qua ưu đãi đầu tư dầu khí & PVN được xử lý tài chính dự án:** -> Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm Dầu khí thượng nguồn (PVS, PVD).
-- **Căng thẳng địa chính trị leo thang (Nga-Ukraine):** -> Tiêu cực -> Gây tâm lý thận trọng, áp lực bán ròng lên các mã vốn hóa lớn (Bluechips) và nhóm nhạy cảm với dòng vốn ngoại.
+- Quốc hội chốt ưu đãi thu hút đầu tư dầu khí & Căng thẳng địa chính trị Iran-Mỹ đẩy giá dầu tăng -> Tác động: **Tích cực (ngắn hạn)** -> Dòng tiền tập trung vào nhóm **Dịch vụ Dầu khí (Upstream)**.
+- Dòng vốn ngoại dự kiến đổ vào qua ETF (FTSE) đạt 80.000 tỷ -> Tác động: **Tích cực** -> Dòng tiền hướng vào nhóm **Vốn hóa lớn (Large-cap)** (VHM, HPG, VCB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-- **Động lực (FA):** Quốc hội chốt cơ chế ưu đãi thuế và cơ chế đặc thù cho dự án dầu khí; PVN được gỡ nút thắt tài chính, dồn lực cho thăm dò khai thác.
-- **Nhận định dòng tiền:** Hưởng lợi kép từ thông tin chính sách và kỳ vọng khối lượng công việc dài hạn, tạo bệ đỡ cho dòng tiền ngắn hạn dù thị trường chung có biến động.
-- **Hành động:** Chú ý giải ngân (tận dụng nhịp rung lắc nếu có).
-
-- **Mã:** PVS
-- **Động lực (FA):** Hưởng lợi trực tiếp từ tiến độ EPCI được đẩy nhanh nhờ cơ chế mới từ Quốc hội và sự hỗ trợ tài chính từ tập đoàn mẹ PVN.
-- **Nhận định dòng tiền:** Dòng tiền tổ chức có xu hướng tích lũy do triển vọng doanh thu bền vững hơn so với các nhóm ngành khác đang chịu áp lực vĩ mô.
-- **Hành động:** Tiếp tục quan sát để gia tăng tỷ trọng khi có tín hiệu bứt phá nền giá.
-
-- **Mã:** HPG, VHM
-- **Động lực (FA):** Áp lực bán ròng từ khối ngoại trong kỳ tái cơ cấu quỹ FTSE.
-- **Nhận định dòng tiền:** Tạo nhiễu loạn trong ngắn hạn, cản trở đà tăng giá dù nền tảng cơ bản ổn định.
-- **Hành động:** Rủi ro vi phạm kịch bản ngắn hạn; chờ đợi khối ngoại dừng xả hàng trước khi cân nhắc vị thế mới.
+- **Mã: PVD, PVS**
+    - Động lực (FA): Hưởng lợi kép từ chính sách ưu đãi đầu tư dầu khí quốc gia và giá dầu thế giới tăng do xung đột địa chính trị.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ sẽ sớm phản ứng mạnh với các mã nhạy sóng dầu khí.
+    - Hành động: **Chú ý giải ngân** (theo dõi điểm bứt phá thanh khoản).
+- **Mã: VHM, HPG, VCB**
+    - Động lực (FA): Kỳ vọng đón dòng vốn ngoại mạnh từ các quỹ ETF.
+    - Nhận định dòng tiền: Hỗ trợ chỉ số và tạo tâm lý tích cực cho thị trường chung.
+    - Hành động: **Tiếp tục quan sát** phản ứng của khối ngoại tại các vùng cản tâm lý.
+- **Mã: HVN, VJC**
+    - Động lực (FA): Sức cầu dịp lễ thấp hơn kỳ vọng, áp lực chi phí nhiên liệu (giá dầu tăng).
+    - Nhận định dòng tiền: Tiêu cực, rủi ro điều chỉnh cao.
+    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
+- **Mã: PNJ**
+    - Động lực (FA): Giao dịch mua vào 1 triệu cổ phiếu của TGĐ.
+    - Nhận định dòng tiền: Tạo bệ đỡ tâm lý ngắn hạn.
+    - Hành động: **Tiếp tục quan sát** phản ứng giá tại các phiên tới.
