@@ -1,28 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:10 ngày 24/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 03:10 ngày 24/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Trung Quốc cam kết hỗ trợ tài khóa kịp thời để thúc đẩy tăng trưởng -> Tích cực -> Dòng tiền hướng vào nhóm ngành Nguyên vật liệu (Thép) và Sản xuất công nghiệp (Cao su).
-- Doanh số bán lẻ tại Mỹ sụt giảm lần đầu trong 9 tháng -> Tiêu cực -> Dòng tiền cần thận trọng với nhóm ngành Xuất khẩu (Dệt may, Thủy sản).
-- Giá dầu thế giới neo cao do căng thẳng địa chính trị Trung Đông -> Tích cực -> Dòng tiền tập trung vào nhóm Dầu khí (Thượng nguồn & Dịch vụ).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Trung Quốc cam kết hỗ trợ tài khóa:** Tăng kỳ vọng phục hồi nhu cầu nguyên vật liệu từ thị trường lớn nhất khu vực -> **Tích cực** -> Nhóm Thép (HPG), Cao su (GVR).
+- **Doanh số bán lẻ Mỹ suy giảm lần đầu sau 9 tháng:** Dấu hiệu suy yếu sức cầu tại thị trường xuất khẩu trọng điểm -> **Tiêu cực** -> Nhóm Dệt may (TNG), Thủy sản (VHC).
+- **Giá dầu neo cao do bất ổn địa chính trị (Iran/Trung Đông):** Tiếp tục duy trì biên lợi nhuận cho nhóm thượng nguồn -> **Tích cực** -> Nhóm Dầu khí (PVD, PVS, BSR).
+- **Thông tin nâng hạng FTSE (loại trừ MWG, TCB, REE):** Làm trì hoãn kỳ vọng dòng vốn ngoại thụ động -> **Tiêu cực** -> Nhóm Bluechip/Vốn hóa lớn.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HPG**
-  - Động lực (FA): Kỳ vọng nhu cầu thép hồi phục từ gói kích thích tài khóa của Trung Quốc.
-  - Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng tăng ngắn hạn nhờ cải thiện giá bán xuất khẩu.
-  - Hành động: Chú ý giải ngân theo vùng hỗ trợ.
-- Mã: **PVD / PVS**
-  - Động lực (FA): Giá dầu neo cao và căng thẳng tại Iran gia tăng nhu cầu thăm dò/khoan.
-  - Nhận định dòng tiền: Dòng tiền trú ẩn và đầu cơ tập trung mạnh do biên lợi nhuận kỳ vọng tăng.
-  - Hành động: Tiếp tục nắm giữ, bám sát diễn biến địa chính trị.
-- Mã: **TNG / VHC**
-  - Động lực (FA): Sức cầu tiêu dùng tại thị trường Mỹ (thị trường chủ lực) suy yếu.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại về suy thoái.
-  - Hành động: Rủi ro vi phạm kịch bản, hạ tỷ trọng nếu mất hỗ trợ kỹ thuật gần nhất.
-- Mã: **MWG / TCB**
-  - Động lực (FA): Không được thêm vào rổ FTSE.
-  - Nhận định dòng tiền: Dòng vốn ngoại thụ động không như kỳ vọng tạo áp lực cung ngắn hạn.
-  - Hành động: Quan sát phản ứng tại vùng giá hiện tại, tránh bắt đáy khi chưa có tín hiệu dòng tiền tạo lập.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** HPG, GVR
+  - **Động lực (FA):** Trung Quốc cam kết tung gói hỗ trợ tài khóa nhằm thúc đẩy tăng trưởng kinh tế.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ kỳ vọng sự phục hồi nhu cầu thép và cao su tự nhiên từ Trung Quốc sẽ tìm đến nhóm này trong phiên tới.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền vào sớm tại vùng hỗ trợ.
+- **Mã:** PVD, PVS
+  - **Động lực (FA):** Căng thẳng địa chính trị eo biển Hormuz và đe dọa phong tỏa Iran đẩy giá dầu duy trì mức cao 4 tuần.
+  - **Nhận định dòng tiền:** Dòng tiền thông minh đã và đang luân chuyển vào nhóm dầu khí do tính phòng thủ và hưởng lợi từ giá dầu.
+  - **Hành động:** Tiếp tục quan sát kịch bản Breakout.
+- **Mã:** TNG, VHC
+  - **Động lực (FA):** Dữ liệu bán lẻ Mỹ tháng 7 suy giảm.
+  - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng khi triển vọng đơn hàng xuất khẩu cuối năm bị nghi ngờ.
+  - **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Giá dầu duy trì mức cao và nguồn cung dầu thô ổn định qua eo Hormuz hỗ trợ biên lợi nhuận lọc hóa dầu. Tuy nhiên, do đã qua điểm rơi kỳ vọng tháng 3/2026, khuyến nghị duy trì vị thế hiện tại để tối ưu hóa giá trị hàng tồn kho, nhưng cần thiết lập điểm cắt lỗ chặt chẽ (trailing stop) để đảo dòng tiền nếu giá dầu đảo chiều.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR:** Dữ liệu giá dầu neo cao và nguồn cung dầu thô qua eo Hormuz ổn định trở lại là yếu tố hỗ trợ mạnh cho biên lợi nhuận lọc dầu. Mặc dù đã qua kỳ vọng tháng 3/2026, nhưng với bối cảnh địa chính trị hiện tại, **ưu tiên nắm giữ để tối ưu lợi thế hàng tồn kho**, chưa cần thực hiện đảo dòng tiền lúc này.
