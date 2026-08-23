@@ -1,5 +1,42 @@
 ﻿[
   {
+    "Title": "Quy trình sản xuất gạo ST25 của ông Cua ra sao mà bị làm nhái nhiều dữ vậy?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/quy-trinh-san-xuat-gao-st25-cua-ong-cua-ra-sao-ma-bi-lam-nhai-nhieu-du-vay-100260823073154165.htm",
+    "PubDate": "8/23/2026 8:56:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất thông tin về quy trình sản xuất và vấn đề thương hiệu, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Bài viết mang tính chất thông tin thương hiệu, không thay đổi cấu trúc dòng tiền hay triển vọng lợi nhuận của các mã ngành gạo niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 11:00:34"
+  },
+  {
+    "Title": "Hàng hóa qua thương mại điện tử sẽ phải làm thủ tục hải quan",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/hang-hoa-qua-thuong-mai-dien-tu-se-phai-lam-thu-tuc-hai-quan-5112332.html",
+    "PubDate": "Sun, 23 Aug 2026 10:16:18 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc siết chặt thủ tục hải quan đối với TMĐT giúp tạo môi trường cạnh tranh công bằng, giảm áp lực hàng lậu giá rẻ cho các doanh nghiệp bán lẻ và logistics nội địa.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Logistics. Siết thủ tục hải quan TMĐT tăng chi phí tuân thủ, chưa rõ tác động biên lợi nhuận. Cần theo dõi phản ứng dòng tiền tại GMD, HAH.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng nhu cầu dịch vụ khai báo hải quan và logistics chính ngạch cho hàng hóa TMĐT."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ xu hướng chuyển dịch sang vận tải và logistics chính ngạch."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 11:00:11"
+  },
+  {
     "Title": "Thu hút nhà máy tỉ USD, đừng quên nhà ở của công nhân",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/thu-hut-nha-may-ti-usd-dung-quen-nha-o-cua-cong-nhan-100260823070715666.htm",
@@ -16672,31 +16709,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 05:08:49"
-  },
-  {
-    "Title": "FUEFCV50: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 14/08/2026 - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGhSOFdlbzNBbE1rRGQzank4V1FpTDNkbjRnUW01QVVLRjNxYjBUci14MTV6QnpfWlZDSUtmd3hSc0VONXJpWHJySVNoTGIxWGlMb2tURmRUSFdQcVVyVFZiRGh4SGlEaURoempjNE5pWVJRQ3YxWWMwZmhPcmtrcEJjNXRJWm5DczFGVUFqOXJsMVRabllCNjNnTFZ0ZWxNNDFNU1VWVHdRMEluXzJPcDNpMUNSbnBPdmc?oc=5",
-    "PubDate": "Fri, 14 Aug 2026 02:13:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về hoạt động kinh doanh hay vĩ mô.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tác động đến cung cầu hay xu hướng giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 03:08:45"
-  },
-  {
-    "Title": "Chứng khoán tuần tới sẽ giằng co quanh 1.720 điểm, nhà đầu tư cần làm gì? - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHhKMkdtZDBoRzh2M091VHZoc0JMelpqeWUtSkRDVV9Kb2IxOERNYU5KTW9hVDc4UWVfZnpLYXljVUFaNVQ4T2lZd296VHJSZFN1WU5oa1paY3Q2Zjc3X3JEM0VMTzI3ZXRIOHhsMTZhN0xQb05jZnNreXN1ZUQ2MmdUR1JLTWxrSlZPcExUV1RaeXpYTjdkSEEyVjFPWHpPbTVWSXVTR0djLVU2MjRB?oc=5",
-    "PubDate": "Sun, 16 Aug 2026 19:17:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết nhận định thị trường chung, không chứa thông tin vĩ mô hay doanh nghiệp cụ thể có khả năng tác động đến biên lợi nhuận hay hoạt động kinh doanh.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính chất dự báo kỹ thuật, không có thông tin cơ bản mới. Dòng tiền thông minh sẽ tập trung vào dữ liệu thực tế thay vì dự báo tâm lý.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 02:30:58"
   }
 ]
