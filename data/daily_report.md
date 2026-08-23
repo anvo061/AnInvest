@@ -1,21 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:30 - 23/08/2026
+⏱ Thời gian: 17:00 ngày 23/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lợi suất trái phiếu Mỹ tăng gây áp lực tỷ giá và thanh khoản hệ thống -> [Tiêu cực] -> [Dòng tiền dịch chuyển sang nhóm phòng thủ, rủi ro điều chỉnh cho nhóm ngành nhạy cảm với lãi suất (BĐS, Chứng khoán)].
-- Căng thẳng địa chính trị Trung Đông làm giá dầu tăng mạnh -> [Tích cực] -> [Dòng tiền hướng vào nhóm Dầu khí thượng nguồn: PVD, PVS].
-- Kỳ vọng dòng vốn ETF FTSE gia tăng mạnh mẽ (80.000 tỷ đồng) -> [Tích cực] -> [Dòng tiền tập trung vào các mã vốn hóa lớn trong rổ VN30: VHM, HPG, VCB].
+- Lợi suất trái phiếu Mỹ tăng mạnh gây áp lực kép: tỷ giá USD/VND căng thẳng và rủi ro rút ròng từ khối ngoại -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm vốn hóa lớn (BĐS, Chứng khoán) và ưu tiên nhóm phòng thủ/hưởng lợi từ giá dầu].
+- Căng thẳng Trung Đông leo thang (cấm vận Iran) đẩy giá dầu Brent tăng mạnh -> [Tác động: Tích cực (ngắn hạn cho nhóm thượng nguồn) / Tiêu cực (chi phí đầu vào cho vận tải)] -> [Dòng tiền hướng vào nhóm Dầu khí (PVD, PVS) và thoái lui khỏi Vận tải biển (GMD)].
+- Kỳ vọng dòng vốn ngoại từ FTSE (80.000 tỷ đồng) -> [Tác động: Tích cực (trung hạn)] -> [Dòng tiền nâng đỡ các mã vốn hóa lớn (HPG, VHM, VCB) bất chấp rung lắc ngắn hạn].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **PVD**
-  - Động lực (FA): Giá dầu thế giới tăng >2% do rủi ro địa chính trị và lệnh trừng phạt từ Mỹ/Bessent đối với Iran.
-  - Nhận định dòng tiền: Hưởng lợi kép từ giá dầu tăng và nhu cầu giàn khoan cao; dòng tiền ngắn hạn sẽ ưu tiên tìm đến nhóm thượng nguồn để trú ẩn lạm phát.
-  - Hành động: Chú ý giải ngân theo đà tăng (Breakout) nhưng cần quản trị rủi ro tại vùng kháng cự.
-- Mã: **VHM**
-  - Động lực (FA): Nội bộ lãnh đạo mua vào + Hưởng lợi từ dự phóng dòng vốn ETF FTSE.
-  - Nhận định dòng tiền: Sự hợp lưu giữa niềm tin nội bộ và lực cầu khối ngoại tạo vùng đệm hỗ trợ cứng, giảm thiểu rủi ro từ áp lực vĩ mô (lãi suất).
-  - Hành động: Tiếp tục quan sát để gom tích lũy tại các nhịp rung lắc do thị trường chung bị ảnh hưởng bởi lợi suất trái phiếu Mỹ.
-- Mã: **SSI**
-  - Động lực (FA): Lợi suất trái phiếu Mỹ tăng gây áp lực lên chi phí vốn (Margin).
-  - Nhận định dòng tiền: Áp lực tiêu cực từ vĩ mô có thể kìm hãm thanh khoản ngắn hạn của nhóm chứng khoán.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế giải ngân mới trong 15 phút tới.
+- Động lực (FA): Giá dầu tăng mạnh do rủi ro địa chính trị; cải thiện biên lợi nhuận nhờ giá thuê giàn khoan tăng.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn đang phản ứng tích cực với tin tức giá dầu, tạo xung lực tăng giá mạnh bất chấp áp lực vĩ mô chung.
+- Hành động: Chú ý giải ngân khi có nhịp chỉnh kỹ thuật; theo dõi sát kịch bản giá dầu thế giới.
+
+- Mã: **GMD**
+- Động lực (FA): Áp lực kép từ giá dầu tăng (chi phí vận hành) và rủi ro đứt gãy chuỗi cung ứng toàn cầu do căng thẳng chính trị.
+- Nhận định dòng tiền: Dòng tiền có xu hướng e ngại do biên lợi nhuận bị bào mòn bởi chi phí đầu vào.
+- Hành động: Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên quan sát chặt chẽ vùng hỗ trợ gần nhất.
+
+- Mã: **SZC**
+- Động lực (FA): Chốt quyền chia cổ tức tiền mặt 10% – khẳng định sức khỏe dòng tiền doanh nghiệp.
+- Nhận định dòng tiền: Hút dòng tiền đầu tư giá trị trong bối cảnh thị trường biến động, tạo vùng đệm tâm lý vững chắc cho cổ đông.
+- Hành động: Tiếp tục quan sát để nắm giữ, kỳ vọng dòng tiền ổn định nâng đỡ giá cổ phiếu.
+
+- Mã: **SSI / VHM**
+- Động lực (FA): Áp lực từ lợi suất trái phiếu Mỹ tăng và chi phí vốn vay doanh nghiệp BĐS.
+- Nhận định dòng tiền: Áp lực bán từ khối ngoại có thể gia tăng, dòng tiền ngắn hạn suy yếu.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng không bắt đáy nếu dòng tiền chưa xác nhận sự cân bằng.
