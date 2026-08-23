@@ -1,5 +1,74 @@
 ﻿[
   {
+    "Title": "Canadian dollar hits near 3-month high as oil prices climb - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkNjRERQLVdRMmFsWWZMXzJ2QUNBS2xYMXhhOE9JMFZsQkdzMUlsVVVJOXJGUTRNbXNOejI1OWNIUjdvN1ViN2hzLXZPUTFnRjdkMkJaWC0wNEJLM2dTZjlocGZKaThLaGUwNWhUTUVabTlSZExGb2g1V2Y1Y0VpVEduMUhxM3VHbUZZUHZHbEVXYlUtZ1N5ZUhfdjd0X1JJMGc?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 19:09:44 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Giá dầu tăng hỗ trợ tâm lý tích cực cho nhóm cổ phiếu dầu khí thượng nguồn tại Việt Nam, cải thiện kỳ vọng về doanh thu và biên lợi nhuận từ các dự án khai thác.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm thượng nguồn. Giá dầu tăng hỗ trợ giá dịch vụ khoan và xây lắp. PVS, PVD hưởng lợi trực tiếp từ kỳ vọng biên lợi nhuận dự án.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ giá dầu tăng, thúc đẩy khối lượng công việc mảng dịch vụ kỹ thuật dầu khí."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu cao giúp tăng giá thuê giàn khoan và cải thiện biên lợi nhuận gộp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 20:43:59"
+  },
+  {
+    "Title": "TNB: Báo cáo tài chính bán niên năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0psZ3piSGZJZE1wMjI0cUN3bTl5ZVlmX1BIeEF1QWhRQWZZaXRVWjBwWVNqbXQta05CU1lWSVlGaEdXdE1RclA3MWVOYk8weHRLb3lfcVN2YnR2SVQzX1F4eHl4Zmg5R3EwRHM3dkVNTzBId3lRazhpSWdrLUt3cDNQbUQyRUx6TEtGR0hpRWtPcnRrQ3FKRF9mNDhwc3du?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 12:15:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc công bố báo cáo tài chính định kỳ là nghĩa vụ công bố thông tin thông thường, không chứa đựng các đột biến về lợi nhuận hay thay đổi chiến lược kinh doanh trọng yếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là nghĩa vụ công bố thông tin định kỳ, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 20:43:47"
+  },
+  {
+    "Title": "SRF: 15.9.2026, ngày GDKHQ chi trả cổ tức năm 2025 bằng tiền (500 đ/cp) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTW1VajZFYlJ2UEZPYzBDSVpGdWctZll0RDJ2empqNXlXeTN2TFEwdERtMUV6TmdINkluZEttYU42cnJsSk5ZNHpQSGVsUGhrQVlSMkF6VUJOZGxnUWptelZsYmZVQ3NyeXlDS256RU10ZG5PMUV2U0hxdkd0ZjFsamNIdEdiaUtwV05nS1drWHBmdkhrVzhpS0tId05BYjBvU0pUUkxDVjhTdjZHVDdhcDBZc3dJM3c3Zk95d0xKdnp4UQ?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 17:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt là hoạt động định kỳ, phản ánh dòng tiền ổn định của doanh nghiệp nhưng không tạo ra biến động đột biến về giá trị nội tại.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Cổ tức tiền mặt 500đ/cp là hoạt động định kỳ, không tác động đến giá trị nội tại. Lưu ý điều chỉnh giá tham chiếu ngày GDKHQ.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SRF",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Chi trả cổ tức tiền mặt định kỳ, giá cổ phiếu sẽ điều chỉnh tương ứng vào ngày GDKHQ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-23 20:43:32"
+  },
+  {
+    "Title": "Đúng 1 tháng nữa, Việt Nam sẽ chính thức sánh ngang Trung Quốc, Ấn Độ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWlZaml2UWdTMm5YdlRBQUk5dHlLcmh6NkJiN3VSRGY0SXBXMHp6a1VoZHZ0MnZHa3lxVEREc3c2eTAxeGUtZ3ZuSHdBWDktMEFCNWt5ak80RXJlME5YTU9ZQXQ3VlQ5Qk1mMDRZYmZUZkQ4bWstRHNsN2FCYWp1T19TcHd2bnBOcUtGclJQYV9zdENnNE45ZXZyNUpUeEloYlJtQUowNWo0QQ?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 17:01:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính chất tiêu đề giật gân, không phản ánh sự kiện kinh tế cụ thể hay thay đổi chính sách có tác động trực tiếp đến biên lợi nhuận của doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có ngành hưởng lợi. Tin tức mang tính chất định hướng truyền thông, thiếu dữ liệu kinh tế cụ thể để dòng tiền thông minh phản ứng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-23 20:43:23"
+  },
+  {
     "Title": "Tất cả người dân tích hợp giấy chứng nhận quyền sử dụng đất (sổ đỏ) trên VNeID đặc biệt chú ý - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXU0akFFeTRKZFRNR29qZm9rQUprVnR6WHlEQ3RjaFpoMndwMUs3TjFYY2taNkVrWjVJLUVlQlJkQzRUQmFaMFRqenU4djhwLXk1S1JRWVJOUnFoYnJ6SHpDTXhSaWFnZUM0Y2F3U2hvY2o2Q0lta1JxWXB2RWZlcEJkWUt0VE1OWEU4bUNsNkxBclJRUXlkSUV6WWZIY3dmMURRWlBuNkRTMlBGWU81QVJORE9nR2ZEODZZa3BwdUxsSjBwWVI4X29B?oc=5",
@@ -16642,84 +16711,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 13:38:26"
-  },
-  {
-    "Title": "Indian shares fall as crude remains at elevated levels - reuters.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 02:21:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Giá dầu neo cao gây áp lực lạm phát và chi phí đầu vào cho các doanh nghiệp vận tải, sản xuất tại Việt Nam, đồng thời làm giảm tâm lý nhà đầu tư trên thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Giá dầu neo cao gây áp lực lạm phát và chi phí đầu vào. Nhóm sản xuất (HPG) chịu áp lực biên lợi nhuận, nhóm dầu khí (GAS, PVD) hưởng lợi ngắn hạn từ giá bán.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí năng lượng và vận chuyển cao làm tăng giá vốn hàng bán, gây áp lực lên biên lợi nhuận gộp."
-      },
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu tăng trực tiếp làm tăng chi phí vận hành đội tàu và thiết bị cảng biển."
-      },
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu neo cao hỗ trợ giá bán khí đầu ra, cải thiện doanh thu và lợi nhuận cho doanh nghiệp thượng nguồn."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu cao thúc đẩy hoạt động thăm dò khai thác, tăng nhu cầu thuê giàn khoan và đơn giá dịch vụ."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 13:38:11"
-  },
-  {
-    "Title": "APS: Báo cáo tài chính bán niên năm 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU21mOGc4WklsakVhTTF2YnQ1RVN4VHNHLUlnd21ERmVIb0l5cU5FU013QTdPZ0Z6Vy1jb0Q5VlpVNHpZbjVuX0ZXLXZGRkpOaHRpRGllTEtOU2FxcTRsTXhTN3RpTGZTYm9jM2FSQ2o3SHp3Z0Q1bmgxYXJrMmZ4M1JDUmdPdkNsV210eUlPTjdFQWxDRU5OTHBHUUNZVGlS?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 06:16:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc công bố báo cáo tài chính định kỳ là nghĩa vụ công bố thông tin thông thường, không chứa đựng các đột biến về lợi nhuận hay sự kiện bất thường tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Mã APS. Báo cáo tài chính định kỳ là thông tin công bố bắt buộc, không tạo ra động lực dòng tiền mới. Thị trường sẽ phản ứng theo xu hướng kỹ thuật hiện tại.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 13:37:58"
-  },
-  {
-    "Title": "ART: Báo cáo tài chính bán niên năm 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTM4ZVZTcXJOUUpGVGJ0eldINTV0YnJ1Z3ZVR2s2VXJQSUk0RnBieHlRZUhMNVJnYTJKU3d3XzdWelpxMFJKMTlHRlFpdUg1akRhcXNDNi12NXNmN01HMk5pSmVtMk9TaVNmNXZ6Zk1VbmtZSTdBU0dKYURYT2hPTFJvOVJRR0gzaXZfVWxNVEJaLXgtdmZxUzZwR1pOTlFI?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 03:46:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc công bố báo cáo tài chính định kỳ là nghĩa vụ công bố thông tin thông thường của doanh nghiệp, không mang tính đột biến về mặt kinh doanh hay thay đổi cấu trúc tài chính đáng kể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Mã ART. Đây là nghĩa vụ công bố thông tin định kỳ, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá cổ phiếu trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 13:37:48"
-  },
-  {
-    "Title": "VNE: Mã chứng khoán VNE vào diện cảnh báo - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHhaUDhnamZhd2gwQjJ6WjY2RUZVTFpKd1AyV0ZSS0htc1F6Z0FHSUlfVEVOLVBnLTZ2bU1Wajh6cjBYTGpfMHZuY0t1T2N1bVFtUTZ2aXVKc3oyd1AxYTlyV3hiVnVGQ2FVVC16TEhOcEJsaGxPVXhHNFBDREJLT3ZBeG1ReTFu?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 02:56:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -5,
-    "MarketImpact": "Việc cổ phiếu bị đưa vào diện cảnh báo làm giảm uy tín doanh nghiệp, hạn chế khả năng giao dịch ký quỹ (margin) và gây áp lực bán tháo từ các nhà đầu tư tổ chức.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - VNE. Cổ phiếu vào diện cảnh báo làm mất thanh khoản margin, kích hoạt lệnh bán giải chấp. Dòng tiền thông minh sẽ thoát vị thế ngay lập tức để tránh rủi ro bị hạn chế giao dịch.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VNE",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Bị đưa vào diện cảnh báo làm giảm tính thanh khoản, mất quyền giao dịch ký quỹ và gây tâm lý tiêu cực cho cổ đông."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 13:37:34"
   }
 ]
