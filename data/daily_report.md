@@ -1,32 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:15, 23/08/2026
+⏱ Thời gian: 00:30 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Iran - Mỹ đẩy giá dầu thế giới tăng mạnh** -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Dầu khí (Thượng nguồn)**.
-- **Dự án đường sắt Chơn Thành - Cái Mép (6,4 tỉ USD)** -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Cảng biển (Logistics)** và **Bất động sản Khu công nghiệp** tại khu vực phía Nam.
-- **Cảnh báo hiện tượng El Niño cực đoan** -> **Tiêu cực** -> Áp lực lên nhóm **Năng lượng (Thủy điện)**.
+- **Căng thẳng địa chính trị Iran - Mỹ đẩy giá dầu neo ở mức cao (4-week high) và rủi ro thời tiết cực đoan (El Niño) ảnh hưởng nhóm thủy điện:** -> [Tác động: Trái chiều] -> [Dòng tiền hướng tới nhóm Dầu khí (PVD, PVS, BSR) do kỳ vọng biên lợi nhuận; dòng tiền thận trọng với nhóm điện tái tạo/thủy điện (POW, REE) do rủi ro vận hành].
+- **Thông tin loại bỏ các mã Bluechip khỏi rổ FTSE:** -> [Tác động: Tiêu cực ngắn hạn] -> [Áp lực bán chủ động có thể gia tăng lên nhóm vốn hóa lớn (MWG, TCB, REE) do tâm lý thất vọng từ dòng vốn ngoại].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu thế giới tăng mạnh do lo ngại gián đoạn nguồn cung tại eo biển Hormuz.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp về biên lợi nhuận giàn khoan; khả năng dòng tiền đầu cơ sẽ đẩy thanh khoản lên cao trong phiên tới.
-  - Hành động: **Chú ý giải ngân** (theo dõi sát nhịp điều chỉnh trong phiên để tránh mua đuổi giá trần).
+- **Mã:** PVD, PVS
+- **Động lực (FA):** Giá dầu thế giới liên tục duy trì đà tăng do bất ổn địa chính trị tại Trung Đông, nhu cầu khoan và dịch vụ kỹ thuật dầu khí tăng.
+- **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng tập trung mạnh vào nhóm này để "trú ẩn" và tìm kiếm lợi nhuận từ biến động hàng hóa.
+- **Hành động:** Chú ý giải ngân theo nhịp chỉnh ngắn hạn, không đuổi giá khi đã vượt nền.
 
-- **Mã: GMD**
-  - Động lực (FA): Thông tin quy hoạch dự án đường sắt kết nối trực tiếp với siêu cảng Cái Mép.
-  - Nhận định dòng tiền: Tin tức mang tính chiến lược dài hạn, tạo kỳ vọng cho dòng tiền tổ chức giải ngân theo sóng hạ tầng.
-  - Hành động: **Tiếp tục quan sát** (chờ xác nhận dòng tiền vượt nền giá tích lũy gần nhất).
-
-- **Mã: BSR**
-  - Động lực (FA): Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu.
-  - Nhận định dòng tiền: Tích cực ngắn hạn nhờ diễn biến giá hàng hóa.
-  - Hành động: **Chú ý giải ngân** (kết hợp theo dõi kịch bản tái cơ cấu).
-
-- **Mã: POW**
-  - Động lực (FA): Rủi ro El Niño gây hạn hán làm sụt giảm lưu lượng nước về hồ thủy điện.
-  - Nhận định dòng tiền: Áp lực tâm lý tiêu cực đối với nhóm năng lượng có tỷ trọng thủy điện cao.
-  - Hành động: **Rủi ro vi phạm kịch bản** (cân nhắc hạ tỷ trọng nếu thủng ngưỡng hỗ trợ cứng).
+- **Mã:** MWG, TCB, REE
+- **Động lực (FA):** Không được thêm vào rổ chỉ số FTSE, kỳ vọng dòng vốn thụ động bị trì hoãn.
+- **Nhận định dòng tiền:** Áp lực bán từ khối ngoại có thể làm yếu đi xu hướng ngắn hạn của các mã này.
+- **Hành động:** Rủi ro vi phạm kịch bản kỹ thuật tăng giá; tạm dừng giải ngân, quan sát vùng hỗ trợ cứng.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Dữ liệu mới: Giá dầu tăng mạnh do căng thẳng địa chính trị là "cú hích" cần thiết cho biên lợi nhuận. Tuy nhiên, do đã vượt thời hạn kỳ vọng (Tháng 3/2026), đây không phải là điểm mua đầu tư giá trị mà là **điểm thoát hàng theo sự kiện (event-driven trading)**. Khuyến nghị tận dụng nhịp tăng giá từ tin tức để chốt lời/cơ cấu lại danh mục sang các nhóm ngành có triển vọng tăng trưởng bền vững hơn trong giai đoạn cuối năm 2026.
+- **BSR:** Dữ liệu giá dầu duy trì mức cao liên tục là điểm tựa FA vững chắc. Tuy nhiên, do đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu hiện tại chỉ củng cố vị thế "nắm giữ để tối ưu hóa biên lợi nhuận" chứ không phải điểm mua mới. Khuyến nghị: Duy trì nắm giữ, canh chốt lời từng phần nếu giá tiệm cận ngưỡng kháng cự mạnh khi dòng tiền lan tỏa sang nhóm khác.

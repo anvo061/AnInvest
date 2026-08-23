@@ -1,5 +1,108 @@
 ﻿[
   {
+    "Title": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
+    "PubDate": "Thu, 20 Aug 2026 00:10:58 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Giá dầu tăng thúc đẩy kỳ vọng lợi nhuận cho các doanh nghiệp thượng nguồn và dịch vụ dầu khí, đồng thời tạo áp lực chi phí đầu vào cho các ngành vận tải và sản xuất.",
+    "TapeReaderNote": "Tín hiệu: Phân hóa. Giá dầu tăng hỗ trợ thượng nguồn (PVS, PVD) nhưng gây áp lực biên lợi nhuận cho hạ nguồn (BSR). Cần thận trọng với rủi ro chi phí đầu vào tăng cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khối lượng công việc dịch vụ dầu khí tăng khi giá dầu duy trì mức cao."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá thuê giàn khoan có xu hướng tăng theo giá dầu, cải thiện biên lợi nhuận trực tiếp."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 00:19:37"
+  },
+  {
+    "Title": "Vì sao nhiều tên tuổi quen mặt như MWG, TCB, REE...không được vào rổ nâng hạng của FTSE? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRm9jR0xoc3NOSHRER0JuLWtsS2Vqckk4MVpQMVpWS2JQRTNvOTVhV1VTR0tOWGpjWG9qenMzRzhFdDNDM2ZSUXJYaHlzblBXMUpFZWpuM1BUYVEzNi02a0ZuTjR4VWNoOTNQUGJib2dnTldldlZpNC1heXFGT1c5X0NxNGxGVi1HdVhvU1owNnRkSE00ejVmdjhjZXpqRk1wbnIwUWgxRWZnUHotaFpYMEpNbUNZbkpPZEVBb3pyYw?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 17:01:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc các cổ phiếu vốn hóa lớn không được thêm vào rổ FTSE làm giảm kỳ vọng về dòng vốn ngoại thụ động ngắn hạn, gây áp lực tâm lý lên nhóm cổ phiếu Bluechip.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Việc lỡ nhịp nâng hạng FTSE làm giảm kỳ vọng dòng vốn ngoại thụ động ngắn hạn, gây áp lực tâm lý lên nhóm Bluechip. Cần theo dõi sát lực bán khối ngoại tại các mã liên quan.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Kỳ vọng dòng vốn ngoại bị trì hoãn, gây áp lực bán ngắn hạn từ khối ngoại."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thiếu động lực từ dòng vốn thụ động FTSE khiến cổ phiếu khó bứt phá trong ngắn hạn."
+      },
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Việc không được thêm vào rổ chỉ số làm giảm sức hút đối với các quỹ ETF ngoại."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 00:19:22"
+  },
+  {
+    "Title": "Chuyên gia chỉ điểm hai mốc dòng tiền lớn thực sự trở lại sàn chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVcxaXNZWVhja2lROGNnRkpzYlpVY3M1RFQ0Ny1ZN3hxNkthTjk3bEN2OHJtN0NhTHRjLWFKUEZBMDRZd3hTOUswR0pGb1YtS1hzS2xuX2xNZjg0bmQyVW1PZzN5Y0lqZVgtSm9ONXJicVBld2lXMFczX1dhRG1GVmtPbV80RkpucEpVLTFCOVR0YnlCTHdKaWktd0Q4WVdVRUQyZnluSVdxQTRBQk92WllkRQ?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 17:02:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất nhận định thị trường, không chứa thông tin vĩ mô hay doanh nghiệp cụ thể có khả năng tác động trực tiếp đến biên lợi nhuận hay dòng tiền của các mã niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Bài viết mang tính quan điểm cá nhân, không có dữ liệu thực tế tác động đến dòng tiền thông minh. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-24 00:19:11"
+  },
+  {
+    "Title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\", CTCK gọi tên cổ phiếu đáng chú ý - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXh4a29mNG82TWNOcjFQSGItMEtDd3loTnN1LWxpaGtlODQ4VDA5blVUcEV0ZnpPTjJzWVdGTDY5RFpBeFdFQ1k4THExOExVZXZfcWRoYlh0YndLN2VyTXdGVVRRLWs2ampGbnhRMkZQcDVybDFJR0pTenFITHFpRG41X2JjWHVQaXZaTWN2bVFwZi1td0ozeUgxN0hGcnhTMjRxcUUwR0xIcU5zSzdZZE52dUNfbGNzNmhJRA?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 17:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Kỳ vọng về hệ thống KRX và nâng hạng thị trường tạo động lực tăng trưởng doanh thu môi giới và tự doanh, thúc đẩy dòng tiền đầu cơ quay lại nhóm chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức dạng PR định kỳ, thiếu thông tin cụ thể về tiến độ KRX. Dòng tiền cần xác nhận thanh khoản thực tế thay vì kỳ vọng định giá lại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành với thị phần môi giới lớn, hưởng lợi trực tiếp từ thanh khoản thị trường tăng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-24 00:18:56"
+  },
+  {
+    "Title": "Giá vàng có thể tăng tuần thứ tư liên tiếp",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/gia-vang-co-the-tang-tuan-thu-tu-lien-tiep-5112414.html",
+    "PubDate": "Mon, 24 Aug 2026 00:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Giá vàng biến động chủ yếu ảnh hưởng đến tâm lý nhà đầu tư cá nhân và các doanh nghiệp kinh doanh vàng, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không nhóm ngành. Giá vàng tăng là biến số vĩ mô, không tác động trực tiếp đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-24 00:18:46"
+  },
+  {
     "Title": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
@@ -16635,102 +16738,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-17 16:05:55"
-  },
-  {
-    "Title": "VN-Index giảm nhẹ, cổ phiếu dầu khí và cao su ngược dòng bứt tốc",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//vn-index-giam-nhe-co-phieu-dau-khi-va-cao-su-nguoc-dong-but-toc.html",
-    "PubDate": "Mon, 17 Aug 2026 09:03:54 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Dòng tiền thông minh đang dịch chuyển sang các nhóm ngành có tính phòng thủ và hưởng lợi từ giá hàng hóa trong bối cảnh thị trường chung suy yếu và khối ngoại bán ròng.",
-    "TapeReaderNote": "Tín hiệu: Phân hóa. Dòng tiền ngắn hạn trú ẩn tại nhóm Dầu khí và Cao su do thiếu động lực thị trường chung. Cần thận trọng với rủi ro điều chỉnh theo VN-Index.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ dòng tiền đầu cơ tìm kiếm cơ hội ở nhóm dầu khí khi thị trường phân hóa."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Dòng tiền tập trung vào các mã dầu khí thượng nguồn có thanh khoản tốt."
-      },
-      {
-        "Ticker": "GVR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu cao su thu hút dòng tiền nhờ kỳ vọng giá cao su phục hồi và tính phòng thủ cao."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 16:05:40"
-  },
-  {
-    "Title": "India's goods trade deficit hits 6-month high as imports rise amid Middle East conflict - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3oyUm5FU2lhOWF1cDNLc2RUTkU1NEtDSGZCMTVnUmg3N2dXakhHX0doNDdEYkt2bW1lNHAzbUNXb3ZxWlBPbTFRRUllTHRVUVJoM2hDTzhsZWtqaGtRU01ocjZMQms2ZFFDRHM0Q2hWcnQzMnUzLXFNTUN3MUFtNTdzelNtOURNSmFRWDhQZzh1YUFUa3prZ3FlYXJfelE?oc=5",
-    "PubDate": "Thu, 13 Aug 2026 11:30:44 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Thâm hụt thương mại Ấn Độ tăng cao do xung đột Trung Đông gây áp lực lên giá năng lượng và chi phí vận tải, ảnh hưởng gián tiếp đến các doanh nghiệp xuất khẩu Việt Nam sang thị trường này.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Thâm hụt thương mại Ấn Độ là tin vĩ mô quốc tế, tác động gián tiếp và không trọng yếu đến dòng tiền nội tại của các mã vận tải/dầu khí Việt Nam.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 15:22:52"
-  },
-  {
-    "Title": "FUEVN50G: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkhhT2ZLeFBmSnBRSVlvQUlYNWo3dVhIRnd0TDdtUlo5Z0hyRU9LdTN2OUVZOVJJSm1QdWpuWGFZalRxajlVcUt4eGVEM0tKdjdtOWd4T0RxMzBDMFN4WWJ0TzdfNWN6NjVEcXdvdllSTUJjSUM2OTM5cjZRNGFEalNfUC1uTEJCNXVQM0ZXS04wSnV5WWFmdWpZaUlnLWNxT0sxdExCMlpZMXBwRGM4aFBkY3lOZUJZSTlPWDJCOWRHcDJlX2tzZUZIQ1VoSFRmX2Fz?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 02:09:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành quỹ, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN50. Đây là hoạt động tái cơ cấu định kỳ của quỹ ETF, không tạo ra biến động dòng tiền bất thường hay thay đổi xu hướng giá của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 15:22:41"
-  },
-  {
-    "Title": "FUEBFVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUlhdVJITFJOQS1vR0hfaEZ1ZjRHaHI3ZlpuZzZjUnoyaDdHTkc0SWVXTzRnTFl2MGNvU0ZLbTdkSC0zWkhhdG5YUVJRNzFQUE83MExPZnk5WFotaVVOaWdvT3ltSHREM1phbGY2NkwtMzBUX21xd0xWa2hweWdoWUNDQUJrVTZWNXNkdk5WQjExa2IwODFxakVmM3lvdjhSSGVlUF9JVVpLRUNacEZ0bFBZUmljTUw5dE9qVG13d2VKQ1FRZFlreklyWnJLLW4ySVJR?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 02:14:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành nghiệp vụ thông thường, không tác động đến giá trị nội tại hay xu hướng dòng tiền của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không làm thay đổi cung cầu thực tế trên thị trường. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-17 15:22:31"
-  },
-  {
-    "Title": "Trong tuần này, chứng khoán Việt nhận tín hiệu mới từ FTSE Russell - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMU1BQVA2X1l0N2I0cmgwZ0ZnM0U2ODlGcXExZzk5OWJpTXgyQjlJNXRYeFZCOW9aUG9nLTVIeXF0b0M5RzdVTTIyOXY0dW9ScGhVSzkxOU80bFJHdGdjSzhsaUdSSVF1cnQ4b1lzekpaeGUxU3VWcVVRRkVfdHhGWEJLQVg5ZkZWTXVoR013OS1CMnhxeHJoRk54UlF3dVN5bm5QN294MmY?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 08:13:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Kỳ vọng nâng hạng thị trường từ FTSE Russell thúc đẩy dòng vốn ngoại quay trở lại, đặc biệt tập trung vào các cổ phiếu vốn hóa lớn có thanh khoản cao và room ngoại rộng.",
-    "TapeReaderNote": "Tín hiệu nâng hạng FTSE Russell: Kỳ vọng dòng vốn ngoại quay lại nhóm vốn hóa lớn. Tập trung các mã Bluechip có thanh khoản cao và room ngoại rộng để đón đầu sóng nâng hạng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn, thanh khoản cao, thường được ưu tiên trong danh mục của các quỹ ETF ngoại."
-      },
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Mã đầu ngành ngân hàng, đại diện tiêu biểu cho chỉ số VN-Index, hưởng lợi trực tiếp từ dòng vốn ngoại."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu quốc dân với thanh khoản lớn, luôn nằm trong danh mục ưu tiên của các quỹ đầu tư nước ngoài."
-      }
-    ],
-    "AnalyzedAt": "2026-08-17 15:22:16"
   }
 ]
