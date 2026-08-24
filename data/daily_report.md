@@ -1,25 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:20 - 24/08/2026
+⏱ Thời gian: 12:15 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động tăng lên 9%/năm (chứng chỉ tiền gửi):** Đánh giá **Tiêu cực** -> Tạo áp lực rút ròng tiền từ kênh chứng khoán sang tiết kiệm, làm gia tăng chi phí vốn doanh nghiệp, gây áp lực lên định giá P/E toàn thị trường.
-- **Kỳ vọng nâng hạng thị trường & Dòng vốn ngoại chuyển dịch từ Thái Lan:** Đánh giá **Tích cực** -> Đối trọng với áp lực lãi suất, dòng tiền dự báo sẽ tập trung mạnh vào nhóm Tài chính (Chứng khoán, Ngân hàng) để đón đầu sóng vốn ngoại.
-- **Tỷ giá USD/VND biến động:** Đánh giá **Trung lập (Phân hóa)** -> Gây áp lực chi phí tài chính lên các doanh nghiệp nợ vay USD lớn (POW), nhưng tạo lợi thế cạnh tranh biên lợi nhuận cho nhóm xuất khẩu (VHC, TNG).
+- **Dòng vốn ngoại kỳ vọng đạt 3 tỷ USD & Câu chuyện nâng hạng thị trường:** -> [Tích cực] -> Dòng tiền sẽ tập trung mạnh vào nhóm Chứng khoán (SSI, VND) và nhóm Ngân hàng vốn hóa lớn (VCB).
+- **Lãi suất huy động tăng (9%/năm cho chứng chỉ tiền gửi 6 tháng):** -> [Tiêu cực] -> Áp lực chi phí vốn lên toàn hệ thống ngân hàng; giảm tính hấp dẫn của dòng tiền đầu cơ trên thị trường chứng khoán trong ngắn hạn.
+- **Khủng hoảng BĐS Trung Quốc kéo dài:** -> [Tiêu cực] -> Gia tăng áp lực cạnh tranh giá thép và thu hẹp biên lợi nhuận xuất khẩu cho nhóm ngành Thép (HPG, HSG, NKG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND, VCB**
-    - **Động lực (FA):** Câu chuyện nâng hạng thị trường và sự dịch chuyển dòng vốn ngoại từ các thị trường khu vực (Thái Lan) sang Việt Nam.
-    - **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng tập trung vào các mã vốn hóa lớn và đầu ngành chứng khoán để đón đầu kỳ vọng nâng hạng.
-    - **Hành động:** Chú ý giải ngân theo chiến lược tích lũy, ưu tiên các nhịp điều chỉnh khi áp lực lãi suất gây rung lắc ngắn hạn.
-- **Mã: POW**
-    - **Động lực (FA):** USD tăng giá gây áp lực nợ vay ngoại tệ.
-    - **Nhận định dòng tiền:** Rủi ro dòng tiền rút ngắn hạn do lo ngại chi phí tài chính ăn mòn lợi nhuận.
-    - **Hành động:** Rủi ro vi phạm kịch bản, cần quan sát chặt chẽ ngưỡng hỗ trợ kỹ thuật gần nhất.
-- **Mã: VHC, TNG**
-    - **Động lực (FA):** Hưởng lợi từ chênh lệch tỷ giá do USD mạnh lên.
-    - **Nhận định dòng tiền:** Nhóm phòng thủ có tính chất "trú ẩn" trước biến động vĩ mô, thu hút dòng tiền trung lập.
-    - **Hành động:** Tiếp tục quan sát, ưu tiên nắm giữ để cân bằng danh mục.
-- **Mã: PLX**
-    - **Động lực (FA):** Giá xăng trong nước tăng.
-    - **Nhận định dòng tiền:** Hưởng lợi ngắn hạn biên lợi nhuận, dòng tiền có thể phản ứng tích cực nhưng bị hạn chế bởi áp lực lạm phát chung.
-    - **Hành động:** Tiếp tục quan sát trạng thái dòng tiền trước khi quyết định giải ngân.
+- **Mã: KDH**
+    - Động lực (FA): Các tổ chức tài chính đồng loạt ra báo cáo khuyến nghị Mua.
+    - Nhận định dòng tiền: Tạo hiệu ứng tâm lý tốt cho dòng tiền cá nhân trong phiên, hỗ trợ đà tăng ngắn hạn.
+    - Hành động: Chú ý giải ngân nếu dòng tiền duy trì mức thanh khoản ổn định trên trung bình 20 phiên.
+
+- **Mã: NKG**
+    - Động lực (FA): Rủi ro từ khủng hoảng BĐS Trung Quốc làm suy giảm nhu cầu tiêu thụ thép xuất khẩu.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng thận trọng, áp lực bán có thể gia tăng khi tin tức vĩ mô tiêu cực được hấp thụ.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát chặt vùng hỗ trợ cứng.
+
+- **Mã: SSI**
+    - Động lực (FA): Hưởng lợi kép từ dòng vốn ngoại kỳ vọng (3 tỷ USD) và kỳ vọng nâng hạng thị trường.
+    - Nhận định dòng tiền: Nhóm cổ phiếu dẫn dắt thanh khoản, dòng tiền thông minh đang có dấu hiệu gom dần.
+    - Hành động: Chú ý giải ngân theo xu hướng (trend-following).
