@@ -1,25 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:10
+⏱ Thời gian: 16:15 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ phê duyệt thêm 3 tỷ USD cho dự án đường sắt kết nối với Trung Quốc -> **Tích cực** -> Dòng tiền hướng vào nhóm **Đầu tư công (Xây dựng hạ tầng & Vật liệu)**.
-- Dòng vốn ETF quay lại thị trường mới nổi -> **Tích cực** -> Dòng tiền hướng vào nhóm **Vốn hóa lớn (VN30)**.
-- Nhu cầu ngoại thương Trung Quốc suy yếu, gây áp lực lên thép nội địa -> **Tiêu cực** -> Lưu ý rủi ro cho nhóm **Thép**.
+- Chính phủ phê duyệt thêm 3 tỷ USD cho dự án đường sắt kết nối với Trung Quốc -> Đánh giá: Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm Xây dựng hạ tầng & Vật liệu xây dựng (VCG, HHV, KSB, LCG).
+- Dòng vốn ETF quay lại thị trường mới nổi -> Đánh giá: Tích cực -> Dòng tiền ưu tiên nhóm vốn hóa lớn (VN30), dẫn dắt bởi VHM, HPG, VCB.
+- Nhu cầu ngoại thương Trung Quốc suy yếu (áp lực thép giá rẻ) -> Đánh giá: Tiêu cực -> Rủi ro gia tăng cho nhóm Thép (HPG) bất chấp hưởng lợi từ đầu tư công.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCG, HHV, KSB, LCG**
-  - Động lực (FA): Hưởng lợi trực tiếp từ việc bổ sung 3 tỷ USD ngân sách đầu tư hạ tầng.
-  - Nhận định dòng tiền: Kỳ vọng lực cầu tăng mạnh vào nhóm xây dựng hạ tầng để đón đầu khối lượng công việc mới.
-  - Hành động: **Chú ý giải ngân** theo kịch bản break nền giá.
-- Mã: **VHM, HPG, VCB**
-  - Động lực (FA): Dòng vốn ETF quay lại thị trường mới nổi ưu tiên phân bổ vào các cổ phiếu trụ cột này.
-  - Nhận định dòng tiền: Cải thiện thanh khoản và sức cầu khối ngoại, tạo nền đỡ chỉ số.
-  - Hành động: **Tiếp tục quan sát** để gia tăng tỷ trọng khi có tín hiệu xác nhận từ dòng tiền ngoại.
-- Mã: **PVD**
-  - Động lực (FA): Gián đoạn vận tải tại eo biển Hormuz đẩy giá dầu thế giới tăng cao.
-  - Nhận định dòng tiền: Hỗ trợ biên lợi nhuận kỳ vọng của nhóm dầu khí thượng nguồn.
-  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng kháng cự.
-- Mã: **HPG**
-  - Động lực (FA): Áp lực cạnh tranh thép giá rẻ từ Trung Quốc (do nhu cầu nội địa nước này suy yếu).
-  - Nhận định dòng tiền: Rủi ro phân hóa ngắn hạn do áp lực bán giải tỏa tâm lý tiêu cực từ thị trường thép Trung Quốc.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
+- Mã: VCG, HHV, KSB, LCG
+  - Động lực (FA): Được hưởng lợi trực tiếp từ gói đầu tư hạ tầng 3 tỷ USD mới phê duyệt.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển vào nhóm này ngay trong phiên tới do tính chất "dẫn sóng" của tin tức hạ tầng.
+  - Hành động: Chú ý giải ngân nếu xuất hiện điểm hợp lưu kỹ thuật (Breakout thanh khoản).
+- Mã: HPG
+  - Động lực (FA): Hưởng lợi từ dòng vốn ETF (tích cực) đối trọng với áp lực thép giá rẻ từ Trung Quốc (tiêu cực).
+  - Nhận định dòng tiền: Dòng tiền có thể phân hóa mạnh; thận trọng áp lực bán từ khối ngoại hoặc các quỹ nếu triển vọng ngành thép bị bóp nghẹt bởi thép giá rẻ.
+  - Hành động: Tiếp tục quan sát; hạn chế gia tăng tỷ trọng khi chưa rõ xu hướng cung-cầu thực tế.
+- Mã: TPB
+  - Động lực (FA): Triển khai ưu đãi lãi suất để kích cầu tín dụng.
+  - Nhận định dòng tiền: Tác động tích cực nhẹ, củng cố đà hồi phục.
+  - Hành động: Tiếp tục quan sát diễn biến thanh khoản tại vùng hỗ trợ cứng.
