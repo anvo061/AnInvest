@@ -1,21 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:15 - 25/08/2026
+⏱ Thời gian: 02:45 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới sụt giảm do áp lực từ thông báo lệnh trừng phạt mới của Mỹ đối với Iran -> Đánh giá tác động: Tiêu cực -> Dòng tiền ngắn hạn sẽ rút khỏi nhóm Năng lượng/Dầu khí.
-- El Niño diễn biến phức tạp thúc đẩy nhu cầu huy động điện khí -> Đánh giá tác động: Tích cực -> Dòng tiền hướng vào nhóm Tiện ích/Năng lượng điện (POW).
+- **Nâng hạng thị trường:** Việt Nam kỳ vọng thu hút hơn 4 tỷ USD vốn thụ động -> **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm **Chứng khoán (SSI)** và các mã **Vốn hóa lớn (VN30: VHM, VCB)**.
+- **Biến động giá dầu:** Dầu thế giới giảm do áp lực trừng phạt Iran -> **Tiêu cực** -> Gây áp lực điều chỉnh lên nhóm **Dầu khí (PVD, PVS, BSR)**.
+- **Thời tiết cực đoan:** El Niño gây thiếu hụt thủy điện -> **Tích cực** -> Dòng tiền hướng vào nhóm **Nhiệt điện khí (POW)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD, PVS
-- Động lực (FA): Giá dầu thế giới chịu áp lực giảm điểm.
-- Nhận định dòng tiền: Tâm lý thận trọng bao trùm nhóm thượng nguồn, rủi ro điều chỉnh kỹ thuật ngắn hạn do áp lực bán từ khối giao dịch thuật toán dựa trên biến số giá dầu.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế mở vị thế mua mới tại vùng hỗ trợ cho đến khi giá dầu ổn định.
-
-- Mã: POW
-- Động lực (FA): Hưởng lợi từ sự thay đổi chu kỳ thời tiết (El Niño), tăng nhu cầu huy động nhiệt điện khí.
-- Nhận định dòng tiền: Dòng tiền kỳ vọng sự cải thiện biên lợi nhuận trong mùa khô, có thể tạo lực nâng đỡ giá cổ phiếu bất chấp rung lắc thị trường chung.
-- Hành động: Tiếp tục quan sát điểm Entry khi có nhịp rung lắc, chú ý khối lượng vào.
+- **Mã:** SSI
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ dự báo dòng vốn ngoại đổ vào sau nâng hạng thị trường.
+  - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào thanh khoản và thị phần môi giới.
+  - **Hành động:** Chú ý giải ngân theo nhịp tích lũy của thị trường chung.
+- **Mã:** PVD
+  - **Động lực (FA):** Giá dầu sụt giảm gây áp lực lên đơn giá cho thuê và biên lợi nhuận.
+  - **Nhận định dòng tiền:** Ngắn hạn chịu áp lực chốt lời/bán ròng do tâm lý tiêu cực từ giá dầu thế giới.
+  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+- **Mã:** POW
+  - **Động lực (FA):** Huy động nhiệt điện khí tăng cao do thiếu hụt thủy điện mùa khô.
+  - **Nhận định dòng tiền:** Dòng tiền tìm đến các nhóm có câu chuyện tăng trưởng lợi nhuận cụ thể.
+  - **Hành động:** Tiếp tục quan sát để tối ưu hóa vị thế.
+- **Mã:** MSH
+  - **Động lực (FA):** Linh hoạt đa dạng hóa thị trường xuất khẩu.
+  - **Nhận định dòng tiền:** Ổn định, phản ứng tích cực với tin tức tích cực.
+  - **Hành động:** Tiếp tục quan sát.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-- Nhận định: Giá dầu sụt giảm kết hợp với đặc thù vận hành của ngành lọc hóa dầu khiến rủi ro quản trị hàng tồn kho tăng cao. Với vị thế đã qua điểm rơi kỳ vọng tháng 3/2026, dữ liệu giá dầu hiện tại không đủ hỗ trợ để nắm giữ tiếp. Đề xuất: Thực hiện cơ cấu lại/chốt lời để bảo toàn vốn và chuyển hướng dòng tiền sang nhóm ngành có động lực tăng trưởng mới (như Điện).
+- **Mã:** BSR
+  - **Nhận định:** Dữ liệu giá dầu biến động tiêu cực hiện tại làm tăng rủi ro cho biên lợi nhuận lọc hóa dầu. Với mục tiêu trung hạn 2026, cần cân nhắc hạ tỷ trọng nếu giá dầu tiếp tục xu hướng giảm làm gãy các mốc hỗ trợ kỹ thuật trọng yếu, nhằm bảo toàn vốn cho các nhóm ngành hưởng lợi từ vĩ mô (Chứng khoán/Năng lượng khí).

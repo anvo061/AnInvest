@@ -1,5 +1,66 @@
 ﻿[
   {
+    "Title": "FUEMAVND: Kết thúc giao dịch hoán đổi ngày 21/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3FfN3JTTExxUnoyb0pNV1RIMDZoalkwc2FqNWZpWHF2WGR5cG04THVPVnBfeUZVRDJ1M3lNYkxmdlVWdXc0bWtBWGt4T0pxVFBqUkxENTBYcXhWRkZVU0hYRlRtOTdhd1RBNHQzclNqV1lNR1MxRGNmSFh6UlowSVgxRDlYQll3YXJIMTl1ZDBUUmc0Z0hac0h6WE4?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 10:30:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc kết thúc giao dịch hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ hành chính thông thường của quỹ ETF, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá cổ phiếu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 02:23:22"
+  },
+  {
+    "Title": "MSH - Linh hoạt ứng phó trước áp lực từ thị trường Mỹ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWhTMEFZdmcyNFhvU01sWEtGSFV3MDEwVDNzb0oxSVdRQ0VVaG5MenFiNXRsc2JsaXM1X3pEMDJYT2QzRkZHanhhMFVDaFFRRTV3UnJKUHppOWFUNGI3X1hiVnR2VDIwdV9VZmJENFhYeTNNNTNYc2dhcXZOMThWN1d6SU1aN0RZb08tLXJGMExZU25mU0NZZXdDTWJEUWlJSGNZM0RFWU9NTFVrTk5aS0d3?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 13:30:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc chủ động đa dạng hóa thị trường và linh hoạt trong sản xuất giúp MSH giảm thiểu rủi ro từ sự suy yếu của thị trường Mỹ, duy trì ổn định biên lợi nhuận trong ngành dệt may.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. MSH duy trì ổn định nhưng chưa có đột biến về đơn hàng. TNG không liên quan trực tiếp đến nội dung tin tức này.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MSH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chủ động ứng phó rủi ro thị trường Mỹ giúp duy trì tăng trưởng doanh thu và ổn định biên lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 02:23:06"
+  },
+  {
+    "Title": "Ông Nguyễn Duy Hưng: Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejViQ1FMd0RYdkFtenM4bEZsOElDa1FrM0pwWXN3ZGY1Q0dDOUN2czN3NzA0c2x5MUxmYWpJblBBLXFWZXdzNS1oTUJmZG5MX0cxenoyb3Q3c0pWaTl1ejVTSEhDYWVVSktIQW1hc0p4UFktdlBMdVNGWGR2aVJ3WXBoaWYyZDNTakp5TkZIWHREbGlfSHZhYnNzajRzZWdRd2FKTm1IT2F3VVdjOW16ZE1JcGVyNHo1cFBR?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 08:13:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Việc nâng hạng thị trường giúp thu hút dòng vốn ngoại thụ động quy mô lớn, cải thiện thanh khoản và định giá P/E toàn thị trường, đặc biệt là các mã vốn hóa lớn trong rổ VN30.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán và VN30. Nâng hạng kỳ vọng thu hút 4 tỷ USD vốn thụ động, cải thiện thanh khoản và định giá thị trường. Tập trung nhóm vốn hóa lớn đầu ngành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ tăng trưởng thanh khoản và thị phần môi giới khối ngoại."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn, trọng số cao trong các quỹ ETF, là đích đến ưu tiên của dòng vốn ngoại."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu ngân hàng đầu ngành, luôn nằm trong danh mục ưu tiên của các quỹ đầu tư nước ngoài."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 02:22:45"
+  },
+  {
     "Title": "TFC: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3hVSEVkZWRGNmNDMjI0ODlDS0l0YVh4TlRoMFh5dk9SNlR4eVF3TVRQcDd1THlDRUFQT0lGOG5CcjFwYlN3UlRGRkNKZHJjR05OMl9CYWxVRUQwbGdOLV9OMkVkTERzdFBoelhyUm9meV9BeVFyNV9oWWMzalVoQlZ5bFRqTVhha1VlZmtLVmg1NGxQLUJn?oc=5",
@@ -16874,44 +16935,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-18 13:23:49"
-  },
-  {
-    "Title": "FUEMAVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 18/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUFZLXFxSUhLSE9uSENNa0J2LXBjZ1phTm51RFRlZy00Z0NRNnk0eUNkaFJrRC0zaVFMVE54ZFhJZ1NkcmFhclZ0Zlg4Yi0yT19FV05WUDZ5SVdUTnV2M3ZmNjZ0bmJvNU5uTkJqbGJFbFBCMTgtZHdrbTFCQWxUTDlWQm1XSE9TQ2Z3SGh0Z3RLUzRTQk80MnlFUUxSMGlJaHFVd0hXQkFDZV9RNFh3cEhkYTRFOTdES3ZLUHNpSVd3MnNZTVFiU2prWlFIM3E2cnJF?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:16:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành nghiệp vụ thông thường, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các mã cổ phiếu trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là nghiệp vụ hoán đổi danh mục định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi xu hướng dòng tiền đối với các mã thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 13:23:39"
-  },
-  {
-    "Title": "PPH: Công văn của Ủy ban Chứng khoán Nhà nước về tài liệu báo cáo kết quả phát hành cổ phiếu để trả cổ tức của PPH - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaThNYk03RExhQ1JOdU1SRHNHUWdMbEp5MF9zbnRlMXV2TUZXUEtKeFFjMVdvV2QxOXg1bFpUREFfS1FsclM3dmd1MXlSVm9YNmluZ3gwLU9sMzVjNHpjTU9QYm54SHNHMG1sZndCeWQySEFnZjdON2Z3el9PSDZ0TXVSa3hXUFl6eGpxWXhjcUFVdURYNjd0TllVTC1aNjA0Umc5ZGQwY25ON3RZOEdDRnFVTXhWZUxwV3p5NDFZcWN0eDlOYzRsSi1QU2EzMFZyQXg4MHg2cVhKcHRJNER5bW14NUM3QW41YXFFeUNlZGtkeXI2a3VkQjdDWFB4RkE1STlv?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 04:06:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thủ tục hành chính thông thường về việc hoàn tất phát hành cổ phiếu trả cổ tức, không làm thay đổi giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - PPH. Đây là thủ tục hành chính hoàn tất phát hành cổ phiếu, không tác động đến dòng tiền hay xu hướng giá cổ phiếu trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 13:23:29"
-  },
-  {
-    "Title": "Việt Nam chi 800 triệu USD nhập khẩu gạo trong 7 tháng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/viet-nam-chi-800-trieu-usd-nhap-khau-gao-trong-7-thang-2546191.html",
-    "PubDate": "Tue, 18 Aug 2026 13:15:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Việc tăng nhập khẩu gạo cho thấy nguồn cung nội địa gặp khó khăn hoặc nhu cầu chế biến tăng cao, gây áp lực lên biên lợi nhuận của các doanh nghiệp xuất khẩu gạo do cạnh tranh nguồn cung.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Nhập khẩu gạo chủ yếu phục vụ chế biến/thức ăn chăn nuôi, không ảnh hưởng trực tiếp đến biên lợi nhuận xuất khẩu gạo chất lượng cao. Dòng tiền ít biến động.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 13:23:14"
   }
 ]
