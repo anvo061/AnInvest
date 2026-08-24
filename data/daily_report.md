@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:30 - 24/08/2026
+⏱ Thời gian: 23:10 ngày 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam phê duyệt chi bổ sung 3 tỷ USD cho dự án đường sắt kết nối Trung Quốc -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm ngành **Xây dựng hạ tầng (VCG, HHV)** và **Vật liệu xây dựng**.
-- Hà Nội đề xuất hỗ trợ tài chính cho hộ lắp đặt điện mặt trời mái nhà -> **Tích cực** -> Dòng tiền hướng vào nhóm **Thiết bị điện và Năng lượng tái tạo (PC1)**.
+- Phó Thủ tướng yêu cầu kiểm tra hệ thống thu phí tự động ETC -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm xây dựng hạ tầng/BOT, đặc biệt các đơn vị đang vận hành hệ thống thu phí].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TCB**
-  - Động lực (FA): Công bố chia cổ tức bằng cổ phiếu để tăng vốn điều lệ, dẫn đầu nhóm ngân hàng tư nhân.
-  - Nhận định dòng tiền: Củng cố hệ số an toàn vốn (CAR), tạo dư địa tăng trưởng tín dụng dài hạn, thu hút nhóm nhà đầu tư tổ chức.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc tích lũy.
-- **Mã: PC1**
-  - Động lực (FA): Chính sách hỗ trợ điện mặt trời mái nhà tại Hà Nội tạo dư địa phát triển cho các giải pháp năng lượng tái tạo.
-  - Nhận định dòng tiền: Được hưởng lợi từ các chính sách năng lượng mới, kỳ vọng dòng tiền đầu cơ sẽ phản ứng tích cực trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ kỹ thuật gần nhất.
-- **Mã: VCG, HHV**
-  - Động lực (FA): Dự án đường sắt kết nối Trung Quốc được rót thêm 3 tỷ USD.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ làn sóng đầu tư công quy mô lớn, tạo kỳ vọng doanh thu cho các quý tới.
-  - Hành động: Chú ý giải ngân theo đà tăng.
+- Mã: **HHV**
+- Động lực (FA): Thông tin thanh tra hoạt động thu phí ETC.
+- Nhận định dòng tiền: Tin tức tạo rủi ro pháp lý ngắn hạn, có thể kích hoạt áp lực bán tháo kỹ thuật từ nhà đầu tư cá nhân do lo ngại về tính minh bạch và doanh thu BOT.
+- Hành động: **Rủi ro vi phạm kịch bản**. Theo dõi chặt chẽ vùng hỗ trợ gần nhất, ưu tiên hạ tỷ trọng nếu mất ngưỡng hỗ trợ cứng.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- (Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này).
+- Mã: **TCB**
+- Động lực (FA): Chia cổ tức bằng cổ phiếu để tăng vốn điều lệ.
+- Nhận định dòng tiền: Đây là tin hỗ trợ nền tảng (bullish) cho tầm nhìn dài hạn, kỳ vọng thu hút dòng vốn ngoại khi kết hợp với câu chuyện gia nhập rổ FTSE.
+- Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc kỹ thuật trong phiên.
+
+- Mã: **SSI, VND, VCB, STB**
+- Động lực (FA): Hiệu ứng từ việc thêm vào rổ FTSE.
+- Nhận định dòng tiền: Lực cầu chủ động từ các quỹ ETF ngoại sẽ tạo "bệ đỡ" cho các mã này, giảm thiểu tác động từ các rung lắc vĩ mô ngắn hạn.
+- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền ngoại trong các phiên kế tiếp để xác nhận vị thế.
