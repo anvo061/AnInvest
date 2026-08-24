@@ -1,23 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:15 - 24/08/2026
+⏱ Thời gian: 12:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dòng vốn ngoại kỳ vọng đạt 3 tỷ USD & Câu chuyện nâng hạng thị trường:** -> [Tích cực] -> Dòng tiền sẽ tập trung mạnh vào nhóm Chứng khoán (SSI, VND) và nhóm Ngân hàng vốn hóa lớn (VCB).
-- **Lãi suất huy động tăng (9%/năm cho chứng chỉ tiền gửi 6 tháng):** -> [Tiêu cực] -> Áp lực chi phí vốn lên toàn hệ thống ngân hàng; giảm tính hấp dẫn của dòng tiền đầu cơ trên thị trường chứng khoán trong ngắn hạn.
-- **Khủng hoảng BĐS Trung Quốc kéo dài:** -> [Tiêu cực] -> Gia tăng áp lực cạnh tranh giá thép và thu hẹp biên lợi nhuận xuất khẩu cho nhóm ngành Thép (HPG, HSG, NKG).
+- **Thông qua dự án đường sắt Lào Cai - Hà Nội - Hải Phòng (86.000 tỷ đồng) & Gỡ khó cho BĐS/Trái phiếu:** -> [Tác động: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm **Đầu tư công (VCG, HHV, LCG)** nhờ khối lượng việc làm đảm bảo và nhóm **Bất động sản/Ngân hàng (NVL, PDR, TCB, MBB)** nhờ kỳ vọng cải thiện thanh khoản hệ thống.
+- **Dòng vốn ngoại kỳ vọng (Nâng hạng & Đa dạng hóa EM):** -> [Tác động: Tích cực] -> Dòng tiền sẽ ưu tiên các mã **Bluechip/VN30 (VCB, VHM, SSI)**.
+- **Áp lực cạnh tranh phí môi giới & Khủng hoảng BĐS Trung Quốc:** -> [Tác động: Tiêu cực] -> Nhóm **Thép (HPG, HSG, NKG)** và các công ty chứng khoán có thị phần nhỏ sẽ chịu áp lực rung lắc/điều chỉnh trong ngắn hạn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KDH**
-    - Động lực (FA): Các tổ chức tài chính đồng loạt ra báo cáo khuyến nghị Mua.
-    - Nhận định dòng tiền: Tạo hiệu ứng tâm lý tốt cho dòng tiền cá nhân trong phiên, hỗ trợ đà tăng ngắn hạn.
-    - Hành động: Chú ý giải ngân nếu dòng tiền duy trì mức thanh khoản ổn định trên trung bình 20 phiên.
+- Mã: **VCG, HHV, LCG**
+- Động lực (FA): Quốc hội thông qua dự án đường sắt 86.000 tỷ đồng.
+- Nhận định dòng tiền: Nhận diện lực cầu tăng mạnh do yếu tố cộng hưởng từ giải ngân đầu tư công cuối năm.
+- Hành động: **Chú ý giải ngân** theo nhịp chỉnh của thị trường chung.
+- Mã: **HPG, NKG**
+- Động lực (FA): Áp lực từ thép giá rẻ Trung Quốc và khủng hoảng BĐS tại quốc gia này.
+- Nhận định dòng tiền: Áp lực bán tiềm tàng từ khối ngoại hoặc nhà đầu tư lướt sóng lo ngại rủi ro ngành thép.
+- Hành động: **Tiếp tục quan sát**, chờ kiểm định lại vùng hỗ trợ cứng.
+- Mã: **NVL, TCB**
+- Động lực (FA): Chính sách gỡ khó trái phiếu/pháp lý giúp giảm rủi ro thanh khoản.
+- Nhận định dòng tiền: Dòng tiền có tính chất "đảo chiều kỳ vọng", có thể tạo đáy trung hạn nếu chính sách đi kèm các thông tư hướng dẫn cụ thể.
+- Hành động: **Chú ý giải ngân** khi có tín hiệu dòng tiền thông minh nhập cuộc mạnh.
 
-- **Mã: NKG**
-    - Động lực (FA): Rủi ro từ khủng hoảng BĐS Trung Quốc làm suy giảm nhu cầu tiêu thụ thép xuất khẩu.
-    - Nhận định dòng tiền: Dòng tiền có xu hướng thận trọng, áp lực bán có thể gia tăng khi tin tức vĩ mô tiêu cực được hấp thụ.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát chặt vùng hỗ trợ cứng.
-
-- **Mã: SSI**
-    - Động lực (FA): Hưởng lợi kép từ dòng vốn ngoại kỳ vọng (3 tỷ USD) và kỳ vọng nâng hạng thị trường.
-    - Nhận định dòng tiền: Nhóm cổ phiếu dẫn dắt thanh khoản, dòng tiền thông minh đang có dấu hiệu gom dần.
-    - Hành động: Chú ý giải ngân theo xu hướng (trend-following).
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Hiện tại không có tin tức mới liên quan đến EIB, BSR cần xử lý trong 15 phút qua).
