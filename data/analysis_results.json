@@ -1,5 +1,56 @@
 ﻿[
   {
+    "Title": "TFC: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3hVSEVkZWRGNmNDMjI0ODlDS0l0YVh4TlRoMFh5dk9SNlR4eVF3TVRQcDd1THlDRUFQT0lGOG5CcjFwYlN3UlRGRkNKZHJjR05OMl9CYWxVRUQwbGdOLV9OMkVkTERzdFBoelhyUm9meV9BeVFyNV9oWWMzalVoQlZ5bFRqTVhha1VlZmtLVmg1NGxQLUJn?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 06:52:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động định kỳ, phản ánh tình hình tài chính ổn định của doanh nghiệp nhưng không tạo ra thay đổi đột biến về giá trị nội tại hay dòng tiền kinh doanh.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TFC. Cổ tức tiền mặt là hoạt động thường niên, không tác động mạnh đến xu hướng dòng tiền. Chỉ mang tính chất giữ chân cổ đông hiện hữu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "TFC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động chi trả cổ tức theo kế hoạch, không gây biến động lớn đến thanh khoản hay giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 01:57:09"
+  },
+  {
+    "Title": "VIC124005: Tiếp tục hỗ trợ tài chính cho các công ty con - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkw4NnJwc1ZTRVd4ZGpPd1FNajByLUE4WEN1cEoxeVczbWk3Ykd0OUQ0enF4RHJLc1R1c0Y2ZVJEYkZ4MU55T1hpdk5lYTFrX0FsS3EyVURrZkQwWmNNY0JvVlBQNzR6Wm1fRUZreU4zQVUxUk9XSExiVzh2alMwMUdMbjQydnpoXzFCVVpzNzVuNTlsSXFzdUdRcXVBWVE2VFZ0T25xT0djY1l1NFhUTlpRODlNeTl0X2tlSzNB?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 10:36:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động điều chuyển vốn nội bộ thông thường giữa công ty mẹ và các công ty con trong hệ sinh thái Vingroup, không làm thay đổi cấu trúc tài chính hợp nhất hay triển vọng kinh doanh cốt lõi.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Hoạt động điều chuyển vốn nội bộ là nghiệp vụ quản trị bình thường, không tạo ra đột biến dòng tiền hay thay đổi kỳ vọng lợi nhuận cho VIC.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động hỗ trợ tài chính nội bộ không tác động trực tiếp đến giá trị doanh nghiệp hay dòng tiền từ hoạt động kinh doanh chính."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 01:56:59"
+  },
+  {
+    "Title": "FUEFCV50: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 21/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQm4wZHBWRzJUcnZhSlJqOGpMOW5oeHlOOEZxajhRVHN1WUM2RWMwSUlYZjZYUkVteWNoalFlNEktcmU1SF9lNnRuOUFhdHFKSDQ3ck5JRGFLLVRNMlJPbTdUMlp1Zjg4eHlPMDdwTUlvMG04SUpHZjlDUEphYVRFbTM5N2tuSG95X0JPQzFRYXZ0b1FrUkFhNHFyVnVHTjhFbWRHYVkyS1QySWpTRFNGRnNNdW44X0xsMXc?oc=5",
+    "PubDate": "Fri, 21 Aug 2026 02:13:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho các mã cổ phiếu trong danh mục.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 01:56:49"
+  },
+  {
     "Title": "Oil slips ahead of US announcement of new sanctions on Iran - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
@@ -16862,56 +16913,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-18 13:23:14"
-  },
-  {
-    "Title": "SHB giảm lãi suất cho vay, góp phần thúc đẩy các động lực tăng trưởng của nền kinh tế",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//shb-giam-lai-suat-cho-vay-gop-phan-thuc-day-cac-dong-luc-tang-truong-cua-nen-kinh-te.html",
-    "PubDate": "Tue, 18 Aug 2026 06:14:41 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc SHB giảm lãi suất cho vay giúp giảm chi phí vốn cho các doanh nghiệp SME và hộ kinh doanh, thúc đẩy tăng trưởng tín dụng và cải thiện khả năng hấp thụ vốn của nền kinh tế.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Gói tín dụng ưu đãi giúp tăng dư nợ nhưng gây áp lực lên NIM. Cần theo dõi khả năng kiểm soát nợ xấu và biên lợi nhuận thực tế của SHB.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SHB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Gói tín dụng ưu đãi giúp ngân hàng tăng trưởng dư nợ tín dụng và củng cố thị phần trong phân khúc SME."
-      }
-    ],
-    "AnalyzedAt": "2026-08-18 13:22:59"
-  },
-  {
-    "Title": "NCB muốn tăng gấp đôi vốn điều lệ lên gần 62.280 tỷ đồng trong năm tới",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//ncb-muon-tang-gap-doi-von-dieu-le-len-gan-62280-ty-dong-trong-nam-toi.html",
-    "PubDate": "Tue, 18 Aug 2026 06:15:13 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc tăng vốn điều lệ giúp cải thiện hệ số an toàn vốn (CAR) và năng lực cho vay của NCB, tuy nhiên gây áp lực pha loãng cổ phiếu hiện hữu trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực. Kế hoạch tăng vốn quy mô lớn gây áp lực pha loãng EPS nghiêm trọng. Dòng tiền ngắn hạn sẽ rút lui để tránh rủi ro pha loãng và chờ đợi định giá lại.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "NVB",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Tăng vốn giúp cải thiện bảng cân đối kế toán nhưng áp lực pha loãng lớn có thể kìm hãm đà tăng giá cổ phiếu trong ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-18 13:22:42"
-  },
-  {
-    "Title": "Dữ liệu \"sạch\" và \"sống\" trở thành \"khắc tinh\" của tội phạm công nghệ cao",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//du-lieu-sach-va-song-tro-thanh-khac-tinh-cua-toi-pham-cong-nghe-cao.html",
-    "PubDate": "Tue, 18 Aug 2026 06:15:43 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc chuẩn hóa dữ liệu và ứng dụng AI giúp giảm thiểu rủi ro gian lận tài chính, tăng niềm tin của khách hàng vào hệ thống ngân hàng số và giảm chi phí dự phòng rủi ro vận hành.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tuyên truyền hành chính, không tạo ra lợi thế cạnh tranh trực tiếp hay thay đổi biên lợi nhuận cụ thể cho từng ngân hàng trong ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 13:22:14"
   }
 ]

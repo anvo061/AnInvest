@@ -1,27 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:20 ngày 25/08/2026
+⏱ Thời gian: 02:15 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới giảm do Mỹ công bố lệnh trừng phạt mới đối với Iran -> Tiêu cực -> Dòng tiền sẽ chịu áp lực bán tại nhóm Dầu khí (PVD, PVS, BSR).
-- El Niño buộc hệ thống huy động tối đa nhiệt điện khí -> Tích cực -> Dòng tiền có khả năng luân chuyển sang nhóm Điện (POW, NT2).
+- Giá dầu thế giới sụt giảm do áp lực từ thông báo lệnh trừng phạt mới của Mỹ đối với Iran -> Đánh giá tác động: Tiêu cực -> Dòng tiền ngắn hạn sẽ rút khỏi nhóm Năng lượng/Dầu khí.
+- El Niño diễn biến phức tạp thúc đẩy nhu cầu huy động điện khí -> Đánh giá tác động: Tích cực -> Dòng tiền hướng vào nhóm Tiện ích/Năng lượng điện (POW).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu sụt giảm do áp lực địa chính trị/nguồn cung.
-- Nhận định dòng tiền: Tâm lý tiêu cực ngắn hạn sẽ chiếm ưu thế, gây áp lực lên vùng giá hỗ trợ gần nhất.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục, ưu tiên quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
+- Mã: PVD, PVS
+- Động lực (FA): Giá dầu thế giới chịu áp lực giảm điểm.
+- Nhận định dòng tiền: Tâm lý thận trọng bao trùm nhóm thượng nguồn, rủi ro điều chỉnh kỹ thuật ngắn hạn do áp lực bán từ khối giao dịch thuật toán dựa trên biến số giá dầu.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế mở vị thế mua mới tại vùng hỗ trợ cho đến khi giá dầu ổn định.
 
-- Mã: **POW**
-- Động lực (FA): Hưởng lợi từ sự thiếu hụt thủy điện do El Niño, làm tăng nhu cầu huy động công suất cho nhiệt điện khí.
-- Nhận định dòng tiền: Động lực cơ bản mạnh hơn, có thể thu hút dòng tiền trú ẩn hoặc đầu cơ theo sóng ngành năng lượng.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần.
+- Mã: POW
+- Động lực (FA): Hưởng lợi từ sự thay đổi chu kỳ thời tiết (El Niño), tăng nhu cầu huy động nhiệt điện khí.
+- Nhận định dòng tiền: Dòng tiền kỳ vọng sự cải thiện biên lợi nhuận trong mùa khô, có thể tạo lực nâng đỡ giá cổ phiếu bất chấp rung lắc thị trường chung.
+- Hành động: Tiếp tục quan sát điểm Entry khi có nhịp rung lắc, chú ý khối lượng vào.
 
-- Mã: **TCB**
-- Động lực (FA): Đề xuất giảm tỷ lệ chia cổ tức bằng cổ phiếu giúp hạn chế pha loãng EPS.
-- Nhận định dòng tiền: Tác động tích cực đến tâm lý nhà đầu tư dài hạn, củng cố vị thế giá trị.
-- Hành động: Tiếp tục quan sát để tìm điểm vào tại các phiên điều chỉnh kỹ thuật.
-
-- Mã: **VIC**
-- Động lực (FA): Phê duyệt hồ sơ phát hành trái phiếu quốc tế.
-- Nhận định dòng tiền: Tích cực về mặt cấu trúc tài chính, giảm áp lực thanh khoản trong nước.
-- Hành động: Tiếp tục quan sát diễn biến thanh khoản sau tin.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: BSR
+- Nhận định: Giá dầu sụt giảm kết hợp với đặc thù vận hành của ngành lọc hóa dầu khiến rủi ro quản trị hàng tồn kho tăng cao. Với vị thế đã qua điểm rơi kỳ vọng tháng 3/2026, dữ liệu giá dầu hiện tại không đủ hỗ trợ để nắm giữ tiếp. Đề xuất: Thực hiện cơ cấu lại/chốt lời để bảo toàn vốn và chuyển hướng dòng tiền sang nhóm ngành có động lực tăng trưởng mới (như Điện).
