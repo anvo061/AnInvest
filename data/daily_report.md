@@ -1,19 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:50 - 25/08/2026
+⏱ Thời gian: 01:20 ngày 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Vingroup (VIC) đạt phê duyệt phát hành trái phiếu quốc tế -> Tác động: Tích cực -> Dòng tiền dự kiến sẽ tập trung vào nhóm Bất động sản vốn hóa lớn, giảm áp lực tâm lý về rủi ro thanh khoản ngành.
+- Giá dầu thế giới giảm do Mỹ công bố lệnh trừng phạt mới đối với Iran -> Tiêu cực -> Dòng tiền sẽ chịu áp lực bán tại nhóm Dầu khí (PVD, PVS, BSR).
+- El Niño buộc hệ thống huy động tối đa nhiệt điện khí -> Tích cực -> Dòng tiền có khả năng luân chuyển sang nhóm Điện (POW, NT2).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VIC**
-  - Động lực (FA): Được phê duyệt hồ sơ phát hành trái phiếu quốc tế.
-  - Nhận định dòng tiền: Giảm áp lực nợ vay trong nước, củng cố cấu trúc vốn. Tin tức tạo chất xúc tác cho dòng tiền ngắn hạn tìm kiếm vùng cân bằng mới cho mã vốn hóa lớn.
-  - Hành động: Chú ý giải ngân nếu có sự đồng thuận về khối lượng giao dịch trong phiên tới.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu sụt giảm do áp lực địa chính trị/nguồn cung.
+- Nhận định dòng tiền: Tâm lý tiêu cực ngắn hạn sẽ chiếm ưu thế, gây áp lực lên vùng giá hỗ trợ gần nhất.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục, ưu tiên quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
+
+- Mã: **POW**
+- Động lực (FA): Hưởng lợi từ sự thiếu hụt thủy điện do El Niño, làm tăng nhu cầu huy động công suất cho nhiệt điện khí.
+- Nhận định dòng tiền: Động lực cơ bản mạnh hơn, có thể thu hút dòng tiền trú ẩn hoặc đầu cơ theo sóng ngành năng lượng.
+- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần.
+
 - Mã: **TCB**
-  - Động lực (FA): Đề xuất hạ tỷ lệ chia cổ tức bằng cổ phiếu.
-  - Nhận định dòng tiền: Hạn chế pha loãng giúp cải thiện kỳ vọng EPS, tạo tiền đề thu hút dòng vốn đầu tư dài hạn quay trở lại nhóm Ngân hàng.
-  - Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ kỹ thuật gần nhất.
-- Mã: **HHV**
-  - Động lực (FA): Phó Thủ tướng yêu cầu kiểm tra hệ thống thu phí ETC.
-  - Nhận định dòng tiền: Áp lực tâm lý từ rủi ro thanh tra BOT có thể khiến dòng tiền ngắn hạn tạm rút lui hoặc chững lại để nghe ngóng kết quả thanh tra.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế vị thế mua mới cho đến khi có kết luận rõ ràng.
+- Động lực (FA): Đề xuất giảm tỷ lệ chia cổ tức bằng cổ phiếu giúp hạn chế pha loãng EPS.
+- Nhận định dòng tiền: Tác động tích cực đến tâm lý nhà đầu tư dài hạn, củng cố vị thế giá trị.
+- Hành động: Tiếp tục quan sát để tìm điểm vào tại các phiên điều chỉnh kỹ thuật.
+
+- Mã: **VIC**
+- Động lực (FA): Phê duyệt hồ sơ phát hành trái phiếu quốc tế.
+- Nhận định dòng tiền: Tích cực về mặt cấu trúc tài chính, giảm áp lực thanh khoản trong nước.
+- Hành động: Tiếp tục quan sát diễn biến thanh khoản sau tin.

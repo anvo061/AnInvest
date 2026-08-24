@@ -1,5 +1,79 @@
 ﻿[
   {
+    "Title": "Oil slips ahead of US announcement of new sanctions on Iran - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
+    "PubDate": "Sun, 23 Aug 2026 23:18:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Giá dầu giảm do lo ngại dư cung hoặc biến động địa chính trị, gây áp lực lên nhóm cổ phiếu dầu khí thượng nguồn tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Giá dầu giảm gây áp lực tâm lý ngắn hạn lên nhóm thượng nguồn (PVD, PVS). Cần theo dõi sát biên lợi nhuận BSR do rủi ro tồn kho.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu giảm ảnh hưởng trực tiếp đến đơn giá cho thuê giàn khoan và kỳ vọng lợi nhuận ngắn hạn."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Sự sụt giảm giá dầu làm giảm động lực đầu tư vào các dự án thăm dò khai thác mới, ảnh hưởng khối lượng công việc."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu biến động khó lường gây rủi ro cho biên lợi nhuận lọc hóa dầu và quản trị hàng tồn kho."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 01:04:27"
+  },
+  {
+    "Title": "PVI tăng vốn điều lệ lên hơn 2.500 tỷ đồng sau đợt trả cổ tức - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2dQeW5FdFk3bExfWG5DQ0toZUI5WktLSlI0TjUySzBjMGVPWTBhOExtQlFRcnFVbi1OazBESDB1Y3FzcjAydmFnTmw2UXFKMjZ5ZTJRbU5sYkZBT2s2d0U1T0lVMGJ5MlRBaEFEV1BJS3kwLXhncmtzUUFjV3Byb1pwMmRNRU92ckFLekp5YURGdC03S3Z4c1k1dmNVTWhXZXc?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 09:37:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu là hoạt động tài chính nội bộ, không làm thay đổi bản chất hoạt động kinh doanh hay dòng tiền thực tế của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bảo hiểm. Đây là nghiệp vụ điều chỉnh vốn điều lệ thông thường, không tác động đến thanh khoản hay định giá thị trường của PVI trong ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 01:04:17"
+  },
+  {
+    "Title": "NT2 - Nền tảng huy động tích cực trong chu kỳ El Niño - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTVpvb3k3eWUyZEtEa0N0enNqR2VoOTcyQndiZDFET2dhSnRBYnMtYmJGaVVxeDJsWGZRNHc4aFQtbmFWNnBTRW1pMHZ0ckYyVnVnWFczNXI4UDBSYTdseEl4Qk9idG5nTzJ1eXVCMnZVTFRoNUZXS1VreHZaSDJnOTAyTVN4ZjlGOWJsSXo5dTlkdzJIcHBCdkdWblR1aTlRbDlhRi1Bb2QwX0RscHJId1NQc1pRVVRFTXYzUVl5U2lMdEVlUzBYaUN3?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 07:23:49 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Hiện tượng El Niño làm giảm lưu lượng nước về các hồ thủy điện, buộc hệ thống phải huy động tối đa công suất từ các nhà máy nhiệt điện khí như NT2 để đảm bảo an ninh năng lượng.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. El Niño giảm thủy điện, tăng huy động nhiệt điện khí. NT2 hưởng lợi trực tiếp về sản lượng. POW là đơn vị cùng ngành nhưng cần theo dõi biên lợi nhuận cụ thể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đơn vị vận hành các nhà máy nhiệt điện khí lớn, hưởng lợi từ nhu cầu huy động cao trong mùa khô."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 01:04:00"
+  },
+  {
+    "Title": "FUEIP100: Kết thúc giao dịch hoán đổi ngày 21/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEktVVk3bVBxbUVpTmxzV3Y3c3RCMGU4bzhwZDFYbHBsbjk5QlFDLUdTNTJQUEV2NXpBTnU2Z09SQkl2V2QwZGxtWTBhN1pzWDAtWS13Q3U1cFJodXBuMEtkQ2Z4b0RJNTlaZnNiN1lrQTdkSUZFVVlfQWxCNUVlc1ZGNGQ5dnBVWkd0d1JZYmd1NGV2QlE2M0ZhMEIyckZFbEJQekpPbkhjeEdUYThFYWxycHVYQQ?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 09:10:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ thông thường của quỹ ETF, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá của các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 01:03:49"
+  },
+  {
     "Title": "VIC124005: Phê duyệt hồ sơ phát hành Trái phiếu quốc tế - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXVqLUhsbHZfY1I2ZFJQQnBLTTJPZFZxRXp4MFRxMndXSm5FOENBLVNoS3FwRk5EaGtDQWd3MUs5RE1fd0N6blRLX2JHRndOUWprcE9DS05OS0ZzU0pJYUQ3dVFPcWNMVnN2cER1dkFZQjRTYkcwbE5XQzJ0YWFjTmdiZXpUMXhmUHd5eGRYbDhKcFRmdUl3TXhFaHpCSVYwbXRoYmFaOUdMSm84QmhOc05wdXZlX0FFVEhhYQ?oc=5",
@@ -16839,57 +16913,5 @@
     "Relevance": "Cao",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-18 13:22:14"
-  },
-  {
-    "Title": "FUEKIVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 18/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0pUd1AxTVkwbUlIWnZ1a1UxNnBKOGRKRlIwYlZnaFdIWi1BLXF6QWV0bVhLRFo5UHh0RXZoTWhHYnZqZzJERzlnWHFOaUFSZzE2QkVxZnNoZzVSME1HSkNaNDAzU2c4QlJWTmI2cWdkV2lQQVNyeUF1blRvUWwxdU5OTlpxZmdCV05IYmdIaW5jZnNScm5RREY2Z0VEU0lBZHFnU2poNlpqN3JIck5nVkxubEg1ZDlpb2R4TlRCYTNNbmlOMHFldGxsMF9lXzAzLU1n?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:21:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược hay biến động bất thường của thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ định kỳ của quỹ hoán đổi danh mục, không tác động đến xu hướng dòng tiền của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 12:53:00"
-  },
-  {
-    "Title": "FUEKIV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 18/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPanVKbmhHWEhBVlMySnJ1bnhZbGdFUDdtZ0EwaG8yY2wxSEh1N2psd01OWWVETldHWENlTjhiS2RJQVlQZ2R5QnB6Wng4cmxWSnRkYlVmeGVZUDd5MU5Bd0FmVklwWDRMNjk0UDZVN3F5WVFNM1RUczM5NV9JbVppcXc0NkU5bTNRVkxZS3k5NlFRZGVXY0lWc0otZHVaNFdrMGdBbWtJb3pYSzc2YVdKWE5RYzZMSTMwQkg0QWxXQ2w0YXJEZEJ4MlJzN0llMmF1ZVVj?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:20:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi về chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi cung cầu đột biến trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 12:52:51"
-  },
-  {
-    "Title": "FUEABVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 18/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVVLdk50NUlQUi05akRmZURQNWY3bDJ3S0ZoQjdXVmp1alhfMktmc3NReGtzdjdyLXZZT1YtLWJQSi1rU0xwMW11MVVRSEtpNmFTUndOSjVSVDZBeTFZeF91cHBMM29yNFNzd2R2amVwV3N2R08yOEM0QVhxVTUtRGFKWkJscDNUUUpkSHo4SHpsLV9xZ2lhdHNxeUpMN2FPWXQyRmVBTVV6R0M4UjlpMFNlUGUtcmJ2N2o5cUtSUE5vbkNWZ0ItTGJNdUVxTFBmNjNj?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:18:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không mang tính chất thay đổi chiến lược đầu tư hay tác động đến kết quả kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Đây là hoạt động nghiệp vụ định kỳ của quỹ hoán đổi, không tạo ra biến động dòng tiền bất thường cho các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 12:52:41"
-  },
-  {
-    "Title": "VinaCapital: Cổ phiếu vẫn hấp dẫn dù lãi suất lên 9%",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/vinacapital-co-phieu-van-hap-dan-du-lai-suat-len-9-5110329.html",
-    "PubDate": "Tue, 18 Aug 2026 12:31:38 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Nhận định từ tổ chức lớn giúp củng cố tâm lý nhà đầu tư, giảm bớt lo ngại về áp lực lãi suất, hỗ trợ dòng tiền duy trì ở lại thị trường chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Nhận định từ tổ chức mang tính chất định hướng tâm lý, không phải thông tin thay đổi nội tại doanh nghiệp. Cần quan sát phản ứng dòng tiền thực tế tại nhóm Chứng khoán.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 12:52:08"
   }
 ]
