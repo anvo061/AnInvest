@@ -1,29 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 06:15 - 25/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 06:45
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Ngành Ngân hàng:** Lợi nhuận 1H2026 khả quan, NIM phục hồi nhưng bộ đệm dự phòng phân hóa mạnh -> **Đánh giá: Trung lập đến Tích cực (Phân hóa)** -> Dòng tiền sẽ tập trung vào các nhà băng có chất lượng tài sản tốt (VCB, TCB, MBB) và thận trọng với các ngân hàng áp lực nợ xấu cao (VPB, STB).
-- **Ngành Dệt may:** Phục hồi đơn hàng xuất khẩu Q2/2026 -> **Đánh giá: Tích cực** -> Dòng tiền kỳ vọng xoay chuyển sang nhóm sản xuất (TNG, MSH) nhờ biên lợi nhuận cải thiện.
-- **Rủi ro môi trường:** El Nino dự báo cực đoan -> **Đánh giá: Tiêu cực** -> Gây áp lực chi phí đầu vào ngành nông nghiệp và rủi ro giảm công suất cho nhóm thủy điện (REE, HAG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tín dụng & Xuất khẩu:** Ngành Ngân hàng (MBB, VCB, TCB) ghi nhận tăng trưởng tín dụng và NIM phục hồi tích cực trong 1H2026; Ngành Dệt may (TNG, MSH) phục hồi đơn hàng xuất khẩu Q2/2026. -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh sang nhóm Tài chính - Ngân hàng và các doanh nghiệp sản xuất xuất khẩu chủ lực.
+- **Biến đổi khí hậu (El Nino):** Dự báo El Nino cực đoan tại Trung Quốc và khu vực gây rủi ro mất cân đối thủy điện và năng suất nông nghiệp. -> **Tiêu cực** -> Tạo rủi ro chi phí đầu vào và sụt giảm sản lượng cho nhóm Năng lượng tái tạo/Thủy điện (REE) và Nông nghiệp (HAG).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: MBB**
-  - **Động lực (FA):** Tăng trưởng tín dụng mạnh, NIM phục hồi củng cố biên lợi nhuận.
-  - **Nhận định dòng tiền:** Củng cố xu hướng tích cực, thu hút dòng tiền trung - dài hạn.
-  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: MBB, TCB, VCB**
+  - Động lực (FA): Báo cáo 1H2026 xác nhận tăng trưởng tín dụng tốt và NIM phục hồi.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn sẽ tập trung vào nhóm ngân hàng quốc doanh và các ngân hàng có quản trị rủi ro tốt trong bối cảnh SMEs đang gặp khó khăn về nợ.
+  - Hành động: Chú ý giải ngân theo nhịp chỉnh kỹ thuật.
 - **Mã: TNG, MSH**
-  - **Động lực (FA):** Đơn hàng xuất khẩu phục hồi, hiệu quả chi phí cải thiện trong Q2.
-  - **Nhận định dòng tiền:** Tích cực, dòng tiền sẽ tìm đến nhóm có tăng trưởng thực thay vì đầu cơ.
-  - **Hành động:** Tiếp tục quan sát điểm vào lệnh theo kỹ thuật.
-- **Mã: VCB, TCB**
-  - **Động lực (FA):** Vị thế đầu ngành, hưởng lợi NIM, bộ đệm dự phòng an toàn.
-  - **Nhận định dòng tiền:** Ổn định, đóng vai trò dẫn dắt dòng tiền trụ.
-  - **Hành động:** Tiếp tục quan sát.
-- **Mã: VPB, STB**
-  - **Động lực (FA):** Bộ đệm dự phòng mỏng, áp lực nợ xấu từ bán lẻ.
-  - **Nhận định dòng tiền:** Áp lực cung tiềm ẩn, hạn chế giải ngân đuổi.
-  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro.
+  - Động lực (FA): Phục hồi đơn hàng xuất khẩu Q2/2026 bền vững.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ có xu hướng dịch chuyển từ nhóm Midcap khác sang nhóm có nền tảng xuất khẩu hưởng lợi từ thị trường Mỹ.
+  - Hành động: Tiếp tục nắm giữ, theo dõi vùng kháng cự.
+- **Mã: REE, HAG**
+  - Động lực (FA): Cảnh báo El Nino cực đoan.
+  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại về rủi ro vận hành (thủy điện) và chi phí đầu vào (nông nghiệp).
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát áp lực cung tại các vùng hỗ trợ cứng.
 - **Mã: HCM**
-  - **Động lực (FA):** Lãnh đạo nội bộ đăng ký bán 250.000 cp.
-  - **Nhận định dòng tiền:** Tâm lý thận trọng ngắn hạn cho khối nhà đầu tư cá nhân.
-  - **Hành động:** Tiếp tục quan sát phản ứng tại vùng hỗ trợ gần nhất.
+  - Động lực (FA): Cổ đông nội bộ đăng ký bán 250.000 cp.
+  - Nhận định dòng tiền: Dù khối lượng không lớn, nhưng gây nhiễu tâm lý ngắn hạn.
+  - Hành động: Tiếp tục quan sát, chưa nên gia tăng tỷ trọng cho đến khi hấp thụ hết lượng cung nội bộ.
