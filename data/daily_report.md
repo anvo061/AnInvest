@@ -1,21 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:15 ngày 24/08/2026
+⏱ Thời gian: 19:55 - 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Cơ chế ngân hàng:** NHNN siết chặt thanh tra song song với nới lỏng tỷ lệ an toàn vốn -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, TCB, MBB)** do dư địa mở rộng tín dụng chất lượng cao.
-- **Chi phí vận hành:** Phụ phí nhiên liệu tăng làm đội phí logistics -> **Tiêu cực** -> Áp lực biên lợi nhuận lên nhóm **Bán lẻ (MWG) và FMCG (MSN)**.
-- **Thanh khoản thị trường:** Dòng vốn ngoại bán ròng 200 tỷ đồng phiên đầu tuần -> **Tiêu cực** -> Rủi ro tâm lý ngắn hạn cho nhóm **Bluechips**.
+- VN-Index áp sát vùng 1.800 điểm: Tâm lý hưng phấn ngắn hạn kích thích dòng tiền F0, tạo lực đỡ cho nhóm vốn hóa lớn (Bluechips) và nhóm Chứng khoán bất chấp áp lực bán ròng từ khối ngoại.
+- Phụ phí nhiên liệu tăng: Tác động tiêu cực trực tiếp đến biên lợi nhuận của nhóm ngành Bán lẻ và Logistics.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCB, TCB, MBB**
-    - Động lực (FA): Hưởng lợi trực tiếp từ chính sách nới tỷ lệ an toàn vốn, giúp tối ưu hóa tăng trưởng tín dụng.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh dịch chuyển vào nhóm tài chính nhờ kỳ vọng nới room tín dụng.
-    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo áp lực bán ròng chung của thị trường.
-- **Mã: MWG, MSN**
-    - Động lực (FA): Chi phí logistics tăng gây sức ép lên biên lợi nhuận gộp.
-    - Nhận định dòng tiền: Rủi ro áp lực bán gia tăng trong ngắn hạn khi thị trường phản ứng với tin tức chi phí đầu vào.
-    - Hành động: Tiếp tục quan sát; hạn chế bắt đáy cho đến khi biên lợi nhuận được đánh giá lại.
-- **Mã: LTG**
-    - Động lực (FA): Chính thức hủy niêm yết bắt buộc.
-    - Nhận định dòng tiền: Rủi ro thanh khoản nghiêm trọng.
-    - Hành động: Thoát vị thế (nếu còn nắm giữ) bằng mọi giá trước khi đình chỉ giao dịch.
+- Mã: **MWG, MSN**
+- Động lực (FA): Phụ phí nhiên liệu/logistics tăng làm đội chi phí vận chuyển.
+- Nhận định dòng tiền: Tạo áp lực điều chỉnh lên biên lợi nhuận gộp trong ngắn hạn, dòng tiền có thể sẽ thận trọng hoặc rút bớt khỏi các mã tiêu dùng có tỷ trọng chi phí logistic cao.
+- Hành động: Theo dõi sát áp lực bán tại vùng hỗ trợ kỹ thuật; hạn chế giải ngân mới đối với các mã này cho đến khi có dữ liệu cân bằng chi phí.
+
+- Mã: **LTG**
+- Động lực (FA): Hủy niêm yết bắt buộc do chậm nộp BCTC.
+- Nhận định dòng tiền: Rủi ro thanh khoản nghiêm trọng, mất hoàn toàn khả năng giao dịch trên sàn tập trung.
+- Hành động: Không còn vị thế (cổ đông cần lưu ý rủi ro mất thanh khoản/vốn hóa).
