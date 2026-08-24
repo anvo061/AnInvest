@@ -1,16 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:15 - 25/08/2026
+⏱ Thời gian: 00:50 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hà Nội đề xuất hỗ trợ tài chính cho hộ gia đình lắp điện mặt trời mái nhà -> Tích cực -> Nhóm ngành năng lượng tái tạo và thiết bị điện (Hưởng lợi từ kích cầu tiêu dùng hạ tầng xanh).
+- Vingroup (VIC) đạt phê duyệt phát hành trái phiếu quốc tế -> Tác động: Tích cực -> Dòng tiền dự kiến sẽ tập trung vào nhóm Bất động sản vốn hóa lớn, giảm áp lực tâm lý về rủi ro thanh khoản ngành.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VIC**
+  - Động lực (FA): Được phê duyệt hồ sơ phát hành trái phiếu quốc tế.
+  - Nhận định dòng tiền: Giảm áp lực nợ vay trong nước, củng cố cấu trúc vốn. Tin tức tạo chất xúc tác cho dòng tiền ngắn hạn tìm kiếm vùng cân bằng mới cho mã vốn hóa lớn.
+  - Hành động: Chú ý giải ngân nếu có sự đồng thuận về khối lượng giao dịch trong phiên tới.
 - Mã: **TCB**
-- Động lực (FA): Công bố định hướng giảm tỷ lệ chia cổ tức bằng cổ phiếu để hạn chế pha loãng.
-- Nhận định dòng tiền: Tích cực. Việc tập trung bảo vệ giá trị EPS sẽ thu hút dòng vốn đầu tư giá trị, giảm áp lực cung pha loãng ngắn hạn.
-- Hành động: Chú ý theo dõi phản ứng tại vùng hỗ trợ kỹ thuật; cân nhắc gia tăng tỷ trọng nếu có tín hiệu dòng tiền thông minh vào mạnh.
-
+  - Động lực (FA): Đề xuất hạ tỷ lệ chia cổ tức bằng cổ phiếu.
+  - Nhận định dòng tiền: Hạn chế pha loãng giúp cải thiện kỳ vọng EPS, tạo tiền đề thu hút dòng vốn đầu tư dài hạn quay trở lại nhóm Ngân hàng.
+  - Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ kỹ thuật gần nhất.
 - Mã: **HHV**
-- Động lực (FA): Phó Thủ tướng yêu cầu kiểm tra toàn diện hệ thống thu phí tự động (ETC).
-- Nhận định dòng tiền: Tiêu cực. Rủi ro từ thanh tra dự án BOT có thể tạo tâm lý thận trọng, gây áp lực bán ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, cân nhắc giảm tỷ trọng nếu giá vi phạm các đường MA hỗ trợ gần nhất.
+  - Động lực (FA): Phó Thủ tướng yêu cầu kiểm tra hệ thống thu phí ETC.
+  - Nhận định dòng tiền: Áp lực tâm lý từ rủi ro thanh tra BOT có thể khiến dòng tiền ngắn hạn tạm rút lui hoặc chững lại để nghe ngóng kết quả thanh tra.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế vị thế mua mới cho đến khi có kết luận rõ ràng.
