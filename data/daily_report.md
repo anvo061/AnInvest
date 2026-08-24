@@ -1,28 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:00 - 25/08/2026
+⏱ Thời gian: 04:10 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thông tin nâng hạng thị trường:** Dự báo hút hơn 4 tỷ USD vốn thụ động sau nâng hạng -> **Tích cực** -> Dòng tiền ưu tiên nhóm vốn hóa lớn (Blue-chips), đặc biệt là Ngân hàng, Bất động sản và Chứng khoán.
-- **Biến động giá dầu:** Giá dầu giảm do lo ngại lệnh trừng phạt Iran -> **Tiêu cực** -> Dòng tiền ngắn hạn áp lực lên nhóm Dầu khí thượng nguồn (PVD, PVS).
-- **Điều kiện thời tiết (El Niño):** Huy động nhiệt điện khí tăng cao -> **Tích cực** -> Dòng tiền hướng vào nhóm Điện (POW, NT2).
+- **Tiềm năng dòng vốn ngoại:** Thông tin khả năng hút hơn 4 tỷ USD vốn thụ động sau nâng hạng thị trường -> **Tích cực** -> Dòng tiền sẽ hướng mạnh vào nhóm vốn hóa lớn (Bluechips) và nhóm ngành chứng khoán.
+- **Giá nhiên liệu hạ nhiệt:** Giá dầu giảm trên thị trường quốc tế -> **Tích cực cho nhóm vận tải (Hàng không)** nhờ cải thiện biên lợi nhuận gộp, nhưng **Tiêu cực cho nhóm Dầu khí thượng nguồn (PVD, PVS)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-    - Động lực (FA): Hưởng lợi trực tiếp từ thanh khoản tăng và dòng vốn ngoại sau nâng hạng.
-    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tích lũy trước các cột mốc vĩ mô.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
-- **Mã: PVD**
-    - Động lực (FA): Áp lực giảm từ giá dầu quốc tế.
-    - Nhận định dòng tiền: Rủi ro hụt hơi trong ngắn hạn do tâm lý tiêu cực từ giá dầu thế giới.
-    - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ cứng.
-- **Mã: MSH**
-    - Động lực (FA): Linh hoạt đa dạng hóa thị trường, giảm lệ thuộc thị trường Mỹ.
-    - Nhận định dòng tiền: Duy trì ổn định, là điểm trú ẩn an toàn khi thị trường biến động.
-    - Hành động: Tiếp tục quan sát để tìm điểm gia tăng vị thế.
-- **Mã: POW**
-    - Động lực (FA): Hưởng lợi từ sự thiếu hụt thủy điện trong chu kỳ El Niño.
-    - Nhận định dòng tiền: Hợp lưu tích cực từ dữ liệu ngành năng lượng.
-    - Hành động: Chú ý giải ngân theo trend tăng.
+- **Mã:** HVN
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ việc giá nhiên liệu bay hạ nhiệt.
+  - **Nhận định dòng tiền:** Cải thiện biên lợi nhuận gộp tạo kỳ vọng kết quả kinh doanh quý tới tốt hơn, dự kiến thu hút dòng tiền đầu cơ ngắn hạn.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền phiên sáng xác nhận vượt vùng kháng cự kỹ thuật.
+- **Mã:** SSI, VHM, VCB
+  - **Động lực (FA):** Kỳ vọng dòng vốn ngoại 4 tỷ USD sau nâng hạng.
+  - **Nhận định dòng tiền:** Các mã trọng số lớn (VN30) sẽ là đích đến ưu tiên của dòng vốn khối ngoại, củng cố xu hướng tăng trung hạn.
+  - **Hành động:** Tiếp tục nắm giữ, ưu tiên tích lũy tại các nhịp điều chỉnh trong phiên.
+- **Mã:** PVD, PVS
+  - **Động lực (FA):** Giá dầu thế giới sụt giảm do áp lực địa chính trị/trừng phạt.
+  - **Nhận định dòng tiền:** Áp lực bán kỹ thuật gia tăng khi giá dầu giảm ảnh hưởng đến kỳ vọng giá thuê giàn khoan và khối lượng công việc.
+  - **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát mốc hỗ trợ cứng.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã BSR:** Dữ liệu vĩ mô (giá dầu giảm) đang tạo áp lực trực tiếp lên biên lợi nhuận. Cần đối chiếu với ngưỡng kỹ thuật tháng 6/2026; nếu giá dầu tiếp tục xu hướng giảm, xem xét chốt lời sớm để tránh bào mòn thành quả giai đoạn trước.
+- **Mã: BSR**
+  - **Nhận định:** Dữ liệu hiện tại xác nhận giá đã phản ánh các kỳ vọng ngắn hạn, cộng thêm rủi ro từ biến động giá dầu thế giới. Với vị thế đang nắm giữ từ kỳ vọng trung hạn, khuyến nghị: **Cơ cấu lại/Chốt lời chủ động** để chuyển dòng tiền sang các nhóm ngành có câu chuyện tăng trưởng mới (như nhóm chứng khoán hoặc hàng không hưởng lợi từ vĩ mô hiện tại) thay vì chờ đợi sự phục hồi từ dự án mới.
