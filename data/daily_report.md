@@ -1,22 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:45
+⏱ Thời gian: 19:15 ngày 24/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN siết thanh tra song song với nới lỏng tỷ lệ an toàn vốn: -> [Đánh giá tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm Ngân hàng (VCB, TCB, MBB, CTG) nhờ kỳ vọng tăng trưởng tín dụng và cải thiện chất lượng tài sản].
-- Hủy niêm yết bắt buộc đối với LTG: -> [Đánh giá tác động: Tiêu cực] -> [Rủi ro thanh khoản lan tỏa trong nhóm cổ phiếu nông nghiệp/doanh nghiệp quản trị tài chính yếu].
+- **Cơ chế ngân hàng:** NHNN siết chặt thanh tra song song với nới lỏng tỷ lệ an toàn vốn -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, TCB, MBB)** do dư địa mở rộng tín dụng chất lượng cao.
+- **Chi phí vận hành:** Phụ phí nhiên liệu tăng làm đội phí logistics -> **Tiêu cực** -> Áp lực biên lợi nhuận lên nhóm **Bán lẻ (MWG) và FMCG (MSN)**.
+- **Thanh khoản thị trường:** Dòng vốn ngoại bán ròng 200 tỷ đồng phiên đầu tuần -> **Tiêu cực** -> Rủi ro tâm lý ngắn hạn cho nhóm **Bluechips**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: CTG
-- Động lực (FA): Thông báo đấu giá tài sản bảo đảm Xuyên Việt Oil thu hồi gần 1.800 tỷ đồng.
-- Nhận định dòng tiền: Tác động trực tiếp vào kỳ vọng hoàn nhập dự phòng và làm đẹp bảng cân đối kế toán. Dòng tiền phản ứng tích cực với tin tức thu hồi nợ xấu quy mô lớn.
-- Hành động: Chú ý giải ngân nếu giá test hỗ trợ thành công.
-
-- Mã: VCB, TCB, MBB
-- Động lực (FA): Cơ chế nới tỷ lệ an toàn vốn (vĩ mô).
-- Nhận định dòng tiền: Nhóm cổ phiếu ngân hàng đầu ngành có bệ đỡ chính sách, kỳ vọng dẫn dắt chỉ số.
-- Hành động: Tiếp tục quan sát đà tăng, ưu tiên nắm giữ tỷ trọng phù hợp.
-
-- Mã: LTG
-- Động lực (FA): Thông tin hủy niêm yết bắt buộc.
-- Nhận định dòng tiền: Áp lực bán tháo cực lớn do rủi ro mất thanh khoản sàn niêm yết.
-- Hành động: Rủi ro vi phạm kịch bản đầu tư, khuyến nghị thoát vị thế ngay khi có thể.
+- **Mã: VCB, TCB, MBB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ chính sách nới tỷ lệ an toàn vốn, giúp tối ưu hóa tăng trưởng tín dụng.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh dịch chuyển vào nhóm tài chính nhờ kỳ vọng nới room tín dụng.
+    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo áp lực bán ròng chung của thị trường.
+- **Mã: MWG, MSN**
+    - Động lực (FA): Chi phí logistics tăng gây sức ép lên biên lợi nhuận gộp.
+    - Nhận định dòng tiền: Rủi ro áp lực bán gia tăng trong ngắn hạn khi thị trường phản ứng với tin tức chi phí đầu vào.
+    - Hành động: Tiếp tục quan sát; hạn chế bắt đáy cho đến khi biên lợi nhuận được đánh giá lại.
+- **Mã: LTG**
+    - Động lực (FA): Chính thức hủy niêm yết bắt buộc.
+    - Nhận định dòng tiền: Rủi ro thanh khoản nghiêm trọng.
+    - Hành động: Thoát vị thế (nếu còn nắm giữ) bằng mọi giá trước khi đình chỉ giao dịch.
