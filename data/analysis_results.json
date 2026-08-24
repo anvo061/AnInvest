@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap - Bloomberg",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGJlc2ZpZVQwTi1kN25XVEtmcU9zcnJRYlJITmd2Zm55QzN2alBmRE1tM0VGZmRtLUoxZkhmOXpMVjF5UllxTElDdDZfN3YzOUROR3RDR1BPMUxkZDNMMWs5STFEaF9QdnItandiYy10UHdZTk9sN1VTUDBVZ3hNQXJCWWdPZ0JsbXNxMUhWNGhRWHJs?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 22:09:52 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Áp lực bán tháo từ nhóm công nghệ Mỹ lan tỏa tâm lý tiêu cực lên các thị trường chứng khoán châu Á, gây áp lực điều chỉnh ngắn hạn lên nhóm cổ phiếu công nghệ và tâm lý nhà đầu tư tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Công nghệ. Áp lực bán tháo từ Mỹ gây tâm lý thận trọng ngắn hạn lên nhóm công nghệ Việt Nam. Cần theo dõi sát dòng tiền khối ngoại tại FPT.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "FPT",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tâm lý tiêu cực từ nhóm công nghệ toàn cầu có thể kích hoạt áp lực chốt lời ngắn hạn sau giai đoạn tăng trưởng mạnh."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 06:55:15"
+  },
+  {
     "Title": "Vé xe khách dịp 2/9 tăng tới 40%, có tuyến lên gần 1 triệu đồng",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/ve-xe-khach-dip-2-9-tang-toi-40-co-tuyen-len-gan-1-trieu-dong-2548646.html",
@@ -16946,18 +16965,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-18 17:04:35"
-  },
-  {
-    "Title": "VIG: Thông báo Giấy phép điều chỉnh giấy phép thành lập và hoạt động kinh doanh chứng khoán - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYlFSSlgwa1Fmd2lRRGlJN203cGhSa1p5dmJsZWtRWXExdFM1X3lwcnI3aHVMejZ0VmptbmNyWk1rUDJadG83dmU5Wjhtcmg3c3BlQjAySVF2X056Z1pFcnZ2TXFCWUt6SkNyVi02LWh1dHBfQWhnaXBhLW1jS011TEhtNXUyLXBCc1h0RGl0SElfMVNqWnpKaXlOcUtQcG9FOGNqRE4wYUV3bHRPZ3Juc2NnSXRJVnB5djNHTi1YeEdYMVc0blZyc1hYX1dISEFqYUtqNWdnSV9RZkg0SUNrcmVuUl8?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 09:48:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc điều chỉnh giấy phép hoạt động của công ty chứng khoán, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Việc điều chỉnh giấy phép là thủ tục hành chính định kỳ, không tạo ra thay đổi về năng lực tài chính hay thị phần. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 17:04:23"
   }
 ]
