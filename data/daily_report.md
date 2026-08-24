@@ -1,25 +1,28 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 04:30 - 25/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 05:00 - 25/08/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thông tin nâng hạng thị trường (Dự kiến hút 4 tỷ USD vốn thụ động):** Tác động tích cực tới định giá thị trường và thanh khoản nhóm vốn hóa lớn (Bluechips) -> **Dòng tiền hướng tới:** Nhóm Ngân hàng (VCB, BID) và Chứng khoán (SSI).
-- **Xu hướng triển khai pin lưu trữ (BESS) trong ngành Điện:** Tác động tích cực đến hiệu suất các doanh nghiệp năng lượng tái tạo -> **Dòng tiền hướng tới:** Nhóm Điện (REE, GEG).
-- **Biến động chi phí nhiên liệu bay:** Giá nhiên liệu hạ nhiệt hỗ trợ biên lợi nhuận nhóm hàng không -> **Dòng tiền hướng tới:** HVN.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Hiện tượng El Nino cực đoan dự báo mạnh nhất:** -> **Tiêu cực** cho nhóm Năng lượng thủy điện và Nông nghiệp do rủi ro thiếu hụt nguồn nước và chi phí đầu vào tăng.
+- **Phát triển hạ tầng pin lưu trữ (BESS) ngành điện:** -> **Tích cực** cho nhóm năng lượng tái tạo, giúp tối ưu hóa hiệu suất truyền tải và giảm cắt giảm công suất.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: HVN**
-    - Động lực (FA): Hưởng lợi trực tiếp từ việc chi phí nhiên liệu bay giảm, cải thiện biên lợi nhuận gộp.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ gia tăng sự chú ý do câu chuyện phục hồi lợi nhuận rõ rệt.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật ngắn hạn.
+    - Động lực (FA): Giá nhiên liệu bay hạ nhiệt giúp cải thiện trực tiếp biên lợi nhuận gộp.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn phản ứng tích cực với thông tin tối ưu hóa chi phí vận hành.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
 - **Mã: VNF**
     - Động lực (FA): Cổ đông lớn (Transimex) đăng ký mua thêm 1 triệu cổ phiếu.
-    - Nhận định dòng tiền: Giảm nguồn cung trôi nổi, tạo tâm lý tích cực ngắn hạn.
-    - Hành động: Tiếp tục quan sát phản ứng của lực cầu tại vùng giá hỗ trợ.
-- **Mã: VCB, BID**
-    - Động lực (FA): NIM cải thiện/phục hồi, kết hợp câu chuyện nâng hạng thị trường.
-    - Nhận định dòng tiền: Dòng vốn ngoại thụ động sẽ ưu tiên tích lũy các mã này.
-    - Hành động: Chú ý giải ngân cho danh mục trung-dài hạn.
+    - Nhận định dòng tiền: Tín hiệu cô đặc cung, củng cố nền tảng giá.
+    - Hành động: Theo dõi sát sao khối lượng giao dịch trong phiên để xác nhận lực cầu chủ động.
+- **Mã: REE**
+    - Động lực (FA): Tin tức phân hóa giữa rủi ro thủy điện (El Nino) và cơ hội từ hạ tầng pin lưu trữ.
+    - Nhận định dòng tiền: Áp lực tâm lý từ tin El Nino có thể gây nhiễu, cần thận trọng trước biến động cung cầu.
+    - Hành động: Tiếp tục quan sát, chưa vội hành động cho đến khi xu hướng kỹ thuật ổn định lại.
+- **Mã: VCB, TCB, BID**
+    - Động lực (FA): NIM cải thiện tích cực trong Q2/2026.
+    - Nhận định dòng tiền: Nhóm cổ phiếu ngân hàng trụ cột có triển vọng dẫn dắt dòng tiền nhờ dữ liệu cơ bản ổn định.
+    - Hành động: Chú ý giải ngân các nhịp rung lắc.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
+🔄 3. Cảnh báo Tái cơ cấu:
 - **Mã: BSR**
-    - Nhận định: Dữ liệu hiện tại xác nhận giá đã phản ánh các kỳ vọng ngắn hạn. Với tầm nhìn đến tháng 6/2026, chưa có động lực bứt phá mới (kết quả kinh doanh/dự án). Kiến nghị thực hiện chiến lược **chốt lời/cơ cấu lại dòng tiền** sang các nhóm ngành có kỳ vọng tăng trưởng biên lợi nhuận rõ ràng hơn (như Hàng không hoặc năng lượng mới) để tối ưu hóa hiệu suất vốn.
+    - Nhận định: Dữ liệu hiện tại cho thấy định giá đã phản ánh kỳ vọng ngắn hạn. Với vị thế đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu hiện tại chưa đủ mạnh để tiếp tục giữ. Khuyến nghị cân nhắc chốt lời để đảo dòng tiền sang các nhóm ngành có động lực tăng trưởng mới (như năng lượng tái tạo hoặc nhóm vận tải hàng không hưởng lợi từ chi phí nhiên liệu).

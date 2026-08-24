@@ -1,5 +1,68 @@
 ﻿[
   {
+    "Title": "China forecasts strongest El Nino event as sea temperatures rise - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakhEWlNJVVV4aEVnZU9wa3lNZktiOS1PcVM3VnVhZVZCVVl2ZU5pQnBnekV2M3lnRmFHZTBYeG5ZRlA1U01rSkVjaTVoNnhCMUhZSUplQ29lMV9tbWhKWTJpMGpqcmdjOE9RZzVGaXF1T01wbXpuUG5hbWlUZXBRdlk5S2VrSE5MM19ra3ZZS0J6Tm40T1NyUHhSUGxHdWpibkhKaVRRUjVQbE4tM2lsRVNJREtuRnFwYnc?oc=5",
+    "PubDate": "Tue, 18 Aug 2026 16:08:24 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Hiện tượng El Nino cực đoan gây hạn hán, ảnh hưởng tiêu cực đến sản lượng nông nghiệp và thủy điện, đồng thời làm tăng chi phí đầu vào cho các ngành sản xuất liên quan.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. El Nino gây hạn hán, đe dọa sản lượng thủy điện và nông nghiệp. Cần thận trọng với nhóm thủy điện (REE) và nông nghiệp (HAG). POW chủ yếu là nhiệt điện, tác động gián tiếp thấp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Danh mục đầu tư thủy điện bị ảnh hưởng tiêu cực bởi tình trạng thiếu hụt nguồn nước."
+      },
+      {
+        "Ticker": "HAG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thời tiết cực đoan gây rủi ro cho năng suất cây trồng và chi phí chăm sóc nông nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 04:51:02"
+  },
+  {
+    "Title": "Báo cáo chuyên đề hàng hóa Quý 3 năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG9ncXpnNjFHdG4zbGpXWkVJbFdlLUZFQlVNT1RqOFZyUTNoWndBNjQxWC1GcVBqaXNfdGtXaF9feHNnWm0wVXQ4V1d5VG5rRURnN0w2S3JlbEVReDdmOG5vZlJxRER5LXFXenA1LTMtSktLUHpHdEVnN0UyYU9rVjlsaDVfRjc5cGgwSXl1SDZ2MnlONFB6b19md1ltQzd3ZGlWbA?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 03:39:10 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là báo cáo tổng hợp thông tin thị trường hàng hóa, không chứa các dữ liệu định lượng cụ thể hay thay đổi chính sách tác động trực tiếp đến biên lợi nhuận của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Báo cáo mang tính chất tổng hợp thông tin, không tạo ra biến động dòng tiền tức thời cho các mã cổ phiếu hàng hóa.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 04:50:50"
+  },
+  {
+    "Title": "FUESSVFL: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 24/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMExCbWdXSFo4emZNZ0dySUFlM09uUjFiZHVSZ0FIcjRFZzQ0M00wRXFCZjBnQjVjX3hEWjJ0T1FFUWhGaThhdm9vWXYxTFJKMHNyVnFsaDFFNzRPZjN1WFRGWlRrTmtHeE9aTFlCV0JmLWhOOXlhOF80QmpraXp3MlhORXVfbUkyVlR2dXBWaHpmamhzX1pJSlktXzZjOTlqTFBrNkRLZ1cwbnF1Q0lubVhRcUJwLWxSVUlFLVRRZm1mVlhnVGVWdXB0Wl9meDBrQzFv?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 02:19:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 04:50:41"
+  },
+  {
+    "Title": "FUESSVFL: Kết thúc giao dịch hoán đổi ngày 21/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2FnZDZFQnNSdV85cGhVMmJyNHkyZDBLeDRVT3F6YzVYbUVUc25vZXdmcFBYNGoyWTI4UmZZU1JNaWE0ZG4wRXdEX3BnMUUyZnJxWVZWNEZOcUR4emZlcXIyN1FQR1hYUGd6NWZRRlBuSXFWUE5mLXBDa3Q5RThaanpzbXZ2a3lOb3lmbkU5SWNiUnJLWDZ3Rm45MHVOcXFfQVZSd3RFSWstQ2ZDTXVKbU4xQzU0UQ?oc=5",
+    "PubDate": "Mon, 24 Aug 2026 09:37:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hoạt động nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ hoán đổi chứng chỉ quỹ định kỳ, không tác động đến cung cầu cổ phiếu thành phần trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 04:50:31"
+  },
+  {
     "Title": "Transimex tiếp tục đăng ký mua vào 1 triệu cổ phiếu VNF - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDV6Vjh5UlBuak80aERsVndLUGFaRGJzWUFGUk9OQXk5VE56cTZiWlNOSHBYWG9uTi1EV1VzWTN2M1RuMlhjRWtXcjZ6RHVraDhaZXdaNld1bU8yRUdscHpfaVRJWG44MmFLcXdhWHA5bzJZYllJZ1ozc016ZXlwNXpJWWhYalBtVDMyVGxjVkRoSnMxeHNTQWlaNA?oc=5",
@@ -16917,73 +16980,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-18 16:00:36"
-  },
-  {
-    "Title": "Nhóm dầu khí hút tiền, câu chuyện cơ cấu vốn Nhà nước nóng lên",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//nhom-dau-khi-hut-tien-cau-chuyen-co-cau-von-nha-nuoc-nong-len.html",
-    "PubDate": "Tue, 18 Aug 2026 08:21:55 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Thông tin thoái vốn Nhà nước tạo động lực tăng giá mạnh mẽ, thu hút dòng tiền đầu cơ và khối ngoại vào các doanh nghiệp đầu ngành dầu khí nhờ kỳ vọng cải thiện hiệu quả quản trị và chia cổ tức.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Tin thoái vốn kích hoạt dòng tiền đầu cơ. Lưu ý: BSR là vị thế quá hạn từ tháng 3/2026, cần ưu tiên tái cơ cấu danh mục thay vì gia tăng tỷ trọng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PLX",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Kế hoạch bán vốn Nhà nước tạo kỳ vọng thay đổi cấu trúc sở hữu và tăng giá trị doanh nghiệp."
-      },
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp đầu ngành với lượng tiền mặt lớn, thoái vốn thu hút sự quan tâm của dòng tiền lớn."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Kỳ vọng thoái vốn Nhà nước giúp đẩy nhanh quá trình niêm yết/chuyển sàn và cải thiện minh bạch tài chính."
-      }
-    ],
-    "AnalyzedAt": "2026-08-18 16:00:21"
-  },
-  {
-    "Title": "FUEVFVND: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JLam1LdEtSY2JkUkZWdEFwd1hQN2Fscm02cWEzSDRvZDVsWHlGWk1hd1hhUFkxM1ZLVGRwM1pvcmFwTHVGT0lEdERIRFgzNGR6NFhlX0c0X2lmaUp2cm4zRFJ2MUpJLXgzRlRLcjFvRVRTOTJKRGt4MnBrRU4xUHBIUV9FaWtkYy1EUzFpclVJcDRlVHFULWNhRW5KUHJsOGJmd0M1TlZFRE5zS2FxbWZPX0lqby1QdUFmbUZhdFpDYm9ZOHI3aEtqUC00WVhKeVNjY1JYSEMxU0dwSmFmZ2FSQQ?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:33:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo hành chính về thay đổi niêm yết chứng chỉ quỹ, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Thay đổi niêm yết là thủ tục hành chính định kỳ, không làm thay đổi cấu trúc danh mục hay dòng tiền của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 15:23:10"
-  },
-  {
-    "Title": "FUESSV30: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaXl6MVJWQTR0cHlLLWpxVUNmVW5RTk5TTlRYRTluQVNqTXR1M01XamdWRmQzdGIxMGNpcnZXTDVjclRsN1lJYUdpcTNsZ2Z3VHRYNVhCMVdnUFkxN0dCaHlpcUZBOEwwUG9uQjkyamdENU1EMnJIMThWTlROZGJ1U2xXT0JSOG10ZlRpWGRsQk5sLVl4UDFhTGdqTk05N3VvMW5PTmNfaXltdmNNOG5TY0k2QTh4SnE0bDJUTXZsb2txaFhTVndWU3NlWUJSRndKRlVZanBLOGtKVTFWeUNBc2QwRQ?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:33:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo hành chính về thay đổi niêm yết chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Thay đổi niêm yết là thủ tục hành chính định kỳ, không tạo ra biến động dòng tiền đáng kể cho các cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 15:23:00"
-  },
-  {
-    "Title": "UPS: Báo cáo tài chính bán niên năm 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXpHek5pUVBZRHdMX2hZNGdpR3NpSFlncDJEM1M3VVk4bVJfbnNMRlpSdkg4Rlgwb3hsUkoxZVUwQm01WDhfV2pxYlN4eTkzZ0FQcEJrODBXTVExZnBpSkk1WDlrSnlqMHctSk1kWVZIZjN5ZTFidkwwN3VISkxFSlhSaGN1cTBEUnpaVUVvenZwSGRrenhtVFdQeTNCc1l3?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 08:08:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc công bố báo cáo tài chính bán niên là nghĩa vụ định kỳ của doanh nghiệp, không chứa đựng thông tin đột biến về kết quả kinh doanh hay thay đổi chiến lược ảnh hưởng đến dòng tiền thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Báo cáo tài chính định kỳ không tạo biến động dòng tiền. Nhà đầu tư cần chờ đợi các chỉ số tài chính cụ thể để đánh giá lại vị thế.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 15:22:48"
   }
 ]
