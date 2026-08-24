@@ -1,20 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 08:30 - 24/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 09:25
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lo ngại lạm phát tại Mỹ (Fed) & Giá dầu tăng:** Tác động **Tiêu cực** đến tâm lý thị trường, gây áp lực tỷ giá và kỳ vọng lãi suất. Dòng tiền có xu hướng thận trọng, trú ẩn vào các doanh nghiệp có lượng tiền mặt lớn hoặc nhóm năng lượng thượng nguồn.
-- **Kích thích tài khóa từ Trung Quốc:** Tác động **Tích cực** cục bộ lên nhóm nguyên vật liệu và xuất khẩu, tạo đối trọng với áp lực suy thoái từ thị trường Mỹ.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Giá dầu thế giới tăng trên 2 USD/thùng do rủi ro địa chính trị tại Iran -> [Tích cực] -> Dòng tiền sẽ hướng vào nhóm dầu khí thượng nguồn (PVD, PVS).
+- Chi phí than cốc toàn cầu gia tăng gây áp lực biên lợi nhuận ngành thép -> [Tiêu cực] -> Nhóm thép (HPG, HSG, NKG) cần thận trọng với áp lực chi phí đầu vào.
+- Tín dụng BĐS tiếp tục được khơi thông bởi các ngân hàng lớn -> [Tích cực] -> Dòng tiền kỳ vọng xoay trục sang nhóm ngân hàng (VCB, TCB, MBB) và BĐS có tài sản sạch (VHM).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: NKG**
-  - Động lực (FA): Giá than cốc (đầu vào) tăng mạnh làm thu hẹp biên lợi nhuận, trong khi cầu xuất khẩu sang Mỹ có dấu hiệu suy yếu.
-  - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng khi thị trường phản ứng với rủi ro chi phí đẩy.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu giá mất vùng hỗ trợ ngắn hạn.
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu duy trì mức cao 4 tuần thúc đẩy giá thuê giàn khoan.
-  - Nhận định dòng tiền: Dòng tiền luân chuyển vào nhóm năng lượng để trú ẩn và tìm kiếm lợi nhuận từ biến động giá dầu.
-  - Hành động: **Tiếp tục quan sát**, nắm giữ vị thế có lợi, theo dõi sát diễn biến địa chính trị Trung Đông.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **PVD**
+  - Động lực (FA): Giá dầu thế giới tăng mạnh (+2 USD), gia tăng giá trị cho thuê giàn khoan quốc tế.
+  - Nhận định dòng tiền: Nhóm thượng nguồn thường nhạy sóng với tin giá dầu; kỳ vọng dòng tiền đầu cơ sẽ đẩy khối lượng giao dịch tăng đột biến.
+  - Hành động: Chú ý giải ngân theo đà tăng.
+- Mã: **NKG**
+  - Động lực (FA): Áp lực tăng chi phí than cốc từ thị trường quốc tế làm thu hẹp biên lợi nhuận gộp.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể sẽ rút lui hoặc đứng ngoài để chờ định giá lại vùng hỗ trợ.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng tại các vùng hỗ trợ cứng.
+- Mã: **KBC**
+  - Động lực (FA): Dự án sân bay Gia Bình tạo động lực mới cho quỹ đất KCN tại Bắc Ninh.
+  - Nhận định dòng tiền: Tin tức mang tính chất củng cố FA dài hạn, thu hút dòng vốn trung hạn, dự báo biến động giá sẽ bền vững hơn thay vì tăng sốc.
+  - Hành động: Tiếp tục quan sát nhịp điều chỉnh để gia tăng vị thế.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã: BSR**
-  - Nhận định: Dữ liệu giá dầu tăng đang hỗ trợ trực tiếp biên lợi nhuận lọc dầu và giá trị hàng tồn kho. Đối với vị thế trung hạn, đây là thời điểm giữ để tối ưu lợi nhuận theo sóng năng lượng. Chưa cần cơ cấu đảo dòng tiền ngay lúc này, tiếp tục nắm giữ theo chiến lược kỳ hạn tháng 3/2026.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Tin tức giá dầu tăng giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Tuy nhiên, ở thời điểm tháng 8/2026, cần đối chiếu với điểm rơi kế hoạch thoái vốn/chuyển sàn. Với dữ liệu giá dầu thuận lợi, giữ vị thế để tối ưu hóa lợi nhuận kỳ vọng trong ngắn hạn.
