@@ -1,16 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:50 - 26/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 01:20 ngày 26/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị tại Trung Đông (Mỹ siết gọng kìm kinh tế với Iran) gia tăng rủi ro đứt gãy nguồn cung dầu toàn cầu -> [Đánh giá tác động: Tiêu cực] -> [Dòng tiền phòng thủ sẽ hướng vào nhóm Năng lượng thượng nguồn (PVD), tuy nhiên áp lực chi phí đầu vào sẽ gây bất lợi cho nhóm Sản xuất].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Khả năng tiếp cận tín dụng SME suy yếu:** Chỉ <10% doanh nghiệp vừa và nhỏ vay được vốn -> **Tiêu cực** -> Dòng tiền thận trọng với nhóm **Ngân hàng (Ngành tài chính)**, đặc biệt các ngân hàng có tỷ trọng cho vay SME cao.
+- **Căng thẳng địa chính trị Trung Đông (Mỹ - Iran):** Rủi ro gián đoạn nguồn cung dầu toàn cầu -> **Tiêu cực** -> Áp lực lên chi phí đầu vào của các doanh nghiệp sản xuất.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PNJ**
-- Động lực (FA): Dòng vốn ETF vàng toàn cầu đạt đỉnh 6 tháng, phản ánh nhu cầu trú ẩn an toàn, củng cố vị thế giá vàng và biên lợi nhuận kinh doanh vàng trang sức.
-- Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng trung hạn, giảm thiểu rủi ro điều chỉnh khi thị trường chung đang có tâm lý tiêu cực.
-- Hành động: Tiếp tục quan sát điểm vào lệnh theo kỹ thuật tại các vùng hỗ trợ cứng, tận dụng nhịp rung lắc của thị trường để gia tăng tỷ trọng.
-
-- Mã: **PVD**
-- Động lực (FA): Căng thẳng địa chính trị Iran - Mỹ gây áp lực tăng giá dầu Brent.
-- Nhận định dòng tiền: Nhạy sóng với biến động giá dầu; dòng tiền đầu cơ sẽ có xu hướng tìm đến nhóm P khi biến động địa chính trị leo thang.
-- Hành động: Chú ý giải ngân nếu giá dầu thế giới giữ đà tăng trong phiên giao dịch tới; sẵn sàng cắt lỗ nếu kịch bản căng thẳng hạ nhiệt đột ngột.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VHM**
+    - **Động lực (FA):** FTSE giải ngân vào rổ cổ phiếu vốn hóa lớn.
+    - **Nhận định dòng tiền:** Lực cầu chủ động từ quỹ ngoại sẽ cải thiện thanh khoản và tạo hỗ trợ cứng cho VHM trong ngắn hạn, bất chấp tâm lý thị trường chung đang yếu.
+    - **Hành động:** Chú ý giải ngân theo dòng tiền khối ngoại, theo dõi sát vùng hỗ trợ.
+- **Mã: VPB, MBB**
+    - **Động lực (FA):** Khả năng hấp thụ vốn của khối SME thấp, áp lực nợ xấu gia tăng.
+    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn có thể chịu áp lực bán do lo ngại về tăng trưởng tín dụng và chất lượng tài sản.
+    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên quan sát phản ứng tại vùng nền giá cũ.
+- **Mã: PNJ**
+    - **Động lực (FA):** Quỹ ETF vàng toàn cầu tăng nắm giữ lên cao nhất 6 tháng, tâm lý trú ẩn an toàn.
+    - **Nhận định dòng tiền:** Hưởng lợi từ sự ổn định của giá vàng, dòng tiền đầu cơ trú ẩn có thể tìm đến PNJ.
+    - **Hành động:** Tiếp tục quan sát để tìm điểm gia tăng tỷ trọng nếu có tín hiệu dòng tiền mạnh.
