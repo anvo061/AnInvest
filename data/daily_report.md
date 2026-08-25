@@ -1,28 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:10 - 26/08/2026
+⏱ Thời gian: 02:30 - 26/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng thương mại Mỹ-Canada leo thang (thuế quan 50%) và áp lực địa chính trị Trung Đông làm gia tăng rủi ro đứt gãy chuỗi cung ứng toàn cầu -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi nhóm Xuất khẩu (Thủy sản, Dệt may) và thận trọng với nhóm Sản xuất chịu áp lực chi phí đầu vào.
-- Tỷ lệ tiếp cận vốn của doanh nghiệp SME thấp (dưới 10%) -> **Tiêu cực** -> Rủi ro nợ xấu gia tăng, gây áp lực lên nhóm Ngân hàng có tỷ trọng cho vay SME lớn.
-- Dòng vốn ngoại từ FTSE tập trung vào vốn hóa lớn -> **Tích cực** -> Dòng tiền ngắn hạn có xu hướng phân hóa mạnh về các mã Bluechip được thêm mới.
+- **Căng thẳng thương mại Mỹ - Canada:** Thuế quan 50% từ phía Canada làm dấy lên rủi ro đứt gãy chuỗi cung ứng toàn cầu. -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng thận trọng với nhóm ngành xuất khẩu chủ lực sang khu vực Bắc Mỹ (Thủy sản, Dệt may).
+- **Khả năng hấp thụ vốn SME suy yếu:** Chỉ dưới 10% doanh nghiệp vừa và nhỏ vay được vốn. -> Đánh giá: **Tiêu cực** -> Dòng tiền nhóm Ngân hàng thương mại (đặc biệt là các ngân hàng có tỷ trọng cho vay SME/cá nhân cao) đối mặt với áp lực rủi ro nợ xấu và tăng trưởng tín dụng chậm lại.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VHM**
-- Động lực (FA): FTSE giải ngân vào cổ phiếu vốn hóa lớn, VHM là điểm đến dòng tiền.
-- Nhận định dòng tiền: Lực cầu chủ động từ khối ngoại sẽ cải thiện thanh khoản và tạo hỗ trợ cứng cho xu hướng giá ngắn hạn.
-- Hành động: Chú ý giải ngân theo nhịp rung lắc kỹ thuật.
-
-- Mã: **VHC, TNG**
-- Động lực (FA): Rủi ro từ thuế quan Canada-Mỹ làm suy giảm đơn hàng và nhu cầu thị trường Bắc Mỹ.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn do tâm lý lo ngại rủi ro vĩ mô; dòng tiền có khả năng rút lui hoặc đứng ngoài.
-- Hành động: Rủi ro vi phạm kịch bản; cân nhắc hạ tỷ trọng nếu thủng hỗ trợ gần nhất.
-
-- Mã: **VPB, MBB**
-- Động lực (FA): Khả năng hấp thụ vốn của nhóm SME thấp, trực tiếp ảnh hưởng đến chỉ tiêu tăng trưởng tín dụng.
-- Nhận định dòng tiền: Dòng tiền e ngại rủi ro nợ xấu sẽ khiến áp lực cung quanh vùng giá hiện tại khó bị phá vỡ.
-- Hành động: Tiếp tục quan sát; hạn chế gia tăng vị thế.
-
-- Mã: **PNJ**
-- Động lực (FA): Giá vàng thế giới hưởng lợi từ tâm lý trú ẩn an toàn (căng thẳng địa chính trị).
-- Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển sang nhóm phòng thủ khi thị trường có biến động tiêu cực từ vĩ mô.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
+- **Mã: VSC**
+  - Động lực (FA): Hai Phó Tổng giám đốc đăng ký bán hết cổ phiếu.
+  - Nhận định dòng tiền: Tín hiệu nội bộ tiêu cực mạnh, gây tâm lý hoang mang, khả năng cao xuất hiện lực bán tháo từ cổ đông nhỏ lẻ trong ngắn hạn.
+  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu giá thủng các mốc hỗ trợ kỹ thuật gần nhất.
+- **Mã: VHM**
+  - Động lực (FA): Hưởng lợi từ dòng tiền giải ngân của quỹ FTSE.
+  - Nhận định dòng tiền: Lực cầu chủ động từ quỹ ngoại sẽ cải thiện thanh khoản và tạo đệm đỡ cho thị giá.
+  - Hành động: **Chú ý giải ngân** theo nhịp giải ngân của khối ngoại, theo dõi sát các vùng cản tâm lý.
+- **Mã: VHC, TNG**
+  - Động lực (FA): Rủi ro từ thương chiến Mỹ - Canada.
+  - Nhận định dòng tiền: Dòng tiền có thể rút ra để trú ẩn hoặc chuyển dịch sang các nhóm ngành không chịu ảnh hưởng trực tiếp từ xuất khẩu.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu cân bằng.
+- **Mã: PNJ**
+  - Động lực (FA): Giá vàng thế giới tăng, lượng nắm giữ của các quỹ ETF vàng toàn cầu đạt đỉnh 6 tháng.
+  - Nhận định dòng tiền: Hỗ trợ tích cực cho kỳ vọng biên lợi nhuận, dòng tiền có thể phân hóa tìm đến các nhóm hưởng lợi từ xu hướng trú ẩn.
+  - Hành động: **Tiếp tục quan sát** vùng tích lũy.
