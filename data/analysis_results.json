@@ -1,5 +1,97 @@
 ﻿[
   {
+    "Title": "Iran vows to retaliate after US widens sanctions - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 00:57:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Căng thẳng địa chính trị leo thang tại Trung Đông gây áp lực lên giá dầu thế giới, làm tăng chi phí đầu vào cho các ngành vận tải và sản xuất, đồng thời gây tâm lý e ngại rủi ro trên thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Căng thẳng địa chính trị đẩy giá dầu tăng, gây áp lực chi phí cho nhóm vận tải. Dòng tiền có xu hướng trú ẩn, PVD/PVS hưởng lợi ngắn hạn từ giá dầu.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu tăng do căng thẳng địa chính trị hỗ trợ giá dịch vụ khoan và nhu cầu thăm dò khai thác."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ giá dầu neo cao, thúc đẩy các dự án dịch vụ kỹ thuật dầu khí."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu tăng làm tăng chi phí vận hành đội tàu, gây áp lực lên biên lợi nhuận gộp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 15:31:15"
+  },
+  {
+    "Title": "FUEKIV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 25/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1dtOWNxcWxzaFB0aktETVpkcTBtdUtMVVJXUk9GQ0xjbWlnSkNzUlFGR0pqMDllU3psbEUzTVhDXzVnNHNEYVV5SXU5MXAwT3JyTDN0Yi1Od3hEanFDcE4xVUVmQ2t6UGpsUkFteHp6RUFSXzA2anB4UzBtWmZkMEpWUUR4bi1veWZ5S25Zb215eHl2azVfcG1PSHJFbGlPdGNQdUFQbTdwSVVOUkVCd0EzTS16ZnJkOWNZMjZqcHFlSzhhZWhCZG5ETFpHTGQ2bkZj?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 02:15:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không mang tính chất thay đổi chiến lược hay tác động đến hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra biến động dòng tiền bất thường cho các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 15:31:05"
+  },
+  {
+    "Title": "Các đại gia 'lấn sân' ngân hàng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hOFE0S3cyRXRRVlpEZzlHQWROelBHdUhWbXJhZUFJZUhKQnBpVC13T0dnZUl6QTdvMkNnX1NZSWoxQU9BamVVclFoeGFMUV8zOWxqVE1ud0dEdGV3RXVzUk5UYkpaSjYtdGg0OGs1Q3dHT2VfcERlVw?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 07:16:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính chất tổng hợp về xu hướng sở hữu chéo và đầu tư vào ngân hàng của các tập đoàn, không phản ánh thay đổi cụ thể về chính sách hay hoạt động kinh doanh của các mã niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Tin tức mang tính chất quan sát thị trường, không có tác động trực tiếp đến dòng tiền hay biên lợi nhuận của các ngân hàng niêm yết trong ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 15:30:56"
+  },
+  {
+    "Title": "Doanh nghiệp trăm năm tuổi trên sàn chứng khoán \"chơi lớn\" trả gần 700 tỷ tiền cổ tức - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1ZybnpsY0JuWDQ5cFpWQUtzNEZmeXhIX2FkYnhIUWN1b0toeEdQUHBSaEMycW5PTTNycEUtcEtDSUNXTFlXUS1JSnlZLXFmUXJpVGRFSjE2TlJYVjFKODBFeFQxYXRoMjhxSWdOWHVMUndoV3I1R3BPUHNSZmZmajN0NnNjbEhzMVBJSEdWWlJOQ2p5ZEtmcUdXZUpTOUo3RXZRZVp3UVh2ZElvNUsyRkxiWHk2aXZfMTZBN1N0VFk?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 07:53:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chi trả cổ tức tiền mặt lớn khẳng định sức khỏe tài chính vững mạnh và cam kết chia sẻ lợi nhuận với cổ đông, thường tạo tâm lý tích cực cho nhà đầu tư dài hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR, thiếu thông tin định danh doanh nghiệp cụ thể. Không tác động trực tiếp đến dòng tiền thị trường hay biến động giá ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 15:30:35"
+  },
+  {
+    "Title": "Vingroup dẫn đầu danh sách doanh nghiệp tư nhân nộp ngân sách",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vingroup-dan-dan-danh-sach-doanh-nghiep-tu-nhan-nop-ngan-sach-2548963.html",
+    "PubDate": "Tue, 25 Aug 2026 15:15:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Thông tin về nghĩa vụ nộp ngân sách phản ánh quy mô hoạt động lớn của doanh nghiệp, tuy nhiên không tác động trực tiếp đến biên lợi nhuận hay dòng tiền kinh doanh cốt lõi trong ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS/Sản xuất. Đây là thông tin định tính về quy mô, không thay đổi cấu trúc tài chính hay kỳ vọng tăng trưởng lợi nhuận. Dòng tiền sẽ không phản ứng mạnh.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Thông tin mang tính chất ghi nhận đóng góp ngân sách, không ảnh hưởng trực tiếp đến kết quả kinh doanh hay định giá cổ phiếu."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Là công ty con chủ chốt, việc nộp ngân sách lớn phản ánh quy mô nhưng không tạo ra biến động dòng tiền đột biến."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 15:29:11"
+  },
+  {
     "Title": "What are Iran's options to escalate further in face of US economic threats? - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGFGMTVQeVJDUktZSTktQ3J4a290eEU1SWxLYk1pZEdjWENHYUtBUkt2dVA2MDBpbmwydUpoYi1xbWcxQzg3QTRDdXlvQ3hTUkZxWk11RlFzTjNncmszdWtEZTgyaS1jTXdVc0pjVF9pSDFZYkhOYXVYZndWWTd2endMTThjcVBuMjQzVDhVU3U0VFlFZ2REVmtIcS1PMUZ2ZzhKZkY1dnY2T2RyUEwxRDNvcW9ZdVZLRkE?oc=5",
@@ -16924,70 +17016,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-19 00:17:35"
-  },
-  {
-    "Title": "Vietnam to Step Up Actions to Tame Gold Market, Combat Smuggling - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHpJXzhWSTJuMzhpRnpaa2JkTXcwVDhCbU5HTkJBNHF1VWZoYlhMendleXkxcHBXVmpabHRGMVZOWGlwMHZEMmZKaDJoOVhaOTU3NGVKUzNPX19wMzhINW1hZDdGUlFBamFYLV9IdXhhUGVoN0hkYl9KVUd1bVg1SlBYSmVzM3ZfTEw2QmV3M0x2bXhDbzdweUdhOHE4RV9CRUlxYXdqN3czY1RKRG1BWlBmazk?oc=5",
-    "PubDate": "Sat, 06 Apr 2024 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc kiểm soát thị trường vàng nhằm ổn định vĩ mô và tỷ giá, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Đây là động thái quản lý vĩ mô nhằm ổn định tỷ giá, không tạo ra dòng tiền trực tiếp cho các mã cổ phiếu niêm yết. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 23:55:15"
-  },
-  {
-    "Title": "FUEKIVND: Kết thúc giao dịch hoán đổi ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3B5UV94TW5DUngtLWZPNXpRNVdpYXVIeERCV1cycnJERWg4S2VicVN3elpaLVR1OFJqcXFiOUdER2E3TDZWaGlScFdDYXRRRWlFM0QtWlZiSC1jbDd2QlJuY2pMQTBjT25IMksyWjFEdlpleUpVQ0ZnSHVvcVdWMXFwYUVpcUlvWWdVelE5WFU5M0lwNF9uSXgwN3BmN09DNGtNTl9PTnpEWmFtaThYWGlsZXpOQQ?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 09:56:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến giá trị tài sản ròng (NAV) hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ thông thường của quỹ hoán đổi, không gây biến động dòng tiền trên thị trường cơ sở. Bỏ qua tác động.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 23:54:55"
-  },
-  {
-    "Title": "FUEMAVND: Thông báo thay đổi giá trị tài sản ròng ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcl9zQVJ3cmpHcWFNVWxPWjdma19FSmstQjFpcC1UOThRcnktMVpMdzB6eGNldmIwN3J5Q0ZkcVJKX3JsZmxOaURwYTJ6XzRlSk9YWV9admNGMWJEbk5DRjNObVRXaG9kaHVZYzNFaHlmeTNaT2FJRDJiLUsxQXNlMU4yeWJSeEk3UUNTd2ZicldEWU9qVFVQZ0lmUEVBWHVrajE5dVV2aG5ueFBzMFJsbmVJemNUUjlUWml0QUpXZTZYVkhEdHc?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 10:24:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về biến động giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược của các doanh nghiệp thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 23:54:45"
-  },
-  {
-    "Title": "FUEMAV30: Kết thúc giao dịch hoán đổi ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakx2cGl6YUJfX2s5c3FEZHREWjVsSDgtNF9HbFV3M2lqelJMMzBCNXpSYVdwektUdmszRXI3aHFPRk5RV005cGJvRzV3cHhrUEFWWGJxcnFLeFczTnpKODhSZ1NOeHBWTDEzcnlJUXp5Ymx5SW51eTdjdWp2T3N6a0ttMUJXWGs2TFEtZU9jUXpHbGdqLU1VeHF4QXJjUmlFcXVZdnJFaF9Jb0xnNG5rMHlTN2JjUQ?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 09:56:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính định kỳ liên quan đến hoạt động hoán đổi danh mục của quỹ ETF, không gây tác động trực tiếp đến giá trị nội tại hay hoạt động kinh doanh của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Hoạt động hoán đổi ETF là nghiệp vụ định kỳ, không làm thay đổi cung cầu thực tế của các mã cổ phiếu thành phần. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 23:54:26"
-  },
-  {
-    "Title": "FUEVN100: Thông báo thay đổi giá trị tài sản ròng ngày 17/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkR1WUhxU21SYXVwYmI2Yk05cHhoRFJmNzVVZVJNTk9iRUowLS01eDFqUHgyU1owLWVQNmtXNnZmdDZqLTFDME94cXNtcll5QlQtdFQ2eVJkajRaTlcyRXZXU0VTMnBMZ3o5azIxUU9KVEZwLV95VXpubzd4b2l5WTNMZTV6TGV4NGxja3BIalhMNHNqMlJiMUxHdXNoMXM0YlRUUnFsTEJEODRWUVdmeVRNRWlIY2c1blppcndSXzNoOTdMcXc?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 09:45:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay chiến lược của các doanh nghiệp thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 23:18:11"
   }
 ]
