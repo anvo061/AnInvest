@@ -2,22 +2,20 @@
 ⏱ Thời gian: 03:00 - 26/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng thương mại Mỹ-Canada (thuế quan 50%) leo thang -> [Tác động: Tiêu cực] -> [Dòng tiền nhóm Xuất khẩu (Thủy sản, Dệt may) chịu áp lực rung lắc ngắn hạn].
-- Khó khăn trong tiếp cận vốn của doanh nghiệp SME (tỷ lệ giải ngân < 10%) -> [Tác động: Tiêu cực] -> [Dòng tiền nhóm Ngân hàng bán lẻ (VPB, MBB) có thể chịu áp lực điều chỉnh do lo ngại rủi ro nợ xấu].
-- FTSE chuẩn bị giải ngân -> [Tác động: Tích cực] -> [Dòng tiền nhóm vốn hóa lớn (VHM) được hỗ trợ thanh khoản và xu hướng giá].
+- Căng thẳng thương mại Mỹ-Canada (thuế quan 50%) và khó khăn trong tiếp cận tín dụng của khối SME -> [Đánh giá: Tiêu cực] -> [Dòng tiền ngắn hạn: Áp lực bán lên nhóm xuất khẩu (VHC, TNG) và nhóm ngân hàng có dư nợ SME cao (VPB, MBB)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VSC
-- Động lực (FA): Hai Phó Tổng giám đốc đăng ký bán hết cổ phiếu.
-- Nhận định dòng tiền: Tạo tín hiệu thoát hàng từ người nội bộ, khả năng cao gây áp lực cung mạnh trong ngắn hạn, kích hoạt tâm lý lo ngại cho nhà đầu tư cá nhân.
-- Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, hạ tỷ trọng đối với vị thế đang nắm giữ.
+- Mã: **VSC**
+- Động lực (FA): Hai Phó Tổng giám đốc đăng ký bán hết toàn bộ cổ phiếu nắm giữ.
+- Nhận định dòng tiền: Tín hiệu nội bộ tiêu cực mạnh, tạo tâm lý hoang mang và áp lực bán tháo chủ động từ cổ đông nhỏ lẻ trong các phiên tới.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
 
-- Mã: VHM
+- Mã: **VHM**
 - Động lực (FA): Hưởng lợi từ dòng tiền giải ngân của quỹ FTSE.
-- Nhận định dòng tiền: Dòng tiền chủ động từ khối ngoại sẽ hỗ trợ nâng đỡ thị giá, cải thiện tính thanh khoản.
-- Hành động: **Tiếp tục quan sát** phản ứng giá tại các vùng hỗ trợ cứng để tìm điểm gia tăng vị thế.
+- Nhận định dòng tiền: Lực cầu chủ động từ khối ngoại giúp cải thiện thanh khoản và neo giữ thị giá trong ngắn hạn.
+- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ để đón sóng dòng tiền ETF.
 
-- Mã: VHC, TNG
-- Động lực (FA): Rủi ro từ xung đột thương mại Mỹ-Canada tác động chuỗi cung ứng.
-- Nhận định dòng tiền: Áp lực bán tiềm tàng từ lo ngại gián đoạn đơn hàng.
-- Hành động: **Tiếp tục quan sát** sát sao diễn biến thị giá, tạm dừng giải ngân mới.
+- Mã: **EMS**
+- Động lực (FA): Ngày GDKHQ trả cổ tức tiền mặt (1.000đ/cp).
+- Nhận định dòng tiền: Phản ánh sức khỏe tài chính ổn định, thu hút dòng tiền đầu tư dài hạn (value investing).
+- Hành động: Chú ý giải ngân cho danh mục đầu tư giá trị, tận dụng các nhịp điều chỉnh kỹ thuật sau GDKHQ.
