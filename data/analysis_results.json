@@ -1,5 +1,81 @@
 ﻿[
   {
+    "Title": "FUETCC50: Kết thúc giao dịch hoán đổi ngày 24/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGVVWS1vdlRtdTBkWU5TXzEycXZBUkVDbG9iWV9EaERRMkwxaW1uRGg4QUp6aDA0eUhxTHU4SmJrc0VqaE1wZkFBZndMVlprUWVUbE1ieXUzNlVNSC03SlFRYmZJWXoxUXZPeVJXRnFyNHNDWTR6aWZuX2pfVGlIN0E0eloxaXpXWk5sdUNwY0F3cWFGaGlwM2FUbkVPRkJONzQtV1JMeG5yaW9mYXp3WlZJOFlzQQ?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 10:09:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần trong danh mục.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Quỹ ETF. Đây là hoạt động nghiệp vụ bình thường của quỹ hoán đổi, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 22:02:41"
+  },
+  {
+    "Title": "FUESSV50: Kết thúc giao dịch hoán đổi ngày 24/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGpLVnJHY190MmdnX0stUnJoZ3JnN2VXc2JmZ0J1d3lBM1NOOFpsdHhlR2N1S0FuYWFDNFJMUnBfc3pQN24tV3FrWjV0d1QyMGs1LTVOVnR0WDBMV1c3S0hmaEYySnVmWXc3bW1mQjRDZm9NWElsLVlBNmw0b2NQWFlvTDhWb1VPdFBiQm9Ba0VVcnBQYXNCcmh0dnk0Ukc2dUZCUGRjYVQxLUJ5Ti1wNlZ1dXJuZw?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 10:24:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không phản ánh thay đổi trong danh mục đầu tư hay tác động đến giá trị nội tại của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ thông thường của quỹ ETF, không tạo ra biến động dòng tiền đáng kể trên thị trường cơ sở.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 22:02:31"
+  },
+  {
+    "Title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3I2ZC1qN2FvdEdtVTN5OXN6akE1cWdHal8zN1MwVV9IemlLUG9VNFpQeXd3UGxUWVZxVGp0Y1lManEwbmE0YWZSVG0zb3p4LWtiaFc5QmxkMVNNZGxpLXJxbHBtNWMxQXNGVXBVX0pkSkxldVVpVm00OXRnZk00a1FVa2V5dF9IRS0w?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 14:21:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Hiện tượng chỉ số tăng nhờ nhóm vốn hóa lớn (Bluechips) trong khi đa số cổ phiếu giảm cho thấy sự phân hóa mạnh, dòng tiền đang tập trung vào trụ để giữ nhịp thị trường thay vì lan tỏa.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Chỉ số tăng nhờ trụ che đậy sự suy yếu diện rộng. Dòng tiền thiếu lan tỏa, rủi ro điều chỉnh ở nhóm Midcap/Smallcap tăng cao. Khuyến nghị: Hạ tỷ trọng, hạn chế mua mới.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thường là mã trụ chính được dùng để điều tiết chỉ số VN-Index trong các phiên phân hóa."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn có tác động mạnh đến chỉ số, thường được kéo để giữ điểm số thị trường."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 22:02:16"
+  },
+  {
+    "Title": "Công ty sản xuất thuốc nhỏ mắt Natri clorid 0,9% không đạt 'độ trong' bị xử phạt",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/cong-ty-san-xuat-thuoc-nho-mat-natri-clorid-09-khong-dat-do-trong-bi-xu-phat-100260825173153613.htm",
+    "PubDate": "8/25/2026 5:54:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin xử phạt hành chính đối với một doanh nghiệp dược phẩm quy mô nhỏ, không niêm yết trên sàn chứng khoán, không gây tác động lan tỏa đến nhóm ngành dược phẩm niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Dược. Tin tức xử phạt doanh nghiệp không niêm yết, không ảnh hưởng đến dòng tiền của các mã dược phẩm lớn trên sàn. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 22:02:06"
+  },
+  {
+    "Title": "Chủ tịch TP Huế: Không phát triển thêm thủy điện nhỏ",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chu-tich-tp-hue-khong-phat-trien-them-thuy-dien-nho-100260825193356011.htm",
+    "PubDate": "8/25/2026 8:01:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính chất định hướng quy hoạch địa phương, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp thủy điện niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thủy điện. Đây là định hướng quy hoạch tại địa phương, không ảnh hưởng đến các dự án hiện hữu của các doanh nghiệp niêm yết. Dòng tiền không phản ứng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 22:01:57"
+  },
+  {
     "Title": "FUEVN100: Kết thúc giao dịch hoán đổi ngày 24/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1pvTkNpZ0pQcmxJeDFiRW9JZldrbXNjLU1XeHMzTmh6SDlCMF9wYnh1TTRmTV9RcUpIek1uWGZJWDI0SlFTMllFd3doT2VMYXRWWjBFS21Xb1Bia1hCWG9tUlBzY1NVcVBELTI5VkpvWVRUYlQ5YXlvRjdxdElBaGxLd3F5UjlGcVNPRlFwdmZzaU5zZEZFSkJETjFURVlobmlNa1ZJSE96MHdmVTY0UGFmbkhMZw?oc=5",
@@ -16759,113 +16835,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-19 12:01:19"
-  },
-  {
-    "Title": "Doanh nghiệp liên quan Vinhomes phát hành hơn 2 tỷ USD trái phiếu trong một quý",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/doanh-nghiep-lien-quan-vinhomes-phat-hanh-hon-2-ty-usd-trai-phieu-trong-mot-quy-5110200.html",
-    "PubDate": "Tue, 18 Aug 2026 04:04:04 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc huy động vốn thành công quy mô lớn khẳng định năng lực tài chính và khả năng tiếp cận vốn quốc tế của hệ sinh thái Vinhomes, giúp đảm bảo tiến độ các dự án trọng điểm.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Huy động vốn lớn làm tăng áp lực chi phí tài chính và nợ vay dài hạn. Cần theo dõi sát tiến độ giải ngân và biên lợi nhuận thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đảm bảo nguồn lực tài chính cho các dự án quy mô lớn, giảm áp lực thanh khoản ngắn hạn."
-      },
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Củng cố sức khỏe tài chính cho tập đoàn mẹ, giảm rủi ro nợ vay trong hệ sinh thái."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 12:00:54"
-  },
-  {
-    "Title": "Quyền tài sản được đảm bảo khi nhà chung cư hết hạn sử dụng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/quyen-tai-san-duoc-het-han-su-dung-5110710.html",
-    "PubDate": "Wed, 19 Aug 2026 11:44:37 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc làm rõ quyền tài sản giúp củng cố niềm tin của người mua nhà, giảm rủi ro pháp lý cho các dự án chung cư, từ đó hỗ trợ thanh khoản cho phân khúc căn hộ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính pháp lý định hướng dài hạn, chưa tạo đột biến dòng tiền ngắn hạn. Cần theo dõi tiến độ thực thi cụ thể tại từng dự án.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Củng cố niềm tin người mua đối với các dự án chung cư quy mô lớn, hỗ trợ tiến độ bán hàng."
-      },
-      {
-        "Ticker": "KDH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng tính hấp dẫn cho các dự án căn hộ cao cấp, giúp đẩy nhanh tốc độ hấp thụ sản phẩm."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 12:00:38"
-  },
-  {
-    "Title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 15:18:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -6,
-    "MarketImpact": "Căng thẳng địa chính trị tại eo biển Hormuz gây áp lực lên giá dầu thế giới, làm tăng chi phí đầu vào cho các ngành vận tải và sản xuất, đồng thời gây bất ổn tâm lý thị trường tài chính toàn cầu.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí và Vận tải. Căng thẳng eo biển Hormuz đẩy giá dầu biến động mạnh. Rủi ro chi phí vận hành tăng cao cho nhóm Logistics, áp lực biên lợi nhuận ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng do căng thẳng địa chính trị thường thúc đẩy kỳ vọng tăng giá dịch vụ khoan dầu khí."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ kỳ vọng giá dầu neo cao thúc đẩy các dự án thăm dò và khai thác."
-      },
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chi phí vận tải và giá nhiên liệu tăng gây áp lực lên biên lợi nhuận ngành cảng biển và logistics."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu tăng trực tiếp làm tăng chi phí vận hành đội tàu, ảnh hưởng tiêu cực đến lợi nhuận."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 11:31:40"
-  },
-  {
-    "Title": "FUEMAVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 19/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTlXNUJscEc4YWRwcVZEbzRRbFppazlRcFViaEJabVpybFpOdGthVTlDc3NJa3dKMTdRWkZ1bDAtWlFCNDRxbnBfcDMtWkpwMVpEMDhrV3RWcFQ2SXFPaTZFbURTSTFtSzQwblRDZHR5ckRhNHJBYkZTbTFEMGdJRXpmTlJLaXJHOEZ5M280NS1CTkZDUlZtQk9yaHFaUU1DSkRFVlFES2FFX3RsSUctbWd1WkEteWFPQTFNTlpfU21SdDhrVzdmbXB1dDlDcklqS1VN?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 02:07:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu hoán đổi của quỹ ETF, không mang tính chất tin tức vĩ mô hay thay đổi hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra biến động dòng tiền bất thường cho các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 11:31:23"
-  },
-  {
-    "Title": "FUEDCMID: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 19/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGc3bmcxcF9IajV3NzViTnFJRTMtTjFHTEdSNXQtUllZLS1hb216SFQzS3FLdjhHSWpadFVQcmdDTG94NEhiWHpxNzZHTHhOalFzR05WTkVvVG1GaTFROHg0MkRPdGdDTE8zbXQyT3hVM3MwdHpNMkhOMGVmdzJRNG5OMlJYenI1N05jcmdkLTlBRFQ0Y1h4cXVmMTNJNk5XWVoxblVzU1NCOWdZYm5oNjJ5Wnl0djRva185aDJ4aWs5ai1mbmM3MlExb2k4aVVadjNz?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 02:09:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không phản ánh thay đổi chiến lược đầu tư hay biến động vĩ mô, không tác động đến giá trị nội tại của các cổ phiếu thành phần.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu dòng tiền mới cho thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 11:30:16"
   }
 ]
