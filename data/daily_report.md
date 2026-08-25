@@ -2,23 +2,22 @@
 ⏱ **Thời gian:** 06:00 - 26/08/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Căng thẳng thương mại Mỹ - Canada:** Thuế quan đáp trả 50% tạo rủi ro đứt gãy chuỗi cung ứng và suy giảm sức mua tại Bắc Mỹ -> **Tiêu cực** -> Dòng tiền có xu hướng thận trọng với nhóm xuất khẩu (Thủy sản, Dệt may).
-- **Rào cản tín dụng SME:** Giải ngân gói 220.000 tỷ đồng gặp khó về thủ tục -> **Tiêu cực** -> Triển vọng tăng trưởng tín dụng nhóm Ngân hàng thương mại ngắn hạn bị kìm hãm.
+- **Căng thẳng thương mại Mỹ - Canada:** Thuế quan đáp trả 50% tạo rủi ro đứt gãy chuỗi cung ứng và giảm sức mua tại khu vực Bắc Mỹ -> **Tiêu cực** -> Dòng tiền dự kiến sẽ rút khỏi nhóm ngành xuất khẩu chủ lực (Thủy sản - VHC, Dệt may - TNG).
+- **Giải ngân vốn rẻ cho SME gặp khó:** Sự đứt gãy giữa chính sách và thực thi cho thấy thanh khoản hệ thống chưa thể cải thiện đột biến -> **Tiêu cực** -> Nhóm Ngân hàng có tỷ trọng cho vay SME cao (VPB, MBB) chịu áp lực tâm lý thận trọng.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
 - **Mã: VSC**
-    - **Động lực (FA):** Hai Phó Tổng giám đốc đăng ký bán hết cổ phiếu.
-    - **Nhận định dòng tiền:** Tín hiệu nội bộ tiêu cực mạnh, khả năng cao sẽ kích hoạt làn sóng bán tháo từ cổ đông nhỏ lẻ trong phiên sáng.
-    - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, thoát vị thế nếu giá gãy hỗ trợ nền gần nhất.
+    - Động lực (FA): Lãnh đạo cấp cao (2 Phó TGĐ) đăng ký bán hết cổ phiếu.
+    - Nhận định dòng tiền: Tín hiệu thiếu tin tưởng từ nội bộ thường dẫn đến áp lực bán tháo ngắn hạn từ nhóm nhà đầu tư cá nhân.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên quản trị rủi ro, cắt giảm tỷ trọng nếu vi phạm vùng hỗ trợ kỹ thuật gần nhất.
 - **Mã: SHS, SHB**
-    - **Động lực (FA):** SHS tư vấn phát hành trái phiếu quốc tế cho SHB.
-    - **Nhận định dòng tiền:** Tích cực nhẹ cho kỳ vọng doanh thu mảng dịch vụ tài chính (SHS) và cấu trúc vốn (SHB), tuy nhiên cần quan sát phản ứng giá tại vùng kháng cự.
-    - **Hành động:** Tiếp tục quan sát khối lượng giao dịch (Vol) để xác nhận dòng tiền thông minh nhập cuộc.
-- **Mã: VPB**
-    - **Động lực (FA):** Rủi ro nợ xấu từ dự án BĐS tại Phan Thiết bị thu giữ; khó khăn trong giải ngân vốn SME.
-    - **Nhận định dòng tiền:** Áp lực kép về trích lập dự phòng và tăng trưởng tín dụng khiến mã này khó thu hút dòng tiền dẫn dắt.
-    - **Hành động:** Tiếp tục quan sát; hạn chế bắt đáy khi tin tức tiêu cực chồng chéo.
+    - Động lực (FA): SHS tư vấn phát hành trái phiếu quốc tế cho SHB.
+    - Nhận định dòng tiền: Gia tăng doanh thu dịch vụ cho SHS và tối ưu vốn cho SHB, tạo điểm tựa niềm tin ngắn hạn.
+    - Hành động: **Tiếp tục quan sát** phản ứng dòng tiền tại vùng giá hiện tại trước khi quyết định gia tăng vị thế.
 - **Mã: L18**
-    - **Động lực (FA):** Cổ đông tổ chức đăng ký mua vào 100.000 cổ phiếu.
-    - **Nhận định dòng tiền:** Tín hiệu tích cực về niềm tin, có thể tạo đà hưng phấn cục bộ cho dòng tiền cá nhân.
-    - **Hành động:** Chú ý giải ngân nếu có sự đồng thuận về khối lượng đi kèm tăng giá.
+    - Động lực (FA): Cổ đông tổ chức đăng ký mua thêm 100.000 cổ phiếu.
+    - Nhận định dòng tiền: Tín hiệu tích cực về tâm lý, hỗ trợ nâng đỡ thị giá.
+    - Hành động: **Chú ý giải ngân** nếu xuất hiện dòng tiền xác nhận đẩy giá vượt vùng tích lũy.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Chưa ghi nhận tin tức mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái nắm giữ theo kế hoạch trung hạn.
