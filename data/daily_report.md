@@ -1,11 +1,11 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:45 - 25/08/2026
-
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Quy hoạch hạ tầng sân bay Gia Bình (Bắc Ninh) chính thức được đẩy mạnh -> [Đánh giá: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm Bất động sản khu công nghiệp (KBC) và hạ tầng khu vực phía Bắc.
+⏱ Thời gian: 00:15 - 26/08/2026
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **KBC**
-- Động lực (FA): Hưởng lợi trực tiếp từ dự án sân bay Gia Bình, củng cố vị thế quỹ đất công nghiệp chiến lược tại Bắc Ninh, đón đầu làn sóng FDI.
-- Nhận định dòng tiền: Tin tức tạo chất xúc tác cho nhóm BĐS khu công nghiệp vốn đang có nền tích lũy tốt. Dòng tiền ngắn hạn có khả năng ưu tiên nhóm này để thoát khỏi sự phân hóa của nhóm Bluechips.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên, theo dõi khối lượng khớp lệnh để xác nhận dòng tiền lớn vào.
+- Động lực (FA): Thông tin quy hoạch sân bay Gia Bình (Bắc Ninh) được xác định là động lực tăng trưởng hạ tầng và FDI mới của vùng.
+- Nhận định dòng tiền: Tin tức mang tính bổ trợ hạ tầng dài hạn, tạo kỳ vọng tích cực cho quỹ đất khu công nghiệp tại Bắc Ninh. Dòng tiền ngắn hạn có thể phản ứng tích cực nếu khối lượng giao dịch tăng đột biến tại vùng hỗ trợ kỹ thuật.
+- Hành động: Theo dõi sát lực cầu tại vùng giá hiện tại; giải ngân thăm dò nếu xuất hiện tín hiệu dòng tiền thông minh nhập cuộc mạnh mẽ.
+
+---
+*Thị trường đi ngang, chưa có biến động mới trong 15 phút qua đối với các danh mục còn lại.*
