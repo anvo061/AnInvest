@@ -1,5 +1,72 @@
 ﻿[
   {
+    "Title": "Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap - Bloomberg",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEp0MDBrTWc0UWtjcEVfNThBU1NJc0xNN3pLVUMwZDIxTDFSMU9OdFY1Yk1VUm9CajJJUlVjdnRfWWpLLV94T21mV291NmdBWFRzNzZIa0UxcUZsVVFJcXlWTHYwa29Zd1Z0YUZKMk4tYlNscm1XVTdiSjJVRmlzZG9JdXl2TkpCQ2ZCWlYxX1pGa1BLZTUxbng0WGV2V2FDa21FdExxcjFjSFFvNTJjQ093?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 22:08:45 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 3,
+    "MarketImpact": "Giá dầu giảm giúp giảm áp lực chi phí đầu vào cho các doanh nghiệp vận tải, nhựa và hàng không, đồng thời cải thiện tâm lý thị trường chứng khoán châu Á nói chung.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Giá dầu giảm hạ nhiệt chi phí đầu vào nhóm Vận tải và Nhựa. Kỳ vọng cải thiện biên lợi nhuận ngắn hạn cho GMD, HAH, BMP.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí nhiên liệu giảm giúp cải thiện biên lợi nhuận gộp cho hoạt động khai thác cảng và vận tải."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu giảm trực tiếp làm giảm chi phí vận hành đội tàu, hỗ trợ lợi nhuận ngắn hạn."
+      },
+      {
+        "Ticker": "BMP",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá hạt nhựa đầu vào thường biến động cùng chiều với giá dầu, giúp cải thiện biên lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 06:35:41"
+  },
+  {
+    "Title": "PNJ hậu cú sốc kim cương, ‘cá mập’ lao tới đánh cược gì ở đây?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/pnj-sau-cu-soc-kim-cuong-ca-map-danh-cuoc-gi-o-doanh-nghiep-vang-bac-2549047.html",
+    "PubDate": "Wed, 26 Aug 2026 05:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc các quỹ đầu tư lớn gia tăng tỷ trọng cho thấy niềm tin vào khả năng phục hồi và vị thế dẫn đầu của PNJ trong ngành bán lẻ trang sức sau các biến động ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Dòng tiền gom hàng chưa rõ nét, cần quan sát thêm vùng hỗ trợ. Tin tức mang tính chất PR/đồn đoán, chưa có xác nhận từ báo cáo tài chính.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sự quan tâm từ các quỹ đầu tư lớn củng cố niềm tin thị trường và hỗ trợ giá cổ phiếu phục hồi."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 06:35:26"
+  },
+  {
+    "Title": "'Chưa đến 10% doanh nghiệp nhỏ và vừa có thể vay vốn'",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chua-den-10-doanh-nghiep-nho-va-vua-co-the-vay-von-5113325.html",
+    "PubDate": "Wed, 26 Aug 2026 00:01:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Khả năng tiếp cận vốn thấp của khối SME cho thấy rủi ro nợ xấu tiềm ẩn và sự khó khăn trong tăng trưởng tín dụng của hệ thống ngân hàng, gây áp lực lên triển vọng lợi nhuận ngành tài chính.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. SME khó tiếp cận vốn làm chậm tăng trưởng tín dụng, gây áp lực lên NIM và rủi ro nợ xấu. Dòng tiền thận trọng với các ngân hàng có tỷ trọng SME cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Phân khúc khách hàng SME và cá nhân là trọng tâm, việc thắt chặt vay vốn sẽ làm giảm tốc độ tăng trưởng tín dụng."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 06:35:09"
+  },
+  {
     "Title": "Bố trí 220.000 tỷ đồng vốn rẻ, doanh nghiệp vừa và nhỏ vẫn 'khát' tiền",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/220-000-ty-dong-von-re-doanh-nghiep-vua-va-nho-van-khat-tien-2548353.html",
@@ -16729,50 +16796,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-19 14:55:38"
-  },
-  {
-    "Title": "India weighs limited duty-free sugar imports to rein in record prices, sources say - reuters.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWl9RV0VKcXdSZDBCWXRSSElYWWY0NEZPYU00N19ESkZsN04zLU43TjQ1cTQzcG5PRE1VdkZqaVphREZQMEJ3RTJjMmVDdkNrLWZBZFNWalJiZGplc0E2ekZVM0JZVm1OX0ktbF91MGdLZ3IwVzRPc0NSUFVXemdJZlg2OGh6ZWJXcTlLWmYyMkI5d1ctdjFmcDlJakxfUjZzTVBaTE1LNGcya3cwS0s2QzRYSDFZTjdQaTRENDY4Rkg3NzJZ?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 11:36:58 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc Ấn Độ mở cửa nhập khẩu đường giúp cân bằng cung cầu toàn cầu, tạo cơ hội cho các doanh nghiệp mía đường Việt Nam đẩy mạnh xuất khẩu hoặc hưởng lợi từ giá đường thế giới ổn định.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Ấn Độ nhập khẩu đường làm tăng cung nội địa, giảm áp lực giá toàn cầu. Tác động đến SBT, LSS là gián tiếp, thiếu động lực tăng trưởng thực tế từ xuất khẩu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 14:55:17"
-  },
-  {
-    "Title": "Novaland (NVL) dự chi hơn 8.000 tỷ đồng để tất toán nợ trái phiếu - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWNOVTR4QjBEZ3BVM0FLOUVLSGt1ZnlpMDN6YWxJX0hjRnZfd3FWaFM0cTV5T0NYZnFqR0RhY0pheEU3ZW5fdm10d3hDbm1FUGtXY0JDTFU4eG1lS1VsN1JEeTgtcmlsenJjQUpMdy1Nei1oUDlUUEx2R1dQcWU5bUFhTkJ2M0UxampwcjRKN1QxTUN4ZE9vc2RLdGhLNVV5amRWOA?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 07:14:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Việc tất toán nợ trái phiếu quy mô lớn giúp giảm áp lực tài chính, cải thiện bảng cân đối kế toán và củng cố niềm tin của nhà đầu tư vào khả năng thanh khoản của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - NVL. Việc giảm áp lực nợ vay giúp cải thiện hồ sơ rủi ro, kích hoạt dòng tiền bắt đáy và tái định giá cổ phiếu trong ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "NVL",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm áp lực nợ vay, cải thiện thanh khoản và niềm tin thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 14:54:03"
-  },
-  {
-    "Title": "CTS: Thông báo Quyết định của UBCKNN về việc chấp thuận thành lập chi nhánh Hà Nội - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1U5SFczTkZvdzdBa25WNDNIbEV0SE5BR3V0ZXVxcC0xWjZQbzF3YjFSRXBMZkdGTVVEYnpYYU5iWk81cHQ0SVlPSE9JRGZsYVg1Z1pZU3B0ZGxFOTMyb1YxMU9QejJUbU9HLUs3WktnZUR3ZmZTdzh2M0dLT2szdnVDYnU0Sm5DQzNqVzBENjBLRGE0RE5zbXF5MFhjbkIzMDlVdFBMdVhoelpBZkZKZVF1dmNfY3VmZmpyNHV6bw?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 07:15:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mở rộng chi nhánh là hoạt động hành chính bình thường nhằm mở rộng mạng lưới kinh doanh, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - CTS. Mở rộng chi nhánh là hoạt động vận hành thông thường, không tạo đột biến dòng tiền hay thay đổi cấu trúc doanh thu ngay lập tức.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 14:53:51"
   }
 ]
