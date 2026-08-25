@@ -1,28 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:45
+⏱ Thời gian: 16:20 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng địa chính trị Trung Đông leo thang (Iran - Mỹ) làm giá dầu thế giới biến động mạnh -> **Tiêu cực cho nhóm Vận tải, Tích cực cho nhóm Dầu khí (PVD, PVS)** do lo ngại áp lực lạm phát và chi phí đầu vào tăng cao.
-- Chính phủ đẩy mạnh đầu tư công qua việc chuyển đổi hình thức dự án cao tốc Quảng Ngãi - Kon Tum sang đầu tư công toàn tuyến -> **Tích cực** cho nhóm Xây lắp hạ tầng (VCG, HHV, LCG).
+- Lãi suất trái phiếu ngân hàng hạ nhiệt: -> [Đánh giá tác động: Tích cực] -> [Dòng tiền kỳ vọng xoay trục vào nhóm Ngân hàng (TCB, MBB, VPB) nhờ cải thiện biên lãi thuần NIM và giảm chi phí vốn].
+- Leo thang căng thẳng địa chính trị Trung Đông (Iran-US): -> [Đánh giá tác động: Tiêu cực đối với thị trường chung, tích cực cục bộ cho nhóm Năng lượng] -> [Dòng tiền phân hóa, ưu tiên trú ẩn vào nhóm PVD, PVS; thận trọng với nhóm Vận tải biển như HAH do áp lực chi phí đầu vào].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS**
-    - Động lực (FA): Giá dầu thế giới neo cao do rủi ro địa chính trị tại Iran.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ có xu hướng trú ẩn và tìm kiếm lợi nhuận ngắn hạn tại nhóm năng lượng khi bất ổn địa chính trị gia tăng.
-    - Hành động: Chú ý giải ngân nếu giá test lại vùng hỗ trợ kỹ thuật trong phiên.
-- **Mã: HAH**
-    - Động lực (FA): Giá dầu tăng tạo áp lực trực tiếp lên chi phí vận hành đội tàu.
-    - Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn.
-    - Hành động: Rủi ro vi phạm kịch bản, thận trọng với vị thế mua mới.
-- **Mã: VCG, HHV, LCG**
-    - Động lực (FA): Dự án cao tốc Quảng Ngãi - Kon Tum chuyển sang đầu tư công.
-    - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp khối lượng backlog, dòng tiền có khả năng luân chuyển vào nhóm xây lắp.
-    - Hành động: Chú ý giải ngân theo điểm hợp lưu kỹ thuật.
-- **Mã: PNJ**
-    - Động lực (FA): Khối ngoại gia tăng sở hữu sau khi giải tỏa rủi ro pháp lý.
-    - Nhận định dòng tiền: Lực cầu từ khối ngoại tạo vùng đỡ giá cứng.
-    - Hành động: Tiếp tục quan sát để gia tăng vị thế khi có tín hiệu bứt phá.
-- **Mã: LTG**
-    - Động lực (FA): Hủy niêm yết bắt buộc.
-    - Nhận định dòng tiền: Mất thanh khoản, rủi ro cực cao.
-    - Hành động: Ngừng theo dõi và loại khỏi danh mục đầu tư.
+- Mã: SHS, SHB
+- Động lực (FA): SHS được chỉ định cung cấp dịch vụ tư vấn và bảo lãnh phát hành trái phiếu quốc tế/trong nước cho SHB năm 2026.
+- Nhận định dòng tiền: Tin tức củng cố doanh thu mảng dịch vụ IB cho SHS và tối ưu hóa cấu trúc vốn cho SHB. Dòng tiền có thể phản ứng tích cực trong ngắn hạn do sự gắn kết chặt chẽ về lợi ích giữa hai đơn vị.
+- Hành động: Chú ý theo dõi lực cầu vào SHS trong phiên tới.
+
+- Mã: PVD
+- Động lực (FA): Căng thẳng Iran-US leo thang, đe dọa chuỗi cung ứng năng lượng, hỗ trợ giá dầu neo cao.
+- Nhận định dòng tiền: Dòng tiền đầu cơ nhạy sóng sẽ tập trung vào nhóm dầu khí thượng nguồn.
+- Hành động: Tiếp tục quan sát điểm entry khi có tín hiệu dòng tiền xác nhận.
