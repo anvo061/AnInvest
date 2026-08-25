@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "SHS: Công bố thông tin Quyết định HĐQT về việc SHS cung cấp cho SHB dịch vụ liên quan đến chào bán Trái phiếu SHB phát hành ra thị trường quốc tế năm 2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWUlJTmtMbEZwZE9wR0dDV0pMUWxiNlJwMnNDU3VEaWNiQk4xSVpCbXVEOXd4Skx1RW1tRnpydnVWTmxaZkVDazNwV1dSX3JjNjNfcnJ0T3hOMm9JWkM4WDVDU2ZoLUlHQW94M1YzYTVGdGQxRzRiS0lDdkZQYndkcE9lalgzVXRIX1h3c0NjbVZQOEpYY25UNmg0T2J6TWszZmVqRHJfcmppRXIwd1ZBRE03bVA1R3lERGJBdWVnZ2ZNQnREYjZCUW4wZ3pqMVJfVkpYbGgwNTRnc3RMVGptV2hFUnluZmUtRkRLOEZUV0pMdHNZRnZNRTJlOXV0M3ZONDNTRHdjSE1yaWZrZkhjbjI5aW1TUHBNQ3UzRVAtRUFLekJNVnZkeUxWLXlNdHNiLXIzX19PQXI?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 02:52:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc SHS cung cấp dịch vụ tư vấn phát hành trái phiếu quốc tế cho SHB giúp gia tăng doanh thu từ mảng dịch vụ tài chính và củng cố mối quan hệ hợp tác chiến lược giữa hai đơn vị.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Hợp đồng IB nội bộ giữa SHS và SHB mang tính chất bổ trợ hệ sinh thái, chưa tạo đột biến doanh thu thực tế. Cần theo dõi tiến độ phát hành quốc tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SHS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Gia tăng doanh thu từ phí tư vấn và dịch vụ tài chính quốc tế."
+      },
+      {
+        "Ticker": "SHB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Huy động vốn quốc tế thành công giúp tối ưu hóa chi phí vốn và mở rộng quy mô hoạt động."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 04:16:15"
+  },
+  {
     "Title": "FUEMAV30: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 25/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWRzalk1dmgtc0R5SWxmSWw5NzU0THBrSUdfU184bFJSeHZVRHpYQ3V4djh0NTF1VTNrZDA4cG92MnQ3bTc3ajc4ODZNd0JXTExpU2ZVXy1TbVF5NkREenZUTTRZSThlMmpDeW9JNm1PWjVKUlV6SU9XcThUdzlFVGJFaHF5N3NzVXhvMFU3YzZXQ0JCMExMdWwwUE15YzdhdFdoQjA3bE9uU3N3ODEweHdXSW1NUnVOUWIxRzRIaVM1a0lWMWhHTTlRSG1YdEdHOU9R?oc=5",
@@ -16750,18 +16774,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-19 14:52:33"
-  },
-  {
-    "Title": "Lương, thu nhập tại các doanh nghiệp có vốn nhà nước ở Đắk Lắk trước sắp xếp ra sao?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/luong-thu-nhap-tai-cac-doanh-nghiep-co-von-nha-nuoc-o-dak-lak-truoc-sap-xep-ra-sao-100260819133124433.htm",
-    "PubDate": "8/19/2026 1:56:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về quản lý nhân sự và tiền lương tại các doanh nghiệp địa phương, không có tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có nhóm ngành. Thông tin hành chính về quản lý nhân sự tại doanh nghiệp địa phương không ảnh hưởng đến dòng tiền thị trường. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 14:52:04"
   }
 ]

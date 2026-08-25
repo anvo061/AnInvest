@@ -1,24 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:00 - 26/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 04:30 - 26/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Căng thẳng thương mại Mỹ-Canada leo thang với thuế quan 50% -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực bán tại nhóm xuất khẩu chủ lực sang Bắc Mỹ: Dệt may, Thủy sản].
-- Khả năng tiếp cận vốn thấp (dưới 10%) của nhóm SME -> [Đánh giá: Tiêu cực] -> [Dòng tiền nhóm Ngân hàng (đặc biệt các bank tập trung cho vay SME/bán lẻ) sẽ đối mặt áp lực chốt lời do lo ngại nợ xấu tiềm ẩn].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Căng thẳng thương mại Mỹ - Canada (thuế quan 50%):** Tác động Tiêu cực -> Gây nhiễu loạn chuỗi cung ứng toàn cầu, gia tăng rủi ro cho các nhóm ngành có tỷ trọng xuất khẩu chủ lực sang khu vực Bắc Mỹ (Dệt may, Thủy sản).
+- **Rủi ro tín dụng nhóm SME:** Tác động Tiêu cực -> Phản ánh sức khỏe khu vực kinh tế thực suy yếu, tạo áp lực nợ xấu tiềm ẩn cho nhóm ngân hàng tập trung cho vay bán lẻ và SME (VPB, MBB).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VSC**
-  - Động lực (FA): Lãnh đạo cấp cao (2 Phó TGĐ) đăng ký bán hết cổ phiếu.
-  - Nhận định dòng tiền: Tín hiệu nội bộ tiêu cực, khả năng cao kích hoạt làn sóng bán tháo ngắn hạn từ nhóm nhà đầu tư cá nhân.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng ngay khi có nhịp hồi kỹ thuật đầu phiên.
-- Mã: **VHM**
-  - Động lực (FA): Hưởng lợi từ dòng tiền giải ngân của quỹ FTSE.
-  - Nhận định dòng tiền: Tạo lực cầu chủ động, là điểm neo thanh khoản cần quan sát để đánh giá tâm lý thị trường chung trong phiên.
-  - Hành động: Tiếp tục quan sát biến động dòng tiền, chú ý vùng hỗ trợ gần nhất.
-- Mã: **VHC, TNG**
-  - Động lực (FA): Rủi ro từ xung đột thương mại Mỹ-Canada.
-  - Nhận định dòng tiền: Áp lực cung gia tăng do lo ngại gián đoạn chuỗi cung ứng.
-  - Hành động: Quan sát phản ứng tại vùng giá nền, tránh giải ngân mới.
-- Mã: **VPB, MBB**
-  - Động lực (FA): Tăng trưởng tín dụng chịu ảnh hưởng từ khó khăn của nhóm SME.
-  - Nhận định dòng tiền: Áp lực từ dữ liệu vĩ mô khiến dòng tiền thiếu động lực bứt phá.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế gia tăng vị thế.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VSC**
+  - **Động lực (FA):** 02 Phó Tổng giám đốc đăng ký bán hết cổ phiếu.
+  - **Nhận định dòng tiền:** Áp lực tâm lý bán tháo ngắn hạn cực cao từ nhóm cổ đông nhỏ lẻ. Rủi ro vi phạm cấu trúc giá hỗ trợ gần nhất.
+  - **Hành động:** Rủi ro vi phạm kịch bản; Khuyến nghị đứng ngoài quan sát/cắt giảm vị thế để tránh rủi ro điều chỉnh.
+- **Mã: VHM**
+  - **Động lực (FA):** Dòng tiền giải ngân từ quỹ FTSE.
+  - **Nhận định dòng tiền:** Hỗ trợ thanh khoản chủ động, cải thiện tâm lý ngắn hạn.
+  - **Hành động:** Tiếp tục quan sát phản ứng tại các vùng kháng cự kỹ thuật khi có lực cầu từ ETF.
+- **Mã: SHS**
+  - **Động lực (FA):** Cung cấp dịch vụ tư vấn phát hành trái phiếu quốc tế cho SHB.
+  - **Nhận định dòng tiền:** Tích cực nhẹ, kỳ vọng cải thiện doanh thu phí dịch vụ tài chính.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền thị trường duy trì ổn định.
