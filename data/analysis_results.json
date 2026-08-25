@@ -1,5 +1,29 @@
 ﻿[
   {
+    "Title": "Bố trí 220.000 tỷ đồng vốn rẻ, doanh nghiệp vừa và nhỏ vẫn 'khát' tiền",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/220-000-ty-dong-von-re-doanh-nghiep-vua-va-nho-van-khat-tien-2548353.html",
+    "PubDate": "Wed, 26 Aug 2026 05:30:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc giải ngân vốn rẻ gặp khó khăn cho thấy rào cản về thủ tục và tiêu chuẩn tín dụng vẫn cao, không tạo ra cú hích thanh khoản tức thời cho nhóm doanh nghiệp vừa và nhỏ trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Tắc nghẽn giải ngân phản ánh rủi ro nợ xấu và cầu tín dụng yếu. Dòng tiền thông minh sẽ thận trọng với các ngân hàng có tỷ trọng cho vay SME cao.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Tỷ trọng cho vay SME lớn, việc giải ngân khó khăn có thể ảnh hưởng đến tăng trưởng tín dụng ngắn hạn."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Đẩy mạnh cho vay SME nhưng vẫn kiểm soát chặt chẽ, khó hưởng lợi ngay từ gói vốn rẻ này."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 05:44:24"
+  },
+  {
     "Title": "Dự án khu biệt thự cao cấp ở Phan Thiết cũ bị ngân hàng thu giữ",
     "Source": "VietnamNet Kinh Doanh",
     "Link": "https://vietnamnet.vn/du-an-biet-thu-cao-cap-o-phan-thiet-cu-bi-ngan-hang-thu-giu-tai-san-2548701.html",
@@ -16750,24 +16774,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-19 14:53:51"
-  },
-  {
-    "Title": "Cao su Tây Ninh (TRC) chính thức chốt ngày trả cổ phiếu thưởng “khủng” tỷ lệ 1:3 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2xsMVlxNnBqYVI3bExJa2hEeFpzMmYwLU12RVlNYnVuOVpwRnVJbFU4T3IwRUZ0dEcwdEtMbEZhc0RQbjVIVTFfa3lwajg5ZWdVTXBrdEZ4X2ZDOXN6UERwd1BFNklEM1VIeXNIekszREJPVVZKWEcwSEZwX01ESDA5d0VKZkVla043cGZ2N0N5Sk1GTnh2X0Z1dXpfUWxKUTJWTVBQTTRiVjc4SUV6OHhHcEUtQQ?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 07:16:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc phát hành cổ phiếu thưởng tỷ lệ cao giúp tăng thanh khoản cho cổ phiếu, phản ánh sự tự tin của ban lãnh đạo vào tăng trưởng nội tại và thu hút dòng tiền đầu cơ ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - TRC. Cổ phiếu thưởng 1:3 chỉ là pha loãng kỹ thuật, không thay đổi giá trị nội tại. Cần thận trọng với áp lực bán sau ngày chốt quyền.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "TRC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Phát hành cổ phiếu thưởng tỷ lệ cao làm tăng tính thanh khoản và thu hút sự chú ý của dòng tiền đầu cơ ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 14:53:34"
   }
 ]
