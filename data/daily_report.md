@@ -1,25 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:20 - 25/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 12:50 ngày 25/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nhóm Ngân hàng tư nhân dẫn dắt tăng trưởng từ mảng dịch vụ (phí, bancassurance) cùng tin hỗ trợ dòng vốn ngoại (FTSE) -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm Ngân hàng (đặc biệt là TCB, VPB, ACB).
-- Căng thẳng địa chính trị Trung Đông gây áp lực lên giá dầu và chi phí vận tải biển -> **Tiêu cực** -> Rủi ro biên lợi nhuận cho nhóm Vận tải (HAH).
-- Danh sách cắt Margin 61 mã từ HoSE -> **Tiêu cực** -> Áp lực bán giải chấp/cạn thanh khoản ở nhóm cổ phiếu đầu cơ nhỏ.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Lãi suất trái phiếu ngân hàng hạ nhiệt & Tăng trưởng thu nhập từ dịch vụ:** Tín hiệu kép giúp cải thiện NIM và giảm chi phí vốn -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Ngân hàng thương mại tư nhân (Top-tier)**.
+- **Căng thẳng địa chính trị Trung Đông (Iran/Mỹ):** Rủi ro gián đoạn nguồn cung và chi phí vận tải -> **Tiêu cực** -> Áp lực lên nhóm Logistics/Vận tải biển.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VPB**
-  - Động lực (FA): Lọt rổ FTSE All-World và kết quả kinh doanh mảng dịch vụ tăng trưởng mạnh.
-  - Nhận định dòng tiền: Dòng vốn thụ động (ETF) sẽ mua vào ngay lập tức, kỳ vọng tạo đột biến thanh khoản và giá ngắn hạn.
-  - Hành động: Chú ý giải ngân vùng giá hiện tại, kỳ vọng hiệu ứng mua gom của quỹ.
-- **Mã: TCB, ACB**
-  - Động lực (FA): Dẫn đầu hiệu quả kinh doanh phi tín dụng và dịch vụ.
-  - Nhận định dòng tiền: Dòng tiền thông minh chuyển dịch vào nhóm có nền tảng cơ bản tốt, giảm phụ thuộc lãi suất.
-  - Hành động: Tiếp tục nắm giữ, vị thế trung hạn hưởng lợi từ cơ cấu thu nhập bền vững.
-- **Mã: HAH**
-  - Động lực (FA): Rủi ro từ xung đột Trung Đông gây tăng chi phí vận tải/nhiên liệu.
-  - Nhận định dòng tiền: Khả năng chịu áp lực bán khi tâm lý rủi ro trên thị trường tăng cao.
-  - Hành động: Theo dõi sát kịch bản rủi ro, cân nhắc hạ tỷ trọng nếu vi phạm vùng hỗ trợ kỹ thuật.
-- **Mã: VCG, HHV**
-  - Động lực (FA): Tiến độ Vành đai 3 TP.HCM vào chặng cuối.
-  - Nhận định dòng tiền: Dòng tiền đầu tư công ổn định.
-  - Hành động: Tiếp tục nắm giữ, tận dụng các nhịp rung lắc để gia tăng tỷ trọng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **TCB, VPB, ACB**
+- **Động lực (FA):** Lãi suất trái phiếu giảm giúp tối ưu hóa chi phí vốn; thu nhập từ dịch vụ (phí, bancassurance) tăng trưởng bền vững.
+- **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng tập trung vào các ngân hàng có hệ sinh thái số và tỷ trọng thu nhập ngoài lãi cao để phòng thủ trước rủi ro lãi suất.
+- **Hành động:** **Chú ý giải ngân** tại các vùng hỗ trợ cứng, ưu tiên nhóm có định giá hợp lý so với tốc độ tăng trưởng phí dịch vụ.
+
+- **Mã:** **HAH**
+- **Động lực (FA):** Căng thẳng Iran làm tăng chi phí nhiên liệu và bảo hiểm vận tải.
+- **Nhận định dòng tiền:** Đối mặt với áp lực chốt lời ngắn hạn do lo ngại biên lợi nhuận bị bào mòn.
+- **Hành động:** **Tiếp tục quan sát**, thận trọng với vị thế mua mới cho đến khi có tín hiệu hạ nhiệt từ địa chính trị.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Không có dữ liệu mới về EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái chiến lược hiện tại.
