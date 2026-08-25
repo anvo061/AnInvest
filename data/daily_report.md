@@ -1,17 +1,15 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:20 - 25/08/2026
+⏱ Thời gian: 16:55 ngày 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất trái phiếu ngân hàng hạ nhiệt: -> [Đánh giá tác động: Tích cực] -> [Dòng tiền kỳ vọng xoay trục vào nhóm Ngân hàng (TCB, MBB, VPB) nhờ cải thiện biên lãi thuần NIM và giảm chi phí vốn].
-- Leo thang căng thẳng địa chính trị Trung Đông (Iran-US): -> [Đánh giá tác động: Tiêu cực đối với thị trường chung, tích cực cục bộ cho nhóm Năng lượng] -> [Dòng tiền phân hóa, ưu tiên trú ẩn vào nhóm PVD, PVS; thận trọng với nhóm Vận tải biển như HAH do áp lực chi phí đầu vào].
+- **VN-Index bứt phá ngưỡng 1.800 điểm với thanh khoản bùng nổ** -> [Tích cực] -> **Dòng tiền tập trung vào nhóm Chứng khoán (SSI, VND, VCI, HCM)** do hưởng lợi trực tiếp từ phí giao dịch, doanh thu margin và sự hưng phấn của dòng tiền cá nhân.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: SHS, SHB
-- Động lực (FA): SHS được chỉ định cung cấp dịch vụ tư vấn và bảo lãnh phát hành trái phiếu quốc tế/trong nước cho SHB năm 2026.
-- Nhận định dòng tiền: Tin tức củng cố doanh thu mảng dịch vụ IB cho SHS và tối ưu hóa cấu trúc vốn cho SHB. Dòng tiền có thể phản ứng tích cực trong ngắn hạn do sự gắn kết chặt chẽ về lợi ích giữa hai đơn vị.
-- Hành động: Chú ý theo dõi lực cầu vào SHS trong phiên tới.
-
-- Mã: PVD
-- Động lực (FA): Căng thẳng Iran-US leo thang, đe dọa chuỗi cung ứng năng lượng, hỗ trợ giá dầu neo cao.
-- Nhận định dòng tiền: Dòng tiền đầu cơ nhạy sóng sẽ tập trung vào nhóm dầu khí thượng nguồn.
-- Hành động: Tiếp tục quan sát điểm entry khi có tín hiệu dòng tiền xác nhận.
+- **Mã: SHS, SHB**
+    - Động lực (FA): SHS chốt nghị quyết tư vấn và bảo lãnh phát hành trái phiếu quốc tế và trái phiếu riêng lẻ cho SHB năm 2026.
+    - Nhận định dòng tiền: Tạo cộng hưởng tăng trưởng doanh thu dịch vụ IB cho SHS và củng cố nguồn vốn dài hạn cho SHB. Dòng tiền dự kiến sẽ phản ứng tích cực với thông tin hợp tác chiến lược này.
+    - Hành động: Chú ý giải ngân (Canh nhịp rung lắc kỹ thuật).
+- **Mã: DBC, BAF**
+    - Động lực (FA): Áp lực từ thịt trâu nhập khẩu giá rẻ (bằng 50% hàng nội địa).
+    - Nhận định dòng tiền: Gia tăng áp lực cạnh tranh lên biên lợi nhuận, có thể kích hoạt các nhịp bán tháo ngắn hạn của nhà đầu tư e ngại rủi ro về tăng trưởng.
+    - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại các vùng hỗ trợ cứng.
