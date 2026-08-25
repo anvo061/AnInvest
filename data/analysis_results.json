@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "HCM: Báo cáo kết quả thực hiện quyền mua cổ phiếu của Người nội bộ Lê Anh Minh - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDV0OGdUSTNtVEYyNDdRSWdfa3hsU0p3UXpvM0s4VHFhcWJTZUxjLVUyOWUwTGQ2VGFfSGgxMjUxaWxrZGN0MkszNkRwZk95b2NzQ0J0TDN6RUJQYUZ1TldSZmdJWVEtd2UxRmIwVjNoRlFaeXphU1Rqa1ZzYWVpVkxWalNhR2I0Wk81U1dDdWZtcksyZ3B6Z3ZDdHA4T2NKbHNRVi05V2kyQkhzeFVuRllhbkVNN1BrTVJYR1pCNG1ETTAxbmRKYnNYQkw4Q1BEazA0?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 03:44:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin giao dịch cá nhân của người nội bộ, không làm thay đổi cơ bản hoạt động kinh doanh hay cấu trúc tài chính của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - HCM. Giao dịch quyền mua của người nội bộ là hoạt động cá nhân, không tác động đến xu hướng dòng tiền ngắn hạn của cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 13:04:36"
+  },
+  {
+    "Title": "Liên tục bị giải chấp, \"cá mập\" Nguyễn Văn Nghĩa đã bán gần 5 triệu cổ phiếu TCM - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUxlWEc0R1h4UlYwdXZKUGJKTTBXWUxnYUZRUkdzaWJTbmdETFRPUmxLU2NxcFFUUjNONGVHTUFwaGo1WUs2VGw0cFNjajRXT1BYTDh5MlVEN1kyM3htTXpuSE9BZGJNWDZLeWF0RWxkRjhIQTNKQzdPV1d3QUhGRm4weFVxYWhCTk9vOTNIaFk2OVphX0JhMXp1bVFBeHVmZTdaOUNpRHNnNWNqMmxtS01DbldkdU9G?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 05:42:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Việc cổ đông lớn bị giải chấp lượng lớn cổ phiếu tạo áp lực cung ngắn hạn lên thị trường, gây tâm lý tiêu cực cho nhà đầu tư nhỏ lẻ đối với mã TCM.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - TCM. Áp lực bán giải chấp từ cổ đông lớn tạo nguồn cung treo lơ lửng, gây nhiễu loạn cung cầu ngắn hạn. Dòng tiền thông minh sẽ đứng ngoài quan sát cho đến khi lực bán cạn kiệt.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán giải chấp từ cổ đông lớn gây áp lực giảm giá ngắn hạn và tâm lý tiêu cực cho cổ đông."
+      }
+    ],
+    "AnalyzedAt": "2026-08-25 13:04:22"
+  },
+  {
+    "Title": "FUETCC50: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 25/08/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1k3LTVtMnZlcndldTN4SFZPb0lhVjlIMF9aNHB5TU85NjBwVzBUNllQd2xQbnNCUC1BbGRTLUZ3M0FmMXhFY0p5VlRfM0VkbEtFbFQtSHk2dmVRNE9TREwzaTQtQ1lvMUt1aVVVVlQzMTFtbXRxUjdSZllIRkJhbE9va2I1YTIxcFNCdXF5dXVIdFhiVGFIWFdHV0FlWDhPNU9YUVBmcUQ5SlUtX1JYMm83TmpKd2VCd2pBZHZ2RU5ERFVMamNIUFhuZGRLM250alVV?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 02:18:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành nghiệp vụ thông thường, không tác động đến giá trị nội tại hay xu hướng dòng tiền của các cổ phiếu thành phần.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Đây là hoạt động nghiệp vụ định kỳ của quỹ hoán đổi danh mục, không tạo ra tín hiệu giao dịch hay thay đổi cung cầu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-25 13:04:12"
+  },
+  {
     "Title": "FUESSVFL: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 25/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWl3Rjk3TEk5RjI0aFVhd1ZRN2dFN04yMklkalRkSnJ0ZHBZVjAzdEpKWmoxNGFUTmkyeWQtOVlYVGtZa0pYYkhXRU0xckxreFhJckl2Q01xRDdxdktMU1E3VlVUWG40WHRSOEdreUFITDNzaXF6NFNvd18xZjhrYVdFZ0o4YXJGSGxSaDFVYml4dDNyU2xIQ3JNT2hmRV8yb1d0a2V2bVJUbWxjUFZsSE5RMUhtNkkxbEtEVEs4eWp0SzdOMkJZenhkQ3pGNWVHSTdB?oc=5",
@@ -16929,61 +16974,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-18 21:49:28"
-  },
-  {
-    "Title": "FUEVFVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 18/08/2026 - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ01rWmN3RXFBb2NoSW1jbGNiTG9iRmoyQVVLS3I5MkJrNzQzQjNDYmk5Rnp4WGlpdlV0ajZMeWJIYnp2dld4a25pZFNWZzVVV2FNOEVuTW5xWFh3SmZvVVBrT1U4N1JTTzNTZFJNT0tOZUNURFlFcUJPckQ2VExmR29lOEp1eFZ6UUZndTJrMWpxVzFqUUd3TUdXZFpDU080UjlJaEtBN21xRmlKMnF0ekwzMkN4VUg0RE5Dem8wWHNGaEQzQjdQY2ZuMVNjUGd5UzZz?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 02:11:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất vận hành quỹ, không phản ánh thay đổi vĩ mô hay hoạt động kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tác động đến cung cầu hay xu hướng giá của các mã cổ phiếu trong danh mục.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-18 21:06:32"
-  },
-  {
-    "Title": "HAD: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVNLbTBtQkxZNDVJa1NVLVM2OXNwZDZ5WlNheGFiS2JxQzRPcGJNbHkzM1JRT0d6MV93QWVCME5CeGZzWGVDbzk2XzZfZEd5YU44VWxpaWhxOXZtY2Mwekh0Q1E0OEZZUzI3bkNxUXZBbVpFOFBoejYwckVnZUpLSk80UlBFVy1SUHduVUV6N0U2QlNrWUI1VV9rSmtjdGJ4aVpiamlvd2g4UFNIMnZ5RA?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 09:27:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động định kỳ, phản ánh dòng tiền ổn định của doanh nghiệp nhưng không tạo ra thay đổi đột biến về giá trị nội tại hay xu hướng dòng tiền ngành.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - HAD. Cổ tức tiền mặt là hoạt động thường niên, không tác động mạnh đến thanh khoản hay xu hướng giá cổ phiếu. Dòng tiền thông minh sẽ không phản ứng mạnh với tin này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAD",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Thông tin trả cổ tức là hoạt động quản trị bình thường, đã được phản ánh vào kế hoạch tài chính của doanh nghiệp."
-      }
-    ],
-    "AnalyzedAt": "2026-08-18 21:06:22"
-  },
-  {
-    "Title": "Khối ngoại tiếp đà bán ròng hơn 700 tỷ đồng phiên VN-Index rung lắc, cổ phiếu nào bị \"xả\" mạnh? - cafef.vn",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0JUXzMxTWhBb0JRTXlwTkJfamlBUWpkUXhiUFA1S0NDTHpvb3lvTWhjNWkxT3BkRzJTZE5sMHgxaTgyN013eXYwLWtZd2Jobk1GTWctbDVnZFIzcjUxZTNnUkxqRzdjTjk2a2V3cXZZdEVLaTlxZE8yV1ZKN3dKN3F4ZzI3azNSektZem04aXJYSFRlMDA3TmxTT1k3enJtUFB1TWZiYXBDMGdvTjNaaWMwVHVWLXl4cVFfYzVwdURvcUY5c0pZMW1jbw?oc=5",
-    "PubDate": "Tue, 18 Aug 2026 08:45:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Áp lực bán ròng từ khối ngoại tạo tâm lý thận trọng, gây sức ép lên các mã vốn hóa lớn (Bluechips) và làm giảm thanh khoản thị trường chung trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Bluechips. Khối ngoại bán ròng 700 tỷ gây áp lực tâm lý lên nhóm vốn hóa lớn. Cần quan sát vùng hỗ trợ cứng, tránh bắt đáy sớm khi dòng tiền khối ngoại chưa đảo chiều.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Thường xuyên là mục tiêu bán ròng mạnh của khối ngoại, gây áp lực giảm giá ngắn hạn."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Cổ phiếu quốc dân chịu áp lực bán ròng lớn từ khối ngoại làm suy yếu đà tăng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-18 21:06:05"
   }
 ]

@@ -1,20 +1,17 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 12:50 ngày 25/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 13:15
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất trái phiếu ngân hàng hạ nhiệt & Tăng trưởng thu nhập từ dịch vụ:** Tín hiệu kép giúp cải thiện NIM và giảm chi phí vốn -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Ngân hàng thương mại tư nhân (Top-tier)**.
-- **Căng thẳng địa chính trị Trung Đông (Iran/Mỹ):** Rủi ro gián đoạn nguồn cung và chi phí vận tải -> **Tiêu cực** -> Áp lực lên nhóm Logistics/Vận tải biển.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Lãi suất trái phiếu ngân hàng hạ nhiệt và tăng trưởng thu nhập dịch vụ của khối ngân hàng tư nhân -> **Tích cực** -> Dòng tiền sẽ ưu tiên tập trung vào nhóm **Ngân hàng (TCB, VPB, ACB)** và **Bất động sản có nhu cầu vốn lớn (VHM)**.
+- Căng thẳng địa chính trị Trung Đông (Iran-Mỹ) -> **Tiêu cực** -> Rủi ro chi phí vận tải biển tăng, gây áp lực lên biên lợi nhuận nhóm ngành Logistics (HAH).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **TCB, VPB, ACB**
-- **Động lực (FA):** Lãi suất trái phiếu giảm giúp tối ưu hóa chi phí vốn; thu nhập từ dịch vụ (phí, bancassurance) tăng trưởng bền vững.
-- **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng tập trung vào các ngân hàng có hệ sinh thái số và tỷ trọng thu nhập ngoài lãi cao để phòng thủ trước rủi ro lãi suất.
-- **Hành động:** **Chú ý giải ngân** tại các vùng hỗ trợ cứng, ưu tiên nhóm có định giá hợp lý so với tốc độ tăng trưởng phí dịch vụ.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **TCM**
+- Động lực (FA): Cổ đông lớn Nguyễn Văn Nghĩa bị giải chấp gần 5 triệu cổ phiếu.
+- Nhận định dòng tiền: Tạo áp lực cung treo lơ lửng, tâm lý nhà đầu tư cá nhân suy yếu, rủi ro điều chỉnh kỹ thuật ngắn hạn.
+- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên đứng ngoài quan sát lực cầu hấp thụ tại các vùng hỗ trợ cứng.
 
-- **Mã:** **HAH**
-- **Động lực (FA):** Căng thẳng Iran làm tăng chi phí nhiên liệu và bảo hiểm vận tải.
-- **Nhận định dòng tiền:** Đối mặt với áp lực chốt lời ngắn hạn do lo ngại biên lợi nhuận bị bào mòn.
-- **Hành động:** **Tiếp tục quan sát**, thận trọng với vị thế mua mới cho đến khi có tín hiệu hạ nhiệt từ địa chính trị.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Không có dữ liệu mới về EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái chiến lược hiện tại.
+- Mã: **TCB, VPB, ACB**
+- Động lực (FA): Hưởng lợi kép từ chi phí vốn giảm và thu nhập phí dịch vụ tăng trưởng.
+- Nhận định dòng tiền: Dòng tiền thông minh có khả năng dịch chuyển mạnh vào nhóm này khi nền tảng cơ bản được cải thiện rõ rệt.
+- Hành động: **Chú ý giải ngân** nếu thị trường chung xác nhận xu hướng tăng tại vùng hỗ trợ.
