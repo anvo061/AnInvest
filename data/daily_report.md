@@ -1,26 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:07 - 25/08/2026
+⏱ Thời gian: 15:00 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính sách đa dạng hóa tài sản thế chấp bằng tài sản trí tuệ cho Startup -> [Đánh giá tác động: Tích cực (Dài hạn)] -> [Dòng tiền sẽ hướng vào: Nhóm cổ phiếu Công nghệ và Ngân hàng thương mại tiên phong chuyển đổi số].
+- **Đầu tư công:** Chuyển đổi dự án cao tốc Quảng Ngãi - Kon Tum sang đầu tư công toàn tuyến -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm xây lắp hạ tầng và vật liệu (VCG, HHV, LCG).
+- **Địa chính trị:** Căng thẳng Iran - Mỹ leo thang, rủi ro đứt gãy chuỗi cung ứng năng lượng -> **Tiêu cực** -> Tạo áp lực lên chi phí sản xuất, có khả năng kích hoạt dòng tiền trú ẩn vào nhóm năng lượng/dầu khí (PVD) hoặc gây áp lực điều chỉnh lên các mã vận tải/sản xuất có chi phí đầu vào cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **DHG**
-- Động lực (FA): Thông báo ngày ĐKCC trả cổ tức tiền mặt đợt cuối năm 2025.
-- Nhận định dòng tiền: Khẳng định sức khỏe tài chính ổn định, tạo lực đỡ tâm lý cho cổ đông trong bối cảnh thị trường biến động, giúp duy trì vùng giá mục tiêu.
-- Hành động: Tiếp tục quan sát nhịp điều chỉnh để gia tăng vị thế.
-
-- Mã: **VJC**
-- Động lực (FA): Mở bán sớm 3,1 triệu vé Tết Đinh Mùi 2027.
-- Nhận định dòng tiền: Thu hút dòng tiền đầu cơ ngắn hạn nhờ kỳ vọng cải thiện biên lợi nhuận trong quý cao điểm cuối năm.
-- Hành động: Chú ý giải ngân nếu dòng tiền có sự xác nhận vượt nền tích lũy.
-
-- Mã: **TCM**
-- Động lực (FA): Cổ đông lớn Nguyễn Văn Nghĩa bị giải chấp gần 5 triệu cổ phiếu.
-- Nhận định dòng tiền: Áp lực cung tức thời từ khối lượng lớn gây rủi ro kỹ thuật, đe dọa phá vỡ cấu trúc giá hiện tại.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng để bảo toàn vốn cho đến khi áp lực giải chấp kết thúc.
-
-- Mã: **NXT**
-- Động lực (FA): Được gỡ bỏ diện cảnh báo.
-- Nhận định dòng tiền: Cải thiện thanh khoản cục bộ nhưng chưa tạo ra thay đổi lớn về FA.
-- Hành động: Tiếp tục quan sát, chưa ưu tiên giải ngân tỷ trọng lớn.
+- **Mã: VCG, HHV, LCG**
+  - Động lực (FA): Chuyển đổi mô hình dự án cao tốc Quảng Ngãi - Kon Tum sang đầu tư công.
+  - Nhận định dòng tiền: Kỳ vọng khối lượng backlog tăng mạnh, củng cố dòng tiền trung hạn cho nhóm xây lắp.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (pullback) theo tín hiệu kỹ thuật.
+- **Mã: PNJ**
+  - Động lực (FA): Quỹ ngoại gom gần 5 triệu cổ phiếu, rủi ro pháp lý vụ kim cương được giải tỏa.
+  - Nhận định dòng tiền: Lực cầu khối ngoại củng cố niềm tin, tạo vùng đệm hỗ trợ giá mạnh.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi dòng tiền tạo lập xác nhận xu hướng tăng tiếp nối.
+- **Mã: CTG**
+  - Động lực (FA): Đấu giá 1.800 tỷ đồng tài sản bảo đảm (Xuyên Việt Oil).
+  - Nhận định dòng tiền: Tác động tích cực đến bảng cân đối kế toán thông qua việc xử lý nợ xấu.
+  - Hành động: Theo dõi sát sao tiến độ thu hồi nợ, canh điểm mua khi giá bứt phá vùng tích lũy.
+- **Mã: LTG**
+  - Động lực (FA): Bị hủy niêm yết bắt buộc.
+  - Nhận định dòng tiền: Rủi ro thanh khoản cực cao, dòng tiền tháo chạy là tất yếu.
+  - Hành động: Loại khỏi danh mục theo dõi, khuyến nghị không bắt đáy.
