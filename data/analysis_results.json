@@ -1,5 +1,24 @@
 ﻿[
   {
+    "Title": "Dự án khu biệt thự cao cấp ở Phan Thiết cũ bị ngân hàng thu giữ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/du-an-biet-thu-cao-cap-o-phan-thiet-cu-bi-ngan-hang-thu-giu-tai-san-2548701.html",
+    "PubDate": "Wed, 26 Aug 2026 05:10:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc ngân hàng thu giữ tài sản dự án cho thấy rủi ro nợ xấu bất động sản vẫn hiện hữu, gây áp lực lên bảng cân đối kế toán của các ngân hàng liên quan và tâm lý thận trọng đối với nhóm cổ phiếu BĐS nghỉ dưỡng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS nghỉ dưỡng. Việc thu giữ tài sản dự án cũ tại Phan Thiết phản ánh rủi ro nợ xấu tồn đọng, gây áp lực tâm lý lên các ngân hàng có dư nợ BĐS cao.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Ngân hàng có tỷ trọng cho vay BĐS lớn, rủi ro trích lập dự phòng tăng khi tài sản đảm bảo bị thu giữ."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 05:14:07"
+  },
+  {
     "Title": "L18: CTCP Đầu tư và Thương mại Tam Việt đăng ký mua 100.000 cổ phiếu - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1RRbzNQV01LWGlLZDN5WU9GdElDVDFEZUIxenhvVmJ3Uk5QTURRZWtiOXlGeG9ZZ2FmczVKeWR5OFdNd081TEdNVjJ0MHR2bHRuOWdkaGdyOG15UlB3Y2p6bFJmcXJGR1Fub0tVSTVLb1dIUGhDNmtEQUZZZllKMmxvVWp1OU1yXzBUNWZNWUNyQTFxR3VrV1BPUkNqM0FPb29JYnZLeXRuRW9ZcjRtbUJ1OUtUOXJ3ZXhNWmNZVGNTdWxW?oc=5",
@@ -16750,29 +16769,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-19 14:53:34"
-  },
-  {
-    "Title": "'Thủ phủ sầu riêng' rước voi về làm lễ cầu no đủ, livestream bán hàng sang Trung Quốc",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/thu-phu-sau-rieng-ruoc-voi-ve-lam-le-cau-no-du-livestream-ban-hang-sang-trung-quoc-100260819125514687.htm",
-    "PubDate": "8/19/2026 1:25:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc đẩy mạnh livestream bán hàng sang thị trường Trung Quốc giúp tăng kênh phân phối, tối ưu hóa doanh thu xuất khẩu cho các doanh nghiệp nông nghiệp có vùng trồng sầu riêng lớn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Nông nghiệp. Việc mở rộng kênh bán hàng trực tuyến sang Trung Quốc giúp tăng biên lợi nhuận. Dòng tiền sẽ chú ý đến các doanh nghiệp có diện tích sầu riêng lớn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp sở hữu diện tích lớn cây ăn trái, hưởng lợi từ việc mở rộng kênh phân phối xuất khẩu sang Trung Quốc."
-      },
-      {
-        "Ticker": "HNG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi gián tiếp từ xu hướng đẩy mạnh xuất khẩu nông sản sang thị trường Trung Quốc qua các kênh thương mại hiện đại."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 14:52:54"
   }
 ]
