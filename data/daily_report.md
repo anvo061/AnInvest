@@ -1,15 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:55 ngày 25/08/2026
+⏱ Thời gian: 17:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **VN-Index bứt phá ngưỡng 1.800 điểm với thanh khoản bùng nổ** -> [Tích cực] -> **Dòng tiền tập trung vào nhóm Chứng khoán (SSI, VND, VCI, HCM)** do hưởng lợi trực tiếp từ phí giao dịch, doanh thu margin và sự hưng phấn của dòng tiền cá nhân.
+- **Nâng hạng thị trường (FTSE) & VN-Index vượt 1.800 điểm:** -> [Đánh giá: Tích cực] -> Dòng tiền tập trung mạnh vào nhóm Bluechips (VCB, HPG, VHM) và nhóm Chứng khoán (SSI, VND, VCI, HCM) nhờ sự hỗ trợ của dòng vốn ngoại và thanh khoản thị trường tăng vọt.
+- **Áp lực nợ xấu ngành Dầu khí:** -> [Đánh giá: Tiêu cực] -> Cần thận trọng với các doanh nghiệp dầu khí có đòn bẩy tài chính cao hoặc các dự án đang gặp vướng mắc pháp lý/nợ vay.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SHS, SHB**
-    - Động lực (FA): SHS chốt nghị quyết tư vấn và bảo lãnh phát hành trái phiếu quốc tế và trái phiếu riêng lẻ cho SHB năm 2026.
-    - Nhận định dòng tiền: Tạo cộng hưởng tăng trưởng doanh thu dịch vụ IB cho SHS và củng cố nguồn vốn dài hạn cho SHB. Dòng tiền dự kiến sẽ phản ứng tích cực với thông tin hợp tác chiến lược này.
-    - Hành động: Chú ý giải ngân (Canh nhịp rung lắc kỹ thuật).
-- **Mã: DBC, BAF**
-    - Động lực (FA): Áp lực từ thịt trâu nhập khẩu giá rẻ (bằng 50% hàng nội địa).
-    - Nhận định dòng tiền: Gia tăng áp lực cạnh tranh lên biên lợi nhuận, có thể kích hoạt các nhịp bán tháo ngắn hạn của nhà đầu tư e ngại rủi ro về tăng trưởng.
-    - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại các vùng hỗ trợ cứng.
+- Mã: **SSI, VND, VCI, HCM**
+- Động lực (FA): Thị trường uptrend mạnh, VN-Index bứt phá ngưỡng cản cứng, thanh khoản bùng nổ.
+- Nhận định dòng tiền: Hưởng lợi kép từ doanh thu môi giới và lãi margin gia tăng trong ngắn hạn.
+- Hành động: Chú ý giải ngân theo dòng tiền (momentum) khi thị trường duy trì đà tăng.
+
+- Mã: **VCB, HPG, VHM**
+- Động lực (FA): Tâm điểm giải ngân của dòng vốn ngoại sau thông báo nâng hạng FTSE.
+- Nhận định dòng tiền: Lực cầu chủ động sẽ duy trì quanh các mã này.
+- Hành động: Tiếp tục quan sát điểm mua kỹ thuật để tối ưu hóa giá vốn.
+
+- Mã: **DBC, BAF**
+- Động lực (FA): Áp lực cạnh tranh từ thịt nhập khẩu giá rẻ.
+- Nhận định dòng tiền: Sức ép lên biên lợi nhuận, dòng tiền có thể thoái lui để chuyển sang nhóm ngành hưởng lợi từ sóng nâng hạng.
+- Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
