@@ -1,5 +1,76 @@
 ﻿[
   {
+    "Title": "VCI: Báo cáo kết quả giao dịch cổ phiếu của Người nội bộ Tô Hải - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVlic3pobHNsMHFsbVVGWjZNVUNPS29aZ3FsNHBGV3ctdGtnOGZ6WHRscXRxRmxaVjlkdkk2dS1GNVQ5TVNVelZINmpRcjFhYTF5dDBBSFFYOVp6aV9Ia0xPSDBMRnB3TDltSXhzTndyZFpsNXVFYUF2MnRENGo5dWJ1dm9aalpzSXp5bzBRVEdsNzRRZGdEcXYtb1RTSGxMYXM1cXRB?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 10:32:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin công bố giao dịch định kỳ của người nội bộ, không phản ánh thay đổi về hoạt động kinh doanh hay triển vọng lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - VCI. Giao dịch nội bộ mang tính chất cá nhân, không tác động đến xu hướng dòng tiền của cổ phiếu. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 00:44:28"
+  },
+  {
+    "Title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường: Tổng Giám đốc CTCK lý giải nguyên nhân - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWFBidE1EVUtMb25kcHpiRjdhVHJxTVNEdFZyYlljU2kyQkZHMVNsMjkwMnE4S1M3TUNIRi15SldrUjdaRmJTSDNCVm9SMXZmZ052WDVvWmNaWnp6VnFEczZzY1d5Qk16RG9uOXBfWFBQWXVmZXhsT0hpQ2dpOVhKbXEtbDBYMXdvZHRpTTJrSS1UbTRrcFVWaUxyT3dLV3RhVFQ5VzZrUVQ5LVBsOUIyeHNfY095d3Qtc2dBS2FB?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 17:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Thông tin về tâm lý tiêu cực của nhà đầu tư cá nhân phản ánh sự suy giảm thanh khoản và niềm tin thị trường, gây áp lực lên doanh thu môi giới của các công ty chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tổng kết tâm lý thị trường, không phải sự kiện tài chính đột biến. Tác động đến thanh khoản là dài hạn, không gây sốc tức thời cho nhóm chứng khoán.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 00:43:57"
+  },
+  {
+    "Title": "Tổng lượng vàng trong kho của các quỹ ETF toàn cầu lên cao nhất 6 tháng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWndRQVp4SVZ4RGppc1p1R0hGQV9tVk5IMEdmaGl2UHdyZ3VtS1dHODhhLXBROUF2dmRWLUlmQ2lhYnFzU1ZGYUJtaEJxdGhwRXNjeVNyYTZ1UDBVcmt5cUNSSHd0Z1VUbTNzdElRNFlZeVBiNmFOT2dqTlNBclN0Q3ZXQjZUR2Y5ZEtIQmRVd3pZTGhyaTBRVGdpenRNTFp6VjZkT3RyNGtvQXo0OTBqMA?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 17:08:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc các quỹ ETF vàng tăng nắm giữ phản ánh tâm lý trú ẩn an toàn toàn cầu, hỗ trợ giá vàng trong nước và gián tiếp tác động đến các doanh nghiệp kinh doanh vàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Vàng. ETF vàng tăng nắm giữ phản ánh tâm lý trú ẩn toàn cầu, ít tác động trực tiếp đến biên lợi nhuận bán lẻ trang sức PNJ trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá vàng tăng và tâm lý tích cực hỗ trợ nhu cầu mua sắm vàng trang sức, cải thiện biên lợi nhuận gộp của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 00:43:40"
+  },
+  {
+    "Title": "Vì sao nhiều cổ phiếu 'quen thuộc' vắng bóng trong rổ FTSE?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vi-sao-nhieu-co-phieu-quen-thuoc-vang-bong-trong-ro-ftse-5112917.html",
+    "PubDate": "Wed, 26 Aug 2026 00:06:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết giải thích về tiêu chí loại trừ cổ phiếu của FTSE, không phải thông báo thay đổi danh mục mới, do đó không gây tác động trực tiếp đến dòng tiền của các mã cổ phiếu cụ thể.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Bài viết mang tính chất giáo dục về tiêu chí chỉ số, không có thông tin thay đổi danh mục. Không tác động đến dòng tiền ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 00:43:31"
+  },
+  {
+    "Title": "Những nước ảnh hưởng nhất khi Mỹ siết gọng kìm kinh tế với Iran",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nhung-nuoc-anh-huong-nhat-khi-my-siet-gong-kim-kinh-te-voi-iran-5113227.html",
+    "PubDate": "Wed, 26 Aug 2026 00:13:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông làm gián đoạn nguồn cung dầu toàn cầu, gây áp lực lên giá năng lượng và chi phí đầu vào của các doanh nghiệp sản xuất tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Vận tải và Sản xuất. Căng thẳng địa chính trị đẩy giá dầu tăng, gây áp lực chi phí đầu vào. Dòng tiền thận trọng với nhóm tiêu thụ năng lượng lớn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 00:43:05"
+  },
+  {
     "Title": "FUEFCV50: Thông báo thay đổi giá trị tài sản ròng ngày 24/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3ROYzRjeFJReGVUdUJveThrb3p5bEJzNVZOLW0xaHR2UGhGbll4Z2t0NmUzbHNPSGliZEoyZzFRb2RCRjUtb2dUMy1vY1h4aFYtbXVWMEtrSkxhVnRLR2tZRjE5RllpZGVyVENYMDZ5ajV5MEtyTzRaMHpDOGJoTHlweTctRWU1b2tmeHBESEVqVkZVeDlIZkRYQ2hvME4wUHd2cnVrdG40a0tWOVpmTk5lZzVoOU5hZ0E4Uk5oSjh1WE1sREE?oc=5",
@@ -16703,88 +16774,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-19 13:03:19"
-  },
-  {
-    "Title": "Đắk Lắk nâng cấp hạ tầng, logistics, kết nối từ nhà máy đến cảng biển",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/dak-lak-nang-cap-ha-tang-logistics-ket-noi-tu-nha-may-den-cang-bien-100260819103413058.htm",
-    "PubDate": "8/19/2026 11:05:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc cải thiện hạ tầng logistics tại Đắk Lắk giúp giảm chi phí vận chuyển, tăng năng lực xuất khẩu nông sản và nguyên liệu, hỗ trợ trực tiếp cho các doanh nghiệp có vùng nguyên liệu hoặc nhà máy tại khu vực Tây Nguyên.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức hạ tầng mang tính dài hạn, chưa tác động trực tiếp đến dòng tiền ngắn hạn. Cần theo dõi tiến độ giải ngân thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 13:03:04"
-  },
-  {
-    "Title": "Cục CSGT tiếp tục phản hồi tin doanh nghiệp thiếu hụt tài xế xe đầu kéo, xe khách trên 30 chỗ",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/cuc-csgt-tiep-tuc-phan-hoi-tin-doanh-nghiep-thieu-hut-tai-xe-xe-dau-keo-xe-khach-tren-30-cho-10026081910592294.htm",
-    "PubDate": "8/19/2026 11:32:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin phản hồi về thủ tục hành chính và quản lý nhân sự ngành vận tải, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp vận tải niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vận tải. Thông tin hành chính về quản lý bằng lái không làm thay đổi cấu trúc chi phí hay doanh thu ngành. Dòng tiền không phản ứng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 13:02:53"
-  },
-  {
-    "Title": "Khánh Hòa hợp tác cùng MB thúc đẩy chuyển đổi số và phát triển kinh tế",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/khanh-hoa-hop-tac-cung-mb-thuc-day-chuyen-doi-so-va-phat-trien-kinh-te-2546764.html",
-    "PubDate": "Wed, 19 Aug 2026 10:08:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là thỏa thuận hợp tác mang tính chất hành chính, thúc đẩy chuyển đổi số địa phương, không tác động trực tiếp đến biên lợi nhuận hay tăng trưởng doanh thu đột biến của ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngân hàng MBB. Hợp tác mang tính chiến lược dài hạn, không tạo đột biến dòng tiền ngắn hạn. Dòng tiền thông minh sẽ đứng ngoài quan sát.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Hợp tác chuyển đổi số giúp củng cố vị thế nhưng không tác động ngay lập tức đến kết quả kinh doanh quý."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 13:02:42"
-  },
-  {
-    "Title": "MB được trao chứng nhận quốc tế SOC 2 Type II về bảo mật thông tin",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/mb-duoc-trao-chung-nhan-quoc-te-soc-2-type-ii-ve-bao-mat-thong-tin-2546772.html",
-    "PubDate": "Wed, 19 Aug 2026 10:23:52 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Chứng nhận SOC 2 Type II củng cố uy tín về an toàn dữ liệu, giúp MB tăng lợi thế cạnh tranh trong mảng ngân hàng số và thu hút khách hàng doanh nghiệp lớn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng (MBB). Chứng nhận SOC 2 Type II là tiêu chuẩn vận hành nội bộ, không tác động trực tiếp đến biên lợi nhuận hay dòng tiền ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nâng cao uy tín thương hiệu và năng lực cạnh tranh trong mảng ngân hàng số, hỗ trợ thu hút khách hàng tổ chức."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 13:02:16"
-  },
-  {
-    "Title": "MB đồng hành cùng hộ kinh doanh tuân thủ các quy định thuế mới",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/mb-dong-hanh-cung-ho-kinh-doanh-tuan-thu-cac-quy-dinh-thue-moi-2546795.html",
-    "PubDate": "Wed, 19 Aug 2026 10:35:47 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Đây là hoạt động hỗ trợ nghiệp vụ ngân hàng thông thường, giúp tăng cường tệp khách hàng hộ kinh doanh nhưng không tạo ra đột biến về doanh thu hay lợi nhuận ngay lập tức.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Hoạt động hỗ trợ thuế là nghiệp vụ gia tăng giá trị dịch vụ, không tác động mạnh đến dòng tiền ngắn hạn của MBB. Thị trường sẽ phản ứng thờ ơ.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Hoạt động hỗ trợ khách hàng tuân thủ thuế giúp củng cố quan hệ khách hàng nhưng không ảnh hưởng trực tiếp đến biên lợi nhuận hay tăng trưởng tín dụng đột biến."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 13:01:45"
   }
 ]
