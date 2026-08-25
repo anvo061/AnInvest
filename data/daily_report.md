@@ -1,21 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:45 - 25/08/2026
+⏱ Thời gian: 21:30 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Khối tự doanh bán ròng mạnh nhóm Ngân hàng (322 tỷ đồng - mức cao nhất 3 tháng) -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ có xu hướng rút khỏi nhóm Bank vốn hóa lớn, gây áp lực điều chỉnh chỉ số chung ngắn hạn].
+- Nhóm Ngân hàng chịu áp lực điều chỉnh mạnh do khối tự doanh bán ròng 322 tỷ đồng (mức cao nhất trong 3 tháng) -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Có khả năng rút khỏi nhóm vốn hóa lớn (Blue-chips), gây sức ép lên chỉ số chung trong ngắn hạn].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **VCI**
-- Động lực (FA): Lãnh đạo (Ông Tô Hải) đã mua xong 31 triệu cổ phiếu, nâng sở hữu lên gần 18%.
-- Nhận định dòng tiền: Tín hiệu gom hàng quyết liệt từ người nội bộ củng cố niềm tin vào giá trị doanh nghiệp, giúp giảm cung trôi nổi đáng kể trên thị trường.
-- Hành động: Chú ý giải ngân (tận dụng nhịp điều chỉnh chung của thị trường để gia tăng vị thế).
+- Động lực (FA): Ông Tô Hải (Lãnh đạo) đã hoàn tất mua vào 31 triệu cổ phiếu, gia tăng cam kết nắm giữ.
+- Nhận định dòng tiền: Tạo tín hiệu tích cực về niềm tin nội tại, hỗ trợ giá khi thị trường chung đang có rung lắc từ nhóm ngân hàng.
+- Hành động: Tiếp tục quan sát vị thế; đây là yếu tố hỗ trợ kỹ thuật mạnh giúp VCI giữ nhịp tốt hơn so với mặt bằng chung.
 
 - Mã: **VCB, TCB**
-- Động lực (FA): Bị khối tự doanh bán ròng mạnh trong phiên.
-- Nhận định dòng tiền: Áp lực bán từ dòng vốn chuyên nghiệp gây nhiễu và đe dọa kịch bản phục hồi ngắn hạn của nhóm tài chính.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ gần nhất, chưa nên bắt đáy.
-
-- Mã: **BSI**
-- Động lực (FA): Ký kết liên doanh chiến lược với Amova Asset Management.
-- Nhận định dòng tiền: Tích cực dài hạn nhờ mở rộng hệ sinh thái dịch vụ, tuy nhiên cần theo dõi phản ứng dòng tiền sau khi đã có nhịp tăng giá trước đó.
-- Hành động: Tiếp tục quan sát (đợi nhịp tích lũy lại sau tin).
+- Động lực (FA): Áp lực bán ròng mạnh từ khối tự doanh trong phiên 25/8.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn đang suy yếu do áp lực chốt lời/cơ cấu từ khối tổ chức, rủi ro vi phạm kịch bản hỗ trợ gần.
+- Hành động: Rủi ro vi phạm kịch bản; hạn chế giải ngân bắt đáy cho đến khi áp lực bán từ khối tự doanh hạ nhiệt.
