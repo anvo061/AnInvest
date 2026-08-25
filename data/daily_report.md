@@ -1,20 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:15 - 25/08/2026
+⏱ Thời gian: 18:30 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Câu chuyện nâng hạng thị trường:** Các quỹ ETF quốc tế bắt đầu có động thái giải ngân đón đầu lộ trình nâng hạng FTSE -> **Tích cực** -> Dòng tiền tập trung vào nhóm vốn hóa lớn (VN30), đặc biệt là nhóm tài chính và sản xuất có thanh khoản cao.
-- **Cơ chế giá điện mặt trời theo khu vực:** Chính sách phân vùng giá điện mặt trời đang được xem xét -> **Tích cực** -> Nhóm Năng lượng tái tạo và Xây lắp điện (REE, PC1).
+- Chính sách phân vùng giá điện mặt trời theo tỉnh, thành được đề xuất -> [Đánh giá tác động: Tích cực] -> [Dòng tiền sẽ hướng vào nhóm Năng lượng tái tạo và Xây lắp điện].
+- Khối ngoại mua ròng 3 phiên liên tiếp (570 tỷ đồng) -> [Đánh giá tác động: Tích cực] -> [Dòng tiền tập trung củng cố nhóm Bluechips dẫn dắt (HPG, VHM, VCB)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** REE
-  - Động lực (FA): Hưởng lợi trực tiếp từ dự thảo phân vùng giá điện mặt trời, giúp tối ưu hóa hiệu quả danh mục năng lượng tái tạo sẵn có.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sẽ sớm phản ứng với thông tin chính sách, tạo lực cầu tích lũy quanh vùng giá hiện tại.
-  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên tới.
-- **Mã:** VJC
-  - Động lực (FA): Mở bán vé Tết sớm giúp tối ưu dòng tiền hoạt động (cash flow) và dự phóng doanh thu quý IV.
-  - Nhận định dòng tiền: Tạo sự ổn định cho tâm lý nhà đầu tư, kỳ vọng biên lợi nhuận cải thiện.
-  - Hành động: Tiếp tục quan sát biến động thanh khoản, ưu tiên nắm giữ cho kỳ vọng cuối năm.
-- **Mã:** VCB, HPG, VHM
-  - Động lực (FA): Lọt "tầm ngắm" thu hút vốn ngoại từ các quỹ ETF đón đầu nâng hạng.
-  - Nhận định dòng tiền: Lực cầu khối ngoại sẽ là động lực chính duy trì đà tăng của chỉ số.
-  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ vị thế.
+- Mã: **REE**
+  - Động lực (FA): Cơ chế tính giá điện mặt trời linh hoạt theo khu vực giúp tối ưu hóa hiệu quả các dự án năng lượng tái tạo hiện hữu của doanh nghiệp.
+  - Nhận định dòng tiền: Tín hiệu hỗ trợ mạnh cho nhóm tiện ích/năng lượng, kỳ vọng dòng tiền đầu cơ sẽ tìm đến nhóm có danh mục điện sạch lớn.
+  - Hành động: **Chú ý giải ngân** (theo dõi sát vùng hỗ trợ kỹ thuật).
+
+- Mã: **BSI**
+  - Động lực (FA): Ký kết hợp tác liên doanh với Amova Asset Management.
+  - Nhận định dòng tiền: Mở ra tiềm năng thu hút vốn ngoại và gia tăng phí dịch vụ, hỗ trợ đà tăng ngắn hạn.
+  - Hành động: **Tiếp tục quan sát** (kiểm chứng khối lượng giao dịch trong phiên tới).
+
+- Mã: **VJC**
+  - Động lực (FA): Mở bán 3,1 triệu vé Tết 2027, tối ưu hóa dòng tiền hoạt động sớm.
+  - Nhận định dòng tiền: Củng cố kỳ vọng lợi nhuận Q4, thu hút dòng tiền trung hạn.
+  - Hành động: **Tiếp tục quan sát** (đợi xác nhận bứt phá biên độ tích lũy).
