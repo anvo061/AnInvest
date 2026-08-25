@@ -1,16 +1,14 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:15 - 25/08/2026
+⏱ Thời gian: 23:00 - 25/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hiện tượng VN-Index tăng điểm nhờ lực kéo từ nhóm vốn hóa lớn (VCB, VHM) trong khi diện rộng thị trường giảm điểm, kết hợp với áp lực bán ròng mạnh từ khối tự doanh vào nhóm Ngân hàng -> Đánh giá: Tiêu cực (Rủi ro phân phối tại vùng chỉ số trụ) -> Dòng tiền đang bị rút khỏi các mã Midcap/Penny để "trú ẩn" tạm thời vào nhóm trụ, cần thận trọng với kịch bản chỉ số "xanh vỏ đỏ lòng".
+- Quy hoạch phát triển sân bay Gia Bình (Bắc Ninh): Đánh giá **Tích cực** cho hạ tầng khu công nghiệp -> Dòng tiền sẽ tập trung vào nhóm **Bất động sản Khu công nghiệp**.
+- Cảnh báo chi phí tài chính (lãi suất vay 16%) ở một số doanh nghiệp BĐS: Đánh giá **Tiêu cực** cho nhóm BĐS dân cư có đòn bẩy tài chính cao -> Cần sàng lọc kỹ danh mục để tránh các doanh nghiệp có rủi ro thanh khoản.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VCB
-- Động lực (FA): Chịu áp lực bán ròng mạnh từ khối tự doanh (322 tỷ đồng toàn ngành) và được dùng để điều tiết chỉ số.
-- Nhận định dòng tiền: Dòng tiền lớn đang có trạng thái cơ cấu/thoát vị thế ở nhóm Ngân hàng, việc VCB được giữ giá tạo điểm số có thể là tín hiệu "kéo trụ xả hàng" ở các nhóm ngành khác.
-- Hành động: Rủi ro vi phạm kịch bản; yêu cầu quan sát chặt chẽ biến động ATC/phiên kế tiếp, tránh đuổi theo chỉ số.
+- Mã: **KBC**
+- Động lực (FA): Hưởng lợi trực tiếp từ hạ tầng sân bay Gia Bình, củng cố vị thế quỹ đất công nghiệp chiến lược tại Bắc Ninh.
+- Nhận định dòng tiền: Tin tức bổ trợ cho câu chuyện tăng trưởng dài hạn, có thể kích hoạt dòng tiền đầu cơ tìm kiếm điểm tựa kỳ vọng mới.
+- Hành động: **Chú ý giải ngân** nếu kỹ thuật xác nhận vượt nền giá ngắn hạn, theo dõi sát khối lượng khớp lệnh để tránh "tin ra là bán".
 
-- Mã: TCB
-- Động lực (FA): Mục tiêu bán ròng trọng điểm của khối tự doanh.
-- Nhận định dòng tiền: Áp lực cung ngắn hạn đang chiếm ưu thế, chưa có lực cầu đỡ giá đủ mạnh.
-- Hành động: Tiếp tục quan sát; tạm dừng giải ngân mới.
+*(Các tin tức còn lại về giao dịch ETF, xử phạt cá nhân thao túng và tin hành chính được loại bỏ do nhiễu, không thay đổi dòng tiền vĩ mô).*
