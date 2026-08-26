@@ -1,22 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:55 - 26/08/2026
+⏱ Thời gian: 19:40 ngày 26/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thương vụ đàm phán bán vốn 2 tỉ USD của Techcombank (TCB) và chiến lược thu hút FDI chất lượng cao từ Trung Quốc -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm **Ngân hàng (Bluechips)** và **Bất động sản khu công nghiệp (KBC, GVR, SZC)**.
+- **Ngân hàng & BĐS:** Đồng loạt 12 ngân hàng tung gói tín dụng 408.000 tỷ đồng và tin đàm phán bán vốn 2 tỷ USD của TCB -> **Tích cực** -> Dòng tiền mạnh mẽ hướng vào nhóm Ngân hàng dẫn dắt (TCB, MBB) và lan tỏa sang nhóm BĐS vốn hóa lớn (VHM).
+- **Vận tải dầu khí:** Bất ổn nguồn cung tại Nga buộc Ấn Độ thay đổi tuyến đường cung ứng -> **Tích cực** -> Dòng tiền hướng vào nhóm Vận tải biển/dầu khí (PVT).
+- **Khu công nghiệp:** Thủ tướng thúc đẩy FDI chất lượng cao từ Trung Quốc kết hợp nhu cầu bán dẫn toàn cầu tăng -> **Tích cực** -> Dòng tiền hướng vào cổ phiếu có quỹ đất khu công nghiệp (KBC, GVR, SZC).
+- **Tâm lý thị trường:** VN-Index vượt mốc 1.800 điểm -> Kích hoạt làn sóng F0 và thanh khoản toàn hệ thống.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TCB**
-  - Động lực (FA): Đàm phán bán vốn quy mô lớn (2 tỉ USD), cải thiện trực tiếp hệ số CAR và định giá.
-  - Nhận định dòng tiền: Dòng tiền thông minh xác nhận xu hướng mạnh, thanh khoản đột biến, tạo hiệu ứng dẫn dắt tâm lý thị trường.
-  - Hành động: **Chú ý giải ngân** theo đà tăng, quản trị rủi ro tại vùng giá đã breakout.
-- Mã: **KBC, GVR, SZC**
-  - Động lực (FA): Hưởng lợi kép từ làn sóng FDI chất lượng cao và chuỗi cung ứng linh kiện/bán dẫn (Samsung tăng giá chip).
-  - Nhận định dòng tiền: Nhóm được hưởng lợi gián tiếp từ xu hướng vĩ mô, dòng tiền đang luân chuyển tìm kiếm các cổ phiếu có quỹ đất sẵn sàng cho thuê.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại các vùng kháng cự kỹ thuật để gia tăng vị thế.
-- Mã: **NKG**
-  - Động lực (FA): Áp lực biên lợi nhuận từ thép Trung Quốc do giá thế giới suy yếu (Bloomberg).
-  - Nhận định dòng tiền: Rủi ro bị bán ngược nếu áp lực thép giá rẻ gia tăng trong ngắn hạn.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cần theo dõi sát diễn biến giá thép thế giới để ra quyết định hạ tỉ trọng.
+- **Mã: TCB**
+  - Động lực (FA): Đàm phán bán vốn 2 tỷ USD; hưởng lợi từ gói tín dụng mới.
+  - Nhận định dòng tiền: Dòng tiền cực mạnh (đột biến), tâm điểm dẫn dắt VN-Index.
+  - Hành động: Nắm giữ vị thế, quan sát vùng kháng cự kỹ thuật tiếp theo để tối ưu hóa lợi nhuận.
+- **Mã: PVT**
+  - Động lực (FA): Giá cước vận tải dầu tăng do gián đoạn nguồn cung Nga - Ấn Độ.
+  - Nhận định dòng tiền: Tiềm năng thu hút dòng tiền trung hạn nhờ hưởng lợi từ xung đột địa chính trị.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (pullback).
+- **Mã: KBC**
+  - Động lực (FA): Hưởng lợi kép từ FDI chất lượng cao và chuỗi cung ứng bán dẫn toàn cầu.
+  - Nhận định dòng tiền: Dòng tiền gia tăng bền vững nhờ triển vọng lấp đầy khu công nghiệp.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi dòng tiền vào KCN xác nhận bứt phá.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- (Không có dữ liệu mới liên quan đến EIB, BSR trong khung thời gian này).
+*(Lưu ý: Các tin tức về giao dịch hoán đổi quỹ ETF là nghiệp vụ hành chính, không có tác động đến chiến lược đầu tư).*
