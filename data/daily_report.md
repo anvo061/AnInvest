@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:45
+⏱ Thời gian: 03:30 - 27/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Rủi ro lạm phát toàn cầu gia tăng (theo dữ liệu Jackson Hole) khiến lợi suất trái phiếu Mỹ tiếp tục neo cao -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Áp lực lên nhóm cổ phiếu công nghệ và tài chính do chi phí vốn tăng, gây rủi ro rút ròng đối với khối ngoại].
+- Lạm phát Mỹ hạ nhiệt củng cố kỳ vọng Fed cắt giảm lãi suất -> Tích cực -> Nhóm Tài chính, Ngân hàng và các doanh nghiệp vay nợ bằng USD.
+- Rủi ro lạm phát toàn cầu tại Jackson Hole đối nghịch với dữ liệu lạm phát Mỹ -> Trung lập (Tạo áp lực giằng co lên tỷ giá và định giá cổ phiếu tăng trưởng).
+- Cơ chế CBAM của EU gây áp lực chi phí lên doanh nghiệp xuất khẩu thép -> Tiêu cực -> Nhóm ngành Thép (NKG, HSG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCB**
-- Động lực (FA): Áp lực tỷ giá và môi trường lãi suất cao kéo dài từ dữ liệu vĩ mô toàn cầu.
-- Nhận định dòng tiền: Khả năng cao chịu áp lực cung do khối ngoại tái cơ cấu danh mục trước rủi ro chi phí vốn.
-- Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát vùng hỗ trợ cứng.
+- **Mã: TCB**
+    - Động lực (FA): Hai tổ chức nước ngoài đang đàm phán mua 15% cổ phần.
+    - Nhận định dòng tiền: Tin tức hỗ trợ định giá dài hạn và kích thích lực cầu từ khối ngoại, củng cố vị thế dẫn dắt trong nhóm ngân hàng.
+    - Hành động: Chú ý quan sát điểm bùng nổ thanh khoản để giải ngân theo dòng vốn ngoại.
 
-- Mã: **FPT**
-- Động lực (FA): Lợi suất trái phiếu tăng gây sức ép định giá lên các cổ phiếu nhóm tăng trưởng/công nghệ.
-- Nhận định dòng tiền: Xu hướng suy yếu trong ngắn hạn do dòng tiền tìm đến các nhóm có tính phòng thủ cao hơn.
-- Hành động: Rủi ro vi phạm kịch bản, cần kiểm tra lại mức chặn lỗ tại các ngưỡng hỗ trợ gần nhất.
+- **Mã: NKG**
+    - Động lực (FA): Rủi ro mất 100 USD/tấn thép xuất khẩu sang EU do phí phát thải (CBAM).
+    - Nhận định dòng tiền: Tác động tiêu cực trực tiếp vào biên lợi nhuận, rủi ro áp lực bán gia tăng trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy, chờ kiểm định vùng hỗ trợ cứng.
 
-- Mã: **SBT**
-- Động lực (FA): Nguồn cung đường toàn cầu dự kiến thắt chặt sau động thái từ Ấn Độ.
-- Nhận định dòng tiền: Kỳ vọng hưởng lợi từ chênh lệch giá đường, dòng tiền có thể chuyển dịch sang nhóm sản xuất thực phẩm khi thị trường chung chịu áp lực vĩ mô.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự.
+- **Mã: FPT**
+    - Động lực (FA): Áp lực từ lợi suất trái phiếu Mỹ tăng gây áp lực điều chỉnh định giá cổ phiếu công nghệ.
+    - Nhận định dòng tiền: Dễ chịu áp lực bán ròng từ khối ngoại khi dòng vốn rút khỏi các tài sản tăng trưởng.
+    - Hành động: Tiếp tục quan sát, ưu tiên quản trị rủi ro nếu áp lực bán từ khối ngoại tăng mạnh.
