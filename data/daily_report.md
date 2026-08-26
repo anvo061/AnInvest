@@ -1,23 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:41 - 26/08/2026
+⏱ Thời gian: 14:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- FTSE Russell công bố lộ trình nâng hạng thị trường, xác định danh sách các cổ phiếu vốn hóa lớn và thanh khoản cao là đích đến của dòng vốn ngoại -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm trụ cột (VN30), đặc biệt là Ngân hàng, Chứng khoán và Bất động sản vốn hóa lớn.
-- Áp lực từ thị trường trái phiếu toàn cầu làm tăng rủi ro lãi suất/tỷ giá -> **Tiêu cực** -> Gây áp lực chi phí tài chính lên nhóm Bất động sản thâm dụng vốn vay lớn.
-- Giá dầu thế giới giảm >3% -> **Trung lập/Phân hóa** -> Hưởng lợi cho nhóm sản xuất (Phân bón, Nhựa) nhờ giảm chi phí đầu vào; gây áp lực lên nhóm thượng nguồn dầu khí (PVD, PVS).
+- **FTSE Russell công bố lộ trình nâng hạng:** Đây là thông tin tác động mạnh nhất, xác nhận lộ trình cụ thể cho dòng vốn ngoại (ETF) đổ vào các mã vốn hóa lớn, thanh khoản cao -> **Tích cực** -> Dòng tiền hướng vào nhóm Ngân hàng (VCB), Bất động sản (VHM), Thép (HPG) và Chứng khoán (SSI).
+- **Rủi ro thị trường trái phiếu toàn cầu:** Áp lực lãi suất và tỷ giá gia tăng từ dữ liệu trái phiếu quốc tế -> **Tiêu cực** -> Gây áp lực lên chi phí tài chính của các nhóm doanh nghiệp có nợ vay lớn như Bất động sản (NVL, PDR).
+- **Giá dầu giảm hơn 3%:** Giảm áp lực chi phí đầu vào cho nhóm sản xuất -> **Tích cực (DPM, AAA)** nhưng **Tiêu cực (PVD, PVS)** do lo ngại giảm nhu cầu thăm dò khai thác.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: TCB**
-  - Động lực (FA): Dòng tiền lớn xác nhận xu hướng tăng mạnh, đạt mức trần.
-  - Nhận định dòng tiền: Hiệu ứng lan tỏa tâm lý tích cực sang nhóm Ngân hàng, kích thích dòng tiền đầu cơ gia tăng tỷ trọng.
-  - Hành động: **Tiếp tục quan sát** xu hướng duy trì nền giá sau phiên break; tránh đuổi giá quá mạnh nếu chỉ số chung gặp áp lực chốt lời ngắn hạn.
+  - Động lực (FA): Dòng tiền lớn xác nhận xu hướng tăng mạnh, đột biến kỹ thuật.
+  - Nhận định dòng tiền: Tạo hiệu ứng lan tỏa, dẫn dắt nhóm ngân hàng thu hút dòng tiền đầu cơ.
+  - Hành động: Chú ý giải ngân nếu có nhịp test lại cung ngắn hạn.
 - **Mã: NVL, PDR**
-  - Động lực (FA): Áp lực lãi suất và rủi ro tỷ giá toàn cầu tăng cao.
-  - Nhận định dòng tiền: Rủi ro tái cấu trúc nợ gia tăng, dòng tiền có thể thoái lui để bảo toàn vốn trước biến động chi phí tài chính.
-  - Hành động: **Rủi ro vi phạm kịch bản**; cần theo dõi sát diễn biến khối lượng bán ra, cân nhắc giảm tỷ trọng nếu nền giá bị gãy.
+  - Động lực (FA): Áp lực lãi suất và chi phí vốn tăng do rủi ro trái phiếu toàn cầu.
+  - Nhận định dòng tiền: Rủi ro bị bán mạnh do chi phí tài chính gia tăng.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng.
+- **Mã: HVN**
+  - Động lực (FA): Mở bán vé Tết sớm, tối ưu hóa dòng tiền.
+  - Nhận định dòng tiền: Cải thiện thanh khoản ngắn hạn.
+  - Hành động: Tiếp tục quan sát phản ứng tại các vùng cản kỹ thuật.
 - **Mã: BVH**
-  - Động lực (FA): Lợi nhuận từ danh mục đầu tư chứng khoán cải thiện mạnh nhờ sóng tăng thị trường.
-  - Nhận định dòng tiền: Phản ứng tích cực do tính chất "hưởng lợi kép" từ đà tăng của chỉ số.
-  - Hành động: **Chú ý giải ngân** nếu thị trường duy trì xu hướng nâng hạng.
+  - Động lực (FA): Lợi nhuận từ đầu tư tài chính tăng trưởng nhờ đà tăng của thị trường.
+  - Nhận định dòng tiền: Tích cực, củng cố vị thế nhóm tài chính.
+  - Hành động: Tiếp tục quan sát.
 
-⚠️ Lưu ý: Các mã không được nhắc tên trong mục này hoặc các thông tin về ETF hoán đổi, cổ tức, nông sản đều là nhiễu, không làm thay đổi chiến lược điều hành.
+*Lưu ý: Các tin tức về ETFs (FUEKIVND, FUEFCV50, FUEBFVND, FUEVFVND) và cổ tức (SDK, HHN) là hoạt động định kỳ, không làm thay đổi dòng tiền vĩ mô.*
