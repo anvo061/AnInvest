@@ -1,5 +1,116 @@
 ﻿[
   {
+    "Title": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+    "PubDate": "Tue, 25 Aug 2026 01:16:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Giá dầu giảm mạnh giúp giảm áp lực chi phí đầu vào cho các doanh nghiệp vận tải, nhựa và phân bón, đồng thời kiềm chế lạm phát chi phí đẩy.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu giảm mạnh gây áp lực lên nhóm thượng nguồn (PVD, PVS) nhưng hỗ trợ biên lợi nhuận nhóm hạ nguồn. Tác động thực tế cần theo dõi thêm biến động tỷ giá và cầu tiêu thụ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DPM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá dầu giảm giúp giảm chi phí nguyên liệu đầu vào cho sản xuất phân bón."
+      },
+      {
+        "Ticker": "AAA",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá hạt nhựa phụ thuộc vào giá dầu, chi phí đầu vào giảm hỗ trợ biên lợi nhuận."
+      },
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu giảm làm giảm động lực thăm dò khai thác, ảnh hưởng tiêu cực đến giá dịch vụ khoan."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá dầu thấp làm giảm nhu cầu đầu tư vào các dự án dầu khí mới, ảnh hưởng đến khối lượng công việc."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 12:56:57"
+  },
+  {
+    "Title": "FTSE Russell công bố tài liệu quan trọng về tỷ trọng của Việt Nam, lộ trình giải ngân, phân loại cổ phiếu… - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYTBMVks0WnRUREhJNm9seXhYbXItRV9aMHRQT0VKVDZVWTFqbUZyYk1RT3Fobm5aMG5GYWM0UmZfbGlWNHVTMEtBaVZQTFhWTGpBQml5YlJXckNPWWs0ZWtJcHhPTXZ4ZW5uWkFpdzNFYXlKZTJGNjRkS0ZEbzNOdW5XN3llRHNiQlFRQk50SDdxcFVJdG1GWkVMLTNqNzMtelp3eG9GU1E5dzR1RDhGV1ZmZ05JeXVVeGxid1JMSmR0VUtVWVF4TmY0bWFoaTdrM3ZOTm1GSUEweXM?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 03:35:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 8,
+    "MarketImpact": "Việc FTSE Russell công bố lộ trình cụ thể là bước tiến quan trọng cho việc nâng hạng thị trường, thu hút dòng vốn ngoại (ETF) đổ vào các cổ phiếu vốn hóa lớn và thanh khoản cao.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm vốn hóa lớn (Bluechips). Lộ trình nâng hạng rõ ràng kích hoạt dòng tiền khối ngoại đón đầu. Dòng tiền thông minh sẽ tập trung vào các mã đầu ngành có thanh khoản tốt.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn nhất thị trường, ưu tiên hàng đầu của các quỹ ETF khi nâng hạng."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thanh khoản cao và vốn hóa lớn, là mã chủ chốt trong danh mục các quỹ ngoại."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu trụ cột ngành BĐS, thu hút dòng vốn thụ động khi thị trường được nâng hạng."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ sự gia tăng thanh khoản và quy mô thị trường."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn, thường xuyên nằm trong danh mục các quỹ đầu tư chỉ số quốc tế."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 12:56:34"
+  },
+  {
+    "Title": "SDK: Ngày đăng ký cuối cùng trả cổ phiếu thưởng cho cổ đông hiện hữu - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbl9kcGc5QWpBRE9HOWJBRjdrUDF4ZnRTYUZLdU1mWTVROTFfS20xVHY5VmZROUt1OS1neU5VQ3ltRlpnUW5VUjF6ZHhaTFRkSzFNVDJqMTlUMFJhcFp2S1h0S0lreEhaTFlwRWlVY3licWRVT0JlU3ppM1I3TE5iRnlhUjUxU2syVTlkdVRPc1FaeGxwSUpKUHFEQTFQejFlU2NvdzNUVU90LWpBT3lCOUJGZ2VUcjRpWWphTU1pNkdxaHNBdHc?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 03:39:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc trả cổ phiếu thưởng là hoạt động điều chỉnh kỹ thuật, không làm thay đổi giá trị nội tại hay dòng tiền kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SDK. Cổ phiếu thưởng chỉ là pha loãng kỹ thuật, không tác động đến giá trị vốn hóa. Dòng tiền thông minh thường không phản ứng mạnh với tin tức này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "SDK",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động chia thưởng chỉ làm tăng số lượng cổ phiếu lưu hành, không tạo ra giá trị gia tăng mới cho cổ đông."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 12:56:19"
+  },
+  {
+    "Title": "HHN: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWm1qWEhudlUzc3NyTkFoZmNvbERYOVpvLS1qaDVReVBKREwwWW5PSkhUb01EUG5lMFVkYUNDQzhQanlnTjE1TW1JUEZocEYtLTc0cjY3cF9sNnRzN0htQVJhYkpicDZWMEs3aDNuYzBrM3pRc0FBMXdYRER5WExRdWpXSDh1TThnM0hVc3FHNFJ0M1haYktqR2JzeDN3VFYyclN1VHJFVlE2amFFTWpBQw?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 03:49:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động định kỳ, phản ánh dòng tiền ổn định của doanh nghiệp nhưng không tạo ra thay đổi đột biến về giá trị nội tại hay xu hướng dòng tiền lớn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - HHN. Cổ tức tiền mặt là hoạt động thường niên, không tác động đến cấu trúc dòng tiền lớn. Thanh khoản thấp, không thu hút dòng tiền đầu cơ.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "HHN",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động chi trả cổ tức theo kế hoạch, không ảnh hưởng đến triển vọng kinh doanh cốt lõi."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 12:56:06"
+  },
+  {
     "Title": "FUEMAVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 26/08/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVy1aTllvYlRueVVQZk5HZVBzWFNnWGtCdFR3MHZuVHQxWFJFTE84Z2dydndZZGJPSHB6anN4QVB1ZkFXLXUwR2xadFdqVkozamVBQ1NsZWZ5T0lyVFJ3enAtN3Nfcmd5aFo5b0ZkdVRZTEVHdmQwTkJXM3BHNjBxeE1Jc3lJYjB1RllydmlwMVhlV29iazktXzJwV0xGQXlyWGRfdGJhQ1ltZmdQT20tczVXczZ5YkVIenlnb2VpOWcyUXloZlVCakFVV0FDYzhVcWtZ?oc=5",
@@ -16714,57 +16825,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-19 18:14:37"
-  },
-  {
-    "Title": "VE3: Thông báo bổ sung lý do đưa cổ phiếu VE3 vào danh sách chứng khoán không được phép giao dịch ký quỹ - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdmpsaWZmdnFtMnNxTkY3cFMxcnVNWG1hTFc5S1BJV1AzYVI0eDd3ZkZYTURiMHlXVW50OWxFMEtKQk9tNE5CNHBzLTdEcmEybWc4eUJ5QnJlQ3hBWXZvZFotcHZSN0NhOThQQ2VsWUdENnZYOTZfVjVqeGVjVjJDaGEzYjF4Q0dCV2J4WDRXOEhfWXN4UEZUcFB6Zm9kdjN2Qm1LbDI5RjdJZ3RhbWJBVlRHNjAzMDh0VENKLVBTMk0wUWx4OWpaS19UdXg0VjlRWTBXbU5hT0NOV3M0UGdjWUoySzdiSUpqd09SYVJKSEU4eF9od0E?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 10:50:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc cắt margin đối với cổ phiếu VE3 làm giảm tính thanh khoản và hạn chế khả năng tiếp cận vốn của nhà đầu tư đối với mã này, gây áp lực tâm lý tiêu cực ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - VE3. Việc cắt margin làm giảm sức cầu từ nhà đầu tư sử dụng đòn bẩy, tạo áp lực bán giải chấp hoặc cơ cấu danh mục trong ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 18:14:22"
-  },
-  {
-    "Title": "China sets new 2030 targets for energy infrastructure development - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0RXV2Y5YWdkYmdqcENpd1FuWkdiMC1KQVByRFNwNzNmWVl0SVAyd0NxV2s1WGViMFR4WnVGb3VOWlREQ1IzU0ZOR2xoWmZyM0w0a2xqY3BTdXJkTHFucVdMXzJjLTd1b0Y1M2UtMFhnejZ6LTFhUW0tSTNWakRCbm42TDZHdmJGUm9XLUJHbER2UGFuX3lScVZoVS14NHhSREtDQTJtMTk0XzZHYzBvSWdTaw?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 10:41:43 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc Trung Quốc đẩy mạnh hạ tầng năng lượng tạo nhu cầu lớn về nguyên vật liệu và thiết bị điện, gián tiếp thúc đẩy xuất khẩu và hợp tác kỹ thuật của các doanh nghiệp điện, xây lắp điện Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin vĩ mô Trung Quốc không có tác động trực tiếp đến biên lợi nhuận doanh nghiệp Việt Nam. Thiếu bằng chứng về dòng tiền thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 17:53:45"
-  },
-  {
-    "Title": "VE4: Thông báo bổ sung lý do đưa cổ phiếu VE4 vào danh sách chứng khoán không được phép giao dịch ký quỹ - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONWV3Sks2UFBuZ09GN0pSWTRHQnJOSE94bGlSMWdFZGZNNDM2Qy1xY09leHRtX19FazVacWdNYV8zTmo3LWNhR3VoWkNiUUljeUx4a0loT3M3M0tFSS1MZjByNVBiMnZMdVZwdjc5NzdvN3BYQll0S2IxS3ZmdlZqNTNNNGtkdGI2UVpKVEpCRVE5MmEzeURMMWRaY1c2X1lJVGpiZVkzblpkS24xVjFZU0lta3ByZnI0SkRWMnVJazhZV1BlSVIyWVdmQnd6VGZTbm9xNnZRRVAyd0d2Z05lWmU5czVjWGVtNDhRcVRPTnRJVktDN0E?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 10:22:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc cắt margin đối với một cổ phiếu vốn hóa nhỏ không gây ảnh hưởng đến chỉ số chung, nhưng làm giảm thanh khoản và gây áp lực tâm lý tiêu cực lên cổ đông nắm giữ mã này.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - VE4. Việc cắt margin làm giảm sức mua và thanh khoản ngắn hạn. Dòng tiền thông minh sẽ tránh xa các mã bị hạn chế giao dịch ký quỹ do rủi ro quản trị.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 17:53:31"
-  },
-  {
-    "Title": "HTG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkNHVHkwWkNzMVVkRHJrcUxfbkkyRnlmcWxXOWlCRzhpdDR1VjUwSVp2VVpyd1BRVzJIRTZjemZQaThxQlNFbXBEaDZiOTluc21rWlpDR0hHb1JvVklJTlVGdDY3cDVZZzhUR2I3NUt3dWFhV0pXSkxUazRhT3dIX05FLTdJYmNlekprOFEwNE9SYlNWUHZndlhFdHVtWkwtdjhrNEZOUGNTVmlfUnozRzVaSUdmdHhMUU9LMVRUNS15R1VMeFU3UA?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 10:36:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - HTG. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không tạo ra biến động dòng tiền đáng kể cho cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 17:53:20"
   }
 ]
