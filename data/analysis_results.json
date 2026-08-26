@@ -1,5 +1,50 @@
 ﻿[
   {
+    "Title": "HOSE: Thống kê giao dịch tự doanh (ngày 26/08/2026) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU09PWl96U0VQeWgtbUdSampFNDg0bmFmdjZzQmpYWVNhbzVSaEYwM25RQzZ2bWVSWHI4T2Q4NEtCcDJrRjFHMHFWSXVvU25EZXlQWTZ3ZTRmaElFWVRMbzVMcW1CdGh5VF9zbUNra1pfTF9EaEZSTkNJM3NwMUY4NFlickVsWmh1Z1cwckdJWm5PckJSeXIydmpRaTc3WmlVTHVYaW9Ub0ZLVDQ?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 09:53:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là dữ liệu thống kê giao dịch quá khứ, không phải tin tức sự kiện có khả năng thay đổi xu hướng thị trường hay hoạt động kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Dữ liệu thống kê. Đây là báo cáo giao dịch quá khứ, không mang tính dự báo hay tác động trực tiếp đến dòng tiền thông minh trong phiên giao dịch hiện tại.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 17:17:26"
+  },
+  {
+    "Title": "CC1: Công văn của Ủy ban Chứng khoán Nhà nước về việc nhận được đầy đủ tài liệu báo cáo phát hành cổ phiếu để trả cổ tức của CC1 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNLXZSUW1DQk9kMjlzZllNb19ZUGhtSGNvVmRQdmJaX21Td1JscGFfbHZPNTBuOV9nWlRFTnpwcTVmTzMxeEIxeWJHVEdjOXhyc0VhUkg0NnpmX1NBaTBtOTFGMERxNGpSeUp2WTBlMVJleGdydm9fMzJxbWlsVmx5LTFURERUSHRZRTVSODA2clJ3a3hUTHZOYzVueE5VMllvRzVYY1dja1k5RjhqQUlDcTduZUNITWJjR21IWFFEbW1UaGRjQWdUR2g5U3hBak9yX0Fqa0FoYTVicF9QSUVzTW53Q29HWDBwcW1hYkNLZEk2ZVRGLXZFangtRHcxaUtvdDNuUnc5MEw1TTFFbW40RC1LSlVEQQ?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 09:44:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc phát hành cổ phiếu trả cổ tức là thủ tục hành chính thông thường, không làm thay đổi giá trị nội tại hay dòng tiền kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - CC1. Đây là thủ tục hành chính về vốn, không tác động đến biên lợi nhuận hay dòng tiền kinh doanh. Không tạo sóng ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 17:17:16"
+  },
+  {
+    "Title": "HTM: Công ty cổ phần Chứng khoán Asean - người có liên quan đến Trưởng Ban kiểm soát - đã bán 11.584.600 CP - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSm1VenRVcTNzYXd2dkhlWHhqUmRRN0MzbXJjUDh4ZmlYWWNXRWNTaDlpN2ZaSGl5YWlTLW1talo1YzB5Z0twV0tneXJ2Y0FUa0VDX1dOS0VBdV9remlXOXkycnV0S2Nfa3QzMFBaVG5WXzZYQVhWNUhPdmREYTJnVE5pU1pfaGd4WnRYWU5oWnBwd0hsYm8xZ2RWYzFPMnp6UTZOc3F6eHNtVTV3cTBfVFdnellDRGtPVkEzVDZYdFJNMUlCdm5hTkdmSmJfTXFSQzRRMkFWVmEyb3F4Q3BpRldmeTVGM01FMUNVSUN3M216QQ?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 09:57:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc cổ đông liên quan đến nội bộ bán ra lượng lớn cổ phiếu tạo áp lực cung ngắn hạn, gây tâm lý e ngại cho nhà đầu tư cá nhân đối với mã HTM.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - HTM. Áp lực bán từ cổ đông liên quan nội bộ tạo rào cản tâm lý. Dòng tiền sẽ thận trọng, tránh bắt đáy khi cung treo lơ lửng trên thị trường.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HTM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán ra lượng lớn cổ phiếu từ người có liên quan nội bộ gây áp lực cung ngắn hạn lên giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 17:17:00"
+  },
+  {
     "Title": "E1VFVN30: Báo cáo kết quả giao dịch chứng chỉ quỹ của tổ chức có liên quan đến người nội bộ CTCP Chứng khoán Thành phố Hồ Chí Minh - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQV01ZUG9veE9BSXE2Ny1uRW9mRUZfRDFEMWNGOWJIdGU0a0pLelRtV29rMlFIX1dWNnYzOGF0Y29HcnU0dW1Ddnp1Wmk5dWc5VFQyZW5mRngzQV9qc25ZVE9uLS03Z2w4cmJjdWxnVld2aGxpVzhLZjlTTXkwcDF1TWZFYm53YVl5SEZwVzJ5UjFGZzR3VmJNcXRNNE1POTF3ODdLTWFJTkhlanRqcUN2Vkd0Mk55Ym1raVd0TlI3SVdNMVotOS1iNFlWN28yTHM3SGhiR0g1U0lxWnh2bVBLdVpRczJ6NHdlSnMwdkxlUVVPOC1ESmxSYXpIOTJRNUs1OW5LR29adWxyQTNpdW13ZVpQTElQbnRNejNudGdpOA?oc=5",
@@ -16768,50 +16813,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-19 22:20:14"
-  },
-  {
-    "Title": "AAS: Báo cáo tài chính bán niên năm 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYm9EUUZCY3N6M3FsX2N4ejROUHc0T2ZWSDZacG1XODhyazY4Y181Rm92a0VvY2pqam1XRHUxYXg2dVBXRTd3VTEyUUhHd1FrT3NTTUtyeHVxQndLZ3BSRXBXQ094SnF3d05pVmNHQWNPQ1RxOXk5VHRDY0p5VFNBWTJXcUZqOEFXMm5rWVBzYUZ2UF9laTM1ZDdMdnI3a01f?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 08:41:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc công bố báo cáo tài chính định kỳ là nghĩa vụ công bố thông tin thông thường, không chứa đựng các biến động bất thường về lợi nhuận hay sự kiện trọng yếu tác động đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Chứng khoán. Báo cáo tài chính định kỳ là thủ tục hành chính, không tạo ra động lực dòng tiền mới. Thị trường sẽ phản ứng theo xu hướng chung của nhóm ngành.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 22:20:02"
-  },
-  {
-    "Title": "HoSE thông báo ngày chốt quyền mua gần 67,2 triệu trái phiếu chuyển đổi của CII - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMC1xWTN3MkEyLW1YVDVsYmllQUFZZ0ZRNHd0NExtUk5IbENLQ0dEMy1IRTJSTFd3U295YnZUR0hmdzZZZDQxaVRPbkFLbHZQeFNVZGU5c3JSd0pMSUZCQy1EOUJyYk0zWWZoUXBWRC0xdk5HREVtblVUTjNCdldqOElDMjd1UnlMSzNUSFZfMmNiU2dyWTdZVWRJWEE3ejR2aDdxQjBEWkJPLU9kVmJIZUI2RjRaU0hvZkE?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 15:09:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc phát hành trái phiếu chuyển đổi giúp CII huy động vốn để tái cơ cấu nợ hoặc đầu tư dự án, tuy nhiên gây áp lực pha loãng cổ phiếu trong tương lai.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - CII. Việc phát hành trái phiếu chuyển đổi quy mô lớn tạo áp lực pha loãng đáng kể, gây tâm lý e ngại cho cổ đông hiện hữu trong ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "CII",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Huy động vốn thành công nhưng đối mặt với áp lực pha loãng cổ phiếu khi trái phiếu chuyển đổi thành cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 22:19:45"
-  },
-  {
-    "Title": "Loạt doanh nghiệp bị phạt nặng vì chậm công bố nhiều báo cáo, giao dịch \"chui\" với bên liên quan - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWM2RkYzd0t1c0xXY1k5UUZmdk1odlJFVUw0Y2U2a01oOFVqdnNKNkx3LUZ3LThWX3QwdUlLQTFneDBWQUdwZzRzSlp3QjNWb0tvR0hOa3pPY29TTXlGYnBaMzZSbGhISkFWYThycUMxSlRWN0hvWTBlaXJzNG52dWhNZVpvQjZHcUFDM2xrNE5tbG9NLWpjV1ItZ2hESWhXWE1oM05DWkYwMHZZTVAzZDlUTGRwX1NDZkZma1kwc2ZKTWlFWEhwSUxsdjN4dw?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 08:59:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc vi phạm công bố thông tin và giao dịch với bên liên quan làm suy giảm niềm tin của nhà đầu tư vào quản trị doanh nghiệp, gây áp lực bán tháo ngắn hạn đối với các mã bị nêu tên.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm cổ phiếu vi phạm. Rủi ro quản trị làm suy yếu niềm tin dòng tiền. Nhà đầu tư nên tránh xa các mã có tiền sử vi phạm công bố thông tin để bảo toàn vốn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 21:50:16"
   }
 ]
