@@ -1,5 +1,143 @@
 ﻿[
   {
+    "Title": "Tỷ phú Nguyễn Thị Phương Thảo và đợt \"tổng lực tăng vốn\" chưa từng có cho HDBank, Galaxy Holdings, VikkiBankS... - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTFc0Q1BUZWNxTUtfb1dySG9Sa2NOQmc4S3NwNUxJay1GNVFJWXJJNW5hY183VkJHeUsyRDVXWnl1d2VmdXpBRFIwazVYbmhKR24yREtGRmpOdkwtczN2MXN2OFlRV3BpUU1mVGJDMDBVRGdVUXZ3X2lQc2lsYV9LbnJwdU5pZ2otMVZnRjJhSzhyc0VJaHBtdnhocFFjTmtKTXZHU3BNSkwzbDE1T1Y0ZUtxZ3Z2aEU1UHJSZTRkZmx5OFJlbEQxU2UyX1hrLU9QTGNFaWVsM0w3VEFhRVE?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 00:12:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc tăng vốn quy mô lớn giúp HDBank củng cố hệ số an toàn vốn (CAR), mở rộng dư địa tăng trưởng tín dụng và nâng cao năng lực cạnh tranh trong dài hạn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Tăng vốn giúp HDB cải thiện CAR và dư địa tín dụng. Cần theo dõi áp lực pha loãng cổ phiếu trong ngắn hạn trước khi dòng tiền lớn nhập cuộc.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HDB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn giúp cải thiện năng lực tài chính, hỗ trợ tăng trưởng tín dụng và mở rộng quy mô hoạt động."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 07:57:02"
+  },
+  {
+    "Title": "Becamex muốn chuyển nhượng quyền mua cổ phiếu BWE - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXNNMFJTc2ZXV2g2SmQ0RmtfWW0wQ19uY2kzR2wtMU9mcUlsRHNCaFdQQm5ENEoxV3gwSExaNnlsbU1xUFRSYzZWSFh5MWh2R08xazRwNmN2R3dDVlUzWWNIYUpVdkRvLUFEMVhDSlQzcENBSzlwUV9uZlhtQWY2V0ZUd2kxN3pfdUUwVjdqSHI0WGs?oc=5",
+    "PubDate": "Wed, 26 Aug 2026 00:46:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc Becamex (BCM) chuyển nhượng quyền mua cổ phiếu BWE là hoạt động tái cơ cấu danh mục đầu tư tài chính thông thường, không làm thay đổi bản chất hoạt động kinh doanh cốt lõi của cả hai doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - BCM, BWE. Đây là giao dịch thoái vốn/tái cơ cấu danh mục nội bộ, không tác động đến dòng tiền kinh doanh. Không tạo xu hướng giá mới cho cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [
+      {
+        "Ticker": "BCM",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Hoạt động chuyển nhượng quyền mua là nghiệp vụ tài chính, không ảnh hưởng đến lợi nhuận cốt lõi."
+      },
+      {
+        "Ticker": "BWE",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Thay đổi cơ cấu cổ đông thông qua chuyển nhượng quyền mua không làm thay đổi nền tảng kinh doanh của công ty nước."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 07:56:49"
+  },
+  {
+    "Title": "Tin tức sáng 26-8: Lãi suất liên ngân hàng lại tăng; Ông Tô Hải mua vào hàng trăm tỉ đồng cổ phiếu Vietcap",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tin-tuc-sang-26-8-lai-suat-lien-ngan-hang-lai-tang-ong-to-hai-mua-vao-hang-tram-ti-dong-co-phieu-vietcap-100260825185751551.htm",
+    "PubDate": "8/26/2026 6:00:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Lãi suất liên ngân hàng tăng gây áp lực lên chi phí vốn ngắn hạn của các ngân hàng, trong khi hành động mua vào của lãnh đạo VCI tạo tín hiệu tích cực về niềm tin nội bộ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Lãi suất liên ngân hàng tăng gây áp lực chi phí vốn ngắn hạn toàn ngành. VCI có tín hiệu nội bộ tích cực nhưng không đủ bù đắp rủi ro thanh khoản hệ thống.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãnh đạo mua vào lượng lớn cổ phiếu thể hiện sự tự tin vào triển vọng doanh nghiệp, hỗ trợ tâm lý nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 07:56:34"
+  },
+  {
+    "Title": "Bãi đỗ và trạm sạc xe điện ở chung cư là của chung hay riêng?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/bai-do-va-tram-sac-xe-dien-o-chung-cu-la-cua-chung-hay-rieng-100260825234117107.htm",
+    "PubDate": "8/26/2026 7:31:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là vấn đề tranh chấp pháp lý về quyền sở hữu và quản lý vận hành chung cư, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp bất động sản niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Đây là tranh chấp pháp lý dân sự, không ảnh hưởng đến dòng tiền hay hoạt động kinh doanh của các chủ đầu tư. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-08-26 07:56:24"
+  },
+  {
+    "Title": "“Cơn lốc” tăng vốn và cuộc đua ngôi vương vốn điều lệ ngân hàng",
+    "Source": "VnBusiness Ngân Hàng",
+    "Link": "https://vnbusiness.vn//con-loc-tang-von-va-cuoc-dua-ngoi-vuong-von-dieu-le-ngan-hang.html",
+    "PubDate": "Wed, 26 Aug 2026 00:48:02 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc tăng vốn điều lệ giúp các ngân hàng cải thiện hệ số an toàn vốn (CAR), mở rộng hạn mức tín dụng và tăng năng lực cạnh tranh, tạo tiền đề cho tăng trưởng lợi nhuận dài hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính tổng quan ngành, thiếu thông tin cụ thể về thời điểm thực thi. Cần theo dõi tiến độ phát hành thực tế thay vì kỳ vọng tăng trưởng từ kế hoạch tăng vốn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn giúp củng cố vị thế tài chính, hỗ trợ tăng trưởng tín dụng mạnh mẽ trong chu kỳ tới."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc tăng vốn điều lệ giúp ngân hàng cải thiện tỷ lệ an toàn vốn, hỗ trợ chiến lược mở rộng hệ sinh thái."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng vốn giúp MBB duy trì tốc độ tăng trưởng tín dụng cao và cải thiện năng lực tài chính."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 07:56:09"
+  },
+  {
+    "Title": "VN-Index áp sát mốc 1.800 điểm, nhưng dòng tiền chuyên nghiệp lại đang rút ra",
+    "Source": "VnBusiness Chứng Khoán",
+    "Link": "https://vnbusiness.vn//vn-index-ap-sat-moc-1800-diem-nhung-dong-tien-chuyen-nghiep-lai-dang-rut-ra.html",
+    "PubDate": "Wed, 26 Aug 2026 00:47:08 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Sự lệch pha giữa dòng tiền cá nhân và tổ chức cho thấy rủi ro phân phối tại vùng đỉnh, cảnh báo khả năng điều chỉnh kỹ thuật khi thiếu sự đồng thuận từ dòng tiền thông minh.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Dòng tiền tổ chức rút lui tại vùng cản 1.800 điểm xác nhận rủi ro phân phối. Cần thận trọng với nhóm Bluechips vốn hóa lớn đang neo giá cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu trụ cột thường bị tổ chức bán ròng để chốt lời khi chỉ số chạm ngưỡng kháng cự tâm lý."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán từ khối tổ chức gây rủi ro điều chỉnh cho các mã vốn hóa lớn dẫn dắt chỉ số."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Dòng tiền chuyên nghiệp rút ra thường ưu tiên bán các mã thanh khoản cao như HPG để hiện thực hóa lợi nhuận."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhóm chứng khoán nhạy cảm với dòng tiền, áp lực bán ròng từ tự doanh sẽ gây áp lực lên giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-08-26 07:55:43"
+  },
+  {
     "Title": "Asian Stocks Set to Gain as Oil Extends Declines: Markets Wrap - Bloomberg",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEp0MDBrTWc0UWtjcEVfNThBU1NJc0xNN3pLVUMwZDIxTDFSMU9OdFY1Yk1VUm9CajJJUlVjdnRfWWpLLV94T21mV291NmdBWFRzNzZIa0UxcUZsVVFJcXlWTHYwa29Zd1Z0YUZKMk4tYlNscm1XVTdiSjJVRmlzZG9JdXl2TkpCQ2ZCWlYxX1pGa1BLZTUxbng0WGV2V2FDa21FdExxcjFjSFFvNTJjQ093?oc=5",
@@ -16674,127 +16812,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-19 15:23:51"
-  },
-  {
-    "Title": "SDK: Công văn của Ủy ban Chứng khoán Nhà nước về tài liệu báo cáo phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu của SDK - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNY1REOXUtWmFYblZpN3ZNSVdhMndkclNXcHJNbFZZck5qZmNkVzUyZmJVX3ctdHFOd3lieHFqMlFTcU1Qc0lmUXhGQ0NvbDB6bVg0eHFINi1sMExyU1hNN0s1ajg5eXc3QURuZVpIblJ3akRlckNJb19tbGJWa3M0eXE5c0dCRHIzeVZxTmhPSFR6eEdLTkJ1TDBfemV3dDNOcExka2drcC16b2szck1zTGhPOTFYcC1fUmlaaXFwT0x4TjJzTWRrTExaU3pPSUwzU3lLd0Q5VFJqZW4yWWVWZDZUeXg4YkF4dTNHRVlrOUVPN0h0WkxmVzFCME9pSXZJUmczc2g2Vi1wV0d6VEhSb2Y3WTJrTTA0MUhBdWt2V0Y?oc=5",
-    "PubDate": "Wed, 19 Aug 2026 07:56:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc phát hành cổ phiếu từ nguồn vốn chủ sở hữu giúp doanh nghiệp tăng vốn điều lệ, cải thiện quy mô vốn hóa và thanh khoản cổ phiếu trên thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - SDK. Phát hành cổ phiếu thưởng từ vốn chủ sở hữu là nghiệp vụ kế toán thuần túy, không làm thay đổi giá trị nội tại doanh nghiệp. Tác động thanh khoản ngắn hạn không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SDK",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng vốn điều lệ từ nguồn vốn chủ sở hữu giúp củng cố năng lực tài chính và tăng tính thanh khoản cho cổ phiếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 15:23:33"
-  },
-  {
-    "Title": "Thêm 2 trung tâm dịch vụ cao cấp hỗ trợ xin visa Anh tại Việt Nam",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/them-2-trung-tam-dich-vu-cao-cap-ho-tro-xin-visa-anh-tai-viet-nam-10026081912380749.htm",
-    "PubDate": "8/19/2026 12:45:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về dịch vụ hành chính, không có tác động trực tiếp đến doanh thu, lợi nhuận hay hoạt động kinh doanh của bất kỳ doanh nghiệp nào đang niêm yết trên sàn chứng khoán Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Tin tức hành chính về dịch vụ visa không tạo ra biến động dòng tiền trên thị trường chứng khoán. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 15:23:14"
-  },
-  {
-    "Title": "Khởi công nhà máy điện rác lớn nhất miền Trung",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/khoi-cong-nha-may-dien-rac-lon-nhat-mien-trung-100260819112541389.htm",
-    "PubDate": "8/19/2026 12:46:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc khởi công dự án điện rác quy mô lớn thúc đẩy triển vọng tăng trưởng cho các doanh nghiệp xây lắp hạ tầng và năng lượng tái tạo, củng cố xu hướng chuyển dịch năng lượng xanh.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Dự án điện rác quy mô lớn nhưng tiến độ khởi công chưa phản ánh ngay vào doanh thu. Cần theo dõi năng lực trúng thầu thực tế của các nhà thầu xây lắp.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-19 15:22:59"
-  },
-  {
-    "Title": "Với 6,2 tỷ USD, ‘kho báu’ khí đốt dưới đáy biển được đánh thức sau 68 năm",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/voi-6-2-ty-usd-kho-bau-khi-dot-duoi-day-bien-duoc-danh-thuc-sau-68-nam-2545701.html",
-    "PubDate": "Wed, 19 Aug 2026 14:15:12 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Dự án khí Lô B - Ô Môn được triển khai giúp tạo khối lượng công việc khổng lồ cho các nhà thầu dầu khí thượng nguồn và đảm bảo nguồn cung khí dài hạn cho các nhà máy điện.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Dự án Lô B khởi động tạo backlog lớn cho thượng nguồn. Dòng tiền tập trung vào PVS, PVD. GAS, POW hưởng lợi gián tiếp dài hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ các hợp đồng EPCI lớn của dự án Lô B."
-      },
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu giàn khoan tăng cao phục vụ chiến dịch khoan thăm dò và khai thác tại Lô B."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 15:22:41"
-  },
-  {
-    "Title": "Mỹ tính siết nhãn 'tái chế' trên túi nilon, hộp nhựa",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/my-tinh-siet-nhan-tai-che-tren-tui-nilon-hop-nhua-5110716.html",
-    "PubDate": "Wed, 19 Aug 2026 12:00:24 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc siết chặt quy định nhãn mác tại Mỹ tạo rào cản kỹ thuật cho các doanh nghiệp bao bì nhựa xuất khẩu của Việt Nam, buộc họ phải tăng chi phí tuân thủ hoặc thay đổi quy trình sản xuất.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Bao bì nhựa. Quy định mới tại Mỹ làm tăng chi phí tuân thủ, gây áp lực biên lợi nhuận xuất khẩu của AAA. APH chịu ảnh hưởng gián tiếp qua công ty con.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "AAA",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Doanh nghiệp xuất khẩu bao bì nhựa sang thị trường Mỹ, chịu áp lực chi phí tuân thủ quy định mới."
-      },
-      {
-        "Ticker": "APH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Công ty mẹ của AAA, chịu ảnh hưởng gián tiếp từ các quy định khắt khe về tiêu chuẩn nhựa tại thị trường Mỹ."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 15:22:20"
-  },
-  {
-    "Title": "Second wave of fuel shortages at petrol stations sweeps across Russia - reuters.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 13:32:22 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Tình trạng thiếu hụt nhiên liệu tại Nga có thể đẩy giá dầu thế giới tăng cao do lo ngại nguồn cung, tạo lợi thế cho các doanh nghiệp thượng nguồn và phân phối dầu khí tại Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Thiếu hụt nhiên liệu tại Nga là vấn đề nội tại, tác động giá dầu toàn cầu hạn chế. Cần theo dõi biến động Brent. Thận trọng với các mã dầu khí nội địa.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu khoan và giá thuê giàn khoan, cải thiện biên lợi nhuận."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác khi giá dầu duy trì ở mức cao."
-      },
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu cao hỗ trợ biên lợi nhuận lọc hóa dầu (crack spread) của nhà máy."
-      }
-    ],
-    "AnalyzedAt": "2026-08-19 14:55:38"
   }
 ]
