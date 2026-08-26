@@ -1,22 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:45 - 26/08/2026
+⏱ Thời gian: 11:30 - 26/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam cải cách quy định thu hồi đất giúp đẩy nhanh pháp lý dự án BĐS -> Tích cực -> Dòng tiền dự kiến dịch chuyển mạnh vào nhóm Bất động sản (VHM, PDR, NLG, KDH).
-- Cạnh tranh lãi suất huy động gay gắt làm tăng chi phí vốn -> Tiêu cực -> Gây áp lực giảm biên lợi nhuận (NIM) lên nhóm Ngân hàng (MBB, TCB).
+- **Cải cách quy định thu hồi đất:** Việt Nam đẩy mạnh cải cách luật thu hồi đất giúp tháo gỡ nút thắt pháp lý dự án BĐS -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm BĐS có quỹ đất sạch, pháp lý vững (VHM, PDR, NLG, KDH).
+- **Giá dầu thế giới lao dốc:** Giá dầu giảm mạnh làm suy giảm kỳ vọng lợi nhuận nhóm năng lượng -> **Tiêu cực** -> Áp lực bán tại nhóm Dầu khí (PVD, PVS, BSR, GAS).
+- **Techcombank tăng vốn điều lệ:** Thông báo chia cổ tức bằng cổ phiếu để tăng vốn -> **Tích cực** -> Kỳ vọng mở rộng quy mô tín dụng cho TCB.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VHM, PDR, NLG, KDH
-  - Động lực (FA): Cải cách quy định thu hồi đất giúp tháo gỡ nút thắt pháp lý, giải phóng nguồn cung dự án.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ phản ứng nhanh với nhóm BĐS có quỹ đất lớn và dự án đang vướng pháp lý.
-  - Hành động: Theo dõi sát thanh khoản phiên sáng; Chú ý giải ngân nếu dòng tiền đồng thuận tại các vùng hỗ trợ kỹ thuật.
+- **Mã:** PVD
+- **Động lực (FA):** Giá dầu thế giới giảm mạnh tác động trực tiếp đến giá cho thuê giàn khoan.
+- **Nhận định dòng tiền:** Áp lực cung ngắn hạn sẽ gia tăng mạnh do tâm lý lo ngại về biên lợi nhuận.
+- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ kỹ thuật gần nhất.
 
-- Mã: MSN, MCH
-  - Động lực (FA): Lọt danh sách ưu tiên của các quỹ ngoại, đón sóng vốn thụ động.
-  - Nhận định dòng tiền: Cải thiện thanh khoản và tạo lực đỡ vùng giá, giảm thiểu rủi ro điều chỉnh chung của thị trường.
-  - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng trong các nhịp rung lắc.
+- **Mã:** TCB
+- **Động lực (FA):** Tăng vốn điều lệ thông qua chia cổ tức bằng cổ phiếu.
+- **Nhận định dòng tiền:** Tin tức hỗ trợ định giá dài hạn, thu hút dòng tiền tổ chức, có khả năng tạo nhịp tăng điểm ngắn hạn.
+- **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc trong phiên.
 
-- Mã: MBB, TCB
-  - Động lực (FA): Áp lực tăng chi phí vốn (COF) từ việc khách hàng cá nhân mặc cả lãi suất.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể suy yếu do lo ngại biên lợi nhuận bị thu hẹp.
-  - Hành động: Cẩn trọng, quan sát áp lực bán tại vùng cản; rủi ro vi phạm kịch bản tích lũy nếu thanh khoản bán lớn.
+- **Mã:** VHM, PDR, NLG
+- **Động lực (FA):** Cải cách quy định thu hồi đất giúp đẩy nhanh tiến độ dự án.
+- **Nhận định dòng tiền:** Tin tức vĩ mô hỗ trợ mạnh cho sự kỳ vọng về dòng tiền thực hiện dự án.
+- **Hành động:** Tiếp tục quan sát phản ứng của dòng tiền tại các vùng kháng cự.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR:** Tin tức giá dầu giảm mạnh tác động tiêu cực đến biên lợi nhuận lọc dầu và rủi ro trích lập dự phòng hàng tồn kho. Kết hợp với việc thời hạn mục tiêu (tháng 3/2026) đã qua, vị thế này cần được **cơ cấu lại (giảm tỷ trọng hoặc chốt lời)** để bảo toàn vốn trước khi áp lực giảm giá dầu tác động sâu hơn vào KQKD quý tới.
