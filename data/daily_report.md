@@ -1,23 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:35 - 26/08/2026
+⏱ Thời gian: 10:45 - 26/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực chi phí huy động ngân hàng gia tăng:** Người gửi tiền gia tăng quyền đàm phán lãi suất, đẩy chi phí vốn (COF) lên cao. -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Áp lực lên nhóm Ngân hàng (MBB, TCB), có khả năng gây phân kỳ lợi nhuận NIM].
-- **Sự lệch pha dòng tiền tại vùng kháng cự 1.800 điểm:** Dòng tiền tổ chức/chuyên nghiệp đang rút ròng tại các mã vốn hóa lớn (Bluechips). -> [Đánh giá: Tiêu cực/Rủi ro] -> [Dòng tiền: Ưu tiên phòng thủ, thận trọng với VCB, VHM, HPG, SSI].
+- Việt Nam cải cách quy định thu hồi đất giúp đẩy nhanh pháp lý dự án BĐS -> Tích cực -> Dòng tiền dự kiến dịch chuyển mạnh vào nhóm Bất động sản (VHM, PDR, NLG, KDH).
+- Cạnh tranh lãi suất huy động gay gắt làm tăng chi phí vốn -> Tiêu cực -> Gây áp lực giảm biên lợi nhuận (NIM) lên nhóm Ngân hàng (MBB, TCB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MSN / MCH**
-  - Động lực (FA): Được các quỹ ngoại đưa vào danh sách ưu tiên.
-  - Nhận định dòng tiền: Kỳ vọng dòng vốn thụ động (passive flow) chảy vào cải thiện thanh khoản.
-  - Hành động: Theo dõi sát lực mua chủ động từ khối ngoại, canh điểm mua khi giá test lại nền tích lũy.
-- **Mã: HDB**
-  - Động lực (FA): Đẩy mạnh tăng vốn "tổng lực" nhằm cải thiện CAR và dư địa tín dụng.
-  - Nhận định dòng tiền: Động lực tăng trưởng dài hạn củng cố niềm tin, hỗ trợ giữ giá trong bối cảnh chung đang bị áp lực bán.
-  - Hành động: Tiếp tục nắm giữ, quan sát vùng hỗ trợ cứng theo cấu trúc kỹ thuật.
-- **Mã: VCI**
-  - Động lực (FA): Lãnh đạo (Ông Tô Hải) mua vào lượng lớn cổ phiếu.
-  - Nhận định dòng tiền: Tín hiệu nội bộ tích cực, làm đối trọng với áp lực chốt lời chung của nhóm chứng khoán.
-  - Hành động: Chú ý giải ngân nếu có sự đồng thuận từ volume giao dịch.
+- Mã: VHM, PDR, NLG, KDH
+  - Động lực (FA): Cải cách quy định thu hồi đất giúp tháo gỡ nút thắt pháp lý, giải phóng nguồn cung dự án.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ phản ứng nhanh với nhóm BĐS có quỹ đất lớn và dự án đang vướng pháp lý.
+  - Hành động: Theo dõi sát thanh khoản phiên sáng; Chú ý giải ngân nếu dòng tiền đồng thuận tại các vùng hỗ trợ kỹ thuật.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- (Không có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này).
+- Mã: MSN, MCH
+  - Động lực (FA): Lọt danh sách ưu tiên của các quỹ ngoại, đón sóng vốn thụ động.
+  - Nhận định dòng tiền: Cải thiện thanh khoản và tạo lực đỡ vùng giá, giảm thiểu rủi ro điều chỉnh chung của thị trường.
+  - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng trong các nhịp rung lắc.
+
+- Mã: MBB, TCB
+  - Động lực (FA): Áp lực tăng chi phí vốn (COF) từ việc khách hàng cá nhân mặc cả lãi suất.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể suy yếu do lo ngại biên lợi nhuận bị thu hẹp.
+  - Hành động: Cẩn trọng, quan sát áp lực bán tại vùng cản; rủi ro vi phạm kịch bản tích lũy nếu thanh khoản bán lớn.
