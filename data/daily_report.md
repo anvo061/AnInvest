@@ -1,22 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:45
+⏱ Thời gian: 08:15 - 28/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nâng hạng thị trường tạo sức hút dòng vốn ngoại vào nhóm vốn hóa lớn (Blue-chips), đối nghịch với áp lực chốt lời ngắn hạn từ khối Tự doanh -> Đánh giá: Trung lập - Phân hóa mạnh -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng (VCB) và BĐS vốn hóa lớn (VHM).
-- Xung đột tại Iran đẩy giá năng lượng (dầu/khí) tăng cao -> Đánh giá: Tích cực -> Dòng tiền hướng vào nhóm Dầu khí thượng nguồn (PVD, GAS).
+- Lãi suất vay mua nhà thả nổi vượt 15% gây áp lực mạnh lên khả năng thanh toán của người mua và rủi ro nợ xấu ngân hàng -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi nhóm Bất động sản dân cư (VHM, NVL, PDR, DXG) và gây áp lực lên nhóm Ngân hàng bán lẻ (TCB).
+- Triển vọng nâng hạng thị trường (MSCI/Nasdaq) với dòng vốn ngoại dự kiến 2 tỷ USD -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Chứng khoán (SSI, VCI) và các trụ cột VN30 (VCB, VHM).
+- Đẩy mạnh hạ tầng giao thông (Metro Bến Thành - Long Thành) -> **Tích cực** -> Dòng tiền hướng vào nhóm Xây dựng hạ tầng (VCG, HHV).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: VCB
-- Động lực (FA): Tâm điểm mua ròng của khối ngoại hậu nâng hạng thị trường; đối trọng với lực bán chốt lời từ tự doanh.
-- Nhận định dòng tiền: Dòng tiền ngoại mang tính chất chiến lược (dài hạn), lấn át áp lực bán kỹ thuật ngắn hạn.
-- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh rung lắc do khối tự doanh chốt lời.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới đảo chiều tăng, tuy nhiên có rủi ro đối trọng từ việc suy giảm quyền lực OPEC+.
+- Nhận định dòng tiền: Giằng co mạnh giữa tín hiệu tích cực từ giá dầu ngắn hạn và rủi ro vĩ mô năng lượng toàn cầu.
+- Hành động: **Tiếp tục quan sát**, ưu tiên quản trị rủi ro tại vùng kháng cự do tâm lý thị trường dầu khí đang thiếu sự đồng thuận.
 
-- Mã: PVD
-- Động lực (FA): Xung đột Iran gây gián đoạn nguồn cung dầu toàn cầu, tăng giá năng lượng và kỳ vọng tăng giá thuê giàn khoan.
-- Nhận định dòng tiền: Dòng tiền đầu cơ nhạy sóng sẽ ưu tiên nhóm dầu khí khi tâm lý thị trường bị ảnh hưởng bởi tin tức địa chính trị.
-- Hành động: Tiếp tục quan sát điểm nổ khối lượng; tránh đuổi giá nếu gap-up quá mạnh.
+- Mã: **VHM**
+- Động lực (FA): Chịu tác động kép: Tích cực từ kỳ vọng nâng hạng thị trường nhưng tiêu cực mạnh từ việc lãi suất vay mua nhà >15%.
+- Nhận định dòng tiền: Lực bán từ nhóm khách hàng vay vốn sẽ gây áp lực lên giá, cân bằng lại xu hướng mua gom của khối ngoại.
+- Hành động: **Rủi ro vi phạm kịch bản**, hạn chế gia tăng tỷ trọng cho đến khi có tín hiệu ổn định lại lãi suất vay.
 
-- Mã: KBC
-- Động lực (FA): Samsung công bố cột mốc xuất khẩu 500 tỷ USD và kế hoạch mở rộng R&D tại Việt Nam.
-- Nhận định dòng tiền: Củng cố kỳ vọng thuê đất khu công nghiệp dài hạn, dòng tiền sẽ tích lũy dần theo nhịp mở rộng của chuỗi cung ứng.
-- Hành động: Tiếp tục quan sát.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+- Nhận định: Dữ liệu vĩ mô (giá dầu) đang có sự mâu thuẫn giữa việc tăng giá ngắn hạn và rủi ro dư cung trung hạn. Ở thời điểm tháng 6/2026, cần quan sát chặt chẽ biên lợi nhuận lọc dầu quý gần nhất. Nếu giá dầu thế giới không duy trì được đà tăng do yếu tố OPEC+, nên cân nhắc **chốt lời hạ tỷ trọng** để bảo toàn dòng tiền cho các cơ hội hạ tầng đang có động lực rõ ràng hơn.
