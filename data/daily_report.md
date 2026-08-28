@@ -1,22 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:15 - 28/08/2026
+⏱ Thời gian: 19:55
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất vay mua nhà thả nổi vượt 15% gây áp lực mạnh lên khả năng thanh toán của người mua và rủi ro nợ xấu ngân hàng -> **Tiêu cực** -> Dòng tiền sẽ bị rút khỏi nhóm Bất động sản dân cư (VHM, NVL, PDR, DXG) và gây áp lực lên nhóm Ngân hàng bán lẻ (TCB).
-- Triển vọng nâng hạng thị trường (MSCI/Nasdaq) với dòng vốn ngoại dự kiến 2 tỷ USD -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Chứng khoán (SSI, VCI) và các trụ cột VN30 (VCB, VHM).
-- Đẩy mạnh hạ tầng giao thông (Metro Bến Thành - Long Thành) -> **Tích cực** -> Dòng tiền hướng vào nhóm Xây dựng hạ tầng (VCG, HHV).
+- Việt Nam chính thức xuất hiện các công ty chứng khoán vốn điều lệ 30.000 tỷ đồng cùng triển vọng đón 2 tỷ USD dòng vốn ngoại liên quan đến lộ trình nâng hạng MSCI -> **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Chứng khoán (SSI, VND, VCI)** và các mã vốn hóa lớn (Bluechips) hưởng lợi từ dòng vốn ETF.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới đảo chiều tăng, tuy nhiên có rủi ro đối trọng từ việc suy giảm quyền lực OPEC+.
-- Nhận định dòng tiền: Giằng co mạnh giữa tín hiệu tích cực từ giá dầu ngắn hạn và rủi ro vĩ mô năng lượng toàn cầu.
-- Hành động: **Tiếp tục quan sát**, ưu tiên quản trị rủi ro tại vùng kháng cự do tâm lý thị trường dầu khí đang thiếu sự đồng thuận.
-
-- Mã: **VHM**
-- Động lực (FA): Chịu tác động kép: Tích cực từ kỳ vọng nâng hạng thị trường nhưng tiêu cực mạnh từ việc lãi suất vay mua nhà >15%.
-- Nhận định dòng tiền: Lực bán từ nhóm khách hàng vay vốn sẽ gây áp lực lên giá, cân bằng lại xu hướng mua gom của khối ngoại.
-- Hành động: **Rủi ro vi phạm kịch bản**, hạn chế gia tăng tỷ trọng cho đến khi có tín hiệu ổn định lại lãi suất vay.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Dữ liệu vĩ mô (giá dầu) đang có sự mâu thuẫn giữa việc tăng giá ngắn hạn và rủi ro dư cung trung hạn. Ở thời điểm tháng 6/2026, cần quan sát chặt chẽ biên lợi nhuận lọc dầu quý gần nhất. Nếu giá dầu thế giới không duy trì được đà tăng do yếu tố OPEC+, nên cân nhắc **chốt lời hạ tỷ trọng** để bảo toàn dòng tiền cho các cơ hội hạ tầng đang có động lực rõ ràng hơn.
+- **Mã: SSI, VND, VCI**
+    - Động lực (FA): Nâng quy mô vốn điều lệ lên 30.000 tỷ đồng và kỳ vọng đón sóng nâng hạng MSCI.
+    - Nhận định dòng tiền: Gia tăng mạnh nhờ kỳ vọng vào năng lực cho vay Margin và thị phần môi giới.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (retest hỗ trợ).
+- **Mã: QNS**
+    - Động lực (FA): Lãnh đạo và cổ đông lớn mua vào gần 100 tỷ đồng cổ phiếu.
+    - Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, giảm thiểu rủi ro điều chỉnh theo thị trường chung.
+    - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng tại các vùng nền giá.
+- **Mã: SSB**
+    - Động lực (FA): Được thêm vào rổ FTSE Global All Cap Index.
+    - Nhận định dòng tiền: Dòng tiền thụ động từ các quỹ ETF buộc phải giải ngân, tạo thanh khoản đột biến.
+    - Hành động: Tiếp tục quan sát theo dõi lực cầu thực tế sau phiên "cháy hàng".
+- **Mã: VIC**
+    - Động lực (FA): Thử nghiệm Robot giao hàng/taxi và mở rộng hệ thống Vincom Plaza.
+    - Nhận định dòng tiền: Khẳng định vị thế R&D và dòng tiền ổn định, tuy nhiên cần kiểm chứng thêm phản ứng giá với áp lực chung từ nhóm BĐS.
+    - Hành động: Quan sát (cần dòng tiền đồng thuận từ nhóm BĐS vốn hóa lớn).
