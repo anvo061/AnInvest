@@ -1,23 +1,19 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:55
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 05:45 - 29/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam chính thức xuất hiện các công ty chứng khoán vốn điều lệ 30.000 tỷ đồng cùng triển vọng đón 2 tỷ USD dòng vốn ngoại liên quan đến lộ trình nâng hạng MSCI -> **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Chứng khoán (SSI, VND, VCI)** và các mã vốn hóa lớn (Bluechips) hưởng lợi từ dòng vốn ETF.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tín hiệu Fed duy trì lãi suất cao gây áp lực tỷ giá:** -> **Tiêu cực** -> Dòng tiền có xu hướng thận trọng với nhóm ngành thâm dụng vốn ngoại tệ và vay nợ lớn (POW, VHM).
+- **Thanh khoản thị trường chứng khoán xác lập chuỗi tăng:** -> **Tích cực** -> Dòng tiền tập trung vào nhóm Chứng khoán (SSI, VND) do hưởng lợi trực tiếp từ phí môi giới và margin.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND, VCI**
-    - Động lực (FA): Nâng quy mô vốn điều lệ lên 30.000 tỷ đồng và kỳ vọng đón sóng nâng hạng MSCI.
-    - Nhận định dòng tiền: Gia tăng mạnh nhờ kỳ vọng vào năng lực cho vay Margin và thị phần môi giới.
-    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên (retest hỗ trợ).
-- **Mã: QNS**
-    - Động lực (FA): Lãnh đạo và cổ đông lớn mua vào gần 100 tỷ đồng cổ phiếu.
-    - Nhận định dòng tiền: Tạo bệ đỡ tâm lý vững chắc, giảm thiểu rủi ro điều chỉnh theo thị trường chung.
-    - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng tại các vùng nền giá.
-- **Mã: SSB**
-    - Động lực (FA): Được thêm vào rổ FTSE Global All Cap Index.
-    - Nhận định dòng tiền: Dòng tiền thụ động từ các quỹ ETF buộc phải giải ngân, tạo thanh khoản đột biến.
-    - Hành động: Tiếp tục quan sát theo dõi lực cầu thực tế sau phiên "cháy hàng".
-- **Mã: VIC**
-    - Động lực (FA): Thử nghiệm Robot giao hàng/taxi và mở rộng hệ thống Vincom Plaza.
-    - Nhận định dòng tiền: Khẳng định vị thế R&D và dòng tiền ổn định, tuy nhiên cần kiểm chứng thêm phản ứng giá với áp lực chung từ nhóm BĐS.
-    - Hành động: Quan sát (cần dòng tiền đồng thuận từ nhóm BĐS vốn hóa lớn).
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** VPB
+  - **Động lực (FA):** Vượt MA200, thanh khoản 5 tháng cao nhất, được FTSE thêm vào rổ.
+  - **Nhận định dòng tiền:** Dòng tiền tổ chức (khối ngoại) nhập cuộc mạnh mẽ, phá vỡ thế đi ngang.
+  - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (pullback) về quanh vùng MA200.
+- **Mã:** GAS
+  - **Động lực (FA):** Rủi ro không đáp ứng điều kiện công ty đại chúng (cổ đông nhỏ lẻ sở hữu quá thấp).
+  - **Nhận định dòng tiền:** Rủi ro rút ròng, thiếu hụt thanh khoản, áp lực tâm lý tiêu cực.
+  - **Hành động:** Rủi ro vi phạm kịch bản nắm giữ; khuyến nghị đứng ngoài quan sát kỹ các thông báo pháp lý tiếp theo.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện tại chưa có tin tức mới liên quan đến EIB và BSR trong dữ liệu đầu vào. Tiếp tục duy trì vị thế theo chiến lược hiện hữu.
