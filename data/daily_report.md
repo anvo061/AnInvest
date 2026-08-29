@@ -1,27 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30 - 30/08/2026
+⏱ Thời gian: 06:35 ngày 30/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- BNP Paribas và KB Kookmin đàm phán mua cổ phần TCB trị giá 2 tỷ USD -> **Tích cực**: Khẳng định định giá tài sản ngân hàng Việt Nam, tạo hiệu ứng dẫn dắt nhóm tài chính-ngân hàng đón dòng vốn ngoại.
-- Làm việc với S&P Dow Jones về lộ trình nâng hạng thị trường -> **Tích cực**: Củng cố kỳ vọng dòng vốn ETF đổ vào các mã Bluechip (SSI, VHM, VCB).
+- **Thông tin M&A chiến lược:** Xuất hiện tin đồn (Reuters) về việc BNP Paribas và KB Kookmin đàm phán mua cổ phần TCB trị giá 2 tỷ USD -> [Đánh giá tác động: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng (Bank) nhờ hiệu ứng lan tỏa kỳ vọng vốn ngoại.
+- **Tâm lý hạ tầng AI toàn cầu:** Bloomberg cảnh báo về sự bão hòa nhu cầu hạ tầng AI -> [Đánh giá tác động: Tiêu cực] -> Áp lực điều chỉnh lên các mã công nghệ (FPT, CMG).
+- **Chuỗi cung ứng khoáng sản:** Mỹ mở rộng tìm kiếm nguồn cung khoáng sản thiết yếu -> [Đánh giá tác động: Tích cực] -> Nhóm tài nguyên khoáng sản (MSR).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TCB**
-    - Động lực (FA): Thương vụ M&A quy mô 2 tỷ USD với các tổ chức tài chính lớn.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn sẽ kích hoạt đà tăng mạnh trong ngắn hạn nhờ thông tin hỗ trợ trực tiếp.
-    - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: LIG**
-    - Động lực (FA): Bị cắt margin do quy định giao dịch.
-    - Nhận định dòng tiền: Áp lực bán giải chấp và tâm lý tiêu cực từ nhà đầu tư sử dụng đòn bẩy sẽ làm suy yếu dòng tiền.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/thoát vị thế.
-- **Mã: VPB**
-    - Động lực (FA): Thanh tra chỉ rõ vi phạm tại công ty tài chính thành viên (FE Credit/SMBC).
-    - Nhận định dòng tiền: Áp lực tâm lý từ rủi ro pháp lý/uy tín có thể gây nhịp chỉnh ngắn hạn.
-    - Hành động: Tiếp tục quan sát phản ứng của vùng hỗ trợ gần nhất, tránh bắt đáy khi chưa có tín hiệu cân bằng.
-- **Mã: SSI, VHM, VCB**
-    - Động lực (FA): Thông tin tích cực về lộ trình nâng hạng thị trường từ cơ quan quản lý.
-    - Nhận định dòng tiền: Hưởng lợi từ tâm lý khối ngoại; duy trì vị thế dẫn dắt chỉ số chung.
-    - Hành động: Tiếp tục quan sát; ưu tiên nắm giữ cho kỳ vọng nâng hạng.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Không có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên chiến lược hiện tại.
+- **Mã:** TCB
+  - Động lực (FA): Đàm phán M&A quy mô 2 tỷ USD với khối ngoại.
+  - Nhận định dòng tiền: Tích cực mạnh, dòng tiền sẽ đổ vào để đón đầu kỳ vọng định giá lại cổ phiếu.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc đầu phiên, kỳ vọng breakout xu hướng.
+- **Mã:** FPT, CMG
+  - Động lực (FA): Áp lực tâm lý từ tin tức rủi ro về "Data Center Boom to Go Bust".
+  - Nhận định dòng tiền: Rủi ro chốt lời kỹ thuật ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ cứng để tránh "bẫy" giá.
+- **Mã:** LIG
+  - Động lực (FA): Bị HOSE cắt margin.
+  - Nhận định dòng tiền: Tiêu cực, thanh khoản sẽ suy giảm đột ngột và đối mặt áp lực bán giải chấp từ tài khoản sử dụng đòn bẩy.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/thoát vị thế.
+- **Mã:** MSR
+  - Động lực (FA): Hưởng lợi từ chủ trương mở rộng chuỗi cung ứng khoáng sản của Mỹ.
+  - Nhận định dòng tiền: Tích cực tiềm năng, dòng tiền đầu cơ có thể tìm đến do tính chất nhạy tin.
+  - Hành động: Tiếp tục quan sát xác nhận dòng tiền vào (volume).
