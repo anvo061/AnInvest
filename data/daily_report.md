@@ -1,20 +1,22 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:55 - 29/08/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 17:35 - 29/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mỹ đạt thỏa thuận kiểm soát 65 tỷ thùng dầu từ Venezuela -> Tiêu cực -> Gây áp lực giảm giá dầu thô, tác động trực tiếp đến biên lợi nhuận và nhu cầu dịch vụ của nhóm ngành Dầu khí (PVD, PVS, BSR).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Khối ngoại quay lại mua ròng mạnh (1.100 tỷ đồng) vào nhóm ngân hàng** -> **Tích cực** -> Dòng tiền tập trung vào nhóm VN30 (đặc biệt là VCB, TCB), tạo tâm lý dẫn dắt thị trường.
+- **Duy trì đối thoại thương mại xây dựng với Mỹ & Thu hút FDI công nghệ cao từ Trung Quốc** -> **Tích cực** -> Dòng tiền hướng vào nhóm Khu công nghiệp (KBC, SZC) và Xuất khẩu (TNG, VHC).
+- **Căng thẳng địa chính trị tại Biển Đông** -> **Tiêu cực** -> Cần thận trọng với nhóm Dầu khí và Vận tải biển trong ngắn hạn do áp lực tâm lý.
+- **Đề xuất ứng dụng AI trong giao dịch chứng khoán** -> **Tích cực** -> Kỳ vọng gia tăng thanh khoản và doanh thu dịch vụ cho các Công ty chứng khoán.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: BIC
-- Động lực (FA): Chốt quyền trả cổ tức tiền mặt 1.200 đ/cp vào ngày 7/10/2026.
-- Nhận định dòng tiền: Tạo tín hiệu tích cực về sức khỏe tài chính, khả năng thu hút dòng tiền "trú ẩn" ngắn hạn trước ngày GDKHQ.
-- Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật để tối ưu hóa tỷ suất cổ tức.
-
-- Mã: PVD
-- Động lực (FA): Giá dầu dự báo chịu áp lực giảm mạnh do nguồn cung mới từ Venezuela.
-- Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do tâm lý lo ngại về giá cho thuê giàn khoan và biên lợi nhuận.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu mất hỗ trợ cứng.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-- Nhận định: Tin tức giá dầu giảm từ nguồn cung Venezuela tạo áp lực trực tiếp lên định giá hàng tồn kho của BSR. Kết hợp với việc vị thế đã đi quá điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại xác nhận trạng thái **cần cơ cấu**, ưu tiên chốt lời/cắt giảm vị thế để bảo toàn vốn trước biến động tiêu cực của giá dầu.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **TCB, VCB**
+    - **Động lực (FA):** Dòng vốn ngoại tập trung giải ngân mạnh, cải thiện tính thanh khoản và củng cố nền tảng hỗ trợ giá.
+    - **Nhận định dòng tiền:** Dòng tiền lớn quay lại là tín hiệu xác nhận vùng hỗ trợ ngắn hạn.
+    - **Hành động:** Chú ý giải ngân theo nhịp chỉnh, ưu tiên vị thế nắm giữ theo dòng vốn ngoại.
+- **Mã:** **KBC, SZC**
+    - **Động lực (FA):** Động thái thúc đẩy FDI công nghệ cao và khởi công mới hạ tầng KCN tại Đà Nẵng tạo kỳ vọng tăng trưởng diện tích cho thuê.
+    - **Nhận định dòng tiền:** Dòng tiền dài hạn đang kỳ vọng vào làn sóng dịch chuyển chuỗi cung ứng.
+    - **Hành động:** Tiếp tục quan sát các điểm break-out trên nền tích lũy.
+- **Mã:** **BIC**
+    - **Động lực (FA):** Công bố ngày GDKHQ nhận cổ tức tiền mặt (1.200 đ/cp).
+    - **Nhận định dòng tiền:** Lực cầu sẽ xuất hiện từ các nhà đầu tư ưa thích cổ tức.
+    - **Hành động:** Chú ý giải ngân để hưởng quyền.
