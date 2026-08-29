@@ -1,22 +1,19 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 17:35 - 29/08/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 22:30
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Khối ngoại quay lại mua ròng mạnh (1.100 tỷ đồng) vào nhóm ngân hàng** -> **Tích cực** -> Dòng tiền tập trung vào nhóm VN30 (đặc biệt là VCB, TCB), tạo tâm lý dẫn dắt thị trường.
-- **Duy trì đối thoại thương mại xây dựng với Mỹ & Thu hút FDI công nghệ cao từ Trung Quốc** -> **Tích cực** -> Dòng tiền hướng vào nhóm Khu công nghiệp (KBC, SZC) và Xuất khẩu (TNG, VHC).
-- **Căng thẳng địa chính trị tại Biển Đông** -> **Tiêu cực** -> Cần thận trọng với nhóm Dầu khí và Vận tải biển trong ngắn hạn do áp lực tâm lý.
-- **Đề xuất ứng dụng AI trong giao dịch chứng khoán** -> **Tích cực** -> Kỳ vọng gia tăng thanh khoản và doanh thu dịch vụ cho các Công ty chứng khoán.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Chính phủ đẩy mạnh thu hút FDI công nghệ cao (Qualcomm, Samsung, doanh nghiệp Trung Quốc) vào lĩnh vực AI và bán dẫn -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Bất động sản khu công nghiệp (KCN) và Công nghệ thông tin.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **TCB, VCB**
-    - **Động lực (FA):** Dòng vốn ngoại tập trung giải ngân mạnh, cải thiện tính thanh khoản và củng cố nền tảng hỗ trợ giá.
-    - **Nhận định dòng tiền:** Dòng tiền lớn quay lại là tín hiệu xác nhận vùng hỗ trợ ngắn hạn.
-    - **Hành động:** Chú ý giải ngân theo nhịp chỉnh, ưu tiên vị thế nắm giữ theo dòng vốn ngoại.
-- **Mã:** **KBC, SZC**
-    - **Động lực (FA):** Động thái thúc đẩy FDI công nghệ cao và khởi công mới hạ tầng KCN tại Đà Nẵng tạo kỳ vọng tăng trưởng diện tích cho thuê.
-    - **Nhận định dòng tiền:** Dòng tiền dài hạn đang kỳ vọng vào làn sóng dịch chuyển chuỗi cung ứng.
-    - **Hành động:** Tiếp tục quan sát các điểm break-out trên nền tích lũy.
-- **Mã:** **BIC**
-    - **Động lực (FA):** Công bố ngày GDKHQ nhận cổ tức tiền mặt (1.200 đ/cp).
-    - **Nhận định dòng tiền:** Lực cầu sẽ xuất hiện từ các nhà đầu tư ưa thích cổ tức.
-    - **Hành động:** Chú ý giải ngân để hưởng quyền.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: FPT**
+    - Động lực (FA): Chính phủ chủ trương thu hút đầu tư AI và bán dẫn từ các tập đoàn công nghệ lớn toàn cầu.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ làn sóng nâng cấp hạ tầng công nghệ và nhu cầu nhân lực trình độ cao, kỳ vọng dòng tiền khối ngoại tiếp tục gia tăng.
+    - Hành động: **Chú ý giải ngân** theo các nhịp điều chỉnh kỹ thuật.
+- **Mã: KBC**
+    - Động lực (FA): Hưởng lợi kép từ làn sóng FDI công nghệ cao (đầu tư từ Trung Quốc và các tập đoàn lớn toàn cầu).
+    - Nhận định dòng tiền: Quỹ đất sẵn sàng tại các vùng trọng điểm tạo ưu thế lớn, dòng tiền có khả năng luân chuyển vào nhóm BĐS KCN khi tin tức vĩ mô bổ trợ.
+    - Hành động: **Tiếp tục quan sát** khối lượng giao dịch tại vùng hỗ trợ.
+- **Mã: MWG**
+    - Động lực (FA): Hoàn tất thoái vốn/đóng cửa dự án kém hiệu quả tại Campuchia.
+    - Nhận định dòng tiền: Tối ưu hóa chi phí vận hành giúp cải thiện biên lợi nhuận, giảm áp lực tài chính lên tập đoàn mẹ.
+    - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng giá hiện tại.
