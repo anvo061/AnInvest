@@ -1,27 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:56 (30/08/2026)
+⏱ Thời gian: 02:45 - 31/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lưu lượng xe trên cao tốc Bắc - Nam tăng 60% và sức mua bán lẻ dịp lễ 2/9 tăng mạnh -> [Đánh giá tác động: Tích cực] -> [Dòng tiền hướng vào nhóm ngành Hạ tầng (VCG, HHV) và Bán lẻ tiêu dùng].
-- Hiện tượng "xanh vỏ, đỏ lòng" và áp lực giảm giá tại các chuỗi bán lẻ điện máy (MWG) -> [Đánh giá tác động: Tiêu cực] -> [Cảnh báo áp lực phân hóa dòng tiền, rủi ro biên lợi nhuận nhóm Bán lẻ].
+- **Thị trường chứng khoán:** Sự bùng nổ của nhà đầu tư cá nhân thúc đẩy thanh khoản thị trường đạt mức cao -> **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND, HCM)**.
+- **Sản xuất thép:** Áp lực hàng giá rẻ từ Trung Quốc tràn vào nền kinh tế -> **Tiêu cực** -> Gây áp lực giảm biên lợi nhuận nhóm **Thép (HPG, HSG, NKG)**.
+- **Bất động sản:** Việc cấp sổ hồng tại TP.HCM được đẩy mạnh giúp tháo gỡ pháp lý và củng cố niềm tin -> **Tích cực** -> Dòng tiền hướng vào nhóm **BĐS dân cư (NLG, KDH)**.
+- **Logistics:** Giá xăng E10 giảm về 22.600 đồng/lít -> **Tích cực** -> Cải thiện biên lợi nhuận vận tải (**HAH**).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PC1**
-- Động lực (FA): Nhóm CII vừa mua gom thêm 1 triệu cổ phiếu.
-- Nhận định dòng tiền: Sự xác nhận của cổ đông lớn tạo lực đỡ kỹ thuật đáng kể, giảm thiểu rủi ro biến động ngắn hạn.
-- Hành động: Chú ý giải ngân theo nhịp chỉnh của thị trường.
-
-- Mã: **VCG, HHV**
-- Động lực (FA): Hiệu quả vận hành cao tốc Bắc - Nam được kiểm chứng qua lưu lượng xe thực tế.
-- Nhận định dòng tiền: Dòng tiền có xu hướng tìm đến các mã có câu chuyện tăng trưởng thực từ hạ tầng, củng cố xu hướng tăng trung hạn.
-- Hành động: Tiếp tục giữ vị thế.
-
-- Mã: **MWG**
-- Động lực (FA): Biên lợi nhuận gộp chịu áp lực do giảm giá sâu tại chuỗi Điện Máy Xanh.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại tăng trưởng doanh thu không bù đắp được chi phí.
-- Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ gần nhất.
-
-- Mã: **FRT**
-- Động lực (FA): Vi phạm quyền lợi người tiêu dùng (phạt 400 triệu đồng).
-- Nhận định dòng tiền: Rủi ro tâm lý tiêu cực ngắn hạn, nhà đầu tư cần thận trọng với các nhịp hồi phục giả.
-- Hành động: Tiếp tục quan sát, chưa vội giải ngân.
+- **Mã:** **NKG**
+  - Động lực (FA): Chịu áp lực từ hàng thép giá rẻ Trung Quốc cạnh tranh trực tiếp.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể gặp áp lực bán hoặc chốt lời do lo ngại biên lợi nhuận bị thu hẹp.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng, quan sát vùng hỗ trợ cứng.
+- **Mã:** **SSI, VND, HCM**
+  - Động lực (FA): Hưởng lợi trực tiếp từ sự gia tăng thanh khoản và nhu cầu margin của nhà đầu tư cá nhân.
+  - Nhận định dòng tiền: Dòng tiền đang tập trung mạnh, kỳ vọng duy trì đà tăng ngắn hạn.
+  - Hành động: **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật trong phiên.
+- **Mã:** **HAH**
+  - Động lực (FA): Chi phí vận hành (xăng dầu) giảm giúp cải thiện lợi nhuận.
+  - Nhận định dòng tiền: Tín hiệu hỗ trợ từ vĩ mô giúp giảm chi phí, kỳ vọng dòng tiền ổn định.
+  - Hành động: **Tiếp tục quan sát** điểm mua tối ưu.
+- **Mã:** **NLG, KDH**
+  - Động lực (FA): Tiến độ cấp sổ hồng tại TP.HCM thúc đẩy ghi nhận doanh thu và dòng tiền dự án.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể luân chuyển sang nhóm này nhờ thông tin tháo gỡ pháp lý.
+  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì khối lượng giao dịch trên trung bình 20 phiên.
