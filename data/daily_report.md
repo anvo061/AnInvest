@@ -1,26 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:45 - 31/08/2026
+⏱ Thời gian: 05:20 - 31/08/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thị trường chứng khoán:** Sự bùng nổ của nhà đầu tư cá nhân thúc đẩy thanh khoản thị trường đạt mức cao -> **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND, HCM)**.
-- **Sản xuất thép:** Áp lực hàng giá rẻ từ Trung Quốc tràn vào nền kinh tế -> **Tiêu cực** -> Gây áp lực giảm biên lợi nhuận nhóm **Thép (HPG, HSG, NKG)**.
-- **Bất động sản:** Việc cấp sổ hồng tại TP.HCM được đẩy mạnh giúp tháo gỡ pháp lý và củng cố niềm tin -> **Tích cực** -> Dòng tiền hướng vào nhóm **BĐS dân cư (NLG, KDH)**.
-- **Logistics:** Giá xăng E10 giảm về 22.600 đồng/lít -> **Tích cực** -> Cải thiện biên lợi nhuận vận tải (**HAH**).
+- **Tâm lý thị trường tích cực với dự báo VN-Index hướng tới 1.900 điểm:** Sự bùng nổ của dòng tiền nhà đầu tư cá nhân (Retail Trading Boom) đang tạo động lực thanh khoản mạnh mẽ cho thị trường -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Chứng khoán (SSI, VND, HCM)** và **Bảo hiểm (BVH)**.
+- **Áp lực hàng hóa giá rẻ từ Trung Quốc:** Áp lực cạnh tranh gay gắt lên biên lợi nhuận của các doanh nghiệp sản xuất nội địa -> **Tiêu cực** -> Rủi ro điều chỉnh dòng tiền đối với nhóm **Thép (HPG, HSG, NKG)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** **NKG**
-  - Động lực (FA): Chịu áp lực từ hàng thép giá rẻ Trung Quốc cạnh tranh trực tiếp.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể gặp áp lực bán hoặc chốt lời do lo ngại biên lợi nhuận bị thu hẹp.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng, quan sát vùng hỗ trợ cứng.
-- **Mã:** **SSI, VND, HCM**
-  - Động lực (FA): Hưởng lợi trực tiếp từ sự gia tăng thanh khoản và nhu cầu margin của nhà đầu tư cá nhân.
-  - Nhận định dòng tiền: Dòng tiền đang tập trung mạnh, kỳ vọng duy trì đà tăng ngắn hạn.
-  - Hành động: **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật trong phiên.
-- **Mã:** **HAH**
-  - Động lực (FA): Chi phí vận hành (xăng dầu) giảm giúp cải thiện lợi nhuận.
-  - Nhận định dòng tiền: Tín hiệu hỗ trợ từ vĩ mô giúp giảm chi phí, kỳ vọng dòng tiền ổn định.
-  - Hành động: **Tiếp tục quan sát** điểm mua tối ưu.
-- **Mã:** **NLG, KDH**
-  - Động lực (FA): Tiến độ cấp sổ hồng tại TP.HCM thúc đẩy ghi nhận doanh thu và dòng tiền dự án.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể luân chuyển sang nhóm này nhờ thông tin tháo gỡ pháp lý.
-  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì khối lượng giao dịch trên trung bình 20 phiên.
+- Mã: **SSI, VND, HCM**
+  - Động lực (FA): Hưởng lợi trực tiếp từ thanh khoản bùng nổ, tăng trưởng phí môi giới và lãi vay margin.
+  - Nhận định dòng tiền: Dòng tiền thông minh đang ưu tiên nhóm đầu ngành nhờ kỳ vọng chỉ số chinh phục mốc 1.900.
+  - Hành động: **Chú ý giải ngân** theo đà tăng trưởng thanh khoản.
+- Mã: **VRE**
+  - Động lực (FA): Mở rộng thêm 27.000m2 sàn bán lẻ (Vincom Plaza Đan Phượng).
+  - Nhận định dòng tiền: Tin tức củng cố vị thế tài sản thực, tạo lực đỡ tốt cho cổ phiếu trong xu hướng thị trường đi lên.
+  - Hành động: **Tiếp tục quan sát** phản ứng vùng giá mục tiêu.
+- Mã: **NKG**
+  - Động lực (FA): Áp lực cạnh tranh từ thép nhập khẩu giá rẻ Trung Quốc.
+  - Nhận định dòng tiền: Đối diện rủi ro bị rút dòng tiền ngắn hạn do biên lợi nhuận bị đe dọa.
+  - Hành động: **Rủi ro vi phạm kịch bản**; cần quan sát lực đỡ tại vùng hỗ trợ cứng.
+- Mã: **NRC**
+  - Động lực (FA): Bị xử phạt vi phạm công bố thông tin.
+  - Nhận định dòng tiền: Tâm lý tiêu cực ngắn hạn, gây áp lực bán lẻ.
+  - Hành động: **Rủi ro vi phạm kịch bản**; tránh bắt đáy khi niềm tin doanh nghiệp suy giảm.
