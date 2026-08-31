@@ -1,19 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:45 - 31/08/2026
+⏱ Thời gian: 13:15
 
-🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Việt Nam chính thức được FTSE Russell nâng hạng thị trường, kết hợp với làn sóng bổ sung cổ phiếu vào rổ FTSE All-Cap -> [Tích cực: Dòng vốn ETF ngoại sẽ gia tăng mua ròng mạnh mẽ, cải thiện thanh khoản thị trường chung] -> [Dòng tiền hướng vào: Nhóm vốn hóa lớn (Bluechips) và nhóm cổ phiếu được thêm mới].
+- Căng thẳng Mỹ-Iran leo thang đẩy giá dầu tăng vọt -> [Tiêu cực về tâm lý/Tích cực về biên lợi nhuận: Rủi ro đứt gãy chuỗi cung ứng toàn cầu đối trọng với lợi ích tăng trưởng biên lợi nhuận của nhóm Dầu khí] -> [Dòng tiền hướng vào: Nhóm Dầu khí (PVD, PVS)].
 
-- **Mã: PC1**
-    - **Động lực (FA):** CII gia tăng tỷ lệ sở hữu tại PC1 gấp 3 lần trong vòng 3 tháng.
-    - **Nhận định dòng tiền:** Hành động "gom hàng" của một tổ chức lớn (CII) tạo lực cầu tiềm ẩn đáng kể, xác nhận sự kỳ vọng vào giá trị nội tại hoặc các dự án hạ tầng/năng lượng mà PC1 đang nắm giữ. Dự kiến tạo vùng hỗ trợ cứng nhờ lực mua đối ứng.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc, theo dõi diễn biến cung cầu tại các vùng hỗ trợ kỹ thuật gần nhất.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VIX, GEX, KDH, DGW**
+  - Động lực (FA): Được thêm vào rổ chỉ số FTSE All-Cap.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ lực cầu thụ động của các quỹ ETF ngoại. Dự kiến thanh khoản cải thiện đột biến ngay trong các phiên tới.
+  - Hành động: Chú ý giải ngân theo dòng tiền khối ngoại (theo dõi lệnh đối ứng).
+- Mã: **HPG**
+  - Động lực (FA): Lợi nhuận từ BĐS KCN tăng 10 lần, củng cố nền tảng tài chính.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng dịch chuyển vào các mã có kết quả kinh doanh tăng trưởng thực chất thay vì chỉ đầu cơ theo tin tức.
+  - Hành động: Tiếp tục quan sát để gom tại các nhịp điều chỉnh kỹ thuật (nếu có).
+- Mã: **PVD, PVS**
+  - Động lực (FA): Giá dầu thế giới tăng mạnh do xung đột địa chính trị.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ trú ẩn vào nhóm Dầu khí.
+  - Hành động: Tiếp tục quan sát. Lưu ý: Chỉ gia tăng tỷ trọng nếu giá dầu duy trì đà tăng sau 24h, tránh mua đuổi theo tin tức địa chính trị nhất thời.
 
-- **Mã: MSN**
-    - **Động lực (FA):** Tối ưu hóa chuỗi cung ứng vonfram toàn cầu thông qua Masan High-Tech Materials.
-    - **Nhận định dòng tiền:** Củng cố luận điểm đầu tư cơ bản trong dài hạn, giảm thiểu rủi ro biến động giá nguyên vật liệu. Dòng tiền lớn thường ưu tiên các mã có lợi thế chuỗi cung ứng độc quyền.
-    - **Hành động:** Tiếp tục quan sát để tìm điểm vào theo xu hướng (trend-following), duy trì vị thế nắm giữ.
-
-- **Mã: VRE**
-    - **Động lực (FA):** Khai trương Vincom Plaza Đan Phượng (27.000 m²).
-    - **Nhận định dòng tiền:** Mở rộng diện tích cho thuê là tín hiệu tăng trưởng doanh thu thực tế. Tác động tích cực trực tiếp lên kỳ vọng lợi nhuận các quý tới, giúp ổn định tâm lý nhà đầu tư đối với cổ phiếu ngành bán lẻ.
-    - **Hành động:** Chú ý giải ngân ở các phiên điều chỉnh, đây là động lực nội tại vững chắc.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+  - Nhận định: Giá dầu tăng là động lực bổ trợ cho biên lợi nhuận lọc dầu. Tuy nhiên, vị thế đã đi qua điểm rơi kỳ vọng, nên ưu tiên hành động "Tái cơ cấu": Nếu giá phản ứng tích cực với tin tức dầu khí, đây là cơ hội tốt để hiện thực hóa lợi nhuận hoặc giảm tỷ trọng nhằm đảo dòng tiền sang các nhóm ngành đang được hưởng lợi từ sóng nâng hạng thị trường (ETF).
