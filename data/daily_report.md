@@ -1,24 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:20 - 31/08/2026
+⏱ Thời gian: 07:45 - 31/08/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tâm lý thị trường tích cực với dự báo VN-Index hướng tới 1.900 điểm:** Sự bùng nổ của dòng tiền nhà đầu tư cá nhân (Retail Trading Boom) đang tạo động lực thanh khoản mạnh mẽ cho thị trường -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Chứng khoán (SSI, VND, HCM)** và **Bảo hiểm (BVH)**.
-- **Áp lực hàng hóa giá rẻ từ Trung Quốc:** Áp lực cạnh tranh gay gắt lên biên lợi nhuận của các doanh nghiệp sản xuất nội địa -> **Tiêu cực** -> Rủi ro điều chỉnh dòng tiền đối với nhóm **Thép (HPG, HSG, NKG)**.
+🎯 1. Hợp lưu Tín hiệu Cổ phiếu:
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI, VND, HCM**
-  - Động lực (FA): Hưởng lợi trực tiếp từ thanh khoản bùng nổ, tăng trưởng phí môi giới và lãi vay margin.
-  - Nhận định dòng tiền: Dòng tiền thông minh đang ưu tiên nhóm đầu ngành nhờ kỳ vọng chỉ số chinh phục mốc 1.900.
-  - Hành động: **Chú ý giải ngân** theo đà tăng trưởng thanh khoản.
-- Mã: **VRE**
-  - Động lực (FA): Mở rộng thêm 27.000m2 sàn bán lẻ (Vincom Plaza Đan Phượng).
-  - Nhận định dòng tiền: Tin tức củng cố vị thế tài sản thực, tạo lực đỡ tốt cho cổ phiếu trong xu hướng thị trường đi lên.
-  - Hành động: **Tiếp tục quan sát** phản ứng vùng giá mục tiêu.
-- Mã: **NKG**
-  - Động lực (FA): Áp lực cạnh tranh từ thép nhập khẩu giá rẻ Trung Quốc.
-  - Nhận định dòng tiền: Đối diện rủi ro bị rút dòng tiền ngắn hạn do biên lợi nhuận bị đe dọa.
-  - Hành động: **Rủi ro vi phạm kịch bản**; cần quan sát lực đỡ tại vùng hỗ trợ cứng.
-- Mã: **NRC**
-  - Động lực (FA): Bị xử phạt vi phạm công bố thông tin.
-  - Nhận định dòng tiền: Tâm lý tiêu cực ngắn hạn, gây áp lực bán lẻ.
-  - Hành động: **Rủi ro vi phạm kịch bản**; tránh bắt đáy khi niềm tin doanh nghiệp suy giảm.
+- **Mã: PC1**
+    - **Động lực (FA):** CII gia tăng tỷ lệ sở hữu tại PC1 gấp 3 lần trong vòng 3 tháng.
+    - **Nhận định dòng tiền:** Hành động "gom hàng" của một tổ chức lớn (CII) tạo lực cầu tiềm ẩn đáng kể, xác nhận sự kỳ vọng vào giá trị nội tại hoặc các dự án hạ tầng/năng lượng mà PC1 đang nắm giữ. Dự kiến tạo vùng hỗ trợ cứng nhờ lực mua đối ứng.
+    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc, theo dõi diễn biến cung cầu tại các vùng hỗ trợ kỹ thuật gần nhất.
+
+- **Mã: MSN**
+    - **Động lực (FA):** Tối ưu hóa chuỗi cung ứng vonfram toàn cầu thông qua Masan High-Tech Materials.
+    - **Nhận định dòng tiền:** Củng cố luận điểm đầu tư cơ bản trong dài hạn, giảm thiểu rủi ro biến động giá nguyên vật liệu. Dòng tiền lớn thường ưu tiên các mã có lợi thế chuỗi cung ứng độc quyền.
+    - **Hành động:** Tiếp tục quan sát để tìm điểm vào theo xu hướng (trend-following), duy trì vị thế nắm giữ.
+
+- **Mã: VRE**
+    - **Động lực (FA):** Khai trương Vincom Plaza Đan Phượng (27.000 m²).
+    - **Nhận định dòng tiền:** Mở rộng diện tích cho thuê là tín hiệu tăng trưởng doanh thu thực tế. Tác động tích cực trực tiếp lên kỳ vọng lợi nhuận các quý tới, giúp ổn định tâm lý nhà đầu tư đối với cổ phiếu ngành bán lẻ.
+    - **Hành động:** Chú ý giải ngân ở các phiên điều chỉnh, đây là động lực nội tại vững chắc.
