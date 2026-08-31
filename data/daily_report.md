@@ -1,16 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:55 - 31/08/2026
+⏱ Thời gian: 02:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hơn 500 đoàn doanh nghiệp quốc tế đẩy mạnh tìm kiếm nguồn cung tại Việt Nam -> Tích cực -> Dòng tiền sẽ ưu tiên nhóm Sản xuất Xuất khẩu (Dệt may: TNG, MSH; Thủy sản: VHC, ANV).
+- Việt Nam đẩy mạnh đàm phán thương mại với Mỹ để củng cố vị thế xuất khẩu và giảm rủi ro thuế phòng vệ -> **Tích cực** -> Dòng tiền dự kiến tập trung vào nhóm ngành Xuất khẩu chủ lực (Dệt may, Thủy sản).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: AAT, VID, VTB
-- Động lực (FA): Bị HOSE loại khỏi danh sách đủ điều kiện giao dịch ký quỹ (Margin).
-- Nhận định dòng tiền: Áp lực bán giải chấp và tâm lý tiêu cực sẽ gây khó khăn cho thanh khoản ngắn hạn; dòng tiền đầu cơ sẽ rút mạnh khỏi các mã này để tránh rủi ro "call margin".
-- Hành động: Rủi ro vi phạm kịch bản cao; khuyến nghị thoát vị thế hoặc đứng ngoài quan sát, tuyệt đối không bắt đáy khi chưa có tín hiệu cân bằng cung cầu.
-
-- Mã: TNG, VHC
-- Động lực (FA): Làn sóng dịch chuyển đơn hàng quốc tế gia tăng nhờ các đoàn thu mua quốc tế mới cập nhật.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sẽ đón đầu kết quả kinh doanh quý tới, hỗ trợ xu hướng tích lũy tại vùng hỗ trợ.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
+- Mã: **TNG**
+  - Động lực (FA): Hưởng lợi kép từ việc duy trì ưu đãi thuế quan Mỹ và làn sóng gia tăng đơn hàng từ 500 đoàn doanh nghiệp quốc tế.
+  - Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ gia tăng mạnh do câu chuyện tăng trưởng đơn hàng rõ nét trong Q4.
+  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn với thanh khoản đột biến.
+- Mã: **VHC**
+  - Động lực (FA): Giảm rủi ro pháp lý tại thị trường Mỹ và hưởng lợi từ nhu cầu thu mua xuất khẩu tăng cao.
+  - Nhận định dòng tiền: Trạng thái tích cực, thu hút dòng tiền đầu tư dài hạn.
+  - Hành động: Tiếp tục quan sát vùng giá tích lũy, ưu tiên nắm giữ.
+- Mã: **AAT, VID, VTB**
+  - Động lực (FA): HOSE chính thức thông báo cắt Margin (không đủ điều kiện ký quỹ).
+  - Nhận định dòng tiền: Áp lực bán giải chấp và tâm lý tiêu cực từ nhà đầu tư sử dụng đòn bẩy sẽ gia tăng mạnh trong ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản quản trị rủi ro; khuyến nghị giảm tỷ trọng hoặc thoát vị thế đối với các tài khoản sử dụng đòn bẩy.
+- Mã: **QCG**
+  - Động lực (FA): Cổ đông nội bộ hỗ trợ thanh khoản 200 tỷ đồng.
+  - Nhận định dòng tiền: Tin tức giúp giảm áp lực bán tháo, duy trì dòng tiền ổn định tạm thời.
+  - Hành động: Tiếp tục quan sát; đây là tín hiệu hỗ trợ thanh khoản chứ chưa phải tín hiệu chuyển đổi cơ bản.
