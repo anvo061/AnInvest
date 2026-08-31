@@ -1,23 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:50
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 06:40 (Ngày 01/09/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam đẩy mạnh đàm phán thương mại với Mỹ để củng cố vị thế xuất khẩu và giảm rủi ro thuế phòng vệ -> **Tích cực** -> Dòng tiền dự kiến tập trung vào nhóm ngành Xuất khẩu chủ lực (Dệt may, Thủy sản).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chính sách tài khóa:** Dự kiến giảm 30% thuế TNDN cả năm 2026 -> **Tích cực** -> Dòng tiền tập trung nhóm **Bán lẻ (Retail) và Tiêu dùng (Consumer Goods)**.
+- **Thương mại quốc tế:** Đẩy mạnh đàm phán thương mại với Mỹ nhằm củng cố cán cân xuất khẩu -> **Tích cực** -> Nhóm **Xuất khẩu (Dệt may, Thủy sản)** hưởng lợi nhờ giảm rủi ro hàng rào thuế quan.
+- **Hạ tầng năng lượng:** Miền Bắc tăng đầu tư pin lưu trữ (BESS) -> **Tích cực** -> Nhóm **Xây lắp điện & Thiết bị điện**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TNG**
-  - Động lực (FA): Hưởng lợi kép từ việc duy trì ưu đãi thuế quan Mỹ và làn sóng gia tăng đơn hàng từ 500 đoàn doanh nghiệp quốc tế.
-  - Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ gia tăng mạnh do câu chuyện tăng trưởng đơn hàng rõ nét trong Q4.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn với thanh khoản đột biến.
-- Mã: **VHC**
-  - Động lực (FA): Giảm rủi ro pháp lý tại thị trường Mỹ và hưởng lợi từ nhu cầu thu mua xuất khẩu tăng cao.
-  - Nhận định dòng tiền: Trạng thái tích cực, thu hút dòng tiền đầu tư dài hạn.
-  - Hành động: Tiếp tục quan sát vùng giá tích lũy, ưu tiên nắm giữ.
-- Mã: **AAT, VID, VTB**
-  - Động lực (FA): HOSE chính thức thông báo cắt Margin (không đủ điều kiện ký quỹ).
-  - Nhận định dòng tiền: Áp lực bán giải chấp và tâm lý tiêu cực từ nhà đầu tư sử dụng đòn bẩy sẽ gia tăng mạnh trong ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản quản trị rủi ro; khuyến nghị giảm tỷ trọng hoặc thoát vị thế đối với các tài khoản sử dụng đòn bẩy.
-- Mã: **QCG**
-  - Động lực (FA): Cổ đông nội bộ hỗ trợ thanh khoản 200 tỷ đồng.
-  - Nhận định dòng tiền: Tin tức giúp giảm áp lực bán tháo, duy trì dòng tiền ổn định tạm thời.
-  - Hành động: Tiếp tục quan sát; đây là tín hiệu hỗ trợ thanh khoản chứ chưa phải tín hiệu chuyển đổi cơ bản.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **TCB**
+  - **Động lực (FA):** Tin đồn về thương vụ M&A quy mô 2 tỷ USD cổ phần ngân hàng.
+  - **Nhận định dòng tiền:** Tăng sự quan tâm của khối ngoại, có khả năng kích hoạt sóng ngắn hạn tại nhóm Ngân hàng vốn hóa lớn.
+  - **Hành động:** Quan sát thanh khoản đầu phiên; chú ý ngưỡng hỗ trợ kỹ thuật gần nhất, tránh đuổi giá nếu không có xác nhận khối lượng đột biến.
+- **Mã:** **MWG, MSN**
+  - **Động lực (FA):** Chính sách giảm 30% thuế TNDN dự kiến.
+  - **Nhận định dòng tiền:** Hỗ trợ trực tiếp biên lợi nhuận, tạo tâm lý kỳ vọng vào kết quả kinh doanh cuối năm.
+  - **Hành động:** Chú ý giải ngân khi giá re-test vùng nền, ưu tiên tích lũy cho danh mục đầu tư theo kỳ vọng chính sách.
+- **Mã:** **TNG, VHC**
+  - **Động lực (FA):** Đàm phán thương mại Việt - Mỹ tiến triển thuận lợi.
+  - **Nhận định dòng tiền:** Giảm bớt áp lực tâm lý về rủi ro thuế quan, hỗ trợ dòng tiền ổn định.
+  - **Hành động:** Tiếp tục nắm giữ, theo dõi diễn biến đàm phán chính thức.
+- **Mã:** **QCG**
+  - **Động lực (FA):** Cổ đông lớn cho mượn vốn (200 tỷ đồng) giảm áp lực thanh khoản.
+  - **Nhận định dòng tiền:** Mang tính "cứu cánh" ngắn hạn, chưa thay đổi nền tảng cơ bản.
+  - **Hành động:** Rủi ro vi phạm kịch bản cơ bản vẫn cao, ưu tiên quản trị rủi ro, không khuyến nghị giải ngân mới.
