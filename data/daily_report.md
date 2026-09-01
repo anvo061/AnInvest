@@ -1,25 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 06:40 (Ngày 01/09/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 09:15 ngày 01/09/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Chính sách tài khóa:** Dự kiến giảm 30% thuế TNDN cả năm 2026 -> **Tích cực** -> Dòng tiền tập trung nhóm **Bán lẻ (Retail) và Tiêu dùng (Consumer Goods)**.
-- **Thương mại quốc tế:** Đẩy mạnh đàm phán thương mại với Mỹ nhằm củng cố cán cân xuất khẩu -> **Tích cực** -> Nhóm **Xuất khẩu (Dệt may, Thủy sản)** hưởng lợi nhờ giảm rủi ro hàng rào thuế quan.
-- **Hạ tầng năng lượng:** Miền Bắc tăng đầu tư pin lưu trữ (BESS) -> **Tích cực** -> Nhóm **Xây lắp điện & Thiết bị điện**.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Tăng vốn ngân hàng & Giảm thuế TNDN 30%:** Các ngân hàng (TCB, MBB, VPB, ACB, STB) tăng cường năng lực tín dụng; nhóm bán lẻ (MWG, MSN) hưởng lợi trực tiếp từ biên lợi nhuận cải thiện. -> **Tích cực** -> Dòng tiền tập trung vào **Nhóm Tài chính - Ngân hàng** và **Bán lẻ**.
+- **Giá dầu thế giới tăng mạnh:** Thúc đẩy nhóm thượng nguồn khai thác. -> **Tích cực** -> Dòng tiền tập trung vào **Nhóm Dầu khí (PVD, PVS, GAS)**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **TCB**
-  - **Động lực (FA):** Tin đồn về thương vụ M&A quy mô 2 tỷ USD cổ phần ngân hàng.
-  - **Nhận định dòng tiền:** Tăng sự quan tâm của khối ngoại, có khả năng kích hoạt sóng ngắn hạn tại nhóm Ngân hàng vốn hóa lớn.
-  - **Hành động:** Quan sát thanh khoản đầu phiên; chú ý ngưỡng hỗ trợ kỹ thuật gần nhất, tránh đuổi giá nếu không có xác nhận khối lượng đột biến.
-- **Mã:** **MWG, MSN**
-  - **Động lực (FA):** Chính sách giảm 30% thuế TNDN dự kiến.
-  - **Nhận định dòng tiền:** Hỗ trợ trực tiếp biên lợi nhuận, tạo tâm lý kỳ vọng vào kết quả kinh doanh cuối năm.
-  - **Hành động:** Chú ý giải ngân khi giá re-test vùng nền, ưu tiên tích lũy cho danh mục đầu tư theo kỳ vọng chính sách.
-- **Mã:** **TNG, VHC**
-  - **Động lực (FA):** Đàm phán thương mại Việt - Mỹ tiến triển thuận lợi.
-  - **Nhận định dòng tiền:** Giảm bớt áp lực tâm lý về rủi ro thuế quan, hỗ trợ dòng tiền ổn định.
-  - **Hành động:** Tiếp tục nắm giữ, theo dõi diễn biến đàm phán chính thức.
-- **Mã:** **QCG**
-  - **Động lực (FA):** Cổ đông lớn cho mượn vốn (200 tỷ đồng) giảm áp lực thanh khoản.
-  - **Nhận định dòng tiền:** Mang tính "cứu cánh" ngắn hạn, chưa thay đổi nền tảng cơ bản.
-  - **Hành động:** Rủi ro vi phạm kịch bản cơ bản vẫn cao, ưu tiên quản trị rủi ro, không khuyến nghị giải ngân mới.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: MWG**
+  - Động lực (FA): Cắt lỗ dự án Campuchia và kỳ vọng hưởng lợi từ chính sách giảm 30% thuế TNDN.
+  - Nhận định dòng tiền: Động lực kép (tối ưu chi phí + giảm nghĩa vụ thuế) tạo nền tảng hỗ trợ mạnh cho dòng tiền trung và ngắn hạn.
+  - Hành động: Chú ý giải ngân (tận dụng nhịp điều chỉnh trong phiên).
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới tăng mạnh, cải thiện trực tiếp giá thuê giàn khoan.
+  - Nhận định dòng tiền: Dòng tiền có tính nhạy sóng cao theo giá dầu, kỳ vọng lực cầu gia tăng mạnh ngay đầu phiên.
+  - Hành động: Tiếp tục quan sát điểm entry (vùng hỗ trợ cứng), không nên đuổi lệnh khi giá đã tăng nhanh.
+- **Mã: HAG**
+  - Động lực (FA): Lợi nhuận sau kiểm toán giảm 164 tỷ đồng.
+  - Nhận định dòng tiền: Rủi ro tiêu cực cao, áp lực bán tháo có thể xuất hiện do lo ngại về chất lượng tài sản và minh bạch tài chính.
+  - Hành động: Rủi ro vi phạm kịch bản (cân nhắc thoát vị thế nếu mất vùng hỗ trợ quan trọng).
+- **Mã: TCB**
+  - Động lực (FA): Thông tin tăng vốn mạnh mẽ và kỳ vọng từ thương vụ M&A quy mô 2 tỷ USD.
+  - Nhận định dòng tiền: Củng cố sức mạnh nhóm vốn hóa lớn, là mã dẫn dắt tâm lý thị trường.
+  - Hành động: Chú ý giải ngân (theo dõi phản ứng của dòng tiền khối ngoại).
