@@ -1,27 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:30
+⏱ Thời gian: 23:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng sản xuất Trung Quốc suy yếu & Căng thẳng địa chính trị đẩy giá dầu tăng:** -> [Tác động: Tiêu cực] -> Dòng tiền sẽ chịu áp lực rút vốn tại nhóm Logistics (GMD, HAH) và nhóm sản xuất/thép (HPG), đồng thời có sự phân hóa mạnh sang nhóm Dầu khí (PVD, PVS, GAS).
-- **Lợi suất trái phiếu toàn cầu tăng & Rủi ro tỷ giá:** -> [Tác động: Tiêu cực] -> Nhóm Bất động sản (VHM, PDR) và Chứng khoán (SSI) chịu áp lực về chi phí vốn và áp lực bán ròng từ khối ngoại.
+- Nhu cầu nhập khẩu thủy sản từ Trung Quốc tăng mạnh (chi hơn 20 tỷ USD) -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm ngành: **Thủy sản (VHC, ANV, IDI)**.
+- VinFast tạm dừng kế hoạch sản xuất tại Ấn Độ -> **Tiêu cực** -> Tâm lý thận trọng với nhóm cổ phiếu hệ sinh thái Vingroup (**VIC**).
+- Lợi suất trái phiếu toàn cầu tăng cao gây áp lực tỷ giá và chi phí vốn -> **Tiêu cực** -> Áp lực bán tiềm ẩn lên nhóm cổ phiếu BĐS (**VHM, PDR**) và chứng khoán (**SSI**).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Căng thẳng địa chính trị Mỹ - Iran tái diễn đẩy giá dầu nhảy vọt.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp về giá thuê giàn khoan và kỳ vọng biên lợi nhuận mở rộng trong ngắn hạn.
-- Hành động: **Chú ý giải ngân** (Canh nhịp rung lắc kỹ thuật, ưu tiên vị thế ngắn hạn theo sóng giá dầu).
+- Mã: **VHC, ANV, IDI**
+  - Động lực (FA): Nhu cầu nhập khẩu thủy sản cao từ thị trường Trung Quốc, cải thiện doanh thu quý cuối năm.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ tìm đến nhóm xuất khẩu để đón sóng kết quả kinh doanh.
+  - Hành động: **Chú ý giải ngân** tại các điểm hỗ trợ kỹ thuật gần nhất.
 
-- Mã: **HPG**
-- Động lực (FA): Dữ liệu sản xuất Trung Quốc co hẹp làm giảm triển vọng nhu cầu thép xuất khẩu.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn.
-- Hành động: **Rủi ro vi phạm kịch bản** (Quan sát phản ứng tại các vùng hỗ trợ cứng, hạn chế gia tăng tỷ trọng).
-
-- Mã: **SSI**
-- Động lực (FA): Chịu tác động kép từ lãi suất toàn cầu tăng (giảm định giá) và kỳ vọng nâng hạng (thanh khoản).
-- Nhận định dòng tiền: Giằng co mạnh giữa dòng tiền nội kỳ vọng nâng hạng và dòng tiền ngoại chịu áp lực từ lợi suất trái phiếu.
-- Hành động: **Tiếp tục quan sát** (Chờ đợi xác nhận dòng tiền tại các mốc hỗ trợ).
+- Mã: **PC1**
+  - Động lực (FA): CII gia tăng sở hữu tại PC1 cho thấy chiến lược mở rộng sang mảng năng lượng.
+  - Nhận định dòng tiền: Dòng tiền sẽ chú ý đến PC1 như một "case" tái cấu trúc/đầu tư dài hạn, tuy nhiên cần tách biệt khỏi rủi ro nợ vay của bên mua (CII).
+  - Hành động: **Tiếp tục quan sát** phản ứng của PC1 tại vùng giá hiện tại trước các thông tin mua gom của đối tác.
 
 - Mã: **POW**
-- Động lực (FA): Áp lực tỷ giá USD tăng gây bất lợi trực tiếp cho doanh nghiệp có dư nợ vay ngoại tệ lớn.
-- Nhận định dòng tiền: Tiêu cực trong ngắn hạn do chi phí tài chính dự kiến tăng.
-- Hành động: **Rủi ro vi phạm kịch bản** (Cần theo dõi sát biến động tỷ giá và cân nhắc cơ cấu nếu vi phạm ngưỡng dừng lỗ).
+  - Động lực (FA): Rủi ro tỷ giá USD tăng gây áp lực chi phí tài chính.
+  - Nhận định dòng tiền: Tiêu cực do chi phí vay ngoại tệ lớn làm suy giảm biên lợi nhuận.
+  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu tỷ giá USD/VND tiếp tục căng thẳng.
