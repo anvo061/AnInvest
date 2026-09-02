@@ -1,23 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:45 - 02/09/2026
+⏱ Thời gian: 22:30 - 02/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dự báo GDP 2025 giảm xuống 6.5% do tác động thuế quan từ Mỹ** -> **Tiêu cực** -> Dòng tiền có khả năng rút khỏi nhóm xuất khẩu (Dệt may, Thủy sản) để tìm kiếm các nhóm phòng thủ hoặc nội địa hóa.
-- **Tỷ giá ổn định tạo dư địa cho chính sách tiền tệ nới lỏng** -> **Tích cực** -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng, Chứng khoán) và Bất động sản vốn hóa lớn (VHM, TCB).
+- NHNN chính thức cắt giảm lãi suất điều hành để hỗ trợ phục hồi kinh tế -> Tích cực -> Dòng tiền sẽ hướng mạnh vào nhóm Chứng khoán (SSI, VND) và Bất động sản (VHM, PDR) nhờ chi phí vốn giảm và thanh khoản cải thiện.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TNG, VHC**
-    - Động lực (FA): Áp lực thuế quan từ thị trường Mỹ theo dự báo IMF 2025.
-    - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do lo ngại biên lợi nhuận bị bào mòn.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu thủng hỗ trợ kỹ thuật cứng.
 - **Mã: SSI, VND**
-    - Động lực (FA): Kỳ vọng nâng hạng thị trường sau lễ và môi trường vĩ mô (tỷ giá) ổn định.
-    - Nhận định dòng tiền: Nhóm cổ phiếu chứng khoán trở thành "trú ẩn" và điểm đến của dòng vốn kỳ vọng nâng hạng.
-    - Hành động: **Chú ý giải ngân** tại các nhịp chỉnh quanh hỗ trợ.
-- **Mã: MWG, MSN, PNJ**
-    - Động lực (FA): Sức mua tiêu dùng nội địa phục hồi mạnh dịp lễ 2/9.
-    - Nhận định dòng tiền: Hưởng lợi từ tâm lý tích cực của nhà đầu tư cá nhân vào nhóm bán lẻ sau kỳ nghỉ.
-    - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng đỉnh cũ.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Không có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên vị thế theo chiến lược trung hạn đã thiết lập.
+    - Động lực (FA): Hưởng lợi trực tiếp từ việc giảm lãi suất (tăng biên lợi nhuận mảng Margin) và kỳ vọng thanh khoản thị trường bùng nổ.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ và đầu tư giá trị sẽ đồng thuận vào nhóm này ngay khi thị trường mở cửa phiên tới.
+    - Hành động: Chú ý giải ngân gia tăng vị thế.
+- **Mã: KBC, GVR, GMD, SZC**
+    - Động lực (FA): Kết quả kinh doanh khả quan của Samsung (lãi 2,3 tỷ USD) củng cố chuỗi cung ứng và nhu cầu BĐS khu công nghiệp/Logistics.
+    - Nhận định dòng tiền: Dòng tiền trung hạn sẽ tiếp tục được neo giữ tại nhóm này nhờ nền tảng cơ bản vững chắc.
+    - Hành động: Tiếp tục quan sát để tối ưu điểm mua gia tăng.
+- **Mã: VJC, HVN**
+    - Động lực (FA): Số liệu du lịch dịp lễ 2/9 tích cực, cải thiện doanh thu ngắn hạn.
+    - Nhận định dòng tiền: Phản ứng tích cực trong ngắn hạn, tuy nhiên cần theo dõi thanh khoản để tránh bẫy bull-trap sau lễ.
+    - Hành động: Tiếp tục quan sát.
+- **Mã: TNG, VHC**
+    - Động lực (FA): Cảnh báo tăng trưởng GDP chậm lại do thuế quan Mỹ (dự báo từ IMF).
+    - Nhận định dòng tiền: Áp lực bán tiềm ẩn do rủi ro biên lợi nhuận bị bào mòn.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
