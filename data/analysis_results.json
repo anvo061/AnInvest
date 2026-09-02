@@ -1,5 +1,131 @@
 ﻿[
   {
+    "Title": "Vietnam Central Bank Vows to Push Growth, Limiting Credit Risks - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkMtNDBJM0tsZzQ0U29Ta1htbWpFZi02OFM2Q0tZVlZwVXRPb3dKdnRmUUNZY1pLdDlkSVJVZnBWQWE1VUYxcUZVNC1NNWk5UnJORG4xdEJPSTh3SXE3WTJxUWwyQkJ4UlBxLW9yVjI3TWJEWGZ3c0FZOUs2ZVpwOUotRlp5eG1lVy1CZVRmU2JGM3lGcm5UR0h5ejB1MnZPaTRiQldRUkVieEtkT1c4SFhtcw?oc=5",
+    "PubDate": "Fri, 03 Oct 2025 07:00:00 GMT",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Chính sách tiền tệ nới lỏng có kiểm soát giúp tăng trưởng tín dụng, giảm chi phí vốn cho doanh nghiệp, đồng thời cải thiện thanh khoản và tâm lý thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Chính sách nới lỏng có kiểm soát hỗ trợ thanh khoản hệ thống. Ưu tiên nhóm Ngân hàng có chất lượng tài sản tốt và Chứng khoán hưởng lợi từ thanh khoản thị trường.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng quốc doanh dẫn đầu về tăng trưởng tín dụng và chất lượng tài sản, hưởng lợi trực tiếp từ chính sách nới lỏng."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ sự phục hồi của thị trường BĐS và tăng trưởng tín dụng nhờ chi phí vốn thấp."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thanh khoản thị trường cải thiện giúp tăng doanh thu môi giới và lãi từ cho vay margin."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng tín dụng mạnh mẽ giúp cải thiện biên lợi nhuận trong môi trường lãi suất ổn định."
+      }
+    ],
+    "AnalyzedAt": "2026-09-03 01:52:13"
+  },
+  {
+    "Title": "Một doanh nghiệp KCN sắp đưa 2 dự án mới vào khai thác, lợi nhuận ròng cả năm có thể đạt 2.000 tỷ đồng - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUhNSnZSY2UxRmFzd3FCVjVsbmgzcXkwcmczX2dHUGNNZVJEc3l2WFVCdFJSckpFS1c0OU04SGNRNUZpMjdOUVJ5ci1VeFNZV0Z0MmFJNEpKUXlsdllxdXVqajNMYnpldDItR005bDZZaEpwOGdEbkdjX2lfeWo0RHVoelhLZ2VzUHFSYVdnbkphZE1RMkplLWJFSWFiNVJmUEJ6MHYtYTIxTk5veFZmUXZtZXItQURMTkdkQzFjTjc3STBwdWNSVW1yWGRIemcxSDhLWDJhWQ?oc=5",
+    "PubDate": "Wed, 02 Sep 2026 17:02:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc đưa dự án mới vào khai thác giúp gia tăng quỹ đất thương phẩm sẵn sàng cho thuê, cải thiện triển vọng doanh thu và lợi nhuận cho doanh nghiệp bất động sản khu công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức thiếu định danh doanh nghiệp cụ thể, mang tính chất PR chung chung. Không đủ cơ sở để xác định dòng tiền thông minh vào mã cụ thể nào.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-03 01:51:56"
+  },
+  {
+    "Title": "Sau nghỉ lễ, chuyên gia chỉ tên 2 nhóm cổ phiếu định giá rẻ, triển vọng tăng trưởng lợi nhuận tích cực - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3JwZ1BvXzZYNTFjTWg4Zlk2WjN0d1BfXy1tT1dfdENwbXZrbzMtWDdacy1MZmhVRHRLSlFRMVA2WDFfeHc0ZWk1UExVLWhmZjA0TGJsM2NQOGZsLVV1SFhlcndZbUtHdEFsME5TZnp3WjdwdjBkV193a1NBSzlJazZ3aXQwcmJEVWU1Q0dYME9tTjNtcGlKQTYwaXoxOHVUZkMzNmFNY2R4TkpOSjRfVDBNVFhNWksxVGNzdW55R3ZoY3Btbmk5aVZOUmg4blY5TmJial9yWQ?oc=5",
+    "PubDate": "Wed, 02 Sep 2026 17:02:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin mang tính chất định hướng chung từ chuyên gia, thiếu dữ liệu cụ thể về nhóm ngành hay mã cổ phiếu mục tiêu để tạo ra tác động dòng tiền thực tế trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã cụ thể. Tin tức mang tính chất quan điểm cá nhân, thiếu dữ liệu định lượng để kích hoạt dòng tiền thông minh. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-03 01:51:45"
+  },
+  {
+    "Title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, một \"thế lực\" âm thầm gom loạt cổ phiếu - cafef.vn",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUJZTThoQkJGRlpHSVplUUw5SngxNUpTTXhselVENWk3TXhfamlRMl9GRU1CLTlYTTJNR3hRbGEwU0FRVUo2d01VQ1JjSXFja2JqQlpFc3F3Y0hjRFBFTTczQVBMRGg4NlZ5R08zZlh4eGppVjQ1OHljMHM3a1BfMnNUa0oxalgtZUJac0J0WV9rdUhpY19ENXFvVHVUQzA4U3NhWGc2Vk1Rd0d5N1dIQ2RSWjdYMnBPUXhyY0E3M3FIcDdi?oc=5",
+    "PubDate": "Wed, 02 Sep 2026 17:16:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Thông tin về dòng tiền khối ngoại hoặc tổ chức lớn quay lại gom cổ phiếu sau kỳ nghỉ lễ tạo tâm lý tích cực, hỗ trợ thanh khoản và xu hướng hồi phục của thị trường chung.",
+    "TapeReaderNote": "Tín hiệu: Nhiễu. Tin tức dạng PR thị trường, thiếu dữ liệu dòng tiền cụ thể. Cần quan sát thanh khoản thực tế phiên giao dịch thay vì kỳ vọng tâm lý.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-03 01:51:28"
+  },
+  {
+    "Title": "Vụ bắt Thứ trưởng Bộ Y tế Trần Văn Thuấn: Điểm chú ý ở tài chính doanh nghiệp trung tâm vụ án",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/vu-bat-thu-truong-bo-y-te-tran-van-thuan-diem-chu-y-o-tai-chinh-doanh-nghiep-trung-tam-vu-an-100260902173847159.htm",
+    "PubDate": "9/2/2026 7:45:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Thông tin tiêu cực về nhân sự cấp cao ngành y tế gây tâm lý lo ngại về rủi ro pháp lý và quản trị tại các doanh nghiệp dược phẩm, thiết bị y tế có liên quan đến đấu thầu công.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dược phẩm/Thiết bị y tế. Rủi ro pháp lý trong đấu thầu công gây áp lực bán tháo ngắn hạn. Dòng tiền thông minh sẽ tránh xa các mã có tỷ trọng doanh thu lớn từ kênh bệnh viện công.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DHG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tâm lý tiêu cực lan tỏa lên nhóm dược phẩm do lo ngại rủi ro thanh tra đấu thầu."
+      },
+      {
+        "Ticker": "IMP",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro pháp lý ngành y tế gây áp lực điều chỉnh ngắn hạn lên các doanh nghiệp dược."
+      },
+      {
+        "Ticker": "JVC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp thiết bị y tế chịu rủi ro trực tiếp từ các thay đổi trong quy trình đấu thầu công."
+      }
+    ],
+    "AnalyzedAt": "2026-09-03 01:50:43"
+  },
+  {
+    "Title": "Mỹ tuyên bố 'gần như kiểm soát hoàn toàn eo biển Hormuz', giá vàng bật tăng mạnh",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/my-tuyen-bo-gan-nhu-kiem-soat-hoan-toan-eo-bien-hormuz-gia-vang-bat-tang-manh-100260902224306239.htm",
+    "PubDate": "9/2/2026 11:08:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Căng thẳng địa chính trị tại eo biển Hormuz gây áp lực lên giá dầu và chi phí vận tải, đồng thời kích hoạt tâm lý trú ẩn vào vàng, gây áp lực lên tỷ giá và thị trường chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Căng thẳng Hormuz đẩy giá dầu và chi phí vận tải tăng, gây áp lực lạm phát. Dòng tiền rút khỏi nhóm vận tải, ưu tiên phòng thủ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Căng thẳng eo biển Hormuz làm tăng chi phí vận tải và rủi ro chuỗi cung ứng toàn cầu, ảnh hưởng biên lợi nhuận cảng biển."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí nhiên liệu tăng và rủi ro vận tải biển quốc tế gây áp lực trực tiếp lên chi phí vận hành của doanh nghiệp vận tải container."
+      }
+    ],
+    "AnalyzedAt": "2026-09-03 01:49:34"
+  },
+  {
     "Title": "Vietnam Cuts Key Interest Rates to Aid Economic Recovery - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmdnYTFQSlhkYlJnTTU3c05NajBTYUZ6U1NZdTdGc0xxOGVudlVoNEhtWDM3MkR2Zl9VZjFIaEdjNU9SYlVIMDZvSkF3ZHd0aTVIVllnemZvYU1wbGV4X3ZDUHN1TlBxdHB2NmRNQU1DTXZtTk9jcWhFcWlSQ1BhY1dvOFdmTU9jaU5VLTUxODNBMFYyd1diejY4OGxmWGk3SE16Qm5Zd1E?oc=5",
@@ -16809,109 +16935,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-22 11:58:59"
-  },
-  {
-    "Title": "FUEVN100: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 24/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM2w2ZzhYZG9zWHhZNUJjOUFRdXdlOG0wcUNjdzFRVE9EMUVaeWQtM3dCempjZ09XQm03MGFDRlhPTm43bXg0QTV5VVFGNlpXd2p1TXRWeGotNUFaOXV2THNjMmZhMXM1MDdDdE1vbWwwVE5nby02TEJadVB4N01NR0lnQ2wtM3lfTi0zdFJGQjh3bGdBVTg3Qi01ZDNUTTg0S1NJczVrWUhOUHBPUURuSTQzeEdpeDRWc1FkOTZtUGt4RWdkWUtFQUxqOFBSZ0xHNUdZ?oc=5",
-    "PubDate": "Sat, 22 Aug 2026 04:17:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, không mang tính chất thay đổi chiến lược hay tác động đến hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra biến động dòng tiền bất thường cho các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-22 11:58:49"
-  },
-  {
-    "Title": "Mở thẻ Vietcombank Haha, cơ hội vào hậu trường Quán Nhà Haha",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/mo-the-vietcombank-haha-co-hoi-vao-hau-truong-quan-nha-haha-10026082207373922.htm",
-    "PubDate": "8/22/2026 9:36:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là chương trình khuyến mãi marketing thẻ tín dụng thông thường, không tác động đến kết quả kinh doanh cốt lõi hay biên lợi nhuận của ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Hoạt động marketing thẻ tín dụng không thay đổi cấu trúc dòng tiền hay lợi nhuận doanh nghiệp. Không có tác động đến giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-22 11:57:55"
-  },
-  {
-    "Title": "Vụ VETC và ePass: Chuyên gia đề xuất tài xế trả tiền BOT trực tiếp từ ngân hàng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vu-vetc-va-epass-chuyen-gia-de-xuat-tai-xe-tra-tien-bot-truc-tiep-tu-ngan-hang-100260821175905724.htm",
-    "PubDate": "8/22/2026 10:16:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc kết nối trực tiếp với ngân hàng giúp tối ưu hóa quy trình thanh toán, giảm chi phí trung gian và tăng tính minh bạch cho các đơn vị vận hành thu phí BOT, đồng thời thúc đẩy chuyển đổi số trong thanh toán không dùng tiền mặt.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Đề xuất chỉ mang tính chính sách, chưa có lộ trình triển khai cụ thể. Tác động đến doanh thu ngân hàng và công nghệ là không đáng kể trong ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-22 11:57:19"
-  },
-  {
-    "Title": "FTSE công bố 117 cổ phiếu Việt Nam: Ai sẽ hưởng lợi lớn trước ‘giờ G’ nâng hạng?",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//ftse-cong-bo-117-co-phieu-viet-nam-ai-se-huong-loi-lon-truoc-gio-g-nang-hang.html",
-    "PubDate": "Sat, 22 Aug 2026 04:38:14 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Việc FTSE công bố danh sách 117 cổ phiếu tạo kỳ vọng lớn về dòng vốn ngoại đổ vào các mã vốn hóa lớn và thanh khoản cao, thúc đẩy tâm lý thị trường trước kỳ nâng hạng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm vốn hóa lớn (Bluechips). Dòng tiền khối ngoại sẽ tập trung vào các mã trong danh mục FTSE. Kỳ vọng nâng hạng thúc đẩy lực cầu chủ động tại VCB, HPG, VHM, FPT, MSN.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn nhất thị trường, ưu tiên hàng đầu của các quỹ ETF ngoại khi nâng hạng."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản cao và vị thế đầu ngành thép, là mã bắt buộc trong danh mục của các quỹ đầu tư quốc tế."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu trụ cột ngành BĐS, thu hút dòng vốn lớn nhờ quy mô vốn hóa và tính đại diện thị trường."
-      },
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu công nghệ tăng trưởng bền vững, là lựa chọn ưa thích của khối ngoại trong danh mục FTSE."
-      },
-      {
-        "Ticker": "MSN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Mã tiêu dùng thiết yếu có vốn hóa lớn, hưởng lợi trực tiếp từ việc tái cơ cấu danh mục của các quỹ ngoại."
-      }
-    ],
-    "AnalyzedAt": "2026-08-22 11:56:47"
-  },
-  {
-    "Title": "Đề xuất luật hóa cấm quảng cáo sai sự thật về dự án địa ốc",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/de-xuat-luat-hoa-cam-quang-cao-sai-su-that-ve-du-an-dia-oc-5112022.html",
-    "PubDate": "Sat, 22 Aug 2026 11:18:32 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc luật hóa giúp thanh lọc thị trường, tăng niềm tin của nhà đầu tư vào các dự án minh bạch, tạo lợi thế cạnh tranh cho các chủ đầu tư uy tín có quỹ đất sạch và pháp lý rõ ràng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Luật hóa quảng cáo là bước đi hành chính dài hạn, chưa tạo đột biến dòng tiền ngắn hạn cho nhóm BĐS. Cần theo dõi phản ứng thực tế tại các dự án trọng điểm.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-22 11:56:09"
-  },
-  {
-    "Title": "FUEVFVND: Thông báo về việc niêm yết và giao dịch chứng chỉ quỹ ETF thay đổi niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRldMb2VJdkpodHdTMkFyNG10MUpHZzgwVTFvM1MwX0hub0l0Zk5TRkQzVy00dUotWUtYN2Rkc09fVEk4dVBPTmZoV0t3Z2dSWVhRUzdRTHAzRi1XR0t6cldjT3ljcWZrMTF3SnI3Zm5TdW91ZHZIQW9YRjdZYS0tVGxTWGctdFFlVjgxTV9HcjlzcFhWZDRUbTJQRDZLLXRuTjl0YTJya0lIenRZeFNTY2U1VUllVW5mYkNOMnlDVGExdkZpdlE4VmR4ektOYThmb0RBUS1yeE42Y2p5MG45eWtyVQ?oc=5",
-    "PubDate": "Sat, 22 Aug 2026 02:08:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc thay đổi niêm yết chứng chỉ quỹ ETF, không làm thay đổi giá trị tài sản ròng (NAV) hay chiến lược đầu tư của quỹ, do đó không tác động đến giá cổ phiếu các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thủ tục hành chính niêm yết, không tác động đến dòng tiền hay biến động giá của các cổ phiếu thành phần trong danh mục ETF.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-22 11:22:36"
   }
 ]
