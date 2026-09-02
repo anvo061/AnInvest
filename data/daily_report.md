@@ -1,26 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:10 - 03/09/2026
+⏱ Thời gian: 04:45 - 03/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN cắt giảm lãi suất điều hành kết hợp định hướng nới lỏng tín dụng -> **Tích cực** -> Dòng tiền tập trung vào nhóm Tài chính (Chứng khoán, Ngân hàng) và Bất động sản (đặc biệt các mã có nợ vay lớn).
-- Căng thẳng eo biển Hormuz làm tăng chi phí vận tải -> **Tiêu cực** -> Áp lực lên nhóm Logistics/Cảng biển (GMD, HAH) do biên lợi nhuận bị thu hẹp.
-- Vụ bắt giữ nhân sự cấp cao ngành y tế -> **Tiêu cực** -> Rủi ro pháp lý ngắn hạn gây áp lực bán tháo lên nhóm Dược phẩm (DHG, IMP, JVC).
-- Kết quả kinh doanh Samsung khả quan -> **Tích cực** -> Củng cố triển vọng dài hạn nhóm BĐS Khu công nghiệp (KBC, SZC, GVR).
+- NHNN cam kết thúc đẩy tăng trưởng tín dụng đi kèm kiểm soát rủi ro -> **Tích cực** -> Dòng tiền ưu tiên nhóm Ngân hàng (VCB, TCB, MBB) và Chứng khoán (SSI).
+- Đảm bảo nguồn vốn và điện năng cho tăng trưởng -> **Tích cực** -> Dòng tiền hướng vào nhóm Hạ tầng điện (POW).
+- Tăng nguồn cung dầu thô toàn cầu (từ Venezuela) -> **Tiêu cực cho thượng nguồn** -> Áp lực lên biên lợi nhuận nhóm Dầu khí.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI / VND**
-  - Động lực (FA): Hưởng lợi kép từ lãi suất giảm (giảm chi phí vốn margin) và thanh khoản thị trường kỳ vọng cải thiện.
-  - Nhận định dòng tiền: Dòng tiền thông minh sẽ ưu tiên nhóm chứng khoán đầu ngành để đón đầu kỳ vọng lãi suất rẻ.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc đầu phiên.
-- Mã: **GMD / HAH**
-  - Động lực (FA): Căng thẳng địa chính trị Hormuz làm tăng rủi ro chi phí vận tải.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể thoái lui để tránh rủi ro chi phí biến động, tạo áp lực điều chỉnh.
-  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát áp lực bán.
-- Mã: **KBC / SZC**
-  - Động lực (FA): Sự phục hồi của chuỗi cung ứng Samsung củng cố nhu cầu thuê đất KCN.
-  - Nhận định dòng tiền: Dòng tiền đầu tư dài hạn ổn định, phản ứng tích cực với thông tin FDI tích cực.
-  - Hành động: Tiếp tục nắm giữ, ưu tiên các vùng hỗ trợ cứng.
-- Mã: **DHG / IMP**
-  - Động lực (FA): Rủi ro pháp lý ngành y tế.
-  - Nhận định dòng tiền: Tâm lý hoảng loạn ngắn hạn từ tin tức tiêu cực có thể gây ra lực bán không dựa trên nền tảng cơ bản.
-  - Hành động: Tiếp tục quan sát, chưa vội bắt đáy cho đến khi thông tin làm rõ phạm vi ảnh hưởng.
+- Mã: **POW**
+- Động lực (FA): Hưởng lợi trực tiếp từ ưu tiên nguồn vốn và nhu cầu điện tăng cao để duy trì mục tiêu tăng trưởng kinh tế.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm tìm đến nhóm hạ tầng chiến lược ngay sau kỳ nghỉ lễ.
+- Hành động: **Chú ý giải ngân** quanh vùng nền tích lũy.
+- Mã: **DPM**
+- Động lực (FA): Thù lao lãnh đạo tăng đột biến (đến 14,6 lần) gây lo ngại về chi phí quản lý doanh nghiệp.
+- Nhận định dòng tiền: Rủi ro áp lực bán từ cổ đông nhỏ lẻ do mất niềm tin vào quản trị tài chính.
+- Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu cổ phiếu thủng hỗ trợ ngắn hạn.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+- Nhận định: Tin tức về việc Chevron tăng sản lượng khai thác gây áp lực giảm giá dầu thô toàn cầu, trực tiếp ảnh hưởng đến biên lợi nhuận lọc dầu (crack spread) của BSR. Trong bối cảnh đã quá thời điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại cho thấy dư địa tăng trưởng bị thu hẹp đáng kể. **Khuyến nghị: Cơ cấu lại/Chốt lời để đảo dòng tiền sang các mã có câu chuyện tăng trưởng lợi nhuận rõ ràng hơn.**
