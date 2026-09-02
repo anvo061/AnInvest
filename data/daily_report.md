@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:45 - 03/09/2026
+⏱ Thời gian: 06:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN cam kết thúc đẩy tăng trưởng tín dụng đi kèm kiểm soát rủi ro -> **Tích cực** -> Dòng tiền ưu tiên nhóm Ngân hàng (VCB, TCB, MBB) và Chứng khoán (SSI).
-- Đảm bảo nguồn vốn và điện năng cho tăng trưởng -> **Tích cực** -> Dòng tiền hướng vào nhóm Hạ tầng điện (POW).
-- Tăng nguồn cung dầu thô toàn cầu (từ Venezuela) -> **Tiêu cực cho thượng nguồn** -> Áp lực lên biên lợi nhuận nhóm Dầu khí.
+- **Tác động kép từ Lãi suất và Năng lượng:** Áp lực lãi suất tăng từ PYN Elite Fund gây rủi ro rút vốn, đối trọng với tín hiệu tích cực về nhu cầu điện nền cho trung tâm dữ liệu AI -> **Tác động: Trái chiều (Thận trọng cao độ)** -> Dòng tiền sẽ phân hóa mạnh giữa nhóm BĐS/Chứng khoán (áp lực điều chỉnh) và nhóm Tiện ích/Điện (tâm điểm trú ẩn/tăng trưởng).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **POW**
-- Động lực (FA): Hưởng lợi trực tiếp từ ưu tiên nguồn vốn và nhu cầu điện tăng cao để duy trì mục tiêu tăng trưởng kinh tế.
-- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm tìm đến nhóm hạ tầng chiến lược ngay sau kỳ nghỉ lễ.
-- Hành động: **Chú ý giải ngân** quanh vùng nền tích lũy.
-- Mã: **DPM**
-- Động lực (FA): Thù lao lãnh đạo tăng đột biến (đến 14,6 lần) gây lo ngại về chi phí quản lý doanh nghiệp.
-- Nhận định dòng tiền: Rủi ro áp lực bán từ cổ đông nhỏ lẻ do mất niềm tin vào quản trị tài chính.
-- Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu cổ phiếu thủng hỗ trợ ngắn hạn.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Tin tức về việc Chevron tăng sản lượng khai thác gây áp lực giảm giá dầu thô toàn cầu, trực tiếp ảnh hưởng đến biên lợi nhuận lọc dầu (crack spread) của BSR. Trong bối cảnh đã quá thời điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại cho thấy dư địa tăng trưởng bị thu hẹp đáng kể. **Khuyến nghị: Cơ cấu lại/Chốt lời để đảo dòng tiền sang các mã có câu chuyện tăng trưởng lợi nhuận rõ ràng hơn.**
+- **Mã: POW**
+  - Động lực (FA): Nhu cầu điện nền cho các trung tâm dữ liệu AI tăng cao, kết hợp chủ trương đảm bảo điện cho tăng trưởng kinh tế.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển vào các cổ phiếu phòng thủ có tính tăng trưởng như điện để giảm thiểu rủi ro biến động từ lãi suất.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc theo thị trường chung.
+- **Mã: REE**
+  - Động lực (FA): Danh mục thủy điện và năng lượng tái tạo hưởng lợi trực tiếp từ bài toán thiếu hụt năng lượng vận hành AI.
+  - Nhận định dòng tiền: Hợp lưu tích cực, dòng tiền tìm kiếm các doanh nghiệp có hạ tầng năng lượng vững chắc.
+  - Hành động: Tiếp tục quan sát điểm entry.
+- **Mã: VIC**
+  - Động lực (FA): Huy động thành công trái phiếu Won giúp cải thiện cấu trúc tài chính.
+  - Nhận định dòng tiền: Tin tức tích cực giúp giảm áp lực tâm lý cho cổ phiếu trong ngắn hạn, tuy nhiên cần quan sát sự đồng thuận của thị trường chung trước áp lực lãi suất.
+  - Hành động: Tiếp tục quan sát, chưa vội giải ngân do áp lực ngành BĐS đang chịu ảnh hưởng tiêu cực từ lãi suất.
+- **Mã: SSI, VND, PDR, NVL**
+  - Động lực (FA): Môi trường lãi suất tăng gây áp lực chi phí vốn và thanh khoản thị trường.
+  - Nhận định dòng tiền: Tiêu cực. Áp lực bán tiềm ẩn cao do chi phí vay tăng ảnh hưởng trực tiếp đến biên lợi nhuận.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu chạm ngưỡng hỗ trợ cứng.
