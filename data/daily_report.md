@@ -1,24 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:50 - 02/09/2026
+⏱ Thời gian: 13:45 - 02/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động nhích lên mức 9,2%/năm -> **Tiêu cực** -> Áp lực lên nhóm BĐS (VHM, PDR) và CTCK (SSI, VND) do chi phí vốn tăng; nhóm Ngân hàng (VCB) được hưởng lợi về NIM.
-- Giá dầu thế giới tăng -> **Tích cực** -> Dòng tiền dự báo hướng vào nhóm dầu khí thượng nguồn (PVD, PVS) và lọc hóa dầu (BSR).
-- MWG chấm dứt hoạt động tại thị trường Campuchia -> **Tích cực** -> Tập trung nguồn lực, tối ưu chi phí, hỗ trợ sức mạnh giá cổ phiếu.
+- Tỷ giá VND ổn định hỗ trợ Ngân hàng Nhà nước linh hoạt chính sách tiền tệ, thúc đẩy tăng trưởng tín dụng và dòng vốn ngoại -> **Tích cực** -> Nhóm ngành hưởng lợi: Ngân hàng (VCB, TCB), Bất động sản (VHM), Chứng khoán (SSI).
+- Samsung mở rộng dây chuyền bán dẫn tại Thái Nguyên -> **Tích cực** -> Nhóm ngành hưởng lợi: Bất động sản khu công nghiệp (KBC).
+- NHNN tái khởi động đấu thầu vàng nhằm ổn định vĩ mô -> **Trung lập/Tiêu cực ngắn hạn** -> Nhóm ngành bị ảnh hưởng: Bán lẻ vàng bạc (PNJ).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS, BSR**
-    - Động lực (FA): Giá dầu thế giới tăng mạnh.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ trú ẩn và đẩy giá nhóm năng lượng trong bối cảnh thị trường chịu áp lực từ lãi suất.
-    - Hành động: Chú ý quan sát xung lực tại các mốc hỗ trợ cứng.
-- **Mã: MWG**
-    - Động lực (FA): Tối ưu hóa bộ máy, rút khỏi thị trường kém hiệu quả (Campuchia).
-    - Nhận định dòng tiền: Tín hiệu cải thiện biên lợi nhuận giúp cải thiện kỳ vọng của dòng tiền trung hạn.
-    - Hành động: Theo dõi sát thanh khoản phiên tới.
-- **Mã: HKB**
-    - Động lực (FA): Duy trì diện hạn chế giao dịch.
-    - Hành động: **Loại bỏ khỏi danh mục theo dõi/cảnh báo rủi ro thanh khoản.**
+- Mã: **KBC**
+    - Động lực (FA): Samsung mở rộng dây chuyền bán dẫn tại Thái Nguyên (1.612 thiết bị mới).
+    - Nhận định dòng tiền: Kỳ vọng gia tăng nhu cầu thuê đất và dịch vụ hạ tầng, tạo hiệu ứng tích cực lên dòng tiền ngắn hạn của mã này.
+    - Hành động: Chú ý giải ngân nếu có điểm test cung kỹ thuật.
+- Mã: **MWG**
+    - Động lực (FA): Chấm dứt hoạt động tại Campuchia, tối ưu hóa chi phí vận hành.
+    - Nhận định dòng tiền: Tín hiệu cải thiện biên lợi nhuận hợp nhất giúp giảm áp lực tâm lý cho nhà đầu tư về rủi ro mở rộng ngoài nước.
+    - Hành động: Tiếp tục quan sát phản ứng dòng tiền tại vùng nền giá.
+- Mã: **PNJ**
+    - Động lực (FA): Chính sách đấu thầu vàng của NHNN nhằm giảm chênh lệch giá.
+    - Nhận định dòng tiền: Áp lực tâm lý từ chính sách quản lý có thể tạo nhịp chỉnh ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi tin tức mới chỉ bắt đầu phản ánh.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Giá dầu tăng là động lực bổ trợ cần thiết cho BSR tại thời điểm Tháng 6/2026. Với dữ liệu giá dầu hiện tại, duy trì nắm giữ vị thế để đón đầu dư địa tăng trưởng từ biên lợi nhuận lọc hóa dầu, chưa cần thực hiện cơ cấu. Tuy nhiên, cần theo dõi sát diễn biến lãi suất huy động vì đây là đối trọng làm giảm sự hấp dẫn của các cổ phiếu chu kỳ.
+- Hiện tại chưa có dữ liệu tin tức mới phát sinh liên quan trực tiếp đến trạng thái tài sản của EIB và BSR so với thời điểm phân tích trước. Duy trì vị thế hiện tại.
