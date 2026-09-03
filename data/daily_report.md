@@ -1,19 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:30 - 03/09/2026
+⏱ Thời gian: 21:50 - 03/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực lạm phát & Cán cân thương mại**: Cán cân thương mại thu hẹp ($113 triệu) nhưng lạm phát tăng nhanh -> **Đánh giá: Tiêu cực** -> Rủi ro lãi suất điều hành bị duy trì ở mức cao hoặc thắt chặt, gây áp lực lên định giá nhóm Bán lẻ (MWG) và biên lợi nhuận ngân hàng (NIM).
-- **Thị trường chung**: Áp lực bán ròng khối ngoại 1.600 tỷ đồng và độ rộng thị trường tiêu cực (230 mã giảm) -> **Đánh giá: Tiêu cực** -> Dòng tiền rút khỏi nhóm dẫn dắt, thị trường đang ở pha điều chỉnh rủi ro.
+- **Thanh khoản hệ thống ngân hàng dư thừa (huy động tăng nhanh hơn tín dụng):** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm Ngân hàng thương mại (VCB, TCB, MBB, ACB) do biên lãi thuần (NIM) được cải thiện nhờ chi phí vốn thấp.
+- **Thúc đẩy xuất khẩu nông sản & E-commerce:** -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm Nông nghiệp (HAG) và Sản xuất/Tiêu dùng có năng lực xuất khẩu (TNG, VHC, MSN).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSB**
-- Động lực (FA): Tăng trần phiên thứ hai liên tiếp.
-- Nhận định dòng tiền: Đang tồn tại sự phân hóa mạnh, dòng tiền đầu cơ "chống lại" xu hướng bán tháo chung của VN-Index. 
-- Hành động: **Tiếp tục quan sát**. Tuyệt đối không đuổi lệnh khi thị trường chung đang bị áp lực xả mạnh từ khối ngoại; khả năng cao đây là bẫy dòng tiền (bull trap) trước khi điều chỉnh theo thị trường.
-- **Mã: BLN**
-- Động lực (FA): Thông báo chốt quyền cổ tức tiền mặt.
-- Nhận định dòng tiền: Tín hiệu tích cực cho dòng tiền đầu tư giá trị, giúp mã này có khả năng chống chọi tốt hơn trong môi trường thị trường biến động.
-- Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì nền giá ổn định trong các phiên điều chỉnh tới.
+- **Mã: HAG**
+  - Động lực (FA): Chính phủ triển khai 5 giải pháp gỡ khó xuất khẩu sầu riêng sang Trung Quốc.
+  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp biên lợi nhuận mảng nông nghiệp, kích thích dòng tiền đầu cơ tìm kiếm cơ hội ở nhóm cổ phiếu có game tăng trưởng thực.
+  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn với thanh khoản tăng đột biến.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Không có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên vị thế hiện tại.
+- **Mã: TCB, VCB, MBB, ACB**
+  - Động lực (FA): Dư thừa thanh khoản hệ thống giúp tối ưu chi phí vốn (COF).
+  - Nhận định dòng tiền: Củng cố nền tảng cơ bản cho nhịp tăng bền vững, dòng tiền lớn (smart money) sẽ gia tăng tỷ trọng tại các phiên điều chỉnh kỹ thuật.
+  - Hành động: Tiếp tục giữ vị thế, gia tăng tỷ trọng nếu giá chạm hỗ trợ cứng.
+
+- **Mã: TNG, VHC, MSN**
+  - Động lực (FA): Gia tăng biên lợi nhuận nhờ mở rộng kênh xuất khẩu trực tuyến (E-commerce).
+  - Nhận định dòng tiền: Dòng tiền lan tỏa từ nhóm xuất khẩu, giảm sự phụ thuộc vào trung gian.
+  - Hành động: Theo dõi sát lực cầu tại vùng nền tích lũy.
