@@ -1,27 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:15 - 04/09/2026
+⏱ Thời gian: 06:15 - 04/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lạm phát dịch vụ tại Mỹ dai dẳng gây áp lực lên lãi suất FED và tỷ giá USD/VND -> [Tiêu cực] -> [Dòng tiền thận trọng với các mã có dư nợ vay USD lớn (Điện, BĐS)].
-- Dòng vốn FDI công nghệ cao đổ bộ và nhu cầu xuất khẩu (Mỹ, Hàn) phục hồi -> [Tích cực] -> [Nhóm Khu công nghiệp, Công nghệ, Xuất khẩu (Dệt may, Thủy sản)].
+- **Nhập khẩu hàng hóa tư bản (capital goods) của Mỹ đạt kỷ lục:** Cho thấy nhu cầu đầu tư hạ tầng/sản xuất tại Mỹ tăng mạnh -> **Tích cực:** Dòng tiền dự kiến hướng vào nhóm Xuất khẩu (dệt may, gỗ, linh kiện điện tử) hưởng lợi từ chuỗi cung ứng toàn cầu.
+- **Lạm phát dịch vụ Mỹ dai dẳng & áp lực tỷ giá:** FED neo lãi suất cao -> **Tiêu cực:** Gây rủi ro chi phí vốn và lỗ tỷ giá cho các doanh nghiệp vay nợ USD lớn (điển hình: POW, VHM).
+- **Thịt nhập khẩu giá rẻ tràn vào:** Giá lợn hơi chịu áp lực giảm -> **Tiêu cực:** Nhóm chăn nuôi (DBC, BAF) đối diện rủi ro biên lợi nhuận thu hẹp.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PC1**
-  - Động lực (FA): Nhóm cổ đông CII nâng sở hữu lên 12,79% (giá trị >1.000 tỷ).
-  - Nhận định dòng tiền: Sự xác nhận của cổ đông lớn làm tăng độ tin cậy cho cấu trúc tài chính và định hướng phát triển của doanh nghiệp, dự báo dòng tiền khối ngoại/tổ chức sẽ duy trì trạng thái tích lũy.
-  - Hành động: **Chú ý giải ngân** nếu kiểm định lại vùng hỗ trợ kỹ thuật gần nhất.
-
-- **Mã: VHM**
-  - Động lực (FA): Áp lực lãi suất và tỷ giá gia tăng từ dữ liệu lạm phát Mỹ.
-  - Nhận định dòng tiền: Áp lực chi phí vốn đè nặng lên kế hoạch tái cấu trúc nợ, dòng tiền ngắn hạn có xu hướng rút lui để tránh rủi ro chi phí tài chính gia tăng.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên phòng thủ.
-
-- **Mã: POW**
-  - Động lực (FA): Rủi ro lỗ tỷ giá từ dư nợ USD do USD neo cao.
-  - Nhận định dòng tiền: Dòng tiền chịu áp lực bán ròng theo tâm lý vĩ mô, thiếu động lực tăng trưởng ngắn hạn.
-  - Hành động: **Tiếp tục quan sát**, không mở vị thế mới.
-
-- **Mã: KBC, SZC, FPT, TNG, VHC**
-  - Động lực (FA): Hưởng lợi từ làn sóng FDI công nghệ cao và đơn hàng xuất khẩu phục hồi.
-  - Nhận định dòng tiền: Nhóm cổ phiếu tăng trưởng (growth stocks) có khả năng trở thành điểm trú ẩn dòng tiền khi nhóm ngân hàng/trụ cột đang trong giai đoạn điều chỉnh.
-  - Hành động: **Chú ý giải ngân** theo chiến lược gom dần tại các phiên điều chỉnh.
+- **Mã: DBC, BAF**
+  - Động lực (FA): Thịt nhập khẩu giá rẻ (43.000đ/kg) cạnh tranh trực tiếp.
+  - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng do biên lợi nhuận bị đe dọa.
+  - Hành động: **Rủi ro vi phạm kịch bản**; hạn chế giải ngân mới, ưu tiên hạ tỷ trọng nếu giá mất hỗ trợ ngắn hạn.
+- **Mã: ACV**
+  - Động lực (FA): Lợi nhuận sau kiểm toán sụt giảm.
+  - Nhận định dòng tiền: Phản ứng thận trọng, tâm lý nhà đầu tư ngắn hạn kém tích cực.
+  - Hành động: **Tiếp tục quan sát** phản ứng của vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu cân bằng.
+- **Mã: PNJ**
+  - Động lực (FA): Xu hướng cá nhân hóa trang sức cưới tăng biên lợi nhuận.
+  - Nhận định dòng tiền: Điểm sáng riêng lẻ trong bối cảnh thị trường phân hóa.
+  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì sức mạnh tại các nhịp rung lắc.
