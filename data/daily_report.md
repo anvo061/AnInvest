@@ -1,26 +1,27 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ Thời gian: 04/09/2026 - 01:15
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 04:15 - 04/09/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Fed giữ nguyên lãi suất:** USD suy yếu, áp lực tỷ giá tại Việt Nam giảm bớt -> **Tích cực** -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng) và Xuất khẩu (Dệt may, Thủy sản).
-- **Căng thẳng địa chính trị (Iran/US):** Giá dầu thế giới có rủi ro tăng mạnh -> **Tiêu cực** (gây áp lực lạm phát) -> Cần theo dõi sát nhóm Dầu khí và Năng lượng.
-- **Thu ngân sách vượt 2 triệu tỷ:** Dư địa tài khóa lớn cho đầu tư công -> **Tích cực** -> Dòng tiền hướng vào nhóm Hạ tầng/Đầu tư công.
-- **Lợi suất trái phiếu toàn cầu tăng:** Áp lực lên chi phí vốn doanh nghiệp vay nợ nhiều -> **Tiêu cực** -> Cần thận trọng với các mã Bất động sản có đòn bẩy tài chính cao (NVL, VHM).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Lạm phát dịch vụ tại Mỹ dai dẳng gây áp lực lên lãi suất FED và tỷ giá USD/VND -> [Tiêu cực] -> [Dòng tiền thận trọng với các mã có dư nợ vay USD lớn (Điện, BĐS)].
+- Dòng vốn FDI công nghệ cao đổ bộ và nhu cầu xuất khẩu (Mỹ, Hàn) phục hồi -> [Tích cực] -> [Nhóm Khu công nghiệp, Công nghệ, Xuất khẩu (Dệt may, Thủy sản)].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: PC1**
-  - Động lực (FA): Cổ đông lớn (nhóm CII) tăng sở hữu lên 12,79%.
-  - Nhận định dòng tiền: Tạo hiệu ứng tâm lý "cổ đông chiến lược" củng cố xu hướng tích lũy, củng cố thanh khoản.
-  - Hành động: **Chú ý giải ngân** nếu giá duy trì trên nền tích lũy hiện tại.
-- **Mã: VIC**
-  - Động lực (FA): GSM mở rộng quốc tế và kế hoạch IPO tại Hong Kong.
-  - Nhận định dòng tiền: Củng cố kỳ vọng về định giá hệ sinh thái, giảm bớt áp lực tâm lý tiêu cực.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng kháng cự ngắn hạn.
-- **Mã: PNJ**
-  - Động lực (FA): Giá vàng biến động mạnh (tăng 225 USD/ounce).
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ đầu cơ và nhu cầu tích trữ vàng.
-  - Hành động: **Chú ý giải ngân** theo đà tăng của giá vàng thế giới.
-- **Mã: TNG, VHC**
-  - Động lực (FA): Nhu cầu xuất khẩu phục hồi từ thị trường Mỹ, Hàn Quốc.
-  - Nhận định dòng tiền: Dòng tiền ưu tiên nhóm doanh nghiệp có đơn hàng ổn định trong bối cảnh vĩ mô biến động.
-  - Hành động: **Chú ý giải ngân** cho mục tiêu ngắn hạn.
+  - Động lực (FA): Nhóm cổ đông CII nâng sở hữu lên 12,79% (giá trị >1.000 tỷ).
+  - Nhận định dòng tiền: Sự xác nhận của cổ đông lớn làm tăng độ tin cậy cho cấu trúc tài chính và định hướng phát triển của doanh nghiệp, dự báo dòng tiền khối ngoại/tổ chức sẽ duy trì trạng thái tích lũy.
+  - Hành động: **Chú ý giải ngân** nếu kiểm định lại vùng hỗ trợ kỹ thuật gần nhất.
+
+- **Mã: VHM**
+  - Động lực (FA): Áp lực lãi suất và tỷ giá gia tăng từ dữ liệu lạm phát Mỹ.
+  - Nhận định dòng tiền: Áp lực chi phí vốn đè nặng lên kế hoạch tái cấu trúc nợ, dòng tiền ngắn hạn có xu hướng rút lui để tránh rủi ro chi phí tài chính gia tăng.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên phòng thủ.
+
+- **Mã: POW**
+  - Động lực (FA): Rủi ro lỗ tỷ giá từ dư nợ USD do USD neo cao.
+  - Nhận định dòng tiền: Dòng tiền chịu áp lực bán ròng theo tâm lý vĩ mô, thiếu động lực tăng trưởng ngắn hạn.
+  - Hành động: **Tiếp tục quan sát**, không mở vị thế mới.
+
+- **Mã: KBC, SZC, FPT, TNG, VHC**
+  - Động lực (FA): Hưởng lợi từ làn sóng FDI công nghệ cao và đơn hàng xuất khẩu phục hồi.
+  - Nhận định dòng tiền: Nhóm cổ phiếu tăng trưởng (growth stocks) có khả năng trở thành điểm trú ẩn dòng tiền khi nhóm ngân hàng/trụ cột đang trong giai đoạn điều chỉnh.
+  - Hành động: **Chú ý giải ngân** theo chiến lược gom dần tại các phiên điều chỉnh.
