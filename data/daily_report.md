@@ -1,22 +1,26 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:50 - 03/09/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ Thời gian: 04/09/2026 - 01:15
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thanh khoản hệ thống ngân hàng dư thừa (huy động tăng nhanh hơn tín dụng):** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ ưu tiên nhóm Ngân hàng thương mại (VCB, TCB, MBB, ACB) do biên lãi thuần (NIM) được cải thiện nhờ chi phí vốn thấp.
-- **Thúc đẩy xuất khẩu nông sản & E-commerce:** -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm Nông nghiệp (HAG) và Sản xuất/Tiêu dùng có năng lực xuất khẩu (TNG, VHC, MSN).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Fed giữ nguyên lãi suất:** USD suy yếu, áp lực tỷ giá tại Việt Nam giảm bớt -> **Tích cực** -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng) và Xuất khẩu (Dệt may, Thủy sản).
+- **Căng thẳng địa chính trị (Iran/US):** Giá dầu thế giới có rủi ro tăng mạnh -> **Tiêu cực** (gây áp lực lạm phát) -> Cần theo dõi sát nhóm Dầu khí và Năng lượng.
+- **Thu ngân sách vượt 2 triệu tỷ:** Dư địa tài khóa lớn cho đầu tư công -> **Tích cực** -> Dòng tiền hướng vào nhóm Hạ tầng/Đầu tư công.
+- **Lợi suất trái phiếu toàn cầu tăng:** Áp lực lên chi phí vốn doanh nghiệp vay nợ nhiều -> **Tiêu cực** -> Cần thận trọng với các mã Bất động sản có đòn bẩy tài chính cao (NVL, VHM).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HAG**
-  - Động lực (FA): Chính phủ triển khai 5 giải pháp gỡ khó xuất khẩu sầu riêng sang Trung Quốc.
-  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp biên lợi nhuận mảng nông nghiệp, kích thích dòng tiền đầu cơ tìm kiếm cơ hội ở nhóm cổ phiếu có game tăng trưởng thực.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn với thanh khoản tăng đột biến.
-
-- **Mã: TCB, VCB, MBB, ACB**
-  - Động lực (FA): Dư thừa thanh khoản hệ thống giúp tối ưu chi phí vốn (COF).
-  - Nhận định dòng tiền: Củng cố nền tảng cơ bản cho nhịp tăng bền vững, dòng tiền lớn (smart money) sẽ gia tăng tỷ trọng tại các phiên điều chỉnh kỹ thuật.
-  - Hành động: Tiếp tục giữ vị thế, gia tăng tỷ trọng nếu giá chạm hỗ trợ cứng.
-
-- **Mã: TNG, VHC, MSN**
-  - Động lực (FA): Gia tăng biên lợi nhuận nhờ mở rộng kênh xuất khẩu trực tuyến (E-commerce).
-  - Nhận định dòng tiền: Dòng tiền lan tỏa từ nhóm xuất khẩu, giảm sự phụ thuộc vào trung gian.
-  - Hành động: Theo dõi sát lực cầu tại vùng nền tích lũy.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PC1**
+  - Động lực (FA): Cổ đông lớn (nhóm CII) tăng sở hữu lên 12,79%.
+  - Nhận định dòng tiền: Tạo hiệu ứng tâm lý "cổ đông chiến lược" củng cố xu hướng tích lũy, củng cố thanh khoản.
+  - Hành động: **Chú ý giải ngân** nếu giá duy trì trên nền tích lũy hiện tại.
+- **Mã: VIC**
+  - Động lực (FA): GSM mở rộng quốc tế và kế hoạch IPO tại Hong Kong.
+  - Nhận định dòng tiền: Củng cố kỳ vọng về định giá hệ sinh thái, giảm bớt áp lực tâm lý tiêu cực.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng kháng cự ngắn hạn.
+- **Mã: PNJ**
+  - Động lực (FA): Giá vàng biến động mạnh (tăng 225 USD/ounce).
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ đầu cơ và nhu cầu tích trữ vàng.
+  - Hành động: **Chú ý giải ngân** theo đà tăng của giá vàng thế giới.
+- **Mã: TNG, VHC**
+  - Động lực (FA): Nhu cầu xuất khẩu phục hồi từ thị trường Mỹ, Hàn Quốc.
+  - Nhận định dòng tiền: Dòng tiền ưu tiên nhóm doanh nghiệp có đơn hàng ổn định trong bối cảnh vĩ mô biến động.
+  - Hành động: **Chú ý giải ngân** cho mục tiêu ngắn hạn.
