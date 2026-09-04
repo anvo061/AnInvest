@@ -1,21 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:15 - 04/09/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 07:50
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nhập khẩu hàng hóa tư bản (capital goods) của Mỹ đạt kỷ lục:** Cho thấy nhu cầu đầu tư hạ tầng/sản xuất tại Mỹ tăng mạnh -> **Tích cực:** Dòng tiền dự kiến hướng vào nhóm Xuất khẩu (dệt may, gỗ, linh kiện điện tử) hưởng lợi từ chuỗi cung ứng toàn cầu.
-- **Lạm phát dịch vụ Mỹ dai dẳng & áp lực tỷ giá:** FED neo lãi suất cao -> **Tiêu cực:** Gây rủi ro chi phí vốn và lỗ tỷ giá cho các doanh nghiệp vay nợ USD lớn (điển hình: POW, VHM).
-- **Thịt nhập khẩu giá rẻ tràn vào:** Giá lợn hơi chịu áp lực giảm -> **Tiêu cực:** Nhóm chăn nuôi (DBC, BAF) đối diện rủi ro biên lợi nhuận thu hẹp.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Thâm hụt thương mại Mỹ gia tăng do kỷ lục nhập khẩu hàng hóa tư bản và thiết bị AI:** -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Công nghệ & Sản xuất linh kiện điện tử** tại Việt Nam do nhu cầu từ chuỗi cung ứng hạ tầng số toàn cầu tăng mạnh.
+- **Kỳ vọng nâng hạng thị trường tháng 9:** -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Chứng khoán (SSI)** và **Ngân hàng vốn hóa lớn (VCB)** nhằm đón đầu khối ngoại.
+- **Duy trì biên lợi nhuận (NIM) ngành ngân hàng:** -> **Tích cực** -> Dòng tiền tập trung vào các mã có tỷ lệ CASA cao (**VCB, TCB, MBB**).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: DBC, BAF**
-  - Động lực (FA): Thịt nhập khẩu giá rẻ (43.000đ/kg) cạnh tranh trực tiếp.
-  - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng do biên lợi nhuận bị đe dọa.
-  - Hành động: **Rủi ro vi phạm kịch bản**; hạn chế giải ngân mới, ưu tiên hạ tỷ trọng nếu giá mất hỗ trợ ngắn hạn.
-- **Mã: ACV**
-  - Động lực (FA): Lợi nhuận sau kiểm toán sụt giảm.
-  - Nhận định dòng tiền: Phản ứng thận trọng, tâm lý nhà đầu tư ngắn hạn kém tích cực.
-  - Hành động: **Tiếp tục quan sát** phản ứng của vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu cân bằng.
-- **Mã: PNJ**
-  - Động lực (FA): Xu hướng cá nhân hóa trang sức cưới tăng biên lợi nhuận.
-  - Nhận định dòng tiền: Điểm sáng riêng lẻ trong bối cảnh thị trường phân hóa.
-  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì sức mạnh tại các nhịp rung lắc.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **NVL**
+  - **Động lực (FA):** Hoàn tất bán tài sản thu 11.300 tỷ đồng, củng cố mạnh mẽ thanh khoản và giảm áp lực nợ trái phiếu.
+  - **Nhận định dòng tiền:** Cải thiện niềm tin nhà đầu tư, giảm rủi ro chiết khấu quá đà. Kỳ vọng dòng tiền đầu cơ sẽ quay lại vùng hỗ trợ.
+  - **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn với thanh khoản đột biến.
+- **Mã:** **MSN**
+  - **Động lực (FA):** Mở rộng xuất khẩu trực tiếp qua Masan Consumer.
+  - **Nhận định dòng tiền:** Gia tăng kỳ vọng về tăng trưởng doanh thu và cải thiện biên lợi nhuận trong các quý tới. 
+  - **Hành động:** Tiếp tục quan sát phản ứng tại vùng giá hiện tại để gia tăng vị thế.
+- **Mã:** **SSI**
+  - **Động lực (FA):** Câu chuyện nâng hạng thị trường tháng 9.
+  - **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ thanh khoản tăng trưởng. 
+  - **Hành động:** Chú ý giải ngân theo trend nếu VN-Index giữ vững nhịp tăng.
