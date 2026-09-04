@@ -1,24 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 12:20 - 04/09/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 16:50 (04/09/2026)
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-*   **Thanh khoản ngân hàng dồi dào & Đề xuất nới room tín dụng dự án lớn:** Tín hiệu tích cực cho nhóm Tài chính (VCB, TCB) nhờ tối ưu chi phí vốn (NIM) và nhóm BĐS (VHM) nhờ khơi thông nguồn vốn triển khai dự án.
-*   **Chi phí lãi vay BĐS ở mức cao (>12%):** Tác động tiêu cực, gây áp lực bào mòn lợi nhuận và rủi ro thanh khoản cho nhóm BĐS dân dụng (NVL, DIG, DXG, PDR).
-*   **Căng thẳng địa chính trị Trung Đông:** Tín hiệu hỗ trợ giá dầu, tạo xung lực cho nhóm Thượng nguồn (PVD).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Nới lỏng tín dụng dự án BĐS lớn tại Hà Nội (cho vay tới 52% vốn tự có):** Tác động Tích cực -> Dòng tiền tập trung mạnh vào nhóm Ngân hàng thương mại quốc doanh (VCB, BID) và Chủ đầu tư BĐS lớn (VHM).
+- **Thanh khoản thị trường đạt đỉnh 2 tháng & VN-Index vượt 1.850:** Tác động Tích cực -> Dòng tiền dịch chuyển sang nhóm Chứng khoán (SSI, VND, VCI, HCM) nhờ kỳ vọng tăng doanh thu môi giới và lãi margin.
+- **Áp lực Margin từ HOSE (Cắt margin BCE, GIL, PNC, VNG, VNS):** Tác động Tiêu cực -> Áp lực bán kỹ thuật ngắn hạn, cần tránh bắt đáy các mã này cho đến khi cân bằng lại cung cầu.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-*   **Mã: VHM**
-    *   **Động lực (FA):** NHNN đề xuất quy trình cấp tín dụng vượt giới hạn cho dự án lớn.
-    *   **Nhận định dòng tiền:** Điểm rơi kỳ vọng cho dòng tiền khối ngoại và tổ chức nhờ giải tỏa nút thắt thanh khoản dự án.
-    *   **Hành động:** Chú ý giải ngân (tăng tỷ trọng nếu vượt kháng cự gần nhất).
-*   **Mã: PVD**
-    *   **Động lực (FA):** Giá dầu neo cao do rủi ro địa chính trị Iran.
-    *   **Nhận định dòng tiền:** Dòng tiền đầu cơ nhạy sóng sẽ ưu tiên nhóm dầu khí thượng nguồn khi giá dầu thế giới biến động mạnh.
-    *   **Hành động:** Tiếp tục quan sát kịch bản Breakout.
-*   **Mã: NKG**
-    *   **Động lực (FA):** Đầu tư ngoài ngành (400 tỷ vào PDR) khi nợ vay hiện hữu > 8.500 tỷ.
-    *   **Nhận định dòng tiền:** Rủi ro điều chỉnh cao do thị trường nhạy cảm với việc quản trị dòng tiền trong giai đoạn nợ vay cao.
-    *   **Hành động:** Rủi ro vi phạm kịch bản – Cân nhắc giảm tỷ trọng để bảo toàn vốn.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-*   **BSR:** Mặc dù không có tin tức đột biến trong 15 phút, nhưng xét trong bối cảnh giá dầu biến động do địa chính trị, cần giữ danh mục ở trạng thái phòng thủ. Dữ liệu vĩ mô hiện tại chưa đủ mạnh để thay đổi chiến lược "giữ đến 2026", tiếp tục nắm giữ theo lộ trình.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VHM**
+    - Động lực (FA): Hưởng lợi kép từ chính sách nới lỏng tín dụng cho dự án lớn và dẫn dắt chỉ số cùng VIC.
+    - Nhận định dòng tiền: Dòng tiền khối ngoại quay lại sẽ củng cố đà tăng kỹ thuật sau khi vượt ngưỡng tâm lý.
+    - Hành động: Chú ý giải ngân theo trend, theo dõi sát khối lượng giao dịch.
+- **Mã: PNJ**
+    - Động lực (FA): Lợi nhuận soát xét giảm mạnh và áp lực bán từ cổ đông nội bộ (gia đình Chủ tịch).
+    - Nhận định dòng tiền: Tâm lý tiêu cực sẽ gây áp lực giảm giá ngắn hạn, khả năng cao có lực bán tháo theo quán tính.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát vùng hỗ trợ cứng.
+- **Mã: SEA**
+    - Động lực (FA): Giá khởi điểm thoái vốn SCIC cao hơn 38% thị giá.
+    - Nhận định dòng tiền: Kích thích đầu cơ mạnh mẽ do kỳ vọng định giá lại tài sản.
+    - Hành động: Tiếp tục quan sát điểm entry, lưu ý biên độ biến động rất lớn.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu tăng do rủi ro địa chính trị Iran.
+    - Nhận định dòng tiền: Hưởng lợi gián tiếp từ sự ổn định của giá dầu, dòng tiền tìm đến như nhóm trú ẩn tăng trưởng.
+    - Hành động: Tiếp tục quan sát, giữ vị thế nếu kịch bản giá dầu thế giới neo cao.
