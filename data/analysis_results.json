@@ -1,5 +1,102 @@
 ﻿[
   {
+    "Title": "TCX: Quyết định về việc thay đổi đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUNmVlN0NEliRXFZaUFZdXU5SVM3XzU4X1ZCaWE1Q2pWbTJxeHdyQThaU2EwcTVNd2VES3pneXZfLXN2dllvSFhBeWdieXFKMXNRLUdRSXI4UF9vVl9pMXlyTTdoTXdmQ0hTVWVFSWxzc1RKVzE4a0g5OF9jT1lUMkxDcDh1TUlGd1g4eGVSRmc1ZDNhUDI2NTVha3hQNXBzT1RkamVnWDFZeWNV?oc=5",
+    "PubDate": "Fri, 04 Sep 2026 04:25:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về thay đổi đăng ký niêm yết, không tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - TCX. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay giá trị nội tại doanh nghiệp. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 03:22:32"
+  },
+  {
+    "Title": "HDBank muốn phát hành 20.000 tỷ đồng trái phiếu ra công chúng, lãi suất dự kiến 9,2% cho năm đầu tiên - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkEtLXJJSFZ3SV9oenFxaU5WeHRkUXZpZVNNUkVOZ2tBYVVweUtBOC1XUFBiR2RjTC01XzltNEZoMVJEcG5kSkdMakJKTHZnQTVOSlRhMnJyS2ExbmVGZW5zS25ndDdVb28taG1GVmIxM19hcElrT3JiMEZXc3lHNVVmanRUQnBqV3dveUZuTlUtdm5sRnBsR0NBUXpGNE1oVDZZMWNzdnhHUnRsS1dyTnROcGpCQ0JtSDUwWjAyYldPb1FDajNxTktxTmZuYWp5T1Jv?oc=5",
+    "PubDate": "Fri, 04 Sep 2026 08:55:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc huy động vốn quy mô lớn giúp HDBank củng cố hệ số an toàn vốn (CAR) và mở rộng dư địa tăng trưởng tín dụng, hỗ trợ thanh khoản dài hạn cho ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Huy động 20.000 tỷ đồng trái phiếu lãi suất 9,2% làm tăng chi phí vốn (COF) trong ngắn hạn. Cần theo dõi biên lãi ròng (NIM) và khả năng hấp thụ vốn của ngân hàng.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "HDB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng cường nguồn vốn dài hạn, cải thiện hệ số CAR và hỗ trợ tăng trưởng tín dụng trong tương lai."
+      }
+    ],
+    "AnalyzedAt": "2026-09-06 03:22:17"
+  },
+  {
+    "Title": "Cần Thơ không thanh tra doanh nghiệp kinh doanh xăng dầu",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/can-tho-khong-thanh-tra-doanh-nghiep-kinh-doanh-xang-dau-100260905140638841.htm",
+    "PubDate": "9/5/2026 2:30:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về hoạt động quản lý nhà nước, không làm thay đổi biên lợi nhuận hay hoạt động kinh doanh cốt lõi của các doanh nghiệp xăng dầu niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Xăng dầu. Thông tin hành chính không tác động đến dòng tiền hay biên lợi nhuận doanh nghiệp. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 03:21:43"
+  },
+  {
+    "Title": "Phố lồng đèn sôi động, tiểu thương vẫn 'ngóng' khách mua",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/pho-long-den-soi-dong-tieu-thuong-van-ngong-khach-mua-100260905163429649.htm",
+    "PubDate": "9/5/2026 4:53:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về sức mua tại các hộ kinh doanh nhỏ lẻ, không phản ánh xu hướng tiêu dùng của các doanh nghiệp bán lẻ niêm yết quy mô lớn trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ. Sức mua tại các hộ kinh doanh nhỏ lẻ không đại diện cho doanh thu các chuỗi bán lẻ lớn. Không tác động đến dòng tiền cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 03:21:32"
+  },
+  {
+    "Title": "Tổng công ty Điện lực miền Nam cảnh báo thủ đoạn giả mạo thương hiệu EVN",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/tong-cong-ty-dien-luc-mien-nam-canh-bao-thu-doan-gia-mao-thuong-hieu-evn-2551764.html",
+    "PubDate": "Fri, 04 Sep 2026 09:36:12 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin cảnh báo an ninh mạng và bảo vệ thương hiệu của đơn vị điện lực, không tác động đến hoạt động kinh doanh, doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là tin tức cảnh báo an ninh mạng hành chính, không tác động đến dòng tiền hay biên lợi nhuận của các mã ngành điện trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 03:21:23"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 4/9/2026: Tặng 10 triệu khi giới thiệu khách gửi tiền",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-4-9-2026-tang-10-trieu-khi-dan-khach-den-gui-tien-2551752.html",
+    "PubDate": "Fri, 04 Sep 2026 09:50:12 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động khuyến mãi marketing thông thường của các ngân hàng nhằm thu hút tiền gửi cá nhân, không phản ánh sự thay đổi trong chính sách lãi suất huy động hay chi phí vốn của toàn hệ thống.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Đây chỉ là chiêu thức marketing thu hút khách hàng lẻ, không tác động đến biên lãi thuần (NIM) hay xu hướng lãi suất thị trường. Dòng tiền không phản ứng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 03:21:13"
+  },
+  {
+    "Title": "Hãy dùng AI để làm mất nghề cũ của chính mình",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/hay-dung-ai-de-lam-mat-nghe-cu-cua-chinh-minh-2550168.html",
+    "PubDate": "Fri, 04 Sep 2026 10:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Xu hướng ứng dụng AI trong doanh nghiệp giúp tối ưu hóa chi phí vận hành, nâng cao năng suất lao động và thúc đẩy chuyển đổi số, tạo lợi thế cạnh tranh dài hạn cho các doanh nghiệp công nghệ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất quan điểm cá nhân/triết lý quản trị, thiếu dữ liệu định lượng về dòng tiền hoặc tác động tài chính cụ thể. Không có tác động trực tiếp đến giá cổ phiếu trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 03:20:49"
+  },
+  {
     "Title": "TCX: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán trái phiếu ra công chúng - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdG9wVWswclFkM0EwY2RrNFF3Nk1iOWZEU2xrQmNkQmxTUHU0LU9yT0M2TzJhVFZfeDE0QWhZajRNcU52T3l6aDJaZ0N1RHNIcE16TGg1OC1mTHBZSTJ3a2NIcUJid0daTFRDd1hiRkJPS1BOeEE2NzNtM3JqbnFhU1RxMjFJWmJxQ3NCTWppV3hjWmZhVDJoR3Q1ejRZY2ZYZGZidThqQWktcXgxYTN0aGJmREowUHgtNXE3UWZ6aGFLWGo0SV9lTnVNTEJ2MUNudUJYVUQxR2owLTkzbGc?oc=5",
@@ -16618,125 +16715,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-24 15:09:53"
-  },
-  {
-    "Title": "Báo cáo phân tích kỹ thuật cổ phiếu GEX - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcU53dEV1YnFtWkRJS0pTUl9QQVlzR29SVFNja1dtdHk4MFduMzgzSnIyenEzeGt5T3pQLUg3M1VVbHNoZVk2dUd1WjdBcW84eUZOa0dIeHppQzNUVlJWbXpKQ1lqZEllc0tyc1hQU3RDTk9DTjJKUGZYVzRybEV4MDZrT0ViWEdFQW5hQUR5NFBTQTZXS2tvZEZfLVpyMC1TbEE?oc=5",
-    "PubDate": "Mon, 24 Aug 2026 07:28:38 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là báo cáo phân tích kỹ thuật dựa trên dữ liệu quá khứ, không chứa thông tin cơ bản mới hay thay đổi về hoạt động kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - GEX. Báo cáo kỹ thuật thuần túy không làm thay đổi giá trị nội tại hay dòng tiền thông minh. Chỉ mang tính chất tham khảo cho nhà đầu tư cá nhân.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-24 15:09:42"
-  },
-  {
-    "Title": "TPBank triển khai loạt ưu đãi lãi suất, tiếp sức nhu cầu vốn của khách hàng",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//tpbank-trien-khai-loat-uu-dai-lai-suat-tiep-suc-nhu-cau-von-cua-khach-hang.html",
-    "PubDate": "Mon, 24 Aug 2026 07:34:08 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc giảm lãi suất cho vay giúp TPB tăng trưởng tín dụng, đồng thời kích cầu tiêu dùng và hỗ trợ thanh khoản cho các doanh nghiệp sản xuất, BĐS, từ đó cải thiện chất lượng tài sản ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR định kỳ của TPB. Tác động biên lợi nhuận thấp do áp lực cạnh tranh lãi suất. Chỉ TPB hưởng lợi trực tiếp về tăng trưởng tín dụng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "TPB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Gia tăng thị phần tín dụng và thu hút khách hàng mới thông qua các gói lãi suất cạnh tranh."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 15:09:28"
-  },
-  {
-    "Title": "China's premier calls for stabilising external demand as growth sputters - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2RqX2NyN09Wd1MxeXhQZEhxS0RIZmdtdi1MaGhIWG5XcVNJQWEwcGFuVUZqVV8tUThoQ1YzeVhxeVVNR2xXeUZjWUYxTjRrVEd3M05VSWtlRlpVa0k3djZLTnF2Sy1UVlVzVmdmZG5NT0FQZ1ItV3NtaVdGNTIteUFnNHRtS3ZLVGVJUFBKU1RwYXJzd1lWeVhWLWpjenFkRzJGSlZpN1dNcVpzNVRZQkViSk5namhnSFJF?oc=5",
-    "PubDate": "Mon, 17 Aug 2026 14:04:24 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Nhu cầu ngoại thương Trung Quốc suy yếu gây áp lực lên các doanh nghiệp xuất khẩu Việt Nam có thị trường đầu ra tại Trung Quốc hoặc cạnh tranh trực tiếp với hàng hóa Trung Quốc.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Thép. Nhu cầu Trung Quốc suy yếu đẩy mạnh thép giá rẻ tràn sang Việt Nam. Cần thận trọng với biên lợi nhuận ngành thép.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực cạnh tranh từ thép Trung Quốc giá rẻ tăng cao khi nhu cầu nội địa nước này suy yếu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 14:19:00"
-  },
-  {
-    "Title": "PMB: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSldyZkR0VW15YTlocWZMOVJuc3Z0eUt2QWFaaTRTZDhTMGxiZnhDYWlld1ljUHpuOFdFbmdORExwSUVqTmdSd1hJRUlHZElRSnBOM2JfdmllQm11VVBvUVZVYkZtemo2WmR4dzNmalpFV05GLURDRzRacERjRXF3MmdjZDVic2Z6cXRldzVxNy1vaGtNVjBackY3M2ltd1Ftd3lLbGVOSXA1T3ZyVHBsRw?oc=5",
-    "PubDate": "Mon, 24 Aug 2026 06:54:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt thể hiện tình hình tài chính ổn định và cam kết chia sẻ lợi nhuận với cổ đông của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Cổ tức tiền mặt là hoạt động định kỳ. Thanh khoản PMB quá thấp, không đủ hấp dẫn dòng tiền tổ chức. Bỏ qua.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "PMB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Việc chốt quyền nhận cổ tức tiền mặt tạo tâm lý tích cực cho cổ đông hiện hữu và thu hút nhà đầu tư ưa thích cổ tức."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 14:18:45"
-  },
-  {
-    "Title": "Lựa chọn của tuần SSI - EVS - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ROYnY0RkNPMUdVb0pFa05NSDBUTGpkUXF0aHdIeGluQ0hTSWFSbmhsWlNMcU84WFl2YVQ5WTdhbmctdjZkd3BQcXZFbmw1OGlzdFZZLXotMEZRV2xrWGZTNVJyRjJILWpKRk9ZU25jbVVseGMtbnA1bmwzWFVCTkktT3FSRDVtTTdyRVJzS2hjcHZabzBQNTMtX0VOUkJkWmk2SWpCcW0?oc=5",
-    "PubDate": "Mon, 24 Aug 2026 06:47:45 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là bài viết mang tính chất khuyến nghị đầu tư từ các đơn vị phân tích, không phải tin tức vĩ mô hay thay đổi nội tại doanh nghiệp có tác động trực tiếp đến giá trị thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Đây chỉ là thông tin khuyến nghị mang tính tham khảo, không tạo ra sự thay đổi về cung cầu hay dòng tiền thông minh trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-24 14:18:36"
-  },
-  {
-    "Title": "Chứng khoán LPBank đổi tên - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tOEJ0YXNKWllWM2UzOEVPdmw3V1dkY3lNdWV4TE55TTRlUkJNR082ejRwc0wxbVVrZUh2cUF2ZHZIaUxXRjRLOW1LTFZwaVEwaG9qZDZxRGFmSnBEN0EzYTQ4UVpYQVFZbHFaMWh3RHVZUFNM?oc=5",
-    "PubDate": "Mon, 24 Aug 2026 06:21:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc đổi tên thương hiệu là thay đổi mang tính hành chính, không tác động đến hoạt động kinh doanh cốt lõi hay biên lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Thay đổi tên thương hiệu là hoạt động tái định vị nội bộ, không tạo ra thay đổi về dòng tiền hay lợi thế cạnh tranh. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-24 14:18:26"
-  },
-  {
-    "Title": "Chứng khoán bùng nổ sau tin FTSE, cổ phiếu PNJ tiếp tục tăng trần",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/chung-khoan-bung-no-sau-tin-ftse-co-phieu-pnj-tiep-tuc-tang-tran-100260824115341255.htm",
-    "PubDate": "8/24/2026 11:58:00 AM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Việc FTSE nâng hạng hoặc thêm mã vào danh mục thu hút dòng vốn ngoại, tạo tâm lý hưng phấn cho thị trường chung và nhóm cổ phiếu vốn hóa lớn, bán lẻ.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Tin FTSE kích hoạt dòng tiền ngoại vào nhóm vốn hóa lớn. SSI hưởng lợi trực tiếp từ thanh khoản; PNJ/VHM phản ứng theo tâm lý thị trường chung.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PNJ",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ dòng vốn ngoại và tâm lý tích cực của nhà đầu tư đối với cổ phiếu bán lẻ đầu ngành."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhóm chứng khoán hưởng lợi trực tiếp từ thanh khoản thị trường tăng vọt và kỳ vọng nâng hạng thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 14:18:12"
   }
 ]
