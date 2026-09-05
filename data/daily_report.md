@@ -1,16 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:00 - 05/09/2026
+⏱ Thời gian: 16:45 - 05/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng tín dụng đạt 8,98% & Trung Quốc bơm vốn đầu tư công**: Tín dụng cải thiện xác nhận dòng tiền đang chảy vào sản xuất (Tích cực), trong khi kích thích tài khóa từ Trung Quốc tạo cầu nguyên vật liệu (Tích cực) -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (Hưởng lợi từ NIM) và nhóm Thép/Xuất khẩu (Hưởng lợi từ cầu Trung Quốc).
-- **Áp lực rút ròng từ các quỹ ETF**: Áp lực bán chủ động lên nhóm vốn hóa lớn (VHM, VIC, HPG, VCB, VNM) trước kỳ vọng nâng hạng -> Đánh giá tác động: Tiêu cực (tạo nhiễu loạn cung cầu ngắn hạn).
+- Giá năng lượng toàn cầu tăng cao thúc đẩy nhu cầu và biên lợi nhuận cho ngành dầu khí thượng nguồn -> **Tích cực** -> Dòng tiền sẽ tập trung vào các mã dịch vụ và thăm dò dầu khí (PVD, PVS).
+- FTSE Russell thêm mới MCH, TCX, VPL vào danh mục FTSE Vietnam Index -> **Tích cực** -> Dòng tiền từ các quỹ ETF thụ động sẽ mua vào các mã này trong ngắn hạn.
+- Áp lực rút ròng từ các quỹ ETF tại các mã vốn hóa lớn (VHM, VIC, HPG, VNM, VCB) -> **Tiêu cực** -> Tạo rào cản tăng giá cho nhóm Bluechip trong kỳ cơ cấu.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HPG**
-  - Động lực (FA): Hưởng lợi kép từ nhu cầu thép xuất khẩu sang Trung Quốc (do Trung Quốc bơm vốn đầu tư công) và là trụ cột trong danh mục ETF.
-  - Nhận định dòng tiền: Giằng co mạnh. Dòng tiền nội lực từ kỳ vọng sản xuất/xuất khẩu đối đầu trực diện với áp lực bán ròng từ khối ngoại thông qua ETF.
-  - Hành động: **Tiếp tục quan sát**. Không giải ngân tại vùng giá chịu áp lực bán ròng từ quỹ. Chờ tín hiệu hấp thụ cung tại các vùng hỗ trợ cứng.
-- **Mã: VCB**
-  - Động lực (FA): Dẫn đầu về tăng trưởng tín dụng thực tế, hưởng lợi trực tiếp từ sự phục hồi của nhu cầu vay vốn sản xuất.
-  - Nhận định dòng tiền: Chịu áp lực điều tiết từ quỹ ETF (bán ròng) nhưng có lực đỡ từ nền tảng FA mạnh (tăng trưởng tín dụng 8,98%).
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện trạng thái "hấp thụ cung" tại vùng giá chiết khấu, bỏ qua biến động nhiễu ngắn hạn từ ETF.
+- Mã: **PVD**
+- Động lực (FA): Giá năng lượng thế giới cao kỷ lục, nhu cầu thuê giàn khoan toàn cầu tăng.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp từ sự ổn định của giá dầu, dòng tiền có xu hướng trú ẩn tại các mã có câu chuyện cơ bản hỗ trợ trong bối cảnh thị trường biến động.
+- Hành động: **Chú ý giải ngân** nếu kiểm định thành công vùng hỗ trợ kỹ thuật gần nhất.
+
+- Mã: **MCH, VPL**
+- Động lực (FA): Được FTSE Russell thêm mới vào danh mục chỉ số.
+- Nhận định dòng tiền: Kỳ vọng lực cầu chủ động từ các quỹ ETF sẽ đẩy thanh khoản và giá cổ phiếu tăng lên trong ngắn hạn.
+- Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng giá trước khi thông tin được công bố rộng rãi để tránh mua đuổi.
+
+- Mã: **TVC, TVB**
+- Động lực (FA): Giao dịch nội bộ không hoàn tất, phát tín hiệu tiêu cực về nguồn lực tài chính.
+- Nhận định dòng tiền: Tâm lý nhà đầu tư sẽ trở nên thận trọng, áp lực bán có thể gia tăng để quản trị rủi ro sau thông tin này.
+- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng hoặc đứng ngoài quan sát.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dữ liệu giá năng lượng neo cao duy trì đà tăng trưởng biên lợi nhuận ngắn hạn. Tuy nhiên, do đã qua điểm rơi kỳ vọng (tháng 3/2026), khuyến nghị **Giữ vị thế để quan sát biên lợi nhuận Q3**, nếu không vượt được kháng cự kỹ thuật quan trọng, cần cân nhắc chốt lời để đảo dòng tiền sang nhóm ngành có động lực tăng trưởng mới.
