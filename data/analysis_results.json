@@ -1,5 +1,103 @@
 ﻿[
   {
+    "Title": "TCX: Báo cáo tiến độ sử dụng số tiền thu được từ đợt chào bán trái phiếu ra công chúng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdG9wVWswclFkM0EwY2RrNFF3Nk1iOWZEU2xrQmNkQmxTUHU0LU9yT0M2TzJhVFZfeDE0QWhZajRNcU52T3l6aDJaZ0N1RHNIcE16TGg1OC1mTHBZSTJ3a2NIcUJid0daTFRDd1hiRkJPS1BOeEE2NzNtM3JqbnFhU1RxMjFJWmJxQ3NCTWppV3hjWmZhVDJoR3Q1ejRZY2ZYZGZidThqQWktcXgxYTN0aGJmREowUHgtNXE3UWZ6aGFLWGo0SV9lTnVNTEJ2MUNudUJYVUQxR2owLTkzbGc?oc=5",
+    "PubDate": "Fri, 04 Sep 2026 06:33:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là báo cáo định kỳ về tiến độ sử dụng vốn, mang tính chất tuân thủ công bố thông tin hành chính, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là báo cáo tuân thủ định kỳ, không có thông tin mới về thay đổi dòng tiền hay chiến lược kinh doanh. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 01:15:19"
+  },
+  {
+    "Title": "Một quỹ ngoại đang nắm lượng cổ phiếu Sacombank trị giá khoảng 4.600 tỷ đồng - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUxtdmhHcC1Zcms3TTNTWnotbUNxRUV4WWk5U3BFMkEtdWtobzFzcDhzMnlOLVlmYjJHaGxOSlpGa0p5OHpjQ0NMVmVQbVFfX0ZMZU9NWnhBNlFpY3ZnY1lhX1hIQVY2TUpQSjlQX3pITEFGUGdwSi1qZjdRY01FS3VCRHc3NTNGdDFEdXg0QWtsX3NIWXhaSGh5cGNxQVB3QURMaV9Udlp6ZV9fRHRwN3pXRkY?oc=5",
+    "PubDate": "Sat, 05 Sep 2026 17:03:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc quỹ ngoại duy trì tỷ trọng lớn tại STB cho thấy sự tin tưởng vào triển vọng tái cơ cấu và định giá của ngân hàng, củng cố tâm lý nhà đầu tư.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - STB. Tin tức chỉ phản ánh trạng thái nắm giữ hiện tại, không phải dòng tiền mới. Cần quan sát thêm biến động khối ngoại thực tế trên bảng điện.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "STB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Khẳng định vị thế của cổ phiếu trong danh mục quỹ ngoại, giảm áp lực bán tháo và hỗ trợ thanh khoản."
+      }
+    ],
+    "AnalyzedAt": "2026-09-06 01:15:02"
+  },
+  {
+    "Title": "Mở rộng cao tốc TP.HCM - Trung Lương - Mỹ Thuận có thể chậm vì 18 mặt bằng?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/mo-rong-cao-toc-tphcm-trung-luong-my-thuan-co-the-cham-vi-18-mat-bang-100260905164321381.htm",
+    "PubDate": "9/5/2026 5:58:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc chậm trễ giải phóng mặt bằng gây đình trệ tiến độ thi công, ảnh hưởng trực tiếp đến tiến độ ghi nhận doanh thu và dòng tiền của các doanh nghiệp xây lắp hạ tầng giao thông.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Xây lắp hạ tầng. Vướng mắc mặt bằng dự án trọng điểm gây rủi ro chậm tiến độ, ảnh hưởng dòng tiền thanh toán và biên lợi nhuận các nhà thầu trực tiếp tham gia.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có tham gia các dự án hạ tầng cao tốc, tiến độ chậm ảnh hưởng đến tiến độ ghi nhận doanh thu."
+      },
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhà thầu lớn trong các dự án cao tốc, rủi ro chôn vốn và chậm tiến độ thi công do vướng mặt bằng."
+      }
+    ],
+    "AnalyzedAt": "2026-09-06 01:14:42"
+  },
+  {
+    "Title": "Sân bay Liên Khương sẽ ngừng phát thanh tìm khách",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/san-bay-lien-khuong-se-ngung-phat-thanh-tim-khach-100260905205259367.htm",
+    "PubDate": "9/5/2026 9:33:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thay đổi về quy trình vận hành hành khách tại sân bay, không tác động đến doanh thu, lợi nhuận hay hoạt động kinh doanh cốt lõi của các doanh nghiệp hàng không niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Hàng không. Thay đổi quy trình vận hành hành khách là nghiệp vụ hành chính, không tạo ra biến động dòng tiền hay thay đổi biên lợi nhuận doanh nghiệp. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-06 01:14:32"
+  },
+  {
+    "Title": "Thịt heo nhập khẩu rẻ hơn nhiều nội địa",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/thit-heo-nhap-khau-re-hon-nhieu-noi-dia-5116795.html",
+    "PubDate": "Sun, 06 Sep 2026 00:01:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Thịt heo nhập khẩu giá rẻ gây áp lực cạnh tranh trực tiếp lên giá bán heo hơi nội địa, làm thu hẹp biên lợi nhuận của các doanh nghiệp chăn nuôi trong nước.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chăn nuôi. Thịt nhập khẩu giá rẻ gây áp lực biên lợi nhuận mảng heo hơi. Dòng tiền thận trọng với DBC, BAF. MSN hưởng lợi chi phí đầu vào nhưng chịu áp lực cạnh tranh bán lẻ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "DBC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Giá heo hơi nội địa chịu áp lực cạnh tranh từ hàng nhập khẩu, ảnh hưởng trực tiếp đến biên lợi nhuận mảng chăn nuôi."
+      },
+      {
+        "Ticker": "BAF",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực giá bán đầu ra giảm do nguồn cung nhập khẩu giá rẻ, gây khó khăn cho việc duy trì tăng trưởng doanh thu."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Mảng thịt mát có thể hưởng lợi từ chi phí đầu vào thấp hơn, nhưng áp lực cạnh tranh giá bán lẻ vẫn hiện hữu."
+      }
+    ],
+    "AnalyzedAt": "2026-09-06 01:14:18"
+  },
+  {
     "Title": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
@@ -16640,113 +16738,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-24 14:18:12"
-  },
-  {
-    "Title": "Quốc hội chốt cơ chế đặc thù dự án APEC, gỡ vướng mắc nhưng không hợp pháp hóa sai phạm",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/quoc-hoi-chot-co-che-dac-thu-du-an-apec-go-vuong-mac-nhung-khong-hop-phap-hoa-sai-pham-100260824115543712.htm",
-    "PubDate": "8/24/2026 12:16:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc tháo gỡ vướng mắc pháp lý cho các dự án trọng điểm giúp khơi thông dòng vốn bị tắc nghẽn, cải thiện tâm lý nhà đầu tư đối với nhóm bất động sản và xây dựng hạ tầng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính hành chính, chưa có lộ trình cụ thể cho từng dự án. Cần theo dõi văn bản hướng dẫn thi hành để đánh giá tác động thực tế lên dòng tiền doanh nghiệp.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-24 14:17:57"
-  },
-  {
-    "Title": "Quét VNPAY-QR, thanh toán bằng thẻ tín dụng ngay trên ứng dụng ngân hàng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/quet-vnpay-qr-thanh-toan-bang-the-tin-dung-ngay-tren-ung-dung-ngan-hang-2548537.html",
-    "PubDate": "Mon, 24 Aug 2026 14:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc tích hợp thanh toán thẻ tín dụng qua VNPAY-QR giúp các ngân hàng tăng doanh thu từ phí dịch vụ, thúc đẩy giao dịch không tiền mặt và tăng tỷ lệ CASA thông qua hệ sinh thái số.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất cập nhật tính năng dịch vụ, tác động biên lợi nhuận không đáng kể trong ngắn hạn. Không tạo đột biến dòng tiền cho nhóm Ngân hàng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-24 14:17:43"
-  },
-  {
-    "Title": "Nhà đầu tư đô thị lấn biển được chuyển nhượng tối đa 50% diện tích đất xong hạ tầng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/nha-dau-tu-do-thi-lan-bien-duoc-chuyen-nhuong-toi-da-50-dien-tich-dat-xong-ha-tang-5112687.html",
-    "PubDate": "Mon, 24 Aug 2026 13:08:48 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Quy định mới tháo gỡ nút thắt pháp lý, cho phép các doanh nghiệp BĐS có dự án lấn biển sớm thu hồi vốn và cải thiện dòng tiền sau khi hoàn thiện hạ tầng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm BĐS. Quy định mới tháo gỡ pháp lý dự án lấn biển, hỗ trợ dòng tiền doanh nghiệp. Cần chọn lọc mã có dự án lấn biển thực tế, tránh suy diễn lan man.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Năng lực triển khai hạ tầng nhanh, hưởng lợi từ việc sớm được ghi nhận doanh thu từ các dự án đô thị biển."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 14:17:28"
-  },
-  {
-    "Title": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXNxWm1BUVFUdWZuUDJoWi1GRUk1d0RXWTRwR0tQTXd6MXQ2V2RBSkRmMURzajdURDdIQnhEQlFTVVh4TG8yOTdfdWVIdmd4U3AyWm5pSlZ2Y0tSaDNKX1NjcGd1N2dqVmtPUU9rZjMwa3cxWDRLajBjYUhYUDkyY0owcm43TXcyNkp2WlJZUW9ONDA3ZlNlbHlOS19CSTRpYzlOU0pmcVhvaDB6SUsyVU5mM1cwQ2Q5TkwtTmlB?oc=5",
-    "PubDate": "Mon, 24 Aug 2026 02:42:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Sự gián đoạn tại eo biển Hormuz làm gia tăng rủi ro nguồn cung dầu toàn cầu, đẩy giá dầu thô tăng cao, trực tiếp hỗ trợ biên lợi nhuận cho các doanh nghiệp thượng nguồn ngành dầu khí Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Căng thẳng Hormuz gây nhiễu nguồn cung nhưng chưa tạo cú sốc giá dầu bền vững. Cần theo dõi sát biến động giá dầu thế giới trước khi giải ngân nhóm thượng nguồn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá dầu tăng thúc đẩy nhu cầu khoan và giá thuê giàn khoan, cải thiện trực tiếp biên lợi nhuận."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ các dự án thăm dò khai thác được đẩy mạnh khi giá dầu neo ở mức cao."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 13:08:32"
-  },
-  {
-    "Title": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost - Bloomberg",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUZSU0JEY3UxMEM2RVZKcTQ2VklNUEJ2U0VVQjVlblgtbmNmdmYwYzg3ZDIydGdCWFJPM2RWN19PcHBmamVuZExIRkNRdGpYbF9lU3dfY0p6TXhKaHpfbXhCa2djWEtvSXZNb0lrTUU5TGw2TkctZ3FkNWNENVVaTS03T2VWRkNsQXJSQ0ZPRWZWUkVSWHVfVGY3cjN2anZEVmwtNGZISXpvWXREWFNlcU9n?oc=5",
-    "PubDate": "Mon, 24 Aug 2026 02:35:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 9,
-    "MarketImpact": "Việc FTSE tái cơ cấu danh mục và nâng hạng dự kiến thu hút dòng vốn ngoại lớn (3 tỷ USD), tạo động lực tăng trưởng mạnh cho các cổ phiếu vốn hóa lớn và thanh khoản cao trên HOSE.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm vốn hóa lớn (Bluechips). Dòng vốn ngoại 3 tỷ USD sẽ tập trung vào các mã đầu ngành có thanh khoản cao. Dòng tiền thông minh sẽ gom trước kỳ cơ cấu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn nhất thị trường, ưu tiên hàng đầu của các quỹ ETF ngoại."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản cao, đại diện ngành thép, luôn nằm trong danh mục ưu tiên của các quỹ ngoại."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Vốn hóa lớn, tỷ trọng cao trong các rổ chỉ số FTSE, hưởng lợi trực tiếp từ dòng vốn ETF."
-      },
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu tăng trưởng có thanh khoản tốt, thu hút dòng vốn ngoại bền vững."
-      },
-      {
-        "Ticker": "MSN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu trụ cột ngành bán lẻ/tiêu dùng, thường xuyên được các quỹ ngoại gia tăng tỷ trọng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-24 13:08:15"
   }
 ]
