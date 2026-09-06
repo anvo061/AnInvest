@@ -1,30 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:15 - 07/09/2026
+⏱ Thời gian: 05:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu duy trì trên 80 USD/thùng do rủi ro địa chính trị Trung Đông -> Tích cực -> Dòng tiền hướng vào nhóm thượng nguồn và dịch vụ dầu khí (PVS, PVD).
-- Giá heo hơi giữ ngưỡng 60.000 đồng/kg -> Tích cực -> Cải thiện biên lợi nhuận nhóm chăn nuôi (DBC, BAF).
-- Mở rộng hệ sinh thái năng lượng của Petrovietnam -> Tích cực -> Dòng tiền dài hạn vào nhóm hạ tầng khí và năng lượng tái tạo (GAS, PVS).
+- Giá dầu thế giới neo trên 80 USD/thùng do rủi ro địa chính trị và tín hiệu tích cực từ giá heo hơi nội địa (60.000 đồng/kg) -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Dầu khí (thượng nguồn/dịch vụ) và Chăn nuôi (tối ưu hóa biên lợi nhuận).
+- Dự án 'Tứ giác Bến Thành' xử lý nợ trái phiếu thành công -> **Tích cực (ngắn hạn)** -> Cải thiện tâm lý nhóm Bất động sản cao cấp, giảm áp lực nợ xấu ngành.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVS**
-    - Động lực (FA): Hưởng lợi kép từ giá dầu neo cao và xu hướng phát triển hạ tầng năng lượng tái tạo/điện gió.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền duy trì trạng thái tích lũy tích cực.
-    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật.
 - **Mã: PVD**
-    - Động lực (FA): Giá thuê giàn khoan cải thiện trực tiếp theo giá dầu duy trì ở mức cao.
-    - Nhận định dòng tiền: Dòng tiền có tính nhạy sóng cao, cần theo dõi lực cầu tại vùng kháng cự.
-    - Hành động: Tiếp tục nắm giữ, theo dõi phản ứng tại vùng giá mục tiêu.
-- **Mã: HBC**
-    - Động lực (FA): Bán dự án Khu công nghệ cao ghi nhận lợi nhuận 50 tỷ đồng, giảm áp lực nợ vay.
-    - Nhận định dòng tiền: Tin tức hỗ trợ tâm lý tích cực trong ngắn hạn, giải tỏa áp lực thanh khoản.
-    - Hành động: Quan sát phản ứng giá, thận trọng rủi ro vi phạm kịch bản nếu áp lực bán tháo quay lại.
-- **Mã: VPB**
-    - Động lực (FA): Áp lực cạnh tranh từ các công ty tài chính tiêu dùng mới nổi.
-    - Nhận định dòng tiền: Áp lực tâm lý từ thông tin cạnh tranh có thể khiến dòng tiền chững lại.
-    - Hành động: Theo dõi sát sao kịch bản dòng tiền, tránh mở vị thế mua mới nếu chưa có tín hiệu hỗ trợ từ khối ngoại.
+  - Động lực (FA): Giá dầu duy trì > 80 USD/thùng, giá thuê giàn khoan có xu hướng tăng.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận gộp cải thiện, kỳ vọng dòng tiền đẩy vào nhóm dịch vụ dầu khí.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật trong phiên.
+- **Mã: DBC**
+  - Động lực (FA): Giá heo hơi duy trì mức cao 60.000 đồng/kg.
+  - Nhận định dòng tiền: Hưởng lợi từ biên lợi nhuận gộp, dòng tiền sẽ ưu tiên các doanh nghiệp có chuỗi khép kín.
+  - Hành động: Tiếp tục quan sát tín hiệu thanh khoản vùng giá hiện tại.
 
-🔄 3. Cảnh báo Tái cơ cấu:
+🔄 3. Cảnh báo Tái cơ cấu (Review Vị thế BSR):
 - **Mã: BSR**
-    - Dữ liệu mới: Giá dầu duy trì mức cao (trên 80 USD) tiếp tục củng cố biên lợi nhuận lọc dầu và giá trị tồn kho.
-    - Nhận định: Dữ liệu hiện tại ủng hộ luận điểm nắm giữ. Không cần thực hiện tái cơ cấu danh mục tại thời điểm này. Tiếp tục theo dõi điểm rơi lợi nhuận theo kỳ vọng.
+  - Nhận định: Giá dầu neo cao là dữ liệu hỗ trợ mạnh cho biên lợi nhuận lọc dầu và giá trị hàng tồn kho. Với mốc thời gian tháng 9/2026, đây là giai đoạn quan trọng để đánh giá lại năng lực tối ưu hóa dòng tiền. Khuyến nghị **Tiếp tục nắm giữ**, chưa cần cơ cấu lại danh mục nếu chưa vi phạm vùng giá chặn lãi (trailing stop).
