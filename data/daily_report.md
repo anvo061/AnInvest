@@ -1,21 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 06/09/2026
+⏱ Thời gian: 08:50 - 06/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá lúa miền Tây giảm mạnh gây áp lực lên biên lợi nhuận nhóm ngành nông nghiệp xuất khẩu -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ rút khỏi nhóm ngành Nông nghiệp & Vật tư nông nghiệp].
+- Giá dầu thế giới ghi nhận tuần tăng mạnh trong khi giá bán trong nước trái chiều -> [Đánh giá tác động: Tích cực đến nhóm thượng nguồn] -> [Dòng tiền sẽ hướng vào nhóm dầu khí (PVD, PVS, BSR)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TAR**
-- Động lực (FA): Giá lúa giảm, áp lực cạnh tranh đầu ra gia tăng.
-- Nhận định dòng tiền: Kỳ vọng lợi nhuận quý bị đe dọa, dự báo áp lực bán kỹ thuật gia tăng do dòng tiền đầu cơ rút lui.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng hoặc đứng ngoài quan sát.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới tăng mạnh giúp cải thiện giá thuê giàn khoan và kỳ vọng doanh thu.
+- Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng giá trong ngắn hạn, kỳ vọng dòng tiền đầu cơ sẽ gia tăng sự quan tâm tại vùng giá hiện tại.
+- Hành động: Chú ý giải ngân nếu xác nhận lực cầu vượt cản ngắn hạn.
 
-- Mã: **LTG**
-- Động lực (FA): Nông dân giảm chi tiêu đầu tư do biên lợi nhuận thấp, ảnh hưởng trực tiếp đến mảng kinh doanh vật tư nông nghiệp của công ty.
-- Nhận định dòng tiền: Dòng tiền có xu hướng suy yếu do triển vọng tăng trưởng ngắn hạn bị thu hẹp.
-- Hành động: Rủi ro vi phạm kịch bản, cần kiểm tra ngưỡng hỗ trợ cứng trước khi ra quyết định.
+- Mã: **BSR**
+- Động lực (FA): Giá dầu tăng giúp tăng giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu.
+- Nhận định dòng tiền: Dòng tiền có tính chất phòng thủ và hưởng lợi từ chênh lệch biên lợi nhuận.
+- Hành động: Tiếp tục quan sát phản ứng giá với diễn biến dầu thế giới.
 
-- Mã: **GVR**
-- Động lực (FA): Thu hút FDI tại Tây Ninh gia tăng nhu cầu chuyển đổi đất cao su sang đất khu công nghiệp.
-- Nhận định dòng tiền: Tin tức hỗ trợ tâm lý tích cực, kỳ vọng dòng tiền sẽ tìm đến các mã có quỹ đất lớn trong trung hạn.
-- Hành động: Tiếp tục quan sát điểm entry khi có sự xác nhận từ khối lượng giao dịch.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dữ liệu giá dầu tăng là yếu tố tích cực ngắn hạn. Tuy nhiên, do đã qua điểm rơi kỳ vọng tháng 3/2026, đây là cơ hội tốt để tối ưu hóa danh mục: Nếu giá bật tăng mạnh theo tin tức, ưu tiên chốt lời từng phần để đảo dòng tiền sang các nhóm ngành có câu chuyện tăng trưởng mới, thay vì nắm giữ dài hạn.
