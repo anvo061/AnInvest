@@ -1,19 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:50 - 06/09/2026
+⏱ Thời gian: 13:45 ngày 06/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới ghi nhận tuần tăng mạnh trong khi giá bán trong nước trái chiều -> [Đánh giá tác động: Tích cực đến nhóm thượng nguồn] -> [Dòng tiền sẽ hướng vào nhóm dầu khí (PVD, PVS, BSR)].
+- VTP mở rộng chiến lược sang logistics xuyên biên giới -> [Đánh giá: Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm ngành Logistics & Vận tải có lợi thế hạ tầng quốc tế.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới tăng mạnh giúp cải thiện giá thuê giàn khoan và kỳ vọng doanh thu.
-- Nhận định dòng tiền: Hỗ trợ tích cực cho xu hướng giá trong ngắn hạn, kỳ vọng dòng tiền đầu cơ sẽ gia tăng sự quan tâm tại vùng giá hiện tại.
-- Hành động: Chú ý giải ngân nếu xác nhận lực cầu vượt cản ngắn hạn.
-
-- Mã: **BSR**
-- Động lực (FA): Giá dầu tăng giúp tăng giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu.
-- Nhận định dòng tiền: Dòng tiền có tính chất phòng thủ và hưởng lợi từ chênh lệch biên lợi nhuận.
-- Hành động: Tiếp tục quan sát phản ứng giá với diễn biến dầu thế giới.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dữ liệu giá dầu tăng là yếu tố tích cực ngắn hạn. Tuy nhiên, do đã qua điểm rơi kỳ vọng tháng 3/2026, đây là cơ hội tốt để tối ưu hóa danh mục: Nếu giá bật tăng mạnh theo tin tức, ưu tiên chốt lời từng phần để đảo dòng tiền sang các nhóm ngành có câu chuyện tăng trưởng mới, thay vì nắm giữ dài hạn.
+- **Mã: VTP**
+  - Động lực (FA): Chuyển dịch mô hình từ giao hàng thuần túy sang logistics xuyên biên giới nhằm gia tăng biên lợi nhuận.
+  - Nhận định dòng tiền: Tin tức mang tính định hướng tăng trưởng dài hạn, tạo kỳ vọng cho nhà đầu tư tổ chức gia tăng tỷ trọng.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+- **Mã: VPB**
+  - Động lực (FA): FE Credit suy giảm thị phần, nợ xấu tài chính tiêu dùng gây áp lực lên lợi nhuận hợp nhất.
+  - Nhận định dòng tiền: Tiêu cực. Dòng tiền có khả năng rút lui hoặc thận trọng đối với các mã liên quan đến tài chính tiêu dùng trong ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại vùng hỗ trợ cứng.
+- **Mã: VNS**
+  - Động lực (FA): Lỗ lần đầu sau 5 năm + Cổ đông liên quan nội bộ liên tục bán ra.
+  - Nhận định dòng tiền: Tiêu cực. Cung tiềm năng lớn và tâm lý tiêu cực bao trùm.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy.
+- **Mã: HND**
+  - Động lực (FA): Biến động nhân sự cấp cao (Chủ tịch từ trần).
+  - Nhận định dòng tiền: Tiêu cực ngắn hạn do tâm lý bất ổn trong công tác quản trị.
+  - Hành động: Tiếp tục quan sát, tránh giải ngân cho đến khi cấu trúc quản trị ổn định lại.
