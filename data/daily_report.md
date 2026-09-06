@@ -1,23 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:45 ngày 06/09/2026
+⏱ Thời gian: 18:30 - 06/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- VTP mở rộng chiến lược sang logistics xuyên biên giới -> [Đánh giá: Tích cực] -> Dòng tiền kỳ vọng hướng vào nhóm ngành Logistics & Vận tải có lợi thế hạ tầng quốc tế.
+- **Tỷ giá USD/VND hạ nhiệt:** Giảm áp lực chi phí tài chính cho doanh nghiệp vay nợ USD và cải thiện tính ổn định vĩ mô -> **Tích cực** -> Nhóm hưởng lợi: Điện (POW), Hàng không (HVN), Thép (HPG).
+- **Phục hồi du lịch quốc tế:** Lượng khách quốc tế tăng trưởng mạnh, biên lợi nhuận cao hơn nội địa -> **Tích cực** -> Nhóm hưởng lợi: Hàng không & Dịch vụ sân bay (HVN, ACV, AST).
+- **Dòng vốn FDI (Heineken 500 triệu USD):** Khẳng định niềm tin môi trường đầu tư -> **Tích cực** -> Nhóm hưởng lợi: Bất động sản khu công nghiệp (KBC, SZC).
+- **Phân hóa VN-Index:** Thị trường tăng điểm nhờ Bluechips (VCB, VHM, FPT) nhưng thiếu lan tỏa tới nhóm Midcap/Smallcap -> **Thận trọng** -> Rủi ro "xanh vỏ đỏ lòng" tiếp tục gia tăng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VTP**
-  - Động lực (FA): Chuyển dịch mô hình từ giao hàng thuần túy sang logistics xuyên biên giới nhằm gia tăng biên lợi nhuận.
-  - Nhận định dòng tiền: Tin tức mang tính định hướng tăng trưởng dài hạn, tạo kỳ vọng cho nhà đầu tư tổ chức gia tăng tỷ trọng.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+- **Mã: HVN**
+    - Động lực (FA): Hưởng lợi kép từ sự gia tăng khách quốc tế và giảm lỗ chênh lệch tỷ giá.
+    - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể xoay chuyển mạnh vào nhóm vận tải hàng không do kết quả kinh doanh được kỳ vọng cải thiện rõ rệt từ biên lãi tỷ giá và phí dịch vụ.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt kháng cự gần.
 - **Mã: VPB**
-  - Động lực (FA): FE Credit suy giảm thị phần, nợ xấu tài chính tiêu dùng gây áp lực lên lợi nhuận hợp nhất.
-  - Nhận định dòng tiền: Tiêu cực. Dòng tiền có khả năng rút lui hoặc thận trọng đối với các mã liên quan đến tài chính tiêu dùng trong ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực cầu tại vùng hỗ trợ cứng.
-- **Mã: VNS**
-  - Động lực (FA): Lỗ lần đầu sau 5 năm + Cổ đông liên quan nội bộ liên tục bán ra.
-  - Nhận định dòng tiền: Tiêu cực. Cung tiềm năng lớn và tâm lý tiêu cực bao trùm.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy.
-- **Mã: HND**
-  - Động lực (FA): Biến động nhân sự cấp cao (Chủ tịch từ trần).
-  - Nhận định dòng tiền: Tiêu cực ngắn hạn do tâm lý bất ổn trong công tác quản trị.
-  - Hành động: Tiếp tục quan sát, tránh giải ngân cho đến khi cấu trúc quản trị ổn định lại.
+    - Động lực (FA): FE Credit hụt hơi, áp lực nợ xấu và thị phần làm giảm triển vọng lợi nhuận hợp nhất.
+    - Nhận định dòng tiền: Áp lực tâm lý tiêu cực sẽ đè nặng lên cổ phiếu, khó hút dòng tiền lớn trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát, tránh bắt đáy.
+- **Mã: KBC, SZC**
+    - Động lực (FA): FDI tăng cường, nhu cầu thuê đất khu công nghiệp phục hồi.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ đón đầu làn sóng FDI sẽ tập trung vào các mã có quỹ đất sạch lớn.
+    - Hành động: Tiếp tục quan sát điểm entry khi VN-Index kiểm định lại các mốc hỗ trợ.
