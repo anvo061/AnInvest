@@ -1,21 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:15 - 07/09/2026
+⏱ Thời gian: 02:10
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- TP.HCM thí điểm cơ chế mua bán điện trực tiếp (DPPA) cho doanh nghiệp KCN -> Đánh giá: Tích cực -> Dòng tiền ưu tiên nhóm Bất động sản khu công nghiệp và Năng lượng tái tạo.
+- Kim ngạch xuất nhập khẩu 8 tháng vượt 770 tỷ USD, duy trì đà phục hồi sản xuất và thương mại quốc tế -> Tích cực -> Dòng tiền hướng vào nhóm Logistics và Vận tải biển (GMD, HAH).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **HBC**
+  - Động lực (FA): Bán thành công dự án tại Khu công nghệ cao, ghi nhận 50 tỷ đồng lợi nhuận nửa đầu năm, hỗ trợ cải thiện bảng cân đối kế toán.
+  - Nhận định dòng tiền: Tin tức hỗ trợ tâm lý tích cực ngắn hạn trong bối cảnh tái cấu trúc, giảm bớt áp lực nợ vay.
+  - Hành động: Chú ý giải ngân (Canh nhịp chỉnh ngắn hạn để vào vị thế).
+- Mã: **VPB**
+  - Động lực (FA): Áp lực cạnh tranh gia tăng từ các đối thủ mới nổi (như VietCredit) trong mảng tài chính tiêu dùng.
+  - Nhận định dòng tiền: Tác động tiêu cực nhẹ lên kỳ vọng tăng trưởng biên lợi nhuận mảng FE Credit, cần quan sát phản ứng giá tại các vùng hỗ trợ cứng.
+  - Hành động: Tiếp tục quan sát (Chưa ưu tiên giải ngân cho đến khi xác nhận dòng tiền ổn định).
 - Mã: **PLX**
-- Động lực (FA): Hợp tác với chuỗi tiện lợi Ohmee (Trung Quốc) tại trạm xăng.
-- Nhận định dòng tiền: Tối ưu hóa doanh thu phi xăng dầu, cải thiện biên lợi nhuận bán lẻ trên mạng lưới sẵn có.
-- Hành động: Chú ý giải ngân nếu dòng tiền duy trì trên đường trung bình 20 phiên.
-
-- Mã: **GMD, HAH**
-- Động lực (FA): Giá dầu diesel giảm.
-- Nhận định dòng tiền: Hỗ trợ trực tiếp biên lợi nhuận gộp nhờ tiết giảm chi phí vận hành đội tàu/xe.
-- Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ kỹ thuật.
-
-- Mã: **MWG**
-- Động lực (FA): Áp lực giảm giá iPhone 17 Pro Max và iPhone Air.
-- Nhận định dòng tiền: Rủi ro thu hẹp biên lợi nhuận bán lẻ thiết bị di động trong bối cảnh sức cầu yếu.
-- Hành động: Rủi ro vi phạm kịch bản lợi nhuận, cần thận trọng với vị thế mua mới.
+  - Động lực (FA): Hợp tác với chuỗi cửa hàng tiện lợi Ohmee (Trung Quốc) để tối ưu hóa diện tích mặt bằng trạm xăng.
+  - Nhận định dòng tiền: Tích cực dài hạn cho mảng bán lẻ phi xăng dầu, cải thiện biên lợi nhuận tổng thể.
+  - Hành động: Tiếp tục quan sát.
