@@ -1,26 +1,26 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 07:35 - 07/09/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 12:15 - 07/09/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Giá dầu duy trì mức >80 USD/thùng:** Tác động **Tích cực** đến nhóm Thượng nguồn và Dịch vụ dầu khí. Dòng tiền có khả năng tập trung vào các mã có độ nhạy cao với giá dầu và khối lượng công việc thực tế.
-- **Áp lực từ thịt nhập khẩu giá rẻ (26.500 đồng/kg):** Tác động **Tiêu cực** đến biên lợi nhuận của các doanh nghiệp chăn nuôi nội địa (DBC, BAF).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Nới trần tín dụng lên 52% vốn tự có cho khách hàng doanh nghiệp: -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào: Nhóm Ngân hàng vốn hóa lớn (VCB, BID, CTG) và các doanh nghiệp hạ tầng/BĐS dự án quy mô lớn].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** PVD
-- **Động lực (FA):** Giá dầu duy trì trên 80 USD/thùng do rủi ro nguồn cung từ Trung Đông.
-- **Nhận định dòng tiền:** Giá dầu neo cao là chất xúc tác mạnh cho kỳ vọng tăng giá thuê giàn khoan và cải thiện biên lợi nhuận gộp, củng cố xu hướng dòng tiền hiện tại.
-- **Hành động:** Chú ý giải ngân nếu xuất hiện tín hiệu kiểm định vùng giá hỗ trợ.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VCB, BID, CTG**
+- Động lực (FA): Nới trần tín dụng lên 52% vốn tự có, mở dư địa giải ngân cho các siêu dự án.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền lớn tập trung vào nhóm ngân hàng quốc doanh nhờ ưu thế quy mô vốn, củng cố đà tăng trưởng tín dụng nửa cuối năm.
+- Hành động: Chú ý giải ngân gia tăng tỷ trọng theo kịch bản breakout nền giá.
 
-- **Mã:** DBC, BAF
-- **Động lực (FA):** Thịt nhập khẩu giá rẻ (26.500 đồng/kg) tạo áp lực cạnh tranh trực tiếp lên giá heo hơi nội địa.
-- **Nhận định dòng tiền:** Rủi ro dòng tiền rút lui khỏi nhóm chăn nuôi khi biên lợi nhuận bị đe dọa trực tiếp bởi nguồn cung giá rẻ.
-- **Hành động:** Rủi ro vi phạm kịch bản, thận trọng quản trị rủi ro, quan sát phản ứng tại các vùng hỗ trợ cứng.
+- Mã: **VNS**
+- Động lực (FA): Lần đầu báo lỗ sau đại dịch, mô hình kinh doanh truyền thống suy yếu rõ rệt trước áp lực gọi xe công nghệ.
+- Nhận định dòng tiền: Áp lực bán tháo ngắn hạn có thể gia tăng, rủi ro vi phạm kịch bản hỗ trợ kỹ thuật cao.
+- Hành động: Cắt lỗ/giảm tỷ trọng, không bắt đáy.
 
-- **Mã:** RCD
-- **Động lực (FA):** Ủy ban Chứng khoán Nhà nước hủy tư cách công ty đại chúng.
-- **Nhận định dòng tiền:** Tác động tiêu cực trực tiếp, rủi ro mất thanh khoản và giảm quyền lợi cổ đông.
-- **Hành động:** Thoát vị thế ngay lập tức nếu còn nắm giữ.
+- Mã: **DBC, BAF**
+- Động lực (FA): Áp lực cạnh tranh từ thịt nhập khẩu giá rẻ (26.500 đồng/kg).
+- Nhận định dòng tiền: Biên lợi nhuận mảng chăn nuôi bị đe dọa, dòng tiền có thể rút khỏi nhóm chăn nuôi để tránh rủi ro điều chỉnh giá bán.
+- Hành động: Theo dõi sát mốc hỗ trợ, rủi ro vi phạm kịch bản cơ bản.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **Mã:** BSR
-- **Nhận định:** Dữ liệu giá dầu neo ở mức cao (>80 USD/thùng) là yếu tố bổ trợ tốt cho giá trị hàng tồn kho và biên lợi nhuận lọc dầu của BSR. Tuy nhiên, do đã đi qua điểm rơi kỳ vọng (tháng 3/2026), cần theo dõi sát áp lực chốt lời. **Giữ vị thế để tối ưu hóa lợi nhuận** chừng nào giá dầu chưa thủng ngưỡng hỗ trợ tâm lý quan trọng.
+- Mã: **PVD, PVS**
+- Động lực (FA): Iran tăng giá xăng gây áp lực lên giá dầu toàn cầu.
+- Nhận định dòng tiền: Phản ứng tích cực trong ngắn hạn đối với các mã thượng nguồn dầu khí.
+- Hành động: Tiếp tục quan sát điểm vào lệnh theo diễn biến giá dầu thế giới.
