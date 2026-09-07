@@ -1,22 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:15
+⏱ Thời gian: 22:25 - 07/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực bán tháo diện rộng khiến VN-Index mất mốc 31 điểm, kích hoạt rủi ro Call Margin (bán giải chấp) tại các nhóm cổ phiếu trụ và nhóm có tính nhạy cảm cao với đòn bẩy như Chứng khoán và Bất động sản -> **Tiêu cực** -> Dòng tiền tạm thời thoát khỏi các nhóm nhạy sóng, chuyển dịch sang tâm lý phòng thủ.
-- Lãi suất huy động có dấu hiệu nhích tăng -> **Tiêu cực** -> Làm giảm sức hấp dẫn tương đối của kênh chứng khoán so với tiền gửi tiết kiệm.
+- TP.HCM triển khai 21 dự án hạ tầng trọng điểm thông qua huy động vốn quốc tế và trái phiếu đô thị -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Xây dựng hạ tầng (VCG, HHV)** và **Bất động sản (KDH)**.
+- Thị trường chứng khoán giảm điểm sâu (-31 điểm), kích hoạt Force sell nhóm Chứng khoán và Bất động sản -> **Tiêu cực** -> Áp lực bán giải chấp có khả năng lan tỏa ngắn hạn, yêu cầu quản trị tỷ trọng Margin chặt chẽ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GIL**
-- Động lực (FA): Bị cắt margin và gánh nặng hàng tồn kho lớn tại Amazon vẫn là điểm nghẽn thanh khoản.
-- Nhận định dòng tiền: Áp lực tâm lý tiêu cực gia tăng, khả năng cao sẽ tiếp tục chịu lực bán mạnh từ nhà đầu tư cá nhân bị áp lực giải chấp.
-- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng/quản trị rủi ro, tránh bắt đáy trong bối cảnh thanh khoản suy yếu.
+- **Mã: NKG**
+  - Động lực (FA): Phó Chủ tịch từ nhiệm bất ngờ.
+  - Nhận định dòng tiền: Tâm lý bất ổn trong ngắn hạn, khả năng cao xuất hiện áp lực bán tháo theo quán tính (Panic selling) cộng hưởng với diễn biến tiêu cực chung của VN-Index.
+  - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên đứng ngoài quan sát, chờ tín hiệu cân bằng tại vùng hỗ trợ cứng, tránh bắt đáy khi chưa có lực cầu đỡ giá.
 
-- Mã: **SSI, VND, PDR, HPG, VHM, VCB**
-- Động lực (FA): Chịu áp lực bán tháo từ khối ngoại và áp lực bán giải chấp diện rộng theo VN-Index.
-- Nhận định dòng tiền: Dòng tiền rút mạnh khỏi nhóm vốn hóa lớn (Blue-chips), gây tổn thương cấu trúc kỹ thuật của chỉ số.
-- Hành động: **Tiếp tục quan sát**, không giải ngân cho đến khi xuất hiện tín hiệu chững lại của lực bán tại các vùng hỗ trợ cứng.
+- **Mã: PLX**
+  - Động lực (FA): Hợp tác với Ohmee (Trung Quốc) tối ưu hóa doanh thu phi xăng dầu tại trạm xăng.
+  - Nhận định dòng tiền: Tác động tích cực về cơ bản (cải thiện biên lợi nhuận), tuy nhiên cần quan sát phản ứng giá khi thị trường chung đang tiêu cực.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ kỹ thuật; chưa giải ngân vội trong phiên hoảng loạn.
 
-- Mã: **GMD, HAH**
-- Động lực (FA): Căng thẳng tại eo biển Hormuz suy yếu giúp hạ nhiệt giá dầu, giảm chi phí vận hành đội tàu.
-- Nhận định dòng tiền: Đây là nhóm hưởng lợi gián tiếp (phòng thủ nhờ cắt giảm chi phí), tuy nhiên sẽ vẫn bị ảnh hưởng tâm lý chung theo chỉ số.
-- Hành động: **Tiếp tục quan sát** để chờ điểm mua hợp lưu khi thị trường ổn định trở lại.
+- **Mã: VCG, HHV, KDH**
+  - Động lực (FA): Hưởng lợi trực tiếp từ danh mục 21 dự án hạ tầng của TP.HCM.
+  - Nhận định dòng tiền: Tin tức tạo "nút chặn" tâm lý tích cực nhưng sẽ bị thách thức bởi xu hướng giảm điểm toàn thị trường.
+  - Hành động: **Chú ý giải ngân** nếu các mã này giữ được vùng nền hỗ trợ trong phiên tới, đây là nhóm được bảo vệ bởi kỳ vọng đầu tư công dài hạn.
