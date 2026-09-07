@@ -1,22 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:25 - 07/09/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ Thời gian: 02:40
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- TP.HCM triển khai 21 dự án hạ tầng trọng điểm thông qua huy động vốn quốc tế và trái phiếu đô thị -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Xây dựng hạ tầng (VCG, HHV)** và **Bất động sản (KDH)**.
-- Thị trường chứng khoán giảm điểm sâu (-31 điểm), kích hoạt Force sell nhóm Chứng khoán và Bất động sản -> **Tiêu cực** -> Áp lực bán giải chấp có khả năng lan tỏa ngắn hạn, yêu cầu quản trị tỷ trọng Margin chặt chẽ.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Áp lực thoái vốn Bluechips:** Dự báo khối ngoại/ETF bán ròng hơn 1.500 tỷ đồng tại cổ phiếu vốn hóa lớn trong tháng 9 -> **Tiêu cực** -> Dòng tiền chịu áp lực rút ròng khỏi nhóm VN30, gây sức ép lên chỉ số chung.
+- **Dư địa FDI xanh:** Trung Quốc tăng cường hợp tác hạ tầng xanh tại Việt Nam -> **Tích cực** -> Dòng tiền kỳ vọng phân hóa vào nhóm Bất động sản khu công nghiệp (KBC, SZC).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NKG**
-  - Động lực (FA): Phó Chủ tịch từ nhiệm bất ngờ.
-  - Nhận định dòng tiền: Tâm lý bất ổn trong ngắn hạn, khả năng cao xuất hiện áp lực bán tháo theo quán tính (Panic selling) cộng hưởng với diễn biến tiêu cực chung của VN-Index.
-  - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên đứng ngoài quan sát, chờ tín hiệu cân bằng tại vùng hỗ trợ cứng, tránh bắt đáy khi chưa có lực cầu đỡ giá.
-
-- **Mã: PLX**
-  - Động lực (FA): Hợp tác với Ohmee (Trung Quốc) tối ưu hóa doanh thu phi xăng dầu tại trạm xăng.
-  - Nhận định dòng tiền: Tác động tích cực về cơ bản (cải thiện biên lợi nhuận), tuy nhiên cần quan sát phản ứng giá khi thị trường chung đang tiêu cực.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ kỹ thuật; chưa giải ngân vội trong phiên hoảng loạn.
-
-- **Mã: VCG, HHV, KDH**
-  - Động lực (FA): Hưởng lợi trực tiếp từ danh mục 21 dự án hạ tầng của TP.HCM.
-  - Nhận định dòng tiền: Tin tức tạo "nút chặn" tâm lý tích cực nhưng sẽ bị thách thức bởi xu hướng giảm điểm toàn thị trường.
-  - Hành động: **Chú ý giải ngân** nếu các mã này giữ được vùng nền hỗ trợ trong phiên tới, đây là nhóm được bảo vệ bởi kỳ vọng đầu tư công dài hạn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** VHM
+    - **Động lực (FA):** Đối mặt với áp lực bán ròng quy mô lớn từ khối ngoại/ETF trong tháng 9.
+    - **Nhận định dòng tiền:** Cung treo lơ lửng lớn, khả năng cao mất cân bằng cung cầu trong ngắn hạn.
+    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy khi áp lực bán ETF chưa giải tỏa.
+- **Mã:** KBC, SZC
+    - **Động lực (FA):** Hưởng lợi từ làn sóng hợp tác FDI xanh với Trung Quốc.
+    - **Nhận định dòng tiền:** Có cơ sở hỗ trợ dài hạn, tuy nhiên cần quan sát phản ứng với tâm lý thị trường chung đang tiêu cực.
+    - **Hành động:** Quan sát vùng hỗ trợ kỹ thuật, chỉ giải ngân thăm dò khi thị trường chung xác nhận vùng cân bằng.
+- **Mã:** KLB, MHC, STK
+    - **Động lực (FA):** Bị cắt margin từ HOSE.
+    - **Nhận định dòng tiền:** Suy giảm sức mua tức thì, tăng rủi ro áp lực bán giải chấp.
+    - **Hành động:** Né tránh giao dịch ngắn hạn cho đến khi trạng thái margin được khôi phục.
+- **Mã:** HQC
+    - **Động lực (FA):** Ngân hàng xiết nợ tài sản quy mô lớn.
+    - **Nhận định dòng tiền:** Thông tin tác động xấu trực tiếp đến sức khỏe tài chính doanh nghiệp và tâm lý nhà đầu tư.
+    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế nếu còn nắm giữ.
