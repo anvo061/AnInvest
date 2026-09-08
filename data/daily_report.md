@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:45 - 09/09/2026
+⏱ Thời gian: 03:09:00 - 09/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Việt Nam vào top 3 châu Á về tỉ lệ du khách quay lại -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Hàng không (HVN, VJC)** và Dịch vụ lưu trú.
-- Cột mốc APEC 2027 thúc đẩy hạ tầng sân bay Gia Bình -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Bất động sản khu công nghiệp (KBC)**.
-- SSI tiến tới vốn điều lệ > 33.000 tỷ đồng -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán**, củng cố vị thế dẫn đầu thị phần cho vay margin.
+- **Đề xuất hạ ngưỡng miễn thuế nhập khẩu hàng giá rẻ:** Tác động tích cực tới nhóm bán lẻ nội địa (MWG, MSN) do giảm áp lực cạnh tranh trực tiếp từ hàng ngoại nhập qua thương mại điện tử.
+- **Kết quả kinh doanh kém khả quan của dự án trọng điểm BĐS:** Tác động tiêu cực đến tâm lý nhóm BĐS có đòn bẩy cao, làm gia tăng rủi ro thanh khoản ngắn hạn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: SSI**
-  - Động lực (FA): Vốn điều lệ gia tăng mạnh, củng cố năng lực cho vay margin dẫn đầu thị trường.
-  - Nhận định dòng tiền: Tạo động lực tích cực, củng cố sức mạnh cho cổ phiếu ngành chứng khoán trong xu hướng thị trường cần vốn.
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện nhịp điều chỉnh kỹ thuật ngắn hạn.
+  - Động lực (FA): Tự doanh xả mạnh hàng trăm tỷ đồng nhưng đồng thời có kế hoạch tăng vốn điều lệ lên 33.000 tỷ đồng để mở rộng dư địa cho vay margin.
+  - Nhận định dòng tiền: Áp lực cung ngắn hạn từ khối tự doanh tạo nhiễu, nhưng năng lực tài chính tăng cường là nền tảng dài hạn hỗ trợ thị phần.
+  - Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ cứng, tránh FOMO khi có tin tăng vốn.
+- **Mã: NVL**
+  - Động lực (FA): Lỗ hơn 120 tỷ đồng từ dự án Aqua City.
+  - Nhận định dòng tiền: Rủi ro bán tháo gia tăng do niềm tin nhà đầu tư vào khả năng thu hồi vốn và bàn giao dự án suy giảm.
+  - Hành động: Rủi ro vi phạm kịch bản quản trị rủi ro; ưu tiên hạ tỷ trọng.
 - **Mã: KBC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ hạ tầng sân bay Gia Bình và kỳ vọng FDI theo sự kiện APEC 2027.
-  - Nhận định dòng tiền: Kỳ vọng gia tăng sự quan tâm của dòng tiền khối ngoại và nhà đầu tư dài hạn vào quỹ đất Bắc Ninh.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
-- **Mã: HVN, VJC**
-  - Động lực (FA): Chỉ số khách quay lại cao nhất khu vực, cải thiện hiệu suất khai thác đường bay và dòng tiền biên lợi nhuận.
-  - Nhận định dòng tiền: Cải thiện tâm lý nhà đầu tư đối với ngành hàng không vốn chịu áp lực trong thời gian dài.
-  - Hành động: **Chú ý giải ngân** đối với cổ phiếu có nền tích lũy chặt.
+  - Động lực (FA): Kỳ vọng từ dự án hạ tầng hàng không khu vực Bắc Ninh (APEC 2027).
+  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể luân chuyển vào nhóm khu công nghiệp tại phía Bắc.
+  - Hành động: Chú ý giải ngân nếu có tín hiệu dòng tiền tích lũy vượt nền giá.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Không có tin tức mới liên quan đến EIB và BSR trong chu kỳ này. Giữ nguyên trạng thái theo chiến lược trung hạn.

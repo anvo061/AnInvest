@@ -1,5 +1,149 @@
 ﻿[
   {
+    "Title": "HOSE: Thống kê giao dịch tự doanh (ngày 08/09/2026) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjR5X1hUcVpEbXJWemZ2VDUwYmRLdmFNYVRkS3ZQZVRWZldHanBWbXF4Nk9CcHFmVXdvdnhQenFvR0tYTlpzbVpoamRUZGJpLXo4M0xXejVRX1NjWXpCXzNIdXRQeFJ2VmZTT2UzSVo5U2NETk8tUDRuWV9VZk1WTjRMVlFvV216RTFlUnV0X3hWbzBWS2NHdjRTdm1CS2libnlnNWtNVk1pOHc?oc=5",
+    "PubDate": "Tue, 08 Sep 2026 09:42:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là dữ liệu thống kê giao dịch quá khứ, không phải tin tức sự kiện có tác động trực tiếp đến hoạt động kinh doanh hay triển vọng lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Dữ liệu thị trường. Đây là báo cáo thống kê giao dịch quá khứ, không chứa thông tin định hướng dòng tiền mới. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 03:09:00"
+  },
+  {
+    "Title": "Phiên 8/9: Tự doanh CTCK bất ngờ \"xả\" mạnh hàng trăm tỷ đồng tại một cổ phiếu chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0c4Ni1uM2RHci1Ib2VaeEFuRXZhSS0xSVBERU9QNjlTNE9HbGl5RVJDbGJMckZVY0FoTGxFV1VzZl9SZjVsTlFqQnJVMGkyQXRDeVBqSW9mQWVfMWVNQW5xNW9CR1dtU0daMnBkUG4xa2lWVlVoNHBFckoxU2Q1QURPYnZDU3VzczZzUEZxRERTUU9LTjdSNUV1NDZkRkpocmU0Q3hYcGN0aEFaTGdFWVBxYlZYcUZZU0ZsTlpHbmVIbk1E?oc=5",
+    "PubDate": "Tue, 08 Sep 2026 10:07:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Hoạt động bán ròng mạnh từ khối tự doanh tạo áp lực cung ngắn hạn, gây tâm lý thận trọng cho nhà đầu tư cá nhân đối với cổ phiếu chứng khoán bị xả.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chứng khoán. Tự doanh xả hàng trăm tỷ gây áp lực cung ngắn hạn. Cần quan sát phản ứng tại vùng hỗ trợ cứng, tránh bắt dao rơi khi dòng tiền rút mạnh.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực bán ròng từ khối tự doanh tạo rào cản tâm lý, gây áp lực điều chỉnh ngắn hạn lên giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 03:08:44"
+  },
+  {
+    "Title": "QTC: Quyết định v.v chuyển sang diện bị kiểm soát và Thông báo tình trạng chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLVQyUHo5c2g4ZEFTTzlXTW5GQWVoemstWGhpWjZ0U0lHVUI2YnY2emNTRW1LQmxEQ3VfVk9VaDhuWU11bjAzM2gtcXpLQklab0NIc01xbjJtUS1UOFNTbnVkVFVOQXREVVVHSHREMHNlUHVOdjU2QlR4dndoZkE0WWRaODhkM2Y0SGpvc0FpVHlaZ3E1T0thT083VEFYZnFJSXRvS0NVQmM1cThoTHBSdFdOS215bHFMQWpUWUVPQ2FMRDJGclMyeUlHZDF0QlU2QTdMUXZjQ21tZ3M?oc=5",
+    "PubDate": "Tue, 08 Sep 2026 09:17:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Việc chuyển sang diện bị kiểm soát phản ánh tình trạng tài chính suy yếu hoặc vi phạm công bố thông tin, gây rủi ro thanh khoản và hạn chế giao dịch đối với cổ đông.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - QTC. Cổ phiếu bị kiểm soát thường đối mặt với áp lực bán tháo, hạn chế margin và rủi ro bị hủy niêm yết. Dòng tiền thông minh sẽ thoát vị thế ngay lập tức.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "QTC",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Bị kiểm soát làm giảm uy tín doanh nghiệp, hạn chế giao dịch và gây áp lực bán mạnh từ nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 03:08:27"
+  },
+  {
+    "Title": "Đề xuất hạ ngưỡng miễn thuế nhập khẩu đối với hàng hóa giá rẻ",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/de-xuat-ha-nguong-mien-thue-nhap-khau-doi-voi-hang-hoa-gia-re-100260908235236904.htm",
+    "PubDate": "9/9/2026 12:00:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc hạ ngưỡng miễn thuế giúp giảm áp lực cạnh tranh từ hàng hóa giá rẻ nhập khẩu qua thương mại điện tử xuyên biên giới, bảo vệ thị phần cho các doanh nghiệp bán lẻ nội địa.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách thuế tác động gián tiếp, biên lợi nhuận bán lẻ nội địa khó cải thiện ngay. Cần theo dõi phản ứng dòng tiền tại MWG, MSN.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực cạnh tranh từ hàng hóa giá rẻ nhập khẩu, hỗ trợ mảng bán lẻ trực tuyến và cửa hàng vật lý."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Bảo vệ thị phần cho chuỗi WinMart/WinMart+ trước sự xâm nhập của hàng hóa giá rẻ từ các nền tảng TMĐT nước ngoài."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 03:08:04"
+  },
+  {
+    "Title": "Một mặt hàng Việt Nam thu gần 12 tỷ USD, Mỹ là khách lớn, Trung Quốc mua mạnh",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/mot-mat-hang-viet-nam-thu-gan-12-ty-usd-my-la-khach-lon-trung-quoc-mua-manh-2552713.html",
+    "PubDate": "Tue, 08 Sep 2026 13:15:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Kim ngạch xuất khẩu nông sản (rau quả) tăng trưởng mạnh nhờ các thị trường lớn, giúp cải thiện doanh thu và biên lợi nhuận cho các doanh nghiệp xuất khẩu nông sản niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức về nông sản (rau quả) không liên quan trực tiếp đến nhóm thủy sản (VHC, ANV, IDI). Cần phân biệt rõ danh mục xuất khẩu để tránh suy diễn sai lệch dòng tiền.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 03:07:42"
+  },
+  {
+    "Title": "Phú Thọ mở đường cho doanh nghiệp nội địa tham gia chuỗi cung ứng toàn cầu",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/phu-tho-mo-duong-cho-doanh-nghiep-noi-dia-tham-gia-chuoi-cung-ung-toan-cau-2553052.html",
+    "PubDate": "Tue, 08 Sep 2026 13:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc cải thiện hạ tầng và chính sách thu hút FDI tại Phú Thọ tạo dư địa tăng trưởng cho các doanh nghiệp bất động sản khu công nghiệp và logistics tại địa phương.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính hành chính, thiếu lộ trình cụ thể. Tác động thực tế đến dòng tiền doanh nghiệp chưa rõ ràng. Cần theo dõi thêm các dự án hạ tầng cụ thể tại địa phương.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 03:07:21"
+  },
+  {
+    "Title": "Cổ phiếu Vingroup tiếp tục 'gánh' chứng khoán",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/co-phieu-vingroup-tiep-tuc-ganh-chung-khoan-5117998.html",
+    "PubDate": "Tue, 08 Sep 2026 16:11:20 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Sự hồi phục và dẫn dắt của nhóm cổ phiếu họ Vingroup giúp cải thiện tâm lý nhà đầu tư và hỗ trợ chỉ số VN-Index giữ vững vùng hỗ trợ quan trọng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. VIC/VHM giữ chỉ số nhưng thiếu dòng tiền lan tỏa thực chất. Cần thận trọng với bẫy thanh khoản tại nhóm trụ khi thị trường thiếu động lực tăng trưởng bền vững.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đóng vai trò trụ cột dẫn dắt chỉ số, thu hút dòng tiền khối ngoại và nhà đầu tư tổ chức."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn nhất ngành BĐS, sự hồi phục của VHM cải thiện đáng kể tâm lý thị trường chung."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 03:06:12"
+  },
+  {
+    "Title": "Chủ đầu tư Aqua City lỗ hơn 120 tỷ đồng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chu-dau-tu-aqua-city-lo-hon-120-ty-dong-5117987.html",
+    "PubDate": "Tue, 08 Sep 2026 16:13:53 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Kết quả kinh doanh thua lỗ của chủ đầu tư dự án Aqua City (Novaland) phản ánh khó khăn trong việc bàn giao và ghi nhận doanh thu, gây áp lực lên tâm lý nhà đầu tư đối với nhóm cổ phiếu BĐS có đòn bẩy cao.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS. Lỗ lũy kế và khó khăn dự án làm suy giảm niềm tin dòng tiền. Áp lực bán kỹ thuật sẽ gia tăng tại NVL và các mã BĐS cùng phân khúc.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Kết quả kinh doanh yếu kém trực tiếp từ dự án trọng điểm làm gia tăng rủi ro tài chính và áp lực bán tháo."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 03:05:06"
+  },
+  {
     "Title": "Chứng khoán An Bình sẽ phát hành 5 triệu cổ phiếu ESOP cho 163 cá nhân - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWpxc1ZVQzRXc2RZWHJfTWVvUzNxcFdvQnd4TmdHWkJxaC1GYWJVblBFMEJ3ckd2WEJqTlpra1BkTWlvTEU4bk93ZTNXS1pXb2xuajZuMTBhcXdCdHdiV0lGd09GaUJqdGZQMUJEd0pKaVpkM2dQTk9ScjB3NHFHc25zTDFxdFFxbGNaRElMNG1Gc2JKX3ZJekdtQjJvNk9jS1RNM0E3MFFuWVpP?oc=5",
@@ -16580,146 +16724,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-25 17:20:42"
-  },
-  {
-    "Title": "HOSE: Thống kê giao dịch tự doanh (ngày 25/08/2026) - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2lvNUFYeFduSnZmZjNnb3dKLWpObWhYYmNKOHNkRTd5Z1h2MmtLUjkwUTMxU3RSRkxMd2ZxUDV0ZEF0a2JmajVpbHJyZmo4c0l5cjM0VTUyN0NJUE8ybURfRzNlTG5hUEI0UENYcmJGdmZXR1NPY01uNXdzaEJDckthVXF2T1NpOWYwRERVQXNVaWF0M21iWDUyUy1NWW0tWXp4cmE4XzU0UUk?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 09:50:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là dữ liệu thống kê giao dịch hàng ngày, phản ánh hoạt động của khối tự doanh, không phải tin tức định hướng thị trường hay thay đổi nền tảng doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Dữ liệu thống kê giao dịch hàng ngày là thông tin tham khảo, không tạo xu hướng dòng tiền mới. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 17:20:32"
-  },
-  {
-    "Title": "Ngân hàng rao bán khoản nợ 1.167 tỷ đồng của đại gia dầu khí",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/ngan-hang-rao-ban-khoan-no-1-167-ty-dong-cua-dai-gia-dau-khi-2548924.html",
-    "PubDate": "Tue, 25 Aug 2026 15:40:57 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc rao bán khoản nợ lớn cho thấy áp lực nợ xấu trong ngành dầu khí vẫn hiện hữu, gây tâm lý thận trọng đối với các doanh nghiệp có đòn bẩy tài chính cao hoặc liên quan đến các dự án đang gặp khó khăn.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Ngành Dầu khí. Tin nợ xấu 1.167 tỷ đồng gây áp lực tâm lý ngắn hạn lên nhóm cổ phiếu có đòn bẩy cao. Cần theo dõi sát phản ứng dòng tiền tại các mã liên quan.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 17:20:17"
-  },
-  {
-    "Title": "Cổ phiếu nào hút tiền nhiều nhất sau khi nâng hạng FTSE?",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/co-phieu-nao-hut-tien-nhieu-nhat-sau-khi-nang-hang-ftse-5113078.html",
-    "PubDate": "Tue, 25 Aug 2026 16:30:38 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Việc nâng hạng thị trường giúp thu hút dòng vốn ngoại quy mô lớn từ các quỹ ETF, tạo lực cầu mạnh mẽ cho các mã vốn hóa lớn (Bluechips) thuộc rổ chỉ số FTSE.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Nâng hạng FTSE thúc đẩy dòng vốn ETF thụ động. Dòng tiền tập trung vào các mã vốn hóa lớn có thanh khoản cao và tỷ trọng lớn trong rổ chỉ số.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn nhất, ưu tiên hàng đầu của các quỹ ngoại khi giải ngân vào thị trường Việt Nam."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu quốc dân với thanh khoản cao, luôn nằm trong danh mục ưu tiên của các quỹ ETF quốc tế."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tỷ trọng lớn trong các rổ chỉ số, hưởng lợi trực tiếp từ dòng vốn thụ động khi nâng hạng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-25 17:20:01"
-  },
-  {
-    "Title": "FUEABVND: Thông báo thay đổi giá trị tài sản ròng ngày 24/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3lYODlhb3V6MHBYbkVEeHZCcVA2ejVTdndmbG1FS05waE02Qk9adDc5RGVpVldmbF80TFNMTjNlcF8tem43aGtISzVGY21GZUtqdEhmSEl5VEJucTNpOVdCbl96bUs4SV9MYmZ2bWM0VHc0LVlNdHJPOHhDcWt6OWpsQ29UY2lla19uaGstYVpKeU5fczEzUjgxNTVoa0psTGFEcndfUWRQMUFaV1drY0JNVFp6Y05yZXVEZmFoWkw4b0tEWGc?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 09:02:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin định kỳ về giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi chiến lược hay tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 16:50:58"
-  },
-  {
-    "Title": "FUEIP100: Kết thúc giao dịch hoán đổi ngày 24/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUzU2SXVGVzJCcDluazNoRGE0VURUNnExTEVGdThEa0pSU1d4bmVxSHZqMENnaTNIV2x1ZllBdWhqQVlxZzNibW1lUlFPOVhwbnFudmoyUkc4TEtVV2R2TnVMSThoRDhIWmZIRHZDSlFRc1BwamtzSzZSWGNWY3Q5V3RfQ2hEUDVXZGdyTW43dWRvdWZHV1hlVnhwdHVyWHl6VDdZVDlQUkdjaHBVZGMtek5aeWJhZw?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 09:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động hoán đổi chứng chỉ quỹ ETF, không phản ánh thay đổi trong danh mục đầu tư hay biến động thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ thông thường của quỹ ETF, không tác động đến cung cầu cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 16:50:49"
-  },
-  {
-    "Title": "Phiên 25/8: Một cổ phiếu Bluechips được khối ngoại \"gom\" gần 400 tỷ đồng - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUdMWWdVVERPSmEzbklyVG9LTG84NmxZa01WLVFYTUFJWWcwX3ZBdW1NOE5INVpUdDdmUFY1czgwVXFSVlFiN1hUOUdfdXk0aXdrSUY1NkJVY0E3enk1YkFGRjE1eHQ5bmpCZDNxbWxwbEgyWVg1X2NhN3ZZRkZoOVFHQWE4T2YwOUhxUUxObVFFX00yNzhSRTh3NnpwLUUtN2puWXVWaDhnQWk2d0E?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 09:02:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Dòng tiền khối ngoại mua ròng mạnh tạo tâm lý tích cực, hỗ trợ nâng đỡ giá cổ phiếu Bluechip và cải thiện thanh khoản cho mã đó trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức dạng tiêu đề clickbait, thiếu mã cụ thể. Dòng tiền ngoại cục bộ không đại diện cho xu hướng thị trường chung. Cần thận trọng với các suy diễn thiếu căn cứ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 16:50:33"
-  },
-  {
-    "Title": "Dư địa lớn cùng sức mua tăng, Saigon Co.op đặt mục tiêu tăng mạnh hàng Tick xanh trách nhiệm",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/du-dia-lon-cung-suc-mua-tang-saigon-coop-dat-muc-tieu-tang-manh-hang-tick-xanh-trach-nhiem-100260825110324935.htm",
-    "PubDate": "8/25/2026 12:02:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về chiến lược kinh doanh của Saigon Co.op (doanh nghiệp tư nhân/hợp tác xã) không tác động trực tiếp đến các doanh nghiệp bán lẻ niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Bán lẻ. Chiến lược của Saigon Co.op không ảnh hưởng trực tiếp đến biên lợi nhuận hay thị phần của các mã bán lẻ niêm yết. Không có tác động dòng tiền.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 16:50:23"
-  },
-  {
-    "Title": "VN-Index băng qua mốc 1.800 điểm, tăng hơn 80 điểm sau 4 phiên",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/vn-index-bang-qua-moc-1800-diem-tang-hon-80-diem-sau-4-phien-100260825120145686.htm",
-    "PubDate": "8/25/2026 12:12:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Thị trường xác lập xu hướng tăng mạnh (uptrend) với thanh khoản bùng nổ, thúc đẩy tâm lý hưng phấn của nhà đầu tư cá nhân và gia tăng doanh thu phí môi giới, margin cho các công ty chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Uptrend mạnh. VN-Index vượt 1.800 điểm kích hoạt dòng tiền FOMO. Nhóm Chứng khoán (SSI, VND, VCI, HCM) hưởng lợi trực tiếp từ thanh khoản bùng nổ và nhu cầu margin tăng cao.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản thị trường tăng mạnh giúp tăng doanh thu môi giới và lãi từ cho vay margin."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ sự hưng phấn của nhà đầu tư cá nhân và gia tăng thị phần môi giới."
-      },
-      {
-        "Ticker": "VCI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thị trường tăng điểm mạnh giúp cải thiện giá trị danh mục tự doanh và hoạt động tư vấn tài chính."
-      },
-      {
-        "Ticker": "HCM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng doanh thu từ phí giao dịch khi VN-Index bứt phá các ngưỡng kháng cự quan trọng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-25 16:50:09"
   }
 ]
