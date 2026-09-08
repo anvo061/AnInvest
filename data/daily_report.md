@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:45 - 08/09/2026
+⏱ Thời gian: 00:45 - 09/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ thúc đẩy xuất khẩu linh kiện điện tử để giảm nhập siêu -> [Tích cực] -> Dòng tiền sẽ hướng vào nhóm Hạ tầng Khu công nghiệp (KBC, SZC).
-- Dữ liệu du lịch hồi phục (tỷ lệ quay lại thuộc top 3 Châu Á) & mở rộng đường bay quốc tế -> [Tích cực] -> Dòng tiền tập trung nhóm Hàng không (HVN, VJC) và Bất động sản nghỉ dưỡng/dịch vụ (VIC).
-- Thị trường "xanh vỏ đỏ lòng", khối ngoại duy trì đà bán ròng nhóm ngân hàng (VCB, STB) và HOSE cắt margin một số mã -> [Tiêu cực] -> Cảnh báo rủi ro thanh khoản ngắn hạn, áp lực điều chỉnh ở nhóm vốn hóa lớn.
+- Việt Nam vào top 3 châu Á về tỉ lệ du khách quay lại -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Hàng không (HVN, VJC)** và Dịch vụ lưu trú.
+- Cột mốc APEC 2027 thúc đẩy hạ tầng sân bay Gia Bình -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Bất động sản khu công nghiệp (KBC)**.
+- SSI tiến tới vốn điều lệ > 33.000 tỷ đồng -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Chứng khoán**, củng cố vị thế dẫn đầu thị phần cho vay margin.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KBC, SZC**
-  - Động lực (FA): Chính phủ yêu cầu thúc đẩy xuất khẩu điện tử, tạo dư địa cho doanh nghiệp hạ tầng khu công nghiệp hưởng lợi từ làn sóng dịch chuyển FDI.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón sóng chính sách.
-  - Hành động: Chú ý giải ngân nếu xuất hiện điểm nén nền giá.
-- Mã: **HVN**
-  - Động lực (FA): Tín hiệu tích cực từ lưu lượng khách quốc tế (Việt-Nga) và chỉ số hài lòng du khách.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dòng tiền có thể gia tăng vào nhóm vận tải hàng không.
-  - Hành động: Tiếp tục quan sát đà tăng, quản trị rủi ro tại vùng kháng cự.
-- Mã: **VCB, STB, CDN**
-  - Động lực (FA): Bị khối ngoại bán ròng (VCB, STB) hoặc bị cắt margin (CDN).
-  - Nhận định dòng tiền: Áp lực cung ngắn hạn lớn, rủi ro điều chỉnh kỹ thuật.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy ngắn hạn.
+- **Mã: SSI**
+  - Động lực (FA): Vốn điều lệ gia tăng mạnh, củng cố năng lực cho vay margin dẫn đầu thị trường.
+  - Nhận định dòng tiền: Tạo động lực tích cực, củng cố sức mạnh cho cổ phiếu ngành chứng khoán trong xu hướng thị trường cần vốn.
+  - Hành động: **Chú ý giải ngân** nếu xuất hiện nhịp điều chỉnh kỹ thuật ngắn hạn.
+- **Mã: KBC**
+  - Động lực (FA): Hưởng lợi trực tiếp từ hạ tầng sân bay Gia Bình và kỳ vọng FDI theo sự kiện APEC 2027.
+  - Nhận định dòng tiền: Kỳ vọng gia tăng sự quan tâm của dòng tiền khối ngoại và nhà đầu tư dài hạn vào quỹ đất Bắc Ninh.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
+- **Mã: HVN, VJC**
+  - Động lực (FA): Chỉ số khách quay lại cao nhất khu vực, cải thiện hiệu suất khai thác đường bay và dòng tiền biên lợi nhuận.
+  - Nhận định dòng tiền: Cải thiện tâm lý nhà đầu tư đối với ngành hàng không vốn chịu áp lực trong thời gian dài.
+  - Hành động: **Chú ý giải ngân** đối với cổ phiếu có nền tích lũy chặt.
