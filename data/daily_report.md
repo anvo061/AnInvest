@@ -1,28 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:45 - 10/09/2026
+⏱ Thời gian: 03:20 - 10/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất tiết kiệm neo cao:** -> [Tiêu cực] -> Dòng tiền có xu hướng rút khỏi các kênh rủi ro cao (Chứng khoán, BĐS) để trú ẩn, gây áp lực lên thanh khoản thị trường chung.
-- **Giá Diesel toàn cầu lập đỉnh:** -> [Tích cực] -> Dòng tiền hướng vào nhóm Năng lượng (Lọc hóa dầu, Thượng nguồn dầu khí).
-- **Xu hướng phát triển năng lượng cho AI:** -> [Tích cực] -> Kỳ vọng vào nhóm hạ tầng truyền tải và xây lắp điện.
+- Số lượng tài khoản chứng khoán mở mới tăng 2 triệu trong 8 tháng -> Đánh giá: **Tích cực** -> Dòng tiền tập trung vào nhóm **Chứng khoán (SSI, VND, VCI, HCM, SHS)** do gia tăng phí môi giới và nhu cầu margin.
+- Xu hướng tăng nhu cầu điện cho AI toàn cầu -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Năng lượng & Xây lắp điện (PC1, TV2)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: BSR**
-  - Động lực (FA): Giá diesel thế giới lập đỉnh, biên lợi nhuận lọc dầu (crack spread) cải thiện mạnh.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận, dòng tiền có khả năng tập trung vào nhóm năng lượng dầu khí trước áp lực chung của thị trường.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc theo thị trường chung.
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu duy trì mức cao, kích hoạt nhu cầu thăm dò và khai thác.
-  - Nhận định dòng tiền: Trạng thái tích cực, phản ứng tốt với tin tức giá năng lượng toàn cầu.
-  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
-- **Mã: SSI**
-  - Động lực (FA): Lãi suất tiết kiệm cao + Dự báo áp lực bán trong tháng 9.
-  - Nhận định dòng tiền: Chịu áp lực bán kép (thanh khoản giảm + chi phí margin tăng).
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng.
+- **Mã: SSI, VND, VCI**
+    - Động lực (FA): Thị phần môi giới lớn và hưởng lợi trực tiếp từ làn sóng 2 triệu tài khoản mở mới. 
+    - Nhận định dòng tiền: Dòng tiền cá nhân nhập cuộc mạnh mẽ giúp bù đắp áp lực bán ngắn hạn. Tuy nhiên, cần theo dõi sát vùng hỗ trợ kỹ thuật trước dự báo áp lực bán nửa cuối tháng 9.
+    - Hành động: **Tiếp tục quan sát** (Theo dõi chặt chẽ kịch bản kiểm định vùng giá trước áp lực chốt lời ngắn hạn).
 - **Mã: MWG, FRT**
-  - Động lực (FA): Chu kỳ iPhone 18 chuẩn bị ra mắt.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ ngắn hạn có thể tìm đến nhóm bán lẻ thiết bị di động như một "trú ẩn" tạm thời khi thị trường chung thận trọng.
-  - Hành động: Tiếp tục quan sát điểm entry tại vùng hỗ trợ kỹ thuật.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR (Nhóm dầu khí):** Dữ liệu vĩ mô (giá Diesel thế giới) củng cố luận điểm giữ vị thế. Đây là thời điểm "neo" giá trị quan trọng, chưa cần cơ cấu lại dòng tiền dù đã qua mốc kỳ vọng tháng 3/2026. Tiếp tục nắm giữ.
+    - Động lực (FA): Hiệu ứng ra mắt iPhone 18.
+    - Nhận định dòng tiền: Kỳ vọng thúc đẩy doanh thu bán lẻ trong Q4.
+    - Hành động: **Chú ý giải ngân** (Canh nhịp rung lắc để tích lũy vị thế trước kỳ vọng doanh số quý cuối năm).
+- **Mã: NTP**
+    - Động lực (FA): Khẳng định năng lực cạnh tranh và vị thế bền vững trong ngành vật liệu xây dựng.
+    - Nhận định dòng tiền: Củng cố tâm lý nắm giữ dài hạn.
+    - Hành động: **Tiếp tục quan sát** (Chờ tín hiệu dòng tiền thông minh gia tăng tỷ trọng tại các phiên điều chỉnh).
+- **Mã: VTR, VNG**
+    - Động lực (FA): Hưởng lợi từ định hướng phát triển du lịch đêm, tăng thời gian lưu trú.
+    - Nhận định dòng tiền: Phân hóa, dòng tiền chỉ phản ứng với các cổ phiếu có định giá hợp lý.
+    - Hành động: **Tiếp tục quan sát** (Quan sát thanh khoản, chưa vội mua đuổi).
