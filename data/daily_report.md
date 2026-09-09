@@ -1,31 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:15
+⏱ Thời gian: 00:45 - 10/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Năng lượng (Giá dầu thế giới neo cao/Diesel lập đỉnh):** Tác động Tích cực -> Dòng tiền ưu tiên nhóm thượng nguồn (PVD, PVS) và lọc hóa dầu (BSR).
-- **Công nghiệp (Việt Nam củng cố vị thế chuỗi cung ứng toàn cầu):** Tác động Tích cực -> Dòng tiền tập trung vào BĐS Khu công nghiệp (KBC, GVR, SZC) và Logistics (GMD, HAH).
-- **Thị trường (Áp lực bán ròng khối ngoại & Thông tin tiêu cực từ nhóm đầu cơ):** Tác động Tiêu cực -> Gây áp lực điều chỉnh lên nhóm Bluechips (VHM, HPG, VCB) và nhóm cổ phiếu đầu cơ có nền tảng tài chính yếu (TAR, API, APS).
+- **Lãi suất tiết kiệm neo cao:** -> [Tiêu cực] -> Dòng tiền có xu hướng rút khỏi các kênh rủi ro cao (Chứng khoán, BĐS) để trú ẩn, gây áp lực lên thanh khoản thị trường chung.
+- **Giá Diesel toàn cầu lập đỉnh:** -> [Tích cực] -> Dòng tiền hướng vào nhóm Năng lượng (Lọc hóa dầu, Thượng nguồn dầu khí).
+- **Xu hướng phát triển năng lượng cho AI:** -> [Tích cực] -> Kỳ vọng vào nhóm hạ tầng truyền tải và xây lắp điện.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** BSR
-- **Động lực (FA):** Giá dầu diesel thế giới lập đỉnh; giá dầu thô tiến sát mốc 100 USD/thùng.
-- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ biên lợi nhuận lọc dầu (crack spread) mở rộng và giá trị hàng tồn kho. Dòng tiền dự báo gia tăng mạnh tại nhóm dầu khí.
-- **Hành động:** Chú ý giải ngân (Theo dõi chặt chẽ kịch bản Tái cơ cấu).
-
-- **Mã:** KBC, SZC
-- **Động lực (FA):** Dòng vốn FDI và vị thế chuỗi cung ứng của Việt Nam tiếp tục được củng cố.
-- **Nhận định dòng tiền:** Hưởng lợi từ làn sóng dịch chuyển sản xuất, dòng tiền sẽ tìm đến các doanh nghiệp có quỹ đất sẵn sàng cho thuê.
-- **Hành động:** Tiếp tục quan sát điểm vào lệnh theo kỹ thuật.
-
-- **Mã:** PVD
-- **Động lực (FA):** Giá dầu cao thúc đẩy nhu cầu thăm dò, khai thác toàn cầu.
-- **Nhận định dòng tiền:** Dòng tiền ngắn hạn tích cực nhờ thông tin địa chính trị hỗ trợ giá thuê giàn khoan.
-- **Hành động:** Chú ý giải ngân.
-
-- **Mã:** TAR
-- **Động lực (FA):** Kinh doanh thua lỗ kéo dài, áp lực nợ vay lớn.
-- **Nhận định dòng tiền:** Tiêu cực. Rủi ro bán tháo và bị cắt margin cao.
-- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/thoát vị thế.
+- **Mã: BSR**
+  - Động lực (FA): Giá diesel thế giới lập đỉnh, biên lợi nhuận lọc dầu (crack spread) cải thiện mạnh.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận, dòng tiền có khả năng tập trung vào nhóm năng lượng dầu khí trước áp lực chung của thị trường.
+  - Hành động: Chú ý giải ngân khi có nhịp rung lắc theo thị trường chung.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu duy trì mức cao, kích hoạt nhu cầu thăm dò và khai thác.
+  - Nhận định dòng tiền: Trạng thái tích cực, phản ứng tốt với tin tức giá năng lượng toàn cầu.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng.
+- **Mã: SSI**
+  - Động lực (FA): Lãi suất tiết kiệm cao + Dự báo áp lực bán trong tháng 9.
+  - Nhận định dòng tiền: Chịu áp lực bán kép (thanh khoản giảm + chi phí margin tăng).
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng.
+- **Mã: MWG, FRT**
+  - Động lực (FA): Chu kỳ iPhone 18 chuẩn bị ra mắt.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ ngắn hạn có thể tìm đến nhóm bán lẻ thiết bị di động như một "trú ẩn" tạm thời khi thị trường chung thận trọng.
+  - Hành động: Tiếp tục quan sát điểm entry tại vùng hỗ trợ kỹ thuật.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR (Tháng 6/2026):** Dữ liệu vĩ mô (giá diesel lập đỉnh) đang bổ trợ mạnh mẽ cho luận điểm nắm giữ. Duy trì vị thế hiện tại, không bán tháo theo thị trường chung. Tiếp tục theo dõi biên lợi nhuận quý kế tiếp để quyết định việc chốt lời một phần hay giữ đến mục tiêu dài hạn.
+- **BSR (Nhóm dầu khí):** Dữ liệu vĩ mô (giá Diesel thế giới) củng cố luận điểm giữ vị thế. Đây là thời điểm "neo" giá trị quan trọng, chưa cần cơ cấu lại dòng tiền dù đã qua mốc kỳ vọng tháng 3/2026. Tiếp tục nắm giữ.
