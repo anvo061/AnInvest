@@ -1,19 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:30 ngày 09/09/2026
+⏱ Thời gian: 16:55 ngày 09/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Iran đẩy giá dầu tiến sát mốc 100 USD/thùng:** -> Đánh giá tác động: Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm **Dầu khí (PVD, PVS, GAS, BSR)** do kỳ vọng cải thiện biên lợi nhuận trực tiếp.
-- **Kỳ vọng nâng hạng thị trường (FTSE) và dư địa chính sách tiền tệ từ Fed:** -> Đánh giá tác động: Tích cực -> Dòng tiền ngoại và khối nội dẫn dắt hướng vào nhóm **Chứng khoán (SSI, VND)** và **Blue-chips vốn hóa lớn (VCB, HPG, VHM)**.
+- Giá dầu thế giới áp sát mốc 100 USD/thùng do căng thẳng địa chính trị Mỹ - Iran -> [Đánh giá tác động: Tích cực ngắn hạn cho nhóm dầu khí; Tiêu cực cho nhóm bán lẻ và vận tải do áp lực chi phí đầu vào] -> [Dòng tiền sẽ phân hóa mạnh vào nhóm thượng nguồn (PVD, PVS, GAS) và rút khỏi nhóm tiêu dùng bị ảnh hưởng bởi lạm phát chi phí].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu neo sát 100 USD, nhu cầu khoan và giá thuê giàn khoan cải thiện.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ biến động giá dầu thế giới, kỳ vọng dòng tiền đầu cơ nhóm dầu khí bùng nổ.
-  - Hành động: **Chú ý giải ngân** theo đà tăng, chú ý quản trị rủi ro tại vùng kháng cự kỹ thuật.
-- **Mã: MIC**
-  - Động lực (FA): Bị loại khỏi danh sách giao dịch ký quỹ (margin).
-  - Nhận định dòng tiền: Áp lực bán giải chấp từ tài khoản dùng đòn bẩy sẽ gia tăng, thanh khoản đầu cơ sẽ cạn kiệt.
-  - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu đang nắm giữ.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu duy trì đà tăng mạnh, trực tiếp cải thiện biên lợi nhuận cho thuê giàn khoan.
+- Nhận định dòng tiền: Dòng tiền đầu cơ đang có xu hướng trú ẩn vào nhóm dầu khí khi thị trường chung (VN-Index) phát tín hiệu "bull trap" và điều chỉnh.
+- Hành động: **Chú ý giải ngân** nếu kiểm định lại vùng hỗ trợ kỹ thuật, ưu tiên vị thế ngắn hạn theo sóng giá dầu.
 
-🔄 3. Cảnh báo Tái cơ cấu (BSR):
-- **Nhận định:** Dữ liệu giá dầu thế giới tăng cao (tiến sát 100 USD) củng cố nền tảng cơ bản cho BSR trong quý 3/2026. Dù đã quá hạn mục tiêu trung hạn tháng 3/2026, nhưng với xung lực giá dầu hiện tại, **khuyến nghị tiếp tục nắm giữ** để tối ưu hóa lợi nhuận theo sóng năng lượng, chưa cần thiết phải cơ cấu đảo dòng tiền sang nhóm khác lúc này.
+- Mã: **GMD**
+- Động lực (FA): Dự án logistics quy mô 1 tỷ USD từ hệ sinh thái TikTok tại TP.HCM.
+- Nhận định dòng tiền: Thông tin tích cực tạo kỳ vọng tăng trưởng dài hạn, có khả năng giữ nhịp cho cổ phiếu trước áp lực rung lắc của chỉ số chung.
+- Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng nền giá, kỳ vọng vào sự chuyển dịch của dòng tiền thông minh vào nhóm hạ tầng logistics.
+
+- Mã: **TRC**
+- Động lực (FA): Áp lực bán tháo mạnh trước ngày chốt quyền thưởng 300%.
+- Nhận định dòng tiền: Tâm lý "tin ra là bán" và lo ngại pha loãng đang chiếm ưu thế, áp đảo hoàn toàn kỳ vọng cổ tức.
+- Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng để tránh bẫy thanh khoản.
