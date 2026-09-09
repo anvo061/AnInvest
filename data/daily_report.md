@@ -1,24 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 09/09/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 07:45 - 09/09/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động thực tế chạm mốc 9,4%/năm -> [Tác động: Tiêu cực] -> [Dòng tiền: Áp lực rút ròng từ chứng khoán để quay lại kênh tiết kiệm; nhóm Tài chính - Ngân hàng chịu áp lực chi phí vốn tăng cao].
-- Đề xuất hạ ngưỡng miễn thuế nhập khẩu hàng giá rẻ -> [Tác động: Tích cực] -> [Dòng tiền: Nhóm Bán lẻ (MWG, MSN) được kỳ vọng hưởng lợi nhờ giảm áp lực cạnh tranh từ TMĐT xuyên biên giới].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tin tức:** Giá dầu thế giới tiến sát mốc 100 USD/thùng. -> **Đánh giá tác động:** Tích cực -> **Dòng tiền:** Hướng mạnh vào nhóm Dầu khí (PVD, PVS, BSR, GAS).
+- **Tin tức:** Lãi suất huy động thực nhận neo cao ở mức 9,4%/năm. -> **Đánh giá tác động:** Tiêu cực (tạo áp lực chi phí vốn lên doanh nghiệp và giảm sức hấp dẫn của dòng tiền vào kênh chứng khoán).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **KLB**
-  - Động lực (FA): HoSE cắt margin.
-  - Nhận định dòng tiền: Rủi ro bán giải chấp ngắn hạn cao, mất thanh khoản đòn bẩy.
-  - Hành động: **Rủi ro vi phạm kịch bản** – Cần xem xét hạ tỷ trọng nếu đang nắm giữ.
-- Mã: **SSI**
-  - Động lực (FA): Khối tự doanh bán ròng mạnh phiên 8/9.
-  - Nhận định dòng tiền: Áp lực cung kỹ thuật tại vùng cản, cản trở nhịp hồi phục.
-  - Hành động: **Tiếp tục quan sát** – Chờ kiểm chứng vùng hỗ trợ, chưa nên giải ngân mới.
-- Mã: **VNT**
-  - Động lực (FA): Được đưa ra khỏi diện cảnh báo.
-  - Nhận định dòng tiền: Tín hiệu kỹ thuật tích cực, khả năng dòng tiền đầu cơ sẽ quay lại nhờ được cấp lại margin.
-  - Hành động: **Chú ý giải ngân** – Quản trị rủi ro theo tín hiệu dòng tiền trong phiên.
-- Mã: **MWG, MSN**
-  - Động lực (FA): Chính sách bảo vệ thị phần bán lẻ nội địa (hạ ngưỡng miễn thuế nhập khẩu).
-  - Nhận định dòng tiền: Hỗ trợ tâm lý ngắn hạn, kỳ vọng dòng tiền khối nội nâng đỡ.
-  - Hành động: **Chú ý giải ngân** – Ưu tiên các nhịp điều chỉnh trong phiên để gia tăng vị thế.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** PVD
+- **Động lực (FA):** Đơn giá cho thuê giàn khoan tăng mạnh theo giá dầu thế giới, trực tiếp cải thiện biên lợi nhuận cốt lõi.
+- **Nhận định dòng tiền:** Hưởng lợi từ sự kỳ vọng về kết quả kinh doanh tăng trưởng, dòng tiền sẽ ưu tiên các mã có tính beta cao với giá dầu.
+- **Hành động:** Chú ý giải ngân nếu giá cổ phiếu vượt kháng cự gần nhất với thanh khoản thuyết phục.
+
+- **Mã:** KLB
+- **Động lực (FA):** Bị HoSE cắt margin.
+- **Nhận định dòng tiền:** Áp lực bán từ nhà đầu tư sử dụng đòn bẩy sẽ gia tăng, thanh khoản khả năng cao bị thu hẹp đáng kể.
+- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng tại các vùng hỗ trợ cứng.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã: BSR**
+- **Nhận định:** Tin tức giá dầu tiến sát 100 USD là động lực vĩ mô cực kỳ thuận lợi cho biên lợi nhuận lọc dầu (crack spread) của BSR. Mặc dù đã qua kỳ vọng của tháng 3/2026, nhưng với dữ liệu giá dầu hiện tại, vị thế BSR cần được **giữ lại và ưu tiên gia tăng tỷ trọng** nếu dòng tiền duy trì mạnh, thay vì cơ cấu thoái vốn.

@@ -1,5 +1,123 @@
 ﻿[
   {
+    "Title": "E1VFVN30: Kết thúc giao dịch hoán đổi ngày 07/09/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEJzTF9TRUFiWVdCd2U4aEJ6TTRXblRuZzFybDdodTBzQVFIWlM5OHZ3TnVuTzA1bXFmcHFQc2xGTWNPVy1EUW9TcTd5NklBS2ZBZkExQm1xOXhPZTUwVGlmb2x4LXFwRlN3Zy1TRFZaRU9nSm8zUjc5NzY1eHAwRjBTSGxvZjFyazM5d0FZQ1c2SDlKZG5nVS1GR0ZFVlZ0bXJfVFVWY185TVR0OEJFZ1l3ZVV3dw?oc=5",
+    "PubDate": "Tue, 08 Sep 2026 10:14:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin vận hành định kỳ của quỹ ETF, không phản ánh thay đổi về danh mục đầu tư hay tác động đến giá trị nội tại của các cổ phiếu thành phần trong rổ VN30.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm VN30. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không tạo ra biến động dòng tiền bất thường hay thay đổi xu hướng giá của các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 07:37:45"
+  },
+  {
+    "Title": "FUEVFVND: Kết thúc giao dịch hoán đổi ngày 07/09/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHJ3Q3RNOUlSUk5LX0kxV3F4RndSVWxqbG1qQkxLSEhQUWx1TldJbFNKdm9TTldzQnp0QWYxV29pekdyaWJqTGg5ak8zZmV3bkJWYVVUY1djYWJzTUotbzdpLXZTZmFMSFhEUDY1alZIYkMyS3F6MnBLbzNjZTloYThCN08tVVlPYzFQM2gwN0V1YjZhZWdOMklTSC1wUDNuU0tPcVpGVWk0cG1LUXF1dEdoOEdfdw?oc=5",
+    "PubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ về hoạt động của quỹ ETF, không tác động đến giá trị tài sản ròng hay hoạt động kinh doanh của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ thông thường của quỹ ETF, không tạo ra biến động dòng tiền hay thay đổi xu hướng giá trên thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 07:37:35"
+  },
+  {
+    "Title": "Giá dầu tiến sát 100 USD, cổ phiếu năng lượng đua nhau bứt phá",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/gia-dau-tien-sat-100-usd-co-phieu-nang-luong-dua-nhau-but-pha-10026090815454667.htm",
+    "PubDate": "9/8/2026 4:10:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Giá dầu neo cao trực tiếp cải thiện biên lợi nhuận cho các doanh nghiệp thượng nguồn và dịch vụ dầu khí, đồng thời tạo hiệu ứng tâm lý tích cực cho nhóm cổ phiếu năng lượng.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dầu khí. Giá dầu tiệm cận 100 USD hỗ trợ biên lợi nhuận thượng nguồn. Dòng tiền tập trung vào PVD, PVS. Lưu ý rủi ro chi phí đầu vào với nhóm hạ nguồn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đơn giá cho thuê giàn khoan tăng mạnh theo giá dầu, trực tiếp cải thiện biên lợi nhuận."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khối lượng công việc dịch vụ dầu khí tăng và giá dịch vụ neo cao."
+      },
+      {
+        "Ticker": "BSR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Biên lợi nhuận lọc dầu (crack spread) được cải thiện khi giá dầu tăng."
+      },
+      {
+        "Ticker": "GAS",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giá bán khí đầu ra thường neo theo giá dầu thế giới, giúp tăng doanh thu và lợi nhuận."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 07:36:44"
+  },
+  {
+    "Title": "Tân Sơn Nhất, Nội Bài, Đà Nẵng cải thiện kết nối hàng không nổi bật châu Á",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tan-son-nhat-noi-bai-da-nang-cai-thien-ket-noi-hang-khong-noi-bat-chau-a-100260908153955026.htm",
+    "PubDate": "9/8/2026 4:20:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc cải thiện kết nối hàng không quốc tế giúp tăng lưu lượng hành khách, thúc đẩy doanh thu dịch vụ tại các cảng hàng không và hỗ trợ ngành du lịch, dịch vụ hàng không phục hồi mạnh mẽ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR hạ tầng, không tác động trực tiếp đến biên lợi nhuận ngắn hạn. Chỉ theo dõi ACV, loại bỏ các mã dịch vụ phụ trợ do thiếu động lực dòng tiền tức thời.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "ACV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ lưu lượng hành khách quốc tế tăng, thúc đẩy doanh thu dịch vụ sân bay."
+      }
+    ],
+    "AnalyzedAt": "2026-09-09 07:36:25"
+  },
+  {
+    "Title": "Chứng khoán 9-9: Thanh khoản chưa cải thiện, VN-Index có vượt được vùng 1.850 điểm?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/chung-khoan-9-9-thanh-khoan-chua-cai-thien-vn-index-co-vuot-duoc-vung-1850-diem-100260908232843134.htm",
+    "PubDate": "9/9/2026 7:15:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức mang tính chất nhận định thị trường chung, không chứa thông tin mới về vĩ mô hay doanh nghiệp có khả năng thay đổi xu hướng dòng tiền hiện tại.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Thanh khoản thấp phản ánh tâm lý thận trọng. Dòng tiền thông minh đứng ngoài quan sát vùng kháng cự, chưa có tín hiệu bứt phá rõ ràng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 07:36:13"
+  },
+  {
+    "Title": "Doanh nghiệp Quốc gia: Bài học từ các nền kinh tế lớn",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/doanh-nghiep-quoc-gia-bai-hoc-tu-cac-nen-kinh-te-lon-2552962.html",
+    "PubDate": "Tue, 08 Sep 2026 09:01:21 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Bài viết mang tính chất lý luận, phân tích vĩ mô về mô hình doanh nghiệp quốc gia, không đưa ra chính sách cụ thể hay tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Bài viết mang tính học thuật, không có thông tin định hướng dòng tiền ngắn hạn. Bỏ qua tác động.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 07:36:02"
+  },
+  {
+    "Title": "Sầu riêng 25.000 đồng/kg hút khách, loại cao cấp giá tới 1,8 triệu đồng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/sau-rieng-25-000-dong-kg-hut-khach-loai-cao-cap-gia-toi-1-8-trieu-dong-2553079.html",
+    "PubDate": "Wed, 09 Sep 2026 05:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về giá bán lẻ sầu riêng trên thị trường nội địa không phản ánh trực tiếp biên lợi nhuận xuất khẩu hay doanh thu của các doanh nghiệp nông nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Giá bán lẻ nội địa biến động không tác động đến biên lợi nhuận xuất khẩu của các doanh nghiệp lớn. Dòng tiền không phản ứng.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-09 07:35:50"
+  },
+  {
     "Title": "FUESSVFL: Kết thúc giao dịch hoán đổi ngày 07/09/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGh1cUJCdFRHN1BLTnYzTWMwaVN1U0RSeUNjODhWTnZZdHk5SnpJN0prdmM1UUFTZy1wMkFQR2RVWUpWMzNjTHlienJNQ1FZcDdQQjNoVkJHWkctX3B5dEZHX2tUZmVQTWNnUmw4Vy1XMUlQSWZEbVRTai1vdkhEdVlZN01tZXdjaWZxd0RkRDJMRmZTdk54UWlUaHpIal83WG1IODFId3B2cVJHUHM0Ym95MC1fZw?oc=5",
@@ -16611,118 +16729,5 @@
       }
     ],
     "AnalyzedAt": "2026-08-25 18:51:05"
-  },
-  {
-    "Title": "FUESSVFL: Kết thúc giao dịch hoán đổi ngày 24/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT01tbWF0SnhfV3M5MHNjQ2RFZndFZUQwTVdwa0cwaEZmQ1dTelJMcXhJUXJpU3h6UkNqOURLVm10QW16OVk0OElIV2d3bzc5VWhZclJSSVZJU3hjVi0tSDhYcTZ5ZzJ5UVJPbDAtUS1WZWhyeTM3RVhoQ1ZNODJwZHhZY29yVmhBY2lMQVVfUFlobkRGRm9mV3FtYVMzQ0d5eXpxU3BRWnVXLXRGd0tIR0xvQlR4Zw?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 10:25:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không phản ánh thay đổi về nội tại doanh nghiệp hay xu hướng vĩ mô.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ hoán đổi chứng chỉ quỹ định kỳ, không tác động đến cung cầu thực tế của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 18:50:55"
-  },
-  {
-    "Title": "FUETPVND: Kết thúc giao dịch hoán đổi ngày 24/08/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmNlS09oOWNpOHhuR0xxbVJ2Slh5Ukp6TllTc1k3TVJmZ2FsR1dkanE4aXhQOEUzU0lzSC1SdnB1bWhjS0VsUFB5VHdubDNZYVZmSERYZGNxUFE2TXhkdGEzOFhFMlQ4SDdIYmJtOXJTTFpoRUxtckNNekV0UmJoY0xvSVhGa283YkpVdGtHd0FWbkRqZjNmc3ZZMElyV19VNWdxVEtGTWVWSFJNd3pjX25xc2h6Zw?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 10:09:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin nghiệp vụ định kỳ của quỹ ETF, không tác động đến hoạt động kinh doanh hay giá trị nội tại của các cổ phiếu thành phần trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là hoạt động nghiệp vụ quỹ ETF thông thường, không làm thay đổi cung cầu hay dòng tiền của các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 18:21:40"
-  },
-  {
-    "Title": "BSI: CBTT ký kết thỏa thuận hợp tác liên doanh với Amova Asset Management Co.,Ltd - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0RLT2tDN2NlZHBWWm5sdjNoY25rWGh4VDBobkVkR3l2N0d3LVRpak5YTGdUOE9kcVF6TkJhRWdyd1JHRlgzb2JUOHIxdXN1dC1fOWJRa0dEaG8tQ2h2dkxxYnVQNUxIV2l6eVFueDZERnlGTzhVZ1dUaGRkSWkzSG5STjJ0S2h4V0tGcUJsZkVGRmgwTGlxRi1ZN2lzUUFsSno0WThYZDhCV2VoNzkyZVNHLS1hN1N2MkNR?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 10:29:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc liên doanh với đối tác quản lý tài sản quốc tế giúp BSI mở rộng năng lực cung cấp sản phẩm tài chính, thu hút dòng vốn ngoại và cải thiện doanh thu phí dịch vụ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - BSI. Thỏa thuận hợp tác mang tính chất định hướng, chưa có tác động định lượng ngay đến biên lợi nhuận. Cần theo dõi lộ trình triển khai thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "BSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Mở rộng hệ sinh thái dịch vụ tài chính và tiềm năng thu hút dòng vốn ngoại thông qua đối tác liên doanh."
-      }
-    ],
-    "AnalyzedAt": "2026-08-25 18:21:24"
-  },
-  {
-    "Title": "FUEABVND: Thông báo giao dịch chứng chỉ quỹ của tổ chức có liên quan đến người nội bộ CTCP QLQ Đầu tư CK An Bình - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQjhmMm94aWJNd0FlY05DMXVkRDFtaVI4SXlEZHJBcTNpcmZNQmtOVlBnV0VXQUdfVUkzSFNFdUNzNFpFeWVjMUNnWWY1LXl0Q3FZZThCakNHR2ZoSkNqNVAyYUZnTWdMT0doMnR6NHlUSHR0eUx3WUJDd0kzR2JKTmhVcHVVZklOZVdTLUpyT0tkY2V2UC1OLXo3YVBlamRCaXBIbmFmeHlyaE5RM2pXSjFhTU1pUVZmT3dyUjBHSFBXYU9JQ2lTX3dlSlZvTlgyVFptakYwZ3A1MWZqS3AxM0xhT0RrWEwtekRIUy1VbVZ1YWYxZUxocFVSUjVhb2xHZHozcmE3cw?oc=5",
-    "PubDate": "Tue, 25 Aug 2026 10:15:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin giao dịch chứng chỉ quỹ của tổ chức liên quan đến người nội bộ, mang tính chất cung cấp thông tin minh bạch theo quy định, không tác động trực tiếp đến giá trị tài sản ròng hay hoạt động kinh doanh của quỹ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Quỹ ETF. Giao dịch nội bộ quỹ ETF là hoạt động quản trị thông thường, không làm thay đổi xu hướng dòng tiền hay thanh khoản của chứng chỉ quỹ FUEABVND trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 18:21:14"
-  },
-  {
-    "Title": "Prudential Việt Nam lãi lớn nhờ chứng khoán, giá trị danh mục cổ phiếu vượt mốc 23.000 tỉ",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/prudential-viet-nam-lai-lon-nho-chung-khoan-gia-tri-danh-muc-co-phieu-vuot-moc-23000-ti-100260825151641123.htm",
-    "PubDate": "8/25/2026 3:54:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc các quỹ bảo hiểm lớn gia tăng danh mục đầu tư chứng khoán cho thấy niềm tin vào thị trường, tạo hiệu ứng tâm lý tích cực và củng cố thanh khoản cho các mã bluechip trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất báo cáo tài chính định kỳ của định chế bảo hiểm, không phản ánh dòng tiền mới vào thị trường. Tác động tâm lý không đáng kể.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 18:20:56"
-  },
-  {
-    "Title": "Xây dựng cán bộ quản trị và doanh nhân hợp tác xã thế hệ mới có tâm, có tầm",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/xay-dung-can-bo-quan-tri-va-doanh-nhan-hop-tac-xa-the-he-moi-co-tam-co-tam-100260825151126571.htm",
-    "PubDate": "8/25/2026 3:55:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin mang tính định hướng chính sách và đào tạo nhân sự cho khối hợp tác xã, không có tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có nhóm ngành hưởng lợi. Tin tức mang tính chất định hướng chính sách vĩ mô dài hạn, không tạo ra biến động dòng tiền ngắn hạn cho các mã cổ phiếu trên thị trường.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-25 18:20:46"
-  },
-  {
-    "Title": "Khối ngoại mua ròng 3 phiên liên tiếp, gần 570 tỉ đồng chảy vào cổ phiếu nào?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/khoi-ngoai-mua-rong-3-phien-lien-tiep-gan-570-ti-dong-chay-vao-co-phieu-nao-100260825155700956.htm",
-    "PubDate": "8/25/2026 4:16:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc khối ngoại quay lại mua ròng liên tiếp cải thiện tâm lý thị trường, giảm áp lực bán tháo và hỗ trợ thanh khoản cho các mã vốn hóa lớn (Bluechips).",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Dòng tiền ngoại mua ròng 3 phiên chưa đủ xác nhận xu hướng đảo chiều dài hạn. Cần quan sát thêm sự đồng thuận của dòng tiền nội tại các vùng kháng cự quan trọng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thường là tâm điểm mua ròng của khối ngoại nhờ thanh khoản cao và vị thế đầu ngành."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn thường được khối ngoại gom mạnh khi thị trường hồi phục."
-      },
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Trụ cột ngân hàng thu hút dòng vốn ngoại dài hạn, giúp ổn định chỉ số VN-Index."
-      }
-    ],
-    "AnalyzedAt": "2026-08-25 18:20:29"
   }
 ]
