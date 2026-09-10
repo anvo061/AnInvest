@@ -1,24 +1,37 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:30 - 10/09/2026
+⏱ Thời gian: 20:50 - 10/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giá dầu neo trên 100 USD/thùng và lãi suất huy động neo cao:** Tác động tiêu cực lên biên lợi nhuận nhóm sản xuất (HPG, VNM) và ngân hàng (TCB, MBB), đồng thời gây áp lực lên chi phí vốn toàn thị trường.
-- **Thỏa thuận kho dự trữ dầu chiến lược Nga-Việt:** Đánh giá Tích cực cho hạ tầng năng lượng, củng cố vị thế nhóm dầu khí thượng nguồn.
-- **Chính sách ưu đãi khu kinh tế đặc biệt:** Đánh giá Tích cực, dòng tiền dự báo luân chuyển mạnh vào nhóm Bất động sản khu công nghiệp (KBC, SZC).
+- **Giá dầu thế giới neo trên 100 USD/thùng**: Tác động tiêu cực đến chi phí đầu vào doanh nghiệp sản xuất (HPG, VNM) nhưng tạo xung lực tích cực cho nhóm Dầu khí thượng nguồn (PVD, PVS).
+- **Thỏa thuận kho dự trữ dầu chiến lược Nga-Việt**: Tác động tích cực đến an ninh năng lượng; mở ra dư địa hạ tầng cho nhóm hạ nguồn và dịch vụ kỹ thuật dầu khí (PVS, BSR).
+- **Cơ chế đặc thù thu hút FDI tại TP.HCM**: Tác động tích cực đến nhóm Bất động sản Khu công nghiệp và Logistics.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: DGW**
-    - Động lực (FA): Lực mua ròng mạnh từ khối ngoại (85 tỷ đồng) và thanh khoản đột biến.
-    - Nhận định dòng tiền: Dòng tiền thông minh đang xác nhận xu hướng tăng giá ngắn hạn cực mạnh.
-    - Hành động: Chú ý giải ngân theo đà tăng (momentum), canh nhịp điều chỉnh trong phiên để gia tăng tỷ trọng.
-- **Mã: PVD / PVS**
-    - Động lực (FA): Giá dầu duy trì mức cao trên 100 USD hỗ trợ trực tiếp biên lợi nhuận dịch vụ giàn khoan và dự án hạ tầng.
-    - Nhận định dòng tiền: Dòng tiền trú ẩn an toàn và tìm kiếm lợi nhuận từ biến động giá năng lượng.
-    - Hành động: Tiếp tục quan sát để nắm giữ, ưu tiên các nhịp rung lắc để gom thêm.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu duy trì >100 USD/thùng thúc đẩy nhu cầu thuê giàn khoan và tăng đơn giá dịch vụ.
+  - Nhận định dòng tiền: Dòng tiền có xu hướng hội tụ mạnh do hưởng lợi kép từ giá dầu và bối cảnh đầu tư dầu khí.
+  - Hành động: **Chú ý giải ngân** (theo dõi sát biến động vùng cản kỹ thuật).
+
+- **Mã: PVS**
+  - Động lực (FA): Hưởng lợi từ cả giá dầu cao và dự án kho dự trữ chiến lược mới ký kết.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại quay lại nhóm hạ tầng dầu khí.
+  - Hành động: **Chú ý giải ngân**.
+
+- **Mã: HPG**
+  - Động lực (FA): Giá dầu cao làm tăng áp lực chi phí sản xuất thép.
+  - Nhận định dòng tiền: Áp lực điều chỉnh ngắn hạn khi chi phí đầu vào bất lợi.
+  - Hành động: **Tiếp tục quan sát** (chưa nên gia tăng vị thế).
+
+- **Mã: BCC**
+  - Động lực (FA): Áp lực cạnh tranh tăng cao từ nhà máy ngoại trong bối cảnh dư cung.
+  - Nhận định dòng tiền: Dòng tiền suy yếu, áp lực bán có thể gia tăng.
+  - Hành động: **Rủi ro vi phạm kịch bản** (thận trọng giữ tỷ trọng thấp).
+
 - **Mã: TVC**
-    - Động lực (FA): Cắt margin, không đủ điều kiện giao dịch ký quỹ.
-    - Nhận định dòng tiền: Áp lực bán giải chấp từ nhà đầu tư sử dụng đòn bẩy sẽ làm suy yếu thanh khoản ngắn hạn.
-    - Hành động: Rủi ro vi phạm kịch bản, cần quản trị rủi ro chặt chẽ, cân nhắc hạ tỷ trọng.
+  - Động lực (FA): Cắt Margin (không đủ điều kiện giao dịch ký quỹ).
+  - Nhận định dòng tiền: Áp lực bán giải chấp từ nhà đầu tư sử dụng đòn bẩy.
+  - Hành động: **Cơ cấu/Thoát vị thế**.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Tin tức về thỏa thuận kho dự trữ dầu chiến lược mang tính hỗ trợ dài hạn cho ổn định công suất. Dữ liệu hiện tại cho thấy doanh nghiệp hưởng lợi từ tối ưu hóa vận hành, giữ nguyên vị thế mục tiêu trung hạn.
+- **Mã: BSR**
+  - Nhận định: Thỏa thuận kho dự trữ chiến lược là tín hiệu tích cực về dài hạn giúp tối ưu hóa công suất nhà máy. Tuy nhiên, cần đối chiếu với giá dầu neo cao (áp lực chi phí đầu vào). **Khuyến nghị: Nắm giữ** để quan sát phản ứng dòng tiền tại vùng hỗ trợ, chưa cần cơ cấu lại lúc này.
