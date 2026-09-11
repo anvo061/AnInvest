@@ -1,21 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:45 - 11/09/2026
+⏱ Thời gian: 13:35
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất liên ngân hàng giảm mạnh:** Dấu hiệu thanh khoản hệ thống dư thừa -> [Đánh giá: Tích cực] -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng, Chứng khoán).
-- **Áp lực nợ xấu BĐS & Chi phí vốn tăng:** Ngược chiều với chính sách tiền tệ, gây rủi ro pha loãng và trích lập cho các ngân hàng có tỷ trọng cho vay BĐS cao -> [Đánh giá: Tiêu cực] -> Nhóm Ngân hàng/BĐS phân hóa mạnh, rủi ro điều chỉnh.
-- **Thuế quan & Chi phí nhiên liệu:** Gây áp lực trực tiếp lên biên lợi nhuận nhóm Xuất khẩu (VHC, TNG) và Logistics (GMD, HAH) -> [Đánh giá: Tiêu cực].
+- Giá dầu thế giới thiết lập mức cao nhất 4 tháng -> [Đánh giá: Tích cực] -> Dòng tiền sẽ tập trung mạnh vào nhóm năng lượng, hạ nguồn và dịch vụ dầu khí (PVS, PVD, GAS, BSR).
+- Rủi ro thuế quan (Tariffs) theo Reuters và biến động chi phí vận tải nội địa -> [Đánh giá: Tiêu cực] -> Áp lực lên nhóm Xuất khẩu (VHC, TNG) và Logistics (GMD, HAH) do biên lợi nhuận bị bào mòn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VIX**
-    - Động lực (FA): Được chấp thuận tăng vốn điều lệ.
-    - Nhận định dòng tiền: Tích cực trong trung hạn nhờ nâng cao năng lực Margin, nhưng ngắn hạn sẽ chịu áp lực rung lắc theo xu hướng điều chỉnh chung của thị trường.
-    - Hành động: Tiếp tục quan sát vùng hỗ trợ, chờ xác nhận dòng tiền vào sau khi tin tức phản ánh vào giá.
-- **Mã: SSI**
-    - Động lực (FA): Hưởng lợi từ thanh khoản ngân hàng dồi dào, nhưng chịu áp lực từ dự báo "tiền không còn rẻ" nửa cuối tháng 9.
-    - Nhận định dòng tiền: Giằng co mạnh giữa nhu cầu Margin và áp lực rút vốn.
-    - Hành động: Theo dõi chặt chẽ kịch bản thị trường chung, rủi ro vi phạm kịch bản nếu VN-Index mất mốc hỗ trợ cứng.
-- **Mã: GMD**
-    - Động lực (FA): Bị tác động kép từ thuế quan (giảm sản lượng) và giá xăng dầu tăng (tăng chi phí vận hành).
-    - Nhận định dòng tiền: Tiêu cực, áp lực bán có thể gia tăng.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
+- Mã: **PVD, PVS, GAS**
+- Động lực (FA): Giá dầu thế giới duy trì đà tăng mạnh, tối ưu hóa giá thuê giàn khoan và biên lợi nhuận kỳ vọng.
+- Nhận định dòng tiền: Dòng tiền có tính lan tỏa cao trong nhóm năng lượng; dự kiến thu hút dòng vốn đầu cơ mạnh ngay trong phiên.
+- Hành động: Chú ý giải ngân theo đà tăng (Breakout) nhưng kiểm soát tỷ trọng do rủi ro thị trường chung (áp lực từ các mã bị cắt margin/thoái vốn).
+
+- Mã: **VCI**
+- Động lực (FA): Cổ đông lớn (công ty bà Nguyễn Thanh Phượng) đăng ký thoái toàn bộ vốn.
+- Nhận định dòng tiền: Áp lực cung tiềm năng lớn trong ngắn hạn, gây rủi ro tâm lý tiêu cực.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quan sát, tránh bắt đáy khi áp lực cung chưa được hấp thụ.
+
+- Mã: **SHS**
+- Động lực (FA): Thông báo thưởng cổ phiếu tăng vốn điều lệ.
+- Nhận định dòng tiền: Tạo xung lực tâm lý tích cực, hỗ trợ thanh khoản ngắn hạn.
+- Hành động: Tiếp tục quan sát phản ứng tại vùng cản kỹ thuật.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dữ liệu giá dầu tăng là yếu tố cộng hưởng mạnh cho giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Với vị thế mục tiêu trung hạn đến 2026, đây là tín hiệu củng cố sức khỏe tài chính doanh nghiệp. **Khuyến nghị: Tiếp tục nắm giữ, chưa cần cơ cấu.**
