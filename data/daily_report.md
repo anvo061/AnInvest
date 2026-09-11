@@ -1,16 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:45 ngày 11/09/2026
+⏱ Thời gian: 08:45 - 11/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kỳ vọng nâng hạng thị trường:** Các động thái chuẩn bị hạ tầng và nguồn lực của nhóm CTCK trước thềm nâng hạng đang tạo hiệu ứng tâm lý tích cực lên dòng vốn ngoại. -> [Tác động: Tích cực] -> [Dòng tiền kỳ vọng hướng vào: Nhóm Chứng khoán (SSI, VCI, HCM, VND) và nhóm vốn hóa lớn (VCB, VHM)].
+- **Lãi suất liên ngân hàng giảm mạnh:** Dấu hiệu thanh khoản hệ thống dư thừa -> [Đánh giá: Tích cực] -> Dòng tiền ưu tiên nhóm Tài chính (Ngân hàng, Chứng khoán).
+- **Áp lực nợ xấu BĐS & Chi phí vốn tăng:** Ngược chiều với chính sách tiền tệ, gây rủi ro pha loãng và trích lập cho các ngân hàng có tỷ trọng cho vay BĐS cao -> [Đánh giá: Tiêu cực] -> Nhóm Ngân hàng/BĐS phân hóa mạnh, rủi ro điều chỉnh.
+- **Thuế quan & Chi phí nhiên liệu:** Gây áp lực trực tiếp lên biên lợi nhuận nhóm Xuất khẩu (VHC, TNG) và Logistics (GMD, HAH) -> [Đánh giá: Tiêu cực].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: POM**
-- **Động lực (FA):** Được Vinhomes hỗ trợ tài chính 1.100 tỉ đồng, giúp giảm áp lực nợ vay và duy trì hoạt động sản xuất.
-- **Nhận định dòng tiền:** Tin tức giúp giải tỏa tâm lý lo ngại về thanh khoản ngắn hạn, có khả năng kích hoạt dòng tiền đầu cơ bắt đáy. 
-- **Hành động:** Quan sát lực cầu tại vùng hỗ trợ kỹ thuật; thận trọng với biên độ biến động mạnh do đây là tín hiệu phục hồi từ khó khăn tài chính kéo dài.
-
-- **Mã: HEV**
-- **Động lực (FA):** Cổ phiếu bị đưa vào diện cảnh báo do yếu kém trong năng lực tài chính và tuân thủ quy định.
-- **Nhận định dòng tiền:** Áp lực bán tháo gia tăng, rủi ro thanh khoản cao.
-- **Hành động:** Tránh xa hoặc thoát vị thế ngay khi có thanh khoản; không bắt đáy cổ phiếu đang bị kiểm soát/cảnh báo.
+- **Mã: VIX**
+    - Động lực (FA): Được chấp thuận tăng vốn điều lệ.
+    - Nhận định dòng tiền: Tích cực trong trung hạn nhờ nâng cao năng lực Margin, nhưng ngắn hạn sẽ chịu áp lực rung lắc theo xu hướng điều chỉnh chung của thị trường.
+    - Hành động: Tiếp tục quan sát vùng hỗ trợ, chờ xác nhận dòng tiền vào sau khi tin tức phản ánh vào giá.
+- **Mã: SSI**
+    - Động lực (FA): Hưởng lợi từ thanh khoản ngân hàng dồi dào, nhưng chịu áp lực từ dự báo "tiền không còn rẻ" nửa cuối tháng 9.
+    - Nhận định dòng tiền: Giằng co mạnh giữa nhu cầu Margin và áp lực rút vốn.
+    - Hành động: Theo dõi chặt chẽ kịch bản thị trường chung, rủi ro vi phạm kịch bản nếu VN-Index mất mốc hỗ trợ cứng.
+- **Mã: GMD**
+    - Động lực (FA): Bị tác động kép từ thuế quan (giảm sản lượng) và giá xăng dầu tăng (tăng chi phí vận hành).
+    - Nhận định dòng tiền: Tiêu cực, áp lực bán có thể gia tăng.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
