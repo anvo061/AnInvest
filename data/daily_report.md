@@ -1,24 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30 - 12/09/2026
+⏱ Thời gian: 06:30 - 12/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động lập đỉnh 9,46%/năm & Khối ngoại bán ròng kỷ lục 1.600 tỷ đồng/tuần:** Tác động tiêu cực trực diện, làm thay đổi định giá tài sản tài chính, đẩy dòng tiền dịch chuyển từ chứng khoán sang kênh tiền gửi và gây áp lực margin call diện rộng. -> Nhóm Ngân hàng, Bất động sản và Chứng khoán tiếp tục chịu sức ép điều chỉnh mạnh.
-- **Danh sách 72 mã bị cắt margin:** Tác động tiêu cực; làm tăng cung kỹ thuật, kích hoạt làn sóng bán giải chấp (force sell) ở các mã vốn hóa trung bình/nhỏ.
+- Khối ngoại duy trì đà bán ròng mạnh trên diện rộng (VHM, HPG, VIC, MSN, VNM) kết hợp với thông báo cắt margin của 72 mã tại HOSE -> **Tiêu cực**: Áp lực cung ngắn hạn gia tăng mạnh, gây rủi ro điều chỉnh cho chỉ số chung và các cổ phiếu vốn hóa lớn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL**
-  - Động lực (FA): Lãi suất tăng cao bào mòn lợi nhuận + nằm trong danh sách cắt margin tháng 9.
-  - Nhận định dòng tiền: Dòng tiền thoát mạnh, rủi ro bán tháo do áp lực Call Margin tăng cao.
-  - Hành động: **Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng.**
-- **Mã: PVS, GAS**
-  - Động lực (FA): Thông tin hợp tác với TotalEnergies dự án LNG Long Sơn.
-  - Nhận định dòng tiền: Có tính chất phòng thủ và động lực tăng trưởng thực tế, dòng tiền khả năng phân hóa tốt hơn so với thị trường chung.
-  - Hành động: **Tiếp tục quan sát vùng hỗ trợ kỹ thuật; chưa giải ngân mới.**
-- **Mã: TCB**
-  - Động lực (FA): Mở rộng thanh toán CNY (tăng thu phí dịch vụ) nhưng chịu áp lực bán ròng mạnh của khối ngoại trong nhịp giảm của nhóm ngân hàng.
-  - Nhận định dòng tiền: Bị nhiễu bởi áp lực bán từ khối ngoại bất chấp câu chuyện tăng trưởng mảng dịch vụ.
-  - Hành động: **Tiếp tục quan sát.**
+- **Mã: VCI**
+  - Động lực (FA): Thông tin cổ đông lớn (Bản Việt) thoái vốn.
+  - Nhận định dòng tiền: Tạo áp lực bán thô (overhang) trực tiếp lên cổ phiếu, tâm lý nhà đầu tư cá nhân sẽ suy yếu nhanh.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu giá vi phạm các ngưỡng hỗ trợ kỹ thuật gần nhất.
 - **Mã: DBC, BAF**
-  - Động lực (FA): Giá gà nhập khẩu giảm mạnh, áp lực cạnh tranh biên lợi nhuận chăn nuôi.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ suy yếu khi biên lợi nhuận bị đe dọa.
-  - Hành động: **Tiếp tục quan sát.**
+  - Động lực (FA): Gà ngoại giá rẻ tràn vào thị trường, giá gà nội địa giảm mạnh.
+  - Nhận định dòng tiền: Tác động trực tiếp vào biên lợi nhuận gộp, rủi ro điều chỉnh ngắn hạn khi báo cáo tài chính quý tới khó có đột biến tích cực.
+  - Hành động: **Tiếp tục quan sát**, không bắt đáy cho đến khi có tín hiệu ổn định lại giá bán đầu ra.
+- **Mã: PVS, GAS**
+  - Động lực (FA): Triển vọng dự án LNG Long Sơn với đối tác TotalEnergies.
+  - Nhận định dòng tiền: Tin tức hỗ trợ cơ bản dài hạn, tạo lực đỡ cho dòng tiền trung hạn bất chấp áp lực bán chung của thị trường.
+  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc do thị trường chung chiết khấu theo đà bán ròng của khối ngoại.
+- **Mã: TCB**
+  - Động lực (FA): Mở rộng dịch vụ thanh toán CNY xuyên biên giới.
+  - Nhận định dòng tiền: Củng cố nội lực ngân hàng giao dịch, tăng thu phí.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng giá hiện tại.
