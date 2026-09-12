@@ -1,27 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:30 - 12/09/2026
+⏱ Thời gian: 23:30 - 12/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Cơ chế mới đẩy nhanh giải phóng mặt bằng:** Chính phủ có động thái rút ngắn thủ tục pháp lý đất đai giúp giảm chi phí vốn -> [Đánh giá: Tích cực] -> [Dòng tiền hướng tới: Bất động sản dân dụng (VHM, KDH, NLG)].
-- **Tiến độ giải ngân đầu tư công (đạt 50% kế hoạch):** Đẩy mạnh thi công hạ tầng trong quý cuối năm -> [Đánh giá: Tích cực] -> [Dòng tiền hướng tới: Xây lắp hạ tầng (VCG, HHV)].
+- **Đẩy nhanh tiến độ giải phóng mặt bằng (theo Bloomberg):** Tác động Tích cực -> Kỳ vọng dòng tiền quay trở lại nhóm Bất động sản (VHM, KDH, NLG) nhờ giảm rủi ro pháp lý và chi phí vốn.
+- **Giải ngân đầu tư công 8 tháng đạt 50% kế hoạch:** Tác động Tích cực -> Củng cố dòng tiền cho nhóm Xây dựng hạ tầng (VCG, HHV).
+- **Petrovietnam xuất khẩu thiết bị điện gió sang Châu Âu:** Tác động Tích cực -> Mở ra dư địa tăng trưởng dài hạn cho nhóm Dịch vụ dầu khí/Năng lượng (PVS).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PVS**
+  - Động lực (FA): Lần đầu xuất khẩu thành công sản phẩm điện gió ngoài khơi sang thị trường Châu Âu.
+  - Nhận định dòng tiền: Tạo cú hích tâm lý mạnh, củng cố kỳ vọng về sự chuyển dịch doanh thu sang năng lượng tái tạo quốc tế.
+  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên tới.
 - **Mã: SSI**
-  - Động lực (FA): Thành viên HĐQT mua vào 5 triệu cổ phiếu.
-  - Nhận định dòng tiền: Tạo vùng đệm tâm lý vững chắc, giảm rủi ro điều chỉnh sâu, thu hút dòng tiền dẫn dắt nhóm chứng khoán.
-  - Hành động: Chú ý giải ngân quanh vùng nền hiện tại.
-
+  - Động lực (FA): Thành viên HĐQT mua thành công 5 triệu cổ phiếu.
+  - Nhận định dòng tiền: Tín hiệu hỗ trợ tâm lý vững chắc, củng cố vùng giá nền ngắn hạn.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi thị trường chung xác nhận xu hướng.
 - **Mã: MWG**
-  - Động lực (FA): Mở rộng hệ thống TopZone và tối ưu chính sách Apple.
-  - Nhận định dòng tiền: Củng cố biên lợi nhuận mảng bán lẻ, tạo kỳ vọng tăng trưởng doanh thu cuối năm.
-  - Hành động: Tiếp tục quan sát tín hiệu bứt phá từ vùng tích lũy.
+  - Động lực (FA): Mở rộng hệ thống TopZone và tối ưu chính sách đặt trước iPhone 18 Pro.
+  - Nhận định dòng tiền: Động lực cải thiện biên lợi nhuận quý cuối năm, thu hút dòng tiền đầu tư giá trị vào bán lẻ.
+  - Hành động: Tiếp tục quan sát.
 
-- **Mã: LDG**
-  - Động lực (FA): Rủi ro pháp lý/hủy niêm yết.
-  - Nhận định dòng tiền: Tiêu cực, rủi ro mất thanh khoản cao.
-  - Hành động: Rủi ro vi phạm kịch bản (né tránh tuyệt đối).
-
-- **Mã: VCG, HHV**
-  - Động lực (FA): Hưởng lợi từ tốc độ giải ngân đầu tư công nửa cuối năm.
-  - Nhận định dòng tiền: Dòng tiền tập trung vào các nhà thầu có khối lượng công việc lớn.
-  - Hành động: Chú ý giải ngân theo nhịp điều chỉnh kỹ thuật.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Không có dữ liệu mới liên quan đến EIB, BSR trong danh sách đầu vào. Duy trì chiến lược hiện tại.
