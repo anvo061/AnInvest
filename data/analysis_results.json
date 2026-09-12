@@ -1,5 +1,69 @@
 ﻿[
   {
+    "Title": "PHS: Công bố thông tin về việc điều chỉnh giá thực hiện, tỷ lệ chuyển đổi của chứng quyền có bảo đảm - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZFh0UEdCOElIREhjSm1pMDdzV0Q0OFlaLXlnenJXdV8wVXNaR1hGNWd6SjJ1T0RsQ2RYVzJuRXVRdUJxUkFiQXE1WXdReGoweW05dDlwcHlRT3RsNnBTQWd4d2ZuUEJYVjduMjk3Q3MxZ1J2VFNLUGZ0UmZWOTd1dFVoSEkyLWREamlXdnotSGdKZExYSkpERG1rdUFGUndVTmZWTS04bFlGR3ltM1VVTzQyV05odzA1ZDBkOWNFRE8wVEluUmlHcDhHX0h3NVFPeF9jSE5lbndMbGZkS0NlN0RFcE9rbHpOc1kwb1dLVQ?oc=5",
+    "PubDate": "Fri, 11 Sep 2026 08:07:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính định kỳ liên quan đến nghiệp vụ chứng quyền của công ty chứng khoán, không tác động đến hoạt động kinh doanh cốt lõi hay giá cổ phiếu của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ điều chỉnh kỹ thuật chứng quyền thông thường, không tạo ra biến động dòng tiền trên thị trường cơ sở. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-13 05:44:15"
+  },
+  {
+    "Title": "HOSE: SGDCK TP.HCM dừng xem xét hồ sơ đăng ký niêm yết - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1QydlM4ZTNMM3BWOFRSRDdSQ0NHdXJTUFlCMUtUZllKMVNpS1c4NU8yQkpXOVNic01SdG8xNzk3cldqang1d3lCUHhxMTl0MEQyZG82eWlTUXcxVnY1SVVKVU1XZHhCYjdabmdPQXhxc2RzWXJNWV94V0JINy14RlVwUWlPdnc1Z3ZYdkRMeXIzZnM4OE00Q18yTDVoNktxbGhZVDVicTdOOVNkX3g5aV9lbw?oc=5",
+    "PubDate": "Fri, 11 Sep 2026 08:33:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về quy trình quản lý hồ sơ niêm yết của Sở Giao dịch, không tác động trực tiếp đến hoạt động kinh doanh hay dòng tiền của các doanh nghiệp đang niêm yết trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là quy trình hành chính nội bộ của HOSE, không tác động đến thanh khoản hay xu hướng giá của các mã cổ phiếu hiện hữu trên sàn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-13 05:44:03"
+  },
+  {
+    "Title": "NDX: 18.9.2026, ngày GDKHQ trả cổ tức năm 2025 (500 đ/cp) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjhYemlCaFplcjBfbWk1VkNpLTZSSUtkSUdZOURVelRXYlZLaUdjOGpNRkRCa19aaTFMcVJpbHJua3RuZC1hZ1hJa2MzQ05FcUJaXzRsa2xOc3RkSXpocmowMElPZmQ0RXd5MFdybjdfOUtzT3RWZHJyWldhZVhldTEtTGFsdDNlR3l1TXlXOXlhejZIVDd1Z0d3cUp1UmE1Rzc0TFNVVVUweVhEUDRB?oc=5",
+    "PubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc trả cổ tức bằng tiền mặt là hoạt động định kỳ, phản ánh dòng tiền ổn định của doanh nghiệp nhưng không tạo ra đột biến về tăng trưởng kinh doanh.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Cổ tức tiền mặt 500đ/cp là hoạt động định kỳ, không tạo đột biến dòng tiền. Giá sẽ điều chỉnh kỹ thuật vào ngày GDKHQ. Không có tác động đầu cơ.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "NDX",
+        "ImpactType": "Trung lập",
+        "Reasoning": "Cổ tức tiền mặt là hoạt động bình thường, giá cổ phiếu sẽ điều chỉnh tương ứng vào ngày GDKHQ."
+      }
+    ],
+    "AnalyzedAt": "2026-09-13 05:43:48"
+  },
+  {
+    "Title": "Con gái bà Cao Thị Ngọc Dung đã bán 7 triệu cổ phiếu PNJ",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/con-gai-ba-cao-thi-ngoc-dung-da-ban-7-trieu-co-phieu-pnj-100260912173123089.htm",
+    "PubDate": "9/12/2026 6:47:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc người nội bộ hoặc người liên quan bán lượng lớn cổ phiếu thường tạo áp lực tâm lý ngắn hạn lên giá cổ phiếu do lo ngại về áp lực cung trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Áp lực bán từ người liên quan tạo tâm lý thận trọng ngắn hạn. Dòng tiền thông minh sẽ quan sát vùng hỗ trợ trước khi giải ngân trở lại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực cung lớn từ giao dịch bán của người liên quan có thể gây biến động giảm giá trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-09-13 05:43:29"
+  },
+  {
     "Title": "DVM: Quyết định về việc đưa vào diện bị cảnh báo và Thông báo về tình trạng chứng khoán của cổ phiếu DVM - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaWdxS0Fxb2hxS3dOZURWOEloRHdyWTBZNlNPSXBVZUg2VnRvdDJJT2sxaExEcXNKSkJERjN0V09JRmxXYWNSbHdMTU50dWswUlRMR1FrUGRCYUJoRW4yX1VVNUxMODQySVZjc1dQYXdRYjVzeTVXcW1HR3VJQWN6UUc1RHM4RWdUUXZBamFVS2t6ejU5VzBSdFE2N3UyQkxRY0tYRTBWM1dkNkVHRFJEMGZQVGJpbDVYMTNkZ2ZWV05ZU0dIOXFCNEVuYURVWmdwX2ppejlxSW1pQ1Zf?oc=5",
@@ -17211,80 +17275,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-29 05:41:44"
-  },
-  {
-    "Title": "PV GAS: Hơn 24.740 cổ đông chỉ nắm giữ 4,24% tổng số cổ phiếu",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//pv-gas-hon-24740-co-dong-chi-nam-giu-424-tong-so-co-phieu.html",
-    "PubDate": "Fri, 28 Aug 2026 03:52:06 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -7,
-    "MarketImpact": "Việc không còn đáp ứng điều kiện công ty đại chúng làm dấy lên lo ngại về tính thanh khoản và khả năng thoái vốn của cổ đông nhỏ lẻ, gây áp lực tâm lý tiêu cực lên cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - GAS. Rủi ro mất tư cách công ty đại chúng gây bất định pháp lý, đe dọa thanh khoản và quyền lợi cổ đông nhỏ lẻ. Khuyến nghị hạ tỷ trọng, quan sát chặt chẽ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GAS",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Rủi ro pháp lý về tư cách công ty đại chúng gây bất ổn tâm lý, làm giảm thanh khoản và khả năng tiếp cận vốn trên sàn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-29 05:41:29"
-  },
-  {
-    "Title": "VPB vượt MA200, thanh khoản cao nhất 5 tháng và được khối ngoại mua ròng hơn 100 tỷ đồng",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//vpb-vuot-ma200-thanh-khoan-cao-nhat-5-thang-va-duoc-khoi-ngoai-mua-rong-hon-100-ty-dong.html",
-    "PubDate": "Fri, 28 Aug 2026 03:52:34 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Việc được thêm vào rổ FTSE tạo lực cầu thụ động từ các quỹ ETF, kết hợp với tín hiệu kỹ thuật vượt MA200 giúp cải thiện tâm lý nhà đầu tư và thu hút dòng tiền lớn vào cổ phiếu ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. VPB vào rổ FTSE kích hoạt dòng vốn ETF. Vượt MA200 với thanh khoản đột biến xác nhận xu hướng tăng trung hạn. Cần theo dõi áp lực chốt lời ngắn hạn tại vùng kháng cự.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VPB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ dòng vốn ETF và sự cải thiện kỹ thuật, thu hút dòng tiền đầu cơ và dài hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-29 05:41:13"
-  },
-  {
-    "Title": "Venezuela cân nhắc rời OPEC",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/venezuela-can-nhac-roi-opec-5114614.html",
-    "PubDate": "Fri, 28 Aug 2026 15:23:13 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc Venezuela rời OPEC có thể làm suy yếu kỷ luật nguồn cung của tổ chức này, gây áp lực giảm giá dầu toàn cầu trong dài hạn, tuy nhiên tác động trực tiếp đến các doanh nghiệp dầu khí Việt Nam là không đáng kể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Tin tức mang tính địa chính trị quốc tế, chưa tác động trực tiếp đến biên lợi nhuận hay sản lượng khai thác của các mã dầu khí nội địa. Dòng tiền sẽ phản ứng thờ ơ.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-29 05:41:03"
-  },
-  {
-    "Title": "Chứng khoán có chuỗi tăng dài nhất năm",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/chung-khoan-co-chuoi-tang-dai-nhat-nam-5114608.html",
-    "PubDate": "Fri, 28 Aug 2026 15:53:30 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Chuỗi tăng điểm liên tiếp củng cố tâm lý nhà đầu tư, kích hoạt dòng tiền F0 quay lại thị trường, gia tăng thanh khoản và doanh thu phí môi giới cho các công ty chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Chuỗi tăng điểm cải thiện thanh khoản và phí môi giới. Cần thận trọng với áp lực chốt lời ngắn hạn tại các mã đầu ngành.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ sự gia tăng thanh khoản thị trường và nhu cầu sử dụng margin của nhà đầu tư."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản thị trường cải thiện giúp tăng doanh thu môi giới và lãi từ cho vay margin."
-      }
-    ],
-    "AnalyzedAt": "2026-08-29 05:40:47"
   }
 ]
