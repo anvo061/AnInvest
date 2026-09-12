@@ -1,5 +1,106 @@
 ﻿[
   {
+    "Title": "BVG: Quyết định đưa ra khỏi diện hạn chế giao dịch và Thông báo trạng thái chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGdrVnpqd1d2ZzV6UnVfRUc3Y3A4OG1kMk0tNTZCYUlJTVVieTVjeWJnWW9femprU0w3OFIwck40VG1ZV2laZl93czJjZ2pTTGVpdDZ6bUh2Mko3cEVhSHpfSE1iOHdxRV9CbjYwSWpqekU2TUxEVDJQSi1FN29XMzNpUW1WRWNOUTlfZnFCRkJmTXBEMko4dnFhOGJCaGVpUUV6U0oySFRiWFFDdks1cEJjSEp0ZjF3YkFpMTZmb0pVVWRtY2wycGt2UjRqSnZIR0RobWxVRGN6c2pzYUE?oc=5",
+    "PubDate": "Fri, 11 Sep 2026 08:27:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc đưa cổ phiếu ra khỏi diện hạn chế giao dịch giúp cải thiện thanh khoản và tâm lý nhà đầu tư đối với mã BVG, tuy nhiên không tác động đến nền tảng kinh doanh cốt lõi của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - BVG. Gỡ bỏ hạn chế giao dịch chỉ là thủ tục hành chính, không cải thiện nội tại doanh nghiệp. Thanh khoản thấp, rủi ro thanh khoản cao, không khuyến nghị giải ngân.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "BVG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Được gỡ bỏ hạn chế giao dịch giúp cải thiện tính thanh khoản và tâm lý nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-09-13 01:33:13"
+  },
+  {
+    "Title": "FTS: Quyết định của Chủ tịch HĐQT về việc vay vốn tại Ngân hàng ACB - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0taRG5MQkJ4ZkdtcU1DU2RTQlhzMUhJeU1CU2w3emh0OXRJVGZUQ25wSzRielEtLWVQeU54NGM1UjRVM01yWEJrcERWWGRraGIzM05wTkpYMzU4TUFDLW0wd21ic0hIaTh6Zm81NGtJYXFEaUZUc1RUMW81TWpyLURYR29QeF9IckQ3YnhVNTYtX0J6YzZzQkF5UDl2aFc0ZDRvN2ROcndfal9zX0F5OElpMHA0WVR0N2lHVFNfcE9ZU3U5?oc=5",
+    "PubDate": "Fri, 11 Sep 2026 10:22:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc doanh nghiệp vay vốn ngân hàng là hoạt động tài chính thông thường để bổ sung vốn lưu động hoặc mở rộng kinh doanh, không mang tính đột biến về mặt vĩ mô hay chiến lược.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Đây là nghiệp vụ tài chính thông thường nhằm tối ưu hóa vốn lưu động. Không tác động đến xu hướng dòng tiền ngắn hạn của FTS và ACB.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-13 01:33:03"
+  },
+  {
+    "Title": "VGI: Ngày đăng ký cuối cùng trả cổ tức bằng tiền mặt - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnpGXzlvSHR0ZVl6YjVNeFh2WURfeTA3TUFJTUdXNjBxV3dFY2hWbHpEUzlnRFl1SUpRUmtpRmRxYU5lTmJsVlVuNGlXbGtrRTJpdjlsMHVxNWFTdHRpZHZGTk0xRVVlTWk1bmVGaDNlbE1QY19SX0w1cF9UTDdxeG5Pb0VRdnN5djlucUJQQW8wWlF6U05QQ2xLMzdwUHNCaS16WnIxbmRxaEM2YTJ2bA?oc=5",
+    "PubDate": "Fri, 11 Sep 2026 10:47:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc chi trả cổ tức bằng tiền mặt thể hiện dòng tiền kinh doanh ổn định và cam kết lợi ích cổ đông, tạo tâm lý tích cực cho nhà đầu tư nắm giữ cổ phiếu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - VGI. Cổ tức tiền mặt đã phản ánh vào kỳ vọng, không tạo đột biến dòng tiền. Cần theo dõi phản ứng cung cầu tại vùng giá hiện tại.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VGI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Việc chi trả cổ tức bằng tiền mặt khẳng định sức khỏe tài chính và gia tăng giá trị cho cổ đông hiện hữu."
+      }
+    ],
+    "AnalyzedAt": "2026-09-13 01:32:48"
+  },
+  {
+    "Title": "Doanh thu sách giáo khoa trên chợ mạng tăng 112%, phụ huynh đang săn lùng kiểu gì?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/doanh-thu-sach-giao-khoa-tren-cho-mang-tang-112-phu-huynh-dang-san-lung-kieu-gi-100260912200134101.htm",
+    "PubDate": "9/12/2026 9:23:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Sự chuyển dịch kênh phân phối sang thương mại điện tử giúp các doanh nghiệp xuất bản và phát hành sách tối ưu hóa chi phí vận hành và mở rộng thị phần bán lẻ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tăng trưởng TMĐT là xu hướng chung, không tạo đột biến biên lợi nhuận cho các đơn vị xuất bản truyền thống. Thiếu dữ liệu về thị phần và biên lợi nhuận thực tế.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-13 01:32:29"
+  },
+  {
+    "Title": "Nam A Bank đề xuất giải pháp tài chính xanh cho cảng biển, logistics",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/nam-a-bank-de-xuat-giai-phap-tai-chinh-xanh-cho-cang-bien-logistics-2554556.html",
+    "PubDate": "Sat, 12 Sep 2026 14:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc tiếp cận nguồn vốn tín dụng xanh giúp các doanh nghiệp cảng biển và logistics giảm chi phí vốn, hỗ trợ đầu tư hạ tầng hiện đại và chuyển đổi năng lượng bền vững.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR định hướng tín dụng xanh, chưa có cam kết giải ngân cụ thể. Tác động biên lợi nhuận chưa rõ ràng trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-13 01:32:14"
+  },
+  {
+    "Title": "Cuộc đua chiếm thị phần chiếc bánh 269 tỷ USD: Các ‘ông lớn’ bán lẻ tăng tốc",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/cuoc-dua-chiem-thi-phan-chiec-banh-269-ty-usd-cac-ong-lon-ban-le-tang-toc-2554403.html",
+    "PubDate": "Sat, 12 Sep 2026 21:05:05 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Sự cạnh tranh gay gắt trong ngành bán lẻ thúc đẩy các doanh nghiệp mở rộng quy mô, tối ưu hóa chuỗi cung ứng và gia tăng thị phần, tạo động lực tăng trưởng doanh thu dài hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tổng quan ngành, thiếu dữ liệu định lượng cụ thể. Cạnh tranh gay gắt có thể làm giảm biên lợi nhuận ngắn hạn. Cần theo dõi sát biên lợi nhuận gộp của MWG, MSN.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Dẫn đầu thị phần bán lẻ điện tử và bách hóa, hưởng lợi trực tiếp từ chiến lược mở rộng quy mô."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hệ sinh thái bán lẻ WinCommerce có lợi thế về độ phủ, hưởng lợi từ xu hướng tiêu dùng hiện đại."
+      }
+    ],
+    "AnalyzedAt": "2026-09-13 01:31:55"
+  },
+  {
     "Title": "HOSE: Số liệu quản lý sở hữu của nhà đầu tư nước ngoài 11/09/2026 - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUxfSkJVTTIyQ2Rtb3dXclh6MlJNOV9LSlNqb1oxQUtUck5aejBnTjFodkd4MmJmV1FyOWhyYmN5TXBXWnF4X3A4UzNjdk5IalN5MlBUYTZfODNEOUdhVktjeWRjU2hualZHQkNJVVI5Zkkwb2RweVREUlJVSlBZUFRqdExPX0ZmQ1pCa1RaWHJiNWQ2Z280MF83cW5KZ192SE5HN0VRejEyempyWDZjU1ZzdTlnSDhCOHc1Z3lYLUw?oc=5",
@@ -17190,107 +17291,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-28 19:46:35"
-  },
-  {
-    "Title": "Cổ phiếu POM tăng trần: Khi kỳ vọng VinMetal lấn át những con số tài chính khắc nghiệt",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//co-phieu-pom-tang-tran-khi-ky-vong-vinmetal-lan-at-nhung-con-so-tai-chinh-khac-nghiet.html",
-    "PubDate": "Fri, 28 Aug 2026 07:22:16 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Kỳ vọng vào đối tác chiến lược VinMetal giúp cải thiện tâm lý nhà đầu tư đối với POM, dù tình hình tài chính doanh nghiệp vẫn đang đối mặt với nhiều khó khăn nội tại.",
-    "TapeReaderNote": "Tín hiệu: Đầu cơ. POM tăng trần dựa trên kỳ vọng tái cấu trúc VinMetal. Rủi ro cơ bản cực cao, thiếu hỗ trợ từ lợi nhuận thực tế. Khuyến nghị: Quan sát, không đuổi theo dòng tiền đầu cơ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "POM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhà đầu tư kỳ vọng vào sự tham gia của VinMetal sẽ giải quyết bài toán tài chính và vận hành của Pomina."
-      }
-    ],
-    "AnalyzedAt": "2026-08-28 19:45:54"
-  },
-  {
-    "Title": "NutiFood cùng lãnh đạo Đường Quảng Ngãi gom gần 100 tỷ đồng cổ phiếu QNS",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//nutifood-cung-lanh-dao-duong-quang-ngai-gom-gan-100-ty-dong-co-phieu-qns.html",
-    "PubDate": "Fri, 28 Aug 2026 09:03:52 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc cổ đông lớn và lãnh đạo nội bộ mua vào lượng lớn cổ phiếu cho thấy niềm tin vào giá trị nội tại của doanh nghiệp, giúp củng cố tâm lý nhà đầu tư và hỗ trợ giá cổ phiếu trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - QNS. Hành động mua gom từ cổ đông lớn và nội bộ tạo vùng đệm tâm lý vững chắc. Dòng tiền thông minh sẽ phản ứng tích cực, giảm áp lực bán tháo từ tin tức lợi nhuận suy yếu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "QNS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lực cầu từ cổ đông lớn và lãnh đạo giúp cải thiện thanh khoản và tạo vùng hỗ trợ giá vững chắc trước áp lực chi phí bán hàng."
-      }
-    ],
-    "AnalyzedAt": "2026-08-28 19:45:39"
-  },
-  {
-    "Title": "SSB “cháy hàng” sau tin vào rổ FTSE Global All Cap Index",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//ssb-chay-hang-sau-tin-vao-ro-ftse-global-all-cap-index.html",
-    "PubDate": "Fri, 28 Aug 2026 09:05:26 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Việc SSB được thêm vào rổ FTSE Global All Cap Index kích hoạt dòng vốn từ các quỹ ETF thụ động, tạo áp lực mua lớn và cải thiện thanh khoản, đồng thời củng cố tâm lý tích cực cho nhóm cổ phiếu ngân hàng.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - SSB. Dòng vốn ETF thụ động giải ngân mạnh tạo hiệu ứng 'trắng bên bán'. Dòng tiền thông minh sẽ tiếp tục bám theo xu hướng tăng ngắn hạn của SSB.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ dòng vốn mua vào của các quỹ ETF theo cơ cấu danh mục FTSE."
-      }
-    ],
-    "AnalyzedAt": "2026-08-28 19:45:16"
-  },
-  {
-    "Title": "Hơn 40.000 tỷ đồng đầu tư vào tỉnh Cà Mau",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/hon-40-000-ty-dong-dau-tu-vao-tinh-ca-mau-5114471.html",
-    "PubDate": "Fri, 28 Aug 2026 16:16:36 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Dòng vốn đầu tư lớn vào hạ tầng và năng lượng tại Cà Mau tạo động lực tăng trưởng cho các doanh nghiệp xây lắp, hạ tầng và năng lượng tại khu vực miền Tây.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng vĩ mô dài hạn, chưa có thông tin đấu thầu cụ thể. Tác động dòng tiền ngắn hạn không đáng kể.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-28 19:45:02"
-  },
-  {
-    "Title": "Chủ sở hữu Saigon Marina IFC lỗ hơn 200 tỷ đồng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/chu-so-huu-saigon-marina-ifc-lo-hon-200-ty-dong-5114652.html",
-    "PubDate": "Fri, 28 Aug 2026 16:25:38 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc chủ sở hữu dự án lớn thua lỗ phản ánh khó khăn chung của phân khúc BĐS hạng sang và áp lực chi phí tài chính, gây tâm lý thận trọng đối với các doanh nghiệp BĐS có dự án tương tự.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - BĐS. Tin tức về dự án đơn lẻ gây áp lực tâm lý ngắn hạn lên nhóm BĐS cao cấp. Cần theo dõi phản ứng dòng tiền tại các mã có đòn bẩy tài chính cao.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Tâm lý tiêu cực lan tỏa đến các doanh nghiệp có dự án BĐS cao cấp tại TP.HCM."
-      }
-    ],
-    "AnalyzedAt": "2026-08-28 19:44:45"
-  },
-  {
-    "Title": "Nhiều dự án điện trọng điểm nguy cơ chậm tiến độ",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/nhieu-du-an-dien-trong-diem-nguy-co-cham-tien-do-5114616.html",
-    "PubDate": "Fri, 28 Aug 2026 16:30:00 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Việc chậm tiến độ các dự án điện trọng điểm gây áp lực lên nguồn cung năng lượng quốc gia, ảnh hưởng tiêu cực đến triển vọng tăng trưởng doanh thu của các nhà thầu xây lắp điện và đơn vị cung ứng thiết bị.",
-    "TapeReaderNote": "Tiêu cực: Nhóm xây lắp điện (PC1, TV2). Chậm tiến độ dự án làm trì hoãn ghi nhận doanh thu, gây áp lực dòng tiền ngắn hạn. Cần theo dõi sát tiến độ giải ngân thực tế.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-28 19:44:29"
   }
 ]
