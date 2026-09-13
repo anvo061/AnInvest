@@ -1,20 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:45 - 14/09/2026
+⏱ Thời gian: 02:45 - 14/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dòng vốn FDI kỳ vọng tăng vòng quay:** Việc FDI duy trì đà tăng trưởng tạo hiệu ứng lan tỏa tích cực đến nhu cầu hạ tầng công nghiệp và dịch vụ logistics. -> **Đánh giá: Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Bất động sản Khu công nghiệp (KBC, SZC)**.
-- **Áp lực chi phí vốn ngân hàng (COF):** Các ngân hàng đẩy mạnh khuyến mại và lãi suất huy động để giữ chân tiền gửi. -> **Đánh giá: Tiêu cực (ngắn hạn)** -> Gây áp lực lên biên lãi thuần (NIM) của nhóm **Ngân hàng (VCB, TCB)** và gián tiếp cạnh tranh dòng tiền với thị trường chứng khoán.
+- **Căng thẳng địa chính trị Trung Đông (Iran tấn công căn cứ Mỹ tại Jordan):** Gây áp lực tiêu cực lên tâm lý rủi ro toàn cầu và tăng giá dầu thô -> **Đánh giá: Tiêu cực** cho chỉ số chung nhưng tạo phân hóa dòng tiền mạnh vào nhóm Dầu khí.
+- **Tiến trình nâng hạng TTCK Việt Nam:** Thu hút dòng vốn ngoại kỳ vọng vào Bluechips -> **Đánh giá: Tích cực** -> Dòng tiền hướng vào nhóm Chứng khoán (SSI) và Ngân hàng (VCB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, SZC**
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ làn sóng dịch chuyển sản xuất và nhu cầu thuê đất KCN.
-  - **Nhận định dòng tiền:** Dòng tiền đầu tư dài hạn có xu hướng gia tăng tại các cổ phiếu KCN có quỹ đất sạch lớn.
-  - **Hành động:** Chú ý giải ngân khi có nhịp chỉnh kỹ thuật.
-- **Mã: HVN, ACV**
-  - **Động lực (FA):** Vietnam Airlines đặt mua mới 5 máy bay A350-900.
-  - **Nhận định dòng tiền:** Thông tin bổ trợ tích cực cho kỳ vọng tăng trưởng lưu lượng hành khách và năng lực cạnh tranh quốc tế, thu hút dòng tiền trung hạn.
-  - **Hành động:** Tiếp tục quan sát khối lượng giao dịch.
-- **Mã: SSI, VND**
-  - **Động lực (FA):** Kỳ vọng thanh khoản thị trường cải thiện sau các động thái nới lỏng từ FED.
-  - **Nhận định dòng tiền:** Nhạy cảm với lãi suất, tuy nhiên đang gặp áp lực cung ngắn hạn theo xu hướng chung của nhóm chứng khoán.
-  - **Hành động:** Rủi ro vi phạm kịch bản nếu áp lực bán thị trường chung gia tăng; ưu tiên quản trị rủi ro.
+- **Mã: PVD**
+    - **Động lực (FA):** Giá dầu thế giới tăng sau xung đột địa chính trị.
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ sớm phản ứng với nhóm thượng nguồn do giá dầu neo cao.
+    - **Hành động:** Quan sát lực cầu tại vùng kháng cự ngắn hạn; ưu tiên nắm giữ nếu thanh khoản duy trì tích cực.
+- **Mã: SSI**
+    - **Động lực (FA):** Tin tức bổ trợ về thanh khoản thị trường giai đoạn nâng hạng.
+    - **Nhận định dòng tiền:** Dòng vốn ngoại tập trung mạnh vào các cổ phiếu đầu ngành chứng khoán.
+    - **Hành động:** Chú ý giải ngân theo nhịp rung lắc của thị trường.
+- **Mã: MWG**
+    - **Động lực (FA):** Sức mua yếu đối với mặt hàng ICT cao cấp (iPhone Air giảm giá).
+    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận mảng ICT suy giảm.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần thận trọng quan sát các ngưỡng hỗ trợ kỹ thuật cứng.
+
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- **BSR:** Tin tức về giá dầu tăng đang tạo ra hai luồng tác động trái chiều: tăng giá trị hàng tồn kho (Tích cực) đối lập với áp lực chi phí đầu vào gây thu hẹp biên lợi nhuận lọc dầu (Tiêu cực). Trong bối cảnh tháng 9/2026, khuyến nghị **cơ cấu lại một phần vị thế** để bảo toàn lợi nhuận, chờ đợi báo cáo quý sát sao hơn do biến động địa chính trị đang làm phức tạp hóa kỳ vọng biên lợi nhuận.
