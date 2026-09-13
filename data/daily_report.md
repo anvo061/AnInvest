@@ -1,23 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:45 - 14/09/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 04:50
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Trung Đông (Iran tấn công căn cứ Mỹ tại Jordan):** Gây áp lực tiêu cực lên tâm lý rủi ro toàn cầu và tăng giá dầu thô -> **Đánh giá: Tiêu cực** cho chỉ số chung nhưng tạo phân hóa dòng tiền mạnh vào nhóm Dầu khí.
-- **Tiến trình nâng hạng TTCK Việt Nam:** Thu hút dòng vốn ngoại kỳ vọng vào Bluechips -> **Đánh giá: Tích cực** -> Dòng tiền hướng vào nhóm Chứng khoán (SSI) và Ngân hàng (VCB).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Rủi ro kép từ địa chính trị (Trung Đông/Ukraine) và áp lực nhập siêu (20 tỷ USD) gây áp lực lên tỷ giá:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền thận trọng với nhóm ngành có dư nợ ngoại tệ lớn hoặc phụ thuộc nhập khẩu nguyên liệu (Điện, Thép, BĐS).]
+- **Nâng hạng thị trường & FTSE thêm 8 cổ phiếu ngân hàng:** -> [Đánh giá: Tích cực] -> [Dòng tiền tập trung vào Bluechips ngân hàng và nhóm chứng khoán.]
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - **Động lực (FA):** Giá dầu thế giới tăng sau xung đột địa chính trị.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ sớm phản ứng với nhóm thượng nguồn do giá dầu neo cao.
-    - **Hành động:** Quan sát lực cầu tại vùng kháng cự ngắn hạn; ưu tiên nắm giữ nếu thanh khoản duy trì tích cực.
-- **Mã: SSI**
-    - **Động lực (FA):** Tin tức bổ trợ về thanh khoản thị trường giai đoạn nâng hạng.
-    - **Nhận định dòng tiền:** Dòng vốn ngoại tập trung mạnh vào các cổ phiếu đầu ngành chứng khoán.
-    - **Hành động:** Chú ý giải ngân theo nhịp rung lắc của thị trường.
-- **Mã: MWG**
-    - **Động lực (FA):** Sức mua yếu đối với mặt hàng ICT cao cấp (iPhone Air giảm giá).
-    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận mảng ICT suy giảm.
-    - **Hành động:** Rủi ro vi phạm kịch bản, cần thận trọng quan sát các ngưỡng hỗ trợ kỹ thuật cứng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** VCB, TCB, MBB, CTG, VPB (Nhóm Ngân hàng)
+  - **Động lực (FA):** Được FTSE đưa vào rổ chỉ số mới nổi.
+  - **Nhận định dòng tiền:** Kỳ vọng dòng vốn ETF ngoại giải ngân thụ động, tạo lực đỡ chỉ số quan trọng trong bối cảnh vĩ mô biến động.
+  - **Hành động:** Chú ý giải ngân theo nhịp chỉnh của thị trường, ưu tiên VCB, TCB làm trụ.
+- **Mã:** SSI
+  - **Động lực (FA):** Hưởng lợi kép từ thanh khoản tăng do nâng hạng và kỳ vọng dòng vốn ngoại.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và khối ngoại thường xoay quanh mã này khi có sóng nâng hạng.
+  - **Hành động:** Quan sát vùng nền giá hiện tại, giải ngân nếu giữ vững xu hướng tăng.
+- **Mã:** POW, HPG, NVL
+  - **Động lực (FA):** Áp lực từ nhập siêu 20 tỷ USD và lợi suất trái phiếu toàn cầu tăng.
+  - **Nhận định dòng tiền:** Rủi ro áp lực bán gia tăng do lo ngại chi phí tài chính và chi phí nhập khẩu ăn mòn lợi nhuận.
+  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy ngắn hạn.
 
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- **BSR:** Tin tức về giá dầu tăng đang tạo ra hai luồng tác động trái chiều: tăng giá trị hàng tồn kho (Tích cực) đối lập với áp lực chi phí đầu vào gây thu hẹp biên lợi nhuận lọc dầu (Tiêu cực). Trong bối cảnh tháng 9/2026, khuyến nghị **cơ cấu lại một phần vị thế** để bảo toàn lợi nhuận, chờ đợi báo cáo quý sát sao hơn do biến động địa chính trị đang làm phức tạp hóa kỳ vọng biên lợi nhuận.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã:** BSR
+  - **Nhận định:** Tin tức về giá dầu tăng giúp biên lợi nhuận cải thiện, nhưng căng thẳng địa chính trị đẩy chi phí đầu vào lên cao. Với vị thế đã qua điểm rơi kỳ vọng (Tháng 3/2026), dữ liệu hiện tại chưa đủ mạnh để duy trì tỷ trọng lớn. **Khuyến nghị:** Cân nhắc chốt lời một phần để tái cơ cấu sang nhóm Tài chính đang hưởng lợi từ câu chuyện nâng hạng.
