@@ -1,23 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:30
+⏱ Thời gian: 00:45 - 14/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đề xuất giảm 30% thuế kỳ kê khai:** Đánh giá Tích cực -> Dòng tiền sẽ hướng vào nhóm **Bán lẻ (MWG, PNJ) và Sản xuất tiêu dùng (MSN, VNM)** do biên lợi nhuận ròng được cải thiện trực tiếp.
-- **Nâng công suất bay của Vietnam Airlines:** Đánh giá Tích cực -> Dòng tiền sẽ hướng vào nhóm **Hàng không & Logistics (HVN, ACV)** do kỳ vọng cải thiện doanh thu dài hạn.
-- **Áp lực từ chi phí vốn ngân hàng & rủi ro từ FED:** Đánh giá Tiêu cực -> Gây áp lực điều chỉnh lên nhóm **Chứng khoán (SSI, VND) và Bất động sản (VHM, PDR)** do lo ngại chi phí vốn và thanh khoản thị trường bị thắt chặt.
+- **Dòng vốn FDI kỳ vọng tăng vòng quay:** Việc FDI duy trì đà tăng trưởng tạo hiệu ứng lan tỏa tích cực đến nhu cầu hạ tầng công nghiệp và dịch vụ logistics. -> **Đánh giá: Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Bất động sản Khu công nghiệp (KBC, SZC)**.
+- **Áp lực chi phí vốn ngân hàng (COF):** Các ngân hàng đẩy mạnh khuyến mại và lãi suất huy động để giữ chân tiền gửi. -> **Đánh giá: Tiêu cực (ngắn hạn)** -> Gây áp lực lên biên lãi thuần (NIM) của nhóm **Ngân hàng (VCB, TCB)** và gián tiếp cạnh tranh dòng tiền với thị trường chứng khoán.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HVN**
-  - Động lực (FA): Ký hợp đồng mua 5 tàu bay Airbus A350-900.
-  - Nhận định dòng tiền: Tích cực ngắn hạn nhờ tin tức hỗ trợ tăng năng lực cạnh tranh quốc tế.
-  - Hành động: Chú ý giải ngân nếu có nhịp test lại hỗ trợ gần nhất.
-- **Mã: TVN**
-  - Động lực (FA): Thông báo ngày chốt quyền trả cổ tức tiền mặt 2025.
-  - Nhận định dòng tiền: Tạo lực đỡ tâm lý tốt, ổn định dòng tiền ngắn hạn.
-  - Hành động: Tiếp tục nắm giữ (Hold).
-- **Mã: MWG/PNJ**
-  - Động lực (FA): Hưởng lợi trực tiếp từ đề xuất giảm 30% thuế.
-  - Nhận định dòng tiền: Có khả năng xuất hiện dòng tiền đầu cơ dựa trên kỳ vọng giảm chi phí thuế.
-  - Hành động: Chú ý giải ngân theo đà tăng (Breakout) của khối lượng.
-
-*Lưu ý: Các tin tức về giao dịch nội bộ (SSI, VCI), rà soát hành chính (Việt Mỹ, thuế điện tử) và truyền thông thương hiệu (Bình Điền) được xếp vào nhóm nhiễu, không có tác động trực tiếp đến dòng tiền hệ thống.*
+- **Mã: KBC, SZC**
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ làn sóng dịch chuyển sản xuất và nhu cầu thuê đất KCN.
+  - **Nhận định dòng tiền:** Dòng tiền đầu tư dài hạn có xu hướng gia tăng tại các cổ phiếu KCN có quỹ đất sạch lớn.
+  - **Hành động:** Chú ý giải ngân khi có nhịp chỉnh kỹ thuật.
+- **Mã: HVN, ACV**
+  - **Động lực (FA):** Vietnam Airlines đặt mua mới 5 máy bay A350-900.
+  - **Nhận định dòng tiền:** Thông tin bổ trợ tích cực cho kỳ vọng tăng trưởng lưu lượng hành khách và năng lực cạnh tranh quốc tế, thu hút dòng tiền trung hạn.
+  - **Hành động:** Tiếp tục quan sát khối lượng giao dịch.
+- **Mã: SSI, VND**
+  - **Động lực (FA):** Kỳ vọng thanh khoản thị trường cải thiện sau các động thái nới lỏng từ FED.
+  - **Nhận định dòng tiền:** Nhạy cảm với lãi suất, tuy nhiên đang gặp áp lực cung ngắn hạn theo xu hướng chung của nhóm chứng khoán.
+  - **Hành động:** Rủi ro vi phạm kịch bản nếu áp lực bán thị trường chung gia tăng; ưu tiên quản trị rủi ro.
