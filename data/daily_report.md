@@ -1,28 +1,23 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 07:45 - 13/09/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 12:15
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- Lãi suất qua đêm giảm về 1,5% kết hợp với thông tin tăng vốn điều lệ tại nhóm chứng khoán -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Tài chính (Chứng khoán) và gia tăng thanh khoản hệ thống.
-- Cạnh tranh nông sản (sầu riêng) từ Thái Lan/Malaysia gia tăng áp lực biên lợi nhuận -> **Tiêu cực** -> Dòng tiền có xu hướng thoát khỏi nhóm Nông nghiệp/Xuất khẩu nông sản.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Thống đốc NHNN định hướng hạn chế phụ thuộc vốn ngân hàng vào các dự án quy mô lớn -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ chịu áp lực bán tại nhóm Bất động sản và hạ tầng có tỷ lệ đòn bẩy tài chính cao].
+- FPTS vay 2.300 tỷ đồng tại ACB để mở rộng dư nợ margin -> [Đánh giá: Tích cực] -> [Dòng tiền kỳ vọng xoay vòng vào nhóm Chứng khoán có thị phần lớn và các ngân hàng cung ứng vốn tín dụng an toàn].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: SSI**
-    - **Động lực (FA):** Tăng vốn điều lệ (tăng năng lực Margin) + Nội bộ (em trai Chủ tịch) mua vào >100 tỷ đồng.
-    - **Nhận định dòng tiền:** Củng cố xu hướng tăng trung hạn, bù đắp áp lực điều chỉnh kỹ thuật ngắn hạn từ danh mục ETF.
-    - **Hành động:** Tiếp tục nắm giữ, canh gia tăng tỷ trọng khi có nhịp rung lắc do ETF tái cơ cấu.
-- **Mã: HAG, HNG**
-    - **Động lực (FA):** Đối mặt sức ép lớn về thị phần và giá từ các đối thủ khu vực.
-    - **Nhận định dòng tiền:** Tâm lý thận trọng bao trùm, áp lực bán có thể gia tăng do lo ngại biên lợi nhuận thu hẹp.
-    - **Hành động:** Chú ý rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro.
+  - Động lực (FA): Người nội bộ mua vào >100 tỷ đồng, đối trọng với áp lực bán dự kiến từ quỹ ETF và đà giảm chung của thị trường.
+  - Nhận định dòng tiền: Dòng tiền đang ở trạng thái phân kỳ (lực bán tháo kỹ thuật vs lực đỡ nội bộ). 
+  - Hành động: **Tiếp tục quan sát.** Cần xác nhận vùng hỗ trợ cứng tại các phiên tiếp theo trước khi cân nhắc giải ngân theo tín hiệu nội bộ.
 - **Mã: SSB**
-    - **Động lực (FA):** Được thêm mới vào danh mục ETF 500 triệu USD.
-    - **Nhận định dòng tiền:** Thu hút lực cầu thụ động trong ngắn hạn.
-    - **Hành động:** Chú ý giải ngân theo dòng tiền vào của các quỹ thụ động.
-- **Mã: PNJ**
-    - **Động lực (FA):** Người liên quan bán lượng lớn cổ phiếu (7 triệu cp).
-    - **Nhận định dòng tiền:** Áp lực cung lớn gây biến động giảm giá ngắn hạn.
-    - **Hành động:** Tiếp tục quan sát, chưa vội bắt đáy cho đến khi lực bán từ giao dịch nội bộ hạ nhiệt.
-- **Mã: GKM, DVM, FID**
-    - **Động lực (FA):** Duy trì/Đưa vào diện cảnh báo do yếu kém tài chính.
-    - **Nhận định dòng tiền:** Rủi ro thanh khoản cao, dòng tiền thông minh sẽ rút lui.
-    - **Hành động:** Loại khỏi danh sách theo dõi thực chiến, tránh xa rủi ro vi phạm.
+  - Động lực (FA): Được thêm vào danh mục ETF.
+  - Nhận định dòng tiền: Tạo cầu chủ động từ các quỹ thụ động, là điểm sáng hiếm hoi trong bối cảnh thị trường chung đang tiêu cực.
+  - Hành động: **Chú ý giải ngân** theo chiến lược lướt sóng theo sự kiện (Event-driven trading).
+- **Mã: HAG, HNG**
+  - Động lực (FA): Áp lực cạnh tranh xuất khẩu nông sản từ Thái Lan, Malaysia tăng cao.
+  - Nhận định dòng tiền: Rủi ro biên lợi nhuận thu hẹp gây áp lực bán mạnh.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên quản trị rủi ro, không bắt đáy.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới liên quan đến EIB, BSR trong chu kỳ này).
