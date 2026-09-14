@@ -1,5 +1,121 @@
 ﻿[
   {
+    "Title": "CMX123035: Thông báo về tình trạng chứng khoán của cổ phiếu - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnloQVg1MlpRSjJRdzZjRTFlcms0ZWlwRGdwaW16Y0xGY3dYTzVGSURKVEdtaHVmN19vNzBRWmRlVkRVeFBtem5BM1pNT1VNTGJEWkMxS3Y5MHdidVFQQ0V1Y2ROUElhY1h0aDlxOHBxS3RIbFl2WE1kRVFCUEpkLWtDeDJxbnM0Y3pNZFY1MGdBUHgxekVkSVhjZHFCZ1BkazhPLWRLb1VGUE1EYWRhRUpxd190d2VFU213SmFFU2xEQQ?oc=5",
+    "PubDate": "Mon, 14 Sep 2026 08:43:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông báo hành chính về tình trạng niêm yết hoặc trạng thái chứng khoán, không phản ánh thay đổi về hoạt động kinh doanh hay tài chính của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có tác động. Đây là thông tin hành chính định kỳ, không làm thay đổi cung cầu hay dòng tiền của cổ phiếu trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 05:06:37"
+  },
+  {
+    "Title": "Hơn chục nghìn tỷ đổ dồn giao dịch vào 1 thời điểm, những cổ phiếu nào trong tầm ngắm? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWJCRTNtLS1GTFJ0QkNFSmpOUFdKWHEzV3ZiUDBnelltc2VmeDllWHRISGlUbFZrS3pTZFNlQnZ6ZkptZ0JNaXpOaFBLWldHaG1NcWJEZXBmWGdMMVQ1NU4xbHJaS0NGUTc4blNBalE1MXd1SEI2bTdlaUlnMGpVS09tYk00WTJnYXlZcUNNUHBpVTdHSTZPdVhuOHJ5RGtUM1BwS1FfN21XWUFDX0pMbzBwQ3RjYmF3MFRJY0NBSmliQQ?oc=5",
+    "PubDate": "Mon, 14 Sep 2026 17:01:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Thanh khoản đột biến tại các thời điểm giao dịch cho thấy dòng tiền thông minh đang tập trung vào các mã vốn hóa lớn và nhóm dẫn dắt, tạo động lực tăng giá ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức dạng tổng hợp thanh khoản, thiếu dữ liệu dòng tiền cụ thể. Cần thận trọng với các nhịp kéo xả ngắn hạn tại nhóm VN30.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 05:06:21"
+  },
+  {
+    "Title": "RCD: Công văn của Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam về việc hủy đăng ký chứng khoán - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSURoSGFTSnR5Z0lFTzItS3FFWXJPZXFMa1QtQTNEN2o0UkkxRkdJcnVRaXVGQWx4V25kRFAyUHBqLU5YOXQzR1ptLXhkdnRDd1dxa3doX2lzckZ5dkpBVlp5LXAwX0NuT0hMS2x5N0lGYWxUbFhiVU1yUnZwWjR1eFJUb2JsVFVjbWdyUFprRlVHMWVBNUlYMDdFaEoyNEdvb3pxVFl5UDFhNUhfQzczaHVnNFVIMHM5R1Z6Wkg0Ym53dDRQdHRld3dXQkc5cTYzVmVpeE5zWmlnc3dxa1FFN2NzRXNtT0MxanJkdWJlYk8?oc=5",
+    "PubDate": "Mon, 14 Sep 2026 09:45:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -10,
+    "MarketImpact": "Việc hủy đăng ký chứng khoán đồng nghĩa với việc cổ phiếu RCD bị hủy niêm yết hoặc hủy đăng ký giao dịch tập trung, làm mất thanh khoản hoàn toàn đối với nhà đầu tư trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - RCD. Hủy đăng ký chứng khoán là dấu chấm hết cho thanh khoản trên sàn. Dòng tiền thoát vị thế ngay lập tức, rủi ro kẹt vốn vĩnh viễn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "RCD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Hủy đăng ký chứng khoán dẫn đến mất thanh khoản, nhà đầu tư không thể giao dịch trên sàn tập trung."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 05:06:05"
+  },
+  {
+    "Title": "Cựu Chủ tịch EVNNPT vừa bị khởi tố liên quan gì GELEX?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/cuu-chu-tich-evnnpt-vua-bi-khoi-to-lien-quan-gi-gelex-100260914194319398.htm",
+    "PubDate": "9/14/2026 7:57:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -5,
+    "MarketImpact": "Thông tin liên quan đến các cá nhân và doanh nghiệp trong quá trình điều tra gây tâm lý bất ổn cho nhà đầu tư, tạo áp lực bán tháo ngắn hạn đối với cổ phiếu liên quan đến hệ sinh thái GELEX.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Điện và Thiết bị điện. Rủi ro pháp lý gây áp lực tâm lý lên cổ phiếu GEX. Dòng tiền thông minh sẽ tạm thời rút lui để quan sát diễn biến điều tra.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GEX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tin tức liên quan trực tiếp đến hệ sinh thái doanh nghiệp, gây áp lực bán mạnh từ nhà đầu tư cá nhân do lo ngại rủi ro pháp lý."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 05:05:50"
+  },
+  {
+    "Title": "Tổng Bí thư, Chủ tịch nước: Quy định mới phải giúp đảng viên yên tâm cống hiến, kinh doanh đúng pháp luật",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-quy-dinh-moi-phai-giup-dang-vien-yen-tam-cong-hien-kinh-doanh-dung-phap-luat-100260914190852445.htm",
+    "PubDate": "9/14/2026 8:09:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính định hướng chính trị và hành chính, không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Thông tin mang tính định hướng chính sách chung, không tạo ra thay đổi tức thời về dòng tiền hay kết quả kinh doanh của các mã cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 05:05:41"
+  },
+  {
+    "Title": "Định hướng đưa bò Mông, nhung hươu thành các sản phẩm tầm cỡ như bò Kobe",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/dinh-huong-dua-bo-hmong-nhung-huou-thanh-cac-san-pham-tam-co-nhu-bo-kobe-100260914201115322.htm",
+    "PubDate": "9/14/2026 9:22:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là định hướng chính sách dài hạn về phát triển nông nghiệp đặc sản, chưa có tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Nông nghiệp. Đây là định hướng chính sách dài hạn, chưa tạo ra dòng tiền đột biến cho các doanh nghiệp niêm yết. Không có tác động ngắn hạn đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 05:05:30"
+  },
+  {
+    "Title": "Xuất hiện công ty bán ô tô có tên Tesla Motors đăng ký kinh doanh tại Việt Nam",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/xuat-hien-cong-ty-co-ten-tesla-motors-dang-ky-kinh-doanh-tai-viet-nam-2555030.html",
+    "PubDate": "Mon, 14 Sep 2026 17:11:22 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc đăng ký tên doanh nghiệp không đồng nghĩa với việc Tesla chính thức gia nhập thị trường hay xây dựng nhà máy. Đây chỉ là thủ tục hành chính, chưa có tác động đến các doanh nghiệp ô tô niêm yết tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ô tô. Chỉ là đăng ký tên thương mại, chưa có kế hoạch kinh doanh cụ thể. Không tạo ra biến động dòng tiền cho các mã ngành ô tô như HAX hay SVC.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 05:05:21"
+  },
+  {
+    "Title": "Ngân hàng nào đang cho vay kinh doanh bất động sản nhiều nhất?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/ngan-hang-nao-dang-cho-vay-kinh-doanh-bat-dong-san-nhieu-nhat-5119052.html",
+    "PubDate": "Tue, 15 Sep 2026 03:43:07 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết thống kê dữ liệu dư nợ tín dụng BĐS, không mang tính chất thay đổi chính sách hay tác động trực tiếp đến biên lợi nhuận của các ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Thông tin thống kê dư nợ không làm thay đổi khẩu vị rủi ro hay dòng tiền ngắn hạn. Không có tác động đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 05:05:07"
+  },
+  {
     "Title": "Một cổ phiếu thép bị tự doanh CTCK \"xả\" mạnh phiên đầu tuần, ngược chiều hai mã ngân hàng hút tiền - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOGNmdkRNTFlZWURrbDBYWG40UmxldnJBbzJxdWpFS1k0QnBXN1c5QUp6MkZhMUd0RWhudDRaQ2tMZy1RU0J6ZEVWNExIRjBZWlJkRjd4S0JqaWNkOHNOYlpNamxRVVNDUWNMa0NERDFMSWVBeWI1ZnN6Z1JWOHNCNFhqR1JVWWF2eG5SZ3ZnVUhwWDRVTUpoSHVNdGFVTkN3RTc3WXh1WUJtQWRrQko5czlLZ25qNUdiX01yazhKOGkxMTVKV09XaXJDTTFYejQ0?oc=5",
@@ -17353,120 +17469,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-31 02:35:37"
-  },
-  {
-    "Title": "VCG: Thông báo về việc giao dịch chứng khoán thay đổi đăng ký niêm yết - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcl83UWtjSTlvazdFZWVKUzkxV2ljR3VmeUpzVFNKTFpTY1VQZ0lZM2JhUm82TmZ1MVRYbEFKdVNzTEI5ZHMxZmQya1ZhNW1CdjF3a2dNd1BkcFJtbUVMamc4Y2pqcHhlUk1qTkFUNHkzaGNMRUh1N2l0S1RwMzBDZ3ZwcGc3NlBYdkM0QnRaU3BqR3VqSjh6akc5Z0F3SlJPUWR0Wjk0Ul9LSTBSaXFZ?oc=5",
-    "PubDate": "Fri, 28 Aug 2026 06:51:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc thay đổi đăng ký niêm yết, không tác động đến hoạt động kinh doanh hay biên lợi nhuận của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - VCG. Thay đổi đăng ký niêm yết là thủ tục hành chính thông thường, không làm thay đổi cấu trúc dòng tiền hay giá trị nội tại của cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:35:24"
-  },
-  {
-    "Title": "Một DN chuẩn bị \"lăn chốt\" cổ tức tiền mặt cao gần gấp đôi thị giá - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnk5OE9ZaG9vWllvOS1wTzZaS0dqLUdJSDVoQ29BOEt5dkFnR3FxLUpmdnpZaGZWTnNUa0xiWHM2VmhlallNOWNCeWg1bzYxRi1WS1FqeG1EeExiN2xSNjN6NURCWWluWDkyVE5pekVOX3Y4cmNIWUtYRHFGdTVETmJYd3ptUWhDSGlkdmVLSEVXVE9mOThkeXp2djc4bDJZQVNZWkhjbw?oc=5",
-    "PubDate": "Sun, 30 Aug 2026 17:03:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về cổ tức tiền mặt cao là sự kiện tài chính đơn lẻ, không phản ánh xu hướng vĩ mô hay thay đổi cơ bản về năng lực kinh doanh của nhóm ngành.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã cụ thể. Cổ tức tiền mặt cao là sự kiện đơn lẻ, không tạo xu hướng dòng tiền ngành. Dòng tiền thông minh sẽ bỏ qua tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:35:14"
-  },
-  {
-    "Title": "Sabeco và Thế Giới Di Động hé lộ một số ngân hàng được chọn để 'cất tiền'",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/sabeco-va-the-gioi-di-dong-he-lo-mot-so-ngan-hang-duoc-chon-de-cat-tien-100260830081633961.htm",
-    "PubDate": "8/30/2026 9:42:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về việc doanh nghiệp gửi tiền tại các ngân hàng là hoạt động quản trị tài chính thông thường, không làm thay đổi đáng kể đến kết quả kinh doanh hay dòng tiền của các bên liên quan.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Việc gửi tiền là nghiệp vụ quản trị vốn thông thường. Không tạo ra biến động dòng tiền đột biến cho các mã ngân hàng được nhắc đến.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:35:02"
-  },
-  {
-    "Title": "TP.HCM đã cấp gần 31.000 giấy chứng nhận cho người mua nhà tại các dự án",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tphcm-da-cap-gan-31000-giay-chung-nhan-cho-nguoi-mua-nha-tai-cac-du-an-100260830074659234.htm",
-    "PubDate": "8/30/2026 10:07:00 AM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc tháo gỡ vướng mắc pháp lý giúp doanh nghiệp BĐS ghi nhận doanh thu, cải thiện dòng tiền và tăng niềm tin cho người mua nhà tại các dự án trọng điểm.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm BĐS. Việc cấp sổ hồng giúp giải tỏa tâm lý người mua, đẩy nhanh tiến độ bàn giao và ghi nhận doanh thu. Tập trung vào các doanh nghiệp có dự án đã hoàn thiện pháp lý tại TP.HCM.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "NLG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhiều dự án trọng điểm tại TP.HCM được tháo gỡ pháp lý, đẩy nhanh tiến độ bàn giao."
-      },
-      {
-        "Ticker": "KDH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng tốc độ cấp sổ hồng giúp củng cố uy tín và đẩy nhanh tiến độ bán hàng các dự án mới."
-      }
-    ],
-    "AnalyzedAt": "2026-08-31 02:34:19"
-  },
-  {
-    "Title": "Mừng lễ 2-9, khách sạn 5 sao tạo 'phiên bản mới' cho các món ăn quen thuộc",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/mung-le-2-9-khach-san-5-sao-tao-phiên-ban-moi-cho-cac-mon-an-quen-thuoc-100260830134956556.htm",
-    "PubDate": "8/30/2026 3:09:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hoạt động kinh doanh dịch vụ thông thường của các khách sạn, không tạo ra thay đổi đáng kể về doanh thu hay biên lợi nhuận mang tính đột biến cho các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Du lịch & Khách sạn. Hoạt động marketing mùa lễ hội là nghiệp vụ thường niên, không tác động đến dòng tiền thông minh hay xu hướng giá cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:34:07"
-  },
-  {
-    "Title": "Tổng công ty Điện lực miền Nam: Gần 5.000 ca trực đảm bảo điện dịp 2/9",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tong-cong-ty-dien-luc-mien-nam-gan-5-000-ca-truc-dam-bao-dien-dip-2-9-2550332.html",
-    "PubDate": "Fri, 28 Aug 2026 18:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động vận hành thường niên của ngành điện nhằm đảm bảo cung ứng dịch vụ công, không tác động đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Điện. Đây là công tác vận hành hành chính thường niên, không tạo ra đột biến về doanh thu hay dòng tiền cho các doanh nghiệp ngành điện. Bỏ qua tác động.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:33:47"
-  },
-  {
-    "Title": "Một công ty chứng khoán bị truy thu, xử phạt thuế gần 7 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/mot-cong-ty-chung-khoan-bi-truy-thu-xu-phat-thue-gan-7-ty-dong-2550397.html",
-    "PubDate": "Fri, 28 Aug 2026 21:30:23 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc bị truy thu và xử phạt thuế ảnh hưởng trực tiếp đến lợi nhuận sau thuế trong kỳ của doanh nghiệp, đồng thời gây tâm lý tiêu cực ngắn hạn đối với cổ phiếu của công ty đó.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Ngành Chứng khoán. Tin tức thiếu định danh doanh nghiệp cụ thể gây nhiễu thị trường. Cần thận trọng với các mã có rủi ro pháp lý thuế tương tự.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:33:31"
-  },
-  {
-    "Title": "Home Credit Việt Nam báo lãi trước thuế hơn 1.600 tỷ",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/home-credit-viet-nam-bao-lai-truoc-thue-hon-1-600-ty-5114027.html",
-    "PubDate": "Thu, 27 Aug 2026 11:03:10 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Home Credit là công ty tài chính tiêu dùng chưa niêm yết, kết quả kinh doanh này phản ánh sức khỏe ngành tài chính tiêu dùng nhưng không tác động trực tiếp đến các mã cổ phiếu ngân hàng niêm yết trên sàn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Tài chính. Kết quả kinh doanh của công ty chưa niêm yết không tạo biến động dòng tiền cho các mã ngân hàng trên sàn. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:33:21"
   }
 ]
