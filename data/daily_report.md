@@ -1,17 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:25
+⏱ Thời gian: 02:00
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- JPMorgan dự kiến đưa trái phiếu nội tệ vào chỉ số thị trường cận biên cuối tháng này -> **Tích cực** -> Dòng tiền dự kiến hướng vào nhóm Ngân hàng (VCB, TCB) do kỳ vọng cải thiện thanh khoản và vốn ngoại.
-- Dữ liệu Fed (Goldman Sachs/JP Morgan dự báo nâng lãi suất) và Tín dụng trong nước tăng nhanh hơn huy động -> **Tiêu cực** -> Áp lực lên biên lợi nhuận (NIM) toàn ngành Ngân hàng (VPB, TCB, MBB, STB) và làm suy yếu thanh khoản nhóm chứng khoán.
+- JPMorgan dự kiến ra mắt chỉ số nợ bằng nội tệ thị trường cận biên vào cuối tháng -> [Đánh giá: Tích cực] -> Dòng vốn ngoại dự kiến tập trung vào nhóm Ngân hàng (VCB, TCB) nhờ thanh khoản cao và tính ổn định.
+- Kỳ vọng Fed hạ lãi suất và tăng trưởng bán lẻ tại Mỹ phục hồi -> [Đánh giá: Tích cực] -> Nhóm Xuất khẩu (Dệt may, Gỗ) hưởng lợi trực tiếp từ sự phục hồi đơn hàng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TNG, PTB**
-- Động lực (FA): Dự báo tăng trưởng chi tiêu bán lẻ tại Mỹ theo Deloitte.
-- Nhận định dòng tiền: Tác động hỗ trợ tích cực trong bối cảnh các nhóm ngành khác chịu áp lực vĩ mô. Kỳ vọng dòng tiền tìm kiếm nhóm xuất khẩu làm nơi trú ẩn ngắn hạn.
-- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần.
-
-- Mã: **VCB, TCB, VPB, MBB, STB**
-- Động lực (FA): Hợp lưu trái chiều giữa "Tin nâng hạng chỉ số" (Tích cực) và "Áp lực NIM/Tỷ giá" (Tiêu cực).
-- Nhận định dòng tiền: Dòng tiền sẽ phân hóa mạnh. Ưu tiên các ngân hàng có bảng cân đối vốn vững chắc để chống chịu áp lực chi phí vốn (COF). 
-- Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản nếu NIM tiếp tục thu hẹp trong báo cáo kỳ tới.
+- Mã: SSB
+  - Động lực (FA): Lực cầu áp đảo, thanh khoản đột biến phiên đầu tuần.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ đang tập trung mạnh, tạo xung lực ngắn hạn tích cực cho nhóm ngân hàng tầm trung.
+  - Hành động: Theo dõi sát dư mua trần; rủi ro vi phạm kịch bản nếu khối lượng không duy trì được ở các phiên tới.
+- Mã: CTR
+  - Động lực (FA): Trích lập dự phòng 100% cho các khoản nợ xấu từ FLC, Novaland.
+  - Nhận định dòng tiền: Tin xấu trực tiếp đánh vào lợi nhuận, áp lực bán ngắn hạn sẽ gia tăng.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng của lực đỡ tại vùng hỗ trợ kỹ thuật gần nhất.
+- Mã: GEX
+  - Động lực (FA): Doanh nghiệp phủ nhận tin đồn tiêu cực.
+  - Nhận định dòng tiền: Phủ nhận tin đồn là tín hiệu giảm hoảng loạn, nhưng tâm lý thị trường yếu vẫn tạo áp lực cung kỹ thuật.
+  - Hành động: Tiếp tục quan sát, chưa giải ngân cho đến khi dòng tiền tạo đáy ổn định.
