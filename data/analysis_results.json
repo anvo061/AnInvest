@@ -1,5 +1,34 @@
 ﻿[
   {
+    "Title": "Khối ngoại bỏ nghìn tỉ 'gom hàng' trước ngày chứng khoán nâng hạng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/khoi-ngoai-bo-nghin-ti-gom-hang-truoc-ngay-chung-khoan-nang-hang-100260915192128208.htm",
+    "PubDate": "9/15/2026 7:52:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 7,
+    "MarketImpact": "Dòng vốn ngoại quay lại mua ròng các mã vốn hóa lớn (Bluechips) tạo động lực tăng trưởng cho chỉ số VN-Index, củng cố kỳ vọng nâng hạng thị trường.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Dòng vốn ngoại tập trung vào nhóm Bluechips VN30 đón sóng nâng hạng. Thanh khoản cải thiện tại các mã trụ, củng cố xu hướng tăng chỉ số.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn nhất thị trường, ưu tiên hàng đầu của khối ngoại khi đón sóng nâng hạng."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu quốc dân có thanh khoản cao, hưởng lợi trực tiếp từ dòng vốn ETF và quỹ ngoại."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Ngân hàng có nền tảng cơ bản tốt, thường xuyên nằm trong danh mục mua ròng của khối ngoại."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 22:14:49"
+  },
+  {
     "Title": "EXCLUSIVE: Vietnam considering first sovereign dollar bond sale since 2014, sources say - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHRBeVl4dlUxcmFXUDhOVC1FOURnamdvdGxyd3pIXzY4TWVuSnVqMkxwa092TlF2TFBmd192Z09IRmE2M1RLbVgxTk9JYTFucUxZUm5KWjZEV3NoeEFyb0ZSYlRQSXhYYnc0a0l1cDNadlBMVXpueWQ2THY4NjJKWktvelZMNWFKeFNpcVhGNkZJdzExUENJMU9zclRpNWE5dVR4UFJNblhKUDhvOHNicU1DUGlTeUg0VHdxa0VPb0RJQ1JwSE9JSzVR?oc=5",
@@ -17471,18 +17500,5 @@
     "Relevance": "Trung bình",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-31 20:40:58"
-  },
-  {
-    "Title": "Tiêu hủy 180.000 con tôm hùm giống nhập lậu: Hé lộ cái khó của ngành tôm hùm Việt",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tieu-huy-180000-con-tom-hum-giong-nhap-lau-he-lo-cai-kho-cua-nganh-tom-hum-viet-100260831173508033.htm",
-    "PubDate": "8/31/2026 6:25:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Việc kiểm soát chặt tôm hùm giống nhập lậu gây thiếu hụt nguồn cung đầu vào cho các hộ nuôi, làm tăng chi phí sản xuất và rủi ro thiếu hụt nguyên liệu cho các doanh nghiệp xuất khẩu thủy sản.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tôm hùm giống nhập lậu không phải nguyên liệu chính của VHC, ANV (chủ yếu là cá tra). Tin tức mang tính quản lý hành chính, tác động không đáng kể đến dòng tiền doanh nghiệp niêm yết.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 20:40:38"
   }
 ]
