@@ -1,5 +1,179 @@
 ﻿[
   {
+    "Title": "HOSE: Thống kê giao dịch tự doanh (ngày 14/09/2026) - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2R5WGxNaEhYcl95VHhEbWQ0MDlzNk1pcmpSaVF4N2Q2MGI4cVdQMEtzS3VRb1h0Q1dtMWNpSXFmQVF3VWdlZUZIS2ZVaFNDdmJmamRGZjIzSGtYb0FjTEYteGlXRXdrMzVaMlJwdDFZYkw0d01GRFVZMkszSlJ4UF9NSlBSV1E3VTZCaTk0V0I4SWd0ODVSdml3akFacUoxbEZabC1WVUlKOEE?oc=5",
+    "PubDate": "Mon, 14 Sep 2026 09:24:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là dữ liệu thống kê giao dịch quá khứ, không phải tin tức sự kiện có tính chất định hướng hay thay đổi cấu trúc thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Dữ liệu thống kê. Đây là báo cáo giao dịch quá khứ, không chứa thông tin mới tác động đến xu hướng dòng tiền. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 07:38:54"
+  },
+  {
+    "Title": "HCM: Báo cáo kết quả giao dịch cổ phiếu ESOP của người nội bộ Trịnh Hoài Giang - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZDdKWG1FbHAtNjFsY2N3ZzM1S0NGYVRkdXRoUTRTNGFoX3hCU1ZTRWdYZlpIbkFqQ2h5Y0ZLWGZaNGxORUd5dWNoZThhend3dTVGdmctRDdvUkp4YldjcE9PMERwUTU0THBVN0U5MGFkNUYxNVFCR3BsVXlBbE1ZRmR1Z0otZU41czJsclFRekhieTFjVElsbENiaV9JX242VU5QYk1ScUphUVBWWU1oSDZPV2xHYURTZk82M2h2blctanRrdkpXanV3RklzbjE1UGU4?oc=5",
+    "PubDate": "Mon, 14 Sep 2026 10:42:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc người nội bộ thực hiện quyền mua ESOP là hoạt động giao dịch định kỳ theo kế hoạch, không gây tác động đáng kể đến cung cầu thị trường hay thay đổi triển vọng kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - HCM. Giao dịch ESOP của người nội bộ là hoạt động quản trị bình thường, không tạo tín hiệu dòng tiền mới. Thị trường sẽ phản ứng trung tính.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 07:38:43"
+  },
+  {
+    "Title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMFZrTTQ0MDhLX1d1d1lIakUzcm95SjBrT2FnNFNybkthOFBEWGQyeHZEVVZPMjRCWmJ2NHpLa3h0aWhqVVhOZkpSa25XUzRNUExWeGc4X0d4X2VKZzYwOEV0MldSZFB6bWtaMEdvUWc4R2U4SjV5c3I0Rk9CZEZfWlR2Q254empiTTVST25EQWxkQTh2eWgzOXoxd2ZKZDll?oc=5",
+    "PubDate": "Mon, 14 Sep 2026 11:39:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -8,
+    "MarketImpact": "Hiện tượng bán tháo tại nhóm Gelex gây áp lực tâm lý tiêu cực lên toàn thị trường, kích hoạt làn sóng bán giải chấp và làm suy yếu dòng tiền tại các mã có tính đầu cơ cao.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Nhóm Gelex bị bán tháo diện rộng gây hiệu ứng domino tâm lý. Cần quan sát chặt chẽ thanh khoản và rủi ro call margin tại các mã đầu cơ liên quan.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GEX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tâm điểm bán tháo, áp lực cung giá sàn lớn gây rủi ro call margin."
+      },
+      {
+        "Ticker": "VIX",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu liên quan trong hệ sinh thái chịu áp lực bán theo tâm lý đám đông."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 07:38:26"
+  },
+  {
+    "Title": "Tesla vào Việt Nam, đường đua xe điện đã đông giờ thêm nóng",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tesla-vao-viet-nam-duong-dua-xe-dien-da-dong-gio-them-nong-100260914184545038.htm",
+    "PubDate": "9/14/2026 7:12:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Sự gia nhập của Tesla thúc đẩy hệ sinh thái xe điện tại Việt Nam, tạo áp lực cạnh tranh nhưng cũng kích cầu hạ tầng trạm sạc và linh kiện phụ trợ.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tesla gia nhập thị trường tạo áp lực cạnh tranh. Tác động đến hạ tầng điện tại Việt Nam còn xa vời, chưa đủ tạo đột biến dòng tiền ngắn hạn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 07:37:14"
+  },
+  {
+    "Title": "Đề xuất phương án điều phối đất, đá, cát cho Hà Nội, Hưng Yên, Cần Thơ... xây các dự án trọng điểm quốc gia",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/de-xuat-phuong-an-dieu-phoi-dat-da-cat-cho-ha-noi-hung-yen-can-tho-xay-cac-du-an-trong-diem-quoc-gia-100260914183752189.htm",
+    "PubDate": "9/14/2026 7:45:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc tháo gỡ nút thắt nguồn cung vật liệu xây dựng giúp đẩy nhanh tiến độ các dự án hạ tầng trọng điểm, trực tiếp hỗ trợ các doanh nghiệp xây lắp và khai thác đá.",
+    "TapeReaderNote": "Tín hiệu: Tích cực. Việc tháo gỡ nút thắt vật liệu đẩy nhanh tiến độ giải ngân đầu tư công. Dòng tiền ưu tiên nhóm thầu hạ tầng và khai thác đá có vị trí địa lý gần dự án trọng điểm.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhà thầu lớn hưởng lợi trực tiếp từ việc đẩy nhanh tiến độ các dự án hạ tầng trọng điểm quốc gia."
+      },
+      {
+        "Ticker": "HHV",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ tiến độ thi công hạ tầng được đẩy nhanh nhờ nguồn cung vật liệu ổn định."
+      },
+      {
+        "Ticker": "KSB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp khai thác đá xây dựng hưởng lợi từ nhu cầu vật liệu tăng cao tại các dự án trọng điểm."
+      },
+      {
+        "Ticker": "VLB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu trữ lượng đá lớn, hưởng lợi từ nhu cầu cung ứng cho các dự án hạ tầng khu vực phía Nam."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 07:36:58"
+  },
+  {
+    "Title": "Tin tức sáng 15-9: Đề xuất nâng mức phạt hành chính tối đa lên 1,5 tỉ đồng với cá nhân",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/tin-tuc-sang-15-9-de-xuat-nang-muc-phat-hanh-chinh-toi-da-len-15-ti-dong-voi-ca-nhan-100260914214203598.htm",
+    "PubDate": "9/15/2026 5:05:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là đề xuất thay đổi khung pháp lý về xử phạt hành chính, không tác động trực tiếp đến hoạt động kinh doanh, doanh thu hay lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Đây là tin tức hành chính, không có tác động trực tiếp đến dòng tiền hay biên lợi nhuận của các doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 07:36:47"
+  },
+  {
+    "Title": "Giá vàng hôm nay 15/9/2026: 'Bay màu' gần 80 USD, thị trường nín thở",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-15-9-2026-bay-mau-gan-80-usd-thi-truong-nin-tho-2555107.html",
+    "PubDate": "Tue, 15 Sep 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng quốc tế chủ yếu ảnh hưởng đến thị trường vàng vật chất và tâm lý nhà đầu tư cá nhân, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng quốc tế là tin tức vĩ mô thông thường, không tạo ra sự dịch chuyển dòng tiền đáng kể vào các mã cổ phiếu niêm yết trên HOSE/HNX.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 07:36:28"
+  },
+  {
+    "Title": "Nhiều ngân hàng cam kết rót vốn cho dự án lớn tại Hà Nội",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nhieu-ngan-hang-cam-ket-rot-von-cho-du-an-lon-tai-ha-noi-5120075.html",
+    "PubDate": "Mon, 14 Sep 2026 15:50:25 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc giải ngân vốn vào các dự án trọng điểm giúp tháo gỡ nút thắt thanh khoản cho doanh nghiệp bất động sản, đồng thời tăng trưởng tín dụng cho các ngân hàng tham gia.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính định hướng chung, thiếu chi tiết về định chế tài chính và dự án cụ thể. Cần theo dõi sát dòng tiền thực tế tại các mã ngân hàng và BĐS liên quan.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ việc tiếp cận nguồn vốn tín dụng để triển khai các dự án quy mô lớn tại Hà Nội."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 07:36:13"
+  },
+  {
+    "Title": "Cục Thuế yêu cầu không thêm thủ tục khi doanh nghiệp đóng mã số thuế",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/cuc-thue-yeu-cau-khong-them-thu-tuc-khi-doanh-nghiep-dong-ma-so-thue-5120180.html",
+    "PubDate": "Mon, 14 Sep 2026 17:56:34 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin cải cách thủ tục hành chính nhằm giảm bớt gánh nặng cho doanh nghiệp khi giải thể hoặc tạm ngừng kinh doanh, không tác động trực tiếp đến doanh thu hay lợi nhuận của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Đây là cải cách hành chính thuần túy, không tạo ra thay đổi về dòng tiền hay biên lợi nhuận cho các doanh nghiệp niêm yết. Không có tác động đến giá cổ phiếu.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-15 07:36:03"
+  },
+  {
+    "Title": "Bắc Ninh hỗ trợ 100% tiền thuê đất cho doanh nghiệp công nghệ cao, startup",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/bac-ninh-ho-tro-100-tien-thue-dat-cho-doanh-nghiep-cong-nghe-cao-startup-5119960.html",
+    "PubDate": "Tue, 15 Sep 2026 07:00:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 4,
+    "MarketImpact": "Chính sách ưu đãi thuế đất tại Bắc Ninh tạo lợi thế cạnh tranh lớn cho các KCN, thu hút dòng vốn FDI công nghệ cao, trực tiếp gia tăng tỷ lệ lấp đầy và giá thuê đất tại khu vực.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - BĐS KCN Bắc Ninh. Chính sách miễn tiền thuê đất trực tiếp cải thiện biên lợi nhuận cho các doanh nghiệp có quỹ đất tại địa phương này.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu quỹ đất lớn tại Bắc Ninh, hưởng lợi trực tiếp từ làn sóng thu hút FDI công nghệ cao nhờ chính sách ưu đãi."
+      }
+    ],
+    "AnalyzedAt": "2026-09-15 07:35:48"
+  },
+  {
     "Title": "CMX123035: Thông báo về tình trạng chứng khoán của cổ phiếu - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnloQVg1MlpRSjJRdzZjRTFlcms0ZWlwRGdwaW16Y0xGY3dYTzVGSURKVEdtaHVmN19vNzBRWmRlVkRVeFBtem5BM1pNT1VNTGJEWkMxS3Y5MHdidVFQQ0V1Y2ROUElhY1h0aDlxOHBxS3RIbFl2WE1kRVFCUEpkLWtDeDJxbnM0Y3pNZFY1MGdBUHgxekVkSVhjZHFCZ1BkazhPLWRLb1VGUE1EYWRhRUpxd190d2VFU213SmFFU2xEQQ?oc=5",
@@ -17289,185 +17463,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-08-31 05:05:21"
-  },
-  {
-    "Title": "TDG Group củng cố nguồn lực tài chính trong nửa đầu năm 2026",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tdg-group-cung-co-nguon-luc-tai-chinh-trong-nua-dau-nam-2026-10026082910431799.htm",
-    "PubDate": "8/29/2026 3:00:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Thông tin về việc củng cố nguồn lực tài chính là hoạt động quản trị doanh nghiệp thông thường, không tạo ra đột biến về doanh thu hay lợi nhuận trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Mã TDG. Việc củng cố tài chính là hoạt động nội bộ bình thường, chưa đủ yếu tố kích hoạt dòng tiền đầu cơ mạnh mẽ. Thanh khoản thấp, cần quan sát thêm.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [
-      {
-        "Ticker": "TDG",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Cải thiện tài chính là tín hiệu tốt nhưng chưa đủ mạnh để thay đổi xu hướng giá cổ phiếu trong ngắn hạn."
-      }
-    ],
-    "AnalyzedAt": "2026-08-31 05:05:11"
-  },
-  {
-    "Title": "Đã lắp đặt điện mặt trời mái nhà mà chưa thông báo sẽ bị xử phạt thế nào?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/da-lap-dat-dien-mat-troi-mai-nha-ma-chua-thong-bao-se-bi-xu-phat-the-nao-100260829173221715.htm",
-    "PubDate": "8/30/2026 7:16:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hướng dẫn về quy định pháp lý và chế tài xử phạt hành chính đối với việc lắp đặt điện mặt trời mái nhà, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Đây là thông tin hành chính về quy định pháp lý, không làm thay đổi cấu trúc dòng tiền hay biên lợi nhuận của các doanh nghiệp điện mặt trời.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 05:04:54"
-  },
-  {
-    "Title": "DN dừng hoạt động, ngân hàng xử lý 61.000m2 đất để thu hồi khoản nợ 148 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/dn-dung-hoat-dong-ngan-hang-xu-ly-61-000m2-dat-de-thu-hoi-khoan-no-148-ty-dong-2549818.html",
-    "PubDate": "Fri, 28 Aug 2026 14:48:02 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là hoạt động xử lý nợ xấu đơn lẻ của một doanh nghiệp không niêm yết, không gây tác động trọng yếu đến hệ thống ngân hàng hay thị trường bất động sản chung.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Sự kiện xử lý nợ đơn lẻ, quy mô nhỏ, không ảnh hưởng đến bảng cân đối kế toán của các ngân hàng niêm yết. Dòng tiền không phản ứng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 05:04:40"
-  },
-  {
-    "Title": "Khai trương Vincom Plaza Đan Phượng 27.000 m² phía tây Hà Nội",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/khai-truong-vincom-plaza-dan-phuong-27-000-m-phia-tay-ha-noi-2550261.html",
-    "PubDate": "Fri, 28 Aug 2026 16:10:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc mở rộng hệ thống trung tâm thương mại giúp tăng doanh thu cho thuê và củng cố vị thế của VRE trong phân khúc bán lẻ, đồng thời gia tăng giá trị cho các dự án bất động sản lân cận của VHM.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc khai trương TTTM là hoạt động vận hành định kỳ, không tạo đột biến dòng tiền. Tác động lên VRE, VHM đã phản ánh vào giá, thiếu yếu tố bất ngờ để kích hoạt dòng tiền mới.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VRE",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng diện tích sàn cho thuê, trực tiếp đóng góp vào doanh thu và lợi nhuận mảng bán lẻ."
-      }
-    ],
-    "AnalyzedAt": "2026-08-31 05:04:19"
-  },
-  {
-    "Title": "Nestlé tăng năng lực chế biến cà phê xuất khẩu tại Việt Nam",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/nestle-tang-nang-luc-che-bien-ca-phe-xuat-khau-tai-viet-nam-5114228.html",
-    "PubDate": "Thu, 27 Aug 2026 18:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc Nestlé mở rộng năng lực chế biến khẳng định vị thế Việt Nam trong chuỗi cung ứng cà phê toàn cầu, thúc đẩy nhu cầu thu mua nguyên liệu và hỗ trợ các doanh nghiệp logistics, khu công nghiệp liên quan.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR doanh nghiệp FDI, tác động biên lợi nhuận lên GMD, SZC là không đáng kể trong ngắn hạn. Cần theo dõi thêm dữ liệu xuất khẩu thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 05:03:55"
-  },
-  {
-    "Title": "Cách Agribank đưa ESG vào hoạt động kinh doanh",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/cach-agribank-dua-esg-vao-hoat-dong-kinh-doanh-5113946.html",
-    "PubDate": "Thu, 27 Aug 2026 19:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về định hướng ESG của Agribank (ngân hàng chưa niêm yết) mang tính chất tuyên truyền chiến lược, không tác động trực tiếp đến hoạt động kinh doanh hay dòng tiền của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Ngân hàng. Đây là thông tin định hướng chiến lược của ngân hàng chưa niêm yết, không tạo biến động dòng tiền ngắn hạn cho các mã ngân hàng trên sàn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 05:03:44"
-  },
-  {
-    "Title": "Các hãng bảo hiểm lãi tăng mạnh nhờ hoạt động tài chính",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/cac-hang-bao-hiem-lai-tang-manh-nho-hoat-dong-tai-chinh-5115223.html",
-    "PubDate": "Mon, 31 Aug 2026 03:00:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Lợi nhuận từ hoạt động tài chính tăng trưởng mạnh giúp cải thiện đáng kể kết quả kinh doanh của các doanh nghiệp bảo hiểm, củng cố nền tảng tài chính và tăng sức hấp dẫn đối với dòng tiền đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Lợi nhuận tài chính là biến số phụ thuộc vào biến động thị trường, không phản ánh năng lực cốt lõi. Cần thận trọng với tính bền vững của dòng tiền.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "BVH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Doanh nghiệp bảo hiểm đầu ngành với danh mục đầu tư tài chính lớn, hưởng lợi trực tiếp từ tăng trưởng lợi nhuận tài chính."
-      }
-    ],
-    "AnalyzedAt": "2026-08-31 05:03:22"
-  },
-  {
-    "Title": "Retail Trading Boom Fuels a 22% Rise in Vietnam’s Stock Market - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGVHNHVkckVYUV9ubnVkeVZKcmljdDdtLUF3ZjVCOG85TmRHWDBodExhMjJwbnEzbmxBVTdyZWRwdWFxblpnblNnQ2NuZkQ0VlZ5NE1wMjh0cmd0Ulp6dXJ0ekg4amtacUlVVUphdzBUVEdyd3EwZTlUVFYzOWZTeFp2Z0dpYWU2VDlxUGk3TVJkRUVXQnlaNGF2aEJ4ZVdaOG1pWmFJSDF6akZlNlFLZ3IxekY2VzF2emp3eUV0WU5uajNX?oc=5",
-    "PubDate": "Tue, 05 Aug 2025 07:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Sự bùng nổ của nhà đầu tư cá nhân làm tăng thanh khoản thị trường, trực tiếp thúc đẩy doanh thu phí môi giới và lãi vay margin của các công ty chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Thanh khoản thị trường tăng mạnh trực tiếp cải thiện doanh thu phí môi giới và lãi margin. Ưu tiên các mã có thị phần bán lẻ dẫn đầu.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thị phần môi giới lớn nhất giúp hưởng lợi trực tiếp từ sự gia tăng thanh khoản và nhu cầu margin."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ làn sóng nhà đầu tư cá nhân nhờ hệ thống giao dịch và tệp khách hàng bán lẻ lớn."
-      },
-      {
-        "Ticker": "HCM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng doanh thu từ phí giao dịch và lãi margin khi dòng tiền cá nhân đổ vào thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-08-31 02:36:13"
-  },
-  {
-    "Title": "Tycoon to the rescue as cheaper China floods Vietnam's economy - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGNxanR4LVlZSGZfLUVocjc3OHY3cTdFMU51UDkzQ0tYWEZJNVU3alMwZ3lzSldWcUYyVnN3a2xUYy1sMWRzMEdOOFFUWDQxcURUX2pNUVFSdm50NTNQbi1OTWNVRTUxVmdKNlFfSjRFT2JlWTZuTVNNNzBIS1Q2b3lVUzh5Z1J6NHJXUWhNRC0?oc=5",
-    "PubDate": "Sat, 29 Aug 2015 07:00:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -5,
-    "MarketImpact": "Hàng hóa giá rẻ từ Trung Quốc tràn vào gây áp lực cạnh tranh gay gắt lên các doanh nghiệp sản xuất nội địa, đặc biệt là nhóm thép và hàng tiêu dùng, làm suy giảm biên lợi nhuận.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Thép và Sản xuất. Hàng giá rẻ Trung Quốc gây áp lực biên lợi nhuận. Dòng tiền thông minh sẽ thận trọng với các mã sản xuất nội địa có rào cản gia nhập thấp.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực cạnh tranh từ thép nhập khẩu giá rẻ làm giảm thị phần và biên lợi nhuận gộp."
-      },
-      {
-        "Ticker": "HSG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Sản phẩm tôn mạ đối mặt với sự cạnh tranh trực tiếp từ hàng giá rẻ Trung Quốc."
-      },
-      {
-        "Ticker": "NKG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Biên lợi nhuận mảng xuất khẩu và nội địa bị thu hẹp do áp lực giá từ hàng nhập khẩu."
-      }
-    ],
-    "AnalyzedAt": "2026-08-31 02:35:53"
-  },
-  {
-    "Title": "HCM: Báo cáo kết quả thực hiện quyền mua cổ phiếu của Người nội bộ Lâm Hữu Hổ - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam9lekpWMjlYS0o0LXdHQWoxMVIxODdoYk9xNkMycDlZcDRKTkNuU29sOGYwSTZDQVRzdkVEWVpXbFNpZGhvSGx1MlhDZzJjSUNsWDdEc25TVzRJdWg0SFZTUkk3T0szOWtoRHVKY3RLelJzSW5VZmxObzQ1T1F3QmQ1bWlQd3ZaRHdLR1FzbURpd3AxZllEUXJHVm9tcUh6NHNrN3R2SE9jb0RTNFBIeGNaSmNQaXFi?oc=5",
-    "PubDate": "Fri, 28 Aug 2026 08:56:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin giao dịch cá nhân của người nội bộ, không làm thay đổi cơ bản hoạt động kinh doanh hay dòng tiền của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Mã HCM. Giao dịch quyền mua của người nội bộ là hoạt động cá nhân, không tác động đến xu hướng dòng tiền lớn của cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-08-31 02:35:37"
   }
 ]
