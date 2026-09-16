@@ -1,22 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ Thời gian: 14:47:39 - 16/09/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 19:54
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lợi suất trái phiếu Mỹ 10 năm chạm đỉnh 5% & giá dầu tăng:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ rút khỏi nhóm có đòn bẩy cao (BĐS: VHM, NVL, PDR) và nhóm chịu áp lực chi phí vốn (Chứng khoán: SSI, VND); áp lực lên tỷ giá USD/VND khiến NHNN khó nới lỏng tiền tệ.]
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Hợp tác Kinh tế Việt - Mỹ:** Việc ký kết các thỏa thuận hợp tác tại New York thúc đẩy kỳ vọng dòng vốn FDI và mở rộng chuỗi cung ứng công nghệ. -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Công nghệ (FPT)** và **Hàng không (VJC)**.
+- **Rủi ro an ninh năng lượng:** Cảnh báo thiếu điện từ 2027 và tình trạng thủy điện thiếu nước do El Nino. -> **Tiêu cực cho Thủy điện (VSH, CHP)** / **Tích cực cho Nhiệt điện (POW)** và các doanh nghiệp **Xây lắp/Thiết bị điện** (do chính sách đẩy mạnh điện mặt trời mái nhà và truyền tải).
+- **Thúc đẩy giao thương biên giới:** Chỉ đạo tạo thuận lợi thông quan với Quảng Tây (Trung Quốc). -> **Tích cực** -> Dòng tiền hướng vào nhóm **Thủy sản (VHC, ANV)** và **Logistics (GMD)**.
+- **Đầu tư hạ tầng Trung Quốc:** Các tập đoàn Trung Quốc quan tâm đầu tư đường sắt/năng lượng. -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xây dựng hạ tầng (VCG, HHV)**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu thế giới tăng cao do căng thẳng cung cầu toàn cầu.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp từ giá dầu, giúp bù đắp rủi ro vĩ mô chung. Tuy nhiên, đà tăng bị kiềm chế bởi áp lực chi phí logistics chung.
-  - Hành động: **Tiếp tục quan sát**, ưu tiên giữ vị thế nếu giá giữ vững nền hỗ trợ ngắn hạn trước áp lực bán giải chấp của thị trường chung.
-- **Mã: AST**
-  - Động lực (FA): Sojitz (Nhật Bản) nâng tỷ lệ sở hữu, gia tăng năng lực quản trị và mở rộng mạng lưới.
-  - Nhận định dòng tiền: Điểm sáng hiếm hoi trong bối cảnh vĩ mô tiêu cực, dòng tiền đầu tư dài hạn có thể tìm đến do sự bảo chứng từ đối tác chiến lược.
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện dòng tiền mạnh đi kèm khối lượng giao dịch đột biến.
-- **Mã: TDH**
-  - Động lực (FA): Lợi nhuận soát xét giảm mạnh 85%, lỗ lũy kế 1.000 tỷ đồng.
-  - Nhận định dòng tiền: Rủi ro hủy niêm yết/hạn chế giao dịch cực cao, áp lực bán tháo diện rộng.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế nếu còn nắm giữ để bảo toàn vốn.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** CEO
+  - **Động lực (FA):** Dòng tiền kinh doanh âm 1.600 tỷ đồng trong 6 tháng.
+  - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do rủi ro thanh khoản và thất vọng của cổ đông trước sự phân kỳ giữa lợi nhuận kế toán và dòng tiền thực tế.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng/quản trị rủi ro chặt chẽ.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Hiện chưa có tin tức mới về EIB và BSR trong chu kỳ 15 phút này. Giữ nguyên chiến lược quan sát "Tái cơ cấu" theo kế hoạch đã thiết lập.
+- **Mã:** DCL
+  - **Động lực (FA):** Giá tăng trần dù lợi nhuận lao dốc.
+  - **Nhận định dòng tiền:** Hiện tượng "kéo xả" đầu cơ điển hình, không có nền tảng cơ bản hỗ trợ.
+  - **Hành động:** Rủi ro vi phạm kịch bản cao, tránh tuyệt đối các điểm đua lệnh theo giá.
+
+- **Mã:** FPT, VJC, VHC, VCG
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ các thỏa thuận vĩ mô mới ký kết và các chỉ đạo thương mại quốc tế.
+  - **Nhận định dòng tiền:** Kỳ vọng nhóm này sẽ thu hút dòng tiền dẫn dắt (Leader) trong ngắn hạn nhờ câu chuyện tăng trưởng rõ ràng.
+  - **Hành động:** Chú ý giải ngân khi có điểm test kỹ thuật an toàn.
