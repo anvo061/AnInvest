@@ -1,21 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:30 - 17/09/2026
+⏱ Thời gian: 03:30 - 17/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Khai thác hạ tầng logistics quốc tế:** Việc khánh thành kênh đào Bình Lục (Trung Quốc) tối ưu hóa logistics qua các cảng biển phía Bắc Việt Nam -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm cổ phiếu **Cảng biển & Vận tải biển**.
-- **Thúc đẩy hạ tầng năng lượng:** Cảnh báo thiếu điện từ 2027 và chủ trương hỗ trợ điện mặt trời mái nhà -> **Tích cực cho nhóm Xây lắp & Thiết bị điện** -> Dòng tiền ưu tiên các doanh nghiệp có năng lực thi công truyền tải và lắp đặt điện.
-- **Hợp tác kinh tế Việt - Mỹ:** Các thỏa thuận công nghệ và vận tải được ký kết trong chuyến công tác của lãnh đạo cấp cao -> **Tích cực** -> Dòng tiền hướng vào nhóm **Công nghệ (FPT)** và **Hàng không (VJC)**.
+- Fed chính thức tăng lãi suất sau 3 năm -> **Tác động: Tiêu cực** -> Dòng tiền rút khỏi nhóm nhạy cảm với chi phí vốn (Chứng khoán: SSI, BĐS: VHM) do áp lực thắt chặt tiền tệ và tỷ giá.
+- Trung Quốc gia tăng công suất lọc dầu & củng cố chuỗi cung ứng với Việt Nam -> **Tác động: Tích cực** -> Dòng tiền hướng vào nhóm Năng lượng thượng nguồn (BSR) và Bất động sản khu công nghiệp/Logistics (KBC, GMD).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: BSR**
+    - Động lực (FA): Nhu cầu nhiên liệu phục hồi từ Trung Quốc hỗ trợ biên lợi nhuận lọc dầu (crack spread).
+    - Nhận định dòng tiền: Hỗ trợ đà tăng giá từ yếu tố hàng hóa, giảm bớt áp lực từ xu hướng vĩ mô tiêu cực chung.
+    - Hành động: Tiếp tục quan sát, ưu tiên giữ vị thế nếu giữ vững nền giá ngắn hạn.
+- **Mã: SSI, VHM**
+    - Động lực (FA): Fed tăng lãi suất tạo áp lực chi phí vốn.
+    - Nhận định dòng tiền: Rủi ro áp lực bán gia tăng trong ngắn hạn do tâm lý thận trọng với ngành tài chính/BĐS.
+    - Hành động: Rủi ro vi phạm kịch bản, cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng.
+- **Mã: MDG**
+    - Động lực (FA): Được cấp lại margin.
+    - Nhận định dòng tiền: Cải thiện thanh khoản, hút dòng tiền đầu cơ cục bộ.
+    - Hành động: Chú ý giải ngân với tỷ trọng nhỏ (đầu cơ).
 - **Mã: PNJ**
-  - Động lực (FA): Dòng vốn ngoại từ Dragon Capital quay lại đối trọng với tin tức bất thường về quy trình thanh toán.
-  - Nhận định dòng tiền: Nhiễu động tâm lý ngắn hạn do quy trình vận hành đang cạnh tranh trực tiếp với tín hiệu dòng tiền thông minh (smart money) từ quỹ ngoại.
-  - Hành động: **Tiếp tục quan sát**. Không giải ngân mới cho đến khi có thông cáo chính thức giải tỏa lo ngại về thanh khoản khách hàng.
-- **Mã: MBB**
-  - Động lực (FA): Kết quả nộp ngân sách vượt mốc 10.000 tỷ đồng, củng cố nền tảng tài chính.
-  - Nhận định dòng tiền: Tin tức hỗ trợ củng cố vị thế nhóm ngân hàng quốc doanh, kỳ vọng dòng tiền ổn định.
-  - Hành động: **Chú ý giải ngân** nếu giá test lại vùng hỗ trợ kỹ thuật gần nhất.
-- **Mã: GEG**
-  - Động lực (FA): Chính sách thúc đẩy điện mặt trời mái nhà từ Bộ Công Thương và hỗ trợ từ địa phương.
-  - Nhận định dòng tiền: Hưởng lợi từ sự hợp lưu giữa chính sách vĩ mô và xu hướng năng lượng sạch.
-  - Hành động: **Chú ý giải ngân** theo kịch bản tích lũy.
+    - Động lực (FA): Thông tin bất thường về quy trình thanh toán gây rủi ro uy tín.
+    - Nhận định dòng tiền: Áp lực bán tháo ngắn hạn do tâm lý tiêu cực của nhà đầu tư.
+    - Hành động: Cần thận trọng, ưu tiên quan sát phản ứng của lực cầu tại vùng giá hỗ trợ.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dữ liệu vĩ mô (nhu cầu dầu phục hồi) bổ trợ tích cực cho kịch bản cơ bản. Tiếp tục giữ vị thế, chưa cần cơ cấu lại dòng tiền vào thời điểm này.
