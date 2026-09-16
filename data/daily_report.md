@@ -1,25 +1,15 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:05 - 16/09/2026
+⏱ Thời gian: 09:25 ngày 16/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất & Chi phí vốn:** Áp lực lãi suất khó giảm do tín dụng tăng nhanh hơn huy động -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm BĐS có đòn bẩy cao; rủi ro biên lợi nhuận ngành ngân hàng].
-- **Năng lượng & Hạ tầng:** Chính phủ đẩy mạnh gỡ vướng pháp lý dự án điện LNG -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm ngành Điện, Xây lắp Dầu khí].
-- **Địa chính trị & Năng lượng:** Căng thẳng Trung Đông leo thang thúc đẩy giá dầu -> [Tác động: Tích cực cho nhóm thượng nguồn, tiêu cực cho logistics/vận tải].
+- Giá dầu thế giới tăng vọt do gián đoạn nguồn cung tại eo biển Hormuz và áp lực lạm phát Mỹ -> Tác động: Tích cực ngắn hạn cho nhóm Năng lượng, rủi ro chi phí cho nhóm Logistics -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm thượng nguồn (Dầu khí).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCG**
-    - Động lực (FA): Cho vay ngoài ngành với lãi suất cao (16%) gây nghi ngại rủi ro quản trị vốn.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể chịu áp lực bán tháo do lo ngại chất lượng tài sản.
-    - Hành động: Rủi ro vi phạm kịch bản, cần quan sát lực bán tại hỗ trợ gần nhất.
-- **Mã: POW, PVS**
-    - Động lực (FA): Hưởng lợi từ chủ trương gỡ vướng dự án điện LNG và giá dầu neo cao.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền dẫn dắt nhóm Năng lượng/Tiện ích trong phiên hôm nay.
-    - Hành động: Chú ý giải ngân nếu có nhịp test cung thành công trong phiên sáng.
-- **Mã: NVL, PDR**
-    - Động lực (FA): Áp lực chi phí vốn tăng cao do mặt bằng lãi suất khó giảm.
-    - Nhận định dòng tiền: Dòng tiền suy yếu, biên lợi nhuận bị bào mòn.
-    - Hành động: Tiếp tục quan sát, ưu tiên quản trị rủi ro, tránh bắt đáy khi chưa có tín hiệu cân bằng vĩ mô.
-- **Mã: PVD**
-    - Động lực (FA): Căng thẳng địa chính trị hỗ trợ giá dầu và triển vọng dịch vụ khoan.
-    - Nhận định dòng tiền: Dòng tiền hưởng lợi từ tâm lý phòng thủ dầu khí.
-    - Hành động: Tiếp tục quan sát điểm entry theo sóng giá dầu.
+- Mã: PVD, PVS
+- Động lực (FA): Giá dầu neo cao sát 110 USD/thùng; thông tin đề xuất tổ hợp lọc hóa dầu tại Cà Mau bổ trợ kỳ vọng dài hạn.
+- Nhận định dòng tiền: Hợp lưu giữa biến động giá hàng hóa thế giới và tin tức đầu tư hạ tầng nội địa tạo "cú hích" kỹ thuật. Dòng tiền đầu cơ và khối ngoại khả năng cao sẽ tập trung vào nhóm này trong phiên sáng.
+- Hành động: Chú ý giải ngân theo đà tăng giá (Trend-following), ưu tiên PVS nếu dòng tiền vào nhóm xây lắp, PVD nếu muốn bám sát biên lợi nhuận giá thuê giàn khoan.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: BSR
+- Nhận định: Giá dầu tăng mạnh giúp cải thiện trực tiếp biên lợi nhuận lọc dầu và giá trị hàng tồn kho hiện hữu. Mặc dù BSR nằm trong danh mục mục tiêu trung hạn, dữ liệu giá dầu hiện tại là động lực gia tăng giá trị nội tại ngắn hạn. -> Tiếp tục giữ vị thế, tận dụng nhịp hưng phấn để tối ưu hóa lợi nhuận thay vì bán sớm.
