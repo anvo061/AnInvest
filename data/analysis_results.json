@@ -1,5 +1,122 @@
 ﻿[
   {
+    "Title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU210dG1ONGRhN0FKOXF3WUpTLVowR3hJTGlsMVA2LVUtXzlacGVGbE5Hd3VLYktLOEgzYXdBZ3llMzFBdW1RMGJJaUxjRWJHSHRNZmh5T3l5RW9qTDE3Y1NRSFhnVjlEQXR0QzY4Ym0zdUc4MGxNdkZMT2NYVVU1eEtxcUtWYS0tdHpCcmJVXzdXRDZFQU1PeHVuc3I2bnUzb3NBR2pSN1V1YmhMSFFz?oc=5",
+    "PubDate": "Wed, 16 Sep 2026 16:38:32 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Căng thẳng địa chính trị tại Trung Đông làm dấy lên lo ngại về nguồn cung dầu thô toàn cầu, gây áp lực lên giá năng lượng và chi phí vận tải biển.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Căng thẳng Trung Đông đẩy giá dầu biến động, gây áp lực chi phí vận hành. Cần theo dõi sát BSR do rủi ro biên lợi nhuận lọc dầu.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "PVD",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro gián đoạn chuỗi cung ứng và chi phí vận hành tăng cao do bất ổn địa chính trị."
+      },
+      {
+        "Ticker": "PVS",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biến động giá dầu và rủi ro dự án ngoài khơi bị ảnh hưởng bởi căng thẳng khu vực."
+      }
+    ],
+    "AnalyzedAt": "2026-09-17 06:05:24"
+  },
+  {
+    "Title": "‘Mắc cạn’ với khoản vay mua nhà, mua xe",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/mac-can-voi-khoan-vay-mua-nha-mua-xe-100260916182312457.htm",
+    "PubDate": "9/16/2026 7:40:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Áp lực nợ xấu gia tăng từ khách hàng cá nhân làm suy giảm khả năng tăng trưởng tín dụng tiêu dùng và bất động sản, gây rủi ro trích lập dự phòng cho các ngân hàng thương mại.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Ngân hàng. Nợ xấu cá nhân tăng gây áp lực lên biên lợi nhuận và chi phí dự phòng. Dòng tiền sẽ thận trọng với các ngân hàng có tỷ trọng cho vay tiêu dùng lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ trọng cho vay tiêu dùng lớn, rủi ro nợ xấu từ khách hàng cá nhân cao trong bối cảnh thu nhập suy giảm."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Danh mục cho vay mua nhà lớn, rủi ro nợ xấu tăng khi khách hàng gặp khó khăn trong việc trả nợ."
+      },
+      {
+        "Ticker": "MBB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tăng trưởng tín dụng cá nhân cao, chịu áp lực trích lập dự phòng nếu nợ xấu từ vay mua nhà, xe tăng mạnh."
+      }
+    ],
+    "AnalyzedAt": "2026-09-17 06:05:00"
+  },
+  {
+    "Title": "Hai quỹ Dragon Capital mua lại gần 750.000 cổ phiếu PNJ chỉ một tháng sau khi bán hết",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/hai-quy-dragon-capital-mua-lai-gan-750000-co-phieu-pnj-chi-mot-thang-sau-khi-ban-het-100260916180214071.htm",
+    "PubDate": "9/16/2026 7:56:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc quỹ ngoại lớn như Dragon Capital quay lại mua ròng PNJ cho thấy sự tự tin vào triển vọng tăng trưởng của doanh nghiệp, tạo tâm lý tích cực cho nhà đầu tư cá nhân và hỗ trợ lực cầu ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - PNJ. Hành động mua lại của Dragon Capital xác nhận vùng giá trị hấp dẫn. Dòng tiền thông minh sẽ gia tăng vị thế, hỗ trợ xu hướng tăng giá ngắn hạn cho cổ phiếu.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lực cầu từ quỹ ngoại lớn giúp cải thiện thanh khoản và củng cố niềm tin của nhà đầu tư vào triển vọng kinh doanh của PNJ."
+      }
+    ],
+    "AnalyzedAt": "2026-09-17 06:04:45"
+  },
+  {
+    "Title": "PNJ xoay vốn nghìn tỷ, muốn trả tiền sớm cho khách giữa 4 bề sức ép",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/pnj-xoay-von-nghin-ty-tinh-tra-tien-som-cho-khach-giua-nhieu-suc-ep-2555727.html",
+    "PubDate": "Thu, 17 Sep 2026 05:20:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Việc PNJ phải huy động vốn lớn để trả nợ sớm cho thấy áp lực thanh khoản hoặc rủi ro từ các sản phẩm tài chính/hợp đồng liên quan, gây lo ngại về dòng tiền hoạt động và uy tín doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - PNJ. Áp lực thanh khoản buộc huy động vốn gấp gây rủi ro chi phí tài chính và biên lợi nhuận. Khuyến nghị quan sát chặt chẽ dòng tiền thoát ra tại vùng hỗ trợ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "PNJ",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực huy động vốn lớn gây lo ngại về sức khỏe tài chính và chi phí lãi vay, ảnh hưởng trực tiếp đến tâm lý nhà đầu tư."
+      }
+    ],
+    "AnalyzedAt": "2026-09-17 06:04:26"
+  },
+  {
+    "Title": "Giá vàng hôm nay 17/9/2026: Thế giới lên cao vút, SJC bật tăng trở lại",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-17-9-2026-the-gioi-len-cao-vut-sjc-bat-tang-tro-lai-2555936.html",
+    "PubDate": "Thu, 17 Sep 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng là hiện tượng tài chính vĩ mô, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Giá vàng biến động là kênh trú ẩn tài sản, không ảnh hưởng đến dòng tiền kinh doanh của các mã niêm yết. Không có tác động đến xu hướng thị trường chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-17 06:04:13"
+  },
+  {
+    "Title": "Các nền tảng gọi xe tại Việt Nam 'chia tiền' cho tài xế thế nào?",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/cac-nen-tang-goi-xe-tai-viet-nam-chia-tien-cho-tai-xe-the-nao-5120726.html",
+    "PubDate": "Thu, 17 Sep 2026 05:05:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết phân tích về mô hình chia sẻ doanh thu giữa nền tảng và tài xế, không có tác động trực tiếp đến kết quả kinh doanh hay định giá của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Bài viết mang tính chất thông tin thị trường lao động tự do, không ảnh hưởng đến dòng tiền của các mã niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-17 06:04:04"
+  },
+  {
     "Title": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JiM0k1cEJ2SDhnVmNCbHJpeWlQWTJyWjVTUDlSX0dhM0I4MHAwOHltcFl6WW5RazFEWE0yYk1ja0hJcnE1cWpJYVZDZFp0cW1XeVpMeXFEc01veFFRRmNZeFhkSXBIeFphV0pYU3NGZjJNbzhfRlFrUk5Gc3puWVo2SllOZm5CM19xZ2dSWGV3aGpzdkdOTFpRVHVMNDRyMTB1WWJRSVFKbVV6YXRJNG9JZU1iMk9XRF9KMlFXUHdNZw?oc=5",
@@ -17442,110 +17559,5 @@
       }
     ],
     "AnalyzedAt": "2026-09-02 18:32:19"
-  },
-  {
-    "Title": "Vietnam’s State Bank to Resume Gold Auctions This Week, Local Media Reports - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWNkd0N2NFExRVZxYXMtUkE2Z3FrYUJjNVVMS1ZzTEx4R0RJUlFSVEpRanpKaWl0enQxbG1zd0t4V0pLczczb3R2eE9rdGo1UzNXQ2FzWVdncjhZUTVEZ1lzbzN4LVpNejEtcm91LV9nM3piRE9GUmZGUjgxc1E5MVlaUjJtS045MzVjWl9JeFdYY0JmNk8wbjFoMlZET3RLdGdqdzdhMTNFYnJLVEZyZg?oc=5",
-    "PubDate": "Mon, 15 Apr 2024 07:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc đấu thầu vàng nhằm tăng cung, giảm chênh lệch giá vàng trong nước và quốc tế, qua đó giảm áp lực lên tỷ giá hối đoái và ổn định vĩ mô, nhưng gây áp lực lên các doanh nghiệp kinh doanh vàng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Đấu thầu vàng nhằm ổn định vĩ mô, giảm áp lực tỷ giá. Tác động lên PNJ không đáng kể do doanh thu chủ yếu từ trang sức, không phải vàng miếng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PNJ",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực từ chính sách quản lý vàng có thể ảnh hưởng đến biên lợi nhuận mảng vàng miếng và tâm lý tiêu dùng vàng."
-      }
-    ],
-    "AnalyzedAt": "2026-09-02 13:32:32"
-  },
-  {
-    "Title": "Stable Vietnam Currency Is Aiding Central Bank in Growth Push - Bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWdRcFZDckl5QTAxRktVNG9nSmF1M19lR3ktRzdHNFVZdTB1a1RzUnlLVXo2Z0pFcF9nT0JMZlZIT29LRWp4bHJrQ1lDdU85QjlkcUhoVS1xOVE2WVpubEpkMW1CVGFlOGVJVE5aU2x4WEFJbFl5MTRqaVlUMGR1bXBwcjdHUUhxaVhackVscnJCbzdDRDQ2TmhsVzdrM2MtUnNsbmVPZHJBR05NdWVab2ZmSm0?oc=5",
-    "PubDate": "Mon, 25 Sep 2017 07:00:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 6,
-    "MarketImpact": "Tỷ giá ổn định giúp Ngân hàng Nhà nước linh hoạt hơn trong chính sách tiền tệ, giảm áp lực lạm phát và chi phí vốn, tạo môi trường thuận lợi cho tăng trưởng tín dụng và thu hút dòng vốn ngoại.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng và BĐS. Tỷ giá ổn định giảm áp lực chi phí vốn, hỗ trợ tăng trưởng tín dụng. Dòng tiền thông minh sẽ ưu tiên VCB, TCB, VHM trong giai đoạn nới lỏng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ môi trường vĩ mô ổn định, tăng trưởng tín dụng và chất lượng tài sản được bảo đảm."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tỷ giá ổn định giúp giảm chi phí huy động vốn ngoại tệ, cải thiện biên lợi nhuận NIM."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Môi trường lãi suất và tỷ giá ổn định hỗ trợ thanh khoản thị trường BĐS và giảm chi phí vay nợ."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Vĩ mô ổn định thúc đẩy dòng vốn ngoại vào thị trường chứng khoán, tăng doanh thu môi giới."
-      }
-    ],
-    "AnalyzedAt": "2026-09-02 13:31:11"
-  },
-  {
-    "Title": "Lịch chốt quyền trả cổ tức trong tuần sau nghỉ lễ 2/9, tỷ lệ cao nhất 16% - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1lDdGpYajRJTFl2ZWpOTzRQenBjaG5YaEFlTVpBMEhGM2pqR0RnMWVmaTROS0FSUXF4OHk5NnVjaUk4OGNTa3hZc3IweFFsbjl0Z25MZDRpUTVkY0ZiSll4SE9faXg3MGItbHNSanN6NDhVMGJYT0xJdkV3TUlFSFJBZHdMQXhtRUZ4eF9IME9BdkJwUW1aUzMtT0lxLUxpdEV5WnpYS0dvbjlPeW5EQw?oc=5",
-    "PubDate": "Mon, 31 Aug 2026 17:02:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin lịch chốt quyền cổ tức là sự kiện định kỳ, không làm thay đổi giá trị nội tại hay triển vọng kinh doanh của doanh nghiệp, tác động đến giá cổ phiếu chỉ mang tính kỹ thuật.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Việc chốt quyền cổ tức là sự kiện kỹ thuật định kỳ. Dòng tiền thông minh không phản ứng với tin tức này trừ khi có sự thay đổi đột biến về chính sách cổ tức.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-02 13:31:01"
-  },
-  {
-    "Title": "DVM: Bổ sung nguyên nhân chứng khoán không được phép giao dịch ký quỹ - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmN3ejNPbV96UEV6cVBhT0wtZlNfVjQyZDY2VDNXQ0dPS2FNekxNNXB5Tmh0SkZiZGhPVW1WQmNfelFxeDh4MHc4aVJ4bjRjaGpWd2FMUGg3M2l5aEZ2bEd1ZGxNZlROX2VIZU9TSTJoeUVoQU9zWjhUMjB6UzFLNnRsNGNXTVpkNTVKU0RUanhfZkljYWZxZlRvdktwa1cxcFBueXJ4VkZGdUFabVE?oc=5",
-    "PubDate": "Wed, 26 Aug 2026 17:00:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin cập nhật quy định hành chính về quản trị rủi ro cho mã DVM, không gây tác động lan tỏa đến thị trường chung hay các nhóm ngành khác.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng ngành. Đây là thay đổi quy định hành chính nội bộ của mã DVM, không tác động đến dòng tiền thị trường. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-02 13:30:51"
-  },
-  {
-    "Title": "Chủ đầu tư The Legend City Danang báo lãi mỏng, nợ phải trả tăng gấp 3 lần - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGFSWGdibk93bWx2MVVKZHphZnJ2U09vaHJmZ1pSRWhTU1Q1T09kXzNqenFGbE1jQmI2aUpzWk9PRVd0OEJQZTN3WlMwY2dHai1VLXdzY01sRXZfTWVJNDZMSS01c1pzUkpzNVRlbEZYMTFieHNHaEVDcVJzbjNmS0JVWEhpY0dfbWxXNWRxMmoxcnhBalBOakVHbl81SmNBek1MM3c0NndjN21Bc1BWZDVVdw?oc=5",
-    "PubDate": "Tue, 01 Sep 2026 13:50:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về một dự án bất động sản cụ thể không niêm yết trên sàn chứng khoán, không gây tác động trực tiếp đến các doanh nghiệp bất động sản lớn đang niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Doanh nghiệp không niêm yết, thông tin mang tính chất tin tức thị trường đơn lẻ, không tác động đến dòng tiền của các mã BĐS trên sàn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-02 13:29:16"
-  },
-  {
-    "Title": "180.000 con tôm hùm giống nhập lậu: Quy trình kiểm dịch tôm hùm giống nhập khẩu ra sao?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/180000-con-tom-hum-giong-nhap-lau-quy-trinh-kiem-dich-tom-hum-giong-nhap-khau-ra-sao-100260902113410398.htm",
-    "PubDate": "9/2/2026 11:58:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là tin tức về quản lý hành chính và kiểm dịch, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp thủy sản niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thủy sản. Tin tức về kiểm dịch tôm giống mang tính chất hành chính, không tạo ra biến động dòng tiền hay thay đổi kỳ vọng lợi nhuận cho các mã thủy sản.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-02 13:29:05"
   }
 ]
