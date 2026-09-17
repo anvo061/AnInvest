@@ -1,24 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:40
+⏱ Thời gian: 05:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Sự hiện diện của các định chế tài chính lớn như Vanguard và BlackRock tại Việt Nam để thảo luận về lộ trình nâng hạng thị trường -> **Tích cực (Tác động mạnh)** -> Dòng vốn ngoại sẽ ưu tiên tập trung mạnh vào nhóm **Bluechips (Ngân hàng, Bất động sản vốn hóa lớn, Công nghệ)** và nhóm **Chứng khoán**.
-- Ngân hàng Nhà nước nới tín dụng cho lĩnh vực khách sạn, nghỉ dưỡng -> **Tích cực** -> Dòng tiền đầu cơ và dòng tiền cơ bản kỳ vọng lan tỏa vào nhóm **Bất động sản nghỉ dưỡng** đang bị định giá thấp.
+- "Ông lớn" bán lẻ Thái Lan dự kiến rót thêm 1,5 tỷ USD vào thị trường Việt Nam -> Tích cực -> Dòng tiền sẽ hướng vào nhóm Bất động sản khu công nghiệp (KCN) và Logistics để đón đầu làn sóng mở rộng mặt bằng và chuỗi cung ứng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VCB, VHM, SSI, FPT, HPG**
-  - Động lực (FA): Xác nhận sự quan tâm trực tiếp từ dòng vốn ngoại (Vanguard, BlackRock) trước thềm nâng hạng.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn từ các quỹ ETF và quỹ chủ động chảy vào nhóm này để gia tăng tỷ trọng theo lộ trình nâng hạng.
-  - Hành động: **Chú ý giải ngân** theo chiến lược tích lũy khi thị trường rung lắc do hiệu ứng tin tức.
-- Mã: **NVL, PDR**
-  - Động lực (FA): Chính sách nới tín dụng cho lĩnh vực khách sạn, nghỉ dưỡng.
-  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp để giảm áp lực tài chính, tạo động lực ngắn hạn cho dòng tiền đầu cơ nhập cuộc.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ kỹ thuật cứng.
+- Mã: **KBC, SZC**
+- Động lực (FA): Hưởng lợi trực tiếp từ dòng vốn FDI 1,5 tỷ USD của nhà bán lẻ Thái Lan (nhu cầu thuê kho bãi, trung tâm phân phối và hạ tầng KCN).
+- Nhận định dòng tiền: Tin tức mang tính chất củng cố niềm tin vào nhu cầu thực đối với phân khúc đất công nghiệp, tạo hỗ trợ tâm lý tốt trong ngắn hạn.
+- Hành động: Tiếp tục quan sát phản ứng tại các vùng hỗ trợ cứng; giải ngân từng phần nếu khối lượng giao dịch tăng đột biến vượt trung bình 20 phiên.
+
+- Mã: **GMD**
+- Động lực (FA): Chuỗi bán lẻ ngoại mở rộng quy mô yêu cầu hệ thống logistics mạnh.
+- Nhận định dòng tiền: Hưởng lợi gián tiếp, kỳ vọng cải thiện tăng trưởng doanh thu từ dịch vụ vận chuyển và kho bãi.
+- Hành động: Theo dõi sát sao dòng tiền khối ngoại (Net Buy/Sell); chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
+
 - Mã: **HAG**
-  - Động lực (FA): Giá sầu riêng tăng cao, cải thiện trực tiếp biên lợi nhuận.
-  - Nhận định dòng tiền: Dòng tiền hưởng lợi từ giá hàng hóa nông nghiệp, mang tính cục bộ.
-  - Hành động: **Tiếp tục quan sát** biên độ dao động giá theo xu hướng tăng của giá nông sản.
-- Mã: **MWG, FRT**
-  - Động lực (FA): Kỳ vọng tăng trưởng doanh thu từ sự kiện mở bán iPhone 18.
-  - Nhận định dòng tiền: Động lực ngắn hạn từ sức mua tiêu dùng, có thể gia tăng thanh khoản trong giai đoạn mở bán.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại điểm hợp lưu tin tức.
+- Động lực (FA): Giá sầu riêng tăng cao giúp cải thiện biên lợi nhuận đáng kể.
+- Nhận định dòng tiền: Phản ứng nhanh với tin tức hàng hóa (commodity play), dòng tiền đầu cơ sẽ nhạy sóng.
+- Hành động: Chú ý giải ngân với tỷ trọng thấp (tính chất đầu cơ cao), ưu tiên lướt sóng dựa trên phản ứng giá tại vùng kháng cự.
