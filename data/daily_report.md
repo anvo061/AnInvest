@@ -1,24 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 19:15
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 22:50 ngày 17/09/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thông tin:** Bộ Tài chính & UBCKNN họp cùng các tổ chức tài chính quốc tế lớn (FTSE Russell, Vanguard, BlackRock) về nâng hạng thị trường. -> **Đánh giá:** Tích cực. -> **Dòng tiền:** Tập trung mạnh vào nhóm VN30 (ngân hàng, trụ cột) và nhóm Chứng khoán (đầu ngành).
-- **Thông tin:** Cơ chế "góp vốn" dự án hạ tầng liên vùng theo Luật Phát triển đô thị mới được khơi thông. -> **Đánh giá:** Tích cực. -> **Dòng tiền:** Nhóm Xây dựng hạ tầng & Đầu tư công (VCG, HHV).
-- **Thông tin:** Giá xăng dầu tăng mạnh. -> **Đánh giá:** Tiêu cực (Chi phí đẩy). -> **Dòng tiền:** Phân hóa (Áp lực biên lợi nhuận lên Logistics như GMD, HAH; Hỗ trợ tâm lý nhóm Dầu khí thượng nguồn như PVD, GAS).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Kỳ vọng nâng hạng thị trường lên tầm cao mới:** Hội nghị cấp cao giữa Bộ Tài chính, UBCKNN với FTSE Russell và các định chế tài chính lớn toàn cầu (Vanguard, BlackRock) xác nhận lộ trình nâng hạng đang ở giai đoạn quyết định. -> **Tích cực** -> Dòng tiền dự kiến tập trung mạnh vào nhóm **Vốn hóa lớn (Large-caps)**, **Ngân hàng (VCB, HDB)** và **Chứng khoán (SSI)**.
+- **Tháo gỡ điểm nghẽn dự án năng lượng trọng điểm:** Việc yêu cầu đẩy nhanh tiến độ cho các dự án điện khí Sông Hậu 2, Ô Môn 2 & 3 trong tháng 9 giúp khơi thông hạ tầng năng lượng. -> **Tích cực** -> Nhóm **Năng lượng & Xây lắp (POW, PC1)** sẽ có dòng tiền chú ý.
+- **Tiêu thụ bán lẻ quý cuối năm:** Sự kiện mở bán iPhone 18 tại Việt Nam là động lực ngắn hạn cho ngành bán lẻ. -> **Tích cực** -> Dòng tiền ngắn hạn hướng vào **MWG, FRT**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **SSI**
-    - **Động lực (FA):** Hưởng lợi kép từ kỳ vọng nâng hạng và sự gia tăng thanh khoản thị trường/dư nợ margin.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ đang tập trung mạnh, lực cầu hỗ trợ bởi câu chuyện vĩ mô dài hạn.
-    - **Hành động:** Chú ý giải ngân theo nhịp chỉnh, ưu tiên vị thế nắm giữ theo sóng nâng hạng.
-- **Mã:** **VCG**
-    - **Động lực (FA):** Luật Phát triển đô thị tháo gỡ nút thắt vốn cho các dự án hạ tầng liên vùng.
-    - **Nhận định dòng tiền:** Đang được hỗ trợ bởi chính sách thực tế, khả năng duy trì xung lực tăng trưởng.
-    - **Hành động:** Tiếp tục quan sát điểm bứt phá nền giá; giải ngân nếu khối lượng xác nhận.
-- **Mã:** **PLX**
-    - **Động lực (FA):** Áp lực cung ngắn hạn từ việc bán sạch cổ phiếu quỹ.
-    - **Nhận định dòng tiền:** Dòng tiền đang rút nhẹ do tâm lý chốt lời kỹ thuật, chưa ảnh hưởng FA nhưng cần thời gian cân bằng cung-cầu.
-    - **Hành động:** Tiếp tục quan sát, tránh bắt đáy sớm khi áp lực cung còn dư địa.
-
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- Hiện tại không có tin tức biến động mới liên quan đến EIB, BSR trong khung 15 phút qua. Giữ nguyên chiến lược quan sát theo danh mục mục tiêu.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** HDB
+  - **Động lực (FA):** Khối ngoại liên tục gom ròng, dẫn dắt đà tăng của nhóm ngân hàng.
+  - **Nhận định dòng tiền:** Dòng tiền thông minh đang ưu tiên các cổ phiếu có định giá hợp lý và tính thanh khoản cao để đón đầu làn sóng vốn ngoại ETF.
+  - **Hành động:** Chú ý giải ngân theo đà tăng (Breakout momentum).
+- **Mã:** POW
+  - **Động lực (FA):** Chỉ đạo tháo gỡ vướng mắc dự án điện khí trong tháng 9 (tín hiệu thời hạn cụ thể).
+  - **Nhận định dòng tiền:** Phá vỡ sự ảm đạm của nhóm điện, dòng tiền có thể chuyển dịch từ nhóm phòng thủ sang kỳ vọng tăng trưởng từ dự án mới.
+  - **Hành động:** Tiếp tục quan sát phản ứng tại các vùng cản ngắn hạn.
+- **Mã:** SSI
+  - **Động lực (FA):** Hưởng lợi kép từ thanh khoản thị trường tăng và câu chuyện nâng hạng.
+  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và khối ngoại đang cùng hướng vào nhóm chứng khoán đầu ngành.
+  - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp điều chỉnh trong phiên.
