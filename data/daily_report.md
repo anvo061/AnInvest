@@ -1,20 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:45 ngày 18/09/2026
+⏱ Thời gian: 12:05 (18/09/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá trung tâm tăng cao:** Áp lực lên chi phí tài chính của doanh nghiệp vay nợ ngoại tệ và chi phí nguyên liệu nhập khẩu -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng dịch chuyển từ nhóm sản xuất thâm dụng nhập khẩu sang nhóm hưởng lợi từ xuất khẩu (USD) hoặc có dư nợ thấp.
-- **Bổ sung vốn tín dụng cho cao tốc Bảo Lộc - Liên Khương:** Tháo gỡ nút thắt tài chính cho hạ tầng trọng điểm -> Đánh giá: **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm Xây dựng hạ tầng/Vật liệu xây dựng.
+- **Kỳ vọng nâng hạng thị trường (FTSE) đối đầu với áp lực thắt chặt tiền tệ (Fed/BOJ tăng lãi suất):** Đánh giá tác động: **Trung lập/Phân hóa**. Dòng tiền sẽ có sự dịch chuyển mạnh từ nhóm đầu cơ nhạy cảm với lãi suất (BĐS, vay nợ ngoại tệ) sang các mã vốn hóa lớn (Bluechips) có câu chuyện nâng hạng và định giá hấp dẫn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** **HHV, VCG**
-  - Động lực (FA): Dự án cao tốc Bảo Lộc - Liên Khương được bổ sung gần 3.000 tỷ đồng vốn tín dụng, đẩy nhanh tiến độ thi công.
-  - Nhận định dòng tiền: Kỳ vọng tạo sóng ngắn hạn do yếu tố tin tức hỗ trợ trực tiếp khối lượng công việc thực tế của doanh nghiệp.
-  - Hành động: **Chú ý giải ngân** nếu có sự xác nhận của dòng tiền trong phiên sáng (vượt cản ngắn hạn).
-- **Mã:** **POW, HPG**
-  - Động lực (FA): Áp lực từ tỷ giá trung tâm tiếp tục tăng cao.
-  - Nhận định dòng tiền: Rủi ro điều chỉnh do tâm lý nhà đầu tư lo ngại biên lợi nhuận bị thu hẹp bởi chi phí tài chính và nguyên liệu.
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quan sát ngưỡng hỗ trợ cứng, hạn chế bắt đáy khi tỷ giá chưa hạ nhiệt.
-- **Mã:** **VHC, TNG**
-  - Động lực (FA): Hưởng lợi từ chênh lệch tỷ giá do doanh thu xuất khẩu bằng USD.
-  - Nhận định dòng tiền: Dòng tiền phòng thủ có thể tìm đến các mã này như "nơi trú ẩn" tạm thời trước biến động vĩ mô.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự.
+- **Mã: VHM, VCB, HPG, SSI**
+- **Động lực (FA):** Dòng vốn ngoại rục rịch giải ngân trước kỳ vọng nâng hạng FTSE, bất chấp áp lực vĩ mô từ lãi suất quốc tế.
+- **Nhận định dòng tiền:** Dòng tiền thông minh ưu tiên các mã trụ có tính thanh khoản cao để đón đầu làn sóng vốn ngoại. Nhóm Chứng khoán (SSI) được hưởng lợi kép từ kỳ vọng thanh khoản tăng vọt (dự báo 3-4 tỷ USD/phiên).
+- **Hành động:** 
+    - **VHM, VCB, HPG:** Quan sát vùng hỗ trợ cứng, ưu tiên nắm giữ đón đầu dòng vốn khối ngoại.
+    - **SSI:** Chú ý giải ngân nếu thanh khoản thị trường chung duy trì đà tăng trưởng, bất chấp áp lực lãi suất ngắn hạn.
+
+- **Mã: POW, REE**
+- **Động lực (FA):** BOJ tăng lãi suất lên cao nhất 31 năm.
+- **Nhận định dòng tiền:** Rủi ro chi phí tài chính tăng vọt do dư nợ vay đồng Yên (JPY) gây áp lực lên lợi nhuận.
+- **Hành động:** **Rủi ro vi phạm kịch bản**. Cần kiểm tra lại tỷ trọng dư nợ vay bằng JPY trong báo cáo tài chính mới nhất trước khi quyết định giữ vị thế.
+
+- **Mã: TNG, VHC**
+- **Động lực (FA):** Rủi ro thuế quan từ Mỹ (Trump Tariffs) trong chuyến công du ngoại giao.
+- **Nhận định dòng tiền:** Tiềm ẩn áp lực bán ròng từ khối ngoại do lo ngại biên lợi nhuận bị bào mòn.
+- **Hành động:** Tiếp tục quan sát kết quả đàm phán thương mại, hạn chế gia tăng vị thế mới khi chưa có thông tin rõ ràng về lộ trình thuế quan.
