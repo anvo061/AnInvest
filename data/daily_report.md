@@ -1,25 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:15 ngày 19/09/2026
+⏱ Thời gian: 14:24
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Fed tăng lãi suất & BOJ thắt chặt chính sách:** Tạo áp lực kép lên tỷ giá USD/VND và JPY/VND, buộc NHNN phải thận trọng hơn trong điều tiết thanh khoản -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm nhạy cảm lãi suất/vay nợ ngoại tệ cao (Bất động sản, Vận tải, Điện) để trú ẩn hoặc ưu tiên nhóm vốn hóa lớn hưởng lợi từ nâng hạng.
-- **Triển vọng nâng hạng thị trường (FTSE Russell):** Củng cố niềm tin dòng vốn ngoại (ETF) -> **Tích cực** -> Dòng tiền sẽ tập trung vào các mã trụ cột trong danh mục chỉ số (HPG, VHM, VCB, SSI).
-- **Sản lượng gạo Ấn Độ sụt giảm:** Cơ hội tăng giá xuất khẩu -> **Tích cực** -> Dòng tiền có thể tìm đến nhóm cổ phiếu xuất khẩu gạo (nhóm ngành nông nghiệp/lương thực).
+- **Fitch hạ triển vọng tín nhiệm quốc gia do lạm phát cao** -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi các nhóm cổ phiếu nhạy cảm với lãi suất, ưu tiên trú ẩn vào các cổ phiếu có dòng tiền hoạt động kinh doanh ổn định, ít nợ vay hoặc nhóm xuất khẩu hưởng lợi từ tỷ giá.
+- **FTSE đẩy mạnh hợp tác sau nâng hạng & TP.HCM tăng tốc giải ngân cuối năm** -> Đánh giá: **Tích cực (đối trọng)** -> Dòng tiền phân hóa mạnh giữa nhóm vốn hóa lớn (Bluechips/Nâng hạng) và nhóm hưởng lợi từ đầu tư công.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-  - Động lực (FA): Hưởng lợi trực tiếp từ kỳ vọng nâng hạng và sự gia tăng thanh khoản thị trường.
-  - Nhận định dòng tiền: Dòng tiền ngoại đang quay lại hỗ trợ, nhưng cần chú ý áp lực từ chi phí vốn tăng do Fed.
-  - Hành động: Chú ý giải ngân, theo dõi sát biên độ tại vùng hỗ trợ khi thị trường điều chỉnh.
-- **Mã: VHM**
-  - Động lực (FA): Mục tiêu ưu tiên của khối ngoại và các quỹ ETF đón đầu nâng hạng.
-  - Nhận định dòng tiền: Hợp lưu tích cực từ khối ngoại (mua ròng 2.600 tỷ tuần qua) đối trọng với áp lực lãi suất cao.
-  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ nếu giữ vững mốc kỹ thuật hiện tại.
-- **Mã: POW**
-  - Động lực (FA): Áp lực kép từ nợ vay USD (Fed tăng lãi suất) và JPY (BOJ tăng lãi suất).
-  - Nhận định dòng tiền: Rủi ro bị rút vốn cao do chi phí tài chính dự kiến tăng mạnh.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
-- **Mã: GMD, HAH**
-  - Động lực (FA): Giá dầu neo cao gây áp lực chi phí đẩy, giảm biên lợi nhuận logistics.
-  - Nhận định dòng tiền: Tiêu cực, dòng tiền ngắn hạn có dấu hiệu chốt lời khi chi phí đầu vào tăng.
-  - Hành động: Rủi ro vi phạm kịch bản, cân nhắc giảm vị thế.
+- **Mã: HAX**
+    - Động lực (FA): Công bố kế hoạch mua lại 5 triệu cổ phiếu quỹ.
+    - Nhận định dòng tiền: Tín hiệu hỗ trợ giá mạnh trong ngắn hạn, giảm áp lực cung trôi nổi.
+    - Hành động: Chú ý giải ngân vùng hỗ trợ cứng nếu có nhịp rung lắc theo chỉ số chung.
+- **Mã: VCG, KDH**
+    - Động lực (FA): Hưởng lợi trực tiếp từ chủ trương đẩy mạnh đầu tư công và tháo gỡ pháp lý tại TP.HCM trong 4 tháng cuối năm.
+    - Nhận định dòng tiền: Nhóm cổ phiếu hạ tầng và BĐS khu vực phía Nam có khả năng đi ngược xu hướng nếu vĩ mô chung chịu áp lực từ tin tức lạm phát.
+    - Hành động: Tiếp tục quan sát điểm entry trong các nhịp điều chỉnh.
+- **Mã: HAG**
+    - Động lực (FA): Mở rộng xuất khẩu nông sản sang thị trường Nhật Bản.
+    - Nhận định dòng tiền: Gia tăng sự quan tâm từ dòng tiền đầu cơ nhờ câu chuyện cải thiện biên lợi nhuận ngoại tệ.
+    - Hành động: Quan sát phản ứng tại các vùng kháng cự kỹ thuật.
+- **Mã: SSI, VHM, VCB, HPG**
+    - Động lực (FA): Các trụ cột hưởng lợi từ tiến trình nâng hạng và sự gia tăng hợp tác với FTSE Russell.
+    - Nhận định dòng tiền: Nhóm này sẽ chịu áp lực rung lắc từ tin tiêu cực vĩ mô (lạm phát) nhưng được neo giữ bởi kỳ vọng dòng vốn ETF.
+    - Hành động: Tiếp tục quan sát. Nếu lực bán mạnh do tâm lý "lạm phát" khiến chiết khấu sâu, đây là điểm mua chiến lược cho mục tiêu dài hạn.
