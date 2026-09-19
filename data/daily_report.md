@@ -1,24 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:24
+⏱ Thời gian: 19:15 ngày 19/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Fitch hạ triển vọng tín nhiệm quốc gia do lạm phát cao** -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi các nhóm cổ phiếu nhạy cảm với lãi suất, ưu tiên trú ẩn vào các cổ phiếu có dòng tiền hoạt động kinh doanh ổn định, ít nợ vay hoặc nhóm xuất khẩu hưởng lợi từ tỷ giá.
-- **FTSE đẩy mạnh hợp tác sau nâng hạng & TP.HCM tăng tốc giải ngân cuối năm** -> Đánh giá: **Tích cực (đối trọng)** -> Dòng tiền phân hóa mạnh giữa nhóm vốn hóa lớn (Bluechips/Nâng hạng) và nhóm hưởng lợi từ đầu tư công.
+- Vanguard dự kiến đổ 2,5 tỷ USD và kỳ vọng nâng hạng thị trường -> Đánh giá: Tích cực (Lực đỡ dài hạn cho thanh khoản) -> Dòng tiền ưu tiên: Nhóm vốn hóa lớn (Bluechips, Tài chính, Bất động sản thương mại).
+- Chính phủ yêu cầu chấm dứt cho vay "sân sau" -> Đánh giá: Tiêu cực (Áp lực rủi ro thanh khoản nội tại) -> Dòng tiền cảnh giác: Nhóm ngân hàng có hệ sinh thái tập đoàn phức tạp và doanh nghiệp BĐS phụ thuộc tín dụng nội bộ.
+- Fitch hạ triển vọng tín nhiệm quốc gia do lạm phát -> Đánh giá: Tiêu cực (Rủi ro chi phí vốn) -> Dòng tiền sẽ bị phân hóa mạnh, áp lực lên dòng vốn ngoại.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HAX**
-    - Động lực (FA): Công bố kế hoạch mua lại 5 triệu cổ phiếu quỹ.
-    - Nhận định dòng tiền: Tín hiệu hỗ trợ giá mạnh trong ngắn hạn, giảm áp lực cung trôi nổi.
-    - Hành động: Chú ý giải ngân vùng hỗ trợ cứng nếu có nhịp rung lắc theo chỉ số chung.
-- **Mã: VCG, KDH**
-    - Động lực (FA): Hưởng lợi trực tiếp từ chủ trương đẩy mạnh đầu tư công và tháo gỡ pháp lý tại TP.HCM trong 4 tháng cuối năm.
-    - Nhận định dòng tiền: Nhóm cổ phiếu hạ tầng và BĐS khu vực phía Nam có khả năng đi ngược xu hướng nếu vĩ mô chung chịu áp lực từ tin tức lạm phát.
-    - Hành động: Tiếp tục quan sát điểm entry trong các nhịp điều chỉnh.
-- **Mã: HAG**
-    - Động lực (FA): Mở rộng xuất khẩu nông sản sang thị trường Nhật Bản.
-    - Nhận định dòng tiền: Gia tăng sự quan tâm từ dòng tiền đầu cơ nhờ câu chuyện cải thiện biên lợi nhuận ngoại tệ.
-    - Hành động: Quan sát phản ứng tại các vùng kháng cự kỹ thuật.
-- **Mã: SSI, VHM, VCB, HPG**
-    - Động lực (FA): Các trụ cột hưởng lợi từ tiến trình nâng hạng và sự gia tăng hợp tác với FTSE Russell.
-    - Nhận định dòng tiền: Nhóm này sẽ chịu áp lực rung lắc từ tin tiêu cực vĩ mô (lạm phát) nhưng được neo giữ bởi kỳ vọng dòng vốn ETF.
-    - Hành động: Tiếp tục quan sát. Nếu lực bán mạnh do tâm lý "lạm phát" khiến chiết khấu sâu, đây là điểm mua chiến lược cho mục tiêu dài hạn.
+- Mã: **SSI, VHM, VCB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ dòng vốn ngoại (Vanguard) và câu chuyện nâng hạng thị trường.
+    - Nhận định dòng tiền: Kỳ vọng gia tăng tỷ trọng khối ngoại trong ngắn và trung hạn, tạo nền giá cứng.
+    - Hành động: Tiếp tục nắm giữ, canh nhịp chỉnh để tích lũy thêm nếu dòng tiền lan tỏa.
+- Mã: **TCB, VPB, NVL**
+    - Động lực (FA): Chỉ đạo siết tín dụng "sân sau" của Chính phủ.
+    - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do lo ngại về cấu trúc tài chính và tính minh bạch.
+    - Hành động: Hạ tỷ trọng, quản trị rủi ro vi phạm kịch bản kỹ thuật (ngưỡng hỗ trợ gần nhất).
+- Mã: **HAX**
+    - Động lực (FA): Đăng ký mua lại 5 triệu cổ phiếu quỹ.
+    - Nhận định dòng tiền: Tín hiệu hỗ trợ giá mạnh từ nội tại doanh nghiệp, giảm cung trôi nổi.
+    - Hành động: Theo dõi sát lực cầu, chú ý điểm giải ngân nếu thị trường chung ổn định.
+- Mã: **VCG, KDH**
+    - Động lực (FA): TP.HCM đẩy nhanh tiến độ đầu tư công và tháo gỡ pháp lý cuối năm.
+    - Nhận định dòng tiền: Hưởng lợi từ chủ trương đầu tư công, dòng tiền có xu hướng luân chuyển vào các nhóm ngành hạ tầng cơ bản.
+    - Hành động: Chú ý giải ngân theo nhịp tích lũy kỹ thuật.
