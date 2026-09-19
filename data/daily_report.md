@@ -1,25 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 19/09/2026
+⏱ Thời gian: 09:15 ngày 19/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Fed tăng lãi suất tạo áp lực lên chi phí vốn, đối trọng với kỳ vọng tăng trưởng GDP 7 năm cao nhất của Việt Nam -> **Tác động: Trung lập nghiêng về Giằng co** -> Dòng tiền phân hóa mạnh: Nhóm ngành nhạy cảm lãi suất (BĐS, Chứng khoán) chịu áp lực ngắn hạn, trong khi nhóm Tài chính & KCN hưởng lợi từ tăng trưởng kinh tế dài hạn.
+- **Fed tăng lãi suất & BOJ thắt chặt chính sách:** Tạo áp lực kép lên tỷ giá USD/VND và JPY/VND, buộc NHNN phải thận trọng hơn trong điều tiết thanh khoản -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm nhạy cảm lãi suất/vay nợ ngoại tệ cao (Bất động sản, Vận tải, Điện) để trú ẩn hoặc ưu tiên nhóm vốn hóa lớn hưởng lợi từ nâng hạng.
+- **Triển vọng nâng hạng thị trường (FTSE Russell):** Củng cố niềm tin dòng vốn ngoại (ETF) -> **Tích cực** -> Dòng tiền sẽ tập trung vào các mã trụ cột trong danh mục chỉ số (HPG, VHM, VCB, SSI).
+- **Sản lượng gạo Ấn Độ sụt giảm:** Cơ hội tăng giá xuất khẩu -> **Tích cực** -> Dòng tiền có thể tìm đến nhóm cổ phiếu xuất khẩu gạo (nhóm ngành nông nghiệp/lương thực).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL, PDR**
-  - Động lực (FA): Được hỗ trợ bởi gói tín dụng 30.000 tỷ đồng cho BĐS nghỉ dưỡng tại TP.HCM, đối trọng với áp lực lãi suất từ Fed.
-  - Nhận định dòng tiền: Tin tức về gói tín dụng tạo "cửa thoát" ngắn hạn cho áp lực tài chính, giảm bớt tâm lý hoảng loạn do lãi suất.
-  - Hành động: **Tiếp tục quan sát** phản ứng vùng hỗ trợ; chưa nên gia tăng tỷ trọng khi rủi ro chi phí vốn từ Fed vẫn hiện hữu.
-
-- **Mã: PVD, BSR**
-  - Động lực (FA): Giá dầu thế giới quay đầu giảm sâu, ảnh hưởng trực tiếp đến biên lợi nhuận.
-  - Nhận định dòng tiền: Dòng tiền có khả năng rút khỏi nhóm Dầu khí do mất đi động lực tăng trưởng ngắn hạn từ giá dầu.
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ kỹ thuật quan trọng.
-
 - **Mã: SSI**
-  - Động lực (FA): Hợp lưu giữa dòng vốn ngoại (dự báo 2,5 tỷ USD mới là khởi đầu) và kỳ vọng nâng hạng, đối trọng với áp lực thanh khoản từ Fed.
-  - Nhận định dòng tiền: Nhóm Chứng khoán vẫn là "hải đăng" thu hút dòng tiền dẫn dắt khi thị trường có kỳ vọng lớn về dòng vốn ngoại.
-  - Hành động: **Chú ý giải ngân** nếu thị trường duy trì thanh khoản ổn định bất chấp áp lực lãi suất.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Dữ liệu giá dầu giảm sâu kết hợp với rủi ro trích lập dự phòng hàng tồn kho tại thời điểm tháng 06/2026 đặt BSR vào trạng thái cần tái đánh giá khắt khe. Dữ liệu hiện tại **chưa đủ mạnh để giữ vị thế dài hạn** nếu biên lợi nhuận lọc dầu bị thu hẹp đáng kể. Cần theo dõi chặt chẽ báo cáo lưu chuyển tiền tệ quý tới trước khi quyết định giữ hay thoát vị thế.
+  - Động lực (FA): Hưởng lợi trực tiếp từ kỳ vọng nâng hạng và sự gia tăng thanh khoản thị trường.
+  - Nhận định dòng tiền: Dòng tiền ngoại đang quay lại hỗ trợ, nhưng cần chú ý áp lực từ chi phí vốn tăng do Fed.
+  - Hành động: Chú ý giải ngân, theo dõi sát biên độ tại vùng hỗ trợ khi thị trường điều chỉnh.
+- **Mã: VHM**
+  - Động lực (FA): Mục tiêu ưu tiên của khối ngoại và các quỹ ETF đón đầu nâng hạng.
+  - Nhận định dòng tiền: Hợp lưu tích cực từ khối ngoại (mua ròng 2.600 tỷ tuần qua) đối trọng với áp lực lãi suất cao.
+  - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ nếu giữ vững mốc kỹ thuật hiện tại.
+- **Mã: POW**
+  - Động lực (FA): Áp lực kép từ nợ vay USD (Fed tăng lãi suất) và JPY (BOJ tăng lãi suất).
+  - Nhận định dòng tiền: Rủi ro bị rút vốn cao do chi phí tài chính dự kiến tăng mạnh.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
+- **Mã: GMD, HAH**
+  - Động lực (FA): Giá dầu neo cao gây áp lực chi phí đẩy, giảm biên lợi nhuận logistics.
+  - Nhận định dòng tiền: Tiêu cực, dòng tiền ngắn hạn có dấu hiệu chốt lời khi chi phí đầu vào tăng.
+  - Hành động: Rủi ro vi phạm kịch bản, cân nhắc giảm vị thế.
