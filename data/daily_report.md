@@ -1,27 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:45 - 20/09/2026
+⏱ Thời gian: 02:45 - 20/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Fed tăng lãi suất lần đầu sau 3 năm -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Áp lực lên nhóm Tài chính (Chứng khoán, BĐS) do chi phí vốn tăng, gây áp lực lên tỷ giá USD/VND].
-- Cuộc gặp Bộ Tài chính và FTSE Russell về nâng hạng thị trường -> [Đánh giá: Tích cực (Dài hạn)] -> [Dòng tiền: Ưu tiên nhóm vốn hóa lớn (Bluechips, Ngân hàng) để đón dòng vốn ETF].
+- **Tỷ giá VND tăng giá 1% so với USD:** Tác động **Tích cực** đến các doanh nghiệp có dư nợ vay ngoại tệ lớn và chi phí nhập khẩu cao, giúp giảm áp lực trích lập dự phòng lỗ tỷ giá. Dòng tiền sẽ ưu tiên các nhóm ngành Điện (POW), Hàng không (HVN) và Thép (HPG).
+- **Kỳ vọng nâng hạng thị trường (VN-Index):** Tác động **Tích cực** dài hạn, tạo lực hút dòng vốn ETF/quỹ ngoại vào các cổ phiếu vốn hóa lớn, củng cố vị thế nhóm Tài chính và Bất động sản vốn hóa lớn (SSI, VCB, VHM).
+- **Lưu ý nghịch đảo:** Mặc dù ghi nhận tin tức Fed tăng lãi suất (ảnh hưởng tiêu cực nhóm BĐS/Chứng khoán), việc tỷ giá trong nước đang diễn biến ngược chiều (tăng giá) là tín hiệu "hấp thụ" vĩ mô cần theo dõi sát để xác định đâu là lực tác động chủ đạo lên dòng tiền.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **NVL, PDR, SSI, VND**
-  - Động lực (FA): Áp lực lãi suất từ Fed làm tăng chi phí nợ vay và giảm kỳ vọng margin thị trường.
-  - Nhận định dòng tiền: Khả năng cao chịu áp lực chốt lời ngắn hạn từ khối ngoại và nhà đầu tư cá nhân lo ngại thắt chặt tiền tệ.
-  - Hành động: **Rủi ro vi phạm kịch bản**. Quan sát vùng hỗ trợ kỹ thuật, không bắt đáy trong phiên chịu áp lực tin tức vĩ mô tiêu cực.
-
-- Mã: **VCB, VHM**
-  - Động lực (FA): Lộ trình nâng hạng thị trường thúc đẩy sự quan tâm từ các định chế tài chính toàn cầu.
-  - Nhận định dòng tiền: Hấp thụ dòng vốn chủ động/thụ động kỳ vọng nâng hạng, giữ vai trò giữ nhịp chỉ số.
-  - Hành động: **Tiếp tục quan sát** vị thế nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc do tin lãi suất Fed.
-
-- Mã: **HAG**
-  - Động lực (FA): Giá sầu riêng tăng mạnh (>90.000 đồng/kg).
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp về biên lợi nhuận, có thể thu hút dòng tiền đầu cơ khi thị trường chung biến động do vĩ mô.
-  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức thanh khoản ổn định trong phiên.
-
-- Mã: **VNM**
-  - Động lực (FA): Mở rộng kênh phân phối tại Mỹ.
-  - Nhận định dòng tiền: Phản ứng tích cực do đa dạng hóa nguồn thu bền vững, tạo điểm trú ẩn (defensive stock) an toàn trong giai đoạn vĩ mô bất ổn.
-  - Hành động: **Tiếp tục quan sát** phản ứng giá tại các vùng cản.
+- **Mã: HNG**
+  - Động lực (FA): Lỗ lũy kế 13.200 tỷ đồng, thay đổi cơ cấu sở hữu.
+  - Nhận định dòng tiền: Rủi ro thoát vốn mạnh từ nhóm nhà đầu tư cá nhân và áp lực bán kỹ thuật do vi phạm điều kiện niêm yết.
+  - Hành động: **Rủi ro vi phạm kịch bản**; khuyến nghị thoát vị thế, không bắt đáy trong giai đoạn tái cơ cấu chưa rõ ràng.
+- **Mã: VNM**
+  - Động lực (FA): Mở rộng kênh phân phối tại thị trường Mỹ.
+  - Nhận định dòng tiền: Tin tức hỗ trợ củng cố đà tăng bền vững, tạo điểm tựa tâm lý cho dòng tiền trung hạn.
+  - Hành động: **Tiếp tục quan sát** phản ứng vùng giá hiện tại để gia tăng tỷ trọng khi dòng tiền khối ngoại xác nhận tham gia.
+- **Mã: SSI**
+  - Động lực (FA): Hưởng lợi từ làn sóng nâng hạng và dòng vốn ngoại, đối trọng với áp lực lãi suất tăng.
+  - Nhận định dòng tiền: Dòng tiền sẽ biến động mạnh (giằng co) giữa kỳ vọng nâng hạng và chi phí vốn.
+  - Hành động: **Chú ý giải ngân** nếu thị giá duy trì được vùng hỗ trợ cứng trước sức ép từ tin tức lãi suất.
