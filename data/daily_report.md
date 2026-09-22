@@ -1,25 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:10 ngày 22/09/2026
+⏱ Thời gian: 12:45, 22/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thỏa thuận thương mại Việt - Mỹ:** Việc đàm phán thành công giúp loại bỏ rủi ro áp thuế phòng vệ thương mại, củng cố niềm tin dòng vốn FDI -> **Tích cực** -> Dòng tiền ưu tiên nhóm Khu công nghiệp (KBC, SZC) và Xuất khẩu (VHC, TNG).
-- **Kỳ vọng nâng hạng thị trường:** Thông tin được củng cố bởi truyền thông quốc tế, tạo xung lực cho nhóm vốn hóa lớn (Bluechips) và Chứng khoán -> **Tích cực** -> Dòng tiền hướng vào nhóm tài chính, hạ tầng (SSI, VCB, VHM).
-- **Chính sách bù đắp chi phí điện:** Đề xuất nhà nước bù đắp chi phí cho EVN giúp giảm áp lực nợ đọng cho các nhà máy điện -> **Tích cực** -> Dòng tiền hướng vào nhóm ngành Điện (POW).
+- Việt Nam chính thức nâng hạng thị trường chứng khoán kết hợp đàm phán Hiệp định thương mại đối ứng Việt - Mỹ -> **Tích cực (Tác động mạnh)** -> Dòng tiền sẽ phân hóa mạnh vào nhóm Vốn hóa lớn (VN30), Xuất khẩu (Dệt may, Thủy sản), và Bất động sản Khu công nghiệp.
+- Áp lực lãi suất huy động cao và tỷ giá trung tâm liên tục tăng -> **Tiêu cực** -> Tạo rủi ro chi phí vốn (COF) và áp lực nợ vay lên nhóm Ngân hàng (ngoại trừ nhóm có CASA tốt) và doanh nghiệp nhập khẩu/vay nợ ngoại tệ lớn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, SZC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI dịch chuyển và rủi ro thương mại với Mỹ được tháo gỡ.
-  - Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ gia tăng mạnh do rào cản pháp lý/thương mại được gỡ bỏ.
-  - Hành động: Chú ý giải ngân theo nhịp rung lắc đầu phiên.
-- **Mã: MWG**
-  - Động lực (FA): Chi trả cổ tức tiền mặt 1.500 tỷ khẳng định sức khỏe tài chính và dòng tiền mạnh.
-  - Nhận định dòng tiền: Tạo bệ đỡ tâm lý an toàn cho nhà đầu tư dài hạn, giảm áp lực bán tháo.
-  - Hành động: Tiếp tục quan sát vùng nền giá, ưu tiên nắm giữ.
-- **Mã: POW**
-  - Động lực (FA): Cơ chế bù đắp chi phí từ EVN cải thiện dòng tiền doanh nghiệp.
-  - Nhận định dòng tiền: Tích cực, giảm rủi ro thanh khoản tài chính.
-  - Hành động: Chú ý giải ngân khi có tín hiệu dòng tiền xác nhận.
-- **Mã: PLX**
-  - Động lực (FA): Giá dầu thế giới giảm mạnh.
-  - Nhận định dòng tiền: Tiêu cực trong ngắn hạn do áp lực trích lập dự phòng hàng tồn kho.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+- **Mã: VPB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ dòng vốn ETF ngoại khi thị trường nâng hạng.
+    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tập trung vào các mã vốn hóa lớn, thanh khoản cao để đón đầu khối ngoại.
+    - Hành động: Chú ý giải ngân theo đà tăng (Breakout).
+- **Mã: TNG, VHC**
+    - Động lực (FA): Hiệp định thương mại đối ứng Việt - Mỹ giúp giảm thuế quan; hưởng lợi chênh lệch tỷ giá từ doanh thu USD.
+    - Nhận định dòng tiền: Nhóm cổ phiếu xuất khẩu nhận được sự hỗ trợ kép từ chính sách và tỷ giá, dòng tiền trung hạn có khả năng duy trì ổn định.
+    - Hành động: Tiếp tục quan sát điểm vào lệnh theo kỹ thuật.
+- **Mã: FPT, CMG**
+    - Động lực (FA): Hợp tác với Mỹ phát triển trung tâm dữ liệu và lưới điện; tâm lý tích cực từ khối công nghệ toàn cầu.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ và tăng trưởng đang tập trung cao độ vào nhóm hạ tầng số.
+    - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
+- **Mã: VSC, VTR**
+    - Động lực (FA): VSC áp lực pha loãng vốn; VTR lợi nhuận giảm 81% và thoái vốn quốc tế.
+    - Nhận định dòng tiền: Áp lực bán kỹ thuật và tâm lý tiêu cực từ tin tức nội tại khiến dòng tiền rút mạnh.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/cơ cấu danh mục.
+
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- Chưa có tin tức đột biến trong 15 phút qua đối với EIB và BSR. Duy trì vị thế quan sát chờ tín hiệu dòng tiền ngành.
