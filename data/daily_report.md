@@ -1,21 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:15 - 23/09/2026
+⏱ Thời gian: 04:55 (23/09/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đẩy mạnh giải ngân đầu tư công và kích cầu tiêu dùng tại TP.HCM trong Q4/2026** -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Xây dựng hạ tầng (VCG, HHV)** và **Bán lẻ tiêu dùng (MWG, MSN)**.
-- **EU ký FTA với Philippines** -> **Tiêu cực** -> Tạo rào cản cạnh tranh trực tiếp đối với các doanh nghiệp xuất khẩu dệt may, da giày, thủy sản sang EU.
-- **Giá cà phê rời mốc 95.000 đồng/kg** -> **Tiêu cực** -> Áp lực lên biên lợi nhuận mảng nông nghiệp xuất khẩu (PAN).
+- **Căng thẳng Biển Đỏ hạ nhiệt (tác động từ Trung Quốc/Iran):** Giảm rủi ro chuỗi cung ứng và chi phí logistics toàn cầu -> [Tích cực] -> Dòng tiền ưu tiên nhóm Vận tải biển & Logistics (GMD, HAH) nhờ kỳ vọng tối ưu biên lợi nhuận.
+- **Xu hướng tiêu dùng xanh/sạch:** Người tiêu dùng Việt Nam ưu tiên sản phẩm minh bạch nguồn gốc -> [Tích cực] -> Dòng tiền hướng vào nhóm Bán lẻ & Sản xuất thực phẩm (MSN, MWG, VNM).
+- **Cạnh tranh FTA EU-Philippines:** EU ký FTA với Philippines tạo áp lực cạnh tranh xuất khẩu trực tiếp với Việt Nam (Dệt may, Thủy sản) -> [Tiêu cực] -> Cần thận trọng với các mã xuất khẩu sang EU.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HHV, VCG**
-  - Động lực (FA): TPHCM dồn lực đẩy nhanh tiến độ hạ tầng trong Q4 để bù đắp tăng trưởng 9 tháng.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón sóng thi công cuối năm.
-  - Hành động: **Chú ý giải ngân** quanh vùng nền hỗ trợ.
-- **Mã: PAN**
-  - Động lực (FA): Giá nông sản giảm gây sức ép trực tiếp lên lợi nhuận.
-  - Nhận định dòng tiền: Áp lực bán tiềm ẩn do kỳ vọng biên lợi nhuận thu hẹp.
-  - Hành động: **Tiếp tục quan sát**, chờ tín hiệu ổn định giá cà phê trước khi đưa ra quyết định.
-- **Mã: MWG, MSN**
-  - Động lực (FA): Chính sách kích cầu tiêu dùng tại thị trường trọng điểm phía Nam.
-  - Nhận định dòng tiền: Hưởng lợi từ sự phục hồi sức mua cuối năm.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự ngắn hạn.
+- **Mã: GMD, HAH**
+  - Động lực (FA): Áp lực chi phí cước tàu giảm do rủi ro địa chính trị Biển Đỏ hạ nhiệt.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền hồi phục ngắn hạn do cải thiện biên lợi nhuận gộp.
+  - Hành động: Chú ý giải ngân nếu dòng tiền phiên sáng xác nhận break nền giá.
+- **Mã: PNJ**
+  - Động lực (FA): Người nội bộ (con gái Chủ tịch) bán ra 18 triệu cổ phiếu.
+  - Nhận định dòng tiền: Tạo áp lực cung treo lơ lửng, gây tâm lý thận trọng, có thể dẫn đến nhịp điều chỉnh kỹ thuật.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quan sát phản ứng tại vùng hỗ trợ gần nhất, chưa vội bắt đáy.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này).
