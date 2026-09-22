@@ -1,24 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:45 - 22/09/2026
+⏱ Thời gian: 22:50 - 22/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đàm phán thương mại Việt - Mỹ:** Lãnh đạo Việt Nam xác nhận các cuộc đàm phán tích cực về thỏa thuận thương mại với Mỹ -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Bất động sản khu công nghiệp (KBC)** và **Logistics/Cảng biển (GMD)**.
-- **Nâng hạng thị trường:** Xác nhận chính thức bước vào chương mới sau nâng hạng -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Chứng khoán (SSI)** và **Bluechip vốn hóa lớn (VHM, VCB, HPG)** đón đầu dòng vốn ETF ngoại.
+- **Lãi suất liên ngân hàng vọt lên 7%:** Tín hiệu thắt chặt thanh khoản cục bộ -> **Tiêu cực** -> Gây áp lực giảm biên lợi nhuận (NIM) nhóm ngân hàng và gia tăng chi phí vốn cho các công ty chứng khoán, có thể tạo áp lực bán giải chấp ngắn hạn.
+- **Triển vọng thỏa thuận thương mại Việt - Mỹ & Nâng hạng thị trường:** Dòng vốn FDI và vốn ngoại ETF quy mô lớn -> **Tích cực (Dài hạn)** -> Kỳ vọng dòng tiền ưu tiên nhóm Bluechips (VCB, HPG, VHM) và BĐS Khu công nghiệp (KBC, SZC).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC**
-  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng dịch chuyển FDI và nhu cầu thuê đất KCN từ doanh nghiệp Mỹ.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và các quỹ lớn gia tăng tỷ trọng để đón đầu làn sóng FDI mới.
-  - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
 - **Mã: SSI**
-  - Động lực (FA): Hưởng lợi kép từ thanh khoản thị trường tăng trưởng và đón dòng vốn ngoại sau nâng hạng.
-  - Nhận định dòng tiền: Dòng tiền thông minh sẽ bám sát nhóm ngành chứng khoán đầu ngành.
-  - Hành động: Tiếp tục nắm giữ, gia tăng tỷ trọng ở các phiên điều chỉnh.
-- **Mã: SSB**
-  - Động lực (FA): Áp lực bán tháo, mất thanh khoản (trắng bên mua), rủi ro giải chấp margin gia tăng.
-  - Nhận định dòng tiền: Tiêu cực, rủi ro điều chỉnh sâu chưa có điểm dừng.
-  - Hành động: Rủi ro vi phạm kịch bản, cần dứt khoát đứng ngoài.
-- **Mã: KOS**
-  - Động lực (FA): Áp lực giải chấp lãnh đạo kết hợp nợ vay cao.
-  - Nhận định dòng tiền: Tiêu cực, đà giảm có thể mở rộng do trạng thái bán tháo.
-  - Hành động: Rủi ro vi phạm kịch bản, tuyệt đối không bắt đáy.
+  - Động lực (FA): Hưởng lợi từ làn sóng nâng hạng và gia tăng tệp nhà đầu tư cá nhân, tuy nhiên đối mặt rủi ro chi phí vốn vay tăng (từ lãi suất liên ngân hàng).
+  - Nhận định dòng tiền: Giằng co giữa kỳ vọng tăng trưởng dài hạn và áp lực thanh khoản ngắn hạn.
+  - Hành động: **Tiếp tục quan sát**, ưu tiên quản trị tỷ trọng Margin trong bối cảnh lãi suất liên ngân hàng neo cao.
+- **Mã: VCB**
+  - Động lực (FA): Tâm điểm của dòng vốn ngoại khi nâng hạng, nhưng chịu áp lực NIM do lãi suất liên ngân hàng 7%.
+  - Nhận định dòng tiền: Vị thế trụ cột khó bị bán tháo, nhưng sẽ chịu rung lắc theo biến động lãi suất.
+  - Hành động: **Tiếp tục quan sát** phản ứng của vùng hỗ trợ cứng.
+- **Mã: KBC**
+  - Động lực (FA): Hưởng lợi trực tiếp từ thỏa thuận thương mại Việt - Mỹ và nhu cầu FDI.
+  - Nhận định dòng tiền: Hưởng ứng tích cực từ tin vĩ mô, dòng tiền khối ngoại có thể giải ngân gom dần.
+  - Hành động: **Chú ý giải ngân** nếu thị trường chung ổn định.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này - Giữ nguyên vị thế hiện tại).
