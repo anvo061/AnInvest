@@ -1,24 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:30 - 22/09/2026
+⏱ Thời gian: 08:10 ngày 22/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nâng hạng thị trường & Khơi thông pháp lý BĐS:** Tin tức quốc tế về lộ trình nâng hạng cùng việc đẩy nhanh tháo gỡ pháp lý cho hơn 3.400 dự án BĐS và chính sách đẩy nhanh hoàn thuế VAT cho doanh nghiệp xuất khẩu tạo tâm lý tích cực mạnh mẽ cho nhóm Vốn hóa lớn (Bluechips) và nhóm Sản xuất/BĐS. -> **Đánh giá: Tích cực** -> **Dòng tiền hướng vào:** Nhóm Chứng khoán (SSI), Bất động sản (VHM, NVL, PDR), và Thủy sản/Dệt may (VHC, TNG).
-- **Rủi ro BOJ:** Việc BOJ tăng lãi suất lên mức cao nhất 31 năm gây áp lực lên tỷ giá JPY/VND, trực tiếp tạo rủi ro rút vốn tại VCB. -> **Đánh giá: Tiêu cực** -> **Cần thận trọng:** Nhóm ngân hàng có tỷ trọng sở hữu nước ngoài (Nhật Bản) lớn.
+- **Thỏa thuận thương mại Việt - Mỹ:** Việc đàm phán thành công giúp loại bỏ rủi ro áp thuế phòng vệ thương mại, củng cố niềm tin dòng vốn FDI -> **Tích cực** -> Dòng tiền ưu tiên nhóm Khu công nghiệp (KBC, SZC) và Xuất khẩu (VHC, TNG).
+- **Kỳ vọng nâng hạng thị trường:** Thông tin được củng cố bởi truyền thông quốc tế, tạo xung lực cho nhóm vốn hóa lớn (Bluechips) và Chứng khoán -> **Tích cực** -> Dòng tiền hướng vào nhóm tài chính, hạ tầng (SSI, VCB, VHM).
+- **Chính sách bù đắp chi phí điện:** Đề xuất nhà nước bù đắp chi phí cho EVN giúp giảm áp lực nợ đọng cho các nhà máy điện -> **Tích cực** -> Dòng tiền hướng vào nhóm ngành Điện (POW).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL**
-    - **Động lực (FA):** Chốt ngày phát hành 801 triệu cổ phiếu để xử lý nợ; đồng thời được hưởng lợi từ việc tháo gỡ pháp lý các dự án tại TP.HCM.
-    - **Nhận định dòng tiền:** Cung pha loãng là áp lực lớn trong ngắn hạn, nhưng việc giải tỏa pháp lý là "ngòi nổ" kỳ vọng giúp giảm áp lực nợ vay. Dòng tiền có thể phân hóa.
-    - **Hành động:** Quan sát lực hấp thụ tại các vùng giá hỗ trợ, ưu tiên theo dõi phản ứng của nhà đầu tư với thông tin pha loãng.
-- **Mã: VHC, TNG**
-    - **Động lực (FA):** Chính sách đẩy nhanh hoàn thuế VAT giúp cải thiện OCF, đối trọng với áp lực chi phí logistics.
-    - **Nhận định dòng tiền:** Phản ứng tích cực do cải thiện trực tiếp bảng cân đối kế toán.
-    - **Hành động:** Chú ý giải ngân nếu biên lợi nhuận được củng cố bởi dòng tiền hoàn thuế.
-- **Mã: VCB**
-    - **Động lực (FA):** Hưởng lợi từ làn sóng nâng hạng nhưng chịu áp lực tỷ giá/rủi ro dòng vốn ngoại từ BOJ (Nhật Bản).
-    - **Nhận định dòng tiền:** Dòng tiền giằng co giữa kỳ vọng vĩ mô và rủi ro rút vốn.
-    - **Hành động:** Tiếp tục quan sát, rủi ro vi phạm kịch bản nếu áp lực từ tỷ giá JPY/VND gia tăng.
-- **Mã: SSI**
-    - **Động lực (FA):** Hưởng lợi trực tiếp từ thanh khoản tăng do câu chuyện nâng hạng thị trường.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ và đầu tư dài hạn có khả năng hợp lưu.
-    - **Hành động:** Chú ý giải ngân tại các nhịp chỉnh.
+- **Mã: KBC, SZC**
+  - Động lực (FA): Hưởng lợi trực tiếp từ làn sóng FDI dịch chuyển và rủi ro thương mại với Mỹ được tháo gỡ.
+  - Nhận định dòng tiền: Dòng tiền kỳ vọng sẽ gia tăng mạnh do rào cản pháp lý/thương mại được gỡ bỏ.
+  - Hành động: Chú ý giải ngân theo nhịp rung lắc đầu phiên.
+- **Mã: MWG**
+  - Động lực (FA): Chi trả cổ tức tiền mặt 1.500 tỷ khẳng định sức khỏe tài chính và dòng tiền mạnh.
+  - Nhận định dòng tiền: Tạo bệ đỡ tâm lý an toàn cho nhà đầu tư dài hạn, giảm áp lực bán tháo.
+  - Hành động: Tiếp tục quan sát vùng nền giá, ưu tiên nắm giữ.
+- **Mã: POW**
+  - Động lực (FA): Cơ chế bù đắp chi phí từ EVN cải thiện dòng tiền doanh nghiệp.
+  - Nhận định dòng tiền: Tích cực, giảm rủi ro thanh khoản tài chính.
+  - Hành động: Chú ý giải ngân khi có tín hiệu dòng tiền xác nhận.
+- **Mã: PLX**
+  - Động lực (FA): Giá dầu thế giới giảm mạnh.
+  - Nhận định dòng tiền: Tiêu cực trong ngắn hạn do áp lực trích lập dự phòng hàng tồn kho.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
