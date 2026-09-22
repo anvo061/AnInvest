@@ -1,20 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:55 (23/09/2026)
+⏱ Thời gian: 07:00 ngày 23/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng Biển Đỏ hạ nhiệt (tác động từ Trung Quốc/Iran):** Giảm rủi ro chuỗi cung ứng và chi phí logistics toàn cầu -> [Tích cực] -> Dòng tiền ưu tiên nhóm Vận tải biển & Logistics (GMD, HAH) nhờ kỳ vọng tối ưu biên lợi nhuận.
-- **Xu hướng tiêu dùng xanh/sạch:** Người tiêu dùng Việt Nam ưu tiên sản phẩm minh bạch nguồn gốc -> [Tích cực] -> Dòng tiền hướng vào nhóm Bán lẻ & Sản xuất thực phẩm (MSN, MWG, VNM).
-- **Cạnh tranh FTA EU-Philippines:** EU ký FTA với Philippines tạo áp lực cạnh tranh xuất khẩu trực tiếp với Việt Nam (Dệt may, Thủy sản) -> [Tiêu cực] -> Cần thận trọng với các mã xuất khẩu sang EU.
+- **Thanh khoản hệ thống & CASA:** Lượng tiền gửi không kỳ hạn đạt mức kỷ lục 1,2 triệu tỷ đồng -> [Tích cực] -> Dòng tiền tập trung nhóm Ngân hàng (Ưu tiên các mã có lợi thế CASA: VCB, TCB, MBB).
+- **Vượt mốc 1.800 điểm:** VN-Index xác nhận xu hướng tăng trưởng tâm lý -> [Tích cực] -> Nhóm Chứng khoán (SSI, VND) hưởng lợi trực tiếp từ thanh khoản và dư nợ Margin.
+- **Thương mại quốc tế:** Đàm phán Canada-ASEAN đạt 90% -> [Tích cực] -> Ngành xuất khẩu chủ lực (TNG, VHC).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: GMD, HAH**
-  - Động lực (FA): Áp lực chi phí cước tàu giảm do rủi ro địa chính trị Biển Đỏ hạ nhiệt.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền hồi phục ngắn hạn do cải thiện biên lợi nhuận gộp.
-  - Hành động: Chú ý giải ngân nếu dòng tiền phiên sáng xác nhận break nền giá.
-- **Mã: PNJ**
-  - Động lực (FA): Người nội bộ (con gái Chủ tịch) bán ra 18 triệu cổ phiếu.
-  - Nhận định dòng tiền: Tạo áp lực cung treo lơ lửng, gây tâm lý thận trọng, có thể dẫn đến nhịp điều chỉnh kỹ thuật.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quan sát phản ứng tại vùng hỗ trợ gần nhất, chưa vội bắt đáy.
+- **Mã: VCB, TCB, MBB**
+    - Động lực (FA): Tối ưu hóa chi phí vốn (COF) nhờ tỷ trọng CASA duy trì ở mức cao kỷ lục 1,2 triệu tỷ đồng toàn hệ thống.
+    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng trú ẩn tại các "Blue-chip" ngân hàng có nền tảng CASA vững chắc khi VN-Index vượt ngưỡng tâm lý 1.800.
+    - Hành động: Chú ý giải ngân theo nhịp chỉnh của thị trường.
+- **Mã: TNG, VHC**
+    - Động lực (FA): Kỳ vọng giảm rào cản thuế quan từ việc hoàn tất đàm phán Canada-ASEAN vào tháng 11.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ sớm phản ứng với tin tức vĩ mô bổ trợ xuất khẩu.
+    - Hành động: Tiếp tục quan sát điểm nổ khối lượng.
+- **Mã: OGC**
+    - Động lực (FA): Giữ nguyên diện cảnh báo, năng lực tài chính chưa cải thiện.
+    - Nhận định dòng tiền: Dòng tiền lớn sẽ tiếp tục né tránh các mã bị kiểm soát, rủi ro bị cắt Margin.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- (Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này).
+- Không có tin tức mới liên quan đến EIB và BSR trong chu kỳ này. Duy trì chiến lược hiện tại.
