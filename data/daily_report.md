@@ -1,20 +1,31 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:47 - 23/09/2026
+⏱ Thời gian: 20:30 - 23/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dự án Lô B - Ô Môn chính thức khởi động tín dụng:** Việc Agribank ký kết hợp đồng tài trợ vốn là "ngòi nổ" giải ngân thực tế cho các dự án năng lượng trọng điểm. -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Dầu khí thượng nguồn & Xây lắp dầu khí**.
-- **Dịch chuyển dòng tiền từ tiền gửi sang Chứng khoán:** Dữ liệu cho thấy tiền gửi thanh toán (CASA) sụt giảm mạnh, phản ánh khẩu vị rủi ro tăng lên. -> **Tích cực** -> Dòng tiền sẽ duy trì sự hiện diện tại nhóm **Chứng khoán (SSI, VND)** bất chấp áp lực lãi suất ngắn hạn.
-- **Áp lực từ thịt nhập khẩu giá rẻ:** Áp lực từ thực phẩm nhập khẩu giá rẻ (26.000 đ/kg) gây rủi ro biên lợi nhuận cho các đơn vị chăn nuôi. -> **Tiêu cực** -> Thận trọng với nhóm **Chăn nuôi (DBC, BAF)**.
+- ADB nâng dự báo GDP Việt Nam lên 7,8% và triển vọng nâng hạng tín nhiệm quốc gia -> [Tích cực] -> Dòng tiền dự kiến hướng mạnh vào nhóm Ngân hàng (VCB, BID, TCB), Chứng khoán (SSI, VND) và Bất động sản KCN (KBC, GVR) đón sóng vốn ngoại.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVS, PVD**
-  - **Động lực (FA):** Hợp đồng tín dụng dự án Lô B đã hoàn tất, kết hợp căng thẳng địa chính trị hỗ trợ giá dầu neo cao.
-  - **Nhận định dòng tiền:** Dòng tiền đầu cơ và dòng tiền tổ chức kỳ vọng dự án sẽ đẩy mạnh khối lượng backlog cho các nhà thầu EPC.
-  - **Hành động:** Chú ý giải ngân theo nhịp chỉnh, tập trung vào điểm hợp lưu kỹ thuật sau tin xác nhận giải ngân.
-- **Mã: VHM, NLG**
-  - **Động lực (FA):** Tỷ lệ hấp thụ NOXH cực cao (15.000 hồ sơ/750 căn) xác nhận nhu cầu thực và tính thanh khoản của phân khúc nhà ở giá rẻ.
-  - **Nhận định dòng tiền:** Dòng tiền sẽ có xu hướng chọn lọc các doanh nghiệp có quỹ đất sạch và chiến lược tập trung NOXH để tối ưu dòng tiền giai đoạn này.
-  - **Hành động:** Tiếp tục quan sát.
+- Mã: **TID**
+- Động lực (FA): Đấu giá 27,54 triệu cổ phần với giá khởi điểm gấp 3,6 lần giá trị sổ sách.
+- Nhận định dòng tiền: Tạo cú hích dòng tiền đột biến nhờ kỳ vọng ghi nhận lợi nhuận tài chính lớn và xác nhận giá trị tài sản ngầm.
+- Hành động: Chú ý giải ngân (theo dõi thanh khoản phiên đấu giá).
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- (Chưa có dữ liệu mới về EIB, BSR trong chu kỳ 15 phút này).
+- Mã: **SSB**
+- Động lực (FA): Giao dịch đăng ký mua 8 triệu cổ phiếu từ người nhà lãnh đạo.
+- Nhận định dòng tiền: Tín hiệu "đỡ giá" chủ động tại vùng hỗ trợ kỹ thuật, giúp giảm bớt áp lực tâm lý bán tháo theo thị trường chung (VN-Index).
+- Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ.
+
+- Mã: **FRT, PET**
+- Động lực (FA): Trạng thái "cháy hàng" (trần) ngược dòng trong phiên thị trường giảm điểm mạnh.
+- Nhận định dòng tiền: Dòng tiền đầu cơ thông minh đang phân hóa, tập trung vào câu chuyện tăng trưởng lợi nhuận cuối năm của nhóm bán lẻ thay vì theo xu hướng chung.
+- Hành động: Tiếp tục quan sát, ưu tiên giữ vị thế nếu xu hướng dòng tiền tiếp tục phân hóa.
+
+- Mã: **GMD, HAH**
+- Động lực (FA): Dự án cảng SP-ITC mở rộng 30ha, tối ưu hóa hạ tầng logistics khu vực phía Nam.
+- Nhận định dòng tiền: Tích cực dài hạn, dòng tiền sẽ phản ứng tích cực khi hạ tầng được thực thi, củng cố vị thế nhóm cảng biển.
+- Hành động: Tiếp tục quan sát.
+
+- Mã: **SSI, TCB, VHM**
+- Động lực (FA): Áp lực bán tháo theo VN-Index và rủi ro margin call gia tăng.
+- Nhận định dòng tiền: Cần thận trọng với các mã vốn hóa lớn trong bối cảnh tâm lý thị trường ngắn hạn đang tiêu cực.
+- Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi lực bán chủ động chưa dừng.
