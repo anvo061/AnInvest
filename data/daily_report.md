@@ -1,31 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:30 - 23/09/2026
+⏱ Thời gian: 01:15 - 24/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- ADB nâng dự báo GDP Việt Nam lên 7,8% và triển vọng nâng hạng tín nhiệm quốc gia -> [Tích cực] -> Dòng tiền dự kiến hướng mạnh vào nhóm Ngân hàng (VCB, BID, TCB), Chứng khoán (SSI, VND) và Bất động sản KCN (KBC, GVR) đón sóng vốn ngoại.
+- NHNN chấp thuận cho các ngân hàng tăng vốn điều lệ quy mô lớn (22.000 tỷ đồng) -> Tích cực: Củng cố hệ số an toàn vốn (CAR), tăng dư địa tăng trưởng tín dụng -> Dòng tiền tập trung vào nhóm Ngân hàng (TCB, VPB, MBB).
+- Kỳ vọng VN-Index hướng tới mốc 2.000 điểm kết hợp với quan điểm tích cực từ các định chế tài chính quốc tế -> Tích cực: Củng cố tâm lý, thúc đẩy dòng vốn ngoại quay trở lại -> Dòng tiền ưu tiên nhóm dẫn dắt (SSI, VCB, FPT, HPG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TID**
-- Động lực (FA): Đấu giá 27,54 triệu cổ phần với giá khởi điểm gấp 3,6 lần giá trị sổ sách.
-- Nhận định dòng tiền: Tạo cú hích dòng tiền đột biến nhờ kỳ vọng ghi nhận lợi nhuận tài chính lớn và xác nhận giá trị tài sản ngầm.
-- Hành động: Chú ý giải ngân (theo dõi thanh khoản phiên đấu giá).
+- Mã: **HDC**
+  - Động lực (FA): Hoàn tất chuyển nhượng dự án, thu về dòng tiền lớn.
+  - Nhận định dòng tiền: Cải thiện thanh khoản nội tại, giảm áp lực nợ vay, tạo kỳ vọng ghi nhận lợi nhuận đột biến.
+  - Hành động: Chú ý giải ngân (theo dõi vùng hỗ trợ kỹ thuật).
 
-- Mã: **SSB**
-- Động lực (FA): Giao dịch đăng ký mua 8 triệu cổ phiếu từ người nhà lãnh đạo.
-- Nhận định dòng tiền: Tín hiệu "đỡ giá" chủ động tại vùng hỗ trợ kỹ thuật, giúp giảm bớt áp lực tâm lý bán tháo theo thị trường chung (VN-Index).
-- Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ.
+- Mã: **SCD**
+  - Động lực (FA): Không được gia hạn khoản vay 520 tỷ đồng.
+  - Nhận định dòng tiền: Rủi ro thanh khoản nghiêm trọng, dòng tiền có khả năng rút tháo chạy khỏi mã này.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế.
 
-- Mã: **FRT, PET**
-- Động lực (FA): Trạng thái "cháy hàng" (trần) ngược dòng trong phiên thị trường giảm điểm mạnh.
-- Nhận định dòng tiền: Dòng tiền đầu cơ thông minh đang phân hóa, tập trung vào câu chuyện tăng trưởng lợi nhuận cuối năm của nhóm bán lẻ thay vì theo xu hướng chung.
-- Hành động: Tiếp tục quan sát, ưu tiên giữ vị thế nếu xu hướng dòng tiền tiếp tục phân hóa.
-
-- Mã: **GMD, HAH**
-- Động lực (FA): Dự án cảng SP-ITC mở rộng 30ha, tối ưu hóa hạ tầng logistics khu vực phía Nam.
-- Nhận định dòng tiền: Tích cực dài hạn, dòng tiền sẽ phản ứng tích cực khi hạ tầng được thực thi, củng cố vị thế nhóm cảng biển.
-- Hành động: Tiếp tục quan sát.
-
-- Mã: **SSI, TCB, VHM**
-- Động lực (FA): Áp lực bán tháo theo VN-Index và rủi ro margin call gia tăng.
-- Nhận định dòng tiền: Cần thận trọng với các mã vốn hóa lớn trong bối cảnh tâm lý thị trường ngắn hạn đang tiêu cực.
-- Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi lực bán chủ động chưa dừng.
+- Mã: **DHT**
+  - Động lực (FA): Tăng vốn trong bối cảnh hiệu quả sử dụng vốn thấp (tài sản dở dang cao).
+  - Nhận định dòng tiền: Áp lực pha loãng cổ phiếu sẽ cản trở đà tăng giá trong ngắn hạn.
+  - Hành động: Tiếp tục quan sát (chưa nên gia tăng tỷ trọng).
