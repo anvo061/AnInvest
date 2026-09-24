@@ -1,31 +1,24 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 14:00 - 24/09/2026
+⏱ **Thời gian:** 19:21:29 - 24/09/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Tin tức:** Lợi suất trái phiếu Mỹ tăng cao nhất 19 năm, dự báo Fed tăng lãi suất nhảy vọt lên 70%.
-- **Đánh giá:** **Tiêu cực**.
-- **Dòng tiền:** Áp lực rút ròng khối ngoại, gây sức ép tỷ giá và chi phí vốn. Nhóm **Chứng khoán (SSI, VND)** đối mặt rủi ro thanh khoản; nhóm **Điện/BĐS (POW, VHM)** chịu áp lực chi phí tài chính và nợ vay ngoại tệ.
-
-- **Tin tức:** Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với các doanh nghiệp, định chế tài chính Mỹ về hợp tác công nghệ, bán dẫn và hạ tầng.
-- **Đánh giá:** **Tích cực**.
-- **Dòng tiền:** Hướng vào nhóm **BĐS Khu công nghiệp (KBC, GVR, SZC)** và **Công nghệ (FPT)** nhờ kỳ vọng đón dòng vốn FDI chất lượng cao.
-
-- **Tin tức:** Reuters đưa tin Việt Nam đẩy mạnh tái cơ cấu ngân hàng và doanh nghiệp nhà nước.
-- **Đánh giá:** **Tích cực**.
-- **Dòng tiền:** Hướng vào nhóm **Ngân hàng quốc doanh (VCB, BID)** nhờ lộ trình minh bạch hóa và cải thiện chất lượng tài sản dài hạn.
+- **Lệnh cấm Diesel tại Mỹ & áp lực giá dầu:** Giá dầu tăng thúc đẩy kỳ vọng dịch vụ thượng nguồn nhưng tạo áp lực lên chi phí vận hành nhóm Logistics -> **Tác động:** Phân hóa mạnh giữa nhóm Dịch vụ dầu khí (Tích cực) và nhóm Vận tải/Logistics (Tiêu cực/Chi phí đầu vào tăng).
+- **Áp lực bán ròng khối ngoại:** Liên tục rút vốn khỏi các Bluechips và nhóm Ngân hàng, cộng hưởng với việc suy giảm vốn hóa thị trường chứng khoán -> **Tác động:** Tiêu cực cho thanh khoản thị trường chung, gây rủi ro gãy cấu trúc kỹ thuật cho nhóm vốn hóa lớn (VCB, VHM, MSN).
+- **Đẩy mạnh FDI & Hạ tầng (Cảng Cần Giờ, AI Factory):** Chính sách thu hút FDI tiếp tục là điểm sáng trung hạn -> **Dòng tiền:** Sẽ ưu tiên phân hóa vào các mã có quỹ đất KCN và hạ tầng cảng biển hưởng lợi trực tiếp thay vì các mã Bluechip đang bị xả.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **MSR**
-- **Động lực (FA):** Tập đoàn Elmet (Mỹ) đầu tư chiến lược vào chuỗi cung ứng Vonfram.
-- **Nhận định dòng tiền:** Cực kỳ tích cực. Đây là điểm hợp lưu giữa dòng vốn FDI chiến lược và an ninh nguyên liệu toàn cầu, giúp tái định giá vị thế doanh nghiệp.
-- **Hành động:** **Chú ý giải ngân** theo các nhịp rung lắc kỹ thuật trong phiên.
+- **Mã:** **PVD / BSR**
+    - **Động lực (FA):** Giá xăng dầu thế giới kỳ vọng tăng do nguồn cung diesel bị siết.
+    - **Nhận định dòng tiền:** Hưởng lợi từ sự kỳ vọng giá bán và nhu cầu khoan/lọc dầu, có khả năng trở thành nhóm trú ẩn tạm thời khi thị trường chung (VN-Index) đang bị áp lực bán tháo.
+    - **Hành động:** Tiếp tục quan sát khối lượng giao dịch tại vùng giá hiện tại, tránh giải ngân đuổi khi thị trường chung đang tiêu cực.
+- **Mã:** **FPT**
+    - **Động lực (FA):** Thỏa thuận tỷ USD ngành công nghệ tạo "cú hích" dòng tiền riêng biệt.
+    - **Nhận định dòng tiền:** Đây là cổ phiếu duy nhất có động lực tăng trưởng nội tại mạnh mẽ để chống lại áp lực bán ròng diện rộng của khối ngoại.
+    - **Hành động:** Chú ý giải ngân nếu cổ phiếu giữ được vùng hỗ trợ cứng bất chấp VN-Index giảm điểm.
+- **Mã:** **GMD**
+    - **Động lực (FA):** Hai luồng tin trái chiều: Tin tích cực từ FDI/Cảng Cần Giờ và tin tiêu cực từ chi phí nhiên liệu tăng.
+    - **Nhận định dòng tiền:** Dòng tiền sẽ giằng co mạnh, phản ánh sự không chắc chắn giữa kỳ vọng tăng trưởng và áp lực chi phí.
+    - **Hành động:** Quan sát kỹ phản ứng tại vùng giá, rủi ro vi phạm kịch bản kỹ thuật cao do chi phí vận hành tăng.
 
-- **Mã:** **VCI**
-- **Động lực (FA):** Tổ chức liên quan đăng ký bán 580.500 cổ phiếu.
-- **Nhận định dòng tiền:** Tạo áp lực cung ngắn hạn, cản trở đà tăng giá trong bối cảnh thị trường đang nhạy cảm với thông tin lãi suất.
-- **Hành động:** **Rủi ro vi phạm kịch bản**, tạm dừng giải ngân, quan sát phản ứng tại các vùng hỗ trợ cứng.
-
-- **Mã:** **HDG**
-- **Động lực (FA):** Rủi ro dòng tiền từ khoản phải thu 800 tỷ đồng tại dự án điện mặt trời.
-- **Nhận định dòng tiền:** Tiêu cực. Áp lực trích lập dự phòng có thể gây biến động mạnh trên bảng cân đối kế toán quý tới.
-- **Hành động:** **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu giá vi phạm vùng hỗ trợ kỹ thuật gần nhất.
+🔄 **3. Cảnh báo Tái cơ cấu (EIB, BSR):**
+- **BSR:** Dữ liệu vĩ mô (giá dầu tăng) củng cố trạng thái tích cực cho biên lợi nhuận ngắn hạn. Tuy nhiên, cần đặt trong bối cảnh thị trường đang bị bán ròng khối ngoại. Duy trì nắm giữ nhưng thiết lập chặn lãi/cắt lỗ chặt chẽ (trailing stop-loss) để bảo toàn vốn trước biến động chỉ số chung.
