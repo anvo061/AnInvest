@@ -1,23 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:45 ngày 25/09/2026
+⏱ Thời gian: 06:45 ngày 25/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực lạm phát chi phí đẩy & Dòng tiền ngoại:** Giá xăng trong nước tăng mạnh (+1.500đ/lít) kết hợp với hiện tượng El Niño đe dọa chuỗi cung ứng nông nghiệp và làn sóng bán ròng từ khối ngoại sau sự kiện nâng hạng -> **Đánh giá: Tiêu cực** -> Dòng tiền có xu hướng co cụm, thận trọng với nhóm Bluechips chịu áp lực bán ngoại (VHM, VCB, VNM, MSN) và nhóm vận tải/logistics; ưu tiên phòng thủ ở các mã có nền tảng chuỗi giá trị ổn định.
+- **Lãi suất liên ngân hàng thấp (2,5%) & Đẩy mạnh đầu tư công:** -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm **Xây dựng hạ tầng (VCG, HHV)** và **Ngân hàng (VCB, TCB, MBB)** hưởng lợi từ NIM và thanh khoản.
+- **Xuất khẩu rau quả (Sầu riêng) tăng trưởng vượt bậc:** -> [Tích cực] -> Dòng tiền hướng vào nhóm **Nông nghiệp xuất khẩu (HAG, DBC)**.
+- **Áp lực bán ròng khối ngoại (2.600 tỷ) & Rủi ro thiếu hụt năng lượng:** -> [Tiêu cực] -> Gây áp lực điều chỉnh lên nhóm **Bluechips (VHM, VCB)** và **Bất động sản KCN (KBC, SZC)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PLX**
-    - Động lực (FA): Hưởng lợi từ việc đánh giá lại hàng tồn kho giá thấp khi giá xăng dầu trong nước tăng mạnh.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn có thể tìm đến như một mã phòng thủ lạm phát tạm thời.
-    - Hành động: Chú ý quan sát phản ứng tại kháng cự gần, không đuổi giá nếu thanh khoản không đột biến.
-- **Mã: DCM**
-    - Động lực (FA): Chiến lược mở rộng chuỗi giá trị nông nghiệp giúp tối ưu biên lợi nhuận.
-    - Nhận định dòng tiền: Điểm sáng hiếm hoi có câu chuyện riêng biệt, tránh được tác động tiêu cực chung.
-    - Hành động: Tiếp tục nắm giữ, canh nhịp chỉnh để gia tăng tỷ trọng.
-- **Mã: VHC, TNG, GMD, HAH**
-    - Động lực (FA): Áp lực kép từ việc chậm hoàn thuế (giảm lưu động tiền) và chi phí nhiên liệu tăng (giảm biên lợi nhuận).
-    - Nhận định dòng tiền: Áp lực bán kỹ thuật gia tăng do lo ngại biên lợi nhuận thu hẹp.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên giảm tỷ trọng để quản trị rủi ro dòng tiền.
+- **Mã: HAG**
+    - Động lực (FA): Xuất khẩu sầu riêng sang Trung Quốc duy trì đà tăng trưởng mạnh (3 tháng liên tiếp vượt 1 tỷ USD).
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ kết quả kinh doanh tăng trưởng, dòng tiền kỳ vọng sẽ gia tăng ở vùng giá hiện tại.
+    - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-    - Nhận định: Dữ liệu vĩ mô (giá dầu thế giới neo cao do lệnh cấm diesel tại Mỹ) đang hỗ trợ mạnh cho biên lợi nhuận lọc dầu. Mặc dù đã qua kỳ vọng ban đầu, nhưng dữ liệu hiện tại đủ lực để duy trì vị thế "Nắm giữ" cho đến khi xuất hiện tín hiệu đảo chiều từ giá dầu thô thế giới. Chưa cần cắt/chốt lời tại thời điểm này.
+- **Mã: VCG**
+    - Động lực (FA): Hưởng lợi kép từ việc đẩy mạnh giải ngân đầu tư công tại TP.HCM và lãi suất liên ngân hàng thấp (giảm áp lực chi phí vốn).
+    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các nhóm hưởng lợi từ chính sách tài khóa trong bối cảnh khối ngoại bán ròng nhóm vốn hóa lớn.
+    - Hành động: Tiếp tục quan sát điểm bùng nổ khối lượng.
+
+- **Mã: KBC**
+    - Động lực (FA): Rủi ro thiếu hụt năng lượng ảnh hưởng khả năng vận hành tại các khu công nghiệp.
+    - Nhận định dòng tiền: Áp lực từ vĩ mô tiêu cực có thể khiến dòng tiền chốt lời hoặc đứng ngoài đối với cổ phiếu khu công nghiệp trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+
+- **Mã: VCB**
+    - Động lực (FA): Hưởng lợi từ NIM do lãi suất thấp, nhưng chịu áp lực bán ròng mạnh từ khối ngoại.
+    - Nhận định dòng tiền: Trạng thái giằng co giữa nội lực cơ bản và cung ngoại.
+    - Hành động: Tiếp tục quan sát, chưa vội giải ngân cho đến khi lực bán khối ngoại suy yếu.
