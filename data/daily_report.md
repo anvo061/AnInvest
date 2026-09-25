@@ -1,24 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:35
+⏱ Thời gian: 00:25 ngày 26/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá & Lãi suất:** Lợi suất trái phiếu Mỹ hướng tới mốc 6% gây áp lực tỷ giá, buộc NHNN phải thận trọng hơn trong điều hành tiền tệ -> **Tiêu cực** cho nhóm định giá cao (BĐS, Chứng khoán).
-- **Thương mại:** Mỹ-Trung gia hạn đình chiến thương mại 2 tháng -> **Tích cực** cho nhóm Logistics/Cảng biển.
-- **Tài chính - Ngân hàng:** Hệ thống thanh toán QR xuyên biên giới mở rộng & dòng vốn ngoại (SMBC) vào ngân hàng nội địa -> **Tích cực** cho nhóm Ngân hàng thương mại (VCB, VPB, MBB).
+- Áp lực từ lợi suất trái phiếu Mỹ (tiệm cận ngưỡng 6%) và biến động trái phiếu toàn cầu gây rủi ro tỷ giá và chi phí vốn cho doanh nghiệp Việt Nam -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm vốn hóa lớn có đòn bẩy tài chính cao (Bất động sản) và chuyển dịch sang nhóm có câu chuyện nội tại riêng biệt (Ngân hàng/Đầu tư công).
+- Đẩy nhanh kiểm toán 7 tuyến đường sắt tại Hà Nội -> **Tích cực** -> Dòng tiền hưởng lợi nhóm hạ tầng, xây lắp.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: VPB**
-    - Động lực (FA): SMBC công bố kế hoạch gom 600 triệu cổ phiếu (13.800 tỷ đồng) trên sàn.
-    - Nhận định dòng tiền: Lực cầu chủ động từ khối ngoại tạo "nền cứng" cho giá, củng cố xu hướng tăng trung hạn, thu hút dòng tiền dẫn dắt thị trường.
-    - Hành động: **Chú ý giải ngân** theo nhịp mua gom của khối ngoại, ưu tiên gom dần quanh vùng nền hỗ trợ.
-- **Mã: VCB**
-    - Động lực (FA): Hưởng lợi trực tiếp từ tăng trưởng phí dịch vụ thanh toán QR xuyên biên giới.
-    - Nhận định dòng tiền: Dòng tiền thông minh tìm đến các mã có tăng trưởng thu nhập dịch vụ bền vững trong bối cảnh NIM các ngân hàng chịu áp lực.
-    - Hành động: **Tiếp tục quan sát** để gia tăng vị thế khi có nhịp điều chỉnh.
-- **Mã: PVD**
-    - Động lực (FA): Tin đồn Mỹ-Iran đàm phán mở lại eo biển Hormuz làm tăng cung dầu toàn cầu.
-    - Nhận định dòng tiền: Rủi ro điều chỉnh kỹ thuật do tâm lý giá dầu giảm, gây áp lực lên nhóm thượng nguồn dầu khí.
-    - Hành động: **Rủi ro vi phạm kịch bản**, quan sát phản ứng của giá tại các vùng hỗ trợ cứng, thận trọng với vị thế mua mới.
+    - Động lực (FA): Đối tác chiến lược Nhật Bản đàm phán nâng sở hữu lên 20% + Kỳ vọng thiết lập kỷ lục mới về lợi nhuận/vốn hóa.
+    - Nhận định dòng tiền: Tin tức đủ mạnh để tạo "neo" giá, đối trọng với áp lực vĩ mô tiêu cực từ lãi suất.
+    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo rung lắc chung của thị trường.
+- **Mã: NVL, PDR, VHM**
+    - Động lực (FA): Áp lực lãi suất và chi phí vốn gia tăng từ môi trường vĩ mô toàn cầu.
+    - Nhận định dòng tiền: Rủi ro bán tháo kỹ thuật cao do tâm lý tiêu cực đối với nhóm BĐS nợ vay lớn.
+    - Hành động: Rủi ro vi phạm kịch bản, cần kiểm soát chặt tỷ trọng hoặc đứng ngoài quan sát.
+- **Mã: VCG, HHV**
+    - Động lực (FA): Thông tin đẩy nhanh tiến độ pháp lý/kiểm toán dự án hạ tầng.
+    - Nhận định dòng tiền: Hợp lưu tin tức hỗ trợ xu hướng ngắn hạn.
+    - Hành động: Tiếp tục quan sát điểm entry khi dòng tiền lan tỏa.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã BSR:** Dữ liệu vĩ mô mới về khả năng giảm giá dầu (từ đàm phán Mỹ-Iran) đang tạo áp lực lên biên lợi nhuận lọc dầu. Cần theo dõi sát biến động giá dầu thô trong 48h tới. Nếu giá dầu thủng các mốc kỹ thuật quan trọng, cần cân nhắc chốt lời/hạ tỷ trọng để bảo toàn lợi nhuận thay vì nắm giữ dài hạn đến 2026.
+- (Chưa có tin tức đột biến mới cho nhóm EIB, BSR trong 15 phút qua).
