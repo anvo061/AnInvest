@@ -1,31 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:45
+⏱ Thời gian: 19:35
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tin tức:** Mỹ và Iran thảo luận thỏa thuận mở lại eo biển Hormuz -> **Tác động:** Tiêu cực -> **Dòng tiền:** Áp lực rút vốn khỏi nhóm Dầu khí (PVD, PVS, BSR, GAS) do kỳ vọng giá dầu điều chỉnh giảm mạnh.
-- **Tin tức:** SMBC đàm phán tăng tỷ lệ sở hữu tại VPBank và ngân hàng này chính thức vượt vốn điều lệ 100.000 tỷ đồng -> **Tác động:** Tích cực -> **Dòng tiền:** Tập trung mạnh vào nhóm Ngân hàng, dẫn dắt bởi VPB.
-- **Tin tức:** Dự báo KQKD Quý 3 tích cực cho nhóm chứng khoán -> **Tác động:** Tích cực -> **Dòng tiền:** Dịch chuyển vào nhóm Chứng khoán (SSI, VND) đón đầu mùa báo cáo tài chính.
+- **Tỷ giá & Lãi suất:** Lợi suất trái phiếu Mỹ hướng tới mốc 6% gây áp lực tỷ giá, buộc NHNN phải thận trọng hơn trong điều hành tiền tệ -> **Tiêu cực** cho nhóm định giá cao (BĐS, Chứng khoán).
+- **Thương mại:** Mỹ-Trung gia hạn đình chiến thương mại 2 tháng -> **Tích cực** cho nhóm Logistics/Cảng biển.
+- **Tài chính - Ngân hàng:** Hệ thống thanh toán QR xuyên biên giới mở rộng & dòng vốn ngoại (SMBC) vào ngân hàng nội địa -> **Tích cực** cho nhóm Ngân hàng thương mại (VCB, VPB, MBB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VPB
-- **Động lực (FA):** SMBC tăng tỷ lệ sở hữu & Vốn điều lệ vượt 100.000 tỷ.
-- **Nhận định dòng tiền:** Củng cố kỳ vọng về dòng vốn ngoại và năng lực mở rộng tín dụng, tạo động lực tăng trưởng mạnh trong ngắn hạn.
-- **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
-
-- **Mã:** PVD
-- **Động lực (FA):** Tin mở lại eo biển Hormuz làm hạ nhiệt giá dầu thế giới.
-- **Nhận định dòng tiền:** Rủi ro điều chỉnh giá theo giá dầu thô, áp lực bán có thể gia tăng.
-- **Hành động:** Rủi ro vi phạm kịch bản, thận trọng nắm giữ, quan sát ngưỡng hỗ trợ kỹ thuật gần nhất.
-
-- **Mã:** HAH
-- **Động lực (FA):** GELEX thoái sạch vốn (hơn 9,7 triệu cổ phiếu).
-- **Nhận định dòng tiền:** Áp lực cung lớn từ cổ đông lớn gây tâm lý tiêu cực tức thời.
-- **Hành động:** Tiếp tục quan sát, chưa vội bắt đáy cho đến khi hấp thụ hết lượng cung này.
-
-- **Mã:** KOS
-- **Động lực (FA):** 5 công ty chứng khoán bán giải chấp cổ phiếu chủ tịch.
-- **Nhận định dòng tiền:** Áp lực bán tháo kỹ thuật cực mạnh.
-- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để bảo toàn vốn.
+- **Mã: VPB**
+    - Động lực (FA): SMBC công bố kế hoạch gom 600 triệu cổ phiếu (13.800 tỷ đồng) trên sàn.
+    - Nhận định dòng tiền: Lực cầu chủ động từ khối ngoại tạo "nền cứng" cho giá, củng cố xu hướng tăng trung hạn, thu hút dòng tiền dẫn dắt thị trường.
+    - Hành động: **Chú ý giải ngân** theo nhịp mua gom của khối ngoại, ưu tiên gom dần quanh vùng nền hỗ trợ.
+- **Mã: VCB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ tăng trưởng phí dịch vụ thanh toán QR xuyên biên giới.
+    - Nhận định dòng tiền: Dòng tiền thông minh tìm đến các mã có tăng trưởng thu nhập dịch vụ bền vững trong bối cảnh NIM các ngân hàng chịu áp lực.
+    - Hành động: **Tiếp tục quan sát** để gia tăng vị thế khi có nhịp điều chỉnh.
+- **Mã: PVD**
+    - Động lực (FA): Tin đồn Mỹ-Iran đàm phán mở lại eo biển Hormuz làm tăng cung dầu toàn cầu.
+    - Nhận định dòng tiền: Rủi ro điều chỉnh kỹ thuật do tâm lý giá dầu giảm, gây áp lực lên nhóm thượng nguồn dầu khí.
+    - Hành động: **Rủi ro vi phạm kịch bản**, quan sát phản ứng của giá tại các vùng hỗ trợ cứng, thận trọng với vị thế mua mới.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Tin tức về giá dầu giảm làm gia tăng rủi ro trích lập dự phòng hàng tồn kho và thu hẹp biên lợi nhuận. Với vị thế đã qua điểm rơi trung hạn, khuyến nghị **cơ cấu lại (hạ tỷ trọng)** để đảo dòng tiền sang các nhóm ngành có câu chuyện tăng trưởng lợi nhuận quý 3 rõ ràng hơn (như Chứng khoán hoặc Ngân hàng).
+- **Mã BSR:** Dữ liệu vĩ mô mới về khả năng giảm giá dầu (từ đàm phán Mỹ-Iran) đang tạo áp lực lên biên lợi nhuận lọc dầu. Cần theo dõi sát biến động giá dầu thô trong 48h tới. Nếu giá dầu thủng các mốc kỹ thuật quan trọng, cần cân nhắc chốt lời/hạ tỷ trọng để bảo toàn lợi nhuận thay vì nắm giữ dài hạn đến 2026.
