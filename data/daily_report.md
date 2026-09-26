@@ -1,22 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:45 - 27/09/2026
+⏱ Thời gian: 04:50 - 27/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mỹ - Trung đồng thuận cắt giảm thuế quan 30 tỷ USD -> **Tích cực**: Khơi thông chuỗi cung ứng, kỳ vọng dòng tiền nhóm Logistics/Xuất khẩu (GMD, HAH, TNG) sẽ hưởng lợi lớn từ gia tăng lưu lượng giao thương.
-- Định hướng tái cơ cấu SCIC -> **Tích cực**: Thúc đẩy tiến độ thoái vốn nhà nước, tạo "con sóng" kỳ vọng cho các doanh nghiệp vốn lớn (VNM, BMP).
-- Biến động tỷ giá USD/VND -> **Phân hóa**: Cải thiện biên lợi nhuận cho nhóm xuất khẩu (VHC, TNG) nhưng gây áp lực nợ vay/chi phí đầu vào cho nhóm năng lượng/điện (POW).
+- Mỹ - Trung đồng thuận cắt giảm thuế quan 30 tỷ USD -> Tích cực -> Dòng tiền hướng vào nhóm **Logistics, Cảng biển (GMD, HAH)** và **Xuất khẩu (TNG, VHC)** do kỳ vọng khơi thông chuỗi cung ứng toàn cầu.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **PET**
 - Động lực (FA): VietinBank Capital bán ra 7,25 triệu cổ phiếu.
-- Nhận định dòng tiền: Tạo áp lực cung lớn lên thanh khoản ngắn hạn, tâm lý nhà đầu tư nhỏ lẻ sẽ phản ứng tiêu cực.
-- Hành động: **Rủi ro vi phạm kịch bản**; tránh bắt đáy cho đến khi hấp thụ hết lượng cung này.
-
-- Mã: **VNM**
-- Động lực (FA): Hưởng lợi kép từ lãi suất tiền gửi cao (giữ tiền mặt lớn) và thông tin thoái vốn SCIC.
-- Nhận định dòng tiền: Dòng tiền phòng thủ và đầu cơ thoái vốn có thể hội tụ, hỗ trợ đà tăng.
-- Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức thanh khoản ổn định.
+- Nhận định dòng tiền: Áp lực cung lớn trong ngắn hạn từ quỹ đầu tư, khả năng cao xảy ra hiện tượng "cắt lỗ kỹ thuật" hoặc điều chỉnh biên độ giảm.
+- Hành động: **Rủi ro vi phạm kịch bản**. Theo dõi lực cầu tại các vùng hỗ trợ cứng, tránh bắt đáy khi áp lực bán giải chấp/thoái vốn từ tổ chức còn hiệu hữu.
 
 🔄 3. Cảnh báo Tái cơ cấu:
 - Mã: **BSR**
-- Nhận định: Tin tức về việc khôi phục vận tải dầu thô qua Biển Đỏ giúp tối ưu hóa chi phí đầu vào là yếu tố hỗ trợ cơ bản tích cực. Trong bối cảnh đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu này là "cú hích" bổ trợ cho việc **Tiếp tục nắm giữ** để theo dõi nhịp hồi phục biên lợi nhuận, thay vì bán tháo theo chiến lược thoái vốn cũ.
+- Động lực (FA): Ký thỏa thuận khung mua dầu thô với ExxonMobil Châu Á - Thái Bình Dương.
+- Nhận định: Đây là tín hiệu tích cực về vận hành (đảm bảo nguồn cung đầu vào/tối ưu chi phí). Đối với vị thế trung hạn (đã quá kỳ vọng tháng 3/2026), tin tức này là "bệ đỡ" giúp duy trì nền tảng cơ bản. 
+- Hành động: **Tiếp tục giữ**. Dữ liệu mới củng cố năng lực vận hành dài hạn, chưa có tín hiệu cần thiết phải thoái vốn ngay lập tức; tập trung quan sát biên lợi nhuận lọc dầu quý tới để quyết định điểm chốt lời cuối cùng.
