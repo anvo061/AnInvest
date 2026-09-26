@@ -1,26 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:45 - 26/09/2026
+⏱ Thời gian: 18:48
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Khối ngoại bán ròng 4.000 tỷ đồng sau sự kiện nâng hạng -> [Tác động: Tiêu cực] -> [Dòng tiền bị rút khỏi nhóm vốn hóa lớn (Bluechips: VCB, HPG, VHM, MSN), tạo áp lực giảm điểm trên chỉ số chung].
-- Mỹ siết kiểm soát chuỗi cung ứng bông từ Trung Quốc -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm ngành Dệt may (TNG, MSH)].
-- Xuất khẩu rau quả đạt đỉnh 3 tháng liên tiếp -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Nông nghiệp (HAG, PAN)].
-- Chính sách giảm giá điện -> [Tác động: Tiêu cực] -> [Dòng tiền cảnh giác với nhóm Nhiệt điện (POW)].
+- **Nâng hạng thị trường & Áp lực bán ròng:** Dữ liệu cho thấy sự phân hóa cực đoan; trong khi sự kiện nâng hạng mở ra kỳ vọng huy động vốn dài hạn cho BĐS và CTCK, thì thực tế dòng tiền khối ngoại đang "bán ròng mạnh" (4.000 tỷ đồng) vào các Bluechips (VCB, HPG, VHM, MSN) gây sức ép tâm lý ngắn hạn. -> **Tác động: Tiêu cực trong ngắn hạn (đối với vốn hóa lớn), Tích cực trong trung hạn (nhóm tài chính/BĐS).** -> Dòng tiền sẽ bị rút khỏi Bluechips để luân chuyển sang các nhóm midcap có câu chuyện riêng hoặc xuất khẩu.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TNG, MSH**
-  - Động lực (FA): Hưởng lợi từ sự dịch chuyển đơn hàng do rủi ro pháp lý về nguồn gốc bông từ Trung Quốc tại Mỹ.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ kỳ vọng xuất khẩu sẽ tìm đến, hỗ trợ tăng giá ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu có điểm test cung thành công trong phiên.
-- Mã: **HAG, PAN**
-  - Động lực (FA): Kim ngạch xuất khẩu rau quả liên tục vượt mốc 1 tỷ USD/tháng.
-  - Nhận định dòng tiền: Nhóm cổ phiếu tăng trưởng bền vững, dòng tiền vào ổn định.
-  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi có nhịp điều chỉnh kỹ thuật.
-- Mã: **POW**
-  - Động lực (FA): Áp lực giảm giá bán điện làm mỏng biên lợi nhuận.
-  - Nhận định dòng tiền: Khả năng suy yếu do nhà đầu tư lo ngại kết quả kinh doanh quý tới.
-  - Hành động: Rủi ro vi phạm kịch bản nắm giữ, ưu tiên quan sát phản ứng của hỗ trợ cứng.
-
-🔄 3. Cảnh báo Tái cơ cấu (Mã mục tiêu: BSR):
-- Dữ liệu mới: BSR ký kết thành công hợp đồng cung ứng dầu thô dài hạn với ExxonMobil. 
-- Nhận định: Dữ liệu này trực tiếp củng cố cho luận điểm giữ vị thế, giúp ổn định biên lợi nhuận lọc dầu trong bối cảnh vĩ mô biến động. Tiếp tục duy trì danh mục cho BSR; chưa cần tái cơ cấu.
+- **Mã:** **VHC, ANV**
+  - Động lực (FA): Thị trường Brazil và Nhật Bản tăng mạnh nhu cầu nhập khẩu thủy sản Việt Nam.
+  - Nhận định dòng tiền: Hưởng lợi từ tăng trưởng xuất khẩu thực tế, dòng tiền có khả năng tìm đến nhóm này như một "trú ẩn" an toàn khi nhóm Bluechips bị khối ngoại xả mạnh.
+  - Hành động: **Chú ý giải ngân** nếu giá test lại vùng hỗ trợ kỹ thuật.
+- **Mã:** **VCG**
+  - Động lực (FA): Ấn định tiến độ cứng (tháng 5/2027) cho sân bay Quảng Trị, đảm bảo khối lượng công việc cho nhóm hạ tầng.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ nhóm đầu tư công sẽ phản ứng tích cực với thông tin có mốc thời gian cụ thể.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự gần nhất.
+- **Mã:** **TNG, MSH**
+  - Động lực (FA): Mỹ siết chặt chuỗi cung ứng bông Trung Quốc, tạo lợi thế cho doanh nghiệp dệt may tuân thủ tốt.
+  - Nhận định dòng tiền: Dòng tiền sẽ tập trung vào nhóm hưởng lợi từ chuyển dịch đơn hàng quốc tế.
+  - Hành động: **Chú ý giải ngân** theo kịch bản break-out.
+- **Mã:** **PNJ**
+  - Động lực (FA): Người nhà lãnh đạo liên tục thoái vốn.
+  - Nhận định dòng tiền: Rủi ro cung ngắn hạn gia tăng, niềm tin nhà đầu tư bị lung lay.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng.
