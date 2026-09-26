@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:18 (26/09/2026)
+⏱ Thời gian: 01:45 - 27/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dầu khí:** Tuyến vận tải Biển Đỏ dần thông suốt kết hợp rào cản xuất khẩu Diesel của Mỹ tạo "kép" hỗ trợ biên lợi nhuận lọc dầu -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào: Nhóm Lọc hóa dầu (BSR).
-- **Vận tải & Logistics:** Giá xăng dầu trong nước tăng ngược xu hướng thế giới -> Đánh giá: **Tiêu cực** -> Dòng tiền chịu áp lực tại: Nhóm Vận tải biển/Logistics (GMD, HAH).
-- **Thoái vốn Nhà nước:** Chính phủ định hướng SCIC sang mô hình Quỹ Đầu tư quốc gia -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào: Nhóm VN30 có tỷ lệ sở hữu nhà nước cao (VNM).
+- Mỹ - Trung đồng thuận cắt giảm thuế quan 30 tỷ USD -> **Tích cực**: Khơi thông chuỗi cung ứng, kỳ vọng dòng tiền nhóm Logistics/Xuất khẩu (GMD, HAH, TNG) sẽ hưởng lợi lớn từ gia tăng lưu lượng giao thương.
+- Định hướng tái cơ cấu SCIC -> **Tích cực**: Thúc đẩy tiến độ thoái vốn nhà nước, tạo "con sóng" kỳ vọng cho các doanh nghiệp vốn lớn (VNM, BMP).
+- Biến động tỷ giá USD/VND -> **Phân hóa**: Cải thiện biên lợi nhuận cho nhóm xuất khẩu (VHC, TNG) nhưng gây áp lực nợ vay/chi phí đầu vào cho nhóm năng lượng/điện (POW).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **BSR**
-- Động lực (FA): Hưởng lợi kép từ việc giảm chi phí logistics (tuyến Biển Đỏ) và kỳ vọng giá dầu thành phẩm tăng do hạn chế xuất khẩu Diesel tại Mỹ.
-- Nhận định dòng tiền: Tin tức củng cố vị thế biên lợi nhuận, dòng tiền có khả năng gia tăng sự chú ý tại vùng hỗ trợ cứng.
-- Hành động: **Chú ý giải ngân** nếu xác nhận phá vỡ kháng cự ngắn hạn với thanh khoản đột biến.
+- Mã: **PET**
+- Động lực (FA): VietinBank Capital bán ra 7,25 triệu cổ phiếu.
+- Nhận định dòng tiền: Tạo áp lực cung lớn lên thanh khoản ngắn hạn, tâm lý nhà đầu tư nhỏ lẻ sẽ phản ứng tiêu cực.
+- Hành động: **Rủi ro vi phạm kịch bản**; tránh bắt đáy cho đến khi hấp thụ hết lượng cung này.
 
-- Mã: **GMD / HAH**
-- Động lực (FA): Giá xăng dầu trong nước tăng cao trực tiếp ăn mòn biên lợi nhuận vận hành.
-- Nhận định dòng tiền: Đối diện áp lực chốt lời ngắn hạn từ phe cầm cổ phiếu khi cấu trúc giá vốn bị đe dọa.
-- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu mất ngưỡng hỗ trợ kỹ thuật gần nhất.
+- Mã: **VNM**
+- Động lực (FA): Hưởng lợi kép từ lãi suất tiền gửi cao (giữ tiền mặt lớn) và thông tin thoái vốn SCIC.
+- Nhận định dòng tiền: Dòng tiền phòng thủ và đầu cơ thoái vốn có thể hội tụ, hỗ trợ đà tăng.
+- Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì mức thanh khoản ổn định.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR (Tái cơ cấu):** Dữ liệu vĩ mô hiện tại (đặc biệt là rào cản xuất khẩu Diesel tại Mỹ) tạo động lực mới cho BSR trong quý cuối năm. Thay vì bán theo kế hoạch cũ, cần **nâng mức chặn lãi (trailing stop)** để tối ưu hóa vị thế, giữ lại chờ sóng tăng giá thành phẩm.
+- Mã: **BSR**
+- Nhận định: Tin tức về việc khôi phục vận tải dầu thô qua Biển Đỏ giúp tối ưu hóa chi phí đầu vào là yếu tố hỗ trợ cơ bản tích cực. Trong bối cảnh đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu này là "cú hích" bổ trợ cho việc **Tiếp tục nắm giữ** để theo dõi nhịp hồi phục biên lợi nhuận, thay vì bán tháo theo chiến lược thoái vốn cũ.
