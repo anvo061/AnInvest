@@ -1,5 +1,174 @@
 ﻿[
   {
+    "Title": "Rate Market Fear Gauge Is Warning for Corporate Bonds - bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXh6NW1EMEtxUzFTQS1OZVRKRUVVaWlHZ1lwMXNGRVFwMTFrVkkxd1FKakd4VGtKZlVzdElFdlBzWjRzNEtIbFpPelVOSDJSX3llcHRBZkNvVzdyVUlxMzJHX3pXVGdGaXhLT1c2R3RYYlY1TFB2TnB0b19QM3dKMXJ3bjNNamkxZE1KSHByTUp1TFFtbno4eDlVVEF2YzBjbEZ4ZE0xNHIyMXc1N3BPOWltZw?oc=5",
+    "PubDate": "Sat, 26 Sep 2026 19:00:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Sự gia tăng lo ngại trên thị trường trái phiếu doanh nghiệp quốc tế gây áp lực lên chi phí huy động vốn và tâm lý nhà đầu tư đối với các doanh nghiệp Việt Nam có đòn bẩy tài chính cao.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Rủi ro chi phí vốn toàn cầu tăng gây áp lực lên các doanh nghiệp có đòn bẩy cao. Cần thận trọng với nhóm BĐS vay nợ lớn trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực chi phí vay và rủi ro tái cấu trúc nợ gia tăng khi thị trường trái phiếu biến động tiêu cực."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Nhạy cảm với biến động lãi suất và tâm lý thị trường trái phiếu doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-09-27 06:54:55"
+  },
+  {
+    "Title": "China’s Economic ‘Regime Shift’ May Sow Risk for the World - bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUx6cTQxcHZqVnVMX2MwVHpiRjZFamNGNnFCV2pBVVFuTlZwaVVyaWxjWXFOdzlNcUM3bm5CdkR1RHhydnNEcG1mZ1o2SmExeWUxaW1xNjBXeTZxNU5YSzJKX2tXM3NtNml4aUpQalZDUWVxcFJ4aHFTVzBxeW9QRE83REpBYl90VmQyOTVpSEtNcFVsSzBpR3lyZXBHb2hsS0dKX19TVGUxTFVmTmwtVDZVMUZpdw?oc=5",
+    "PubDate": "Sat, 26 Sep 2026 10:45:01 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Sự thay đổi mô hình kinh tế Trung Quốc gây rủi ro cho chuỗi cung ứng toàn cầu và áp lực giảm giá hàng hóa, ảnh hưởng tiêu cực đến các doanh nghiệp xuất khẩu và nguyên vật liệu Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Rủi ro dư cung thép từ Trung Quốc gây áp lực biên lợi nhuận nhóm thép. Cần thận trọng với HPG, NKG do rủi ro cạnh tranh giá.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực cạnh tranh từ thép giá rẻ Trung Quốc khi nhu cầu nội địa nước này suy yếu."
+      },
+      {
+        "Ticker": "NKG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Rủi ro giảm biên lợi nhuận xuất khẩu do biến động giá thép và cầu tiêu thụ tại Trung Quốc."
+      }
+    ],
+    "AnalyzedAt": "2026-09-27 06:54:40"
+  },
+  {
+    "Title": "80 triệu cổ phiếu DTR của Đông Tây Land lên sàn UPCoM, tăng gần 10% trong phiên giao dịch đầu tiên - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXlwcDhUWEtFMmhxbUt1QkQ4YXJiSnNKeGZZMkhZdVJXczdxRFRDMzFKa2VrQllDSU53VGhIYXJ3Qm5oeXhMUDlBX0czcmxTaS1tLVJEVzUyLV8zX3Zsc2wzZHdDUzZQcWgxS2o4ejZoZWxJUm5Bem9DaS1udUtzRHMyekI4UnZYbE9tNDVVN05oU2FKcXNiUk4xVUdQdWpoaElmREN3ckoxQ3JqN18zRV9FWjZzRGlvUVY3SmRQRDI0RVcycnJMaWJKSjQ1VHBLYlE?oc=5",
+    "PubDate": "Fri, 25 Sep 2026 06:07:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc niêm yết cổ phiếu DTR là sự kiện riêng lẻ của doanh nghiệp, không tạo ra tác động lan tỏa đến nhóm ngành bất động sản hay thị trường chung.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - DTR. Sự kiện niêm yết riêng lẻ, thanh khoản thấp, không ảnh hưởng đến dòng tiền ngành BĐS. Bỏ qua tác động hệ thống.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-27 06:54:26"
+  },
+  {
+    "Title": "Không có nhà đầu tư đăng ký mua cổ phần của Seaprodex từ SCIC - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEUtRGcwaUk1T0JxdFlPWURhOEEwU3lFbnZ4VFo0TWtwQmEyTTRoRkNUbWhyaGc5UlhuU1Z6b0xRSTRFU2Y3TnI2ZDhDYzlqc0ZvNTRGRlNQdl9Gb2xkdDJYTTd6dU1PekpvcmdYYU9mcDlWQldrNzlUM3FlbXdFa0tRUnRGcVh5NVFoUngyd0FJUDFaWjdMd1YxNXpuNHVsT293?oc=5",
+    "PubDate": "Fri, 25 Sep 2026 06:46:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -3,
+    "MarketImpact": "Việc thoái vốn bất thành cho thấy sự thiếu quan tâm của thị trường đối với tài sản của Seaprodex, gây áp lực tâm lý tiêu cực lên cổ phiếu và làm chậm tiến trình tái cơ cấu vốn của SCIC.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - SEA. Thoái vốn bất thành phản ánh thanh khoản kém và thiếu sức hút với dòng tiền lớn. Cổ phiếu sẽ chịu áp lực điều chỉnh do kỳ vọng thoái vốn bị dập tắt.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SEA",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thất bại trong việc tìm kiếm nhà đầu tư chiến lược làm giảm kỳ vọng về sự thay đổi quản trị và giá trị cổ phiếu trong ngắn hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-09-27 06:54:12"
+  },
+  {
+    "Title": "FUETPVND: Thông báo thay đổi giá trị tài sản ròng ngày 24/09/2026 - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGFFVFd0VlNsN2lUakMxa19ZZVZjdlBsVWU0WDBnTnd6cTBOWHhrRWtTWHktS1JpLUphaV9PWUpRQjUtdkQ0UHVUYTRCRWZ0WlMxczRUbVAyME1YVVo4N21SOU5Cdnh0UGRkUkd4QWVXWUh0d0U2SUhrREF4MnNFalAteUwtUkVsckxlai1WOUxMLXY2eUxvYmdPaTVNc1o1bVZCUFp4MHY1OUdKdm1kNlpyUFlYeTVSQlRUNy1paDhYWnpLNHc?oc=5",
+    "PubDate": "Fri, 25 Sep 2026 07:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin định kỳ về biến động giá trị tài sản ròng (NAV) của quỹ ETF, không phản ánh thay đổi trong hoạt động kinh doanh hay xu hướng vĩ mô của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Đây là báo cáo định kỳ về NAV của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền đối với các mã cổ phiếu thành phần.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-27 06:54:01"
+  },
+  {
+    "Title": "Giá vàng hôm nay: Vàng tăng nhẹ nhưng vẫn dưới 4.300 USD, lợi suất Mỹ lên cao nhất 19 năm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/doc-nhanh-26-9-vang-tang-gia-nhe-nhung-van-duoi-4300-usd-loi-suat-my-len-cao-nhat-19-nam-100260926075246416.htm",
+    "PubDate": "9/26/2026 8:39:00 AM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Lợi suất trái phiếu Mỹ tăng cao gây áp lực lên tỷ giá USD/VND, làm tăng chi phí vay nợ bằng ngoại tệ và gây áp lực lên dòng vốn ngoại trên thị trường chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lợi suất Mỹ tăng gây áp lực tỷ giá, làm tăng chi phí tài chính doanh nghiệp vay nợ ngoại tệ lớn. Dòng tiền khối ngoại có xu hướng rút ròng, gây áp lực lên nhóm vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Doanh nghiệp có dư nợ vay ngoại tệ lớn, chịu áp lực chi phí tài chính khi tỷ giá USD/VND biến động mạnh."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tỷ giá và lãi suất cao gây khó khăn cho việc huy động vốn quốc tế và chi phí trả nợ vay."
+      }
+    ],
+    "AnalyzedAt": "2026-09-27 06:53:43"
+  },
+  {
+    "Title": "NAPAS, Mastercard mở rộng tầm soát ung thư cho phụ nữ yếu thế",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/napas-mastercard-mo-rong-tam-soat-ung-thu-cho-phu-nu-yeu-the-100260926083727526.htm",
+    "PubDate": "9/26/2026 8:43:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động trách nhiệm xã hội (CSR) của NAPAS và Mastercard, không tác động trực tiếp đến kết quả kinh doanh hay biên lợi nhuận của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động CSR, không tạo ra dòng tiền hay thay đổi cơ bản cho bất kỳ mã cổ phiếu nào. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-27 06:53:33"
+  },
+  {
+    "Title": "Hủy hợp đồng bảo hiểm sau hơn 2 năm đóng 150 triệu, người mua nhận về gần 21 triệu",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/huy-hop-dong-bao-hiem-sau-hon-2-nam-dong-150-trieu-nguoi-mua-nhan-ve-21-trieu-2559147.html",
+    "PubDate": "Sun, 27 Sep 2026 05:45:00 +0700",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -1,
+    "MarketImpact": "Tin tức tiêu cực về trải nghiệm khách hàng bảo hiểm làm gia tăng áp lực quản lý từ cơ quan chức năng, ảnh hưởng đến uy tín và doanh thu khai thác mới của các doanh nghiệp bảo hiểm niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Bảo hiểm. Tin tức lẻ tẻ về tranh chấp hợp đồng cá nhân không tác động trọng yếu đến dòng tiền hay biên lợi nhuận doanh nghiệp. Tác động thực tế không đáng kể.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-27 06:53:18"
+  },
+  {
+    "Title": "Giá vàng hôm nay 27/9/2026 lao dốc, vàng SJC giảm 3,2 triệu đồng/lượng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-27-9-2026-lao-doc-vang-sjc-giam-3-2-trieu-dong-luong-2559212.html",
+    "PubDate": "Sun, 27 Sep 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng SJC chủ yếu chịu sự điều tiết của NHNN và thị trường vật chất, không có tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Biến động giá vàng vật chất không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-27 06:53:08"
+  },
+  {
+    "Title": "‘Cá mập’ Phố Wall đồng loạt tăng gom tiền mặt, điều gì đang xảy ra?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ca-map-pho-wall-dong-loat-tang-gom-tien-mat-dieu-gi-dang-xay-ra-2558442.html",
+    "PubDate": "Sun, 27 Sep 2026 06:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc các quỹ lớn tăng tỷ trọng tiền mặt phản ánh tâm lý thận trọng, rủi ro rút vốn từ các thị trường cận biên như Việt Nam để bảo toàn thanh khoản.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Khối ngoại tăng tiền mặt là động thái phòng thủ vĩ mô, chưa phải bán tháo. Áp lực lên nhóm Bluechips mang tính điều tiết danh mục, không phản ánh suy yếu nội tại doanh nghiệp.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-27 06:52:50"
+  },
+  {
     "Title": "PVCFC vào Top 3 doanh nghiệp phi tài chính tại IR Awards 2026",
     "Source": "Tuổi Trẻ Kinh Doanh",
     "Link": "https://tuoitre.vn/pvcfc-vao-top-3-doanh-nghiep-phi-tai-chinh-tai-ir-awards-2026-100260926104024544.htm",
@@ -18608,147 +18777,5 @@
       }
     ],
     "AnalyzedAt": "2026-09-12 08:07:47"
-  },
-  {
-    "Title": "Ngành du lịch cần người, nhưng đào tạo chưa theo kịp",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/nganh-du-lich-can-nguoi-nhung-dao-tao-chua-theo-kip-100260911161528069.htm",
-    "PubDate": "9/11/2026 5:26:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là vấn đề mang tính cấu trúc dài hạn của thị trường lao động ngành dịch vụ, không tác động trực tiếp đến doanh thu hay biên lợi nhuận của các doanh nghiệp niêm yết trong ngắn hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Du lịch. Thiếu hụt nhân sự là vấn đề vĩ mô dài hạn, không tạo biến động dòng tiền tức thời cho các mã cổ phiếu ngành du lịch, khách sạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 08:07:37"
-  },
-  {
-    "Title": "Tin tức sáng 12-9: Thu nhập người lao động được cải thiện, tăng 720.000 đồng sau một năm",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/tin-tuc-sang-12-9-thu-nhap-nguoi-lao-dong-duoc-cai-thien-tang-720000-dong-sau-mot-nam-100260911224542473.htm",
-    "PubDate": "9/12/2026 5:00:00 AM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Thu nhập cải thiện thúc đẩy sức mua nội địa, hỗ trợ trực tiếp cho các doanh nghiệp bán lẻ và hàng tiêu dùng thiết yếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức vĩ mô mang tính chất thống kê chung, thiếu tác động trực tiếp đến biên lợi nhuận doanh nghiệp trong ngắn hạn. Cần quan sát thêm dữ liệu chi tiêu thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 08:07:23"
-  },
-  {
-    "Title": "VN-Index mất mốc 1.800 điểm, ông Phạm Nhật Vượng vẫn thăng hạng tỷ phú USD",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/vn-index-mat-moc-1-800-diem-ong-pham-nhat-vuong-van-thang-hang-2554412.html",
-    "PubDate": "Sat, 12 Sep 2026 05:30:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Tin tức mang tính chất tổng hợp về biến động chỉ số và tài sản cá nhân, không phản ánh thay đổi trong hoạt động kinh doanh cốt lõi của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Tin tức về biến động chỉ số và tài sản cá nhân không làm thay đổi dòng tiền hay triển vọng lợi nhuận doanh nghiệp. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 08:07:13"
-  },
-  {
-    "Title": "Giá xăng dầu hôm nay 12/9: Thế giới hạ nhiệt, trong nước duy trì mức thấp",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-xang-dau-hom-nay-12-9-the-gioi-ha-nhiet-trong-nuoc-duy-tri-muc-thap-2554445.html",
-    "PubDate": "Sat, 12 Sep 2026 07:03:51 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Giá nhiên liệu thấp giúp giảm chi phí vận hành cho các doanh nghiệp vận tải, logistics và sản xuất, đồng thời hỗ trợ kiểm soát lạm phát chi phí đẩy.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá dầu hạ nhiệt là yếu tố bình ổn chi phí đầu vào, không phải động lực tăng trưởng đột biến. Tác động biên lợi nhuận cần thời gian phản ánh vào báo cáo tài chính.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giá nhiên liệu chiếm tỷ trọng lớn trong chi phí vận hành, giá dầu thấp hỗ trợ trực tiếp lợi nhuận."
-      }
-    ],
-    "AnalyzedAt": "2026-09-12 08:06:59"
-  },
-  {
-    "Title": "Không trồng hạt dẻ cười, Việt Nam vẫn thu về 8.300 tỷ đồng",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/khong-trong-hat-de-cuoi-viet-nam-van-thu-ve-8-300-ty-dong-5119246.html",
-    "PubDate": "Sat, 12 Sep 2026 06:16:55 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc gia tăng kim ngạch xuất khẩu nông sản chế biến, đặc biệt là các mặt hàng hạt và nông sản giá trị gia tăng, giúp cải thiện doanh thu cho các doanh nghiệp xuất khẩu nông sản và logistics.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất thống kê vĩ mô, không tác động trực tiếp đến biên lợi nhuận doanh nghiệp cụ thể. Thiếu tính thực chiến cho dòng tiền ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 08:06:43"
-  },
-  {
-    "Title": "Cơ hội hiếm có trong nhiều năm sắp xuất hiện trên TTCK - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUI2elFlSF9vdGUtMlQxRjhUOW51LTk3dFdPRjNBVHRUX0xyZDZGNm4tTTlmX2tEd3FUU1gweUp4ZF9PcmxGOVN4N3hOcFMwLW85OWlVZERIZGVsTG16T21VQnduZkw2V2lDQ2Y2bHV0bGZfVGxfc3htR0lCdzJXbDB2bDJYQnRmUUh1Y3M5ckUzUElTSDVzZkNn?oc=5",
-    "PubDate": "Fri, 11 Sep 2026 17:05:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là tiêu đề mang tính chất định hướng tâm lý thị trường (clickbait) từ báo chí, không chứa thông tin vĩ mô hay dữ liệu doanh nghiệp cụ thể để phân tích tác động dòng tiền.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không có ngành cụ thể. Tiêu đề mang tính chất định hướng tâm lý, thiếu dữ liệu cơ bản để xác định dòng tiền thông minh. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 06:15:20"
-  },
-  {
-    "Title": "BCP: Công văn điều chỉnh thông tin số lượng chứng khoán đăng ký của Tổng Công ty Lưu ký và Bù trừ Chứng khoán Việt Nam - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMmVYaU5TZGFGeHRkX0N4Sm5ocU1SMzZncWJaa1JLOUNPTTNxUEMxMm5KVXU4NU5VOFd2VVFndWQ5clR1LV9xSTdCN0tXa3RmRmZ2cjBURWdBa3JaN0pkYmVQMWFjX0tlSkdOWnNERjRYZHFQUlcyNmZCNlNJU1RQU2FPVFRSM21YZWlvTUhDU3A5cVd6SHcyUGNObVdNamlnZ2p2bWlGemduZXVua0Z6S2lUOHRQV3dibnJLeWlJcnZJV3Uyb1l2aURJVkl1YVBzektQb2xqWnFjVllQdTJza1duM2lLZHVWRGs5X2V5Yw?oc=5",
-    "PubDate": "Fri, 11 Sep 2026 07:59:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về việc điều chỉnh số lượng chứng khoán đăng ký lưu ký, không tác động đến hoạt động kinh doanh hay giá trị nội tại của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là nghiệp vụ hành chính thông thường của VSD, không tạo ra biến động dòng tiền hay thay đổi kỳ vọng lợi nhuận cho cổ phiếu BCP.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 06:15:09"
-  },
-  {
-    "Title": "Bản Việt sắp bán sạch cổ phiếu Vietcap? - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0YyMlh2S3hZeEhlUHBJcXM1WFZqNy0xdGx0TzYwdDZxbXFoemFzZXRycjhHNGpPYnIxYU5NVmhpYXdKcWg3YjM1VE9ld2ZlUnh1ajB5TXg3TkM1V0QwNEw3ZE1hOF93NTh0Tl8yU2hGaXJHUy1oNEpETXNnSTJieUk3dw?oc=5",
-    "PubDate": "Fri, 11 Sep 2026 16:03:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Việc cổ đông lớn thoái vốn tạo áp lực cung ngắn hạn lên cổ phiếu VCI, gây tâm lý lo ngại cho nhà đầu tư cá nhân về triển vọng ngắn hạn của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - VCI. Áp lực bán từ cổ đông lớn tạo rào cản tâm lý, dòng tiền thông minh sẽ đứng ngoài quan sát cho đến khi áp lực cung được hấp thụ hoàn toàn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCI",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực bán từ cổ đông lớn tạo nguồn cung lớn, gây áp lực giảm giá ngắn hạn và tâm lý tiêu cực cho nhà đầu tư."
-      }
-    ],
-    "AnalyzedAt": "2026-09-12 06:14:54"
-  },
-  {
-    "Title": "Ngao chết hàng loạt ở Thanh Hóa, gây thiệt hại lớn cho người dân",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/ngao-chet-hang-loat-o-thanh-hoa-gay-thiet-hai-lon-cho-nguoi-dan-100260911162457585.htm",
-    "PubDate": "9/11/2026 5:33:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Sự cố thiên tai tại địa phương ảnh hưởng đến hộ nuôi trồng nhỏ lẻ, không tác động trực tiếp đến các doanh nghiệp thủy sản niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Ngành Thủy sản. Sự cố mang tính chất địa phương, không ảnh hưởng đến chuỗi cung ứng hay biên lợi nhuận của các doanh nghiệp thủy sản niêm yết. Dòng tiền không phản ứng.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 06:14:43"
-  },
-  {
-    "Title": "Khánh Hòa giao công an điều tra, xử lý giả mạo mã số vùng trồng sầu riêng",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/khanh-hoa-giao-cong-an-dieu-tra-xu-ly-gia-mao-ma-so-vung-trong-sau-rieng-100260911172553532.htm",
-    "PubDate": "9/11/2026 5:53:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc siết chặt quản lý mã số vùng trồng giúp bảo vệ uy tín nông sản Việt Nam, ngăn chặn gian lận thương mại, tạo môi trường cạnh tranh lành mạnh cho các doanh nghiệp xuất khẩu chính ngạch.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Việc siết chặt quản lý mã vùng trồng là hoạt động hành chính, không tác động trực tiếp đến doanh thu ngắn hạn. Cần theo dõi sát sao các doanh nghiệp có vùng trồng đạt chuẩn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 06:14:24"
   }
 ]
