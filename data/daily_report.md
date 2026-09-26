@@ -1,27 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:45
+⏱ Thời gian: 08:46:13 (Ngày 26/09/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới tăng vọt gây áp lực lạm phát và kỳ vọng Fed duy trì lãi suất cao -> **Tiêu cực** -> Dòng tiền thận trọng với nhóm ngành nhạy cảm lãi suất (BĐS, Chứng khoán) và có thể dịch chuyển sang nhóm dầu khí thượng nguồn.
+- **Ngành Năng lượng & Dầu khí:** Việc BSR ký kết hợp đồng dầu thô với ExxonMobil (đảm bảo nguồn cung) kết hợp với bối cảnh giá dầu thế giới neo cao do khủng hoảng năng lượng tại Châu Âu -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Thượng nguồn (PVD) và Lọc hóa dầu (BSR).
+- **Áp lực vĩ mô:** Giá dầu tăng thúc đẩy lo ngại lạm phát và lãi suất Fed neo cao -> **Tiêu cực** cho nhóm Chứng khoán (SSI) và Bất động sản (VHM) do rủi ro thanh khoản và chi phí vốn.
+- **Thoái vốn & Tái cấu trúc:** Masan (MSN) thoái vốn MSR cho đối tác Mỹ giúp cải thiện bảng cân đối kế toán -> **Tích cực** cho cấu trúc tài chính của MSN.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu tăng cải thiện trực tiếp giá thuê giàn khoan và biên lợi nhuận.
-    - Nhận định dòng tiền: Hưởng lợi từ sự phân hóa khi dòng tiền rút khỏi nhóm nhạy cảm lãi suất.
-    - Hành động: Chú ý giải ngân nếu giữ vững nền giá hiện tại.
-- **Mã: VPB**
-    - Động lực (FA): Khối tự doanh liên tục mua ròng ngược xu hướng thị trường.
-    - Nhận định dòng tiền: Có lực đỡ kỹ thuật tốt, đóng vai trò là mã "phòng thủ" trong giai đoạn áp lực vĩ mô.
-    - Hành động: Tiếp tục quan sát nhịp tích lũy tại vùng hỗ trợ tự doanh.
-- **Mã: SSI**
-    - Động lực (FA): Tin tích cực từ việc rót vốn 920 tỷ đối trọng với áp lực vĩ mô (lãi suất cao).
-    - Nhận định dòng tiền: Đang giằng co giữa kỳ vọng tăng vốn và áp lực giảm margin do lãi suất Fed.
-    - Hành động: Rủi ro vi phạm kịch bản nếu thủng vùng hỗ trợ tâm lý gần nhất.
-- **Mã: HAG**
-    - Động lực (FA): Áp lực biên lợi nhuận sầu riêng do vấn đề chất lượng/thương hiệu.
-    - Nhận định dòng tiền: Tiêu cực, cần theo dõi thêm các báo cáo về giá xuất khẩu.
-    - Hành động: Quan sát, chưa nên giải ngân mới.
-- **Mã: POW**
-    - Động lực (FA): Tin hợp tác điện hạt nhân (dài hạn) đối trọng với chi phí đầu vào tăng (giá dầu).
-    - Nhận định dòng tiền: Tác động pha loãng, chưa có xung lực ngắn hạn.
-    - Hành động: Tiếp tục quan sát.
+- **Mã: BSR**
+    - Động lực (FA): Ký kết hợp đồng cung ứng dầu thô dài hạn với ExxonMobil Asia Pacific.
+    - Nhận định dòng tiền: Tin tức bổ trợ trực tiếp cho sự ổn định sản xuất, kết hợp với giá dầu thế giới neo cao sẽ củng cố vị thế của BSR như một tài sản phòng thủ tăng trưởng tốt.
+    - Hành động: Tiếp tục giữ vị thế.
+- **Mã: MSN**
+    - Động lực (FA): Hoàn tất thoái gần 5% vốn MSR cho đối tác chiến lược Mỹ.
+    - Nhận định dòng tiền: Giảm áp lực nợ vay, tạo tín hiệu tích cực về dòng tiền nội tại, có thể thu hút dòng tiền trung hạn quay lại.
+    - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo thị trường chung.
+- **Mã: HAH**
+    - Động lực (FA): VietinBank Capital nâng sở hữu vượt 17%.
+    - Nhận định dòng tiền: Lực cầu từ tổ chức lớn tạo nền giá cứng, giảm thiểu rủi ro điều chỉnh theo thị trường chung.
+    - Hành động: Chú ý giải ngân vùng giá tích lũy.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR (Cập nhật Tháng 6/2026):** Dữ liệu mới về việc ký kết hợp đồng dầu thô chiến lược xác nhận BSR vẫn là doanh nghiệp mang tính cốt lõi trong danh mục năng lượng. Tin tức này bổ trợ cho luận điểm nắm giữ thay vì chốt lời theo kế hoạch ban đầu, do khả năng tối ưu hóa biên lợi nhuận trong môi trường giá dầu biến động mạnh. **Khuyến nghị: Tiếp tục giữ.**
