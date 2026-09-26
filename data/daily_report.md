@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:48
+⏱ Thời gian: 22:18 (26/09/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Nâng hạng thị trường & Áp lực bán ròng:** Dữ liệu cho thấy sự phân hóa cực đoan; trong khi sự kiện nâng hạng mở ra kỳ vọng huy động vốn dài hạn cho BĐS và CTCK, thì thực tế dòng tiền khối ngoại đang "bán ròng mạnh" (4.000 tỷ đồng) vào các Bluechips (VCB, HPG, VHM, MSN) gây sức ép tâm lý ngắn hạn. -> **Tác động: Tiêu cực trong ngắn hạn (đối với vốn hóa lớn), Tích cực trong trung hạn (nhóm tài chính/BĐS).** -> Dòng tiền sẽ bị rút khỏi Bluechips để luân chuyển sang các nhóm midcap có câu chuyện riêng hoặc xuất khẩu.
+- **Dầu khí:** Tuyến vận tải Biển Đỏ dần thông suốt kết hợp rào cản xuất khẩu Diesel của Mỹ tạo "kép" hỗ trợ biên lợi nhuận lọc dầu -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào: Nhóm Lọc hóa dầu (BSR).
+- **Vận tải & Logistics:** Giá xăng dầu trong nước tăng ngược xu hướng thế giới -> Đánh giá: **Tiêu cực** -> Dòng tiền chịu áp lực tại: Nhóm Vận tải biển/Logistics (GMD, HAH).
+- **Thoái vốn Nhà nước:** Chính phủ định hướng SCIC sang mô hình Quỹ Đầu tư quốc gia -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào: Nhóm VN30 có tỷ lệ sở hữu nhà nước cao (VNM).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** **VHC, ANV**
-  - Động lực (FA): Thị trường Brazil và Nhật Bản tăng mạnh nhu cầu nhập khẩu thủy sản Việt Nam.
-  - Nhận định dòng tiền: Hưởng lợi từ tăng trưởng xuất khẩu thực tế, dòng tiền có khả năng tìm đến nhóm này như một "trú ẩn" an toàn khi nhóm Bluechips bị khối ngoại xả mạnh.
-  - Hành động: **Chú ý giải ngân** nếu giá test lại vùng hỗ trợ kỹ thuật.
-- **Mã:** **VCG**
-  - Động lực (FA): Ấn định tiến độ cứng (tháng 5/2027) cho sân bay Quảng Trị, đảm bảo khối lượng công việc cho nhóm hạ tầng.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ nhóm đầu tư công sẽ phản ứng tích cực với thông tin có mốc thời gian cụ thể.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự gần nhất.
-- **Mã:** **TNG, MSH**
-  - Động lực (FA): Mỹ siết chặt chuỗi cung ứng bông Trung Quốc, tạo lợi thế cho doanh nghiệp dệt may tuân thủ tốt.
-  - Nhận định dòng tiền: Dòng tiền sẽ tập trung vào nhóm hưởng lợi từ chuyển dịch đơn hàng quốc tế.
-  - Hành động: **Chú ý giải ngân** theo kịch bản break-out.
-- **Mã:** **PNJ**
-  - Động lực (FA): Người nhà lãnh đạo liên tục thoái vốn.
-  - Nhận định dòng tiền: Rủi ro cung ngắn hạn gia tăng, niềm tin nhà đầu tư bị lung lay.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng.
+- Mã: **BSR**
+- Động lực (FA): Hưởng lợi kép từ việc giảm chi phí logistics (tuyến Biển Đỏ) và kỳ vọng giá dầu thành phẩm tăng do hạn chế xuất khẩu Diesel tại Mỹ.
+- Nhận định dòng tiền: Tin tức củng cố vị thế biên lợi nhuận, dòng tiền có khả năng gia tăng sự chú ý tại vùng hỗ trợ cứng.
+- Hành động: **Chú ý giải ngân** nếu xác nhận phá vỡ kháng cự ngắn hạn với thanh khoản đột biến.
+
+- Mã: **GMD / HAH**
+- Động lực (FA): Giá xăng dầu trong nước tăng cao trực tiếp ăn mòn biên lợi nhuận vận hành.
+- Nhận định dòng tiền: Đối diện áp lực chốt lời ngắn hạn từ phe cầm cổ phiếu khi cấu trúc giá vốn bị đe dọa.
+- Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng nếu mất ngưỡng hỗ trợ kỹ thuật gần nhất.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR (Tái cơ cấu):** Dữ liệu vĩ mô hiện tại (đặc biệt là rào cản xuất khẩu Diesel tại Mỹ) tạo động lực mới cho BSR trong quý cuối năm. Thay vì bán theo kế hoạch cũ, cần **nâng mức chặn lãi (trailing stop)** để tối ưu hóa vị thế, giữ lại chờ sóng tăng giá thành phẩm.
