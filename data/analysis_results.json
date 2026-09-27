@@ -1,5 +1,207 @@
 ﻿[
   {
+    "Title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar - Bloomberg.com",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXVzamIwSmlSREV5QTJmRU9Ga1pFRWw0OXNWUkNwT0hJUkZOR3M0UlVTLW5xMm10RVNhUlhqclZXRGJIRTY3TFM5N3ZFX3RFSnI3dlZ6YmVaMzFxR0VmYUQzb2JnRmg1a290T3huS2xlUXV3d3d2T3RtM1ZXTUx0M0xvT1RJbkE4LUc0a0U4LXlDSW4wNmJhNDFsZzJ4WWF0dVlYdXlzeTlaRWVndl9UdV9lcmM?oc=5",
+    "PubDate": "Sun, 27 Sep 2026 12:30:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -4,
+    "MarketImpact": "Lợi suất trái phiếu Mỹ tăng gây áp lực lên tỷ giá USD/VND, buộc NHNN thắt chặt thanh khoản, làm tăng chi phí vốn và gây áp lực rút vốn khối ngoại khỏi thị trường chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lợi suất Mỹ tăng gây áp lực tỷ giá và chi phí vốn. Dòng tiền ngoại rút ròng gây sức ép lên nhóm vốn hóa lớn và các mã có đòn bẩy tài chính cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực tỷ giá và lãi suất tăng làm giảm thanh khoản thị trường, ảnh hưởng trực tiếp đến doanh thu môi giới và margin."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Chi phí vay vốn tăng và áp lực bán ròng từ khối ngoại gây sức ép lên định giá cổ phiếu BĐS vốn hóa lớn."
+      }
+    ],
+    "AnalyzedAt": "2026-09-28 01:01:06"
+  },
+  {
+    "Title": "Chứng khoán Việt Nam đã phản ứng với tin nâng hạng hay chưa và câu trả lời của quỹ ngoại tỷ USD? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2swcXZPUnk4YzZURHV3RlV4T1JJbjd0RHB1aDlCeGtWWU5QVl90YU1yMEkteWNzVG1aZVRibVdock1iVlA1VzlVQ0NLM2ZnZDFNdS1nMXZ6cThSallDWFZWWjdWVm81OFdyamx0Z2tnOV9kMmxCY3Vvem1neWFQUWNsb1VldktubkQ1cGZ2ZTV1ZWwybHVNd1hzcnNJdFd0aTFVSWx1RFFmRExJcVFVUWc5eTg0a1RCWUFERlpoZDRLZW1yam8xb3UwVjRaSkhk?oc=5",
+    "PubDate": "Sun, 27 Sep 2026 17:05:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 5,
+    "MarketImpact": "Kỳ vọng nâng hạng thị trường thu hút dòng vốn ngoại lớn, đặc biệt vào các cổ phiếu vốn hóa lớn và nhóm tài chính, tạo động lực tăng trưởng dài hạn cho thanh khoản thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin nâng hạng là kỳ vọng dài hạn, chưa có dòng tiền thực tế. Cần quan sát phản ứng khối ngoại tại vùng cản kỹ thuật của nhóm vốn hóa lớn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ sự gia tăng thanh khoản và dòng vốn ngoại."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu vốn hóa lớn nhất, ưu tiên hàng đầu của các quỹ ngoại khi thị trường được nâng hạng."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Cổ phiếu trụ cột trong rổ chỉ số, thu hút dòng vốn thụ động từ các quỹ ETF quốc tế."
+      }
+    ],
+    "AnalyzedAt": "2026-09-28 01:00:47"
+  },
+  {
+    "Title": "Chứng khoán mất điểm ngay tuần đầu nâng hạng, nhà đầu tư nên hành động ra sao? - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGc3NjQ5UFBVdlRvbnVDbWt1TUVwUnJndFEtOVhlUzlkWlU2Qkh1T0NzWnNkTDJWdWF4ZC1lOHFUUThKaC1HLWR5Y3ZsOUdlejVtNGo5QVJUVC16VjdvR0dvWXEtSnQ0WDdYWTJzeldVMWJnZUNFMGphREtyQWF6dVA1eG00dG0zaXF2bkZtM2dZUG5zT210Z3BRSTdXWDlqUjJ0UnlFc3dPNEo0NmNWYWdXTklMVVk?oc=5",
+    "PubDate": "Sun, 27 Sep 2026 17:01:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Tin tức mang tính chất bình luận thị trường sau sự kiện nâng hạng, không phản ánh thay đổi về nền tảng vĩ mô hay hoạt động kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Đây là bài viết nhận định tâm lý sau sự kiện, không tác động trực tiếp đến dòng tiền hay biên lợi nhuận của các mã chứng khoán.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 01:00:36"
+  },
+  {
+    "Title": "Chứng khoán tuần qua: Hụt hơi ngắn hạn, ngóng 'trợ lực' quý III - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzlCYzNDWWJ2R0NKeFlad200S3FmYUMzSmgtdl9RLW50ZlAwUkNsQWZKRHFJeU41V3I5d3pnWGtveVlXeTVKTDZ3SVd4TDM4LWVsS2hxNzZjeS10LXE0bndBNVBFSVVvNXFsUjA2WkRzS1B2MHZJODhBSUV6Q0lGWkd3bVpKRDZRX1l2NWlONGpFeklDTUQyZUM1WjY4N3VY?oc=5",
+    "PubDate": "Sun, 27 Sep 2026 17:04:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết tổng hợp diễn biến thị trường tuần qua, không chứa thông tin vĩ mô hay doanh nghiệp mới có khả năng làm thay đổi xu hướng dòng tiền hiện tại.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Tin tức tổng hợp không mang tính dẫn dắt. Dòng tiền thông minh sẽ tiếp tục quan sát các báo cáo tài chính quý III thay vì phản ứng với thông tin này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 01:00:26"
+  },
+  {
+    "Title": "Cuộc đua smartphone cuối năm: Camera tự xoay, pin 'khủng' 10.000mAh",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/cuoc-dua-smartphone-cuoi-nam-camera-tu-xoay-pin-khung-10000mah-100260927145943184.htm",
+    "PubDate": "9/27/2026 4:04:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Sự sôi động của thị trường smartphone cuối năm thúc đẩy nhu cầu bán lẻ thiết bị di động, hỗ trợ doanh thu cho các nhà bán lẻ công nghệ lớn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất quảng bá sản phẩm tiêu dùng, không tác động trọng yếu đến biên lợi nhuận hay dòng tiền của các nhà bán lẻ công nghệ trong ngắn hạn.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 01:00:11"
+  },
+  {
+    "Title": "Vì sao khu 'đất vàng' dọc sông Hương chưa thể đấu giá?",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/vi-sao-khu-dat-vang-doc-song-huong-chua-the-dau-gia-100260927153420969.htm",
+    "PubDate": "9/27/2026 4:05:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin về vướng mắc pháp lý trong công tác đấu giá đất tại địa phương, không tác động trực tiếp đến hoạt động kinh doanh hay biên lợi nhuận của các doanh nghiệp bất động sản niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm BĐS. Vướng mắc pháp lý đấu giá đất tại địa phương mang tính hành chính, không tạo sóng dòng tiền cho các mã BĐS niêm yết. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 01:00:01"
+  },
+  {
+    "Title": "Lãi suất tăng mãi, nhiều người vay phải rao bán nhà, đất vì ‘ngộp bank’",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/lai-suat-tang-mai-nhieu-nguoi-vay-phai-rao-ban-nha-dat-vi-ngop-bank-100260927202845031.htm",
+    "PubDate": "9/27/2026 9:04:00 PM",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -6,
+    "MarketImpact": "Lãi suất tăng gây áp lực trả nợ lớn lên người vay, dẫn đến làn sóng bán tháo bất động sản, làm giảm thanh khoản và giá trị tài sản đảm bảo của các doanh nghiệp BĐS, đồng thời gia tăng rủi ro nợ xấu cho hệ thống ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực. Lãi suất neo cao gây áp lực nợ xấu ngân hàng và thanh khoản BĐS. Dòng tiền sẽ rút khỏi các mã có đòn bẩy tài chính cao, ưu tiên quản trị rủi ro danh mục.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "NVL",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực nợ vay lớn và thanh khoản thị trường suy giảm trực tiếp đe dọa dòng tiền hoạt động của doanh nghiệp."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thị trường BĐS trầm lắng do lãi suất cao làm chậm tiến độ bán hàng và thu hồi vốn."
+      },
+      {
+        "Ticker": "VPB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Tỷ trọng cho vay tiêu dùng và BĐS cao khiến ngân hàng đối mặt rủi ro nợ xấu gia tăng khi lãi suất tăng."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Danh mục cho vay BĐS lớn chịu áp lực trích lập dự phòng rủi ro khi khả năng trả nợ của khách hàng suy giảm."
+      },
+      {
+        "Ticker": "DXG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thanh khoản thị trường BĐS giảm làm giảm doanh thu môi giới và tiến độ dự án của doanh nghiệp."
+      }
+    ],
+    "AnalyzedAt": "2026-09-28 00:59:38"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 25/9/2026: Nhận lãi ngay đầu kỳ, có thể mở thêm sổ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-25-9-2026-nhan-lai-ngay-dau-ky-co-the-mo-them-so-2558677.html",
+    "PubDate": "Fri, 25 Sep 2026 09:48:19 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về các sản phẩm tiền gửi cá nhân, không phản ánh sự thay đổi trong chính sách lãi suất điều hành hay lãi suất huy động bình quân của hệ thống ngân hàng.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Đây là nghiệp vụ sản phẩm huy động thông thường, không tác động đến biên lãi thuần (NIM) hay dòng tiền ngành. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 00:59:26"
+  },
+  {
+    "Title": "Giá vàng hôm nay 25/9/2026: Thế giới giảm sâu, SJC dưới 145 triệu/lượng",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/gia-vang-hom-nay-25-9-2026-the-gioi-giam-sau-sjc-duoi-145-trieu-luong-2558633.html",
+    "PubDate": "Fri, 25 Sep 2026 10:30:18 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Biến động giá vàng trong nước chủ yếu ảnh hưởng đến các đơn vị kinh doanh vàng bạc, không tác động trực tiếp đến các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vàng bạc. Biến động giá vàng không tác động đến biên lợi nhuận các doanh nghiệp niêm yết. Dòng tiền không phản ứng với tin tức này.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 00:59:17"
+  },
+  {
+    "Title": "Coteccons lên kế hoạch lãi cao nhất 9 năm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/coteccons-len-ke-hoach-lai-cao-nhat-9-nam-5125394.html",
+    "PubDate": "Mon, 28 Sep 2026 00:00:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Kế hoạch lợi nhuận đột phá cho thấy sự phục hồi mạnh mẽ của mảng xây dựng dân dụng, cải thiện biên lợi nhuận và củng cố niềm tin nhà đầu tư vào năng lực đấu thầu của CTD.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Xây dựng. Kế hoạch lợi nhuận cao nhất 9 năm xác nhận chu kỳ hồi phục. Dòng tiền thông minh sẽ gia tăng vị thế tại CTD để đón đầu kết quả kinh doanh thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "CTD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Kế hoạch lợi nhuận tăng trưởng mạnh củng cố đà tăng giá cổ phiếu và thu hút dòng tiền đầu tư dài hạn."
+      }
+    ],
+    "AnalyzedAt": "2026-09-28 00:58:58"
+  },
+  {
+    "Title": "Đề xuất chuyển tiền Quỹ bình ổn xăng dầu tại doanh nghiệp về Kho bạc",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/de-xuat-chuyen-tien-quy-binh-on-xang-dau-tai-doanh-nghiep-ve-kho-bac-5125436.html",
+    "PubDate": "Mon, 28 Sep 2026 00:26:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Việc chuyển tiền từ tài khoản doanh nghiệp về Kho bạc Nhà nước là thay đổi cơ chế quản lý tài chính, không làm thay đổi bản chất dòng tiền kinh doanh hay biên lợi nhuận của các doanh nghiệp xăng dầu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Thay đổi cơ chế quản lý quỹ bình ổn là thủ tục hành chính, không tác động đến dòng tiền kinh doanh hay biên lợi nhuận doanh nghiệp xăng dầu. Không có tác động thị trường.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-09-28 00:58:42"
+  },
+  {
     "Title": "Biggest Long-Bond ETF Hits Record Low as Traders Dump Treasuries - Bloomberg",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHpzMG9XU0ZpLXVBeENIV3RsVFh6NW5WcWtqc3NYR1BTTllPbjdZMC1pN25jVm1LY25DemF0R3FveFpPOWxtQzUxV05TcnhIOFJybkM3bk1FWTRDQ3FOa25QcHNwUGlYeURWRDJsbkJYT3dFaGpDZXl4Nmt4cXRjYWdXTXNNLVZhMzFkU0Yta1djVHVwVDJwa2Q1TVp4bzMzNnFDdFVsSFRnRlpQTUdBSFdaRnl1UQ?oc=5",
@@ -18611,177 +18813,5 @@
       }
     ],
     "AnalyzedAt": "2026-09-13 01:32:48"
-  },
-  {
-    "Title": "Doanh thu sách giáo khoa trên chợ mạng tăng 112%, phụ huynh đang săn lùng kiểu gì?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/doanh-thu-sach-giao-khoa-tren-cho-mang-tang-112-phu-huynh-dang-san-lung-kieu-gi-100260912200134101.htm",
-    "PubDate": "9/12/2026 9:23:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Sự chuyển dịch kênh phân phối sang thương mại điện tử giúp các doanh nghiệp xuất bản và phát hành sách tối ưu hóa chi phí vận hành và mở rộng thị phần bán lẻ.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tăng trưởng TMĐT là xu hướng chung, không tạo đột biến biên lợi nhuận cho các đơn vị xuất bản truyền thống. Thiếu dữ liệu về thị phần và biên lợi nhuận thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-13 01:32:29"
-  },
-  {
-    "Title": "Nam A Bank đề xuất giải pháp tài chính xanh cho cảng biển, logistics",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/nam-a-bank-de-xuat-giai-phap-tai-chinh-xanh-cho-cang-bien-logistics-2554556.html",
-    "PubDate": "Sat, 12 Sep 2026 14:45:00 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc tiếp cận nguồn vốn tín dụng xanh giúp các doanh nghiệp cảng biển và logistics giảm chi phí vốn, hỗ trợ đầu tư hạ tầng hiện đại và chuyển đổi năng lượng bền vững.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR định hướng tín dụng xanh, chưa có cam kết giải ngân cụ thể. Tác động biên lợi nhuận chưa rõ ràng trong ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-13 01:32:14"
-  },
-  {
-    "Title": "Cuộc đua chiếm thị phần chiếc bánh 269 tỷ USD: Các ‘ông lớn’ bán lẻ tăng tốc",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/cuoc-dua-chiem-thi-phan-chiec-banh-269-ty-usd-cac-ong-lon-ban-le-tang-toc-2554403.html",
-    "PubDate": "Sat, 12 Sep 2026 21:05:05 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Sự cạnh tranh gay gắt trong ngành bán lẻ thúc đẩy các doanh nghiệp mở rộng quy mô, tối ưu hóa chuỗi cung ứng và gia tăng thị phần, tạo động lực tăng trưởng doanh thu dài hạn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tổng quan ngành, thiếu dữ liệu định lượng cụ thể. Cạnh tranh gay gắt có thể làm giảm biên lợi nhuận ngắn hạn. Cần theo dõi sát biên lợi nhuận gộp của MWG, MSN.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MWG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Dẫn đầu thị phần bán lẻ điện tử và bách hóa, hưởng lợi trực tiếp từ chiến lược mở rộng quy mô."
-      },
-      {
-        "Ticker": "MSN",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hệ sinh thái bán lẻ WinCommerce có lợi thế về độ phủ, hưởng lợi từ xu hướng tiêu dùng hiện đại."
-      }
-    ],
-    "AnalyzedAt": "2026-09-13 01:31:55"
-  },
-  {
-    "Title": "HOSE: Số liệu quản lý sở hữu của nhà đầu tư nước ngoài 11/09/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUxfSkJVTTIyQ2Rtb3dXclh6MlJNOV9LSlNqb1oxQUtUck5aejBnTjFodkd4MmJmV1FyOWhyYmN5TXBXWnF4X3A4UzNjdk5IalN5MlBUYTZfODNEOUdhVktjeWRjU2hualZHQkNJVVI5Zkkwb2RweVREUlJVSlBZUFRqdExPX0ZmQ1pCa1RaWHJiNWQ2Z280MF83cW5KZ192SE5HN0VRejEyempyWDZjU1ZzdTlnSDhCOHc1Z3lYLUw?oc=5",
-    "PubDate": "Fri, 11 Sep 2026 01:16:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là dữ liệu thống kê định kỳ về tỷ lệ sở hữu của khối ngoại, không chứa thông tin đột biến hay thay đổi chính sách ảnh hưởng trực tiếp đến giá cổ phiếu.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Dữ liệu thống kê định kỳ không mang tính dẫn dắt dòng tiền. Nhà đầu tư nên tập trung vào biến động giá thực tế thay vì số liệu báo cáo.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 23:18:51"
-  },
-  {
-    "Title": "Một doanh nghiệp sắp trả cổ tức 5.000 đồng/cp, đều đặn \"mưa tiền mặt\" suốt 17 năm - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWcyN2p1Y2JpS25SX19sRENxTmdINmluWUZCVUlMb2g1VU9UR0g5RE1zeHBsdzkzZktFakRtdlNoZ3RaTEVmOUthWk5FeDA5d1pXSmpkcTlCOUc2Z3dyUGFveERhdzlia2hyM2JJUTBDbk5tYUpIbFNnaXJIRFNDN1VhV0pNVUZwMWhoQzFYYVc0MHJIRTNzMjRxb2JfRFg2clp1Sk5XcTNKcC1pY05CSHdTYmpHWGg4?oc=5",
-    "PubDate": "Sat, 12 Sep 2026 05:09:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Thông tin về việc trả cổ tức của một doanh nghiệp cụ thể đã được phản ánh vào giá hoặc là hoạt động định kỳ, không tạo ra tác động lan tỏa đến toàn ngành hay thị trường chung.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Doanh nghiệp riêng lẻ. Việc trả cổ tức tiền mặt là hoạt động tài chính bình thường, không thay đổi cấu trúc dòng tiền ngành. Không có tác động đến xu hướng thị trường chung.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 23:18:40"
-  },
-  {
-    "Title": "Mưa lớn khắp nơi, Đà Nẵng yêu cầu thủy điện không để xảy ra 'lũ nhân tạo' cho hạ du",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/mua-lon-khap-noi-da-nang-yeu-cau-thuy-dien-khong-de-xay-ra-lu-nhan-tao-cho-ha-du-100260912204424831.htm",
-    "PubDate": "9/12/2026 9:37:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là chỉ đạo hành chính về quy trình vận hành an toàn, không làm thay đổi sản lượng điện hay biên lợi nhuận của các doanh nghiệp thủy điện niêm yết.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Thủy điện. Chỉ đạo vận hành an toàn là quy trình định kỳ, không tác động đến doanh thu. Dòng tiền không phản ứng với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 23:18:14"
-  },
-  {
-    "Title": "Petrovietnam lần đầu xuất khẩu sản phẩm điện gió ngoài khơi sang châu Âu",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/petrovietnam-lan-dau-xuat-khau-san-pham-dien-gio-ngoai-khoi-sang-chau-au-100260912205426209.htm",
-    "PubDate": "9/12/2026 9:54:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Việc xuất khẩu thành công thiết bị điện gió ngoài khơi khẳng định năng lực chế tạo của các đơn vị thuộc Petrovietnam, mở ra dư địa tăng trưởng doanh thu từ thị trường năng lượng tái tạo quốc tế.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Dịch vụ kỹ thuật dầu khí. Xuất khẩu thiết bị điện gió khẳng định năng lực chế tạo của PVS. PVD không hưởng lợi trực tiếp từ mảng này, cần loại bỏ khỏi danh mục theo dõi.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đơn vị chủ lực trong mảng dịch vụ kỹ thuật và chế tạo cơ khí dầu khí, hưởng lợi trực tiếp từ các dự án điện gió ngoài khơi."
-      }
-    ],
-    "AnalyzedAt": "2026-09-12 23:18:00"
-  },
-  {
-    "Title": "NCB sẽ tài trợ vốn cho dự án Đầu tư xây dựng tuyến đường kết nối Sân bay Gia Bình với Thủ đô Hà Nội",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//ncb-se-tai-tro-von-cho-du-an-dau-tu-xay-dung-tuyen-duong-ket-noi-san-bay-gia-binh-voi-thu-do-ha-noi.html",
-    "PubDate": "Sat, 12 Sep 2026 15:49:12 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc giải ngân vốn cho các dự án hạ tầng trọng điểm giúp thúc đẩy tăng trưởng tín dụng cho ngân hàng và tạo động lực phát triển cho các doanh nghiệp xây lắp hạ tầng tại khu vực phía Bắc.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin ký kết thỏa thuận hợp tác chưa có giá trị giải ngân thực tế. Chỉ NVB hưởng lợi trực tiếp về mặt thương hiệu/tín dụng, các mã xây lắp còn lại là suy diễn thiếu căn cứ.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "NVB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng TMCP Quốc Dân (NCB) hưởng lợi từ việc gia tăng dư nợ tín dụng thông qua tài trợ dự án hạ tầng quy mô lớn."
-      }
-    ],
-    "AnalyzedAt": "2026-09-12 23:16:13"
-  },
-  {
-    "Title": "REE: Thông báo nhận được Văn bản của VSDC về việc điều chỉnh thông tin số lượng chứng khoán đăng ký - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX3k1WGw4NnRRQ3VQazJuRVU4cDBpTC1NaU9YYmphVFY1S0FiYzdSaFR6YU16UGFqMkRvQlg4aWY5eGpKSVVHempVNlBkNmZfd20yN1hFWlBfRm1KX05QRmZGQUJ5UG5Ha2Zmb1U5eHN6alFJVThQN1R3eDc1TDRudTB1THJLeWFQX3k2Yzh0aU9JVUlIRE9MZXRmTVROd1A3YWV6RktVSzZmV0k3T0Z5WktoNzFuemp1SGhjZGU3TjVlOE1Jb1RnSVU1N3Zjcl9XdlRhNzl3?oc=5",
-    "PubDate": "Fri, 11 Sep 2026 08:43:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về thủ tục đăng ký chứng khoán tại VSDC, không làm thay đổi giá trị nội tại hay hoạt động kinh doanh của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là thủ tục hành chính thông thường, không tác động đến cung cầu hay dòng tiền ngắn hạn của cổ phiếu.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 20:09:38"
-  },
-  {
-    "Title": "Thành viên HĐQT SSI mua thành công 5 triệu cổ phiếu - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnlYME5raklFOFVvOVRwYzBPUk5XNWhVWjcxdldUQ2FPWk5YQVgwc29YLURtNFJLRVdfWU9jVnpmdTlMQ3dVREl3My1UT1c3WjJYWWlFTmxtWVprMm91RGZKc3JTWEVCVFRLYkFNQlpLY3ZkV1F2eUhwbXpsUTl2bXRtakg0eGtxd1VwUm5XNFZBVm9zeXc?oc=5",
-    "PubDate": "Sat, 12 Sep 2026 10:47:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 4,
-    "MarketImpact": "Việc nội bộ mua vào số lượng lớn cổ phiếu thể hiện sự tự tin vào triển vọng tăng trưởng của doanh nghiệp, tạo tâm lý tích cực cho nhà đầu tư cá nhân.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - SSI. Hành động mua gom từ nội bộ củng cố niềm tin vào định giá. Dòng tiền thông minh thường phản ứng tích cực với tín hiệu này, hỗ trợ xu hướng giá ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nội bộ mua vào 5 triệu cổ phiếu tạo tín hiệu tích cực về giá trị doanh nghiệp, hỗ trợ tâm lý nhà đầu tư."
-      }
-    ],
-    "AnalyzedAt": "2026-09-12 20:09:21"
-  },
-  {
-    "Title": "Sếp lớn ngân hàng vừa trở thành Chủ tịch công ty chứng khoán - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYU94MDV3aEZOdjR2U2dsd1Z4bTk4MV9jVnc4aHlUX3lJNDV6Q1hnYmVPQTcwRGtCeUVoeXh3ekdsSjZGR1R1dnFyYUd5VXExY3hlWmtkUXZ4TElrUkpJQVlDYkxBSDRfUXhjVGhobnNEZ0lGXy1qOUVYVmNGNHZOWVhtMkpwS1RlVTVzUjZwYmpBeHcyellrVktRVjNwZ2Z6?oc=5",
-    "PubDate": "Sat, 12 Sep 2026 12:31:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Việc thay đổi nhân sự cấp cao tại một công ty chứng khoán là hoạt động quản trị nội bộ, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của ngành chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Chứng khoán. Thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ, không tạo ra thay đổi về dòng tiền hay biên lợi nhuận. Bỏ qua tác động ngắn hạn.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-12 20:09:09"
   }
 ]

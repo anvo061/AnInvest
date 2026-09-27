@@ -1,21 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 20:57:24 - 27/09/2026
+⏱ Thời gian: 01:15 - 28/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lợi suất trái phiếu Mỹ tăng mạnh gây áp lực tỷ giá:** Lợi suất trái phiếu Mỹ thiết lập kỷ lục mới, gây sức ép lên tỷ giá USD/VND và định hướng thắt chặt thanh khoản của NHNN -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ rút khỏi nhóm nhạy cảm lãi suất cao: Bất động sản, Chứng khoán].
-- **Cải cách cơ chế Quỹ bình ổn xăng dầu:** Việc tách Quỹ bình ổn ra khỏi doanh nghiệp đầu mối giúp tối ưu hóa dòng tiền hoạt động -> [Đánh giá: Tích cực] -> [Dòng tiền tập trung vào nhóm: Dầu khí (PLX, OIL)].
-- **Kỳ vọng KQKD Quý 3 ngành Điện:** Dự báo tăng trưởng lợi nhuận đột biến (đến 88%) cho thấy sự phục hồi thực chất từ nội tại ngành -> [Đánh giá: Tích cực] -> [Dòng tiền tập trung vào nhóm: Điện (POW, REE)].
+- Lợi suất trái phiếu Mỹ tiếp tục leo thang, gây áp lực lên tỷ giá USD/VND và rủi ro rút vốn khối ngoại, kết hợp với làn sóng "ngộp bank" trong lĩnh vực BĐS -> Đánh giá: **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm nhạy cảm với lãi suất (BĐS, Chứng khoán) để tìm đến các kênh trú ẩn hoặc nắm giữ tiền mặt.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VHM, SSI
-  - **Động lực (FA):** Áp lực từ lợi suất trái phiếu Mỹ tăng làm tăng chi phí vốn và giảm sức hấp dẫn của margin/thanh khoản.
-  - **Nhận định dòng tiền:** Dòng tiền sẽ bị rút ròng hoặc chịu áp lực bán giải chấp ngắn hạn do yếu tố vĩ mô bất lợi.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cần kiểm soát tỷ trọng margin chặt chẽ.
-- **Mã:** POW, REE
-  - **Động lực (FA):** Kỳ vọng KQKD quý 3 tăng trưởng mạnh.
-  - **Nhận định dòng tiền:** Hưởng lợi từ dòng tiền tìm kiếm trú ẩn ở các doanh nghiệp tăng trưởng thực chất thay vì đầu cơ.
-  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc do áp lực chung của thị trường.
-- **Mã:** PLX, OIL
-  - **Động lực (FA):** Tin tức tách Quỹ bình ổn giúp cải thiện cấu trúc tài chính và biên lợi nhuận.
-  - **Nhận định dòng tiền:** Dòng tiền tích cực gia tăng nhờ giảm bớt rủi ro pháp lý và áp lực quản lý dòng tiền.
-  - **Hành động:** Tiếp tục quan sát điểm breakout.
+- Mã: **SSI**
+- Động lực (FA): Áp lực vĩ mô từ lợi suất trái phiếu Mỹ tăng cao làm giảm thanh khoản thị trường và thu hẹp dư địa margin.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn có dấu hiệu suy yếu do lo ngại chi phí vốn tăng; kỳ vọng nâng hạng thị trường chưa đủ mạnh để bù đắp áp lực bán ròng từ khối ngoại.
+- Hành động: **Rủi ro vi phạm kịch bản**; cần quan sát chặt chẽ ngưỡng hỗ trợ kỹ thuật, ưu tiên quản trị rủi ro, chưa giải ngân mới.
+
+- Mã: **VHM**
+- Động lực (FA): Chi phí vay vốn tăng và thị trường BĐS trầm lắng do người vay chịu áp lực "ngộp bank", buộc phải bán tháo tài sản.
+- Nhận định dòng tiền: Dòng tiền lớn đang đứng ngoài do định giá cổ phiếu chịu áp lực bởi chi phí nợ vay và rủi ro thanh khoản từ các dự án BĐS.
+- Hành động: **Tiếp tục quan sát**; hạn chế bắt đáy trong bối cảnh vĩ mô lãi suất đang gây áp lực lên nhóm BĐS vốn hóa lớn.
+
+- Mã: **CTD**
+- Động lực (FA): Doanh nghiệp công bố kế hoạch lợi nhuận cao nhất trong 9 năm, cho thấy sự phục hồi đột phá của mảng xây dựng dân dụng.
+- Nhận định dòng tiền: Điểm sáng hiếm hoi trong thị trường; dự kiến thu hút dòng tiền đầu tư dài hạn nhờ câu chuyện tăng trưởng nội tại tách biệt với biến động vĩ mô chung.
+- Hành động: **Chú ý giải ngân**; theo dõi sát diễn biến khối lượng giao dịch để xác nhận xu hướng tăng theo thông tin cơ bản.
+
+- Mã: **NVL, DXG, VPB, TCB**
+- Động lực (FA): Áp lực nợ vay, rủi ro nợ xấu gia tăng và thanh khoản thị trường BĐS sụt giảm do lãi suất cao.
+- Nhận định dòng tiền: Dòng tiền có xu hướng rút mạnh hoặc thận trọng tối đa tại các mã có đòn bẩy cao và danh mục cho vay BĐS lớn.
+- Hành động: **Rủi ro vi phạm kịch bản**; hạn chế gia tăng tỷ trọng, ưu tiên cơ cấu lại danh mục để giảm rủi ro nợ vay.
