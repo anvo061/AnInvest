@@ -1,29 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:30
+⏱ Thời gian: 20:57:24 - 27/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kinh tế Mỹ tăng trưởng mạnh nhất từ 2021 thúc đẩy nhu cầu nhập khẩu hàng hóa -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xuất khẩu (Dệt may, Thủy sản, Nông nghiệp)**.
-- Giá xăng dầu tăng cùng áp lực thịt nhập khẩu giá rẻ -> **Tiêu cực** -> Gây áp lực biên lợi nhuận nhóm **Logistics (GMD)** và **Chăn nuôi (DBC)**.
-- Chính sách hỗ trợ 50% lãi vay đầu tư bãi đỗ xe tại TP.HCM -> **Tích cực** -> Dòng tiền tiềm năng vào nhóm **Hạ tầng/Xây dựng (CII)**.
+- **Lợi suất trái phiếu Mỹ tăng mạnh gây áp lực tỷ giá:** Lợi suất trái phiếu Mỹ thiết lập kỷ lục mới, gây sức ép lên tỷ giá USD/VND và định hướng thắt chặt thanh khoản của NHNN -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ rút khỏi nhóm nhạy cảm lãi suất cao: Bất động sản, Chứng khoán].
+- **Cải cách cơ chế Quỹ bình ổn xăng dầu:** Việc tách Quỹ bình ổn ra khỏi doanh nghiệp đầu mối giúp tối ưu hóa dòng tiền hoạt động -> [Đánh giá: Tích cực] -> [Dòng tiền tập trung vào nhóm: Dầu khí (PLX, OIL)].
+- **Kỳ vọng KQKD Quý 3 ngành Điện:** Dự báo tăng trưởng lợi nhuận đột biến (đến 88%) cho thấy sự phục hồi thực chất từ nội tại ngành -> [Đánh giá: Tích cực] -> [Dòng tiền tập trung vào nhóm: Điện (POW, REE)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TNG, VHC**
-    - Động lực (FA): Hưởng lợi trực tiếp từ sức cầu tiêu dùng tăng trưởng mạnh tại thị trường Mỹ.
-    - Nhận định dòng tiền: Tích cực; kỳ vọng dòng tiền đẩy mạnh vào nhóm xuất khẩu trong các phiên tới.
-    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
-- **Mã: HAG**
-    - Động lực (FA): Xuất khẩu sầu riêng đạt kim ngạch cao, hưởng lợi từ nhu cầu lớn tại thị trường Trung Quốc.
-    - Nhận định dòng tiền: Khả quan; hỗ trợ bởi yếu tố vĩ mô ngành nông nghiệp.
-    - Hành động: Tiếp tục quan sát phản ứng của cổ phiếu tại vùng hỗ trợ hiện tại.
-- **Mã: ABB**
-    - Động lực (FA): Tin tức trái chiều về chào bán riêng lẻ (giá cao hơn thị giá vs. áp lực pha loãng từ phát hành 267 triệu cổ phiếu).
-    - Nhận định dòng tiền: Trung lập/Nhiễu; áp lực cung từ lượng cổ phiếu phát hành mới có thể kìm hãm đà tăng.
-    - Hành động: Rủi ro vi phạm kịch bản; đứng ngoài theo dõi biến động cung cầu.
-- **Mã: NVL**
-    - Động lực (FA): Cổ đông liên quan Chủ tịch bán mạnh cổ phiếu.
-    - Nhận định dòng tiền: Tiêu cực; áp lực cung lớn gây suy yếu xu hướng giá.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
-- **Mã: VIC**
-    - Động lực (FA): Tăng vốn 9.500 tỷ đồng cho công ty con mảng BĐS Khu công nghiệp.
-    - Nhận định dòng tiền: Tích cực trung hạn; củng cố kỳ vọng mở rộng quỹ đất.
-    - Hành động: Tiếp tục quan sát.
+- **Mã:** VHM, SSI
+  - **Động lực (FA):** Áp lực từ lợi suất trái phiếu Mỹ tăng làm tăng chi phí vốn và giảm sức hấp dẫn của margin/thanh khoản.
+  - **Nhận định dòng tiền:** Dòng tiền sẽ bị rút ròng hoặc chịu áp lực bán giải chấp ngắn hạn do yếu tố vĩ mô bất lợi.
+  - **Hành động:** Rủi ro vi phạm kịch bản, cần kiểm soát tỷ trọng margin chặt chẽ.
+- **Mã:** POW, REE
+  - **Động lực (FA):** Kỳ vọng KQKD quý 3 tăng trưởng mạnh.
+  - **Nhận định dòng tiền:** Hưởng lợi từ dòng tiền tìm kiếm trú ẩn ở các doanh nghiệp tăng trưởng thực chất thay vì đầu cơ.
+  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc do áp lực chung của thị trường.
+- **Mã:** PLX, OIL
+  - **Động lực (FA):** Tin tức tách Quỹ bình ổn giúp cải thiện cấu trúc tài chính và biên lợi nhuận.
+  - **Nhận định dòng tiền:** Dòng tiền tích cực gia tăng nhờ giảm bớt rủi ro pháp lý và áp lực quản lý dòng tiền.
+  - **Hành động:** Tiếp tục quan sát điểm breakout.
