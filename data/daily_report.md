@@ -1,24 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:16 - 27/09/2026
+⏱ Thời gian: 15:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực rút vốn ngoại gia tăng (100 triệu USD/tuần) kết hợp với lợi suất trái phiếu Mỹ neo đỉnh 19 năm và lãi suất huy động trong nước tăng gây áp lực kép lên thanh khoản và tâm lý thị trường -> **Tiêu cực** -> Dòng tiền rút khỏi nhóm vốn hóa lớn (Bluechips), gây áp lực điều chỉnh lên chỉ số chung.
-- Giá xăng dầu trong nước tăng -> **Tích cực** -> Dòng tiền có xu hướng chú ý đến nhóm phân phối và lọc hóa dầu (PLX, BSR).
-- Thay đổi mô hình kinh tế Trung Quốc và rủi ro trái phiếu doanh nghiệp -> **Tiêu cực** -> Áp lực lên nhóm ngành thép (HPG, NKG) và bất động sản (NVL, PDR).
+- Kinh tế Mỹ tăng trưởng mạnh nhất từ 2021 thúc đẩy nhu cầu nhập khẩu hàng hóa -> **Tích cực** -> Dòng tiền hướng vào nhóm **Xuất khẩu (Dệt may, Thủy sản, Nông nghiệp)**.
+- Giá xăng dầu tăng cùng áp lực thịt nhập khẩu giá rẻ -> **Tiêu cực** -> Gây áp lực biên lợi nhuận nhóm **Logistics (GMD)** và **Chăn nuôi (DBC)**.
+- Chính sách hỗ trợ 50% lãi vay đầu tư bãi đỗ xe tại TP.HCM -> **Tích cực** -> Dòng tiền tiềm năng vào nhóm **Hạ tầng/Xây dựng (CII)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: TNG, VHC**
+    - Động lực (FA): Hưởng lợi trực tiếp từ sức cầu tiêu dùng tăng trưởng mạnh tại thị trường Mỹ.
+    - Nhận định dòng tiền: Tích cực; kỳ vọng dòng tiền đẩy mạnh vào nhóm xuất khẩu trong các phiên tới.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự ngắn hạn.
+- **Mã: HAG**
+    - Động lực (FA): Xuất khẩu sầu riêng đạt kim ngạch cao, hưởng lợi từ nhu cầu lớn tại thị trường Trung Quốc.
+    - Nhận định dòng tiền: Khả quan; hỗ trợ bởi yếu tố vĩ mô ngành nông nghiệp.
+    - Hành động: Tiếp tục quan sát phản ứng của cổ phiếu tại vùng hỗ trợ hiện tại.
+- **Mã: ABB**
+    - Động lực (FA): Tin tức trái chiều về chào bán riêng lẻ (giá cao hơn thị giá vs. áp lực pha loãng từ phát hành 267 triệu cổ phiếu).
+    - Nhận định dòng tiền: Trung lập/Nhiễu; áp lực cung từ lượng cổ phiếu phát hành mới có thể kìm hãm đà tăng.
+    - Hành động: Rủi ro vi phạm kịch bản; đứng ngoài theo dõi biến động cung cầu.
 - **Mã: NVL**
-  - Động lực (FA): Cổ đông liên quan Chủ tịch bán mạnh cổ phiếu; rủi ro từ thị trường trái phiếu doanh nghiệp quốc tế.
-  - Nhận định dòng tiền: Áp lực cung lớn, tâm lý nhà đầu tư cá nhân suy yếu, rủi ro điều chỉnh giá sâu trong ngắn hạn.
-  - Hành động: **Rủi ro vi phạm kịch bản** – Ưu tiên hạ tỷ trọng, quản trị rủi ro.
-- **Mã: BSR**
-  - Động lực (FA): Giá xăng dầu trong nước tăng, hưởng lợi từ biên lợi nhuận lọc dầu.
-  - Nhận định dòng tiền: Hưởng lợi từ đà tăng giá hàng hóa, có thể thu hút dòng tiền trú ẩn tạm thời.
-  - Hành động: **Chú ý giải ngân** (theo dõi sát biến động giá dầu thế giới).
-- **Mã: HPG**
-  - Động lực (FA): Áp lực bán ròng từ khối ngoại và rủi ro cạnh tranh thép giá rẻ từ Trung Quốc.
-  - Nhận định dòng tiền: Dòng tiền lớn (ngoại) đang rút, gây cản trở đà hồi phục.
-  - Hành động: **Tiếp tục quan sát** – Tránh bắt đáy khi lực bán ngoại chưa suy giảm.
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
-- **BSR**: Dữ liệu hiện tại (giá xăng dầu tăng) củng cố trạng thái nắm giữ. Tuy nhiên, do đã qua điểm rơi kỳ vọng tháng 3/2026, chiến lược cần chuyển sang "quản trị mục tiêu theo sóng giá hàng hóa", sẵn sàng chốt lời nếu tín hiệu giá dầu thế giới đảo chiều.
+    - Động lực (FA): Cổ đông liên quan Chủ tịch bán mạnh cổ phiếu.
+    - Nhận định dòng tiền: Tiêu cực; áp lực cung lớn gây suy yếu xu hướng giá.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
+- **Mã: VIC**
+    - Động lực (FA): Tăng vốn 9.500 tỷ đồng cho công ty con mảng BĐS Khu công nghiệp.
+    - Nhận định dòng tiền: Tích cực trung hạn; củng cố kỳ vọng mở rộng quỹ đất.
+    - Hành động: Tiếp tục quan sát.
