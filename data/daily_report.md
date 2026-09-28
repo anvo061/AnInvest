@@ -1,26 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:53 - 28/09/2026
+⏱ Thời gian: 14:53 (28/09/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất tăng nhiệt & áp lực chi phí vốn: [Tiêu cực] -> Tác động trực tiếp làm co hẹp biên lợi nhuận nhóm BĐS (NVL, PDR, VHM) và nhóm Chứng khoán (SSI, VND) do chi phí margin tăng.
-- Giá dầu thế giới neo cao (vượt 30.000đ/lít trong nước): [Tích cực cho nhóm thượng nguồn, Tiêu cực cho nhóm vận tải] -> Dòng tiền ưu tiên nhóm Dầu khí (PVD, PVS, BSR) hưởng lợi từ giá bán/dịch vụ, thận trọng với HAH do chi phí nhiên liệu đầu vào tăng.
-- Sự kiện PNJ ghi nhận lỗ đột biến (6.271 tỷ đồng): [Cực kỳ tiêu cực] -> Rủi ro bán tháo lan tỏa, gây áp lực lên niềm tin thị trường dù mùa cao điểm cuối năm thường là điểm tựa của nhóm bán lẻ.
+- Mỹ và Iran đàm phán thỏa thuận dầu mỏ có khả năng tăng nguồn cung toàn cầu -> Đánh giá: Tiêu cực -> Dòng tiền có xu hướng rút khỏi nhóm Dầu khí thượng nguồn (PVD, PVS).
+- Tin nâng hạng thị trường chứng khoán Việt Nam -> Đánh giá: Tích cực -> Dòng tiền kỳ vọng hướng vào nhóm vốn hóa lớn (Bluechips: VCB, VHM, FPT) và nhóm Chứng khoán (SSI) khi thanh khoản cải thiện.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu tăng do căng thẳng địa chính trị và nhu cầu thuê giàn khoan cải thiện.
-- Nhận định dòng tiền: Dòng tiền trú ẩn ngắn hạn sẽ tìm đến nhóm Dầu khí để phòng vệ trước rủi ro lạm phát và lãi suất.
-- Hành động: Chú ý giải ngân nếu giá duy trì vùng hỗ trợ kỹ thuật, tận dụng sóng giá dầu.
-
 - Mã: **PNJ**
-- Động lực (FA): Công bố khoản lỗ 6.271 tỷ đồng.
-- Nhận định dòng tiền: Áp lực bán tháo cực mạnh trong phiên do suy giảm giá trị nội tại doanh nghiệp.
-- Hành động: Rủi ro vi phạm kịch bản an toàn; ưu tiên quản trị rủi ro, không bắt đáy trong ngắn hạn.
+- Động lực (FA): Lỗ sau thuế 6.270 tỷ đồng và hủy chi trả cổ tức.
+- Nhận định dòng tiền: Cú sốc tiêu cực cực độ, khả năng cao kích hoạt lệnh bán tháo (panic sell) và mất thanh khoản tại vùng giá thấp.
+- Hành động: Rủi ro vi phạm kịch bản nghiêm trọng, tuyệt đối tránh xa, xem xét đóng vị thế nếu còn nắm giữ để bảo toàn vốn.
 
-- Mã: **SSI, VND**
-- Động lực (FA): Thị trường thiếu động lực nâng hạng kết hợp với môi trường lãi suất tăng.
-- Nhận định dòng tiền: Dòng tiền rút lui khỏi nhóm chứng khoán do triển vọng doanh thu môi giới và margin suy yếu.
-- Hành động: Tiếp tục quan sát, ưu tiên giữ tỷ trọng tiền mặt, tránh gia tăng margin tại nhóm này.
+- Mã: **NVL**
+- Động lực (FA): Cổ phiếu rơi xuống mức thấp nhất 6 năm do áp lực nợ vay.
+- Nhận định dòng tiền: Phản ánh sự suy yếu của nội tại doanh nghiệp và tâm lý tiêu cực bao trùm nhóm BĐS đòn bẩy cao.
+- Hành động: Rủi ro vi phạm kịch bản, tiếp tục quan sát trạng thái xử lý nợ, chưa giải ngân.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Dù hưởng lợi từ giá dầu tăng giúp tăng giá trị hàng tồn kho và biên lợi nhuận lọc dầu ngắn hạn, cần theo dõi sát áp lực chi phí đầu vào đối với các đơn vị hạ nguồn. Dữ liệu hiện tại ủng hộ việc nắm giữ để hưởng lợi từ biến động giá dầu, chưa cần cắt lỗ.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu dự báo chịu áp lực giảm từ tin đàm phán Mỹ-Iran.
+- Nhận định dòng tiền: Dòng tiền ngắn hạn có thể thoái lui do biên lợi nhuận mảng dịch vụ khoan bị đe dọa.
+- Hành động: Chú ý rủi ro vi phạm kịch bản tăng trưởng, ưu tiên quản trị rủi ro.
+
+- Mã: **SSI**
+- Động lực (FA): Vốn điều lệ vượt 33.000 tỷ đồng và hưởng lợi từ lộ trình nâng hạng.
+- Nhận định dòng tiền: Hỗ trợ tích cực cho vị thế dẫn đầu trong dài hạn, tuy nhiên ngắn hạn chịu áp lực chung từ thị trường rung lắc.
+- Hành động: Chú ý giải ngân từng phần tại các nhịp rung lắc, không mua đuổi.
