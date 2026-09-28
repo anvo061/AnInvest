@@ -1,24 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:45
+⏱ Thời gian: 08:53 - 28/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng địa chính trị Trung Đông làm giá dầu thế giới tăng:** -> [Đánh giá tác động: Tích cực ngắn hạn cho nhóm Dầu khí / Tiêu cực cho nhóm Vận tải biển] -> [Dòng tiền ưu tiên nhóm thượng nguồn: PVD, PVS; Thận trọng với chi phí đầu vào của HAH].
-- **Nhu cầu Trái phiếu Chính phủ Việt Nam dồi dào:** -> [Đánh giá tác động: Tích cực cho thanh khoản hệ thống ngân hàng] -> [Dòng tiền hướng vào các NHTM nắm giữ tỷ trọng trái phiếu lớn: VCB, BID].
+- Lãi suất tăng nhiệt & áp lực chi phí vốn: [Tiêu cực] -> Tác động trực tiếp làm co hẹp biên lợi nhuận nhóm BĐS (NVL, PDR, VHM) và nhóm Chứng khoán (SSI, VND) do chi phí margin tăng.
+- Giá dầu thế giới neo cao (vượt 30.000đ/lít trong nước): [Tích cực cho nhóm thượng nguồn, Tiêu cực cho nhóm vận tải] -> Dòng tiền ưu tiên nhóm Dầu khí (PVD, PVS, BSR) hưởng lợi từ giá bán/dịch vụ, thận trọng với HAH do chi phí nhiên liệu đầu vào tăng.
+- Sự kiện PNJ ghi nhận lỗ đột biến (6.271 tỷ đồng): [Cực kỳ tiêu cực] -> Rủi ro bán tháo lan tỏa, gây áp lực lên niềm tin thị trường dù mùa cao điểm cuối năm thường là điểm tựa của nhóm bán lẻ.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu tăng do căng thẳng địa chính trị, cải thiện biên lợi nhuận giàn khoan.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ và khối ngoại tập trung vào nhóm dầu khí để trú ẩn.
-  - Hành động: Chú ý giải ngân nếu dòng tiền có sự xác nhận ở phiên mở cửa.
-- **Mã: CTD**
-  - Động lực (FA): Lợi nhuận tăng 73% nhưng không chia cổ tức.
-  - Nhận định dòng tiền: Áp lực giằng co giữa kỳ vọng tăng trưởng và tâm lý thất vọng về cổ tức, khả năng rung lắc trong ngắn hạn.
-  - Hành động: Tiếp tục quan sát, đợi phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
-- **Mã: SEA**
-  - Động lực (FA): Thương vụ đấu giá 79 triệu cổ phiếu tạo kỳ vọng tái cấu trúc/thay đổi sở hữu.
-  - Nhận định dòng tiền: Thu hút dòng tiền đầu cơ lớn nhờ sự kiện thoái vốn/đấu giá.
-  - Hành động: Chú ý giải ngân với tỷ trọng nhỏ theo sóng thông tin, lưu ý rủi ro "tin ra là bán".
-- **Mã: KOS**
-  - Động lực (FA): Giảm sàn 5 phiên liên tiếp, áp lực giải chấp (call margin).
-  - Nhận định dòng tiền: Rủi ro thanh khoản cao, tâm lý tháo chạy.
-  - Hành động: Rủi ro vi phạm kịch bản, tuyệt đối không bắt đáy trong pha rơi tự do.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu tăng do căng thẳng địa chính trị và nhu cầu thuê giàn khoan cải thiện.
+- Nhận định dòng tiền: Dòng tiền trú ẩn ngắn hạn sẽ tìm đến nhóm Dầu khí để phòng vệ trước rủi ro lạm phát và lãi suất.
+- Hành động: Chú ý giải ngân nếu giá duy trì vùng hỗ trợ kỹ thuật, tận dụng sóng giá dầu.
+
+- Mã: **PNJ**
+- Động lực (FA): Công bố khoản lỗ 6.271 tỷ đồng.
+- Nhận định dòng tiền: Áp lực bán tháo cực mạnh trong phiên do suy giảm giá trị nội tại doanh nghiệp.
+- Hành động: Rủi ro vi phạm kịch bản an toàn; ưu tiên quản trị rủi ro, không bắt đáy trong ngắn hạn.
+
+- Mã: **SSI, VND**
+- Động lực (FA): Thị trường thiếu động lực nâng hạng kết hợp với môi trường lãi suất tăng.
+- Nhận định dòng tiền: Dòng tiền rút lui khỏi nhóm chứng khoán do triển vọng doanh thu môi giới và margin suy yếu.
+- Hành động: Tiếp tục quan sát, ưu tiên giữ tỷ trọng tiền mặt, tránh gia tăng margin tại nhóm này.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR**: Dù hưởng lợi từ giá dầu tăng giúp tăng giá trị hàng tồn kho và biên lợi nhuận lọc dầu ngắn hạn, cần theo dõi sát áp lực chi phí đầu vào đối với các đơn vị hạ nguồn. Dữ liệu hiện tại ủng hộ việc nắm giữ để hưởng lợi từ biến động giá dầu, chưa cần cắt lỗ.
