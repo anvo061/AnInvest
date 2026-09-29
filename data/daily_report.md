@@ -1,25 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:40
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian: 14:25 - 29/09/2026**
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Trung Quốc kích thích kinh tế (Hỗ trợ vật liệu):** Chính sách hỗ trợ bất động sản và kinh tế từ Trung Quốc tạo lực đẩy cho nhóm xuất khẩu thép và cao su -> **Tích cực** -> Dòng tiền hướng vào nhóm **Thép (HPG, HSG), Cao su (GVR).**
-- **Nâng cao thanh khoản ngân hàng (Giấy tờ có giá):** 4 ngân hàng quốc doanh huy động vốn lớn giúp ổn định chi phí vốn hệ thống -> **Tích cực** -> Dòng tiền hướng vào nhóm **Ngân hàng (VCB, BID, CTG).**
-- **Xu hướng lãi suất tăng:** Hưởng lợi cho các đơn vị có danh mục tiền gửi lớn -> **Tích cực** -> Dòng tiền hướng vào nhóm **Bảo hiểm (BVH, MIG) và các doanh nghiệp có lượng tiền mặt ròng khổng lồ (ACV).**
-- **Rủi ro niềm tin khối ngoại:** Dòng vốn ngoại có xu hướng thận trọng/rút ròng (đặc biệt từ Thái Lan) -> **Tiêu cực** -> Áp lực lên nhóm **Bluechip (VNM, MWG).**
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Kết quả kinh doanh nhóm Ngân hàng:** Dự báo tăng trưởng lợi nhuận quý III >20% -> **Tích cực** -> Dòng tiền dự kiến tập trung vào nhóm Ngân hàng vốn hóa lớn (VCB, TCB, MBB, CTG, ACB).
+- **Phát triển hạ tầng logistics & xuất khẩu:** TP.HCM triển khai "trung tâm xuất khẩu tại chỗ" -> **Tích cực** -> Dòng tiền hướng vào nhóm Logistics (GMD), Bất động sản KCN (SZC) và Xuất khẩu (VHC, TNG).
+- **Giá dầu hạ nhiệt:** Kỳ vọng lợi nhuận nhóm dầu khí suy giảm -> **Tiêu cực** -> Áp lực bán ngắn hạn trên các mã thượng nguồn (PVD, PVS, BSR).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu thế giới tiếp đà tăng.
-    - Nhận định dòng tiền: Hợp lưu với kỳ vọng giá thuê giàn khoan cải thiện, dòng tiền có khả năng phản ứng mạnh với tin vĩ mô này.
-    - Hành động: **Chú ý giải ngân** nếu xuất hiện dòng tiền xác nhận vào đầu phiên.
-- **Mã: PNJ**
-    - Động lực (FA): Tin tức dự báo thua lỗ do bê bối kim cương.
-    - Nhận định dòng tiền: Rủi ro bán tháo diện rộng do tâm lý nhà đầu tư bị tổn thương nghiêm trọng.
-    - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, đứng ngoài quan sát.
-- **Mã: ACV**
-    - Động lực (FA): Hưởng lợi từ lãi suất cao trên lượng tiền mặt khổng lồ.
-    - Nhận định dòng tiền: Đang thu hút dòng tiền thông minh, thanh khoản đột biến.
-    - Hành động: **Tiếp tục quan sát** chiều mua lên theo quán tính dòng tiền.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: HDB**
+    - **Động lực (FA):** Mở rộng hợp tác quốc tế, tối ưu hóa nguồn vốn toàn cầu.
+    - **Nhận định dòng tiền:** Gia tăng kỳ vọng cải thiện NIM, dòng tiền tổ chức có khả năng duy trì sự quan tâm ổn định.
+    - **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh theo thị trường chung.
+- **Mã: NVL**
+    - **Động lực (FA):** Áp lực bán tháo của cổ đông trước ngày chốt quyền.
+    - **Nhận định dòng tiền:** Tâm lý thận trọng bao trùm, áp lực cung ngắn hạn rất lớn.
+    - **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi chặt chẽ vùng hỗ trợ gần nhất, hạn chế bắt đáy.
+- **Mã: VRE**
+    - **Động lực (FA):** Hưởng lợi từ chủ trương thí điểm outlet quy mô lớn (50.000m²).
+    - **Nhận định dòng tiền:** Tiềm năng thu hút dòng tiền trung hạn nhờ quỹ đất thương mại lớn.
+    - **Hành động:** Tiếp tục quan sát tín hiệu dòng tiền tạo đáy.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR:** Thông tin giá dầu tăng hỗ trợ trực tiếp biên lợi nhuận lọc dầu. Với kỳ vọng trung hạn, dữ liệu hiện tại xác nhận luận điểm giữ vị thế để chờ điểm rơi lợi nhuận, chưa có tín hiệu cần cắt/đảo dòng tiền.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã: BSR**
+    - **Nhận định:** Tin tức giá dầu giảm gây tác động tiêu cực trực tiếp đến biên lợi nhuận lọc hóa dầu. Với trạng thái tháng 09/2026, cần cân nhắc hạ tỷ trọng nếu dữ liệu kỹ thuật vi phạm ngưỡng hỗ trợ cứng nhằm đảo dòng tiền sang nhóm Ngân hàng đang có kỳ vọng tăng trưởng Q3 mạnh.
