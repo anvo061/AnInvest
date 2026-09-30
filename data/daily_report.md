@@ -1,23 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:30, 30/09/2026
+⏱ Thời gian: 03:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Hợp nhất sàn HNX vào HOSE & Giảm thuế xăng dầu:** Việc chuyển sàn toàn bộ cổ phiếu HNX sang HOSE vào 28/12 giúp tăng tính minh bạch và dòng vốn ngoại, kết hợp với chính sách giảm thuế xăng dầu kéo dài đến cuối năm -> [Đánh giá: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm Chứng khoán (hưởng lợi thanh khoản), Bất động sản (đẩy nhanh tiến độ dự án) và Logistics (giảm chi phí vận hành).
+- Chính phủ quyết định kéo dài thời hạn giảm thuế xăng dầu đến hết năm 2026 -> Tích cực -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Vận tải, Logistics (GMD, HAH, VTP).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** CEO
-  - **Động lực (FA):** Hưởng lợi kép từ việc chuyển sàn HNX sang HOSE (tăng tính thanh khoản, tiếp cận nhà đầu tư tổ chức) và chỉ đạo tháo gỡ pháp lý dự án từ Chính phủ.
-  - **Nhận định dòng tiền:** Cải thiện kỳ vọng định giá, dòng tiền đầu cơ sẽ sớm phản ứng với thông tin nâng hạng/chuyển sàn.
-  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc tích lũy.
-- **Mã:** PVD
-  - **Động lực (FA):** Căng thẳng eo biển Hormuz đẩy giá LNG toàn cầu, nhu cầu thăm dò khai thác tăng cao.
-  - **Nhận định dòng tiền:** Hưởng lợi từ sự thiếu hụt năng lượng toàn cầu; áp lực tăng giá theo kỳ vọng công việc mảng giàn khoan.
-  - **Hành động:** Tiếp tục quan sát, ưu tiên giữ vị thế nếu giá duy trì trên đường MA20.
-- **Mã:** PVS
-  - **Động lực (FA):** Hưởng lợi kép từ việc chuyển sàn HOSE (minh bạch) và giá khí/dịch vụ thượng nguồn tăng do biến động địa chính trị tại Hormuz.
-  - **Nhận định dòng tiền:** Dòng tiền tổ chức có xu hướng đổ vào các mã có cơ bản tốt khi sàn được hợp nhất.
-  - **Hành động:** Chú ý giải ngân.
-- **Mã:** GMD, HAH
-  - **Động lực (FA):** Chính phủ kéo dài thời gian giảm thuế xăng dầu, trực tiếp cắt giảm giá vốn hàng bán cho nhóm vận tải.
-  - **Nhận định dòng tiền:** Cải thiện biên lợi nhuận ròng, dòng tiền sẽ phản ứng tích cực trong ngắn hạn.
-  - **Hành động:** Chú ý giải ngân.
+- Mã: GMD, HAH, VTP
+- Động lực (FA): Việc giảm thuế xăng dầu được kéo dài giúp cắt giảm trực tiếp chi phí vận hành, cải thiện biên lợi nhuận gộp trong bối cảnh giá nhiên liệu biến động.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ ưu tiên các cổ phiếu có chi phí đầu vào phụ thuộc lớn vào xăng dầu.
+- Hành động: Chú ý giải ngân nếu có nhịp rung lắc tích lũy tại nền giá.
+
+- Mã: PLX, OIL
+- Động lực (FA): Đề xuất hạn chế thương nhân phân phối mua bán lẫn nhau, tập trung quyền lực vào các đầu mối lớn.
+- Nhận định dòng tiền: Tín hiệu hỗ trợ tích cực cho vị thế doanh nghiệp đầu ngành, giúp củng cố hệ thống phân phối và biên lợi nhuận bán lẻ.
+- Hành động: Tiếp tục quan sát phản ứng dòng tiền tại vùng kháng cự kỹ thuật.
+
+- Mã: GEG
+- Động lực (FA): EVN làm rõ cơ chế lắp đặt điện mặt trời mái nhà và bán điện dư.
+- Nhận định dòng tiền: Tháo gỡ nút thắt pháp lý quan trọng cho ngành năng lượng tái tạo, tạo tâm lý tích cực cho các cổ phiếu hạ tầng điện.
+- Hành động: Chú ý giải ngân theo đà tăng.
+
+- Mã: PNJ
+- Động lực (FA): Rút ngắn thời gian trả tiền mua lại vàng.
+- Nhận định dòng tiền: Củng cố niềm tin khách hàng, là yếu tố hỗ trợ dài hạn cho doanh thu bán lẻ, tuy nhiên chưa đủ mạnh để bứt phá kỹ thuật ngay lập tức.
+- Hành động: Tiếp tục quan sát.
