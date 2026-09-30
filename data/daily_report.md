@@ -1,24 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:15 - 30/09/2026
+⏱ Thời gian: 09:20 - 30/09/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới tăng do bất ổn tại Iran, kết hợp với thị trường Diesel châu Á thắt chặt -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm Dầu khí thượng nguồn (PVD, PVS) và Lọc hóa dầu (BSR).
-- Lợi suất trái phiếu dài hạn đạt đỉnh 24 năm gây áp lực lên định giá cổ phiếu và dòng vốn ngoại -> [Tiêu cực] -> Áp lực bán lên nhóm vốn hóa lớn (Bluechips: VCB, VHM, HPG) và nhóm chứng khoán (SSI, VND).
+- **Lãi suất huy động tăng và áp lực khối ngoại bán ròng:** Môi trường lãi suất cao gây khó khăn cho doanh nghiệp BĐS (NVL, PDR) và nhóm chứng khoán (SSI); đồng thời áp lực bán từ khối ngoại đè nặng lên nhóm Bluechips (VCB, HPG, VHM). -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm vốn hóa lớn và các doanh nghiệp đòn bẩy cao, chuyển dịch sang các mã có tiền mặt ròng dồi dào.
+- **Giá dầu và Crack spread Diesel:** Giá dầu thế giới tăng và thị trường Diesel thắt chặt. -> **Tích cực** -> Dòng tiền tập trung nhóm Dầu khí (PVD, PVS, BSR, PLX).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PVD
-  - Động lực (FA): Giá dầu tăng thúc đẩy nhu cầu và đơn giá dịch vụ khoan.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ xoay trục vào nhóm năng lượng để trú ẩn và tìm kiếm biên lợi nhuận.
-  - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
-- Mã: KOS
-  - Động lực (FA): Áp lực nợ vay 2.000 tỷ và 2.800 tỷ tồn kho, đi kèm chuỗi 7 phiên sàn.
-  - Nhận định dòng tiền: Dòng tiền thoát vị thế quyết liệt, rủi ro mất thanh khoản ở chiều mua.
-  - Hành động: Rủi ro vi phạm kịch bản quản trị rủi ro tối đa, tuyệt đối không bắt đáy.
-- Mã: ACV
-  - Động lực (FA): Tăng phí dịch vụ tại sân bay Long Thành.
-  - Nhận định dòng tiền: Hỗ trợ cải thiện biên lợi nhuận, kỳ vọng dòng tiền ổn định.
-  - Hành động: Tiếp tục quan sát để tìm điểm mua tích lũy.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu thế giới neo cao do rủi ro địa chính trị tại Iran.
+    - Nhận định dòng tiền: Hưởng lợi trực tiếp từ nhu cầu giàn khoan tăng, khả năng thu hút dòng tiền dẫn dắt ngành dầu khí trong phiên.
+    - Hành động: Chú ý giải ngân nếu giá test lại hỗ trợ ngắn hạn.
+- **Mã: PNJ**
+    - Động lực (FA): Kế hoạch chào bán riêng lẻ 550 triệu cổ phiếu.
+    - Nhận định dòng tiền: Áp lực pha loãng EPS quá lớn, thị trường sẽ phản ứng tiêu cực bằng lệnh bán tháo trong ngắn hạn.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu đang nắm giữ.
+- **Mã: VNM, FPT**
+    - Động lực (FA): Doanh nghiệp tiền mặt nhiều, nợ ít trong môi trường lãi suất tăng.
+    - Nhận định dòng tiền: Trở thành "hầm trú ẩn" an toàn cho dòng tiền thông minh.
+    - Hành động: Tiếp tục quan sát để canh mua khi thị trường rung lắc mạnh.
+- **Mã: HDB**
+    - Động lực (FA): Huy động thành công 500 triệu USD trái phiếu quốc tế.
+    - Nhận định dòng tiền: Củng cố thanh khoản và uy tín, kỳ vọng dòng tiền khối ngoại hỗ trợ.
+    - Hành động: Chú ý giải ngân nếu duy trì được nền giá trên MA20.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: BSR
-  - Nhận định: Giá dầu tăng và biên lợi nhuận lọc dầu (crack spread) Diesel cao là yếu tố hỗ trợ mạnh cho BSR. Dù đã qua điểm rơi trung hạn, nhưng dữ liệu vĩ mô hiện tại đủ sức neo giữ vị thế. Khuyến nghị: Duy trì nắm giữ, theo dõi sát biên lợi nhuận quý tiếp theo trước khi quyết định thoái vốn.
+- **Mã: BSR**
+    - Nhận định: Dữ liệu vĩ mô hiện tại (giá dầu tăng + biên lợi nhuận Diesel cao) là chỉ báo hỗ trợ mạnh cho BSR. Với vị thế trung hạn, dữ liệu này củng cố luận điểm **Nắm giữ**, chưa cần thực hiện cơ cấu đảo dòng tiền lúc này.
