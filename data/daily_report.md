@@ -1,25 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 23:45 - 01/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 04:30 - 02/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Kinh tế TP.HCM tăng trưởng vượt kỳ vọng (9,86% trong Q3):** -> **Tích cực** -> Dòng tiền dự kiến sẽ dịch chuyển vào nhóm **Bán lẻ (MWG)** và **Bất động sản khu công nghiệp**.
-- **Bùng nổ hạ tầng AI tại Châu Á:** -> **Tích cực** -> Dòng tiền tập trung vào **Công nghệ (FPT)** và **KCN (KBC)** nhờ hưởng lợi trực tiếp từ làn sóng dịch chuyển sản xuất linh kiện điện tử.
-- **Áp lực bán giải chấp (KOS) và bán ròng tự doanh (TCB, VPB):** -> **Tiêu cực** -> Tạo rào cản tâm lý ngắn hạn, gây áp lực điều chỉnh lên nhóm BĐS vốn hóa vừa/nhỏ và nhóm Ngân hàng lớn.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Lãi suất huy động trái phiếu doanh nghiệp tăng vọt lên 10,5%/năm -> **Tiêu cực**: Áp lực đẩy chi phí vốn (CoF) lên cao, đe dọa biên lợi nhuận (NIM) nhóm Ngân hàng và tạo áp lực rút vốn khỏi TTCK để tìm kênh trú ẩn lãi suất cao -> Dòng tiền có xu hướng thoát khỏi nhóm Ngân hàng và Chứng khoán.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: TCB, VPB**
-    - Động lực (FA): Bị khối tự doanh bán ròng đột biến trong phiên đầu tháng 10.
-    - Nhận định dòng tiền: Áp lực cung ngắn hạn lớn, dòng tiền có xu hướng đứng ngoài quan sát vùng hỗ trợ.
-    - Hành động: **Rủi ro vi phạm kịch bản**; tránh bắt đáy khi chưa có tín hiệu hấp thụ cung từ khối ngoại hoặc thanh khoản cạn kiệt.
-- **Mã: PNJ**
-    - Động lực (FA): Vốn hóa giảm mạnh (>4.200 tỷ), tâm lý thận trọng lan tỏa ngành bán lẻ.
-    - Nhận định dòng tiền: Dòng tiền thoát mạnh, mất xu hướng ngắn hạn.
-    - Hành động: **Tiếp tục quan sát**, không mua mới cho đến khi vùng hỗ trợ cứng xác lập đáy.
-- **Mã: HDB**
-    - Động lực (FA): Chốt quyền chia cổ tức và thưởng tỷ lệ cao (30%).
-    - Nhận định dòng tiền: Phản ứng tích cực, tăng vốn giúp cải thiện nền tảng tài chính.
-    - Hành động: **Chú ý giải ngân** theo đà tăng kỹ thuật; quản trị rủi ro tại điểm gãy xu hướng cũ.
-- **Mã: KOS**
-    - Động lực (FA): Áp lực bán giải chấp cổ đông nội bộ, 9 phiên sàn liên tiếp.
-    - Nhận định dòng tiền: Thanh khoản tắc nghẽn, rủi ro mất thanh khoản.
-    - Hành động: **Cảnh báo cực hạn**, không tham gia dưới mọi hình thức để tránh kẹt vốn.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **TCB**
+  - Động lực (FA): Áp lực chi phí vốn tăng + Tự doanh CTCK bán ròng đột biến đầu tháng 10.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu mạnh do sự cộng hưởng từ tin vĩ mô (lãi suất) và áp lực cung nội bộ.
+  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, hạ tỷ trọng nếu thủng vùng hỗ trợ kỹ thuật gần nhất.
+- Mã: **VPB**
+  - Động lực (FA): Bị khối tự doanh bán ròng đột biến.
+  - Nhận định dòng tiền: Tâm lý nhà đầu tư cá nhân sẽ thận trọng trước áp lực xả hàng từ khối chuyên nghiệp.
+  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá tích lũy; chưa mở vị thế mới.
+- Mã: **VCB, SSI, VND**
+  - Động lực (FA): Chịu tác động trực tiếp từ chính sách lãi suất huy động (VCB, SSI, VND chịu áp lực cạnh tranh lãi suất và suy giảm thanh khoản).
+  - Nhận định dòng tiền: Dòng tiền có xu hướng co cụm, nhóm tài chính mất động lực tăng trưởng ngắn hạn.
+  - Hành động: **Chú ý rủi ro vi phạm kịch bản**; thận trọng với các lệnh mua đuổi.
+
+*(Lưu ý: Các tin tức về FUEDCMID, TIE, hay hoạt động marketing khác không đủ trọng yếu để làm thay đổi dòng tiền vĩ mô, nên được loại trừ khỏi báo cáo này).*
