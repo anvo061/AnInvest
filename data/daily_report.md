@@ -1,24 +1,25 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 16:15 (Ngày 01/10/2026)
+⏱ **Thời gian:** 23:45 - 01/10/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất & Fed:** Fed thận trọng với lạm phát; lãi suất huy động trong nước có dấu hiệu neo cao (>9%) -> **Tiêu cực** -> Dòng tiền rút khỏi nhóm Ngân hàng (VCB, TCB) và Chứng khoán (SSI, VND) do áp lực chi phí vốn và giảm sức hấp dẫn của kênh cổ phiếu.
-- **Dịch chuyển công nghệ:** Bùng nổ AI thúc đẩy nhu cầu linh kiện tại Châu Á -> **Tích cực** -> Dòng tiền ưu tiên nhóm Công nghệ (FPT) và Bất động sản KCN (KBC).
+- **Kinh tế TP.HCM tăng trưởng vượt kỳ vọng (9,86% trong Q3):** -> **Tích cực** -> Dòng tiền dự kiến sẽ dịch chuyển vào nhóm **Bán lẻ (MWG)** và **Bất động sản khu công nghiệp**.
+- **Bùng nổ hạ tầng AI tại Châu Á:** -> **Tích cực** -> Dòng tiền tập trung vào **Công nghệ (FPT)** và **KCN (KBC)** nhờ hưởng lợi trực tiếp từ làn sóng dịch chuyển sản xuất linh kiện điện tử.
+- **Áp lực bán giải chấp (KOS) và bán ròng tự doanh (TCB, VPB):** -> **Tiêu cực** -> Tạo rào cản tâm lý ngắn hạn, gây áp lực điều chỉnh lên nhóm BĐS vốn hóa vừa/nhỏ và nhóm Ngân hàng lớn.
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: TLG**
-  - **Động lực (FA):** Kokuyo (Nhật Bản) rót 4.600 tỷ đồng để mua chi phối.
-  - **Nhận định dòng tiền:** Động lực từ M&A là cực mạnh, tạo kỳ vọng định giá lại (re-rating) cổ phiếu.
-  - **Hành động:** Chú ý giải ngân (Canh điểm vào khi có rung lắc theo thị trường chung).
-- **Mã: HDB**
-  - **Động lực (FA):** Chốt chia cổ tức và thưởng 30%.
-  - **Nhận định dòng tiền:** Việc tăng vốn giúp củng cố vị thế tài chính, hỗ trợ neo giá ngắn hạn bất chấp xu hướng chung của nhóm ngân hàng đang bị áp lực chi phí vốn.
-  - **Hành động:** Tiếp tục quan sát (Chờ tín hiệu xác nhận dòng tiền lớn vào sau tin).
+- **Mã: TCB, VPB**
+    - Động lực (FA): Bị khối tự doanh bán ròng đột biến trong phiên đầu tháng 10.
+    - Nhận định dòng tiền: Áp lực cung ngắn hạn lớn, dòng tiền có xu hướng đứng ngoài quan sát vùng hỗ trợ.
+    - Hành động: **Rủi ro vi phạm kịch bản**; tránh bắt đáy khi chưa có tín hiệu hấp thụ cung từ khối ngoại hoặc thanh khoản cạn kiệt.
 - **Mã: PNJ**
-  - **Động lực (FA):** Giảm sàn 4 phiên liên tiếp, rủi ro giải chấp.
-  - **Nhận định dòng tiền:** Áp lực bán tháo kỹ thuật (margin call) đang đè nặng, thanh khoản suy yếu.
-  - **Hành động:** Rủi ro vi phạm kịch bản (Tuyệt đối không bắt đáy khi chưa có tín hiệu cân bằng tại các vùng hỗ trợ cứng).
-- **Mã: PLX**
-  - **Động lực (FA):** Đề xuất doanh nghiệp tự quyết giá xăng dầu.
-  - **Nhận định dòng tiền:** Tăng biên lợi nhuận, giảm rủi ro tồn kho, tạo dư địa tăng trưởng tích cực.
-  - **Hành động:** Chú ý giải ngân.
+    - Động lực (FA): Vốn hóa giảm mạnh (>4.200 tỷ), tâm lý thận trọng lan tỏa ngành bán lẻ.
+    - Nhận định dòng tiền: Dòng tiền thoát mạnh, mất xu hướng ngắn hạn.
+    - Hành động: **Tiếp tục quan sát**, không mua mới cho đến khi vùng hỗ trợ cứng xác lập đáy.
+- **Mã: HDB**
+    - Động lực (FA): Chốt quyền chia cổ tức và thưởng tỷ lệ cao (30%).
+    - Nhận định dòng tiền: Phản ứng tích cực, tăng vốn giúp cải thiện nền tảng tài chính.
+    - Hành động: **Chú ý giải ngân** theo đà tăng kỹ thuật; quản trị rủi ro tại điểm gãy xu hướng cũ.
+- **Mã: KOS**
+    - Động lực (FA): Áp lực bán giải chấp cổ đông nội bộ, 9 phiên sàn liên tiếp.
+    - Nhận định dòng tiền: Thanh khoản tắc nghẽn, rủi ro mất thanh khoản.
+    - Hành động: **Cảnh báo cực hạn**, không tham gia dưới mọi hình thức để tránh kẹt vốn.
