@@ -1,25 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:30 - 02/10/2026
+⏱ Thời gian: 19:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thế giới tăng mạnh kết hợp đề xuất tự quyết giá xăng dầu -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Dầu khí (PVD, PVS, BSR, PLX, OIL)** do cải thiện biên lợi nhuận và giá trị hàng tồn kho.
-- Đẩy mạnh tăng trưởng GRDP (Quảng Ninh & TP.HCM) -> **Tích cực** -> Dòng tiền hướng vào nhóm **Bất động sản KCN (SZC) và Hạ tầng/Logistics**.
-- Áp lực nợ xấu ngân hàng (rao bán tài sản đảm bảo) & rủi ro trái phiếu doanh nghiệp (Trung Nam Group) -> **Tiêu cực** -> Gây áp lực tâm lý lên nhóm **Ngân hàng (VPB, STB)** và nhóm xây dựng/năng lượng liên đới.
+- **Lợi suất trái phiếu Mỹ lên đỉnh 24 năm gây áp lực tỷ giá:** Điều này buộc NHNN phải ưu tiên thắt chặt tiền tệ hoặc bán dự trữ ngoại hối, làm tăng chi phí vốn toàn thị trường. -> **Tác động:** Tiêu cực diện rộng -> **Dòng tiền:** Rút khỏi nhóm vốn hóa lớn nhạy cảm với chi phí vay (BĐS, CTCK).
+- **Nới trần LDR lên 95%:** Tạo dư địa tăng trưởng tín dụng cho các ngân hàng có thanh khoản dồi dào. -> **Tác động:** Tích cực cục bộ -> **Dòng tiền:** Phân hóa vào nhóm Ngân hàng TMCP có hệ số CASA tốt (TCB, MBB, ACB).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu thế giới tăng mạnh trực tiếp hỗ trợ đơn giá dịch vụ khoan.
-  - Nhận định dòng tiền: Hợp lưu tích cực từ giá dầu, kỳ vọng lực cầu mua vào gia tăng mạnh.
-  - Hành động: Chú ý giải ngân nếu bám sát kịch bản hỗ trợ kỹ thuật gần nhất.
-- **Mã: PNJ**
-  - Động lực (FA): Khối lượng giao dịch đột biến 50 triệu cổ phiếu.
-  - Nhận định dòng tiền: Dấu hiệu thay đổi cơ cấu cổ đông lớn, áp lực cung/cầu thay đổi đột ngột.
-  - Hành động: Tiếp tục quan sát phản ứng giá, chưa vội bắt đáy cho đến khi vùng hỗ trợ xác nhận ổn định.
-- **Mã: VPB, STB**
-  - Động lực (FA): Áp lực nợ xấu dai dẳng thông qua hoạt động rao bán tài sản đảm bảo.
-  - Nhận định dòng tiền: Tiêu cực, dòng tiền lớn có xu hướng rút lui để tránh rủi ro trích lập dự phòng.
-  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+- **Mã:** PNJ
+- **Động lực (FA):** Áp lực bán tháo 30% giá trị trong 5 phiên, khối ngoại bán ròng mạnh, giải trình không làm thay đổi tâm lý thị trường.
+- **Nhận định dòng tiền:** Cung đè nặng, chưa xuất hiện lực cầu bắt đáy đủ mạnh để hấp thụ áp lực margin call.
+- **Hành động:** Rủi ro vi phạm kịch bản, dừng giải ngân, quan sát kỹ vùng hỗ trợ tiếp theo.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Giá dầu tăng mạnh là chất xúc tác mạnh (catalyst) làm tăng giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Trong bối cảnh quỹ vẫn giữ vị thế đến tháng 3/2026, đây là tin tức hỗ trợ củng cố xu hướng giữ (Hold) để tối ưu hóa lợi nhuận. Nếu giá vượt kháng cự gần, xem xét gia tăng tỷ trọng thay vì cơ cấu lại.
+- **Mã:** TCB, MBB, ACB
+- **Động lực (FA):** Hưởng lợi từ chính sách nới trần LDR (tỷ lệ dư nợ tín dụng trên vốn huy động) giúp mở rộng NIM.
+- **Nhận định dòng tiền:** Có khả năng thu hút dòng tiền dịch chuyển từ các nhóm ngành rủi ro cao (BĐS) sang nhóm ngân hàng có nền tảng quản trị tốt để trú ẩn.
+- **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh theo xu hướng chung của thị trường.
+
+- **Mã:** OCB
+- **Động lực (FA):** Kết quả thanh tra NHNN chỉ ra sai phạm về tín dụng và lãi suất.
+- **Nhận định dòng tiền:** Áp lực tâm lý tiêu cực ngắn hạn, rủi ro điều chỉnh kỹ thuật do tin tức pháp lý.
+- **Hành động:** Quan sát, hạn chế vị thế mua mới cho đến khi có thông báo xử lý chính thức từ cơ quan chức năng.
+
+- **Mã:** SSI, VHM, VND, PDR
+- **Động lực (FA):** Chịu áp lực kép từ chi phí lãi vay tăng và định giá lại do lợi suất trái phiếu Mỹ cao.
+- **Nhận định dòng tiền:** Dòng tiền ngắn hạn có xu hướng rút lui, áp lực bán tăng cao tại các vùng hỗ trợ cũ.
+- **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng nếu chạm ngưỡng cắt lỗ kỹ thuật.
