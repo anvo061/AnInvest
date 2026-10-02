@@ -1,21 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:30 - 02/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 08:00 (Ngày 02/10/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất huy động trái phiếu doanh nghiệp tăng vọt lên 10,5%/năm -> **Tiêu cực**: Áp lực đẩy chi phí vốn (CoF) lên cao, đe dọa biên lợi nhuận (NIM) nhóm Ngân hàng và tạo áp lực rút vốn khỏi TTCK để tìm kênh trú ẩn lãi suất cao -> Dòng tiền có xu hướng thoát khỏi nhóm Ngân hàng và Chứng khoán.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Địa chính trị:** Xung đột Nga leo thang, đẩy chi phí vận tải và bảo hiểm toàn cầu tăng cao -> **Tiêu cực** cho nhóm Vận tải biển & Logistics.
+- **Dòng vốn FDI:** Tập đoàn Pandora chính thức vận hành nhà máy tại Việt Nam -> **Tích cực** cho nhóm Bất động sản Khu công nghiệp, khẳng định sức hút chuỗi cung ứng.
+- **Năng lượng:** Giá dầu thế giới tăng mạnh -> **Tích cực** cho nhóm Thượng nguồn (PVD, PVS), tạo dư địa biên lợi nhuận cho hoạt động khoan/thăm dò.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TCB**
-  - Động lực (FA): Áp lực chi phí vốn tăng + Tự doanh CTCK bán ròng đột biến đầu tháng 10.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu mạnh do sự cộng hưởng từ tin vĩ mô (lãi suất) và áp lực cung nội bộ.
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, hạ tỷ trọng nếu thủng vùng hỗ trợ kỹ thuật gần nhất.
-- Mã: **VPB**
-  - Động lực (FA): Bị khối tự doanh bán ròng đột biến.
-  - Nhận định dòng tiền: Tâm lý nhà đầu tư cá nhân sẽ thận trọng trước áp lực xả hàng từ khối chuyên nghiệp.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá tích lũy; chưa mở vị thế mới.
-- Mã: **VCB, SSI, VND**
-  - Động lực (FA): Chịu tác động trực tiếp từ chính sách lãi suất huy động (VCB, SSI, VND chịu áp lực cạnh tranh lãi suất và suy giảm thanh khoản).
-  - Nhận định dòng tiền: Dòng tiền có xu hướng co cụm, nhóm tài chính mất động lực tăng trưởng ngắn hạn.
-  - Hành động: **Chú ý rủi ro vi phạm kịch bản**; thận trọng với các lệnh mua đuổi.
-
-*(Lưu ý: Các tin tức về FUEDCMID, TIE, hay hoạt động marketing khác không đủ trọng yếu để làm thay đổi dòng tiền vĩ mô, nên được loại trừ khỏi báo cáo này).*
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **SZC, KBC, GVR**
+    - **Động lực (FA):** Xác nhận làn sóng dịch chuyển sản xuất từ các thương hiệu toàn cầu (Pandora) vào Việt Nam, thúc đẩy nhu cầu lấp đầy đất khu công nghiệp.
+    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào nhóm BĐS KCN trong trung hạn. Dòng tiền có xu hướng luân chuyển từ các nhóm nhạy cảm địa chính trị sang nhóm hưởng lợi từ FDI.
+    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật tại vùng hỗ trợ cứng.
+- **Mã:** **PVS, PVD**
+    - **Động lực (FA):** Giá dầu thế giới tăng mạnh bù đắp cho rủi ro gián đoạn chuỗi cung ứng do địa chính trị.
+    - **Nhận định dòng tiền:** Hưởng lợi kép từ giá dầu duy trì ở mức cao và nhu cầu thuê giàn khoan cải thiện.
+    - **Hành động:** Tiếp tục quan sát biến động biên lợi nhuận; ưu tiên nắm giữ theo xu hướng.
+- **Mã:** **VIC**
+    - **Động lực (FA):** Tăng vốn và kiện toàn nhân sự cấp cao tại VinFast.
+    - **Nhận định dòng tiền:** Tâm lý ổn định trở lại sau khi rủi ro tài chính tập đoàn mẹ được giảm bớt; dòng tiền có dấu hiệu "chờ" tín hiệu rõ ràng hơn về tiến độ tái cơ cấu.
+    - **Hành động:** Tiếp tục quan sát, chưa nên giải ngân mới trong bối cảnh thị trường thiếu dẫn dắt.
+- **Mã:** **HAH, GMD**
+    - **Động lực (FA):** Rủi ro địa chính trị toàn cầu làm tăng chi phí vận hành (bảo hiểm/nhiên liệu).
+    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn.
+    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
