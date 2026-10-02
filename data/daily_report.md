@@ -1,25 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 08:00 (Ngày 02/10/2026)
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 13:30 - 02/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Địa chính trị:** Xung đột Nga leo thang, đẩy chi phí vận tải và bảo hiểm toàn cầu tăng cao -> **Tiêu cực** cho nhóm Vận tải biển & Logistics.
-- **Dòng vốn FDI:** Tập đoàn Pandora chính thức vận hành nhà máy tại Việt Nam -> **Tích cực** cho nhóm Bất động sản Khu công nghiệp, khẳng định sức hút chuỗi cung ứng.
-- **Năng lượng:** Giá dầu thế giới tăng mạnh -> **Tích cực** cho nhóm Thượng nguồn (PVD, PVS), tạo dư địa biên lợi nhuận cho hoạt động khoan/thăm dò.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Giá dầu thế giới tăng mạnh kết hợp đề xuất tự quyết giá xăng dầu -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Dầu khí (PVD, PVS, BSR, PLX, OIL)** do cải thiện biên lợi nhuận và giá trị hàng tồn kho.
+- Đẩy mạnh tăng trưởng GRDP (Quảng Ninh & TP.HCM) -> **Tích cực** -> Dòng tiền hướng vào nhóm **Bất động sản KCN (SZC) và Hạ tầng/Logistics**.
+- Áp lực nợ xấu ngân hàng (rao bán tài sản đảm bảo) & rủi ro trái phiếu doanh nghiệp (Trung Nam Group) -> **Tiêu cực** -> Gây áp lực tâm lý lên nhóm **Ngân hàng (VPB, STB)** và nhóm xây dựng/năng lượng liên đới.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **SZC, KBC, GVR**
-    - **Động lực (FA):** Xác nhận làn sóng dịch chuyển sản xuất từ các thương hiệu toàn cầu (Pandora) vào Việt Nam, thúc đẩy nhu cầu lấp đầy đất khu công nghiệp.
-    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào nhóm BĐS KCN trong trung hạn. Dòng tiền có xu hướng luân chuyển từ các nhóm nhạy cảm địa chính trị sang nhóm hưởng lợi từ FDI.
-    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật tại vùng hỗ trợ cứng.
-- **Mã:** **PVS, PVD**
-    - **Động lực (FA):** Giá dầu thế giới tăng mạnh bù đắp cho rủi ro gián đoạn chuỗi cung ứng do địa chính trị.
-    - **Nhận định dòng tiền:** Hưởng lợi kép từ giá dầu duy trì ở mức cao và nhu cầu thuê giàn khoan cải thiện.
-    - **Hành động:** Tiếp tục quan sát biến động biên lợi nhuận; ưu tiên nắm giữ theo xu hướng.
-- **Mã:** **VIC**
-    - **Động lực (FA):** Tăng vốn và kiện toàn nhân sự cấp cao tại VinFast.
-    - **Nhận định dòng tiền:** Tâm lý ổn định trở lại sau khi rủi ro tài chính tập đoàn mẹ được giảm bớt; dòng tiền có dấu hiệu "chờ" tín hiệu rõ ràng hơn về tiến độ tái cơ cấu.
-    - **Hành động:** Tiếp tục quan sát, chưa nên giải ngân mới trong bối cảnh thị trường thiếu dẫn dắt.
-- **Mã:** **HAH, GMD**
-    - **Động lực (FA):** Rủi ro địa chính trị toàn cầu làm tăng chi phí vận hành (bảo hiểm/nhiên liệu).
-    - **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do lo ngại biên lợi nhuận bị bào mòn.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên hạ tỷ trọng nếu mất các mốc hỗ trợ kỹ thuật quan trọng.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới tăng mạnh trực tiếp hỗ trợ đơn giá dịch vụ khoan.
+  - Nhận định dòng tiền: Hợp lưu tích cực từ giá dầu, kỳ vọng lực cầu mua vào gia tăng mạnh.
+  - Hành động: Chú ý giải ngân nếu bám sát kịch bản hỗ trợ kỹ thuật gần nhất.
+- **Mã: PNJ**
+  - Động lực (FA): Khối lượng giao dịch đột biến 50 triệu cổ phiếu.
+  - Nhận định dòng tiền: Dấu hiệu thay đổi cơ cấu cổ đông lớn, áp lực cung/cầu thay đổi đột ngột.
+  - Hành động: Tiếp tục quan sát phản ứng giá, chưa vội bắt đáy cho đến khi vùng hỗ trợ xác nhận ổn định.
+- **Mã: VPB, STB**
+  - Động lực (FA): Áp lực nợ xấu dai dẳng thông qua hoạt động rao bán tài sản đảm bảo.
+  - Nhận định dòng tiền: Tiêu cực, dòng tiền lớn có xu hướng rút lui để tránh rủi ro trích lập dự phòng.
+  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quản trị danh mục.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: BSR**
+  - Nhận định: Giá dầu tăng mạnh là chất xúc tác mạnh (catalyst) làm tăng giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Trong bối cảnh quỹ vẫn giữ vị thế đến tháng 3/2026, đây là tin tức hỗ trợ củng cố xu hướng giữ (Hold) để tối ưu hóa lợi nhuận. Nếu giá vượt kháng cự gần, xem xét gia tăng tỷ trọng thay vì cơ cấu lại.
