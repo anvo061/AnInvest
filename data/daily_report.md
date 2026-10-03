@@ -1,23 +1,20 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:05 - 04/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 05:00 - 04/10/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Fed dự kiến dừng tăng lãi suất & Sửa đổi Luật Chứng khoán:** -> Tác động: **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Chứng khoán (SSI, VND)** và **Bất động sản (VHM, PDR)** nhờ kỳ vọng thanh khoản thị trường tăng và giảm áp lực chi phí tài chính.
-- **Thủ tướng yêu cầu giữ ổn định giá điện:** -> Tác động: **Trung lập/Tiêu cực** đối với các doanh nghiệp phát điện (POW) do áp lực biên lợi nhuận, nhưng hỗ trợ ổn định vĩ mô chung cho thị trường.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **GDP Quý III tăng trưởng ấn tượng 9,95% & Tín dụng tăng 11,6%:** Dữ liệu vĩ mô cho thấy nền kinh tế đang trong chu kỳ phục hồi mạnh mẽ, củng cố kỳ vọng về tăng trưởng lợi nhuận doanh nghiệp niêm yết cuối năm. -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, TCB, MBB)**, **Bán lẻ (MWG)**, **Khu công nghiệp (SZC)** và **Chứng khoán (SSI)**.
+- **Cán cân thương mại xuất siêu 1,27 tỷ USD:** Giảm áp lực lên tỷ giá và dự trữ ngoại hối, tạo dư địa chính sách tiền tệ. -> **Tích cực** -> Hưởng lợi trực tiếp nhóm **Xuất khẩu (VHC, TNG)** và **Logistics/Cảng biển (GMD, HAH)**.
+- **Dự án hạ tầng trọng điểm (Đường sắt tốc độ cao) khởi động:** Đẩy mạnh nhu cầu vật liệu xây dựng. -> **Tích cực** -> Dòng tiền hướng về nhóm **Thép (HPG)** và **Khai thác đá (VLB)**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-  - Động lực (FA): Hưởng lợi kép từ việc sửa đổi Luật Chứng khoán và môi trường lãi suất Fed ổn định.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn chảy vào nhóm đầu ngành dẫn dắt thanh khoản.
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện phiên bùng nổ thanh khoản đi kèm tin tức được xác nhận.
-- **Mã: BSR**
-  - Động lực (FA): Giá xăng dầu tăng giúp cải thiện biên lợi nhuận lọc hóa dầu.
-  - Nhận định dòng tiền: Tích cực ngắn hạn nhờ sự đồng thuận của giá dầu.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá hiện tại.
-- **Mã: MWG, HDB, DGW, SHS**
-  - Động lực (FA): Lịch chốt quyền cổ tức tiền mặt/cổ phiếu tuần tới.
-  - Nhận định dòng tiền: Tạo tâm lý "neo giữ" giá cổ phiếu trước ngày chốt quyền, giảm áp lực bán tháo.
-  - Hành động: **Tiếp tục quan sát** biến động tỷ trọng danh mục trước thời điểm chốt quyền.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **PNJ**
+  - **Động lực (FA):** Lực bán tháo mạnh, nằm sàn bất chấp nỗ lực bắt đáy.
+  - **Nhận định dòng tiền:** Áp lực thoát hàng mang tính hệ thống hoặc tin tức nội tại tiêu cực chưa được phản ánh hết. Sự chênh lệch cung-cầu cho thấy trạng thái ngắn hạn bị gãy cấu trúc kỹ thuật.
+  - **Hành động:** **Rủi ro vi phạm kịch bản**. Tuyệt đối không bắt đáy khi chưa có tín hiệu cân bằng tại vùng hỗ trợ cứng.
+- **Mã:** **POW**
+  - **Động lực (FA):** Thủ tướng yêu cầu không tăng giá điện.
+  - **Nhận định dòng tiền:** Áp lực đè nén lên biên lợi nhuận đầu ra. Dòng tiền có xu hướng thoái lui hoặc đứng ngoài chờ đợi tín hiệu chi phí đầu vào được kiểm soát tốt hơn.
+  - **Hành động:** **Tiếp tục quan sát**, thận trọng với vị thế mua mới.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR (Đánh giá Tái cơ cấu):** Với dữ liệu hiện tại (giá dầu tăng hỗ trợ biên lợi nhuận), vị thế BSR vẫn đang hưởng lợi trực tiếp từ chu kỳ giá năng lượng. Chưa xuất hiện tín hiệu cần cắt/chốt lời bắt buộc để đảo dòng tiền. Duy trì theo dõi sát diễn biến giá dầu thế giới làm căn cứ xoay vòng vốn.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **BSR:** Dữ liệu nguồn cung dầu thô qua Hormuz ổn định, kết hợp với các chỉ số vĩ mô tích cực (GDP, xuất siêu) giúp duy trì triển vọng ổn định cho doanh nghiệp lọc hóa dầu. **Khuyến nghị: Duy trì vị thế**, không cần thực hiện tái cơ cấu trong giai đoạn này.
