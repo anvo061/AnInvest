@@ -1,28 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:30 - 03/10/2026
+⏱ Thời gian: 02:05 - 04/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **FDI và Đầu tư công:** Vốn FDI vào TP.HCM tăng đột biến (gấp 4 lần), kết hợp chỉ đạo đẩy nhanh giải ngân đầu tư công và gia hạn giảm thuế nhiên liệu đến cuối 2026 -> **Tích cực** -> Dòng tiền sẽ hướng mạnh vào nhóm: Bất động sản Khu công nghiệp, Logistics, Xây lắp hạ tầng và Vật liệu xây dựng.
-- **Pháp lý thị trường:** Sửa đổi Luật Chứng khoán và tái khởi động dự án BĐS lớn tại Đà Nẵng -> **Tích cực** -> Củng cố thanh khoản nhóm Chứng khoán và phục hồi tâm lý nhóm Bất động sản dân cư.
+- **Fed dự kiến dừng tăng lãi suất & Sửa đổi Luật Chứng khoán:** -> Tác động: **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Chứng khoán (SSI, VND)** và **Bất động sản (VHM, PDR)** nhờ kỳ vọng thanh khoản thị trường tăng và giảm áp lực chi phí tài chính.
+- **Thủ tướng yêu cầu giữ ổn định giá điện:** -> Tác động: **Trung lập/Tiêu cực** đối với các doanh nghiệp phát điện (POW) do áp lực biên lợi nhuận, nhưng hỗ trợ ổn định vĩ mô chung cho thị trường.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, GMD**
-    - Động lực (FA): Hưởng lợi kép từ dòng vốn FDI đổ bộ mạnh vào TP.HCM và chính sách giảm chi phí logistics thông qua gia hạn thuế nhiên liệu.
-    - Nhận định dòng tiền: Dòng tiền có xu hướng gia tăng tại nhóm hạ tầng logistics và KCN do tính ổn định của dòng tiền thực từ khối FDI.
-    - Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật.
 - **Mã: SSI**
-    - Động lực (FA): Hưởng lợi trực tiếp từ định hướng sửa Luật Chứng khoán (thu hút doanh nghiệp lớn lên sàn).
-    - Nhận định dòng tiền: Kỳ vọng gia tăng thanh khoản thị trường chung sẽ là động lực tăng trưởng cho SSI.
-    - Hành động: Tiếp tục quan sát, ưu tiên nắm giữ.
-- **Mã: DXG**
-    - Động lực (FA): Dự án tại Đà Nẵng (15.500 tỷ) tái khởi động sau 1 thập kỷ.
-    - Nhận định dòng tiền: Giải tỏa tâm lý tiêu cực cho dự án, dòng tiền ngắn hạn có thể quay lại vùng giá hỗ trợ.
-    - Hành động: Chú ý giải ngân vị thế ngắn hạn nếu dòng tiền xác nhận vượt cản kỹ thuật.
-- **Mã: HDC**
-    - Động lực (FA): Tổng giám đốc bán 700.000 cổ phiếu.
-    - Nhận định dòng tiền: Áp lực cung nội bộ gây tâm lý e ngại, dòng tiền ngắn hạn sẽ suy yếu.
-    - Hành động: Rủi ro vi phạm kịch bản, cần thận trọng quan sát áp lực bán tại các vùng hỗ trợ.
-- **Mã: VCG, HHV, LCG**
-    - Động lực (FA): Chỉ đạo quyết liệt từ Phó Thủ tướng về tiến độ giải ngân đầu tư công.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ hạ tầng sẽ duy trì trạng thái tích cực.
-    - Hành động: Tiếp tục quan sát điểm vào theo xu hướng ngành.
+  - Động lực (FA): Hưởng lợi kép từ việc sửa đổi Luật Chứng khoán và môi trường lãi suất Fed ổn định.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền lớn chảy vào nhóm đầu ngành dẫn dắt thanh khoản.
+  - Hành động: **Chú ý giải ngân** nếu xuất hiện phiên bùng nổ thanh khoản đi kèm tin tức được xác nhận.
+- **Mã: BSR**
+  - Động lực (FA): Giá xăng dầu tăng giúp cải thiện biên lợi nhuận lọc hóa dầu.
+  - Nhận định dòng tiền: Tích cực ngắn hạn nhờ sự đồng thuận của giá dầu.
+  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng giá hiện tại.
+- **Mã: MWG, HDB, DGW, SHS**
+  - Động lực (FA): Lịch chốt quyền cổ tức tiền mặt/cổ phiếu tuần tới.
+  - Nhận định dòng tiền: Tạo tâm lý "neo giữ" giá cổ phiếu trước ngày chốt quyền, giảm áp lực bán tháo.
+  - Hành động: **Tiếp tục quan sát** biến động tỷ trọng danh mục trước thời điểm chốt quyền.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR (Đánh giá Tái cơ cấu):** Với dữ liệu hiện tại (giá dầu tăng hỗ trợ biên lợi nhuận), vị thế BSR vẫn đang hưởng lợi trực tiếp từ chu kỳ giá năng lượng. Chưa xuất hiện tín hiệu cần cắt/chốt lời bắt buộc để đảo dòng tiền. Duy trì theo dõi sát diễn biến giá dầu thế giới làm căn cứ xoay vòng vốn.
