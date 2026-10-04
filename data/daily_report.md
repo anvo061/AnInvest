@@ -1,24 +1,29 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:00 - 04/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 02:10 ngày 05/10/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực tỷ giá USD/VND lên đỉnh 16 tháng:** Tác động tiêu cực lên nhóm ngành có nợ vay USD lớn (BĐS, Điện) và tạo rủi ro thắt chặt tiền tệ -> Dòng tiền có xu hướng phân hóa mạnh: Trú ẩn vào nhóm xuất khẩu (Thủy sản, Dệt may) và rút khỏi nhóm có đòn bẩy tài chính cao.
-- **Rủi ro truy thu thuế đất:** Tác động tiêu cực trực tiếp lên biên lợi nhuận nhóm BĐS -> Cần quan sát kỹ dòng tiền rút khỏi nhóm này trong ngắn hạn.
-- **Căng thẳng địa chính trị Nga (Nguồn cung dầu):** Tác động tích cực lên nhóm thượng nguồn dầu khí (PVD, PVS) -> Dòng tiền dự kiến luân chuyển sang nhóm năng lượng.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tăng trưởng GDP quý 3/2026 đạt gần 10%:** -> **Tích cực:** Tạo nền tảng vĩ mô vững chắc, kích hoạt kỳ vọng lợi nhuận doanh nghiệp và dòng vốn ngoại. -> **Dòng tiền hướng vào:** Nhóm Ngân hàng (VCB) và Chứng khoán (SSI, HCM).
+- **USD đạt đỉnh 16 tháng & Áp lực tỷ giá:** -> **Tiêu cực:** Làm tăng chi phí tài chính (nợ ngoại tệ) và áp lực lên doanh nghiệp BĐS (NVL) và điện (POW); ngược lại hỗ trợ nhóm xuất khẩu (VHC, TNG).
+- **Triển khai giải pháp nâng hạng thị trường:** -> **Tích cực:** Tăng tính minh bạch, hỗ trợ thanh khoản dài hạn. -> **Dòng tiền hướng vào:** Nhóm Chứng khoán (SSI, HCM).
+- **Truy thu thuế đất BĐS:** -> **Tiêu cực:** Tăng chi phí bất thường, áp lực dòng tiền lên nhóm BĐS (NVL, DXG, DIG).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VCB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ GDP tăng trưởng đột biến (10%), nhu cầu tín dụng bùng nổ.
+    - Nhận định dòng tiền: Hỗ trợ xu hướng tăng nhờ nền tảng vĩ mô tốt.
+    - Hành động: Chú ý giải ngân theo nhịp điều chỉnh.
+- **Mã: SSI**
+    - Động lực (FA): Tổng hợp từ thông tin nâng hạng thị trường và thanh khoản tăng nhờ kỳ vọng kinh tế.
+    - Nhận định dòng tiền: Dòng tiền thông minh có khả năng tập trung cao độ vào mã đầu ngành chứng khoán.
+    - Hành động: Tiếp tục nắm giữ, gia tăng tỷ trọng nếu vượt kháng cự gần.
 - **Mã: NVL**
-    - Động lực (FA): Chịu kép áp lực từ tỷ giá (chi phí nợ vay ngoại tệ tăng) và thông tin truy thu thuế đất.
-    - Nhận định dòng tiền: Khả năng cao bị bán mạnh do tâm lý lo ngại rủi ro tài chính và thanh khoản.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng.
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu thế giới tăng do gián đoạn nguồn cung từ Nga.
-    - Nhận định dòng tiền: Hưởng lợi từ sự dịch chuyển dòng tiền sang nhóm năng lượng có động lực tăng trưởng trực tiếp từ biến động giá hàng hóa.
-    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận giữ vững vùng hỗ trợ.
-- **Mã: VHC / TNG**
-    - Động lực (FA): Đồng USD mạnh giúp tối ưu biên lợi nhuận quy đổi cho doanh nghiệp xuất khẩu.
-    - Nhận định dòng tiền: Nhóm phòng thủ có lợi nhuận thực tế, dòng tiền đầu cơ sẽ tìm đến để trú ẩn.
-    - Hành động: Tiếp tục quan sát vị thế mua.
+    - Động lực (FA): Chịu áp lực kép từ tỷ giá (nợ ngoại tệ) và truy thu thuế đất.
+    - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn cao do thông tin tiêu cực dồn dập.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng/cơ cấu danh mục.
+- **Mã: VHC, TNG**
+    - Động lực (FA): Hưởng lợi từ chênh lệch tỷ giá do đồng USD mạnh.
+    - Nhận định dòng tiền: Dòng tiền phòng thủ và xuất khẩu sẽ trú ẩn vào các mã này.
+    - Hành động: Chú ý giải ngân/theo dõi sát biến động tỷ giá.
 
-🔄 3. Cảnh báo Tái cơ cấu (BSR):
-- **Nhận định:** Tin tức về giá dầu tăng giúp cải thiện giá bán đầu ra cho BSR, tạo động lực tốt hơn so với dự kiến. Tuy nhiên, cần đối chiếu với biên lợi nhuận lọc dầu thực tế. Tạm thời giữ vị thế, theo dõi sát diễn biến giá dầu thế giới trong 48h tới để quyết định điểm chốt lời kỳ vọng.
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện tại không có tin tức trực tiếp về EIB, BSR. Tiếp tục giữ trạng thái theo chiến lược trung hạn, quan sát kỹ phản ứng của nhóm ngành Ngân hàng (EIB) trước thông tin về thông tư quản trị rủi ro mới.
