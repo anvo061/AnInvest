@@ -1,20 +1,22 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 05:00 - 04/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 07:30 - 04/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **GDP Quý III tăng trưởng ấn tượng 9,95% & Tín dụng tăng 11,6%:** Dữ liệu vĩ mô cho thấy nền kinh tế đang trong chu kỳ phục hồi mạnh mẽ, củng cố kỳ vọng về tăng trưởng lợi nhuận doanh nghiệp niêm yết cuối năm. -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Ngân hàng (VCB, TCB, MBB)**, **Bán lẻ (MWG)**, **Khu công nghiệp (SZC)** và **Chứng khoán (SSI)**.
-- **Cán cân thương mại xuất siêu 1,27 tỷ USD:** Giảm áp lực lên tỷ giá và dự trữ ngoại hối, tạo dư địa chính sách tiền tệ. -> **Tích cực** -> Hưởng lợi trực tiếp nhóm **Xuất khẩu (VHC, TNG)** và **Logistics/Cảng biển (GMD, HAH)**.
-- **Dự án hạ tầng trọng điểm (Đường sắt tốc độ cao) khởi động:** Đẩy mạnh nhu cầu vật liệu xây dựng. -> **Tích cực** -> Dòng tiền hướng về nhóm **Thép (HPG)** và **Khai thác đá (VLB)**.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Đồng USD mạnh lên gây áp lực lên tỷ giá VND: Tác động **Tiêu cực** đến nhóm doanh nghiệp có nợ vay USD lớn hoặc nhập khẩu nguyên liệu (POW, GAS) do tăng chi phí tài chính và rủi ro lỗ tỷ giá.
+- Tâm lý thị trường suy yếu sau đà giảm tháng 9: Tác động **Tiêu cực** đến nhóm ngành Chứng khoán (SSI, VND, VCI) do rủi ro thanh khoản và áp lực giải chấp (margin call).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **PNJ**
-  - **Động lực (FA):** Lực bán tháo mạnh, nằm sàn bất chấp nỗ lực bắt đáy.
-  - **Nhận định dòng tiền:** Áp lực thoát hàng mang tính hệ thống hoặc tin tức nội tại tiêu cực chưa được phản ánh hết. Sự chênh lệch cung-cầu cho thấy trạng thái ngắn hạn bị gãy cấu trúc kỹ thuật.
-  - **Hành động:** **Rủi ro vi phạm kịch bản**. Tuyệt đối không bắt đáy khi chưa có tín hiệu cân bằng tại vùng hỗ trợ cứng.
-- **Mã:** **POW**
-  - **Động lực (FA):** Thủ tướng yêu cầu không tăng giá điện.
-  - **Nhận định dòng tiền:** Áp lực đè nén lên biên lợi nhuận đầu ra. Dòng tiền có xu hướng thoái lui hoặc đứng ngoài chờ đợi tín hiệu chi phí đầu vào được kiểm soát tốt hơn.
-  - **Hành động:** **Tiếp tục quan sát**, thận trọng với vị thế mua mới.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **POW, GAS**
+- Động lực (FA): Áp lực tỷ giá từ thị trường trái phiếu toàn cầu (global bond selloff).
+- Nhận định dòng tiền: Dòng tiền sẽ có xu hướng rút khỏi các mã chịu áp lực nợ vay ngoại tệ để tránh rủi ro tỷ giá trong ngắn hạn.
+- Hành động: **Rủi ro vi phạm kịch bản**; theo dõi sát diễn biến tỷ giá, hạn chế bắt đáy khi áp lực từ USD chưa hạ nhiệt.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-- **BSR:** Dữ liệu nguồn cung dầu thô qua Hormuz ổn định, kết hợp với các chỉ số vĩ mô tích cực (GDP, xuất siêu) giúp duy trì triển vọng ổn định cho doanh nghiệp lọc hóa dầu. **Khuyến nghị: Duy trì vị thế**, không cần thực hiện tái cơ cấu trong giai đoạn này.
+- Mã: **VDS**
+- Động lực (FA): Nghị quyết phát hành trái phiếu lần 4 năm 2026 bổ sung vốn lưu động.
+- Nhận định dòng tiền: Tích cực cho năng lực cho vay margin, tạo đối trọng với xu hướng thị trường chung đang yếu.
+- Hành động: **Chú ý giải ngân** nếu thị trường chung cân bằng lại, ưu tiên các mã có nguồn vốn chủ động.
+
+- Mã: **PNJ**
+- Động lực (FA): Áp lực bán tháo diện rộng, lực bắt đáy chưa đủ hấp thụ nguồn cung (nằm sàn 5 phiên liên tiếp).
+- Nhận định dòng tiền: Dòng tiền thông minh đang tháo chạy, cấu trúc kỹ thuật bị gãy nghiêm trọng.
+- Hành động: **Rủi ro vi phạm kịch bản**; tuyệt đối không trung bình giá, quan sát chờ tín hiệu dừng bán (volume cạn kiệt) tại các vùng hỗ trợ cứng.
