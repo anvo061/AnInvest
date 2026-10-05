@@ -1,21 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ Thời gian: 22:30, ngày 05/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 05:30 (06/10/2026)
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Cảnh báo tăng trưởng GDP:** Việc Việt Nam đối mặt khó khăn trong việc đạt mục tiêu tăng trưởng 10% tạo áp lực tâm lý tiêu cực trên toàn thị trường, đặc biệt là nhóm cổ phiếu chu kỳ và tài chính nhạy cảm với tăng trưởng tín dụng. -> **Đánh giá: Tiêu cực** -> **Dòng tiền:** Có xu hướng rút khỏi các mã vốn hóa lớn (Bluechips) và chuyển dịch sang trạng thái phòng thủ hoặc giữ tiền mặt.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Đồng USD tiệm cận đỉnh năm & Lạm phát Eurozone tăng cao**: -> [Đánh giá: Tiêu cực] -> [Dòng tiền phân hóa: Rút khỏi nhóm nợ vay ngoại tệ lớn/nhập khẩu (POW, HPG) và ưu tiên nhóm xuất khẩu hưởng lợi tỷ giá (VHC, TNG)].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: DGC, HVN**
-    - **Động lực (FA):** Bị HOSE cắt margin quý 4/2026.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ sẽ rút mạnh do đòn bẩy tài chính bị triệt tiêu, áp lực bán kỹ thuật để đưa tỷ lệ ký quỹ về mức an toàn sẽ gia tăng trong các phiên tới.
-    - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên hạ tỷ trọng nếu đang nắm giữ.
-- **Mã: PNJ**
-    - **Động lực (FA):** Vốn hóa sụt giảm mạnh, rời khỏi Top 100 doanh nghiệp lớn nhất thị trường.
-    - **Nhận định dòng tiền:** Rủi ro bị các quỹ ETF/quỹ chủ động cơ cấu danh mục (bán bắt buộc) để cân đối lại tỷ trọng theo quy mô vốn hóa.
-    - **Hành động:** Tiếp tục quan sát, tránh bắt đáy khi chưa có tín hiệu dừng bán từ khối ngoại/tổ chức.
-- **Mã: GEG, TPB**
-    - **Động lực (FA):** Rủi ro đàm phán lại giá điện và khả năng nợ xấu từ dự án năng lượng tái tạo.
-    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn sẽ né tránh nhóm năng lượng tái tạo và các ngân hàng có danh mục cho vay dự án này do lo ngại trích lập dự phòng.
-    - **Hành động:** Rủi ro vi phạm kịch bản; theo dõi sát diễn biến giá để thoát vị thế nếu có tín hiệu gãy nền.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: SSI**
+    - Động lực (FA): Thị phần môi giới quý 3/2026 tăng trưởng mạnh, củng cố vị thế dẫn đầu.
+    - Nhận định dòng tiền: Tin tức tích cực về thị phần giúp cân bằng lại tâm lý tiêu cực từ cảnh báo vĩ mô về mục tiêu tăng trưởng GDP. Dòng tiền có thể duy trì trạng thái tích lũy thay vì bán tháo mạnh.
+    - Hành động: Tiếp tục quan sát vùng hỗ trợ kỹ thuật, không vội giải ngân trong bối cảnh khối ngoại bán ròng và thị trường chung rủi ro.
 
-⚠️ **Lưu ý tổng quan:** Với dự báo VN-Index có thể lùi về 1.660 điểm và áp lực bán ròng từ khối ngoại, hệ thống khuyến nghị ưu tiên bảo toàn vốn, tránh tâm lý "bắt đáy" tại các nhóm cổ phiếu đang bị cắt margin và các mã có tin tức tiêu cực về vốn hóa.
+- **Mã: TCB**
+    - Động lực (FA): TCBS đạt mốc 10% thị phần môi giới; hưởng lợi tâm lý từ sự phục hồi của hệ sinh thái Vingroup.
+    - Nhận định dòng tiền: Có động lực nội tại mạnh mẽ, khả năng kháng cự trước áp lực điều chỉnh chung của VN-Index tốt hơn các mã ngân hàng khác.
+    - Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền nội cân được áp lực bán từ khối ngoại.
+
+- **Mã: VHC, TNG**
+    - Động lực (FA): Hưởng lợi trực tiếp từ đà tăng của USD (tỷ giá).
+    - Nhận định dòng tiền: Dòng tiền phòng thủ có xu hướng tìm đến nhóm này như hầm trú ẩn trong bối cảnh áp lực tỷ giá và lạm phát toàn cầu gia tăng.
+    - Hành động: Chú ý giải ngân theo chiến lược tích sản khi tỷ giá biến động.
