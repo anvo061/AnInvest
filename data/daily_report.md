@@ -1,23 +1,26 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:20 - 05/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 08:15 (05/10/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng trưởng GDP Q3/2026 đạt ~10% & Triển khai giải pháp nâng hạng thị trường:** -> [Tích cực] -> Dòng tiền kỳ vọng xoay trục mạnh vào nhóm **Chứng khoán (SSI, HCM)** và **Ngân hàng (VCB)** nhờ bệ đỡ vĩ mô và kỳ vọng thanh khoản mới.
-- **Sụt giảm đơn hàng xuất khẩu cuối năm:** -> [Tiêu cực] -> Áp lực bán tiềm ẩn lên nhóm **Dệt may (TNG, MSH)** và **Thủy sản (VHC, ANV)** do rủi ro biên lợi nhuận bị thu hẹp.
-- **Giá LNG toàn cầu tăng cao:** -> [Tiêu cực] -> Tăng chi phí đầu vào trực tiếp cho nhóm **Nhiệt điện khí (POW)**.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Cơ chế tự quyết giá xăng dầu:** Bộ ngành hướng tới việc cho phép doanh nghiệp đầu mối tự quyết giá -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm phân phối xăng dầu đầu nguồn (**PLX, OIL**).
+- **Thúc đẩy hạ tầng giao thông ĐBSCL:** Tiếp tục nhấn mạnh tính cấp bách của các dự án hạ tầng lớn -> **Tích cực** -> Dòng tiền tập trung nhóm xây dựng hạ tầng (**VCG, HHV**).
+- **Áp lực nợ xấu ngân hàng:** Ngân hàng chật vật thanh lý tài sản bảo đảm, giảm giá sâu để thu hồi nợ -> **Tiêu cực** -> Tạo rủi ro dư nợ xấu lên nhóm tài chính (**STB**).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TNG, MSH, VHC, ANV**
-  - Động lực (FA): Đơn hàng xuất khẩu thưa dần giai đoạn cuối năm.
-  - Nhận định dòng tiền: Áp lực chốt lời ngắn hạn tăng cao, khả năng dòng tiền sẽ rút khỏi các mã này để chuyển dịch sang nhóm hưởng lợi từ tăng trưởng GDP (Tài chính).
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, hạ tỷ trọng nếu mất các vùng hỗ trợ kỹ thuật gần nhất.
-
-- **Mã: SSI, HCM, VCB**
-  - Động lực (FA): Hợp lưu tin tức tích cực từ GDP bùng nổ và các nhóm giải pháp thúc đẩy nâng hạng thị trường.
-  - Nhận định dòng tiền: Dòng tiền thông minh (smart money) có xu hướng tập trung mạnh vào các cổ phiếu đầu ngành có độ nhạy cao với tăng trưởng kinh tế.
-  - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc trong phiên theo xu hướng tăng trưởng chung của VN-Index.
-
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: PNJ**
+    - **Động lực (FA):** Áp lực bán tháo 5 phiên liên tiếp, rủi ro call margin diện rộng.
+    - **Nhận định dòng tiền:** Dòng tiền tháo chạy mạnh, cấu trúc kỹ thuật bị phá vỡ, chưa có dấu hiệu cân bằng.
+    - **Hành động:** Rủi ro vi phạm kịch bản – Tuyệt đối không bắt đáy khi chưa có tín hiệu ngưng bán (stop-loss hoặc khối lượng hấp thụ đột biến).
+- **Mã: PVD**
+    - **Động lực (FA):** Giá dầu thế giới có xu hướng tăng.
+    - **Nhận định dòng tiền:** Hưởng lợi từ sự cải thiện giá thuê giàn khoan, dòng tiền có thể trú ẩn vào nhóm thượng nguồn trong bối cảnh thị trường chung biến động.
+    - **Hành động:** Chú ý giải ngân nếu giữ vững nền giá ngắn hạn.
 - **Mã: POW**
-  - Động lực (FA): Giá LNG nhập khẩu tăng gây áp lực chi phí.
-  - Nhận định dòng tiền: Dòng tiền có thể trở nên thận trọng, hạn chế đà tăng của cổ phiếu trong ngắn hạn.
-  - Hành động: **Tiếp tục quan sát** phản ứng của giá tại các vùng hỗ trợ cứng, tránh giải ngân đuổi khi biên lợi nhuận bị đe dọa.
+    - **Động lực (FA):** Trung Quốc giảm nhập khẩu LNG do giá cao, gây áp lực chi phí đầu vào.
+    - **Nhận định dòng tiền:** Rủi ro biên lợi nhuận thu hẹp có thể kích hoạt lực bán ngắn hạn.
+    - **Hành động:** Quan sát, ưu tiên bảo toàn vị thế.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **Mã: BSR**
+    - **Nhận định:** Giá dầu tăng tạo thế giằng co giữa doanh thu và chi phí đầu vào (crack spread). Đã quá thời hạn mục tiêu (tháng 3/2026), dữ liệu hiện tại không cho thấy động lực tăng trưởng đột phá đủ để nắm giữ dài hạn. 
+    - **Hành động:** **Cân nhắc cơ cấu/chốt lời** để chuyển dịch dòng tiền sang các mã có câu chuyện hạ tầng hoặc cơ chế chính sách mới (như PLX/VCG).
