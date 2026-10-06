@@ -1,21 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:30 (06/10/2026)
+⏱ Thời gian: 09:30 ngày 06/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đồng USD tiệm cận đỉnh năm & Lạm phát Eurozone tăng cao**: -> [Đánh giá: Tiêu cực] -> [Dòng tiền phân hóa: Rút khỏi nhóm nợ vay ngoại tệ lớn/nhập khẩu (POW, HPG) và ưu tiên nhóm xuất khẩu hưởng lợi tỷ giá (VHC, TNG)].
+- **Áp lực lãi suất cho vay & Tỷ giá:** Lãi suất cho vay leo thang kết hợp với USD neo cao tạo áp lực lớn lên chi phí tài chính và nợ vay ngoại tệ của doanh nghiệp -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi các nhóm ngành thâm dụng vốn/nợ vay cao (Bất động sản, Điện) và dịch chuyển sang nhóm xuất khẩu hưởng lợi tỷ giá (Thủy sản, Dệt may).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-    - Động lực (FA): Thị phần môi giới quý 3/2026 tăng trưởng mạnh, củng cố vị thế dẫn đầu.
-    - Nhận định dòng tiền: Tin tức tích cực về thị phần giúp cân bằng lại tâm lý tiêu cực từ cảnh báo vĩ mô về mục tiêu tăng trưởng GDP. Dòng tiền có thể duy trì trạng thái tích lũy thay vì bán tháo mạnh.
-    - Hành động: Tiếp tục quan sát vùng hỗ trợ kỹ thuật, không vội giải ngân trong bối cảnh khối ngoại bán ròng và thị trường chung rủi ro.
-
-- **Mã: TCB**
-    - Động lực (FA): TCBS đạt mốc 10% thị phần môi giới; hưởng lợi tâm lý từ sự phục hồi của hệ sinh thái Vingroup.
-    - Nhận định dòng tiền: Có động lực nội tại mạnh mẽ, khả năng kháng cự trước áp lực điều chỉnh chung của VN-Index tốt hơn các mã ngân hàng khác.
-    - Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền nội cân được áp lực bán từ khối ngoại.
-
-- **Mã: VHC, TNG**
-    - Động lực (FA): Hưởng lợi trực tiếp từ đà tăng của USD (tỷ giá).
-    - Nhận định dòng tiền: Dòng tiền phòng thủ có xu hướng tìm đến nhóm này như hầm trú ẩn trong bối cảnh áp lực tỷ giá và lạm phát toàn cầu gia tăng.
-    - Hành động: Chú ý giải ngân theo chiến lược tích sản khi tỷ giá biến động.
+- **Mã: VHM, NVL, PDR (Bất động sản)**
+    - Động lực (FA): Lãi suất cho vay tăng gây khó khăn cho tiến độ bán hàng và áp lực nợ vay.
+    - Nhận định dòng tiền: Dòng tiền sẽ chịu áp lực bán cắt lỗ hoặc cơ cấu lại danh mục để tránh rủi ro chi phí lãi vay ăn mòn lợi nhuận.
+    - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên hạ tỷ trọng hoặc đứng ngoài quan sát.
+- **Mã: VHC, TNG (Xuất khẩu)**
+    - Động lực (FA): USD mạnh tạo lợi thế chênh lệch tỷ giá cho doanh nghiệp có doanh thu bằng USD.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng tìm đến nhóm phòng thủ hưởng lợi từ tỷ giá để trú ẩn.
+    - Hành động: **Chú ý giải ngân** nếu xuất hiện điểm re-test hỗ trợ kỹ thuật.
+- **Mã: SSI, TCB (Chứng khoán/Ngân hàng)**
+    - Động lực (FA): SSI củng cố thị phần môi giới; TCBS (công ty con TCB) lần đầu vượt mốc 10% thị phần.
+    - Nhận định dòng tiền: Thông tin tích cực về thị phần giúp củng cố niềm tin dòng tiền dài hạn, tạo lực đỡ cho nhóm tài chính.
+    - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại các vùng hỗ trợ cứng.
