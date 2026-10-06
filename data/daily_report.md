@@ -1,24 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 16:15 - 06/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 22:50 ngày 06/10/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **World Bank nâng dự báo tăng trưởng GDP Việt Nam lên 7,4%** -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm Ngân hàng (động lực tín dụng), Chứng khoán (thanh khoản thị trường) và Logistics/Cảng biển (kỳ vọng lưu thông hàng hóa).
-- **Đề xuất thu thuế 0,2% với đất bỏ hoang** -> **Tiêu cực** -> Tạo áp lực thanh khoản ngắn hạn lên nhóm Bất động sản (VHM, NVL, DIG, DXG) do áp lực chi phí và tiến độ dự án.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Ngân hàng:** Dòng tiền phân hóa mạnh giữa áp lực bán ròng ngoại khối (tập trung tại STB) và kỳ vọng định giá lại từ tăng trưởng lợi nhuận (VPB). -> **Trung lập.**
+- **Bán lẻ:** Áp lực bán tháo tại PNJ (cổ phiếu đầu ngành) gây hiệu ứng tiêu cực lan tỏa, xác nhận rủi ro điều chỉnh nhóm. -> **Tiêu cực.**
+- **Năng lượng:** Cảnh báo an ninh năng lượng từ IEA thúc đẩy hạ tầng điện/khí (POW, GAS, PC1). -> **Tích cực.**
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VPB**
-  - Động lực (FA): Dự báo lợi nhuận dẫn đầu nhóm ngân hàng tư nhân.
-  - Nhận định dòng tiền: Tin tức hỗ trợ củng cố vị thế dẫn dắt, có khả năng hút dòng tiền trong bối cảnh thị trường cần trụ đỡ.
-  - Hành động: **Chú ý giải ngân** nếu giữ được vùng hỗ trợ kỹ thuật cứng.
-- **Mã: PNJ**
-  - Động lực (FA): Áp lực bán tháo kéo dài, mất hơn 4 lần giá trị từ đỉnh.
-  - Nhận định dòng tiền: Dòng tiền đang rút mạnh, cấu trúc kỹ thuật suy yếu nghiêm trọng.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên đứng ngoài, không bắt đáy.
-- **Mã: HVN**
-  - Động lực (FA): Tiếp tục bị cắt margin, tài chính yếu kém.
-  - Nhận định dòng tiền: Thiếu trợ lực từ đòn bẩy, áp lực bán giải chấp duy trì.
-  - Hành động: **Rủi ro vi phạm kịch bản**, canh hồi phục để cơ cấu giảm tỷ trọng.
-- **Mã: VIC**
-  - Động lực (FA): Hợp tác Alstom sản xuất tàu metro và lợi nhuận 232 tỷ đồng.
-  - Nhận định dòng tiền: Tin tức tích cực về công nghiệp phụ trợ củng cố đà phục hồi.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng kháng cự gần nhất.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** PNJ
+  - **Động lực (FA):** "Cú ngã ngựa" rời khỏi top 100 vốn hóa và áp lực bán tháo hơn 14,7 triệu đơn vị sàn.
+  - **Nhận định dòng tiền:** Dòng tiền thoát chạy mạnh, rủi ro giải chấp chéo cao. Thanh khoản bán sàn cho thấy tâm lý hoảng loạn, chưa có điểm cân bằng kỹ thuật.
+  - **Hành động:** **Rủi ro vi phạm kịch bản**. Tuyệt đối không bắt đáy khi chưa có tín hiệu hấp thụ cung giá sàn tại các vùng hỗ trợ cứng.
+- **Mã:** STB
+  - **Động lực (FA):** Khối ngoại xả ròng hơn 2.000 tỷ đồng trong phiên 06/10.
+  - **Nhận định dòng tiền:** Áp lực cung lớn từ khối ngoại sẽ đè nặng tâm lý, khả năng cao kiểm định lại đáy ngắn hạn.
+  - **Hành động:** **Quan sát**, ưu tiên giữ tiền mặt, chờ dòng tiền nội lực hấp thụ hết áp lực từ khối ngoại.
+- **Mã:** PC1 (Theo dõi sát nhóm năng lượng)
+  - **Động lực (FA):** Ký hợp đồng dự án năng lượng 7.786 tỷ đồng; IEA cảnh báo an ninh năng lượng.
+  - **Nhận định dòng tiền:** Hưởng lợi từ câu chuyện vĩ mô dài hạn, dự kiến dòng tiền sẽ tìm đến như một kênh trú ẩn an toàn hơn nhóm bán lẻ.
+  - **Hành động:** **Chú ý giải ngân** nếu có nhịp điều chỉnh theo thị trường chung, ưu tiên vùng nền tích lũy.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- **EIB, BSR:** Chưa có tin tức đột biến trong chu kỳ này. **Giữ nguyên trạng thái quan sát.**
