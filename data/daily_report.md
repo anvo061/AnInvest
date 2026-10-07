@@ -1,21 +1,22 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 07/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 13:00 - 07/10/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- UBCKNN nghiên cứu giao dịch xuyên trưa và nới biên độ giá -> Tích cực -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)**.
-- GDP Việt Nam tăng trưởng vượt trội -> Tích cực -> Dòng tiền hướng vào nhóm **Ngân hàng (VCB, TCB)** và **BĐS Khu công nghiệp (GVR)**.
-- Chậm tiến độ dự án điện khí LNG (POW) và áp lực nhập khẩu thịt giá rẻ (DBC, BAF) -> Tiêu cực -> Áp lực điều chỉnh lên nhóm **Năng lượng và Chăn nuôi**.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Thắt chặt tiền tệ & Lãi suất:** Dữ liệu dịch vụ Mỹ hạ nhiệt nhưng giá cả tăng, cùng áp lực tín dụng "xé rào" trong nước tạo rủi ro thu hẹp biên NIM ngân hàng và tăng chi phí tài chính doanh nghiệp. -> **Đánh giá: Tiêu cực.** -> **Dòng tiền:** Thận trọng với nhóm Ngân hàng (đặc biệt mã đòn bẩy cao) và BĐS nợ vay lớn.
+- **Dư địa tín dụng:** Việc nâng trần LDR lên 95% là "cú hích" dài hạn cho các ngân hàng có chất lượng tài sản tốt và CASA cao. -> **Đánh giá: Tích cực (ngắn hạn bị nhiễu bởi áp lực lãi suất).** -> **Dòng tiền:** Phân hóa mạnh vào nhóm Ngân hàng quản trị rủi ro tốt (VCB, TCB, ACB).
+- **Xuất khẩu:** Nhu cầu nhập khẩu Mỹ kỷ lục hỗ trợ nhóm xuất khẩu. -> **Đánh giá: Tích cực.** -> **Dòng tiền:** Hướng vào nhóm Dệt may, Thủy sản, Gỗ (TNG, VHC, PTB).
+- **Thuế đất bỏ hoang:** Đề xuất đánh thuế 0,2% gây áp lực chi phí trực tiếp lên các chủ đầu tư sở hữu quỹ đất lớn. -> **Đánh giá: Tiêu cực.** -> **Dòng tiền:** Áp lực thoát hàng hoặc điều chỉnh dự án tại NVL, DIG, DXG.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SSI, VND, VCI, HCM**
-  - Động lực (FA): UBCKNN đang nghiên cứu nới biên độ và giao dịch xuyên trưa.
-  - Nhận định dòng tiền: Kỳ vọng gia tăng thanh khoản toàn thị trường, trực tiếp cải thiện doanh thu phí môi giới và lãi margin.
-  - Hành động: Chú ý giải ngân (tăng tỷ trọng nếu thanh khoản thị trường mở phiên xác nhận xu hướng tăng).
-- Mã: **FPT**
-  - Động lực (FA): Áp lực bán kỹ thuật 10 phiên liên tiếp.
-  - Nhận định dòng tiền: Cung ngắn hạn đang áp đảo, tâm lý thận trọng bao trùm lên nhóm công nghệ.
-  - Hành động: Tiếp tục quan sát (chưa bắt đáy khi xu hướng hồi phục chưa xác lập).
-- Mã: **POW**
-  - Động lực (FA): Chậm tiến độ các nhà máy điện khí LNG.
-  - Nhận định dòng tiền: Triển vọng tăng trưởng trung hạn bị thu hẹp, khả năng cao sẽ bị khối ngoại/tổ chức cơ cấu giảm tỷ trọng.
-  - Hành động: Rủi ro vi phạm kịch bản (cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng).
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **PNJ**
+  - **Động lực (FA):** Tổ chức nước ngoài bán ròng đột biến trong phiên khớp lệnh kỷ lục.
+  - **Nhận định dòng tiền:** Mất cân bằng cung cầu, tạo rào cản tâm lý ngắn hạn.
+  - **Hành động:** Quan sát vùng hỗ trợ kỹ thuật gần nhất; tạm dừng giải ngân mới để chờ ổn định cung cầu.
+- **Mã:** **NVL, DIG, DXG**
+  - **Động lực (FA):** Đề xuất đánh thuế 0,2% trên đất bỏ hoang làm tăng chi phí cơ hội và gánh nặng nợ vay.
+  - **Nhận định dòng tiền:** Tâm lý tiêu cực đè nặng, rủi ro điều chỉnh theo tin tức.
+  - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên hạ tỷ trọng nếu thủng nền giá hỗ trợ gần nhất.
+- **Mã:** **VCB, TCB, ACB**
+  - **Động lực (FA):** Hưởng lợi từ việc nới trần LDR lên 95% bù đắp cho áp lực lãi suất đầu vào.
+  - **Nhận định dòng tiền:** Phân hóa, dòng tiền thông minh tập trung vào mã có CASA tốt.
+  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc do ảnh hưởng tiêu cực chung của ngành.
