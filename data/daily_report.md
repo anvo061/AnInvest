@@ -1,20 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 19:20 - 07/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 02:15 - 08/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Lãi suất huy động tăng:** Tác động **Tiêu cực** đến nhóm Bất động sản đòn bẩy cao (NVL, PDR) và nhóm Chứng khoán (SSI) do chi phí vốn tăng; Ngược lại **Tích cực** nhẹ đến nhóm Ngân hàng (VCB) nhờ cải thiện NIM.
-- **Tăng trưởng tín dụng Q4 & Gói tín dụng NOXH (153.000 tỷ):** Động lực **Tích cực** cho nhóm Ngân hàng thương mại (BID, CTG, TCB) và nhóm Bất động sản dân dụng/nhà ở xã hội (NLG).
-- **Cơ chế tự quyết giá xăng dầu:** Động lực **Tích cực** giúp tối ưu biên lợi nhuận cho nhóm phân phối (PLX, OIL).
-- **Tăng trưởng Trung tâm dữ liệu toàn cầu:** Động lực **Tích cực** cho nhóm Công nghệ (FPT, CMG).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Năng lượng:** Dự trữ dầu thô thế giới xuống thấp kỷ lục đẩy giá dầu neo cao -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Dầu khí thượng nguồn: PVD, PVS].
+- **Đầu tư công & Địa phương:** Chính phủ yêu cầu 9 địa phương trọng điểm tăng trưởng >15% trong Q4 -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Hạ tầng, Xây dựng, Bất động sản khu công nghiệp].
+- **Thị trường chung:** Khối ngoại bán ròng mạnh 900 tỷ đồng (tập trung VHM, HPG, MSN, VCB) -> [Tác động: Tiêu cực] -> [Áp lực điều chỉnh lên các mã Bluechips, gây tâm lý thận trọng ngắn hạn].
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: NVL**
-  - **Động lực (FA):** Trái chủ chuyển đổi nợ thành cổ phiếu giá 34.000 đ/cp (cao gấp 3 lần thị giá).
-  - **Nhận định dòng tiền:** Dù áp lực lãi suất là biến số xấu, nhưng việc giảm nợ vay thực tế giúp giảm rủi ro "bể" cấu trúc tài chính, tạo nền tảng ổn định tâm lý.
-  - **Hành động:** Tiếp tục quan sát. Nếu giá giữ vững trên vùng hỗ trợ cứng, đây là tín hiệu tái cấu trúc thành công từ phía chủ nợ.
-- **Mã: PNJ**
-  - **Động lực (FA):** Vốn hóa thủng ngưỡng 10.000 tỷ, quỹ ngoại bán tháo.
-  - **Nhận định dòng tiền:** Lực bán chủ động từ khối ngoại đang lấn át hoàn toàn cầu nội. Rủi ro giải chấp chéo và mất vùng hỗ trợ kỹ thuật đang ở mức cao.
-  - **Hành động:** Rủi ro vi phạm kịch bản. Tránh bắt đáy cho đến khi có tín hiệu dừng bán từ khối ngoại.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** PVD
+- **Động lực (FA):** Giá dầu thế giới hưởng lợi từ nguồn dự trữ dầu toàn cầu xuống mức thấp kỷ lục.
+- **Nhận định dòng tiền:** Cổ phiếu có nền tảng cơ bản hưởng lợi trực tiếp từ chu kỳ giá dầu, kỳ vọng thu hút dòng tiền trú ẩn khi các cổ phiếu Bluechips bị khối ngoại xả mạnh.
+- **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc do áp lực chung của thị trường.
 
-⚠️ **LƯU Ý:** Các tin tức về biến động giá không rõ mã (CafeF) hoặc vấn đề hành chính (thuế, thông báo niêm yết) được hệ thống loại bỏ vì không có trọng số tác động dòng tiền thực chiến.
+- **Mã:** BSR
+- **Động lực (FA):** Biên lợi nhuận lọc hóa dầu kỳ vọng cải thiện nhờ giá dầu duy trì ở mức cao.
+- **Nhận định dòng tiền:** Hưởng lợi từ sự thiếu hụt nguồn cung dầu thô toàn cầu.
+- **Hành động:** Tiếp tục quan sát để tìm điểm vào theo vùng hỗ trợ kỹ thuật.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **BSR (Danh mục trung hạn):** Dữ liệu vĩ mô (dự trữ dầu thấp) đang củng cố luận điểm đầu tư cơ bản cho doanh nghiệp. **Quyết định: Duy trì vị thế nắm giữ**, chưa cần cơ cấu lại lúc này.
