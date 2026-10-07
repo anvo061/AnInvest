@@ -1,22 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:55, ngày 07/10/2026
+⏱ Thời gian: 07:15 - 07/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Mỹ thâm hụt thương mại kỷ lục do nhập khẩu tăng mạnh -> Tác động: Tích cực -> Dòng tiền hướng vào nhóm ngành xuất khẩu (Thủy sản: VHC, Dệt may: TNG).
-- Đề xuất giao dịch chứng khoán xuyên trưa và nới biên độ -> Tác động: Tích cực -> Dòng tiền kỳ vọng cải thiện thanh khoản cho nhóm Công ty Chứng khoán.
+- UBCKNN nghiên cứu giao dịch xuyên trưa và nới biên độ giá -> Tích cực -> Dòng tiền hướng vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)**.
+- GDP Việt Nam tăng trưởng vượt trội -> Tích cực -> Dòng tiền hướng vào nhóm **Ngân hàng (VCB, TCB)** và **BĐS Khu công nghiệp (GVR)**.
+- Chậm tiến độ dự án điện khí LNG (POW) và áp lực nhập khẩu thịt giá rẻ (DBC, BAF) -> Tiêu cực -> Áp lực điều chỉnh lên nhóm **Năng lượng và Chăn nuôi**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VHC, TNG**
-- Động lực (FA): Nhu cầu tiêu dùng Mỹ tăng cao hỗ trợ đơn hàng và doanh thu xuất khẩu.
-- Nhận định dòng tiền: Dòng tiền kỳ vọng xoay trục vào nhóm xuất khẩu khi các tín hiệu vĩ mô từ thị trường Mỹ chuyển biến thuận lợi.
-- Hành động: Chú ý giải ngân khi có điểm test hỗ trợ gần nhất.
-
-- Mã: **PNJ**
-- Động lực (FA): Áp lực bán tháo mạnh, dư bán sàn hơn 14,7 triệu đơn vị; tâm lý nhà đầu tư cá nhân suy yếu.
-- Nhận định dòng tiền: Rủi ro bán giải chấp cao, gây hiệu ứng lan tỏa tiêu cực lên nhóm bán lẻ (MWG, DGW).
-- Hành động: Rủi ro vi phạm kịch bản, tuyệt đối không bắt đáy trong pha hoảng loạn này.
-
-- Mã: **STB**
-- Động lực (FA): Khối ngoại xả ròng đột biến hơn 2.000 tỷ phiên 6/10.
-- Nhận định dòng tiền: Áp lực cung ngắn hạn đè nặng, tạo tâm lý thận trọng cho nhóm ngân hàng.
-- Hành động: Tiếp tục quan sát, chưa ưu tiên giải ngân cho đến khi dòng tiền khối ngoại ổn định trở lại.
+- Mã: **SSI, VND, VCI, HCM**
+  - Động lực (FA): UBCKNN đang nghiên cứu nới biên độ và giao dịch xuyên trưa.
+  - Nhận định dòng tiền: Kỳ vọng gia tăng thanh khoản toàn thị trường, trực tiếp cải thiện doanh thu phí môi giới và lãi margin.
+  - Hành động: Chú ý giải ngân (tăng tỷ trọng nếu thanh khoản thị trường mở phiên xác nhận xu hướng tăng).
+- Mã: **FPT**
+  - Động lực (FA): Áp lực bán kỹ thuật 10 phiên liên tiếp.
+  - Nhận định dòng tiền: Cung ngắn hạn đang áp đảo, tâm lý thận trọng bao trùm lên nhóm công nghệ.
+  - Hành động: Tiếp tục quan sát (chưa bắt đáy khi xu hướng hồi phục chưa xác lập).
+- Mã: **POW**
+  - Động lực (FA): Chậm tiến độ các nhà máy điện khí LNG.
+  - Nhận định dòng tiền: Triển vọng tăng trưởng trung hạn bị thu hẹp, khả năng cao sẽ bị khối ngoại/tổ chức cơ cấu giảm tỷ trọng.
+  - Hành động: Rủi ro vi phạm kịch bản (cân nhắc hạ tỷ trọng nếu mất hỗ trợ cứng).
