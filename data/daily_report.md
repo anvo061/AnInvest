@@ -1,22 +1,20 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 13:00 - 07/10/2026
+⏱ **Thời gian:** 19:20 - 07/10/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thắt chặt tiền tệ & Lãi suất:** Dữ liệu dịch vụ Mỹ hạ nhiệt nhưng giá cả tăng, cùng áp lực tín dụng "xé rào" trong nước tạo rủi ro thu hẹp biên NIM ngân hàng và tăng chi phí tài chính doanh nghiệp. -> **Đánh giá: Tiêu cực.** -> **Dòng tiền:** Thận trọng với nhóm Ngân hàng (đặc biệt mã đòn bẩy cao) và BĐS nợ vay lớn.
-- **Dư địa tín dụng:** Việc nâng trần LDR lên 95% là "cú hích" dài hạn cho các ngân hàng có chất lượng tài sản tốt và CASA cao. -> **Đánh giá: Tích cực (ngắn hạn bị nhiễu bởi áp lực lãi suất).** -> **Dòng tiền:** Phân hóa mạnh vào nhóm Ngân hàng quản trị rủi ro tốt (VCB, TCB, ACB).
-- **Xuất khẩu:** Nhu cầu nhập khẩu Mỹ kỷ lục hỗ trợ nhóm xuất khẩu. -> **Đánh giá: Tích cực.** -> **Dòng tiền:** Hướng vào nhóm Dệt may, Thủy sản, Gỗ (TNG, VHC, PTB).
-- **Thuế đất bỏ hoang:** Đề xuất đánh thuế 0,2% gây áp lực chi phí trực tiếp lên các chủ đầu tư sở hữu quỹ đất lớn. -> **Đánh giá: Tiêu cực.** -> **Dòng tiền:** Áp lực thoát hàng hoặc điều chỉnh dự án tại NVL, DIG, DXG.
+- **Lãi suất huy động tăng:** Tác động **Tiêu cực** đến nhóm Bất động sản đòn bẩy cao (NVL, PDR) và nhóm Chứng khoán (SSI) do chi phí vốn tăng; Ngược lại **Tích cực** nhẹ đến nhóm Ngân hàng (VCB) nhờ cải thiện NIM.
+- **Tăng trưởng tín dụng Q4 & Gói tín dụng NOXH (153.000 tỷ):** Động lực **Tích cực** cho nhóm Ngân hàng thương mại (BID, CTG, TCB) và nhóm Bất động sản dân dụng/nhà ở xã hội (NLG).
+- **Cơ chế tự quyết giá xăng dầu:** Động lực **Tích cực** giúp tối ưu biên lợi nhuận cho nhóm phân phối (PLX, OIL).
+- **Tăng trưởng Trung tâm dữ liệu toàn cầu:** Động lực **Tích cực** cho nhóm Công nghệ (FPT, CMG).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **PNJ**
-  - **Động lực (FA):** Tổ chức nước ngoài bán ròng đột biến trong phiên khớp lệnh kỷ lục.
-  - **Nhận định dòng tiền:** Mất cân bằng cung cầu, tạo rào cản tâm lý ngắn hạn.
-  - **Hành động:** Quan sát vùng hỗ trợ kỹ thuật gần nhất; tạm dừng giải ngân mới để chờ ổn định cung cầu.
-- **Mã:** **NVL, DIG, DXG**
-  - **Động lực (FA):** Đề xuất đánh thuế 0,2% trên đất bỏ hoang làm tăng chi phí cơ hội và gánh nặng nợ vay.
-  - **Nhận định dòng tiền:** Tâm lý tiêu cực đè nặng, rủi ro điều chỉnh theo tin tức.
-  - **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên hạ tỷ trọng nếu thủng nền giá hỗ trợ gần nhất.
-- **Mã:** **VCB, TCB, ACB**
-  - **Động lực (FA):** Hưởng lợi từ việc nới trần LDR lên 95% bù đắp cho áp lực lãi suất đầu vào.
-  - **Nhận định dòng tiền:** Phân hóa, dòng tiền thông minh tập trung vào mã có CASA tốt.
-  - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc do ảnh hưởng tiêu cực chung của ngành.
+- **Mã: NVL**
+  - **Động lực (FA):** Trái chủ chuyển đổi nợ thành cổ phiếu giá 34.000 đ/cp (cao gấp 3 lần thị giá).
+  - **Nhận định dòng tiền:** Dù áp lực lãi suất là biến số xấu, nhưng việc giảm nợ vay thực tế giúp giảm rủi ro "bể" cấu trúc tài chính, tạo nền tảng ổn định tâm lý.
+  - **Hành động:** Tiếp tục quan sát. Nếu giá giữ vững trên vùng hỗ trợ cứng, đây là tín hiệu tái cấu trúc thành công từ phía chủ nợ.
+- **Mã: PNJ**
+  - **Động lực (FA):** Vốn hóa thủng ngưỡng 10.000 tỷ, quỹ ngoại bán tháo.
+  - **Nhận định dòng tiền:** Lực bán chủ động từ khối ngoại đang lấn át hoàn toàn cầu nội. Rủi ro giải chấp chéo và mất vùng hỗ trợ kỹ thuật đang ở mức cao.
+  - **Hành động:** Rủi ro vi phạm kịch bản. Tránh bắt đáy cho đến khi có tín hiệu dừng bán từ khối ngoại.
+
+⚠️ **LƯU Ý:** Các tin tức về biến động giá không rõ mã (CafeF) hoặc vấn đề hành chính (thuế, thông báo niêm yết) được hệ thống loại bỏ vì không có trọng số tác động dòng tiền thực chiến.
