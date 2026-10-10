@@ -1,5 +1,170 @@
 ﻿[
   {
+    "Title": "Xử phạt một doanh nghiệp do vi phạm công bố thông tin - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSW1DN0cwTUExMjBjUHh4d0xsM0tEbXFkNUJjOWNnTUhJdzNIaV9oMUFUVkhpNmlGdGJTT3dvcUVwWWlzaVY0bUFBLWlxaTF4NjJRZzVtdGN4T0tiTDRIbFdjVWFQNjZyaEdhd3RiMkVlYVRrY0dZcFZPNU9nMnNodWQxWWVxdUxnWDQ0SENUbVJUY082ZlB3?oc=5",
+    "PubDate": "Sat, 10 Oct 2026 02:53:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin hành chính về việc xử phạt vi phạm công bố thông tin, không tác động đến hoạt động kinh doanh cốt lõi hay dòng tiền của các doanh nghiệp niêm yết trên thị trường.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không có mã hưởng lợi. Tin tức hành chính về vi phạm công bố thông tin không làm thay đổi xu hướng dòng tiền của bất kỳ nhóm ngành nào trên thị trường.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-11 02:29:35"
+  },
+  {
+    "Title": "Siba Group sắp chào bán 20 triệu cổ phiếu riêng lẻ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVlreUdBSVBZWk04aXU4V2p1ckU5dC14Z2M4OFlDVFZKNDZDUnFTcC1sTjhXci1NLWRsa19UTXI2TC1fc0tKaS01d1FzeWwybUc3UDZWTVhrS1c4UEJ2NmJqZ1V6U1ZJa0FxLW1LLUhyQzQwaTRvYlhIMzJ6bjdmeFNPOGxPREdlUTYtdGRiNlJNOU8x?oc=5",
+    "PubDate": "Sat, 10 Oct 2026 01:46:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc chào bán cổ phiếu riêng lẻ làm tăng số lượng cổ phiếu lưu hành, gây áp lực pha loãng EPS trong ngắn hạn đối với cổ đông hiện hữu.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - SBG. Chào bán riêng lẻ gây áp lực pha loãng cổ phiếu. Dòng tiền thông minh thường thận trọng trước các đợt tăng vốn, chờ đợi mục đích sử dụng vốn cụ thể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SBG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực pha loãng cổ phiếu từ việc phát hành thêm 20 triệu cổ phiếu riêng lẻ."
+      }
+    ],
+    "AnalyzedAt": "2026-10-11 02:29:03"
+  },
+  {
+    "Title": "Lịch chốt quyền cổ tức tuần 12-16/10: Ba công ty cùng trả cổ tức tiền mặt 15% - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3Z3cnMxVW9SRjJmR25MV180d2RXVUJUNXJaUzdyRHNuam5WLTk1YktCSnBGU2Z1elFJbTVBUDdWLURYNllXOTcwOUU0bV93YUY3RWVweTk3WW1yTG05NVM1U1pSZjlpTTctXzQwMEtfSXRfdzBkZFBwRGFFbnl5LWdvZ0d5NE5OUklCRVF4cGVrZm04MTd5UUtYM2RIbTdBY0h4M1BSVzdIZjZBQTgxUWlzZmY?oc=5",
+    "PubDate": "Sat, 10 Oct 2026 17:03:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Thông tin lịch chốt quyền cổ tức là sự kiện định kỳ, không tác động đến xu hướng giá chung của thị trường hay thay đổi cơ bản về hoạt động kinh doanh của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Việc chốt quyền cổ tức là sự kiện kỹ thuật định kỳ, không tạo ra biến động dòng tiền đột biến. Nhà đầu tư nên tập trung vào các yếu tố cơ bản khác.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-11 02:28:43"
+  },
+  {
+    "Title": "Xuất khẩu sang Trung Quốc tăng vọt trong tháng 9",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/xuat-khau-sang-trung-quoc-tang-vot-trong-thang-9-100261010220338879.htm",
+    "PubDate": "10/10/2026 10:16:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Kim ngạch xuất khẩu sang thị trường Trung Quốc tăng trưởng mạnh thúc đẩy doanh thu cho các nhóm ngành nông sản, thủy sản và cao su, cải thiện biên lợi nhuận cho các doanh nghiệp xuất khẩu chủ lực.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Thủy sản, Cao su. Xuất khẩu tăng vọt cải thiện dòng tiền và biên lợi nhuận doanh nghiệp. Dòng tiền thông minh sẽ tập trung vào các mã có thị phần xuất khẩu lớn sang Trung Quốc.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ nhu cầu tiêu thụ thủy sản tăng cao tại thị trường Trung Quốc."
+      },
+      {
+        "Ticker": "IDI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Thị trường Trung Quốc là trọng điểm, xuất khẩu tăng giúp cải thiện doanh thu và thanh khoản."
+      },
+      {
+        "Ticker": "GVR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu cao su từ Trung Quốc tăng giúp duy trì giá bán và sản lượng tiêu thụ ổn định."
+      },
+      {
+        "Ticker": "PHR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ đà tăng xuất khẩu cao su sang thị trường Trung Quốc."
+      }
+    ],
+    "AnalyzedAt": "2026-10-11 02:27:51"
+  },
+  {
+    "Title": "Bộ Công Thương đặt mục tiêu xuất khẩu vượt 1.041 tỷ USD, hơn gấp đôi năm 2025",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/bo-cong-thuong-dat-muc-tieu-xuat-khau-vuot-1-041-ty-usd-hon-gap-doi-nam-2025-2563370.html",
+    "PubDate": "Sat, 10 Oct 2026 09:43:44 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Mục tiêu xuất khẩu tăng trưởng mạnh tạo động lực cho các ngành sản xuất, logistics và khu công nghiệp, thúc đẩy dòng vốn FDI và nhu cầu vận tải hàng hóa quốc tế.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Mục tiêu vĩ mô dài hạn, thiếu tính thời điểm. Tác động thực tế phụ thuộc vào năng lực thực thi. Cần theo dõi sát dòng tiền tại nhóm Logistics và KCN.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ lưu lượng hàng hóa xuất nhập khẩu tăng mạnh qua hệ thống cảng."
+      },
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu mở rộng sản xuất để xuất khẩu thúc đẩy tỷ lệ lấp đầy tại các KCN."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ làn sóng dịch chuyển sản xuất và nhu cầu thuê đất KCN tăng cao."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu vận tải biển tăng theo kim ngạch xuất khẩu giúp cải thiện giá cước và sản lượng."
+      }
+    ],
+    "AnalyzedAt": "2026-10-11 02:26:55"
+  },
+  {
+    "Title": "Vinamilk và bài toán giữ niềm tin người tiêu dùng qua nhiều thế hệ",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vinamilk-va-bai-toan-giu-niem-tin-nguoi-tieu-dung-qua-nhieu-the-he-2563464.html",
+    "PubDate": "Sat, 10 Oct 2026 11:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là bài viết mang tính chất truyền thông thương hiệu, không chứa thông tin tài chính mới, thay đổi chiến lược kinh doanh hay tác động trực tiếp đến biên lợi nhuận của doanh nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Bán lẻ/Tiêu dùng. Bài viết mang tính chất PR thương hiệu, không có thông tin định lượng mới. Không tác động đến dòng tiền ngắn hạn của VNM.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-11 02:25:47"
+  },
+  {
+    "Title": "T&T Group đầu tư dự án điện gió 768 triệu USD tại Lào",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/t-t-group-dau-tu-du-an-dien-gio-768-trieu-usd-tai-lao-5130381.html",
+    "PubDate": "Fri, 09 Oct 2026 14:15:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Dự án đầu tư ra nước ngoài của tập đoàn tư nhân không niêm yết trực tiếp không tạo tác động tài chính tức thời lên các mã cổ phiếu ngành điện trên sàn chứng khoán Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Năng lượng. Dự án của tập đoàn tư nhân không niêm yết không ảnh hưởng trực tiếp đến dòng tiền các mã điện trên sàn. Bỏ qua tác động ngắn hạn.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-11 02:25:26"
+  },
+  {
+    "Title": "EVNSPC chủ động hạ tầng điện thu hút đầu tư khu công nghiệp",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/evnspc-chu-dong-ha-tang-dien-thu-hut-dau-tu-khu-cong-nghiep-5130487.html",
+    "PubDate": "Fri, 09 Oct 2026 17:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc đảm bảo hạ tầng điện ổn định tại các khu công nghiệp phía Nam giúp tăng sức hấp dẫn thu hút FDI, trực tiếp hỗ trợ các doanh nghiệp bất động sản khu công nghiệp đẩy nhanh tiến độ cho thuê đất.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính hành chính, chưa có tác động định lượng lên biên lợi nhuận doanh nghiệp. Cần theo dõi tiến độ triển khai thực tế tại các dự án cụ thể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-11 02:24:36"
+  },
+  {
+    "Title": "Chiến lược đổi mới giúp Vinamilk giữ niềm tin người dùng",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chien-luoc-doi-moi-giup-vinamilk-giu-niem-tin-nguoi-dung-5130622.html",
+    "PubDate": "Sat, 10 Oct 2026 10:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc tái định vị thương hiệu và đổi mới sản phẩm giúp Vinamilk củng cố thị phần trong bối cảnh cạnh tranh ngành hàng tiêu dùng nhanh (FMCG) đang gay gắt.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR thương hiệu, thiếu dữ liệu tài chính định lượng. Không tác động trực tiếp đến dòng tiền ngắn hạn hoặc biên lợi nhuận doanh nghiệp.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-11 02:24:04"
+  },
+  {
     "Title": "Vietnam targets growth surge, hi-tech shift in Communist Party economic blueprint - Reuters",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUlViczNhVW84SDNMQXdwSHhXQzRMbGdhbmcwYUhhVXhhSDVHV0JLNDFKdVNvR0xlTjZMTHp3V2V0dkNpTEhGek5vbllsd2xxR2hRV0JkaUdPMmhva1JxYW9OZkp2VHdPMTNWQXhsSkluV2lyNU9jY1FJaFRUMDZpVFl1dEwzVVAzVkduZm85cEFxTDFBUkpmeW1lV05JYUZYdGFya1Rsa2hYazI0YVB2RV9rSTRMeXQyR0prOWJMNWU4RlVoNXpfeXhKZ0xHZ3dFX25j?oc=5",
@@ -18589,176 +18754,5 @@
       }
     ],
     "AnalyzedAt": "2026-09-23 20:04:28"
-  },
-  {
-    "Title": "Nâng hạng tín nhiệm có thể giúp Việt Nam hút 10-20 tỷ USD vào trái phiếu",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/nang-hang-tin-nhiem-co-the-giup-viet-nam-hut-10-20-ty-usd-vao-trai-phieu-5123711.html",
-    "PubDate": "Wed, 23 Sep 2026 16:15:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Việc nâng hạng tín nhiệm quốc gia giúp giảm chi phí huy động vốn, cải thiện thanh khoản thị trường tài chính và thu hút dòng vốn ngoại gián tiếp (FII) vào thị trường chứng khoán và trái phiếu.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng và Chứng khoán. Nâng hạng tín nhiệm cải thiện định mức rủi ro, thu hút dòng vốn ngoại lớn. Dòng tiền thông minh sẽ tập trung vào các mã vốn hóa lớn VCB, SSI.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng quốc doanh hưởng lợi trực tiếp từ việc cải thiện xếp hạng tín nhiệm quốc gia và dòng vốn ngoại."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ thanh khoản thị trường tăng cao và nhu cầu dịch vụ tài chính từ dòng vốn ngoại."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng trưởng doanh thu môi giới và tự doanh nhờ kỳ vọng thị trường được nâng hạng."
-      },
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cải thiện chi phí vốn và vị thế tín dụng trong mắt nhà đầu tư quốc tế."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ sự ổn định vĩ mô và khả năng tiếp cận nguồn vốn ngoại giá rẻ."
-      }
-    ],
-    "AnalyzedAt": "2026-09-23 20:02:28"
-  },
-  {
-    "Title": "DRH: Giải trình về việc chứng khoán bị cảnh báo do chậm nộp BCTC bán niên 2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUNzdl83aWpfX0J5cFFiX2dqYmJaWjRHM3hQRHdYd1NaX1FOd3REd1lfY1JsRFJPcU0zejFMdGNWT0Z3a1QzTUcyNzk3ZVFIZnFJLTliVThpemVrWkozUzBMcW5xLVh0dVBWZHhyVHhkWWVkV1o1MkNudFUzRXdyZjA2Z09BRzFscGJkUU5WZElwTzZUb05jOGFRVGpaYlRxV2VncnN3WHR0c3FTZXBDOF9nMGowT2VKeWc?oc=5",
-    "PubDate": "Wed, 23 Sep 2026 07:02:00 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -6,
-    "MarketImpact": "Việc chậm nộp BCTC gây rủi ro bị đưa vào diện cảnh báo/hạn chế giao dịch, làm giảm uy tín doanh nghiệp và khiến dòng tiền đầu tư rút lui do lo ngại về tính minh bạch tài chính.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - DRH. Chậm nộp BCTC phản ánh rủi ro quản trị yếu kém và minh bạch tài chính. Khuyến nghị thoái vốn để tránh rủi ro đình chỉ giao dịch.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [
-      {
-        "Ticker": "DRH",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chậm nộp BCTC dẫn đến bị cảnh báo, ảnh hưởng tiêu cực đến thanh khoản và tâm lý nhà đầu tư."
-      }
-    ],
-    "AnalyzedAt": "2026-09-23 14:46:40"
-  },
-  {
-    "Title": "Lần đầu tiên Việt Nam đăng cai Diễn đàn Chứng khoán châu Á, mở cơ hội đón dòng vốn quốc tế sau nâng hạng - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNkpONmJVT1dwOERFcnU5LV80UWNoZXNBU19Jd1JfaEZOc1Z0XzhabWJLR2lQZUNkNlNMa1pkNUl2dWdsU1FiVnQ1LW8wUkZzQk85RjRTdFJNOENscC1kcU9LMUI1XzNCOGJOMmVNUXgzNE9mS2JLTDdFMElBVWwzNlk3VzYwN2tRRkFESkFTZTVXa21yZ2h0SEVrcW1SeVYxUzZSYkVlZ0t4SUxCd2puM0haSkNTdTNMa2VQblVfRkN5RlRPbk4tc0JSdzNvRnhUS2JlSlRVVEs1dHM?oc=5",
-    "PubDate": "Wed, 23 Sep 2026 06:40:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc đăng cai diễn đàn uy tín khẳng định vị thế thị trường, thúc đẩy niềm tin khối ngoại và đẩy nhanh tiến trình nâng hạng, tạo động lực tăng trưởng thanh khoản dài hạn cho nhóm chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất sự kiện ngoại giao, thiếu tác động trực tiếp đến biên lợi nhuận doanh nghiệp trong ngắn hạn. Cần quan sát dòng tiền thực tế thay vì kỳ vọng định tính.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-23 14:46:21"
-  },
-  {
-    "Title": "Khoảnh khắc Việt Nam giữa New York trong tuần thị trường được nâng hạng - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUR4U1Ewbkc1ellMamlnRXR5Uk5TSnVKTzdtQjlGUXp6VWJVSDVKMW1FdHc3MFdjNjlmWUNscXExVUZFZFRVZDJFQ0hjODNXTnAtbWhPd1U0X2tIaVBTS0tIZ1VWVDlBV1VOenRyU2F4cFBmVkRrSzF4bWEza0VsczNvcXN1aXBZUmhTNzUtUm1OZ2tLVXh1VkFhSlRYS0ludFUzMUZLS21ZUXhPd2xvMA?oc=5",
-    "PubDate": "Wed, 23 Sep 2026 04:48:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc nâng hạng thị trường chứng khoán Việt Nam thu hút dòng vốn ngoại (ETF, quỹ chủ động) đổ vào các cổ phiếu vốn hóa lớn, tăng thanh khoản và định giá thị trường.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR sự kiện, thiếu thông tin cụ thể về lộ trình nâng hạng. Dòng tiền chưa có phản ứng thực tế, cần quan sát thêm thanh khoản nhóm VN30.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-23 14:46:01"
-  },
-  {
-    "Title": "Thấy gì qua dự án 750 căn hộ nhà ở xã hội mà tới 15.000 hồ sơ đăng ký?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/thay-gi-qua-du-an-750-can-ho-nha-o-xa-hoi-ma-toi-15000-ho-so-dang-ky-100260923103731099.htm",
-    "PubDate": "9/23/2026 12:40:00 PM",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Nhu cầu thực về nhà ở xã hội cực lớn khẳng định tiềm năng phân khúc nhà ở giá rẻ, thúc đẩy các doanh nghiệp BĐS chuyển dịch cơ cấu sản phẩm để hưởng ưu đãi chính sách.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Phân khúc NOXH. Nhu cầu thực vượt cung cao tạo động lực cho các doanh nghiệp có quỹ đất và năng lực triển khai dự án giá rẻ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đẩy mạnh triển khai các dự án NOXH quy mô lớn giúp tối ưu hóa quỹ đất và hưởng ưu đãi thuế/tín dụng."
-      },
-      {
-        "Ticker": "NLG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chiến lược tập trung vào phân khúc nhà ở giá rẻ (EHome) phù hợp với nhu cầu thực tế, đảm bảo thanh khoản dự án."
-      }
-    ],
-    "AnalyzedAt": "2026-09-23 14:45:41"
-  },
-  {
-    "Title": "Sửa Luật Kinh doanh bất động sản, đừng bỏ qua 'phân lô bán nền' núp bóng tách thửa",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/sua-luat-kinh-doanh-bat-dong-san-dung-bo-qua-phan-lo-ban-nen-nup-bong-tach-thua-100260922112630039.htm",
-    "PubDate": "9/23/2026 12:49:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": -1,
-    "MarketImpact": "Việc siết chặt quy định phân lô bán nền làm giảm nguồn cung đất nền tự phát, gây khó khăn cho các doanh nghiệp BĐS nhỏ lẻ hoặc các dự án chưa hoàn thiện pháp lý, nhưng tạo lợi thế cạnh tranh cho các chủ đầu tư dự án quy mô lớn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Siết phân lô bán nền là xu hướng dài hạn, tác động phân hóa mạnh. Dòng tiền sẽ thận trọng với nhóm đầu cơ đất nền, ưu tiên doanh nghiệp có dự án pháp lý sạch.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-23 14:45:23"
-  },
-  {
-    "Title": "Cho chuyển nhượng nhà chưa có sổ hồng, người mua thứ cấp có gánh hết rủi ro?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/cho-chuyen-nhuong-nha-chua-co-so-hong-nguoi-mua-thu-cap-co-ganh-het-rui-ro-100260923083132459.htm",
-    "PubDate": "9/23/2026 12:58:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc tháo gỡ pháp lý cho các giao dịch nhà ở chưa có sổ hồng giúp tăng tính thanh khoản cho thị trường bất động sản thứ cấp, giảm bớt rào cản pháp lý cho người mua và chủ đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất tư vấn pháp lý, không phải thay đổi chính sách vĩ mô. Tác động đến thanh khoản thị trường thứ cấp là gián tiếp, chưa đủ lực đẩy dòng tiền ngắn hạn.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-23 14:45:06"
-  },
-  {
-    "Title": "Lồng đèn mini giá vài chục nghìn bán chạy, doanh số lên tới cả tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/long-den-mini-gia-vai-chuc-nghin-ban-chay-doanh-so-len-toi-ca-ty-dong-2557718.html",
-    "PubDate": "Wed, 23 Sep 2026 13:10:05 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin về xu hướng tiêu dùng nhỏ lẻ, mang tính thời vụ, không có tác động trọng yếu đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ngành. Xu hướng tiêu dùng nhỏ lẻ, thời vụ không tạo ra sự thay đổi đáng kể trong dòng tiền của các doanh nghiệp niêm yết. Bỏ qua tác động.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-23 14:44:51"
-  },
-  {
-    "Title": "Nhập khẩu vượt 2 tỷ USD, thịt giá rẻ tràn về, có loại chỉ hơn 26.000 đồng/kg",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/nhap-khau-thit-vuot-2-ty-usd-co-nhom-gia-chi-hon-26-000-dong-kg-2557447.html",
-    "PubDate": "Wed, 23 Sep 2026 13:24:13 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Thịt nhập khẩu giá rẻ gia tăng áp lực cạnh tranh gay gắt lên các doanh nghiệp chăn nuôi nội địa, gây sức ép lên biên lợi nhuận gộp của các công ty sản xuất thịt trong nước.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chăn nuôi. Nguồn cung giá rẻ gây áp lực biên lợi nhuận DBC, BAF. MSN hưởng lợi không đáng kể do tỷ trọng thịt tự chủ cao.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DBC",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực cạnh tranh từ thịt nhập khẩu giá rẻ làm giảm giá bán đầu ra, ảnh hưởng trực tiếp đến biên lợi nhuận mảng chăn nuôi."
-      },
-      {
-        "Ticker": "BAF",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Thịt giá rẻ tràn về gây khó khăn cho việc duy trì giá bán cao, tác động tiêu cực đến tăng trưởng doanh thu và lợi nhuận."
-      }
-    ],
-    "AnalyzedAt": "2026-09-23 14:44:30"
   }
 ]
