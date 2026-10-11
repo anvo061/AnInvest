@@ -1,15 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:15 - 12/10/2026
+⏱ Thời gian: 05:45 - 12/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chênh lệch tỷ giá USD tự do và ngân hàng nới rộng, kết hợp cảnh báo rủi ro vĩ mô quý 4 -> [Tác động: Tiêu cực] -> [Dòng tiền: Thận trọng với nhóm có dư nợ vay ngoại tệ lớn và nhóm BĐS; gia tăng sự phân hóa].
+- Chính phủ định hướng giải bài toán lãi suất thấp để thúc đẩy tăng trưởng GDP 10% -> [Đánh giá tác động: Tích cực] -> Dòng tiền sẽ ưu tiên các nhóm ngành nhạy cảm với lãi suất, có đòn bẩy tài chính cao (Bất động sản, Chứng khoán, Đầu tư công).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: POW**
-    - Động lực (FA): Tỷ giá USD tăng mạnh, gây áp lực lên chi phí vay nợ ngoại tệ và khả năng lỗ tỷ giá.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ suy yếu do áp lực từ rủi ro tài chính phát sinh từ tỷ giá.
-    - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi sát vùng hỗ trợ kỹ thuật.
-- **Mã: NVL**
-    - Động lực (FA): Cổ đông liên quan tiếp tục bán ra 2,6 triệu cổ phiếu trong bối cảnh thị trường BĐS điều chỉnh.
-    - Nhận định dòng tiền: Áp lực cung gia tăng từ nội bộ và áp lực chung từ ngành BĐS sẽ gây khó khăn cho việc duy trì đà hồi phục.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị tỷ trọng.
+- Mã: **SSI, VND, VCI**
+- Động lực (FA): Cảnh báo rủi ro kích hoạt vòng xoáy "call margin" từ các chuyên gia phân tích thị trường.
+- Nhận định dòng tiền: Tin tức tạo áp lực tâm lý tiêu cực lên nhóm chứng khoán, đặc biệt trong bối cảnh các quỹ ngoại đang có xu hướng đánh giá lại chu kỳ tăng trưởng của nhóm tài chính.
+- Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên quản trị rủi ro, quan sát chặt diễn biến cung cầu tại vùng hỗ trợ kỹ thuật, hạn chế mua đuổi khi áp lực bán giải chấp tiềm ẩn.
+
+- Mã: **VCB, TCB, VHM**
+- Động lực (FA): Báo cáo từ SGI Capital dự báo nhóm Ngân hàng và BĐS có thể không còn "dẫn sóng" trong 5–10 năm tới.
+- Nhận định dòng tiền: Áp lực thoái vốn của khối ngoại và các quỹ chủ động có thể gia tăng, tạo sức ép lên các cổ phiếu vốn hóa lớn (Blue-chips) trong ngắn hạn.
+- Hành động: **Tiếp tục quan sát**. Theo dõi sát sao khối lượng bán ròng từ khối ngoại để xác định điểm dừng của áp lực cung.
+
+- Mã: **VNM**
+- Động lực (FA): Thủ tướng Lê Minh Hưng thăm nhà máy Angkormilk tại Campuchia.
+- Nhận định dòng tiền: Tín hiệu tích cực về ngoại giao kinh tế, củng cố niềm tin vào chiến lược mở rộng quốc tế. Tuy nhiên, tác động đến giá cổ phiếu cần thêm xung lực từ dòng tiền lớn xác nhận.
+- Hành động: **Chú ý giải ngân** nếu xuất hiện dòng tiền vào đột biến tại vùng giá hiện tại.
