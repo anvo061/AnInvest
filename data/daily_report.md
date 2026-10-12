@@ -1,25 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:30 - 12/10/2026
+⏱ Thời gian: 01:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tỷ giá & Năng lượng:** USD neo đỉnh 18 tháng gây áp lực lỗ tỷ giá lên doanh nghiệp nợ ngoại tệ, trong khi giá dầu thế giới giảm hạ nhiệt biên lợi nhuận nhóm Dầu khí -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm Thượng nguồn (PVS, PVD) và các mã có nợ vay USD lớn (POW, HVN)].
-- **Bán lẻ:** Dự báo tăng trưởng quy mô siêu thị mini gấp 3 lần -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Bán lẻ tiêu dùng (MWG, MSN)].
-- **Bất động sản KCN:** Thương vụ hợp nhất Becamex - VSIP củng cố vị thế quỹ đất và quản trị -> [Tác động: Tích cực] -> [Dòng tiền kỳ vọng vào nhóm BĐS Khu công nghiệp (BCM)].
+- Thí điểm miễn thị thực cho khách du lịch theo đoàn Trung Quốc đến Khánh Hòa -> Đánh giá: Tích cực -> Dòng tiền kỳ vọng hướng vào nhóm Hàng không (VJC, HVN) và Bất động sản nghỉ dưỡng/Dịch vụ du lịch tại khu vực miền Trung.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD, PVS**
-  - Động lực (FA): Giá dầu giảm sau tin hạ nhiệt căng thẳng địa chính trị.
-  - Nhận định dòng tiền: Áp lực chốt lời ngắn hạn cao, tâm lý tiêu cực theo biến động giá dầu thế giới.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng chờ vùng cân bằng mới.
-- **Mã: MWG, MSN**
-  - Động lực (FA): Dư địa mở rộng thị phần siêu thị mini rất lớn.
-  - Nhận định dòng tiền: Dòng tiền trung hạn ủng hộ nhóm bán lẻ thiết yếu trong bối cảnh vĩ mô biến động.
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện nhịp chỉnh trong phiên.
-- **Mã: TRA**
-  - Động lực (FA): Liên tục bị phạt thuế và truy thu.
-  - Nhận định dòng tiền: Rủi ro quản trị cực lớn, khả năng cao sẽ bị dòng tiền thoái lui để tránh rủi ro pháp lý.
-  - Hành động: **Cắt giảm vị thế**, tránh nắm giữ.
+- Mã: **NKG**
+- Động lực (FA): Nhóm thép trở thành điểm sáng hiếm hoi, thể hiện sức mạnh tương đối trong bối cảnh VN-Index điều chỉnh sâu.
+- Nhận định dòng tiền: Dòng tiền đầu cơ đang có xu hướng "trú ẩn" vào các mã thép midcap có beta cao thay vì các mã vốn hóa lớn đang bị áp lực bán tháo.
+- Hành động: Chú ý giải ngân (Canh điểm mua trong các nhịp rung lắc, không đuổi giá xanh mạnh).
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Giá dầu giảm làm suy giảm biên lợi nhuận lọc dầu (crack spread) và giá trị hàng tồn kho. Đối với vị thế trung hạn đã qua điểm rơi, dữ liệu này bổ trợ cho tín hiệu **cần cơ cấu lại (chốt lời/giảm tỷ trọng)** để đảo dòng tiền sang các nhóm ngành có động lực tăng trưởng mới (như Bán lẻ hoặc BĐS KCN).
+- Mã: **KOS**
+- Động lực (FA): Cổ phiếu giảm sàn 16 phiên liên tiếp, mất thanh khoản và rơi dưới mệnh giá.
+- Nhận định dòng tiền: Rủi ro giải chấp chéo và mất thanh khoản nghiêm trọng. Dòng tiền thoát chạy mạnh, tâm lý hoảng loạn lan tỏa.
+- Hành động: Rủi ro vi phạm kịch bản (Yêu cầu loại khỏi danh mục theo dõi ngắn hạn, tuyệt đối không bắt đáy).
+
+- Mã: **VJC, HVN**
+- Động lực (FA): Chính sách thí điểm miễn thị thực cho khách Trung Quốc tại Khánh Hòa.
+- Nhận định dòng tiền: Động lực ngắn hạn được cải thiện nhờ câu chuyện vĩ mô bổ trợ, dự báo sẽ thu hút dòng tiền trading khi tin tức thẩm thấu.
+- Hành động: Chú ý giải ngân (Theo dõi phản ứng của giá tại các vùng hỗ trợ cứng).
