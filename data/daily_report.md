@@ -1,26 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:10 - 14/10/2026
+⏱ Thời gian: 19:36:43
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tăng vốn Techcombank (TCB):** NHNN phê duyệt tăng vốn điều lệ lên hơn 106 ngàn tỷ -> **Tích cực** -> Dòng tiền hướng vào nhóm Ngân hàng (đặc biệt các mã vốn hóa lớn có dư địa tăng trưởng tín dụng).
-- **Xuất khẩu nông - thủy sản sang Trung Quốc:** Nhu cầu tăng mạnh -> **Tích cực** -> Dòng tiền hướng vào nhóm Thủy sản (VHC, ANV).
-- **Tín hiệu Fed:** Kỳ vọng không tăng lãi suất năm 2027 -> **Tích cực** -> Giảm áp lực tỷ giá, hỗ trợ thanh khoản toàn thị trường.
+- **Tiến trình ký kết Hiệp định thương mại với Mỹ và EU đạt bước ngoặt quan trọng** -> **Tích cực** -> Dòng tiền sẽ hướng mạnh vào nhóm **Xuất khẩu (Thủy sản, Dệt may), Logistics (Cảng biển) và Bất động sản Khu công nghiệp.**
+- **Đề xuất mới cho phép doanh nghiệp xăng dầu tự quyết giá và bỏ quỹ bình ổn** -> **Tích cực** -> Dòng tiền hướng vào nhóm **Năng lượng/Xăng dầu (PLX, OIL).**
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: TCB**
-  - Động lực (FA): Được NHNN phê duyệt tăng vốn điều lệ kỷ lục.
-  - Nhận định dòng tiền: Kỳ vọng lực cầu khối ngoại và dòng tiền lớn gia tăng để củng cố vị thế dẫn đầu.
-  - Hành động: Chú ý giải ngân theo đà tăng.
-- **Mã: VHC, ANV**
-  - Động lực (FA): Trung Quốc tăng mạnh nhập khẩu thủy sản.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ và đầu tư giá trị có khả năng đồng thuận nhập cuộc.
-  - Hành động: Chú ý giải ngân khi có điểm test kỹ thuật.
-- **Mã: PNJ**
-  - Động lực (FA): Cảnh báo hụt lợi nhuận dài hạn và biến động nhân sự cấp cao.
-  - Nhận định dòng tiền: Áp lực bán tháo ngắn hạn là khó tránh khỏi do tâm lý bất ổn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm vị thế.
+- **Mã: GMD, TNG, VHC, KBC, SZC**
+  - **Động lực (FA):** Thỏa thuận thương mại Mỹ - Việt gần hoàn tất; EU và Việt Nam chuẩn bị ký FTA; mục tiêu tăng trưởng kinh tế Bắc Ninh đạt 14,57% trong Q4.
+  - **Nhận định dòng tiền:** Hưởng lợi kép từ việc giảm thuế quan và đón sóng FDI dịch chuyển. Dòng tiền thông minh có xu hướng tích lũy trước thông tin chính thức ký kết.
+  - **Hành động:** Chú ý giải ngân (Canh các nhịp điều chỉnh trong phiên khi thị trường chung biến động).
+- **Mã: PLX, OIL**
+  - **Động lực (FA):** Thay đổi cơ chế quản lý giá xăng dầu, giảm gánh nặng quỹ bình ổn.
+  - **Nhận định dòng tiền:** Cải thiện biên lợi nhuận kỳ vọng, dự kiến kích thích lực cầu mới.
+  - **Hành động:** Tiếp tục quan sát phản ứng dòng tiền tại vùng hỗ trợ cứng.
+- **Mã: NHA**
+  - **Động lực (FA):** Lợi nhuận 9 tháng giảm 96%, dòng tiền kinh doanh âm, nợ vay tăng 40%.
+  - **Nhận định dòng tiền:** Áp lực bán tháo mạnh do rủi ro thanh khoản.
+  - **Hành động:** Rủi ro vi phạm kịch bản an toàn, ưu tiên thoát vị thế.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Dữ liệu: Nguồn cung Diesel từ Nga gia tăng gây áp lực giảm biên lợi nhuận lọc dầu (crack spread) toàn cầu.
-  - Nhận định: Do đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu này là tín hiệu bổ trợ cho việc **cần thực hiện tái cơ cấu danh mục**. Nên xem xét chốt lời hoặc giảm tỷ trọng để đảo dòng tiền sang các nhóm ngành có xung lực tăng trưởng mạnh hơn (như Tài chính/Xuất khẩu).
+🔄 3. Cảnh báo Tái cơ cấu (Chỉ xuất hiện nếu có tin về EIB, BSR):
+- *Chưa có tin tức mới liên quan đến EIB, BSR trong 15 phút qua.*
