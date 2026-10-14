@@ -1,27 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:50 - 15/10/2026
+⏱ Thời gian: 04:15 - 15/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thỏa thuận thương mại với Mỹ & EU:** Việt Nam sắp ký kết các thỏa thuận thương mại quan trọng với Mỹ và EU, mở rộng cánh cửa xuất khẩu và thu hút FDI -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Khu công nghiệp (KBC, SZC), Xuất khẩu (VHC, TNG, GMD).**
-- **Cơ chế giá xăng dầu:** Đề xuất bỏ quỹ bình ổn và cho phép doanh nghiệp tự quyết giá -> **Tích cực** -> Cải thiện biên lợi nhuận nhóm **Bán lẻ xăng dầu (PLX, OIL).**
-- **Thủ tục hành chính BĐS TP.HCM:** Đơn giản hóa thủ tục cấp phép -> **Tích cực** -> Hỗ trợ nhóm **BĐS dân dụng (VHM, DXG, NLG).**
-- **Chi phí nguyên vật liệu:** Doanh nghiệp bỏ cọc cát do giá trúng đấu giá quá cao -> **Tiêu cực** -> Gây áp lực chi phí lên nhóm **Đầu tư công (VCG, HHV, LCG).**
+- **Lạm phát Mỹ vượt dự báo (Tiêu cực):** Gây áp lực trực tiếp lên tỷ giá USD/VND và định hướng thắt chặt tiền tệ của NHNN -> Gây áp lực giảm giá ngắn hạn lên nhóm nhạy cảm với lãi suất (Bất động sản & Chứng khoán).
+- **Mở rộng sản xuất công nghệ cao tại VN (Tích cực):** Các tập đoàn lớn (Apple, Intel, Meta) thúc đẩy nhu cầu BĐS khu công nghiệp -> Dòng tiền kỳ vọng xoay trục vào nhóm BĐS KCN.
+- **Tăng vốn điều lệ các ngân hàng (Tích cực):** Củng cố CAR, tăng năng lực tín dụng dài hạn -> Tạo nền tảng giữ nhịp thị trường trước áp lực vĩ mô.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **BSR**
-- Động lực (FA): Dự báo thế giới thiếu hụt dầu diesel đến giữa 2027, crack spread neo cao.
-- Nhận định dòng tiền: Tin tức hỗ trợ củng cố vị thế biên lợi nhuận của nhà máy lọc dầu, tạo lực đỡ cho dòng tiền khi giá dầu thế giới biến động.
-- Hành động: **Tiếp tục quan sát** (Theo dõi chặt chẽ phản ứng của vùng giá hiện tại trước kỳ vọng cung cầu toàn cầu).
-
-- Mã: **KBC**
-- Động lực (FA): Hưởng lợi kép từ thỏa thuận thương mại Mỹ - Việt và mục tiêu tăng trưởng kinh tế 12.5% của Bắc Ninh.
-- Nhận định dòng tiền: Tin tức bổ trợ mạnh cho câu chuyện tăng trưởng quỹ đất và thu hút FDI, kỳ vọng dòng tiền sẽ phản ứng tích cực trong các phiên tới.
-- Hành động: **Chú ý giải ngân** (Canh nhịp rung lắc để gia tăng tỷ trọng khi dòng tiền khối ngoại xác nhận tham gia).
-
-- Mã: **SHB**
-- Động lực (FA): Đón nhận hai tin vui lớn trong quản trị và hoạt động kinh doanh.
-- Nhận định dòng tiền: Tin tức mang tính chất củng cố tâm lý, cần đối chiếu với khối lượng giao dịch thực tế để xác nhận khả năng bứt phá nền giá.
-- Hành động: **Tiếp tục quan sát** (Tránh mua đuổi nếu không có sự xác nhận từ dòng tiền lớn).
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Đối với BSR:** Dữ liệu mới về thiếu hụt diesel đến 2027 là một biến số tích cực củng cố luận điểm nắm giữ. Dù đã qua điểm rơi kỳ vọng tháng 3/2026, nhưng với vị thế ngành dầu khí thượng/hạ nguồn hiện tại, **chưa cần thiết phải cắt/chốt** ngay, ưu tiên nắm giữ để tối ưu hóa biên lợi nhuận theo diễn biến crack spread.
+- **Mã: KBC, GVR, SZC**
+  - Động lực (FA): Làn sóng dịch chuyển sản xuất công nghệ cao của các tập đoàn Mỹ.
+  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm nơi trú ẩn tại nhóm có quỹ đất sẵn sàng cho thuê trong bối cảnh vĩ mô biến động.
+  - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo VN-Index.
+- **Mã: SSI, VND, PDR**
+  - Động lực (FA): Lạm phát Mỹ tăng, rủi ro thắt chặt tiền tệ và áp lực chi phí vốn.
+  - Nhận định dòng tiền: Áp lực bán ngắn hạn gia tăng do lo ngại biên lợi nhuận bị bào mòn.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chưa vội bắt đáy.
+- **Mã: VCG, HHV**
+  - Động lực (FA): Biến động giá cát san lấp, rủi ro đội vốn dự án đầu tư công.
+  - Nhận định dòng tiền: Dòng tiền suy yếu do lo ngại biên lợi nhuận bị thu hẹp.
+  - Hành động: Tiếp tục quan sát, chờ tín hiệu ổn định giá vật liệu đầu vào.
