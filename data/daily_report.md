@@ -1,21 +1,27 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:15 - 15/10/2026
+⏱ Thời gian: 06:45 ngày 15/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lạm phát Mỹ vượt dự báo (Tiêu cực):** Gây áp lực trực tiếp lên tỷ giá USD/VND và định hướng thắt chặt tiền tệ của NHNN -> Gây áp lực giảm giá ngắn hạn lên nhóm nhạy cảm với lãi suất (Bất động sản & Chứng khoán).
-- **Mở rộng sản xuất công nghệ cao tại VN (Tích cực):** Các tập đoàn lớn (Apple, Intel, Meta) thúc đẩy nhu cầu BĐS khu công nghiệp -> Dòng tiền kỳ vọng xoay trục vào nhóm BĐS KCN.
-- **Tăng vốn điều lệ các ngân hàng (Tích cực):** Củng cố CAR, tăng năng lực tín dụng dài hạn -> Tạo nền tảng giữ nhịp thị trường trước áp lực vĩ mô.
+- Lạm phát Mỹ tăng vượt dự báo gây áp lực tỷ giá, buộc NHNN có khả năng thắt chặt tiền tệ -> [Đánh giá: Tiêu cực] -> [Dòng tiền rút khỏi nhóm nhạy cảm lãi suất: Bất động sản (PDR) và Chứng khoán (SSI, VND)].
+- Các tập đoàn công nghệ (Apple, Intel, Meta) thúc đẩy mở rộng sản xuất bán dẫn tại VN -> [Đánh giá: Tích cực] -> [Dòng tiền tập trung vào Bất động sản Khu công nghiệp (KBC, GVR, SZC)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KBC, GVR, SZC**
-  - Động lực (FA): Làn sóng dịch chuyển sản xuất công nghệ cao của các tập đoàn Mỹ.
-  - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm nơi trú ẩn tại nhóm có quỹ đất sẵn sàng cho thuê trong bối cảnh vĩ mô biến động.
-  - Hành động: Chú ý giải ngân nếu có nhịp điều chỉnh theo VN-Index.
-- **Mã: SSI, VND, PDR**
-  - Động lực (FA): Lạm phát Mỹ tăng, rủi ro thắt chặt tiền tệ và áp lực chi phí vốn.
-  - Nhận định dòng tiền: Áp lực bán ngắn hạn gia tăng do lo ngại biên lợi nhuận bị bào mòn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chưa vội bắt đáy.
-- **Mã: VCG, HHV**
-  - Động lực (FA): Biến động giá cát san lấp, rủi ro đội vốn dự án đầu tư công.
-  - Nhận định dòng tiền: Dòng tiền suy yếu do lo ngại biên lợi nhuận bị thu hẹp.
-  - Hành động: Tiếp tục quan sát, chờ tín hiệu ổn định giá vật liệu đầu vào.
+- Mã: HPG, HSG, NKG
+  - Động lực (FA): Thị trường điều chỉnh, nhóm thép trở thành kênh trú ẩn dòng tiền.
+  - Nhận định dòng tiền: Dòng tiền luân chuyển vào nhóm Thép thay thế các nhóm ngành tài chính, thể hiện sức mạnh nội tại vượt trội so với VN-Index.
+  - Hành động: Theo dõi sát vùng hỗ trợ của chỉ số, ưu tiên quan sát sự duy trì thanh khoản tại nhóm thép.
+
+- Mã: VMC
+  - Động lực (FA): Bị cắt margin.
+  - Nhận định dòng tiền: Áp lực bán từ nhà đầu tư sử dụng đòn bẩy sẽ gia tăng.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+
+- Mã: KBC, GVR, SZC
+  - Động lực (FA): Làn sóng FDI công nghệ cao (Apple, Intel, Meta).
+  - Nhận định dòng tiền: Dòng tiền kỳ vọng vào nhóm hưởng lợi FDI sẽ tạo lực đỡ cho danh mục khi thị trường chung rung lắc.
+  - Hành động: Chú ý giải ngân tại các nhịp chỉnh kỹ thuật.
+
+- Mã: SSI, VND, PDR
+  - Động lực (FA): Lạm phát Mỹ tăng, rủi ro thắt chặt tiền tệ trong nước.
+  - Nhận định dòng tiền: Tiêu cực, áp lực chốt lời/cơ cấu vị thế tăng cao.
+  - Hành động: Rủi ro vi phạm kịch bản, cần kiểm soát chặt tỷ trọng.
