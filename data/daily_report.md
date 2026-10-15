@@ -1,23 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:10 - 15/10/2026
+⏱ Thời gian: 13:45:48 - 15/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Mở rộng 960km cao tốc Bắc - Nam**: Chính thức chia dự án phía Bắc và phía Nam để đẩy nhanh tiến độ -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Xây dựng hạ tầng & Vật liệu xây dựng (VCG, HHV, KSB)**.
-- **Tín dụng BĐS vượt 5,2 triệu tỷ đồng**: Áp lực thanh khoản và rủi ro nợ xấu gia tăng trước sự kiểm soát của NHNN -> **Tiêu cực** -> Gây áp lực bán mạnh lên nhóm **Bất động sản (VHM, NVL)** và nhóm **Ngân hàng có tỷ trọng cho vay BĐS cao (TCB, MBB)**.
-- **VN-Index thủng hỗ trợ kỹ thuật 1.715 điểm**: Kích hoạt tâm lý bán tháo trên diện rộng -> **Tiêu cực** -> Dòng tiền đang có xu hướng rút khỏi các cổ phiếu vốn hóa lớn (Bluechips) để tránh rủi ro giải chấp (Margin call).
+- **Lãi suất huy động tăng:** Các nhà băng bắt đầu đua lãi suất huy động nhằm gia tăng thanh khoản -> **Tác động: Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút ròng khỏi thị trường chứng khoán, gây sức ép lên nhóm Bất động sản (đòn bẩy cao) và các ngân hàng có tỷ trọng cho vay trung-dài hạn lớn.
+- **Căng thẳng Biển Đen:** Drone tấn công tàu hàng tại Bulgaria làm gián đoạn chuỗi cung ứng -> **Tác động: Tiêu cực** -> Chi phí vận tải/bảo hiểm tăng, bất lợi cho nhóm logistics, cảng biển.
+- **Chính sách kiểm soát lạm phát:** Chính phủ kìm giá điện và xăng dầu -> **Tác động: Trung lập/Tiêu cực nhẹ** -> Giảm áp lực chi phí cho doanh nghiệp sản xuất nhưng trực tiếp làm giảm biên lợi nhuận của các mã ngành điện và xăng dầu (POW, PLX).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VCG, HHV, KSB**
-  - Động lực (FA): Hưởng lợi trực tiếp từ dự án mở rộng 960km cao tốc Bắc - Nam.
-  - Nhận định dòng tiền: Nhóm cổ phiếu này có khả năng trở thành "hầm trú ẩn" và thu hút dòng tiền đầu cơ nhờ kỳ vọng khối lượng công việc tăng đột biến trong trung hạn.
-  - Hành động: **Chú ý giải ngân** tại các nhịp rung lắc, tập trung vào các mã có nền tảng thi công tốt.
+- **Mã: SHB**
+  - Động lực (FA): S&P Global Ratings xếp hạng "AA" cho trái phiếu được bảo lãnh bởi ADB.
+  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp việc tối ưu hóa chi phí vốn quốc tế, cải thiện định giá và tạo niềm tin cho nhà đầu tư ngoại.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo thị trường chung.
+- **Mã: MBS**
+  - Động lực (FA): Lợi nhuận quý 3 sụt giảm so với cùng kỳ.
+  - Nhận định dòng tiền: Áp lực lên định giá ngắn hạn, cần thận trọng trước rủi ro điều chỉnh kỹ thuật.
+  - Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản nếu thủng hỗ trợ gần nhất.
+- **Mã: MSN, MWG**
+  - Động lực (FA): Áp lực xả ròng mạnh từ khối ngoại trong phiên 14/10 (>300 tỷ).
+  - Nhận định dòng tiền: Dòng tiền dẫn dắt suy yếu, rủi ro điều chỉnh kỹ thuật ngắn hạn cao.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi chưa có tín hiệu cân bằng từ khối ngoại.
 
-- **Mã: VHM, NVL, TCB**
-  - Động lực (FA): Áp lực tín dụng BĐS và áp lực bán khối ngoại/ETF.
-  - Nhận định dòng tiền: Áp lực bán kỹ thuật đang mạnh, khả năng cao sẽ tiếp tục điều chỉnh sâu.
-  - Hành động: **Rủi ro vi phạm kịch bản**; hạn chế bắt đáy khi chưa có tín hiệu cân bằng tại các ngưỡng hỗ trợ mới.
-
-- **Mã: HAH**
-  - Động lực (FA): Giá xăng dầu thế giới giảm, hỗ trợ biên lợi nhuận vận tải/logistics.
-  - Nhận định dòng tiền: Dòng tiền phản ứng tích cực với các mã hưởng lợi từ chi phí đầu vào thấp trong bối cảnh thị trường chung suy yếu.
-  - Hành động: **Tiếp tục quan sát** xu hướng dòng tiền nội tại để xác nhận vị thế.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **Mã: EIB**
+  - Nhận định: Tin tức về việc hoàn thiện cơ cấu quản trị theo chiến lược 2026-2030 và thông tin nới room ngoại là tín hiệu tích cực mang tính nền tảng. Đây là cơ sở để duy trì vị thế nắm giữ thay vì cắt lỗ, tận dụng cơ hội tái cơ cấu danh mục để tập trung vào các mã có chất lượng quản trị và dòng vốn ngoại hỗ trợ trong bối cảnh thị trường biến động.
