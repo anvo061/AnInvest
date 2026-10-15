@@ -1,25 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:45:48 - 15/10/2026
+⏱ Thời gian: 19:09:31
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động tăng:** Các nhà băng bắt đầu đua lãi suất huy động nhằm gia tăng thanh khoản -> **Tác động: Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút ròng khỏi thị trường chứng khoán, gây sức ép lên nhóm Bất động sản (đòn bẩy cao) và các ngân hàng có tỷ trọng cho vay trung-dài hạn lớn.
-- **Căng thẳng Biển Đen:** Drone tấn công tàu hàng tại Bulgaria làm gián đoạn chuỗi cung ứng -> **Tác động: Tiêu cực** -> Chi phí vận tải/bảo hiểm tăng, bất lợi cho nhóm logistics, cảng biển.
-- **Chính sách kiểm soát lạm phát:** Chính phủ kìm giá điện và xăng dầu -> **Tác động: Trung lập/Tiêu cực nhẹ** -> Giảm áp lực chi phí cho doanh nghiệp sản xuất nhưng trực tiếp làm giảm biên lợi nhuận của các mã ngành điện và xăng dầu (POW, PLX).
+- Kết quả kinh doanh quý 3 của nhóm Chứng khoán tăng trưởng đột biến (gần 300%) đối nghịch với xu hướng điều chỉnh của VN-Index dưới mốc 1.700 điểm. -> Đánh giá tác động: Tích cực (tạo sự phân hóa dòng tiền) -> Dòng tiền tập trung vào nhóm Chứng khoán (đầu cơ theo KQKD) và Bất động sản/Xây dựng (được hỗ trợ tín dụng).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SHB**
-  - Động lực (FA): S&P Global Ratings xếp hạng "AA" cho trái phiếu được bảo lãnh bởi ADB.
-  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp việc tối ưu hóa chi phí vốn quốc tế, cải thiện định giá và tạo niềm tin cho nhà đầu tư ngoại.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh theo thị trường chung.
-- **Mã: MBS**
-  - Động lực (FA): Lợi nhuận quý 3 sụt giảm so với cùng kỳ.
-  - Nhận định dòng tiền: Áp lực lên định giá ngắn hạn, cần thận trọng trước rủi ro điều chỉnh kỹ thuật.
-  - Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản nếu thủng hỗ trợ gần nhất.
-- **Mã: MSN, MWG**
-  - Động lực (FA): Áp lực xả ròng mạnh từ khối ngoại trong phiên 14/10 (>300 tỷ).
-  - Nhận định dòng tiền: Dòng tiền dẫn dắt suy yếu, rủi ro điều chỉnh kỹ thuật ngắn hạn cao.
-  - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi chưa có tín hiệu cân bằng từ khối ngoại.
+- Mã: SSI
+- Động lực (FA): Công bố kết quả kinh doanh quý 3 tăng trưởng mạnh, hưởng lợi từ thanh khoản và mảng tự doanh.
+- Nhận định dòng tiền: Dù chỉ số chung tiêu cực gây áp lực bán ngắn hạn, nhưng kỳ vọng vào con số thực tế trong báo cáo quý 3 có thể tạo lực đỡ, biến mã này thành điểm trú ẩn dòng tiền nội tại.
+- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu cầu đỡ tại vùng hỗ trợ kỹ thuật, không FOMO theo nhịp kéo khi thị trường chung đang mất mốc 1.700 điểm.
+
+- Mã: TCB, MBB, VPB
+- Động lực (FA): Tăng vốn điều lệ thành công, củng cố CAR và hạn mức tín dụng quý 3.
+- Nhận định dòng tiền: Nhóm ngân hàng tư nhân lớn đang có nền tảng FA vững chắc để đối chọi với áp lực bán ròng từ khối ngoại.
+- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ cho mục tiêu trung hạn.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: EIB**
-  - Nhận định: Tin tức về việc hoàn thiện cơ cấu quản trị theo chiến lược 2026-2030 và thông tin nới room ngoại là tín hiệu tích cực mang tính nền tảng. Đây là cơ sở để duy trì vị thế nắm giữ thay vì cắt lỗ, tận dụng cơ hội tái cơ cấu danh mục để tập trung vào các mã có chất lượng quản trị và dòng vốn ngoại hỗ trợ trong bối cảnh thị trường biến động.
+- Mã: EIB
+- Nhận định: Tin tức về khoản đầu tư của VSC vào EIB chỉ mang tính chất tài chính thuần túy, không thay đổi căn bản cấu trúc quản trị hay vị thế ngân hàng. Với vị thế đã qua điểm rơi kỳ vọng (tháng 3/2026), dữ liệu này chưa đủ mạnh để gia tăng tỷ trọng. Giữ nguyên trạng thái, chờ đợi tín hiệu thay đổi về dòng vốn chiến lược.
