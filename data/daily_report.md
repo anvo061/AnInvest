@@ -1,23 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 22:15, 16/10/2026
+⏱ Thời gian: 01:50 - 17/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thương vụ hoàn tất thoái vốn SHBFinance giúp SHB cải thiện mạnh chỉ số an toàn vốn (CAR) và ghi nhận lợi nhuận bất thường -> Tích cực -> Dòng tiền nhóm Ngân hàng (đặc biệt là SHB).
-- Citigroup có kế hoạch huy động vốn quốc tế cho ngành năng lượng Việt Nam -> Tích cực -> Dòng tiền hướng vào nhóm hạ tầng năng lượng (POW, REE, GEG).
-- Dữ liệu tiền gửi dân cư tăng ổn định (7.000 tỷ/ngày) -> Tích cực -> Củng cố thanh khoản hệ thống, hỗ trợ biên lãi ròng (NIM) các ngân hàng có tỷ trọng CASA cao (VCB, TCB, MBB).
+- **Vietnam Airlines mở rộng đội bay:** Vietnam Airlines dự kiến mua thêm 25 máy bay Airbus cho phân khúc giá rẻ -> **Tích cực** -> Dòng tiền tập trung vào nhóm Hàng không (HVN, ACV, NCS).
+- **Rủi ro chi phí tài chính:** Lãi suất tăng cao gây áp lực lên biên lợi nhuận doanh nghiệp và làm dịch chuyển dòng tiền sang kênh trái phiếu -> **Tiêu cực** -> Áp lực bán tiềm ẩn lên nhóm Bất động sản (NVL, PDR) và Chứng khoán (SSI).
+- **Sức khỏe ngành Chứng khoán:** Xuất hiện khoản lỗ quý 3/2026 tại một công ty chứng khoán -> **Tiêu cực** -> Rủi ro điều chỉnh nhóm ngành chứng khoán do tâm lý thận trọng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **SHB**
-- Động lực (FA): Hoàn tất nhận giá trị chuyển nhượng SHBFinance từ đối tác Krungsri.
-- Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp vào bảng cân đối kế toán, tạo "cú hích" lợi nhuận đột biến. Dự báo dòng tiền đầu cơ sẽ chú ý vào SHB trong phiên tới.
-- Hành động: Chú ý giải ngân nếu có nhịp test cung thành công quanh vùng nền giá hiện tại.
+- **Mã: HVN, ACV**
+  - Động lực (FA): Kế hoạch mua 25 máy bay Airbus phục vụ phân khúc giá rẻ.
+  - Nhận định dòng tiền: Kỳ vọng gia tăng thị phần và doanh thu dịch vụ hạ tầng trong tương lai. Dòng tiền sẽ phản ứng tích cực với thông tin này.
+  - Hành động: Chú ý giải ngân nếu xuất hiện nhịp chỉnh kỹ thuật.
+- **Mã: SSI, NVL, PDR**
+  - Động lực (FA): Môi trường lãi suất cao gây áp lực chi phí vốn và giảm sự hấp dẫn của cổ phiếu.
+  - Nhận định dòng tiền: Tiêu cực. Áp lực rút vốn ngắn hạn, thanh khoản nhóm này có thể suy yếu.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị tỷ trọng, không mở vị thế mới.
 
-- Mã: **POW, REE**
-- Động lực (FA): Cơ hội tiếp cận dòng vốn ngoại giá rẻ từ Citigroup cho các dự án điện khí/năng lượng.
-- Nhận định dòng tiền: Dòng tiền kỳ vọng vào nhóm năng lượng sẽ được củng cố khi áp lực tài chính dài hạn được giảm bớt.
-- Hành động: Tiếp tục quan sát, ưu tiên tích lũy nếu có tín hiệu dòng tiền lớn xác nhận (khối lượng đột biến).
-
-- Mã: **KOS**
-- Động lực (FA): Tiếp tục chịu áp lực bán giải chấp từ cổ đông lớn.
-- Nhận định dòng tiền: Rủi ro cung vượt cầu vẫn ở mức cao, chưa có dấu hiệu cân bằng.
-- Hành động: Rủi ro vi phạm kịch bản, tuyệt đối tránh bắt đáy cho đến khi có thông báo dừng giải chấp từ đơn vị liên quan.
+🔄 3. Cảnh báo Tái cơ cấu:
+- Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái chiến lược.
