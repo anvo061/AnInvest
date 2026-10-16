@@ -1,5 +1,82 @@
 ﻿[
   {
+    "Title": "Chứng khoán đảo chiều tăng gần 8 điểm",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/chung-khoan-dao-chieu-tang-gan-8-diem-5133243.html",
+    "PubDate": "Fri, 16 Oct 2026 15:58:04 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Thị trường hồi phục cuối phiên cho thấy lực cầu bắt đáy xuất hiện, cải thiện tâm lý nhà đầu tư sau chuỗi phiên điều chỉnh, củng cố xu hướng tích lũy ngắn hạn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Chứng khoán. Lực cầu bắt đáy cuối phiên cải thiện tâm lý thị trường. Dòng tiền thông minh sẽ tập trung vào các mã dẫn dắt để duy trì đà hồi phục.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Đầu ngành chứng khoán, hưởng lợi trực tiếp từ sự cải thiện thanh khoản và tâm lý thị trường."
+      },
+      {
+        "Ticker": "VND",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhạy bén với biến động thị trường, thu hút dòng tiền đầu cơ khi chỉ số đảo chiều tăng."
+      },
+      {
+        "Ticker": "VCI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ kỳ vọng tăng trưởng doanh thu môi giới và tự doanh khi thị trường hồi phục."
+      }
+    ],
+    "AnalyzedAt": "2026-10-16 22:01:42"
+  },
+  {
+    "Title": "Vingroup giảm nửa tiền thuê đất, mở rộng nhà cung cấp trong nước",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/vingroup-giam-nua-tien-thue-dat-mo-rong-nha-cung-cap-trong-nuoc-5133181.html",
+    "PubDate": "Fri, 16 Oct 2026 16:50:27 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc giảm chi phí thuê đất và ưu tiên nội địa hóa chuỗi cung ứng giúp Vingroup tối ưu hóa biên lợi nhuận và củng cố vị thế hệ sinh thái, đồng thời hỗ trợ các doanh nghiệp sản xuất phụ trợ trong nước.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất PR về tối ưu hóa chi phí nội bộ, tác động thực tế đến biên lợi nhuận chưa rõ ràng. Cần theo dõi phản ứng dòng tiền tại vùng hỗ trợ.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VIC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí thuê đất giúp cải thiện biên lợi nhuận gộp cho các dự án bất động sản và sản xuất."
+      }
+    ],
+    "AnalyzedAt": "2026-10-16 22:01:24"
+  },
+  {
+    "Title": "Tập đoàn Citigroup muốn huy động vốn cho ngành năng lượng Việt Nam",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/tap-doan-citigroup-muon-huy-dong-von-cho-nganh-nang-luong-viet-nam-5133320.html",
+    "PubDate": "Fri, 16 Oct 2026 20:55:39 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 6,
+    "MarketImpact": "Việc Citigroup tham gia huy động vốn quốc tế giúp các doanh nghiệp năng lượng Việt Nam tiếp cận nguồn vốn giá rẻ, giảm áp lực tài chính và thúc đẩy các dự án hạ tầng năng lượng trọng điểm.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Năng lượng. Dòng vốn ngoại đổ vào giúp giảm chi phí vốn cho các dự án lớn. Dòng tiền thông minh sẽ chú ý đến các mã có dự án năng lượng tái tạo tiềm năng như POW, PC1.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "POW",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ khả năng tiếp cận nguồn vốn quốc tế để triển khai các dự án điện khí quy mô lớn."
+      },
+      {
+        "Ticker": "REE",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Năng lực tài chính được củng cố nhờ dòng vốn ngoại, hỗ trợ mở rộng danh mục đầu tư năng lượng."
+      },
+      {
+        "Ticker": "GEG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí lãi vay cho các dự án điện gió, điện mặt trời đang triển khai."
+      }
+    ],
+    "AnalyzedAt": "2026-10-16 22:00:22"
+  },
+  {
     "Title": "Doanh nghiệp liên quan Chủ tịch Kosy Group tiếp tục bị bán giải chấp cổ phiếu KOS - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeTFQZmZYRkl5NnUxUVBHc1R2TGFCYzl5UlEybEl2NjAxbmItazRiYkhOcXlQaG5rak9lRndXQndkT2JLb2lrV042V1dmQ0FmQ2xGYXhNRGNqRUg5NjNpSk12SFJVMkZTZWotR1lnLTlYYUNLdEFZREY3NkYtc0pMVzU0VFIyVTlISERJQUx1dGVmVmNOeFVsVGYxTTFreEFTX00ydmo1dlRQTDJ6b1ZkRnFrRjVHcnVsZF9sMVV3?oc=5",
@@ -18259,60 +18336,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-09-29 04:59:49"
-  },
-  {
-    "Title": "Công bố kết luận thanh tra Ngân hàng Nhà nước chi nhánh Khu vực 8",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/cong-bo-ket-luan-thanh-tra-ngan-hang-nha-nuoc-chi-nhanh-khu-vuc-8-2559700.html",
-    "PubDate": "Mon, 28 Sep 2026 20:43:50 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông tin hành chính về hoạt động thanh tra quản lý nhà nước, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các ngân hàng niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Tin tức hành chính về thanh tra quản lý không làm thay đổi cấu trúc dòng tiền hay biên lợi nhuận của các ngân hàng niêm yết. Bỏ qua.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-29 04:59:31"
-  },
-  {
-    "Title": "Tập đoàn 911 bị truy thu, phạt và tính tiền chậm nộp thuế gần 1,3 tỷ đồng",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/tap-doan-911-bi-truy-thu-phat-va-tinh-tien-cham-nop-thue-gan-1-3-ty-dong-2559721.html",
-    "PubDate": "Mon, 28 Sep 2026 20:38:27 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -2,
-    "MarketImpact": "Việc bị truy thu và phạt thuế ảnh hưởng trực tiếp đến lợi nhuận sau thuế của doanh nghiệp, đồng thời gây rủi ro về uy tín quản trị đối với nhà đầu tư.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Mã NO1. Khoản phạt thuế làm giảm lợi nhuận ngắn hạn và gây áp lực tâm lý lên cổ đông. Dòng tiền sẽ thận trọng, tránh xa mã này trong ngắn hạn.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-09-29 04:59:16"
-  },
-  {
-    "Title": "Cuộc phân hóa nghìn tỷ tại nhóm ngân hàng quý III/2026",
-    "Source": "VnBusiness Ngân Hàng",
-    "Link": "https://vnbusiness.vn//cuoc-phan-hoa-nghin-ty-tai-nhom-ngan-hang-quy-iii2026.html",
-    "PubDate": "Mon, 28 Sep 2026 09:24:51 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Sự phân hóa lợi nhuận phản ánh chất lượng tài sản và khả năng quản trị rủi ro khác biệt giữa các ngân hàng, dòng tiền sẽ có xu hướng dịch chuyển từ nhóm nhỏ sang nhóm dẫn đầu có tăng trưởng bền vững.",
-    "TapeReaderNote": "Tín hiệu: Phân hóa. Dòng tiền ưu tiên nhóm Big4 (VCB, BID, TCB) nhờ chất lượng tài sản vượt trội. Rủi ro nợ xấu gây áp lực bán lên nhóm ngân hàng quy mô nhỏ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Ngân hàng đầu ngành với chất lượng tài sản tốt, hưởng lợi từ xu hướng dòng tiền tìm nơi trú ẩn an toàn."
-      },
-      {
-        "Ticker": "TCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Khả năng duy trì biên lợi nhuận tốt trong bối cảnh phân hóa, thu hút dòng tiền khối ngoại."
-      },
-      {
-        "Ticker": "BID",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Lợi thế quy mô và tệp khách hàng lớn giúp duy trì đà tăng trưởng lợi nhuận ổn định."
-      }
-    ],
-    "AnalyzedAt": "2026-09-29 04:58:46"
   }
 ]
