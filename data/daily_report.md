@@ -1,24 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 13:40 - 16/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 17:50 - 16/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thâm hụt thương mại thu hẹp do nhập khẩu giảm mạnh:** Phản ánh cầu sản xuất nội địa suy yếu, gây rủi ro điều chỉnh kế hoạch kinh doanh ngắn hạn cho nhóm xuất khẩu và logistics -> **Tiêu cực** -> Dòng tiền có xu hướng thận trọng với nhóm ngành Xuất khẩu (VHC, TNG) và Dịch vụ cảng biển (GMD).
-- **Động thái tăng vốn và huy động vốn quốc tế mạnh mẽ tại nhóm Ngân hàng:** Củng cố năng lực tài chính và dư địa tăng trưởng tín dụng dài hạn -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Ngân hàng (VCB, TCB, BID, CTG, MBB, NAB).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- SHB hoàn tất thương vụ chuyển nhượng SHBFinance: Dòng tiền lớn từ thoái vốn giúp cải thiện chỉ số an toàn vốn (CAR) và ghi nhận lợi nhuận đột biến -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm **Ngân hàng (cổ phiếu có câu chuyện thoái vốn/tái cấu trúc)**.
+- Tiền gửi tiết kiệm tăng 7.000 tỷ/ngày: Dư địa tăng trưởng tín dụng dồi dào, tối ưu hóa chi phí vốn (CASA) -> **Tích cực** -> Nhóm **Ngân hàng (VCB, TCB, MBB, ACB)**.
+- Chỉ số xuất nhập khẩu suy giảm (nhập khẩu giảm mạnh hơn xuất khẩu): Phản ánh cầu nội địa yếu -> **Tiêu cực** -> Nhóm **Xuất khẩu, Cảng biển (VHC, GMD)** cần thận trọng vì triển vọng tăng trưởng ngắn hạn bị thu hẹp.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: PVT, VIP**
-    - **Động lực (FA):** Nguy cơ Mỹ gỡ bỏ lệnh trừng phạt với đội tàu dầu "bóng tối", làm tăng nguồn cung vận tải dầu toàn cầu.
-    - **Nhận định dòng tiền:** Áp lực giảm giá cước vận tải quốc tế sẽ trực tiếp làm xói mòn biên lợi nhuận, dự báo dòng tiền thoái lui để chuyển dịch sang các mã có nội tại tăng trưởng vốn tốt hơn.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, ưu tiên hạ tỷ trọng hoặc quan sát chặt vùng hỗ trợ cứng.
-- **Mã: NAB**
-    - **Động lực (FA):** Huy động thành công khoản vay hợp vốn quốc tế 100 triệu USD.
-    - **Nhận định dòng tiền:** Tín hiệu tích cực về khả năng tiếp cận vốn chi phí thấp, kỳ vọng thu hút dòng tiền khối ngoại và các quỹ đầu tư dài hạn.
-    - **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
-- **Mã: HAX**
-    - **Động lực (FA):** Trình kế hoạch mua lại 4,5 triệu cổ phiếu quỹ.
-    - **Nhận định dòng tiền:** Hành động mua lại cổ phiếu là "bộ đệm" hỗ trợ giá hiệu quả trong ngắn hạn, tạo tâm lý tích cực cho nhà đầu tư cá nhân.
-    - **Hành động:** Chú ý giải ngân theo tín hiệu xác nhận từ dòng tiền lớn.
-- **Mã: DBC, BAF**
-    - **Động lực (FA):** Giá heo hơi lao dốc.
-    - **Nhận định dòng tiền:** Áp lực biên lợi nhuận trong quý tới khiến sức hút của nhóm này suy giảm rõ rệt.
-    - **Hành động:** Tiếp tục quan sát, chưa nên giải ngân bắt đáy.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: SHB**
+    - Động lực (FA): Hoàn tất chuyển nhượng SHBFinance cho Krungsri.
+    - Nhận định dòng tiền: Tin tức xác nhận dòng tiền thực, giúp củng cố bảng cân đối kế toán, kỳ vọng thu hút dòng tiền đầu cơ lẫn đầu tư vào nhịp hồi phục của nhóm tài chính.
+    - Hành động: Chú ý giải ngân nếu có nhịp test lại cung quanh vùng hỗ trợ.
+- **Mã: KOS**
+    - Động lực (FA): Chủ tịch tiếp tục bị bán giải chấp.
+    - Nhận định dòng tiền: Áp lực cung lớn, tâm lý tiêu cực bao trùm, vi phạm kỷ luật nắm giữ.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy trong giai đoạn bán giải chấp chưa kết thúc.
+- **Mã: FPT, CMG**
+    - Động lực (FA): Nhận định từ Fed về "cú sốc tích cực" của AI.
+    - Nhận định dòng tiền: Củng cố kỳ vọng tăng trưởng dài hạn, thu hút dòng tiền khối ngoại và các quỹ đầu tư tăng trưởng.
+    - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi thị trường chung ổn định.
