@@ -1,22 +1,30 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:16, 17/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 00:15 (18/10/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thông tin:** Bloomberg báo cáo chính phủ Việt Nam đẩy mạnh các cuộc điều tra hình sự liên quan đến lĩnh vực BĐS; đồng thời ban hành quy định thanh toán không dùng tiền mặt cho các giao dịch vàng từ 5 triệu đồng.
-- **Đánh giá tác động:** Hỗn hợp. Rủi ro tiêu cực từ điều tra hình sự (pháp lý/thanh khoản) đối trọng với tín hiệu tích cực từ số hóa thanh toán (tài chính/minh bạch).
-- **Dòng tiền:** Phân hóa mạnh; rút khỏi nhóm BĐS có nợ xấu cao, dịch chuyển sang nhóm Ngân hàng có hạ tầng số mạnh và nhóm Công nghệ.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chính sách tiền tệ:** Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm **Bất động sản (đòn bẩy cao)** và **Sản xuất (giảm chi phí tài chính)**.
+- **Cơ chế thị trường:** Chính phủ muốn nới lỏng điều kiện IPO -> **Tích cực** -> Dòng tiền tập trung nhóm **Chứng khoán (đặc biệt các mã có mảng IB mạnh)**.
+- **Vốn ngoại:** SHB hoàn tất nhận tiền chuyển nhượng SHBFinance và NAB vay vốn ngoại 100 triệu USD -> **Tích cực** -> Nhóm **Ngân hàng** kỳ vọng cải thiện NIM và chỉ số an toàn vốn.
+- **Rủi ro:** Đẩy nhanh các cuộc điều tra hình sự lĩnh vực BĐS -> **Tiêu cực** -> Tạo lực cản tâm lý đối với nhóm **BĐS vốn hóa lớn và Ngân hàng có dư nợ BĐS tập trung**.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL, VHM, TCB, VPB**
-    - **Động lực (FA):** Áp lực từ các cuộc điều tra dự án BĐS làm gia tăng rủi ro thanh khoản và rủi ro tín dụng.
-    - **Nhận định dòng tiền:** Áp lực bán tháo ngắn hạn diện rộng do tâm lý bất an.
-    - **Hành động:** Rủi ro vi phạm kịch bản. Ưu tiên quản trị rủi ro, hạ tỷ trọng đối với các vị thế BĐS đang bị call margin.
-- **Mã: VCB, TCB, MBB, FPT**
-    - **Động lực (FA):** Hưởng lợi trực tiếp từ quy định thanh toán vàng qua ngân hàng, giúp tăng CASA và phí dịch vụ số.
-    - **Nhận định dòng tiền:** Dòng tiền thông minh có xu hướng tìm đến nhóm này như hầm trú ẩn và kỳ vọng tăng trưởng từ dịch vụ số.
-    - **Hành động:** Chú ý giải ngân nếu xuất hiện nhịp rung lắc theo thị trường chung.
-
-- **Mã: KOS**
-    - **Động lực (FA):** Bị HOSE yêu cầu giải trình sau 5 phiên giảm sàn liên tiếp.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ hoảng loạn, rủi ro rơi tự do và call margin chéo.
-    - **Hành động:** Tránh bắt đáy bằng mọi giá, chờ đợi tín hiệu cân bằng thực sự từ thanh khoản.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VCB, VHM, PDR**
+    - **Động lực (FA):** Cam kết giảm 2% lãi suất cho vay.
+    - **Nhận định dòng tiền:** VCB hưởng lợi vị thế dẫn dắt; VHM, PDR hưởng lợi trực tiếp từ biên lợi nhuận/thanh khoản dự án.
+    - **Hành động:** Chú ý giải ngân (tập trung nhóm BĐS có tài sản sạch).
+- **Mã: SSI, VCI**
+    - **Động lực (FA):** Nới lỏng điều kiện IPO tạo kỳ vọng tăng trưởng mảng IB.
+    - **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể quay lại nhóm Chứng khoán nhờ câu chuyện IPO.
+    - **Hành động:** Chú ý giải ngân.
+- **Mã: SHB, NAB**
+    - **Động lực (FA):** SHB hoàn tất thu tiền từ SHBFinance; NAB vay vốn ngoại 100 triệu USD.
+    - **Nhận định dòng tiền:** Cải thiện CAR và NIM giúp củng cố nền tảng tài chính.
+    - **Hành động:** Tiếp tục quan sát (đánh giá vùng giá kỹ thuật).
+- **Mã: UPC**
+    - **Động lực (FA):** GDKHQ trả cổ tức tiền mặt 1.500đ/cp ngày 30/10.
+    - **Nhận định dòng tiền:** Thu hút dòng tiền đầu tư giá trị, ổn định tâm lý.
+    - **Hành động:** Tiếp tục quan sát.
+- **Mã: NVL, KOS**
+    - **Động lực (FA):** Rủi ro điều tra hình sự (NVL) và áp lực giải trình giảm sàn (KOS).
+    - **Nhận định dòng tiền:** Áp lực bán tháo và rủi ro call margin vẫn hiện hữu.
+    - **Hành động:** Rủi ro vi phạm kịch bản (né tránh/cân nhắc hạ tỷ trọng).
