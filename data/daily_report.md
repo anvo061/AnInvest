@@ -1,20 +1,26 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:57 (17/10/2026)
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 13:45 - 17/10/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Giá dầu thô thế giới cán mốc 110 USD/thùng -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung vào nhóm Dầu khí (Thượng nguồn và Dịch vụ dầu khí).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chính phủ trình mục tiêu tăng trưởng GDP 2027 từ 10%:** -> **Tích cực:** Tạo kỳ vọng lớn về giải ngân đầu tư công và thu hút FDI, dòng tiền kỳ vọng chảy mạnh vào nhóm Ngân hàng (VCB) và Bất động sản khu công nghiệp (KBC, GVR).
+- **Mỹ thâm hụt ngân sách 2.000 tỷ USD & Thị trường chứng khoán Mỹ bán tháo:** -> **Tiêu cực:** Gây áp lực tỷ giá và tâm lý lo ngại rủi ro hệ thống (risk-off) cho các mã Beta cao (SSI).
+- **Cải thiện chuỗi logistics nông sản:** -> **Tích cực:** Tối ưu biên lợi nhuận cho nhóm nông nghiệp và cảng biển (HNG, HAG, GMD).
+- **Dự báo không đạt mục tiêu tăng trưởng tại các đầu tàu kinh tế (HCM, Hà Nội, Hải Phòng, Đồng Nai):** -> **Tiêu cực:** Đối ứng ngược lại với kỳ vọng tăng trưởng dài hạn, tạo ra sự phân hóa trong định giá nhóm BĐS khu công nghiệp (KBC) và Logistics (GMD).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới chạm mốc 110 USD/thùng, thúc đẩy nhu cầu khoan và tăng đơn giá cho thuê giàn khoan.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp về mặt tâm lý và kỳ vọng biên lợi nhuận, dòng tiền có khả năng đẩy mạnh vào mã này trong phiên sáng.
-- Hành động: Chú ý giải ngân (Canh điểm vào khi có rung lắc đầu phiên).
-
-- Mã: **PLP**
-- Động lực (FA): Thông tin cổ phiếu bị đưa vào diện kiểm soát do vi phạm công bố thông tin/tài chính.
-- Nhận định dòng tiền: Rủi ro thanh khoản cao, áp lực bán tháo từ nhà đầu tư cá nhân sẽ gia tăng.
-- Hành động: Rủi ro vi phạm kịch bản (Cân nhắc thoát vị thế nếu nắm giữ).
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Giá dầu thô leo thang lên 110 USD/thùng tạo lợi thế ngắn hạn cho giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Tuy nhiên, với vị thế cần rà soát trung hạn (thời hạn tháng 3/2026 đã qua), đây là cơ hội tốt để **cơ cấu lại (chốt lời một phần)** nhằm tối ưu hóa dòng tiền khi giá dầu chạm vùng kháng cự cao, thay vì giữ nguyên vị thế cũ.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VCB**
+    - Động lực (FA): Hưởng lợi trực tiếp từ mục tiêu tăng trưởng GDP 2027 đầy tham vọng.
+    - Nhận định dòng tiền: Hút dòng vốn ngoại khối (ETF) làm trụ đỡ cho chỉ số trong giai đoạn rung lắc.
+    - Hành động: **Chú ý giải ngân** nếu thị trường chung điều chỉnh theo áp lực từ chứng khoán Mỹ.
+- **Mã: KBC**
+    - Động lực (FA): Giằng co giữa kỳ vọng FDI (tăng trưởng GDP 2027) và rủi ro giảm tốc độ lấp đầy tại các trọng điểm kinh tế.
+    - Nhận định dòng tiền: Dòng tiền sẽ phân hóa, biến động mạnh theo tin tức vĩ mô hàng ngày.
+    - Hành động: **Tiếp tục quan sát**, chờ điểm cân bằng cung cầu tại ngưỡng hỗ trợ gần nhất.
+- **Mã: GMD**
+    - Động lực (FA): Hưởng lợi kép từ logistics nông sản nhưng chịu rủi ro từ sự suy giảm sản xuất tại các đầu tàu kinh tế.
+    - Nhận định dòng tiền: Nhạy cảm với số liệu xuất nhập khẩu thực tế.
+    - Hành động: **Tiếp tục quan sát**.
+- **Mã: SSI**
+    - Động lực (FA): Chịu áp lực bán tháo theo tâm lý quốc tế.
+    - Nhận định dòng tiền: Khả năng bị khối ngoại xả hàng trong ngắn hạn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên phòng thủ.
