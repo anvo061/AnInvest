@@ -1,16 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 17/10/2026
+⏱ Thời gian: 08:57 (17/10/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Hiện tượng một mã BĐS lớn giảm sàn phiên thứ 20 liên tiếp -> Đánh giá tác động: **Tiêu cực** -> Dòng tiền sẽ chịu áp lực thận trọng, rủi ro kích hoạt bán giải chấp (call margin) chéo lên nhóm BĐS có đòn bẩy cao và thanh khoản thấp.
+- Giá dầu thô thế giới cán mốc 110 USD/thùng -> **Tích cực** -> Dòng tiền dự kiến sẽ tập trung vào nhóm Dầu khí (Thượng nguồn và Dịch vụ dầu khí).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **NVL**
-- Động lực (FA): Áp lực bán tháo kéo dài 20 phiên, rủi ro thanh khoản diện rộng.
-- Nhận định dòng tiền: Dòng tiền thông minh sẽ né tránh hoặc rút khỏi nhóm BĐS yếu kém để bảo toàn vốn trước áp lực bán giải chấp lan tỏa.
-- Hành động: **Rủi ro vi phạm kịch bản**. Quan sát sát sao ngưỡng hỗ trợ cứng; tuyệt đối không bắt đáy khi chưa có tín hiệu dừng đà giảm và lực cầu hấp thụ thanh khoản.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới chạm mốc 110 USD/thùng, thúc đẩy nhu cầu khoan và tăng đơn giá cho thuê giàn khoan.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp về mặt tâm lý và kỳ vọng biên lợi nhuận, dòng tiền có khả năng đẩy mạnh vào mã này trong phiên sáng.
+- Hành động: Chú ý giải ngân (Canh điểm vào khi có rung lắc đầu phiên).
 
-- Mã: **DIG, DXG**
-- Động lực (FA): Công khai danh mục 12 dự án ưu tiên thu hút đầu tư tại phía Bắc Đồng Nai.
-- Nhận định dòng tiền: Tin tức hỗ trợ cơ bản dài hạn, nhưng trong ngắn hạn sẽ bị nhiễu bởi tâm lý hoang mang từ nhóm BĐS.
-- Hành động: **Tiếp tục quan sát**. Chỉ giải ngân nếu thị trường chung ổn định, không chịu tác động tâm lý từ mã sàn.
+- Mã: **PLP**
+- Động lực (FA): Thông tin cổ phiếu bị đưa vào diện kiểm soát do vi phạm công bố thông tin/tài chính.
+- Nhận định dòng tiền: Rủi ro thanh khoản cao, áp lực bán tháo từ nhà đầu tư cá nhân sẽ gia tăng.
+- Hành động: Rủi ro vi phạm kịch bản (Cân nhắc thoát vị thế nếu nắm giữ).
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+- Nhận định: Giá dầu thô leo thang lên 110 USD/thùng tạo lợi thế ngắn hạn cho giá trị hàng tồn kho và biên lợi nhuận lọc dầu. Tuy nhiên, với vị thế cần rà soát trung hạn (thời hạn tháng 3/2026 đã qua), đây là cơ hội tốt để **cơ cấu lại (chốt lời một phần)** nhằm tối ưu hóa dòng tiền khi giá dầu chạm vùng kháng cự cao, thay vì giữ nguyên vị thế cũ.
