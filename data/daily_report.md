@@ -1,25 +1,32 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 18:00**
-⏱ Thời gian: 18:00 - 18/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 21:30 - 18/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Chính sách tiền tệ:** NHNN chỉ đạo quyết liệt giảm lãi suất huy động và cho vay (đặc biệt hạ 2% lãi suất cho vay), đe dọa cắt room tín dụng nếu không tuân thủ. -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Chứng khoán (SSI)** nhờ tăng thanh khoản/margin và nhóm **Sản xuất (HPG)** nhờ giảm chi phí tài chính.
-- **Dòng vốn ngoại:** Indonesia nguy cơ bị loại khỏi chỉ số MSCI. -> **Tích cực** -> Dòng vốn ngoại có khả năng dịch chuyển sang Việt Nam, tập trung các mã vốn hóa lớn (**VCB, FPT, HPG**).
-- **Tăng trưởng địa phương:** Cam kết tăng trưởng 2 chữ số tại TP.HCM. -> **Tích cực** -> Đẩy mạnh dòng tiền vào BĐS Khu công nghiệp (**KBC, SZC**) và các doanh nghiệp có quỹ đất/hạ tầng lớn (**VHM**).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- Ngân hàng Nhà nước chỉ đạo giảm lãi suất huy động 0,5% kết hợp cùng động thái hạ lãi suất cho vay của Agribank -> [Tích cực] -> Dòng tiền kỳ vọng xoay trục mạnh mẽ vào nhóm Bất động sản (đòn bẩy cao, chi phí vốn giảm) và Chứng khoán (kích thích thanh khoản).
+- Dòng vốn ngoại tiềm năng dịch chuyển từ Indonesia sang Việt Nam (theo định hướng MSCI) -> [Tích cực] -> Ưu tiên các mã vốn hóa lớn (Bluechips) như VCB, HPG, FPT.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: SSI**
-  - Động lực (FA): Hưởng lợi kép từ việc giảm lãi suất (tăng thanh khoản thị trường), mua lại cổ phiếu quỹ và đề xuất cơ chế Sandbox cho sản phẩm mới.
-  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự kiến thu hút dòng tiền mạnh trong các phiên tới.
-  - Hành động: **Chú ý giải ngân** theo đà tăng.
-- **Mã: VPG**
-  - Động lực (FA): Bị chuyển sang diện hạn chế giao dịch.
-  - Nhận định dòng tiền: Áp lực bán tháo do rủi ro thanh khoản.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế để bảo toàn vốn.
-- **Mã: AGG**
-  - Động lực (FA): Người nội bộ mua vào 3 triệu cổ phiếu tại vùng đáy lịch sử.
-  - Nhận định dòng tiền: Tín hiệu tạo đáy kỹ thuật, lực cầu kỳ vọng cải thiện.
-  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng hỗ trợ này.
-- **Mã: PVD**
-  - Động lực (FA): Giá dầu duy trì đà tăng do căng thẳng vĩ mô toàn cầu.
-  - Nhận định dòng tiền: Hỗ trợ biên lợi nhuận, củng cố đà tăng trung hạn.
-  - Hành động: **Tiếp tục quan sát**.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: PDR
+- Động lực (FA): Hưởng lợi kép từ việc giảm lãi suất huy động và chỉ đạo giảm lãi suất cho vay, giúp giảm áp lực chi phí tài chính vốn là gánh nặng lớn nhất.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ sớm phản ứng với tin tức hạ lãi suất, tạo lực cầu ngắn hạn.
+- Hành động: Chú ý giải ngân vùng hỗ trợ nếu tín hiệu thanh khoản cải thiện.
+
+- Mã: VHM
+- Động lực (FA): Chi phí vốn giảm trực tiếp hỗ trợ biên lợi nhuận dự án và tăng sức mua của người tiêu dùng cuối cùng.
+- Nhận định dòng tiền: Tích cực, kỳ vọng hồi phục kỹ thuật nhờ sự hỗ trợ từ vĩ mô ngành.
+- Hành động: Tiếp tục quan sát để xác nhận lực cầu từ khối ngoại.
+
+- Mã: SSI
+- Động lực (FA): Môi trường lãi suất thấp là "oxy" cho thị trường chứng khoán (tăng margin & phí môi giới).
+- Nhận định dòng tiền: Hưởng lợi trực tiếp, dòng tiền sẽ tập trung vào nhóm dẫn dắt ngành chứng khoán khi có tin hỗ trợ thanh khoản.
+- Hành động: Chú ý giải ngân.
+
+- Mã: AGG
+- Động lực (FA): Nội bộ đăng ký mua 3 triệu cổ phiếu tại vùng đáy lịch sử.
+- Nhận định dòng tiền: Tín hiệu hỗ trợ giá mạnh từ phía cung, tạo tâm lý an tâm cho nhà đầu tư cá nhân.
+- Hành động: Tiếp tục quan sát điểm vào.
+
+- Mã: VPG
+- Động lực (FA): Bị chuyển sang diện hạn chế giao dịch.
+- Nhận định dòng tiền: Áp lực bán tháo khó tránh khỏi, thanh khoản bị bóp nghẹt.
+- Hành động: Rủi ro vi phạm kịch bản, cần dứt khoát cơ cấu nếu đang nắm giữ.
