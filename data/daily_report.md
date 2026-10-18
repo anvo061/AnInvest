@@ -1,19 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:50 - 18/10/2026
+⏱ Thời gian: 08:35 - 18/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nhóm ngành Ô tô/Xe điện: Các doanh nghiệp sản xuất, lắp ráp ô tô nội địa (TMT, HTL) đối mặt với khó khăn kéo dài; sự xuất hiện của xe điện Trung Quốc giá rẻ tạo áp lực cạnh tranh biên lợi nhuận gay gắt lên VIC -> **Tiêu cực**.
+- Bất ổn Trung Đông đẩy giá dầu Brent lên mốc 110 USD/thùng -> Tích cực -> Dòng tiền dự kiến phân hóa mạnh vào nhóm Dầu khí (Thượng nguồn & Lọc hóa dầu).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VIC**
-    - Động lực (FA): Áp lực cạnh tranh trực tiếp từ xe điện giá rẻ Trung Quốc (từ 300 triệu đồng) vào thị trường Việt Nam.
-    - Nhận định dòng tiền: Tâm lý tiêu cực ngắn hạn có thể gia tăng, dòng tiền có xu hướng thận trọng với nhóm sản xuất xe điện nội địa.
-    - Hành động: Rủi ro vi phạm kịch bản, cần theo dõi chặt chẽ vùng hỗ trợ gần nhất, ưu tiên quản trị rủi ro.
-- **Mã: TMT, HTL**
-    - Động lực (FA): Báo cáo lỗ 15 năm liên tiếp của ngành sản xuất ô tô trong nước; biên lợi nhuận mỏng và rủi ro tài chính cao.
-    - Nhận định dòng tiền: Dòng tiền thoát ra do triển vọng tăng trưởng ảm đạm.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên cơ cấu danh mục ra khỏi nhóm ngành đang suy yếu.
-- **Mã: ACV**
-    - Động lực (FA): Mở đường bay quốc tế mới (Thượng Hải - TP HCM) tăng lưu lượng khách.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền phân hóa tích cực vào nhóm hạ tầng hàng không và dịch vụ du lịch.
-    - Hành động: Tiếp tục quan sát phản ứng dòng tiền tại các vùng cản kỹ thuật.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu Brent tiến về 110 USD/thùng thúc đẩy nhu cầu thuê giàn khoan và cải thiện đơn giá dịch vụ.
+- Nhận định dòng tiền: Hưởng lợi trực tiếp từ sự kiện địa chính trị, kỳ vọng dòng tiền đầu cơ trú ẩn sẽ tập trung vào nhóm năng lượng trong ngắn hạn.
+- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự với thanh khoản gia tăng.
+
+- Mã: **PVS**
+- Động lực (FA): Giá dầu duy trì ở mức cao thúc đẩy khối lượng công việc từ các dự án thăm dò, khai thác.
+- Nhận định dòng tiền: Dòng tiền có xu hướng đồng thuận với PVD, hưởng lợi từ sóng kỳ vọng giá dầu.
+- Hành động: Tiếp tục quan sát, ưu tiên vị thế nếu giá ổn định trên nền tích lũy hiện tại.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- Mã: **BSR**
+- Nhận định: Giá dầu tăng mạnh giúp cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc dầu trực tiếp. Với vị thế trung hạn, dữ liệu giá dầu hiện tại là chất xúc tác mạnh để giữ tỷ trọng và quan sát khả năng bứt phá lợi nhuận trong quý tới. Tiếp tục giữ.
