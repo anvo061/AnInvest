@@ -1,20 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:35 - 19/10/2026
+⏱ Thời gian: 02:45 - 19/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Agribank giảm lãi suất cho vay từ 19/10**: Đánh giá **Tích cực** -> Dòng tiền sẽ ưu tiên các nhóm ngành có đòn bẩy tài chính cao hoặc nhạy cảm với lãi suất như Bất động sản (VHM, PDR) và Chứng khoán (SSI, VND).
-- **Thủ tướng chỉ đạo giảm khâu trung gian điện, xăng dầu, y tế**: Đánh giá **Tiêu cực** -> Tạo áp lực lên biên lợi nhuận nhóm phân phối/bán lẻ xăng dầu (PLX, PET), cần thận trọng dòng tiền ở các mã này.
+- **Ngân hàng:** NHNN kiểm soát nghiêm ngặt lãi suất huy động, siết 'room' tín dụng với các đơn vị không tuân thủ. -> **Tích cực:** Giảm áp lực chi phí vốn (NIM), ổn định nền tảng cho hệ thống ngân hàng thương mại. -> Dòng tiền ưu tiên nhóm ngân hàng có tỷ lệ CASA cao và vị thế thanh khoản tốt (VCB, TCB, ACB).
+- **Vận tải & Logistics:** Giá xăng dầu hạ nhiệt, kết hợp đà giảm cước vận tải thế giới. -> **Tích cực:** Cải thiện trực tiếp biên lợi nhuận hoạt động. -> Dòng tiền hướng vào nhóm logistics/vận tải (GMD, HAH, VTP).
+- **Rủi ro vĩ mô:** Căng thẳng Trung Đông kéo dài gây áp lực đứt gãy cung ứng và rủi ro lạm phát chi phí đẩy. -> **Tiêu cực:** Cần thận trọng với các doanh nghiệp phụ thuộc nhiều vào chi phí năng lượng và vận tải quốc tế.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND**
-    - **Động lực (FA):** Hưởng lợi kép từ việc Agribank giảm lãi suất cho vay, kích thích dòng tiền margin và thanh khoản thị trường.
-    - **Nhận định dòng tiền:** Mặc dù áp lực bán ròng khối ngoại đang gây nhiễu, nhưng tín hiệu hạ lãi suất là "điểm hợp lưu" quan trọng để giữ nhịp cho nhóm ngành chứng khoán.
-    - **Hành động:** Chú ý giải ngân (tỷ trọng vừa phải) tại các vùng hỗ trợ cứng để đón đầu dòng tiền phản ứng với chính sách.
-- **Mã: VHM**
-    - **Động lực (FA):** Áp lực bán ròng khối ngoại cực mạnh (1 tỷ USD/tháng) đối trọng với tín hiệu giảm lãi suất cho vay.
-    - **Nhận định dòng tiền:** Dòng tiền vẫn đang rút ra theo áp lực ETF. Cần quan sát thêm lực cầu nội địa có đủ hấp thụ lượng bán từ ngoại hay không trước khi hành động.
-    - **Hành động:** Tiếp tục quan sát. Tránh bắt đáy sớm khi chưa có dấu hiệu khối ngoại ngưng bán ròng.
-- **Mã: PLX, PET**
-    - **Động lực (FA):** Chính sách kiểm soát khâu trung gian của Thủ tướng đe dọa trực tiếp biên lợi nhuận.
-    - **Nhận định dòng tiền:** Rủi ro điều chỉnh cao, dòng tiền có khả năng thoái lui để tìm kiếm cơ hội ở nhóm ngành được hưởng lợi chính sách.
-    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạ tỷ trọng nếu gãy xu hướng ngắn hạn.
+- **Mã:** SSI
+- **Động lực (FA):** Kết quả kinh doanh Q3/2026 tăng trưởng "bằng lần", phản ánh thanh khoản thị trường phục hồi.
+- **Nhận định dòng tiền:** Củng cố tâm lý tích cực cho nhóm chứng khoán, tạo điểm tựa dòng tiền thay thế cho các mã bị khối ngoại bán ròng.
+- **Hành động:** Chú ý giải ngân (Canh nhịp rung lắc để vào vị thế).
+
+- **Mã:** FMC
+- **Động lực (FA):** Phụ thuộc nguồn giống nhập khẩu, chịu rủi ro chi phí đầu vào và bệnh dịch.
+- **Nhận định dòng tiền:** Áp lực tiêu cực lên biên lợi nhuận, dòng tiền có khả năng suy yếu.
+- **Hành động:** Tiếp tục quan sát (Chưa ưu tiên giải ngân).
+
+- **Mã:** PLX
+- **Động lực (FA):** Chính sách cắt giảm khâu trung gian hệ thống xăng dầu của Chính phủ.
+- **Nhận định dòng tiền:** Rủi ro trực tiếp lên biên lợi nhuận doanh nghiệp phân phối đầu mối.
+- **Hành động:** Rủi ro vi phạm kịch bản (Thận trọng, cân nhắc giảm tỷ trọng).
