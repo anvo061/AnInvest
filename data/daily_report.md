@@ -1,23 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:45 - 19/10/2026
+⏱ Thời gian: 04:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng:** NHNN kiểm soát nghiêm ngặt lãi suất huy động, siết 'room' tín dụng với các đơn vị không tuân thủ. -> **Tích cực:** Giảm áp lực chi phí vốn (NIM), ổn định nền tảng cho hệ thống ngân hàng thương mại. -> Dòng tiền ưu tiên nhóm ngân hàng có tỷ lệ CASA cao và vị thế thanh khoản tốt (VCB, TCB, ACB).
-- **Vận tải & Logistics:** Giá xăng dầu hạ nhiệt, kết hợp đà giảm cước vận tải thế giới. -> **Tích cực:** Cải thiện trực tiếp biên lợi nhuận hoạt động. -> Dòng tiền hướng vào nhóm logistics/vận tải (GMD, HAH, VTP).
-- **Rủi ro vĩ mô:** Căng thẳng Trung Đông kéo dài gây áp lực đứt gãy cung ứng và rủi ro lạm phát chi phí đẩy. -> **Tiêu cực:** Cần thận trọng với các doanh nghiệp phụ thuộc nhiều vào chi phí năng lượng và vận tải quốc tế.
+- Áp lực lãi suất cao gây khó cho doanh nghiệp đòn bẩy lớn, kết hợp gánh nặng chi phí sinh hoạt làm suy giảm sức mua bán lẻ -> [Tác động: Tiêu cực] -> [Dòng tiền thận trọng với nhóm Bất động sản (NVL, DXG) và Bán lẻ (MWG, MSN)].
+- Thông tin khơi thông hành lang ngũ cốc quốc tế -> [Tác động: Tích cực] -> [Dòng tiền tiềm năng: Nhóm chăn nuôi (DBC)].
+- Lợi nhuận nhóm Chứng khoán tăng trưởng đột biến quý 3 -> [Tác động: Tích cực] -> [Dòng tiền tập trung: Nhóm Chứng khoán (SSI)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** SSI
-- **Động lực (FA):** Kết quả kinh doanh Q3/2026 tăng trưởng "bằng lần", phản ánh thanh khoản thị trường phục hồi.
-- **Nhận định dòng tiền:** Củng cố tâm lý tích cực cho nhóm chứng khoán, tạo điểm tựa dòng tiền thay thế cho các mã bị khối ngoại bán ròng.
-- **Hành động:** Chú ý giải ngân (Canh nhịp rung lắc để vào vị thế).
+- Mã: **DBC**
+- Động lực (FA): Việc khơi thông hành lang ngũ cốc giúp giảm chi phí nguyên liệu đầu vào (ngô, đậu tương).
+- Nhận định dòng tiền: Tin tức hỗ trợ cải thiện biên lợi nhuận, kỳ vọng tạo sóng ngắn hạn nếu dòng tiền nhóm chăn nuôi đồng thuận.
+- Hành động: Chú ý giải ngân nếu xuất hiện tín hiệu vol tăng đột biến.
 
-- **Mã:** FMC
-- **Động lực (FA):** Phụ thuộc nguồn giống nhập khẩu, chịu rủi ro chi phí đầu vào và bệnh dịch.
-- **Nhận định dòng tiền:** Áp lực tiêu cực lên biên lợi nhuận, dòng tiền có khả năng suy yếu.
-- **Hành động:** Tiếp tục quan sát (Chưa ưu tiên giải ngân).
+- Mã: **SSI**
+- Động lực (FA): Kết quả kinh doanh quý 3 tăng trưởng mạnh, củng cố vị thế dẫn đầu ngành chứng khoán.
+- Nhận định dòng tiền: Củng cố tâm lý tích cực cho dòng tiền đầu cơ ngành chứng khoán, hỗ trợ xu hướng tăng giá.
+- Hành động: Tiếp tục nắm giữ, canh gia tăng tỷ trọng khi có nhịp chỉnh kỹ thuật.
 
-- **Mã:** PLX
-- **Động lực (FA):** Chính sách cắt giảm khâu trung gian hệ thống xăng dầu của Chính phủ.
-- **Nhận định dòng tiền:** Rủi ro trực tiếp lên biên lợi nhuận doanh nghiệp phân phối đầu mối.
-- **Hành động:** Rủi ro vi phạm kịch bản (Thận trọng, cân nhắc giảm tỷ trọng).
+- Mã: **MWG / MSN**
+- Động lực (FA): Áp lực chi phí sinh hoạt bào mòn thu nhập thực tế của người tiêu dùng.
+- Nhận định dòng tiền: Dòng tiền có xu hướng thoái lui hoặc đứng ngoài do lo ngại kết quả kinh doanh quý 3/4 của ngành bán lẻ.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát kỹ vùng hỗ trợ cứng.
+
+- Mã: **NVL / DXG**
+- Động lực (FA): Lãi suất neo cao gây áp lực chi phí tài chính lên các dự án chưa kịp ghi nhận doanh thu.
+- Nhận định dòng tiền: Dòng tiền yếu, dễ bị bán mạnh nếu thị trường chung điều chỉnh.
+- Hành động: Rủi ro vi phạm kịch bản, tuyệt đối không bắt đáy nếu chưa có tín hiệu dòng tiền đảo chiều.
