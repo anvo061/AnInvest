@@ -1,29 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:30
+﻿🚨 **FLASH NOTE - CẬP NHẬT 18:00**
+⏱ Thời gian: 18:00 - 18/10/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ký kết Hiệp định FTA với khối EFTA:** Mở rộng thị trường xuất khẩu sang Thụy Sĩ, Na Uy, Iceland, Liechtenstein -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Xuất khẩu (Dệt may, Thủy sản).
-- **Giá dầu thế giới tăng (Canada cảnh báo lạm phát):** -> **Tích cực** cho nhóm Thượng nguồn dầu khí nhờ cải thiện biên lợi nhuận gián tiếp.
-- **Dữ liệu xuất khẩu Trung Quốc tăng mạnh:** Cho thấy nhu cầu tiêu thụ toàn cầu hồi phục -> **Tích cực** cho nhóm Logistics/Cảng biển.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chính sách tiền tệ:** NHNN chỉ đạo quyết liệt giảm lãi suất huy động và cho vay (đặc biệt hạ 2% lãi suất cho vay), đe dọa cắt room tín dụng nếu không tuân thủ. -> **Tích cực** -> Dòng tiền ưu tiên nhóm **Chứng khoán (SSI)** nhờ tăng thanh khoản/margin và nhóm **Sản xuất (HPG)** nhờ giảm chi phí tài chính.
+- **Dòng vốn ngoại:** Indonesia nguy cơ bị loại khỏi chỉ số MSCI. -> **Tích cực** -> Dòng vốn ngoại có khả năng dịch chuyển sang Việt Nam, tập trung các mã vốn hóa lớn (**VCB, FPT, HPG**).
+- **Tăng trưởng địa phương:** Cam kết tăng trưởng 2 chữ số tại TP.HCM. -> **Tích cực** -> Đẩy mạnh dòng tiền vào BĐS Khu công nghiệp (**KBC, SZC**) và các doanh nghiệp có quỹ đất/hạ tầng lớn (**VHM**).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
 - **Mã: SSI**
-    - Động lực (FA): Công bố mua lại 800.000 cổ phiếu ESOP làm cổ phiếu quỹ và thông tin tích cực về cơ chế "Sandbox" cho thị trường chứng khoán.
-    - Nhận định dòng tiền: Tin tức cộng hưởng kép (cung giảm + mở rộng dư địa nghiệp vụ) tạo sức hút mạnh cho dòng tiền đầu cơ và khối ngoại.
-    - Hành động: **Chú ý giải ngân** nếu cổ phiếu duy trì thanh khoản ở vùng hỗ trợ.
-- **Mã: TNG, VHC**
-    - Động lực (FA): Hưởng lợi trực tiếp từ việc ký kết FTA với khối EFTA (ưu đãi thuế quan).
-    - Nhận định dòng tiền: Nhóm cổ phiếu xuất khẩu đang có chất xúc tác vĩ mô rõ rệt, dòng tiền có xu hướng tìm đến các doanh nghiệp có thị phần ổn định tại châu Âu.
-    - Hành động: **Tiếp tục quan sát** phản ứng giá tại các vùng kháng cự kỹ thuật.
-- **Mã: PVD, PVS**
-    - Động lực (FA): Giá dầu thế giới tăng cao do căng thẳng cung cầu toàn cầu.
-    - Nhận định dòng tiền: Dòng tiền thượng nguồn thường nhạy cảm với giá dầu, có thể kích hoạt làn sóng mua đuổi ngắn hạn.
-    - Hành động: **Chú ý giải ngân** nếu giá dầu duy trì đà tăng trên các khung giờ đóng cửa.
-- **Mã: GMD, HAH**
-    - Động lực (FA): Lưu lượng xuất khẩu Trung Quốc phục hồi tích cực.
-    - Nhận định dòng tiền: Dòng tiền đón đầu kết quả kinh doanh quý khi dữ liệu vận tải biển bắt đầu có dấu hiệu hồi phục sản lượng.
-    - Hành động: **Tiếp tục quan sát.**
-- **Mã: BMS**
-    - Động lực (FA): Tạm dừng kế hoạch chuyển sàn từ UpCOM lên HOSE.
-    - Nhận định dòng tiền: Mất chất xúc tác kỳ vọng, rủi ro điều chỉnh cao do tâm lý nhà đầu tư ngắn hạn bị tổn thương.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc hạ tỷ trọng nếu mất hỗ trợ kỹ thuật gần nhất.
+  - Động lực (FA): Hưởng lợi kép từ việc giảm lãi suất (tăng thanh khoản thị trường), mua lại cổ phiếu quỹ và đề xuất cơ chế Sandbox cho sản phẩm mới.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp, dự kiến thu hút dòng tiền mạnh trong các phiên tới.
+  - Hành động: **Chú ý giải ngân** theo đà tăng.
+- **Mã: VPG**
+  - Động lực (FA): Bị chuyển sang diện hạn chế giao dịch.
+  - Nhận định dòng tiền: Áp lực bán tháo do rủi ro thanh khoản.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế để bảo toàn vốn.
+- **Mã: AGG**
+  - Động lực (FA): Người nội bộ mua vào 3 triệu cổ phiếu tại vùng đáy lịch sử.
+  - Nhận định dòng tiền: Tín hiệu tạo đáy kỹ thuật, lực cầu kỳ vọng cải thiện.
+  - Hành động: **Tiếp tục quan sát** phản ứng giá tại vùng hỗ trợ này.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu duy trì đà tăng do căng thẳng vĩ mô toàn cầu.
+  - Nhận định dòng tiền: Hỗ trợ biên lợi nhuận, củng cố đà tăng trung hạn.
+  - Hành động: **Tiếp tục quan sát**.
