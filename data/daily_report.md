@@ -1,23 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 13:51 ngày 19/10/2026
+⏱ Thời gian: 03:10 ngày 20/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Các ngân hàng thương mại đồng loạt giảm lãi suất cho vay (1,5-2%/năm) và "mở van" vốn rẻ -> Tích cực -> Nhóm Ngân hàng (BID, VCB, TCB) và Bất động sản (VHM, PDR) hưởng lợi trực tiếp từ giảm chi phí vốn và kích cầu tiêu dùng/đầu tư.
+- **Phê duyệt triển khai Index Options:** Tác động Tích cực -> Hướng dòng tiền vào nhóm **Chứng khoán (SSI, VND, VCI, HCM)** do kỳ vọng cải thiện thanh khoản và hạ tầng phái sinh.
+- **Áp lực NIM từ chính sách lãi suất:** Tác động Tiêu cực -> Gây áp lực điều chỉnh lên các mã **Ngân hàng (VCB, TCB, MBB, VPB)** do biên lợi nhuận bị siết chặt trong khi chi phí huy động khó giảm tương ứng.
+- **Báo cáo tài chính quý 3 nhóm Chứng khoán đi lùi:** Tác động Tiêu cực -> Cần thận trọng với các mã chứng khoán (SSI, VND, VCI) do định giá P/E ngắn hạn đang bị chiết khấu lại.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TCB**
-  - Động lực (FA): Lãi suất hạ cộng hưởng với kết quả kinh doanh quý 3/2026 của TCBS đạt mức kỷ lục (>2.100 tỷ đồng).
-  - Nhận định dòng tiền: Động lực tăng trưởng kép từ mảng dịch vụ tài chính và biên lãi ròng (NIM) kỳ vọng cải thiện. Khả năng hút dòng tiền khối ngoại và tự doanh quay lại.
-  - Hành động: Chú ý giải ngân tại các vùng hỗ trợ kỹ thuật.
-- Mã: **PDR**
-  - Động lực (FA): Áp lực lãi vay lớn được tháo gỡ nhờ chính sách "vốn rẻ" của hệ thống ngân hàng.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể quay lại nhóm BĐS có đòn bẩy cao khi chi phí tài chính hạ nhiệt.
-  - Hành động: Tiếp tục quan sát tín hiệu thanh khoản vùng nền.
-- Mã: **BMP**
-  - Động lực (FA): Lợi nhuận quý III giảm 9%, chấm dứt chuỗi tăng trưởng.
-  - Nhận định dòng tiền: Áp lực bán tháo kỹ thuật từ nhóm nhà đầu tư tăng trưởng.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế bắt đáy.
-- Mã: **NLG**
-  - Động lực (FA): Chỉ đạo kiểm soát giá nhà ở xã hội từ Chính phủ.
-  - Nhận định dòng tiền: Tác động tiêu cực lên kỳ vọng biên lợi nhuận của phân khúc EHome trong ngắn hạn.
-  - Hành động: Theo dõi sát phản ứng cung cầu tại vùng hỗ trợ.
+- **Mã:** SSI, VND, VCI, HCM
+- **Động lực (FA):** Tin tức trái chiều giữa việc nâng hạng/triển khai sản phẩm mới (Tích cực) và kết quả kinh doanh quý 3 sụt giảm (Tiêu cực).
+- **Nhận định dòng tiền:** Dòng tiền ngắn hạn sẽ phân hóa mạnh. Ưu tiên quan sát phản ứng của giá tại vùng hỗ trợ kỹ thuật; tránh mua đuổi trong phiên do áp lực chốt lời/cắt lỗ từ kết quả kinh doanh kém khả quan.
+- **Hành động:** Tiếp tục quan sát vùng cân bằng cung - cầu.
+
+- **Mã:** CTG
+- **Động lực (FA):** Điểm sáng trong nhóm ngân hàng nhờ chính sách lãi suất cho vay cạnh tranh hỗ trợ tăng trưởng tín dụng.
+- **Nhận định dòng tiền:** Có khả năng thu hút dòng tiền "thông minh" tốt hơn các ngân hàng chịu áp lực NIM lớn.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì sức mạnh trên nền hỗ trợ cứng.
+
+- **Mã:** VCB
+- **Động lực (FA):** Hưởng lợi từ dòng kiều hối nhưng chịu áp lực bán ròng từ khối ngoại và áp lực giảm lãi suất từ NHNN.
+- **Nhận định dòng tiền:** Áp lực từ khối ngoại lấn át động lực cơ bản.
+- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi sát sao lực bán ròng của khối ngoại.
