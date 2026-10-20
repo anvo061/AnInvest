@@ -1,5 +1,147 @@
 ﻿[
   {
+    "Title": "Explainer: MSCI's case against Indonesian stocks and the $65 billion fallout - Reuters",
+    "Source": "Reuters/Bloomberg Vĩ mô",
+    "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0hicmI2MG4yeTRybTVNaHJFSWhnS2VxY0FUUVl0YUtCVmE5NHRjdEZ1cmhYTU9iNFlScnlFb2pKT1Fra2lnLWdHTzFyUW9aZy1tM0xoVkRjckI2Nk1jUFlwbjQ0SVlMdURDUmluQmNaQTdEVDlrbDlvSUN1WVlhd1lsZ2FVVXhzTjB6Q05VYXlzZGpPajFwWjlCYjdBREtCS2VoZUQ5M0pVb2p5cDVN?oc=5",
+    "PubDate": "Mon, 19 Oct 2026 10:41:11 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Việc MSCI xem xét lại tỷ trọng cổ phiếu Indonesia có thể dẫn đến sự dịch chuyển dòng vốn ngoại gián tiếp sang các thị trường cận biên/mới nổi khác trong khu vực Đông Nam Á, trong đó có Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Dòng vốn ngoại rút khỏi Indonesia chưa chắc chắn chảy vào Việt Nam. Cần quan sát kỹ biến động tỷ giá và dòng tiền khối ngoại tại các mã trụ VN30.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-20 13:50:05"
+  },
+  {
+    "Title": "Lợi nhuận quý 3 một công ty chứng khoán bất ngờ \"bốc hơi\" 98% so với cùng kỳ - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnZfZGZabXpXaHhtV3lGZDFLMEVybXQ4TEtreWNvU0hBS2hLdzIzUWNsR1ppVVhvbHpiUE9GU0dYVG80NFFxNGRKcGVjQ3RFOXNfTHhQOTNLRW9mZG42V2lYeVVoZUd6TGRiWlVaNXctbjBKMlc0QzZtLW1VLTBsZzdvTzVsSDJESlJtT0lldVdQOFFfRTdpZjhHZHA4ZjFDcHRUZTlmQ2xsYlI4WEhXcWNPNA?oc=5",
+    "PubDate": "Mon, 19 Oct 2026 17:03:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -2,
+    "MarketImpact": "Tin tức về sự sụt giảm lợi nhuận đột ngột của một công ty chứng khoán gây tâm lý tiêu cực cục bộ lên nhóm cổ phiếu ngành chứng khoán, làm dấy lên lo ngại về hiệu quả tự doanh và doanh thu môi giới trong quý 3.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Chứng khoán. Lợi nhuận sụt giảm mạnh gây áp lực tâm lý ngắn hạn. Dòng tiền có xu hướng phân hóa, thận trọng với các mã có danh mục tự doanh rủi ro cao.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-20 13:49:50"
+  },
+  {
+    "Title": "Ngân hàng giảm lợi nhuận, hạ lãi suất cho vay",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/ngan-hang-giam-loi-nhuan-ha-lai-suat-cho-vay-100261020095104412.htm",
+    "PubDate": "10/20/2026 10:17:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -2,
+    "MarketImpact": "Việc giảm lãi suất cho vay hỗ trợ doanh nghiệp nhưng đồng thời làm thu hẹp biên lãi thuần (NIM) của ngân hàng, tạo ra tác động trái chiều giữa nhóm tài chính và nhóm sản xuất.",
+    "TapeReaderNote": "Tín hiệu: Phân hóa. NIM ngân hàng chịu áp lực giảm, gây tiêu cực nhóm tài chính. Ngược lại, chi phí vốn thấp hỗ trợ nhóm sản xuất và BĐS. Dòng tiền sẽ luân chuyển mạnh giữa các nhóm ngành.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Áp lực giảm lãi suất cho vay trực tiếp làm thu hẹp biên lãi thuần (NIM) của ngân hàng."
+      },
+      {
+        "Ticker": "TCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Biên lợi nhuận chịu áp lực khi lãi suất đầu ra giảm nhanh hơn lãi suất đầu vào."
+      },
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Chi phí vay vốn giảm giúp giảm áp lực tài chính và kích cầu tiêu thụ bất động sản."
+      }
+    ],
+    "AnalyzedAt": "2026-10-20 13:49:29"
+  },
+  {
+    "Title": "Việt Nam - Đan Mạch: Từ Đối tác chiến lược xanh đến đồng kiến tạo những giá trị mới",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/viet-nam-dan-mach-tu-doi-tac-chien-luoc-xanh-den-dong-kien-tao-nhung-gia-tri-moi-100261020093148598.htm",
+    "PubDate": "10/20/2026 11:11:00 AM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 1,
+    "MarketImpact": "Thúc đẩy hợp tác năng lượng tái tạo và tăng trưởng xanh, tạo cơ hội cho các doanh nghiệp hạ tầng điện và xây lắp công trình năng lượng tiếp cận vốn và công nghệ từ Đan Mạch.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính ngoại giao, thiếu thông tin cụ thể về dự án hoặc dòng vốn giải ngân. Chưa có tác động trực tiếp đến biên lợi nhuận doanh nghiệp.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-20 13:49:14"
+  },
+  {
+    "Title": "Lãi suất ngân hàng hôm nay 20/10/2026: Mặt bằng lãi suất trên 7%/năm thu hẹp",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/lai-suat-ngah-hang-hom-nay-20-10-2026-mat-bang-lai-suat-tren-7-nam-thu-hep-2566549.html",
+    "PubDate": "Tue, 20 Oct 2026 10:34:55 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc thu hẹp lãi suất huy động trên 7% giúp giảm chi phí vốn cho các doanh nghiệp, đặc biệt là nhóm BĐS và Chứng khoán, đồng thời kích thích dòng tiền dịch chuyển từ tiết kiệm sang kênh đầu tư chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Lãi suất huy động giảm là xu hướng tất yếu, tác động tích cực nhưng đã phản ánh vào giá. Cần theo dõi sát biên lãi vay thực tế tại các doanh nghiệp BĐS.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm chi phí lãi vay, cải thiện biên lợi nhuận và hỗ trợ thanh khoản dự án."
+      },
+      {
+        "Ticker": "SSI",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Lãi suất thấp thúc đẩy nhà đầu tư cá nhân mở tài khoản và sử dụng margin, tăng doanh thu CTCK."
+      },
+      {
+        "Ticker": "PDR",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Giảm áp lực chi phí tài chính cho doanh nghiệp có đòn bẩy cao trong giai đoạn phục hồi."
+      }
+    ],
+    "AnalyzedAt": "2026-10-20 13:48:57"
+  },
+  {
+    "Title": "VietinBank triển khai các giải pháp giảm lãi suất cho vay tới 2%/năm",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/vietinbank-trien-khai-cac-giai-phap-giam-lai-suat-cho-vay-toi-2-nam-2566576.html",
+    "PubDate": "Tue, 20 Oct 2026 11:00:00 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Việc giảm lãi suất cho vay giúp giảm chi phí tài chính cho doanh nghiệp, kích thích nhu cầu tín dụng và hỗ trợ phục hồi sản xuất kinh doanh, đặc biệt có lợi cho các ngành thâm dụng vốn.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Ngân hàng. Giảm lãi suất cho vay giúp CTG cải thiện NIM và tăng trưởng tín dụng. Tác động lên các ngành khác là gián tiếp, cần theo dõi biên lợi nhuận thực tế.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "CTG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Tăng trưởng tín dụng kỳ vọng cải thiện nhờ chính sách lãi suất cạnh tranh, hỗ trợ doanh thu lãi thuần."
+      }
+    ],
+    "AnalyzedAt": "2026-10-20 13:48:43"
+  },
+  {
+    "Title": "EVN khởi công nhà máy điện khí LNG hơn 40.000 tỷ, công bố phát điện Quảng Trạch",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/evn-khoi-cong-nha-may-dien-khi-lng-hon-40-000-ty-cong-bo-phat-dien-quang-trach-2566628.html",
+    "PubDate": "Tue, 20 Oct 2026 13:35:45 +0700",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Dự án quy mô lớn thúc đẩy khối lượng công việc cho các nhà thầu xây lắp điện và hạ tầng năng lượng, đồng thời củng cố triển vọng tăng trưởng dài hạn cho ngành điện khí.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Xây lắp điện. Dự án 40.000 tỷ tạo backlog trực tiếp cho các nhà thầu EPC hạ tầng năng lượng. Cần theo dõi sát tiến độ giải ngân vốn.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-20 13:48:27"
+  },
+  {
+    "Title": "Nhân viên ngân hàng 'săn' khách gửi tiền trước khi hạ lãi suất",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/nhan-vien-ngan-hang-san-khach-gui-tien-truoc-khi-ha-lai-suat-5134398.html",
+    "PubDate": "Tue, 20 Oct 2026 10:44:03 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": -1,
+    "MarketImpact": "Việc huy động vốn gấp rút cho thấy áp lực thanh khoản ngắn hạn và dự báo biên lãi ròng (NIM) của các ngân hàng sẽ bị thu hẹp khi lãi suất đầu vào khó giảm nhanh hơn lãi suất đầu ra.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Việc 'săn' tiền gửi là nghiệp vụ thường kỳ, không phản ánh khủng hoảng thanh khoản. NIM chịu áp lực nhẹ nhưng không đáng kể. Thận trọng với các ngân hàng có LDR cao.",
+    "Relevance": "Cao",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-10-20 13:48:09"
+  },
+  {
     "Title": "Hơn 1 tỷ USD sắp chảy vào chứng khoán, thời điểm giải ngân đã xuất hiện? - CafeF",
     "Source": "CafeF qua Google News",
     "Link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnBNY1VaRWdBeTIycGFhakVPYy16Q3U0SW0tX0d3YzV1bTBnMTl5SmlDclg4VWgtcXVxcGtNbFlHMURoSXJtY0JFaHVUTFlKNmJtLU10UzA3WUJMaGpPS3N5WEhIWG5MdS1peE5BZlBiTmlfQkwwMFBFNE9oUjQzVllPNkt5WGJiMWUxQnpDS0tkQ2RMZlBuaGJNbzRsbTF5am9wdnF2WXpZaUJnRGFN?oc=5",
@@ -17796,127 +17938,5 @@
       }
     ],
     "AnalyzedAt": "2026-10-03 13:27:59"
-  },
-  {
-    "Title": "MB - ngân hàng đầu tiên tại Việt Nam vượt mốc 100.000 tỷ đồng vốn điều lệ",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/mb-ngan-hell-dau-tien-tai-viet-nam-vuot-moc-100-000-ty-dong-von-dieu-le-2561374.html",
-    "PubDate": "Sat, 03 Oct 2026 12:00:00 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc tăng vốn điều lệ giúp MBB củng cố năng lực tài chính, tăng hạn mức tín dụng và cải thiện hệ số an toàn vốn (CAR), tạo dư địa tăng trưởng tín dụng mạnh mẽ trong tương lai.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tăng vốn điều lệ là kế hoạch đã công bố từ trước, không tạo đột biến dòng tiền ngắn hạn. Cần theo dõi khả năng hấp thụ vốn và ROE pha loãng.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "MBB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Tăng vốn điều lệ giúp cải thiện năng lực tài chính, hỗ trợ tăng trưởng tín dụng và củng cố vị thế cạnh tranh trong nhóm ngân hàng thương mại."
-      }
-    ],
-    "AnalyzedAt": "2026-10-03 13:27:43"
-  },
-  {
-    "Title": "Người nhà lãnh đạo mua bán HPG, Hòa Phát góp gần 8.000 tỷ đồng vào Tương lai Sông Hồng",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//nguoi-nha-lanh-dao-mua-ban-hpg-hoa-phat-gop-gan-8000-ty-dong-vao-tuong-lai-song-hong.html",
-    "PubDate": "Sat, 03 Oct 2026 01:45:17 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 3,
-    "MarketImpact": "Việc HPG rót vốn lớn vào bất động sản cho thấy chiến lược đa dạng hóa nguồn thu, củng cố niềm tin của nhà đầu tư vào tiềm năng tăng trưởng dài hạn của tập đoàn.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - HPG. Việc rót vốn 8.000 tỷ vào BĐS làm tăng rủi ro bảng cân đối kế toán trong ngắn hạn. Cần theo dõi hiệu quả sử dụng vốn thay vì kỳ vọng tăng trưởng tức thì.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chiến lược mở rộng sang BĐS với nguồn vốn lớn giúp đa dạng hóa danh mục, tăng kỳ vọng tăng trưởng doanh thu trong tương lai."
-      }
-    ],
-    "AnalyzedAt": "2026-10-03 13:27:29"
-  },
-  {
-    "Title": "12 địa phương tăng trưởng kinh tế trên hai chữ số",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/12-dia-phuong-tang-truong-kinh-te-tren-hai-chu-so-5127899.html",
-    "PubDate": "Sat, 03 Oct 2026 09:30:57 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Tăng trưởng kinh tế địa phương mạnh mẽ thúc đẩy nhu cầu hạ tầng, bất động sản công nghiệp và tiêu dùng, tạo dư địa tăng trưởng cho các doanh nghiệp có dự án trọng điểm tại các khu vực này.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức vĩ mô chung chung, thiếu dữ liệu cụ thể về địa phương và dự án. Tác động dòng tiền yếu, cần theo dõi thêm báo cáo giải ngân đầu tư công thực tế.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-03 13:27:13"
-  },
-  {
-    "Title": "G7 xả 100 triệu thùng dầu tác động thế nào đến giá nhiên liệu",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/g7-xa-100-trieu-thung-dau-tac-dong-the-nao-den-gia-nhien-lieu-5127937.html",
-    "PubDate": "Sat, 03 Oct 2026 11:30:00 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -4,
-    "MarketImpact": "Việc G7 xả kho dự trữ dầu làm tăng nguồn cung ngắn hạn, gây áp lực giảm giá dầu thô thế giới, ảnh hưởng trực tiếp đến biên lợi nhuận của các doanh nghiệp thượng nguồn và hạ nguồn ngành dầu khí Việt Nam.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm Dầu khí. Giá dầu giảm gây áp lực biên lợi nhuận lọc dầu và tồn kho. Cần theo dõi sát BSR (vị thế quá hạn).",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "BSR",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá dầu giảm nhanh gây rủi ro trích lập dự phòng giảm giá hàng tồn kho và biên lợi nhuận lọc dầu."
-      }
-    ],
-    "AnalyzedAt": "2026-10-03 13:26:57"
-  },
-  {
-    "Title": "Japan’s Takaichi Touts Sweeping Changes in Immigration Rules - bloomberg.com",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3FIRThJUDh5eXd2bFJvLUtiZE8xLU1pMGdrN1I1VHJBMi0xejJSYzZlWW03My13MHZrb0dtTTU1YmpjSXU1eTVTU2dsTWRMVFZvd004LXR0ZS1xNDAteFk3cVRPTDIzc3NrNEw4U0NqWGxJU3pFb0F0Wl9kemVTZ3ZrVEVWaXJ6QXZyMVVMV0x2ZnZOTlI1N3ZEZmREcVVySldETG5TRjNuTGcwbmdSNQ?oc=5",
-    "PubDate": "Mon, 28 Sep 2026 07:20:28 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Việc Nhật Bản nới lỏng quy định nhập cư mở ra cơ hội lớn cho các doanh nghiệp xuất khẩu lao động Việt Nam, giúp tăng doanh thu từ phí dịch vụ và dòng tiền kiều hối.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách nhập cư Nhật Bản là tin vĩ mô quốc tế, tác động gián tiếp và dài hạn, chưa tạo dòng tiền đột biến cho các mã vốn hóa nhỏ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-03 08:11:45"
-  },
-  {
-    "Title": "FUEABVND: Thông báo về danh mục chứng khoán cơ cấu hoán đổi ngày 05/10/2026 - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVZtc0FzaER3alNPM2lFeWxfeUVES3VabkU2QnlwY1BVNWd0TFVaVTlpcElpT1E2WWdxWDlzQU4zX1FMVTBnaXhMWWp3dDZQUkxKMFVpMWIwVEhnYWtBcmpJekRkdjVZcUpTT0hDVzQ2MElLWkZzOTJkdF9WVWNJQTFNaFNBR1htckl6NjlkeHF1cHJtM1YyM3AwMjJzdVFaWXN5ZHVSUW9haEFkdWFjUUVmaG1UZGM1ZTRqdC1Na3I2WDVFU1dXdm9oUm5rNFBaY3Rj?oc=5",
-    "PubDate": "Fri, 02 Oct 2026 11:16:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông báo định kỳ về danh mục chứng khoán cơ cấu của quỹ ETF, mang tính chất nghiệp vụ vận hành quỹ, không tác động đến giá trị nội tại hay hoạt động kinh doanh của các doanh nghiệp trong danh mục.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động nghiệp vụ định kỳ của quỹ ETF, không tạo ra tín hiệu giao dịch hay thay đổi dòng tiền thông minh đối với các mã cổ phiếu thành phần.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-03 08:11:30"
-  },
-  {
-    "Title": "Chủ tịch UBCKNN: Chứng khoán Việt Nam đang bước sang một chương mới - CafeF",
-    "Source": "CafeF qua Google News",
-    "Link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFJ0N0NmNXIyX3JMMm9BUFR1TlY0NmRsODg4Z0wyWGZGa3AwWTA3MmdtQWd2TEJWNkNVZk4xZFRXT2xfV0YtY0xVSmYwMHpwTGdxWTg3NVlELVZkck1NZnJsaUJsS2dHUE9CTjF2cW5fSERxRTdlS21kRFpLakx4MjhJdjlrbk9PVF9tbElJVHBJOEZkWEU1OXJFSDNqaUdYcllmTTBnYWpLdw?oc=5",
-    "PubDate": "Fri, 02 Oct 2026 08:25:00 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Phát biểu định hướng về nâng hạng thị trường và cải cách hệ thống giao dịch tạo tâm lý lạc quan, thu hút dòng vốn ngoại và cải thiện thanh khoản cho nhóm ngành chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Phát biểu mang tính định hướng vĩ mô, thiếu lộ trình cụ thể. Cần quan sát dòng tiền thực tế thay vì kỳ vọng tâm lý.",
-    "Relevance": "Cao",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-03 08:11:14"
-  },
-  {
-    "Title": "Người thu nhập thấp được vay vốn mua nhà thương mại dưới 15 triệu đồng/m², nhưng có giá này không?",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/nguoi-thu-nhap-thap-duoc-vay-von-mua-nha-thuong-mai-duoi-15-trieu-dong-m-nhung-co-gia-nay-khong-100261002172849792.htm",
-    "PubDate": "10/2/2026 6:16:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Chính sách mang tính định hướng hỗ trợ an sinh nhưng thiếu tính khả thi về nguồn cung nhà ở thương mại giá rẻ, tác động thực tế lên doanh thu các doanh nghiệp BĐS niêm yết là không đáng kể.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Chính sách thiếu tính khả thi về nguồn cung. Không tác động đến biên lợi nhuận doanh nghiệp BĐS niêm yết. Dòng tiền không phản ứng.",
-    "Relevance": "Trung bình",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-03 08:10:58"
   }
 ]
