@@ -1,26 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:45 ngày 21/10/2026
+⏱ Thời gian: 09:05 - 21/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Lãi suất trái phiếu doanh nghiệp neo ở vùng đỉnh trong khi áp lực dư nợ margin toàn thị trường lập kỷ lục gần 500.000 tỷ đồng -> [Đánh giá: Phân hóa cực đoan] -> Dòng tiền sẽ rút mạnh khỏi các mã BĐS có đòn bẩy nợ trái phiếu cao, tập trung vào nhóm Chứng khoán có sự hậu thuẫn nguồn vốn từ ngân hàng mẹ.
+- Hiệp định thương mại Việt Nam - EFTA chính thức mở cơ hội nâng chuẩn chuỗi cung ứng xuất khẩu -> Tích cực -> Dòng tiền sẽ hướng vào nhóm Xuất khẩu (Thủy sản: VHC, Dệt may: TNG) và Dịch vụ Logistics/Cảng biển (GMD).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **NVL, PDR, DXG**
-- Động lực (FA): Lãi suất trái phiếu neo cao gây áp lực lớn lên khả năng đảo nợ và biên lợi nhuận.
-- Nhận định dòng tiền: Áp lực bán tiềm ẩn gia tăng do chi phí tài chính gia tăng trong ngắn hạn.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát mức hỗ trợ cứng.
+- Mã: **VIX**
+- Động lực (FA): Cổ đông lớn rót vốn thông qua giao dịch tài chính liên quan đến dự án BĐS và vay vốn tín dụng tại Eximbank.
+- Nhận định dòng tiền: Tin tức củng cố vị thế tài chính và thanh khoản, kỳ vọng tạo sóng ngắn hạn do yếu tố dòng tiền lớn tham gia "thâu tóm".
+- Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt vùng kháng cự với khối lượng đột biến.
 
-- Mã: **SSI, VND, TCB, VPB**
-- Động lực (FA): Hưởng lợi trực tiếp từ sự bùng nổ dư nợ margin (ghi nhận kỷ lục) và kết quả kinh doanh công ty con (VPBankS) khả quan.
-- Nhận định dòng tiền: Dòng tiền thông minh tập trung vào các đơn vị có lợi thế chi phí vốn thấp và thị phần môi giới dẫn đầu.
-- Hành động: Chú ý giải ngân theo nhịp điều chỉnh trong phiên.
+- Mã: **PVD**
+- Động lực (FA): Giá dầu thế giới neo ở mức cao, kỳ vọng tăng doanh thu và giá thuê giàn.
+- Nhận định dòng tiền: Hỗ trợ tích cực cho đà tăng trưởng của các cổ phiếu thượng nguồn dầu khí trong bối cảnh vĩ mô toàn cầu bất ổn.
+- Hành động: Tiếp tục quan sát, ưu tiên nắm giữ nếu giữ vững trendline ngắn hạn.
 
-- Mã: **PNJ**
-- Động lực (FA): Kỳ vọng quyết định chiến lược tại đại hội bất thường đẩy giá trần, đóng vai trò dẫn dắt tâm lý thị trường.
-- Nhận định dòng tiền: Lực cầu mạnh, xác nhận xu hướng ngắn hạn tích cực.
-- Hành động: Tiếp tục quan sát biến động khối lượng tại vùng giá mới, không đuổi giá nếu không có xác nhận cầu vào sau phiên ATO.
+- Mã: **BCM**
+- Động lực (FA): Huy động thành công 1.200 tỷ đồng trái phiếu riêng lẻ.
+- Nhận định dòng tiền: Tác động tích cực đến thanh khoản và tiến độ hạ tầng KCN, giúp giảm áp lực tài chính ngắn hạn.
+- Hành động: Chú ý giải ngân tại các phiên điều chỉnh kỹ thuật.
 
-- Mã: **FPT**
-- Động lực (FA): Hưởng lợi từ làn sóng FDI công nghệ cao và AI tại TP.HCM.
-- Nhận định dòng tiền: Dòng tiền dài hạn ổn định, tích cực theo xu hướng công nghệ.
-- Hành động: Tiếp tục giữ vị thế trung hạn.
+🔄 3. Cảnh báo Tái cơ cấu:
+- **EIB**: Ghi nhận khoản vay lớn (2.800 tỷ đồng) liên quan đến giao dịch thâu tóm của đối tác mới. Cần theo dõi sát sao chất lượng tài sản (NPL) trong báo cáo quý tới để đánh giá rủi ro dòng tiền tín dụng. Giữ vị thế thận trọng, chưa cần cắt lỗ nhưng yêu cầu chặn lãi nếu thủng hỗ trợ cứng để đảo dòng tiền sang nhóm Xuất khẩu.
