@@ -1,23 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:15 - 22/10/2026
+⏱ Thời gian: 07:00 - 22/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Nhu cầu AI toàn cầu đạt đỉnh mới (đơn hàng xuất khẩu Đài Loan kỷ lục) và thanh khoản thị trường bùng nổ -> [Tích cực] -> Dòng tiền tập trung vào nhóm Chứng khoán (hưởng lợi phí/margin) và Công nghệ/Khu công nghiệp (hưởng lợi sóng FDI linh kiện điện tử).
+- NHNN chỉ đạo siết van tín dụng nếu lãi suất cho vay thực tế không giảm -> [Tác động: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm BĐS (giảm áp lực chi phí tài chính) và nhóm Chứng khoán (hưởng lợi từ thanh khoản phục hồi khi lãi suất hạ nhiệt).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VHM, PDR, KDH, NLG**
+  - Động lực (FA): Chỉ đạo ép giảm lãi suất cho vay từ NHNN và chính sách tăng tiền cọc đấu giá đất giúp thanh lọc thị trường, ưu tiên các doanh nghiệp BĐS có quỹ đất sạch và tài chính mạnh.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại có khả năng đổ vào nhóm Vingroup và các mã BĐS vốn hóa lớn/trung bình có câu chuyện minh bạch.
+  - Hành động: Chú ý giải ngân theo đà tăng phiên sáng.
 - Mã: **SSI, VND, VCI, HCM**
-  - Động lực (FA): Thanh khoản thị trường tăng vọt, dòng tiền đầu cơ lớn quay lại.
-  - Nhận định dòng tiền: Dòng tiền lan tỏa mạnh mẽ, xác nhận xu hướng ngắn hạn cho nhóm tài chính.
-  - Hành động: Chú ý giải ngân theo đà tăng (momentum).
-- Mã: **HPG**
-  - Động lực (FA): Áp lực tăng chi phí vận hành từ thay đổi khung giờ cao điểm điện năng.
-  - Nhận định dòng tiền: Rủi ro ngắn hạn lên biên lợi nhuận, cần theo dõi phản ứng vùng hỗ trợ kỹ thuật.
-  - Hành động: Rủi ro vi phạm kịch bản, thận trọng quan sát.
-- Mã: **NVL**
-  - Động lực (FA): Người nội bộ đăng ký bán 6 triệu cổ phiếu.
-  - Nhận định dòng tiền: Áp lực cung ngắn hạn đè nặng tâm lý.
-  - Hành động: Tiếp tục quan sát, tránh bắt đáy khi có áp lực thoái vốn từ nội bộ.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **EIB**
-  - Nhận định: Sự xuất hiện của cổ đông lớn mới tạo sóng kỳ vọng thay đổi quản trị. Đây là tín hiệu "đảo chiều kỳ vọng" mạnh mẽ. Đối với vị thế trung hạn đã đến điểm rơi, nên tận dụng nhịp hưng phấn này để cơ cấu lại danh mục (có thể chốt lời một phần hoặc gia tăng tỷ trọng nếu kỳ vọng thay đổi ban lãnh đạo hiện thực hóa).
+  - Động lực (FA): Thanh khoản thị trường bùng nổ (tăng mạnh nhất 6 tháng) và kỳ vọng lãi suất cho vay giảm, hỗ trợ tăng trưởng dư nợ margin.
+  - Nhận định dòng tiền: Nhóm cổ phiếu chứng khoán là "phong vũ biểu" hưởng lợi trực tiếp từ thanh khoản, dòng tiền vào mạnh.
+  - Hành động: Tiếp tục quan sát điểm vào lệnh theo kịch bản trend line tăng.
+- Mã: **POW**
+  - Động lực (FA): Chính phủ tháo gỡ vướng mắc dự án điện khí LNG 1.500 MW.
+  - Nhận định dòng tiền: Tín hiệu hỗ trợ đầu tư công năng lượng, dòng tiền có thể lan tỏa từ nhóm xây lắp sang vận hành điện.
+  - Hành động: Chú ý giải ngân thăm dò.
