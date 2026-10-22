@@ -1,19 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:00 - 22/10/2026
+⏱ Thời gian: 09:15 ngày 22/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN chỉ đạo siết van tín dụng nếu lãi suất cho vay thực tế không giảm -> [Tác động: Tích cực] -> Dòng tiền sẽ tập trung vào nhóm BĐS (giảm áp lực chi phí tài chính) và nhóm Chứng khoán (hưởng lợi từ thanh khoản phục hồi khi lãi suất hạ nhiệt).
+- **Ngân hàng hạ lãi suất cho vay:** Lãi suất cho vay bình quân giảm từ mức trên 11% -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm thâm dụng vốn: BĐS (PDR, NVL), Thép (HPG), và Chứng khoán (SSI) do hiệu ứng dịch chuyển dòng tiền].
+- **Xuất khẩu chip AI Nhật Bản tăng 16.7%:** Tín hiệu phục hồi chu kỳ bán dẫn toàn cầu -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm hạ tầng công nghệ, xuất khẩu phần mềm (FPT, CMG)].
+- **Dòng vốn ngoại rút ròng:** Áp lực thoái vốn sau nâng hạng vẫn duy trì tại nhóm Bluechips -> [Tác động: Tiêu cực] -> [Thận trọng với các mã trụ: VHM, VCB, MSN].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VHM, PDR, KDH, NLG**
-  - Động lực (FA): Chỉ đạo ép giảm lãi suất cho vay từ NHNN và chính sách tăng tiền cọc đấu giá đất giúp thanh lọc thị trường, ưu tiên các doanh nghiệp BĐS có quỹ đất sạch và tài chính mạnh.
-  - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại có khả năng đổ vào nhóm Vingroup và các mã BĐS vốn hóa lớn/trung bình có câu chuyện minh bạch.
-  - Hành động: Chú ý giải ngân theo đà tăng phiên sáng.
-- Mã: **SSI, VND, VCI, HCM**
-  - Động lực (FA): Thanh khoản thị trường bùng nổ (tăng mạnh nhất 6 tháng) và kỳ vọng lãi suất cho vay giảm, hỗ trợ tăng trưởng dư nợ margin.
-  - Nhận định dòng tiền: Nhóm cổ phiếu chứng khoán là "phong vũ biểu" hưởng lợi trực tiếp từ thanh khoản, dòng tiền vào mạnh.
-  - Hành động: Tiếp tục quan sát điểm vào lệnh theo kịch bản trend line tăng.
-- Mã: **POW**
-  - Động lực (FA): Chính phủ tháo gỡ vướng mắc dự án điện khí LNG 1.500 MW.
-  - Nhận định dòng tiền: Tín hiệu hỗ trợ đầu tư công năng lượng, dòng tiền có thể lan tỏa từ nhóm xây lắp sang vận hành điện.
-  - Hành động: Chú ý giải ngân thăm dò.
+- **Mã: CTD**
+  - Động lực (FA): Lãnh đạo (Ông Bolat Duisenov) đăng ký mua thêm cổ phiếu.
+  - Nhận định dòng tiền: Tạo tín hiệu niềm tin mạnh mẽ, hỗ trợ tâm lý tích cực ngắn hạn.
+  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
+- **Mã: BID**
+  - Động lực (FA): Phát hành 8.000 tỉ đồng trái phiếu tăng vốn cấp 2.
+  - Nhận định dòng tiền: Gia tăng dư địa tín dụng, củng cố vị thế dẫn đầu trong nhóm ngân hàng nhà nước.
+  - Hành động: Tiếp tục quan sát phản ứng dòng tiền tại vùng kháng cự ngắn hạn.
+
+🔄 3. Cảnh báo Tái cơ cấu:
+- **EIB:** Tin tức về giao dịch của cổ đông lớn/đại gia cảng biển không thay đổi nội tại doanh nghiệp. Vị thế cần duy trì quan sát biên độ giao động, chưa phát hiện tin tức đủ mạnh để thay đổi chiến lược nắm giữ dài hạn (Mục tiêu 2026).
