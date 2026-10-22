@@ -1,20 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:15 ngày 22/10/2026
+⏱ Thời gian: 14:20, ngày 22/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng hạ lãi suất cho vay:** Lãi suất cho vay bình quân giảm từ mức trên 11% -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm thâm dụng vốn: BĐS (PDR, NVL), Thép (HPG), và Chứng khoán (SSI) do hiệu ứng dịch chuyển dòng tiền].
-- **Xuất khẩu chip AI Nhật Bản tăng 16.7%:** Tín hiệu phục hồi chu kỳ bán dẫn toàn cầu -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm hạ tầng công nghệ, xuất khẩu phần mềm (FPT, CMG)].
-- **Dòng vốn ngoại rút ròng:** Áp lực thoái vốn sau nâng hạng vẫn duy trì tại nhóm Bluechips -> [Tác động: Tiêu cực] -> [Thận trọng với các mã trụ: VHM, VCB, MSN].
+- Kinh tế Trung Quốc hồi phục (GDP Q3 tăng 4.5%) và giá xăng dầu trong nước điều chỉnh giảm -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Xuất khẩu (Thủy sản/Thép/Cao su)**, **Logistics (Cảng biển/Vận tải)** và nhóm **Công nghệ** (hưởng lợi từ nhu cầu hạ tầng AI & bảo mật ngân hàng).
+- Đề xuất tháo gỡ pháp lý cho doanh nghiệp BĐS chưa nộp đủ tiền đất -> **Tích cực (ngắn hạn)** -> Dòng tiền kỳ vọng xoay chuyển sang nhóm **Bất động sản (NVL, DXG, DIG, PDR)** để giải phóng áp lực nợ vay.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: CTD**
-  - Động lực (FA): Lãnh đạo (Ông Bolat Duisenov) đăng ký mua thêm cổ phiếu.
-  - Nhận định dòng tiền: Tạo tín hiệu niềm tin mạnh mẽ, hỗ trợ tâm lý tích cực ngắn hạn.
-  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
-- **Mã: BID**
-  - Động lực (FA): Phát hành 8.000 tỉ đồng trái phiếu tăng vốn cấp 2.
-  - Nhận định dòng tiền: Gia tăng dư địa tín dụng, củng cố vị thế dẫn đầu trong nhóm ngân hàng nhà nước.
-  - Hành động: Tiếp tục quan sát phản ứng dòng tiền tại vùng kháng cự ngắn hạn.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **EIB:** Tin tức về giao dịch của cổ đông lớn/đại gia cảng biển không thay đổi nội tại doanh nghiệp. Vị thế cần duy trì quan sát biên độ giao động, chưa phát hiện tin tức đủ mạnh để thay đổi chiến lược nắm giữ dài hạn (Mục tiêu 2026).
+- **Mã: NVL**
+    - **Động lực (FA):** Đề xuất cho phép chuyển nhượng dự án dù chưa nộp đủ tiền đất kết hợp với áp lực huy động 8.000 tỷ đồng và biến động từ cổ đông lớn.
+    - **Nhận định dòng tiền:** Phân hóa mạnh. Tin pháp lý hỗ trợ giải chấp/thanh khoản dự án là điểm sáng, nhưng rủi ro pha loãng từ kế hoạch huy động vốn vẫn là lực cản lớn.
+    - **Hành động:** Quan sát vùng hỗ trợ cứng, chỉ tham gia nếu có tín hiệu dòng tiền bắt đáy dứt khoát tại các vùng giá chiết khấu.
+- **Mã: GMD, HAH**
+    - **Động lực (FA):** Xuất khẩu Trung Quốc phục hồi + chi phí vận hành (xăng dầu) giảm.
+    - **Nhận định dòng tiền:** Hưởng lợi kép về biên lợi nhuận và nhu cầu vận tải. Dòng tiền có xu hướng gia tăng ổn định.
+    - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc kỹ thuật.
+- **Mã: FPT**
+    - **Động lực (FA):** Nhu cầu an ninh mạng ngân hàng tăng cao + làn sóng đầu tư hạ tầng AI toàn cầu (Nhật Bản).
+    - **Nhận định dòng tiền:** Dòng tiền bền vững, dẫn dắt xu hướng tăng trưởng nhóm công nghệ.
+    - **Hành động:** Tiếp tục nắm giữ cho mục tiêu trung hạn.
