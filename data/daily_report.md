@@ -1,20 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:45:25
+⏱ Thời gian: 00:50
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Khối ngoại đảo chiều mua ròng sau 21 phiên xả hàng:** Tín hiệu giải tỏa tâm lý tích cực lên nhóm Bluechips, đặc biệt là ngành Ngân hàng và Chứng khoán. -> [Đánh giá: Tích cực] -> [Dòng tiền ưu tiên: Ngân hàng (VCB, TCB), Chứng khoán (SSI, VND)].
-- **Áp lực cung ứng vốn 38,5 triệu tỷ đồng:** Nhu cầu tín dụng quá lớn tạo áp lực lên chi phí huy động và biên lãi ròng (NIM) của các ngân hàng. -> [Đánh giá: Tiêu cực] -> [Nhóm bị tác động: Ngân hàng (MBB, TCB)].
+- Dòng vốn ngoại đảo chiều mua ròng tập trung vào nhóm Bluechips và giá dầu neo cao hỗ trợ biên lợi nhuận nhóm thượng nguồn -> [Tích cực] -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (VCB, TCB, MBB), Dầu khí (PVD, PVS) và Logistics/Cảng biển (GMD).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PGB**
-  - Động lực (FA): Lãi trước thuế 9 tháng tăng 27% so với cùng kỳ.
-  - Nhận định dòng tiền: Phản ánh khả năng nội tại tốt của ngân hàng quy mô nhỏ, tạo điểm tựa kỹ thuật riêng biệt so với áp lực chung của ngành.
-  - Hành động: Chú ý giải ngân (tận dụng nhịp điều chỉnh của nhóm ngân hàng nếu có).
-- **Mã: CII**
-  - Động lực (FA): Phát hành trái phiếu lãi suất cao (14,5%/năm).
-  - Nhận định dòng tiền: Chi phí vốn neo ở mức rủi ro cao, gây áp lực bào mòn lợi nhuận và làm nản lòng dòng tiền đầu cơ ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản (cân nhắc thoát vị thế nếu giá thủng hỗ trợ gần nhất).
-- **Mã: DHG**
-  - Động lực (FA): Lợi nhuận giảm 53%, tiền mặt sụt giảm mạnh.
-  - Nhận định dòng tiền: Mất vị thế phòng thủ, dòng tiền tổ chức khả năng cao sẽ thoái lui để tìm kiếm cơ hội tăng trưởng.
-  - Hành động: Rủi ro vi phạm kịch bản (cần ưu tiên quản trị rủi ro, không bắt đáy).
+- Mã: **GMD**
+  - Động lực (FA): Lập đỉnh lịch sử, giá trị vốn hóa vượt 37.000 tỷ đồng.
+  - Nhận định dòng tiền: Xác nhận sức mạnh xu hướng, dòng tiền lớn đang vào.
+  - Hành động: Chú ý giải ngân theo đà tăng (momentum), ưu tiên quản trị rủi ro tại vùng đỉnh cũ.
+- Mã: **PVD**
+  - Động lực (FA): Giá dầu neo cao hỗ trợ trực tiếp biên lợi nhuận.
+  - Nhận định dòng tiền: Hưởng lợi từ sự lan tỏa của tâm lý tích cực ngành năng lượng.
+  - Hành động: Tiếp tục quan sát vị thế, gia tăng tỷ trọng nếu giá bứt phá kháng cự ngắn hạn.
+- Mã: **PLX**
+  - Động lực (FA): Rủi ro pháp lý liên quan đến vụ việc sai phạm tại Petimex.
+  - Nhận định dòng tiền: Áp lực tâm lý tiêu cực ngắn hạn do rủi ro thanh tra ngành.
+  - Hành động: Rủi ro vi phạm kịch bản, hạn chế giải ngân mới cho đến khi có thông tin định lượng rõ ràng về phạm vi thanh tra.
+- Mã: **CII**
+  - Động lực (FA): Chi phí vốn cao (lãi suất trái phiếu 14,5%/năm).
+  - Nhận định dòng tiền: Áp lực chi phí tài chính đè nặng lên lợi nhuận, dễ bị khối ngoại hoặc dòng tiền lớn né tránh.
+  - Hành động: Rủi ro vi phạm kịch bản, cần thận trọng với áp lực điều chỉnh.
