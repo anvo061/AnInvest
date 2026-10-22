@@ -1,20 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:20, ngày 22/10/2026
+⏱ Thời gian: 19:45:25
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kinh tế Trung Quốc hồi phục (GDP Q3 tăng 4.5%) và giá xăng dầu trong nước điều chỉnh giảm -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Xuất khẩu (Thủy sản/Thép/Cao su)**, **Logistics (Cảng biển/Vận tải)** và nhóm **Công nghệ** (hưởng lợi từ nhu cầu hạ tầng AI & bảo mật ngân hàng).
-- Đề xuất tháo gỡ pháp lý cho doanh nghiệp BĐS chưa nộp đủ tiền đất -> **Tích cực (ngắn hạn)** -> Dòng tiền kỳ vọng xoay chuyển sang nhóm **Bất động sản (NVL, DXG, DIG, PDR)** để giải phóng áp lực nợ vay.
+- **Khối ngoại đảo chiều mua ròng sau 21 phiên xả hàng:** Tín hiệu giải tỏa tâm lý tích cực lên nhóm Bluechips, đặc biệt là ngành Ngân hàng và Chứng khoán. -> [Đánh giá: Tích cực] -> [Dòng tiền ưu tiên: Ngân hàng (VCB, TCB), Chứng khoán (SSI, VND)].
+- **Áp lực cung ứng vốn 38,5 triệu tỷ đồng:** Nhu cầu tín dụng quá lớn tạo áp lực lên chi phí huy động và biên lãi ròng (NIM) của các ngân hàng. -> [Đánh giá: Tiêu cực] -> [Nhóm bị tác động: Ngân hàng (MBB, TCB)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL**
-    - **Động lực (FA):** Đề xuất cho phép chuyển nhượng dự án dù chưa nộp đủ tiền đất kết hợp với áp lực huy động 8.000 tỷ đồng và biến động từ cổ đông lớn.
-    - **Nhận định dòng tiền:** Phân hóa mạnh. Tin pháp lý hỗ trợ giải chấp/thanh khoản dự án là điểm sáng, nhưng rủi ro pha loãng từ kế hoạch huy động vốn vẫn là lực cản lớn.
-    - **Hành động:** Quan sát vùng hỗ trợ cứng, chỉ tham gia nếu có tín hiệu dòng tiền bắt đáy dứt khoát tại các vùng giá chiết khấu.
-- **Mã: GMD, HAH**
-    - **Động lực (FA):** Xuất khẩu Trung Quốc phục hồi + chi phí vận hành (xăng dầu) giảm.
-    - **Nhận định dòng tiền:** Hưởng lợi kép về biên lợi nhuận và nhu cầu vận tải. Dòng tiền có xu hướng gia tăng ổn định.
-    - **Hành động:** Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng nếu có nhịp rung lắc kỹ thuật.
-- **Mã: FPT**
-    - **Động lực (FA):** Nhu cầu an ninh mạng ngân hàng tăng cao + làn sóng đầu tư hạ tầng AI toàn cầu (Nhật Bản).
-    - **Nhận định dòng tiền:** Dòng tiền bền vững, dẫn dắt xu hướng tăng trưởng nhóm công nghệ.
-    - **Hành động:** Tiếp tục nắm giữ cho mục tiêu trung hạn.
+- **Mã: PGB**
+  - Động lực (FA): Lãi trước thuế 9 tháng tăng 27% so với cùng kỳ.
+  - Nhận định dòng tiền: Phản ánh khả năng nội tại tốt của ngân hàng quy mô nhỏ, tạo điểm tựa kỹ thuật riêng biệt so với áp lực chung của ngành.
+  - Hành động: Chú ý giải ngân (tận dụng nhịp điều chỉnh của nhóm ngân hàng nếu có).
+- **Mã: CII**
+  - Động lực (FA): Phát hành trái phiếu lãi suất cao (14,5%/năm).
+  - Nhận định dòng tiền: Chi phí vốn neo ở mức rủi ro cao, gây áp lực bào mòn lợi nhuận và làm nản lòng dòng tiền đầu cơ ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản (cân nhắc thoát vị thế nếu giá thủng hỗ trợ gần nhất).
+- **Mã: DHG**
+  - Động lực (FA): Lợi nhuận giảm 53%, tiền mặt sụt giảm mạnh.
+  - Nhận định dòng tiền: Mất vị thế phòng thủ, dòng tiền tổ chức khả năng cao sẽ thoái lui để tìm kiếm cơ hội tăng trưởng.
+  - Hành động: Rủi ro vi phạm kịch bản (cần ưu tiên quản trị rủi ro, không bắt đáy).
