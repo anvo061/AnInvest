@@ -1,23 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:15 ngày 23/10/2026
+⏱ Thời gian: 14:15 - 23/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất điều hành giảm & Giá dầu thế giới tăng:** Tác động trái chiều; nhóm Bất động sản (VHM, PDR, KDH) hưởng lợi từ chi phí vốn thấp, trong khi nhóm Vận tải/Logistics chịu áp lực từ chi phí đầu vào.
-- **Áp lực từ cổ phiếu công nghệ thế giới & Kết quả kinh doanh nhóm Chứng khoán (Q3/2026):** Tác động Tiêu cực; nhóm Công nghệ (FPT, CMG) và Chứng khoán (SSI, VND, VCI, HCM) đối mặt áp lực bán ngắn hạn do tâm lý thận trọng và biên lợi nhuận bị thu hẹp.
+- **Đề xuất nới điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài** -> Tích cực -> Nhóm Tài chính (Chứng khoán), Ngân hàng và các mã vốn hóa lớn (Bluechips) sẽ đón dòng vốn ngoại (FII).
+- **Lãi suất tiết kiệm tăng 11 tháng liên tiếp** -> Tiêu cực -> Áp lực chi phí vốn lên nhóm Bất động sản (PDR, VHM) và giảm sức hấp dẫn của kênh cổ phiếu (Đặc biệt nhóm chứng khoán SSI, VND do biên margin bị thu hẹp).
+- **Chênh lệch giá vàng tăng cao (16 triệu đồng)** -> Tiêu cực -> Gia tăng rủi ro tỷ giá và gây áp lực lên thanh khoản thị trường chung.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-  - **Động lực (FA):** Giá dầu thế giới tăng cao (+2 điểm tác động tích cực).
-  - **Nhận định dòng tiền:** Hưởng lợi từ sự cải thiện trong nhu cầu thăm dò/khai thác, tạo dư địa tích cực cho dòng tiền ngắn hạn so với mặt bằng chung.
-  - **Hành động:** Chú ý giải ngân nếu dòng tiền giữ vững mốc hỗ trợ kỹ thuật.
-- **Mã:** DBC
-  - **Động lực (FA):** Giá heo hơi giảm sâu gây áp lực trực tiếp lên biên lợi nhuận.
-  - **Nhận định dòng tiền:** Rủi ro điều chỉnh cao khi sức cầu tiêu dùng yếu.
-  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-- **Mã:** MSR
-  - **Động lực (FA):** Trung Quốc cắt giảm sản lượng đồng làm thắt chặt nguồn cung toàn cầu, giá đồng tăng.
-  - **Nhận định dòng tiền:** Hưởng lợi từ kỳ vọng giá hàng hóa thế giới, thu hút dòng tiền đầu cơ ngành khoáng sản.
-  - **Hành động:** Tiếp tục quan sát biến động giá đồng phiên hôm nay để xác nhận điểm vào.
-
-🔄 3. Cảnh báo Tái cơ cấu (Mã mục tiêu BSR):
-- **Nhận định:** Dữ liệu giá dầu thế giới tăng cao cung cấp hỗ trợ quan trọng cho biên lợi nhuận lọc dầu của BSR. Tuy nhiên, do đã qua điểm rơi kỳ vọng tháng 3/2026, nhà đầu tư cần ưu tiên chốt lời một phần để bảo toàn lợi nhuận nếu cổ phiếu không thể vượt cản cứng, đảo dòng tiền sang các nhóm ngành có dư địa phục hồi theo chính sách lãi suất thấp.
+- **Mã: MSN**
+    - Động lực (FA): Masan Consumer tăng trưởng doanh thu kỷ lục; đẩy mạnh mở rộng chuỗi cửa hàng tiện lợi.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền nội tại mạnh mẽ sẽ bù đắp áp lực tâm lý tiêu cực từ lãi suất tăng.
+    - Hành động: Chú ý giải ngân (tích lũy quanh vùng hỗ trợ).
+- **Mã: SSI**
+    - Động lực (FA): Hưởng lợi từ chủ trương nới room ngoại, nhưng bị áp lực bởi lãi suất tăng và kết quả kinh doanh kém khả quan của một số đơn vị cùng ngành.
+    - Nhận định dòng tiền: Phân hóa mạnh, dòng tiền sẽ chọn lọc dựa trên kỳ vọng nâng hạng.
+    - Hành động: Tiếp tục quan sát (chờ xác nhận dòng tiền vào từ khối ngoại).
+- **Mã: VHM**
+    - Động lực (FA): Hưởng lợi từ sự cải thiện tâm lý BĐS (dự án Thủ Thiêm) đối trọng với rủi ro chi phí lãi vay tăng.
+    - Nhận định dòng tiền: Cung cầu giằng co mạnh.
+    - Hành động: Rủi ro vi phạm kịch bản (quan sát kỹ vùng hỗ trợ cứng).
