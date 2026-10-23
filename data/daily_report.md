@@ -1,21 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:30 - 24/10/2026
+⏱ Thời gian: 03:55 (Ngày 24/10/2026)
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lãi suất huy động tăng lên mức 8,2%/năm:** -> **Tiêu cực** -> Dòng tiền sẽ chịu áp lực rút vốn khỏi các kênh tài sản rủi ro (Chứng khoán, Bất động sản) để chuyển dịch sang gửi tiết kiệm; gây gánh nặng chi phí lãi vay lên doanh nghiệp có đòn bẩy cao.
-- **Giá dầu Brent neo cao 115 USD/thùng:** -> **Tích cực** -> Dòng tiền tập trung vào nhóm thượng nguồn và trung nguồn (PVD, PVS, GAS).
-- **Giảm thuế thu nhập cá nhân (dự kiến 34.000 tỷ):** -> **Tích cực** -> Cải thiện sức mua nội địa, hỗ trợ nhóm bán lẻ (MWG, PNJ).
+- Agribank hạ lãi suất cho vay tới 2,5%/năm -> **Tích cực**: Kích hoạt chu kỳ giảm chi phí vốn, hỗ trợ mạnh cho các doanh nghiệp thâm dụng vốn (BĐS, Xây lắp) -> Dòng tiền hướng vào nhóm: **Bất động sản (VHM, PDR), Xây dựng hạ tầng (VCG, HHV)**.
+- Nhu cầu 757.000 tỷ đồng cho hạ tầng Đông Nam Bộ -> **Tích cực**: Tạo khối lượng công việc dài hạn, củng cố vị thế nhóm hưởng lợi từ đầu tư công -> Dòng tiền duy trì xu hướng vào nhóm: **Xây lắp, BĐS Khu công nghiệp (SZC)**.
+- Lưu lượng tàu container 15.500 TEU tại Cái Mép -> **Tích cực**: Khẳng định vị thế chiến lược cảng biển Việt Nam -> Dòng tiền hướng vào nhóm: **Logistics, Cảng biển (GMD)**.
+- Thanh khoản VN-Index tăng mạnh & xử lý tin đồn tiêu cực (NVL) -> **Tích cực**: Cải thiện tâm lý thị trường -> Dòng tiền hướng vào nhóm: **Chứng khoán (SSI, VND)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** PVD
-  - **Động lực (FA):** Giá dầu Brent duy trì mức cao 115 USD/thùng, giá thuê giàn khoan quốc tế duy trì đà tăng.
-  - **Nhận định dòng tiền:** Hưởng lợi từ sự phân hóa khi thị trường chịu áp lực từ lãi suất. Dòng tiền có xu hướng trú ẩn vào các mã có câu chuyện tăng trưởng biên lợi nhuận thực.
-  - **Hành động:** Chú ý giải ngân nếu giá test hỗ trợ thành công.
-- **Mã:** KBC
-  - **Động lực (FA):** Vướng mắc pháp lý đất đai ("khát vốn" vì thiếu sổ đỏ) cản trở khả năng tiếp cận vốn vay.
-  - **Nhận định dòng tiền:** Tiêu cực; nhà đầu tư tổ chức sẽ ưu tiên thoái vốn để giảm rủi ro pháp lý trong môi trường lãi suất vay đang tăng.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cần thận trọng quan sát vùng hỗ trợ cứng.
-- **Mã:** VHM
-  - **Động lực (FA):** Lãi suất huy động tăng 8,2%/năm trực tiếp bào mòn biên lợi nhuận dự án và giảm sức mua căn hộ trả góp.
-  - **Nhận định dòng tiền:** Chịu áp lực bán mạnh do kỳ vọng chi phí vốn tăng cao.
-  - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+- Mã: **VHM, PDR**
+  - Động lực (FA): Hưởng lợi trực tiếp từ đợt hạ lãi suất cho vay của Agribank (giảm áp lực chi phí tài chính & tăng cầu mua nhà).
+  - Nhận định dòng tiền: Dòng tiền có xu hướng xoay trục từ nhóm phòng thủ sang nhóm nhạy cảm với lãi suất.
+  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh trong phiên.
+- Mã: **GMD**
+  - Động lực (FA): Đón tàu trọng tải lớn tại Cái Mép, tăng doanh thu khai thác cảng.
+  - Nhận định dòng tiền: Kỳ vọng dòng tiền gia tăng do thông tin hỗ trợ trực tiếp đến hoạt động kinh doanh cốt lõi.
+  - Hành động: Tiếp tục quan sát để gia tăng vị thế.
+- Mã: **VCG, HHV, SZC**
+  - Động lực (FA): Nhu cầu vốn 757.000 tỷ cho hạ tầng Đông Nam Bộ.
+  - Nhận định dòng tiền: Đây là nhóm hưởng lợi bền vững; dòng tiền sẽ tập trung mạnh khi có thông tin giải ngân cụ thể từng dự án.
+  - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi dòng tiền thị trường xác nhận.
+- Mã: **SSI, VND**
+  - Động lực (FA): Thanh khoản thị trường bùng nổ (+70 điểm/tuần).
+  - Nhận định dòng tiền: Dòng tiền đầu cơ & dòng tiền từ nhà đầu tư cá nhân tập trung cao độ.
+  - Hành động: Tiếp tục nắm giữ, bám sát hỗ trợ kỹ thuật; thận trọng với áp lực bán ròng từ khối ngoại.
+
+⚠️ **Lưu ý:** Áp lực bán ròng từ khối ngoại và diễn biến tiêu cực từ TTCK Trung Quốc vẫn là rủi ro tiềm ẩn, cần theo dõi sát phản ứng của chỉ số tại các ngưỡng kháng cự tâm lý.
