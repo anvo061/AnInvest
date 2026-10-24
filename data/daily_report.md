@@ -1,29 +1,22 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 02:55
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 05:20 - 25/10/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Đầu tư công & Hạ tầng:** Triển khai đồng loạt dự án đường sắt Bến Thành - Cần Giờ và cầu đi bộ sông Sài Gòn -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Xây lắp hạ tầng (VCG, HHV) và Vật liệu (HPG).
-- **Hàng không:** Cục Hàng không đề xuất tăng tần suất và mở mới đường bay nội địa -> **Tích cực** -> Dòng tiền hướng vào nhóm Hàng không & Dịch vụ sân bay (HVN, ACV, VJC).
-- **Bất động sản:** Chính phủ đề xuất thuế 0,2% trên đất bỏ hoang -> **Tiêu cực** -> Tạo áp lực điều chỉnh lên các mã có quỹ đất lớn nhưng tiến độ chậm (NVL, VHM, DIG, DXG).
-- **Năng lượng:** Petrovietnam đẩy mạnh hợp tác điện gió ngoài khơi -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí & Xây lắp điện (PVS, PVD).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Dự án hạ tầng trọng điểm:** TP.HCM phê duyệt dự án bồi thường, giải phóng mặt bằng metro số 2 (36.586 tỉ đồng) -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm xây dựng hạ tầng và vật liệu xây dựng.
+- **Rủi ro đòn bẩy:** Dư nợ margin toàn thị trường đạt mức kỷ lục -> **Tiêu cực** -> Tạo rủi ro điều chỉnh kỹ thuật đối với nhóm chứng khoán, đặc biệt là các mã có tỷ lệ sử dụng đòn bẩy cao.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** HAG
-- **Động lực (FA):** Chốt hợp đồng xuất khẩu 1.000 tấn cà phê sang Trung Quốc.
-- **Nhận định dòng tiền:** Cải thiện cơ cấu doanh thu, giảm áp lực phụ thuộc mảng chuối; tín hiệu tích cực cho dòng tiền ngắn hạn.
-- **Hành động:** Chú ý giải ngân (theo dõi vùng hỗ trợ).
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** VCG
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ dự án metro số 2 TP.HCM với năng lực thi công hạ tầng giao thông.
+  - **Nhận định dòng tiền:** Tin tức hỗ trợ tâm lý tích cực, kỳ vọng dòng tiền khối nội đẩy mạnh vào các dự án đầu tư công cuối năm.
+  - **Hành động:** Quan sát vùng giá phản ứng với tin, canh nhịp rung lắc để gia tăng tỷ trọng theo kịch bản quản trị rủi ro.
 
-- **Mã:** VCG, HHV
-- **Động lực (FA):** Xác nhận triển khai thi công dự án hạ tầng trọng điểm từ 30/10.
-- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ khối lượng backlog gia tăng.
-- **Hành động:** Tiếp tục quan sát (mua gom khi có nhịp điều chỉnh trong phiên).
+- **Mã:** SSI, VND, VCI
+  - **Động lực (FA):** Áp lực margin kỷ lục tạo rủi ro Force-sell (bán giải chấp) nếu thị trường xuất hiện rung lắc ngắn hạn.
+  - **Nhận định dòng tiền:** Nhóm này đang ở vùng nhạy cảm; cần thận trọng với áp lực chốt lời gia tăng khi chỉ số Index đang ở vùng cao.
+  - **Hành động:** Hạ tỷ trọng margin tại các tài khoản đang sử dụng đòn bẩy cao, ưu tiên quản trị rủi ro hơn là mở vị thế mua mới.
 
-- **Mã:** TST
-- **Động lực (FA):** Nhận án phạt hành chính từ UBCKNN.
-- **Nhận định dòng tiền:** Rủi ro tiêu cực về tâm lý và quản trị, khả năng xuất hiện lực bán tháo ngắn hạn.
-- **Hành động:** Rủi ro vi phạm kịch bản (né tránh/cắt giảm vị thế).
-
-- **Mã:** PVS, PVD
-- **Động lực (FA):** Hợp tác phát triển điện gió ngoài khơi với Đan Mạch.
-- **Nhận định dòng tiền:** Kỳ vọng tăng trưởng trung dài hạn; dòng tiền có tính ổn định cao.
-- **Hành động:** Chú ý giải ngân.
+- **Mã:** HVN
+  - **Động lực (FA):** Đẩy mạnh khai thác thị trường Bỉ, mở rộng mạng lưới quốc tế.
+  - **Nhận định dòng tiền:** Tin tức mang tính chất củng cố tăng trưởng dài hạn, tác động trung tính trong ngắn hạn.
+  - **Hành động:** Tiếp tục nắm giữ, theo dõi diễn biến thanh khoản tại vùng giá hiện tại.
