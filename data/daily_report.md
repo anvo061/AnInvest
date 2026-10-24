@@ -1,25 +1,29 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:50 - 25/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 02:55
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dự án đường vành đai 3 Hải Phòng (8.100 tỷ đồng):** Động thái thúc đẩy đầu tư công trọng điểm -> **Tích cực** -> Dòng tiền dự kiến dịch chuyển mạnh vào nhóm **Xây lắp hạ tầng** và **Bất động sản khu công nghiệp**.
-- **Giá đồng thế giới tăng mạnh:** Cải thiện biên lợi nhuận cho các doanh nghiệp khai thác kim loại -> **Tích cực** -> Dòng tiền tập trung vào nhóm **Vật liệu công nghiệp/Kim loại màu**.
-- **BCTC quý 3/2026 phân hóa:** Ngành chứng khoán chịu áp lực từ hiệu quả đầu tư kém; ngành nhiệt điện (POW) ghi nhận tăng trưởng bứt tốc -> **Phân hóa** -> Dòng tiền có xu hướng rút khỏi nhóm tài chính suy yếu, tìm kiếm trú ẩn tại các mã có kết quả kinh doanh thực tế (Nhiệt điện).
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Đầu tư công & Hạ tầng:** Triển khai đồng loạt dự án đường sắt Bến Thành - Cần Giờ và cầu đi bộ sông Sài Gòn -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Xây lắp hạ tầng (VCG, HHV) và Vật liệu (HPG).
+- **Hàng không:** Cục Hàng không đề xuất tăng tần suất và mở mới đường bay nội địa -> **Tích cực** -> Dòng tiền hướng vào nhóm Hàng không & Dịch vụ sân bay (HVN, ACV, VJC).
+- **Bất động sản:** Chính phủ đề xuất thuế 0,2% trên đất bỏ hoang -> **Tiêu cực** -> Tạo áp lực điều chỉnh lên các mã có quỹ đất lớn nhưng tiến độ chậm (NVL, VHM, DIG, DXG).
+- **Năng lượng:** Petrovietnam đẩy mạnh hợp tác điện gió ngoài khơi -> **Tích cực** -> Dòng tiền hướng vào nhóm Dầu khí & Xây lắp điện (PVS, PVD).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: POW**
-  - Động lực (FA): Kết quả kinh doanh quý 3 bứt tốc, khẳng định vị thế trong ngành nhiệt điện.
-  - Nhận định dòng tiền: Tạo tín hiệu đảo chiều tích cực khi các nhóm ngành khác (như chứng khoán) đang lộ điểm yếu trong BCTC.
-  - Hành động: **Chú ý giải ngân** theo đà bứt phá.
-- **Mã: MSR**
-  - Động lực (FA): Hưởng lợi trực tiếp từ đà tăng giá đồng trên thị trường quốc tế (CMOC earnings soar).
-  - Nhận định dòng tiền: Dòng tiền đầu cơ nhóm kim loại khả năng sẽ kích hoạt theo dữ liệu quốc tế.
-  - Hành động: **Tiếp tục quan sát** phản ứng tại vùng cản kỹ thuật.
-- **Mã: VCG, HHV, KBC**
-  - Động lực (FA): Hưởng lợi từ dự án đường vành đai 3 Hải Phòng.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh sớm đón đầu tin tức đầu tư công quy mô lớn.
-  - Hành động: **Chú ý giải ngân** quanh nền giá hiện tại.
-- **Mã: SSI**
-  - Động lực (FA): BCTC quý 3 suy giảm.
-  - Nhận định dòng tiền: Chịu áp lực bán ngắn hạn, cần tránh bắt đáy khi dòng tiền đang rút khỏi nhóm chứng khoán.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** HAG
+- **Động lực (FA):** Chốt hợp đồng xuất khẩu 1.000 tấn cà phê sang Trung Quốc.
+- **Nhận định dòng tiền:** Cải thiện cơ cấu doanh thu, giảm áp lực phụ thuộc mảng chuối; tín hiệu tích cực cho dòng tiền ngắn hạn.
+- **Hành động:** Chú ý giải ngân (theo dõi vùng hỗ trợ).
+
+- **Mã:** VCG, HHV
+- **Động lực (FA):** Xác nhận triển khai thi công dự án hạ tầng trọng điểm từ 30/10.
+- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ khối lượng backlog gia tăng.
+- **Hành động:** Tiếp tục quan sát (mua gom khi có nhịp điều chỉnh trong phiên).
+
+- **Mã:** TST
+- **Động lực (FA):** Nhận án phạt hành chính từ UBCKNN.
+- **Nhận định dòng tiền:** Rủi ro tiêu cực về tâm lý và quản trị, khả năng xuất hiện lực bán tháo ngắn hạn.
+- **Hành động:** Rủi ro vi phạm kịch bản (né tránh/cắt giảm vị thế).
+
+- **Mã:** PVS, PVD
+- **Động lực (FA):** Hợp tác phát triển điện gió ngoài khơi với Đan Mạch.
+- **Nhận định dòng tiền:** Kỳ vọng tăng trưởng trung dài hạn; dòng tiền có tính ổn định cao.
+- **Hành động:** Chú ý giải ngân.
