@@ -1,16 +1,18 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 06:50 - 24/10/2026
+⏱ Thời gian: 09:05 - 24/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ yêu cầu 9 địa phương trọng điểm đạt tăng trưởng >15% và đẩy nhanh chính sách hỗ trợ điện mặt trời mái nhà trong tháng 12 -> [Đánh giá: Tích cực] -> [Dòng tiền sẽ tập trung vào nhóm Xây dựng hạ tầng, Bất động sản khu công nghiệp và Nhóm Xây lắp điện/Thiết bị năng lượng].
+- Làn sóng giảm lãi suất huy động của các ngân hàng (điển hình là Agribank) và xu hướng giảm lãi suất cho vay -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào nhóm Ngân hàng (dẫn dắt) và Bất động sản (giảm áp lực chi phí tài chính)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: PC1
-- Động lực (FA): Hưởng lợi trực tiếp từ chủ trương đẩy nhanh chính sách hỗ trợ điện mặt trời mái nhà (quy định chốt chính sách trong tháng 12).
-- Nhận định dòng tiền: Tín hiệu hỗ trợ từ chính sách giúp cải thiện backlog dự án trung hạn, tạo kỳ vọng cho dòng tiền đầu cơ nhóm năng lượng xanh.
-- Hành động: Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên.
+- Mã: **TCB**
+- Động lực (FA): Hưởng lợi kép từ việc giảm chi phí vốn (COF) và tăng trưởng tín dụng mạnh mẽ thông qua việc hạ lãi suất cho vay thực tế.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền khối ngoại và tổ chức gia tăng tại vùng giá hiện tại để đón đầu kết quả kinh doanh cuối năm.
+- Hành động: **Chú ý giải ngân** (theo dõi sát lực mua chủ động quanh vùng hỗ trợ).
 
-- Mã: GMD
-- Động lực (FA): Cảng Cái Mép tiếp nhận tàu container thế hệ mới (15.500 TEU), củng cố vị thế lưu lượng hàng hóa khai thác.
-- Nhận định dòng tiền: Tin tức hỗ trợ nội tại doanh nghiệp mạnh, củng cố xu hướng tăng trưởng doanh thu cảng biển.
-- Hành động: Tiếp tục nắm giữ, quan sát ngưỡng kháng cự tiếp theo.
+- Mã: **VHM**
+- Động lực (FA): Lãi suất giảm trực tiếp làm nhẹ gánh chi phí tài chính doanh nghiệp và cải thiện khả năng tiếp cận vốn của khách hàng mua nhà.
+- Nhận định dòng tiền: Phản ứng tích cực với thông tin vĩ mô, có khả năng dẫn dắt tâm lý nhóm Bất động sản dân cư.
+- Hành động: **Tiếp tục quan sát** phản ứng tại các vùng cản tâm lý gần nhất.
+
+⚠️ *Lưu ý: Nhóm Bất động sản vẫn chịu phân hóa mạnh. Cần tránh xa các mã có hiện tượng giảm sàn liên tục (rủi ro thanh khoản/margin call) như đã ghi nhận trên thị trường để bảo toàn vốn.*
