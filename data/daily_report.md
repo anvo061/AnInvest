@@ -1,27 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:45 - 24/10/2026
+⏱ Thời gian: 22:15, 24/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Kích thích kinh tế từ Trung Quốc & Lãi suất hạ nhiệt tại Việt Nam**: Trung Quốc chuyển sang chế độ kích thích tiêu dùng nguyên vật liệu; đồng thời môi trường lãi suất thấp tiếp tục hỗ trợ nhóm Bất động sản và Hạ tầng điện -> **Tích cực** -> Dòng tiền tập trung vào: **Thép (HPG), Cao su (GVR), Bất động sản dân cư (VHM, PDR, DIG, NVL), Điện (POW)**.
+- **Ngành Bất động sản & Xây lắp:** Lãi suất hạ nhiệt (tác động tích cực tới chi phí vốn) kết hợp cùng dự án đường vành đai 3 Hải Phòng (8.100 tỉ đồng) tạo động lực kép. -> **Tích cực** -> Dòng tiền sẽ tập trung vào nhóm BĐS dân dụng (VHM, PDR, DIG, NVL) và nhóm xây lắp hạ tầng (VCG, HHV).
+- **Ngành Điện:** Chênh lệch giá bán/giá thành điện 2025 dương giúp EVN cải thiện thanh khoản. -> **Tích cực** -> Dòng tiền ưu tiên nhóm nhiệt điện (POW).
+- **Kinh tế Trung Quốc:** Chuyển sang chế độ kích thích kinh tế toàn diện. -> **Tích cực** -> Nhóm nguyên vật liệu xuất khẩu (thép HPG, cao su GVR) hưởng lợi từ kỳ vọng tăng cầu.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HPG**
-    - Động lực (FA): Trung Quốc chuyển dịch sang chế độ kích thích kinh tế, kỳ vọng tăng nhu cầu thép.
-    - Nhận định dòng tiền: Hưởng lợi từ tâm lý cải thiện giá bán xuất khẩu và giảm áp lực tồn kho.
-    - Hành động: Chú ý giải ngân khi có nhịp rung lắc tích lũy.
+- **Mã: VHM, PDR, DIG, NVL**
+  - Động lực (FA): Lãi suất hạ nhiệt trong Q4/2026.
+  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể luân chuyển mạnh sang nhóm BĐS khi rủi ro tài chính giảm bớt.
+  - Hành động: Chú ý giải ngân tại các vùng hỗ trợ cứng.
+- **Mã: VCG, HHV**
+  - Động lực (FA): Dự án vành đai 3 Hải Phòng quy mô 8.100 tỉ đồng.
+  - Nhận định dòng tiền: Kỳ vọng sóng hạ tầng quay trở lại dẫn dắt khối xây lắp.
+  - Hành động: Tiếp tục quan sát khối lượng khớp lệnh trong 1-2 phiên tới để xác nhận lực cầu.
 - **Mã: POW**
-    - Động lực (FA): Giá bán lẻ điện bình quân cao hơn giá thành sản xuất.
-    - Nhận định dòng tiền: Cải thiện biên lợi nhuận gộp, tạo động lực tăng trưởng bền vững cho cổ phiếu ngành điện.
-    - Hành động: Tiếp tục quan sát để điểm hợp lưu dòng tiền.
-- **Mã: VHM, PDR, DIG**
-    - Động lực (FA): Môi trường lãi suất giảm hỗ trợ trực tiếp chi phí vốn và khả năng thanh khoản của thị trường BĐS.
-    - Nhận định dòng tiền: Dòng tiền đầu cơ và khối ngoại có xu hướng phản ứng tích cực với thông tin giảm lãi suất.
-    - Hành động: Chú ý giải ngân theo sóng hồi của ngành.
+  - Động lực (FA): Giá bán điện > giá sản xuất giúp cải thiện dòng tiền doanh nghiệp.
+  - Nhận định dòng tiền: Cải thiện sức khỏe tài chính tạo tâm lý tích cực cho cổ đông nắm giữ dài hạn.
+  - Hành động: Chú ý giải ngân cho danh mục phòng thủ.
 - **Mã: CMS**
-    - Động lực (FA): Lãnh đạo cấp cao bị xử phạt vi phạm giao dịch.
-    - Nhận định dòng tiền: Tạo áp lực bán tháo ngắn hạn do rủi ro quản trị.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, tránh bắt đáy.
-- **Mã: AAS**
-    - Động lực (FA): HD Capital trở thành cổ đông lớn.
-    - Nhận định dòng tiền: Kỳ vọng tái cấu trúc và tăng năng lực tài chính, tạo sóng kỳ vọng ngắn hạn.
-    - Hành động: Chú ý giải ngân (tỷ trọng nhỏ, kiểm soát rủi ro thanh khoản).
+  - Động lực (FA): Lãnh đạo bị xử phạt do vi phạm giao dịch.
+  - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do áp lực tâm lý từ thông tin quản trị.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
