@@ -1,22 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:15, 25/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian: 16:55 - 25/10/2026**
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Chính sách thuế BĐS:** Đề xuất đánh thuế 0,2% đối với đất bỏ hoang -> **Tiêu cực** -> Dòng tiền sẽ rút khỏi các doanh nghiệp có quỹ đất lớn nhưng năng lực triển khai dự án yếu, gây áp lực lên nhóm cổ phiếu Bất động sản dân dụng.
-- **Tăng trưởng ngành MICE (Hội nghị, Triển lãm):** Lợi nhuận VEF tăng trưởng mạnh -> **Tích cực** -> Dòng tiền có xu hướng phân hóa vào nhóm BĐS thương mại và hệ sinh thái liên quan đến hạ tầng triển lãm.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Tỷ giá USD hạ nhiệt xuống mức thấp nhất 1.5 năm:** -> **Tích cực** -> Dòng tiền sẽ ưu tiên các mã có dư nợ vay ngoại tệ lớn (POW), doanh nghiệp nhập khẩu nguyên liệu (HPG) và ngành bán lẻ (DGW).
+- **Giá dầu thế giới tăng mạnh:** -> **Tích cực** -> Dòng tiền hướng vào nhóm thượng nguồn và phân phối xăng dầu (PVD, PVS, BSR).
+- **Chính sách đánh thuế đất bỏ hoang:** -> **Tiêu cực** -> Tạo áp lực chi phí lên nhóm BĐS có quỹ đất lớn nhưng tiến độ triển khai chậm (NVL, DIG, DXG).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL**
-- **Động lực (FA):** Áp lực kép từ chính sách thuế đất bỏ hoang và nhu cầu cần huy động 8.000 tỷ đồng để cơ cấu nợ.
-- **Nhận định dòng tiền:** Áp lực cung ngắn hạn sẽ gia tăng do nhà đầu tư lo ngại rủi ro pha loãng và chi phí vận hành tăng cao.
-- **Hành động:** Rủi ro vi phạm kịch bản; ưu tiên quản trị rủi ro, hạn chế giải ngân mới trong ngắn hạn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: BMI**
+  - Động lực (FA): Được cấp lại Margin trên HOSE.
+  - Nhận định dòng tiền: Tăng thanh khoản kỳ vọng, thu hút dòng tiền đầu cơ ngắn hạn từ nhóm dùng đòn bẩy.
+  - Hành động: Chú ý giải ngân nếu volume xác nhận break vùng nền gần nhất.
+- **Mã: KOS**
+  - Động lực (FA): Cổ đông lớn bị bán giải chấp.
+  - Nhận định dòng tiền: Áp lực cung treo lơ lửng, rủi ro điều chỉnh kỹ thuật mạnh.
+  - Hành động: Quan sát, tránh bắt đáy trong giai đoạn cung giải chấp chưa hấp thụ hết.
+- **Mã: PVD**
+  - Động lực (FA): Giá dầu thế giới tuần tăng mạnh.
+  - Nhận định dòng tiền: Hưởng lợi trực tiếp về biên lợi nhuận và triển vọng giá thuê giàn khoan.
+  - Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi có nhịp rung lắc kỹ thuật.
 
-- **Mã: DIG, DXG**
-- **Động lực (FA):** Ảnh hưởng trực tiếp từ chính sách đánh thuế đất bỏ hoang, làm gia tăng gánh nặng chi phí vốn đối với quỹ đất chưa khai thác.
-- **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể suy yếu, nhường chỗ cho áp lực chốt lời/cắt lỗ ngắn hạn.
-- **Hành động:** Tiếp tục quan sát; theo dõi phản ứng giá tại các vùng hỗ trợ cứng, tránh bắt đáy khi chưa có tín hiệu cân bằng chính sách.
-
-- **Mã: VEF**
-- **Động lực (FA):** Kết quả kinh doanh đột biến, hưởng lợi trực tiếp từ sự phục hồi của ngành MICE và vị thế độc tôn trong phân khúc triển lãm.
-- **Nhận định dòng tiền:** Tích cực; thu hút dòng tiền trung và dài hạn nhờ nền tảng lợi nhuận thực.
-- **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật, duy trì vị thế nắm giữ.
+🔄 **3. Cảnh báo Tái cơ cấu (BSR):**
+- **Nhận định:** Dữ liệu giá dầu tăng mạnh là "chất xúc tác" hỗ trợ tốt cho BSR. Tuy nhiên, thời điểm tháng 6/2026 đã qua điểm rơi kỳ vọng ban đầu (Tháng 3/2026), nhà đầu tư nên chuyển từ trạng thái nắm giữ trung hạn sang **quản trị rủi ro chủ động**: Chỉ giữ nếu giá giữ được các mốc hỗ trợ cứng, ưu tiên chốt lời từng phần để đảo dòng tiền sang các nhóm ngành đang hưởng lợi từ tỷ giá hạ nhiệt.
