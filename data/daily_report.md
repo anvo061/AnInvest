@@ -1,26 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:15 - 25/10/2026
+⏱ Thời gian: 03:15 - 26/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng lớn đồng loạt giảm lãi suất huy động:** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Chứng khoán (SSI, VND)** nhờ hưởng lợi thanh khoản/margin và nhóm **Bất động sản (VHM, PDR)** nhờ giảm áp lực chi phí vốn.
+- Lãi suất thực duy trì ở mức cao (8-9%) dù lãi suất niêm yết giảm -> [Đánh giá: Tiêu cực] -> [Dòng tiền sẽ tiếp tục rút khỏi nhóm BĐS sử dụng đòn bẩy cao, chuyển dịch ưu tiên sang các nhóm tài chính/ngân hàng có nguồn thu ngoài lãi ổn định].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PNJ**
-  - Động lực (FA): Lãnh đạo cấp cao xin lỗi gây mất uy tín quản trị; cổ phiếu thủng hỗ trợ kỹ thuật.
-  - Nhận định dòng tiền: Áp lực bán tháo ngắn hạn gia tăng do hiệu ứng tâm lý tiêu cực.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng, tránh bắt đáy khi chưa có tín hiệu cân bằng tại nền giá mới.
+- Mã: **NVL**
+- Động lực (FA): Cần 8.000 tỷ đồng để cơ cấu nợ, khối lượng cổ phiếu sang tay lớn (570 triệu đơn vị).
+- Nhận định dòng tiền: Áp lực cung ngắn hạn cực lớn, rủi ro pha loãng và căng thẳng thanh khoản doanh nghiệp ở mức báo động.
+- Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên quản trị rủi ro, tránh bắt đáy trong giai đoạn xử lý nợ.
 
-- **Mã: MSN**
-  - Động lực (FA): Doanh thu Phúc Long kỷ lục (Tích cực) đối đầu với áp lực tăng chi phí điện theo giờ (Tiêu cực).
-  - Nhận định dòng tiền: Trung lập. Lợi nhuận từ mảng F&B giúp củng cố định giá, nhưng áp lực chi phí vận hành sẽ gây nhiễu biên lợi nhuận ngắn hạn.
-  - Hành động: **Tiếp tục quan sát**, chờ điểm cân bằng tại vùng hỗ trợ cứng.
+- Mã: **TCB**
+- Động lực (FA): Thu nhập từ phí bảo hiểm (Bancassurance) tăng trưởng tốt, đóng góp lớn vào cơ cấu lợi nhuận.
+- Nhận định dòng tiền: Tích cực, củng cố nền tảng tài chính bền vững trong môi trường lãi suất thực cao.
+- Hành động: **Tiếp tục quan sát**, ưu tiên giữ vị thế đối với nhóm ngân hàng có đa dạng hóa nguồn thu.
 
-- **Mã: KOS**
-  - Động lực (FA): Chủ tịch và người liên quan bị bán giải chấp cổ phiếu.
-  - Nhận định dòng tiền: Cung đột biến, rủi ro điều chỉnh kỹ thuật mạnh do áp lực bán thụ động.
-  - Hành động: **Rủi ro vi phạm kịch bản**, đứng ngoài danh mục.
-
-- **Mã: BMI**
-  - Động lực (FA): Được cấp lại margin trên HOSE.
-  - Nhận định dòng tiền: Kỳ vọng gia tăng thanh khoản và dòng tiền đầu cơ nhập cuộc.
-  - Hành động: **Chú ý giải ngân** nếu có nhịp test lại cung/cầu ổn định.
+- Mã: **SSI / VCB / VHM**
+- Động lực (FA): Dòng vốn ngoại dịch chuyển từ trái phiếu chính phủ sang các thị trường mới nổi (Emerging Markets).
+- Nhận định dòng tiền: Hỗ trợ tích cực cho nhóm Bluechip và CTCK đầu ngành, giúp cải thiện thanh khoản toàn thị trường.
+- Hành động: **Chú ý giải ngân** nhóm dẫn dắt nếu VN-Index giữ vững nền hỗ trợ sau nhịp rung lắc từ tin tức lãi suất.
