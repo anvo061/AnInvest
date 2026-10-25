@@ -1,22 +1,25 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:20 - 25/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian: 07:45 - 25/10/2026**
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Dự án hạ tầng trọng điểm:** TP.HCM phê duyệt dự án bồi thường, giải phóng mặt bằng metro số 2 (36.586 tỉ đồng) -> **Tích cực** -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm xây dựng hạ tầng và vật liệu xây dựng.
-- **Rủi ro đòn bẩy:** Dư nợ margin toàn thị trường đạt mức kỷ lục -> **Tiêu cực** -> Tạo rủi ro điều chỉnh kỹ thuật đối với nhóm chứng khoán, đặc biệt là các mã có tỷ lệ sử dụng đòn bẩy cao.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Dư nợ Margin đạt kỷ lục:** Tạo áp lực giải chấp (force sell) tiềm ẩn nếu thị trường rung lắc mạnh -> **Tác động: Tiêu cực** -> Dòng tiền vào nhóm Chứng khoán (SSI, VND, VCI) sẽ chịu áp lực rung lắc/cung hàng cao trong ngắn hạn.
+- **Phê duyệt dự án Metro số 2 (36.586 tỷ đồng):** Đẩy nhanh giải ngân đầu tư công hạ tầng phía Nam -> **Tác động: Tích cực** -> Dòng tiền hướng vào nhóm Xây dựng hạ tầng.
+- **Mở rộng thị trường xuất khẩu thủy sản (Trung Đông):** Giảm áp lực tồn kho ngành cá tra -> **Tác động: Tích cực** -> Dòng tiền hướng vào nhóm Thủy sản.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VCG
-  - **Động lực (FA):** Hưởng lợi trực tiếp từ dự án metro số 2 TP.HCM với năng lực thi công hạ tầng giao thông.
-  - **Nhận định dòng tiền:** Tin tức hỗ trợ tâm lý tích cực, kỳ vọng dòng tiền khối nội đẩy mạnh vào các dự án đầu tư công cuối năm.
-  - **Hành động:** Quan sát vùng giá phản ứng với tin, canh nhịp rung lắc để gia tăng tỷ trọng theo kịch bản quản trị rủi ro.
-
-- **Mã:** SSI, VND, VCI
-  - **Động lực (FA):** Áp lực margin kỷ lục tạo rủi ro Force-sell (bán giải chấp) nếu thị trường xuất hiện rung lắc ngắn hạn.
-  - **Nhận định dòng tiền:** Nhóm này đang ở vùng nhạy cảm; cần thận trọng với áp lực chốt lời gia tăng khi chỉ số Index đang ở vùng cao.
-  - **Hành động:** Hạ tỷ trọng margin tại các tài khoản đang sử dụng đòn bẩy cao, ưu tiên quản trị rủi ro hơn là mở vị thế mua mới.
-
-- **Mã:** HVN
-  - **Động lực (FA):** Đẩy mạnh khai thác thị trường Bỉ, mở rộng mạng lưới quốc tế.
-  - **Nhận định dòng tiền:** Tin tức mang tính chất củng cố tăng trưởng dài hạn, tác động trung tính trong ngắn hạn.
-  - **Hành động:** Tiếp tục nắm giữ, theo dõi diễn biến thanh khoản tại vùng giá hiện tại.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: VCG**
+    - **Động lực (FA):** Được hưởng lợi trực tiếp từ dự án Metro số 2 (giải phóng mặt bằng 36.586 tỷ đồng).
+    - **Nhận định dòng tiền:** Hưởng lợi từ làn sóng đầu tư công, kỳ vọng dòng tiền thông minh sẽ tìm đến nhóm hạ tầng để trú ẩn trước áp lực margin của nhóm tài chính.
+    - **Hành động:** Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
+- **Mã: VHC, ANV**
+    - **Động lực (FA):** Mở rộng thị trường Trung Đông giúp cải thiện biên lợi nhuận và doanh thu xuất khẩu.
+    - **Nhận định dòng tiền:** Tin tức cơ bản bổ trợ tốt, cần quan sát lực cầu tại vùng hỗ trợ cứng.
+    - **Hành động:** Tiếp tục quan sát, ưu tiên nắm giữ.
+- **Mã: SSI, VND, VCI**
+    - **Động lực (FA):** Rủi ro margin kỷ lục làm tăng độ nhạy cảm với các biến động chỉ số.
+    - **Nhận định dòng tiền:** Áp lực cung tăng khi thị trường chạm kháng cự, rủi ro điều chỉnh kỹ thuật cao.
+    - **Hành động:** Rủi ro vi phạm kịch bản, hạ tỷ trọng nếu mất các mốc hỗ trợ ngắn hạn.
+- **Mã: VTR**
+    - **Động lực (FA):** Sụt giảm doanh thu lữ hành do sức cầu tiêu dùng yếu tại Hội An.
+    - **Nhận định dòng tiền:** Tiêu cực, dòng tiền rút khỏi các doanh nghiệp dịch vụ du lịch đang mất đà tăng trưởng.
+    - **Hành động:** Cảnh báo rủi ro vi phạm kịch bản.
