@@ -1,20 +1,28 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 12:20 - 26/10/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 18:07
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Thay đổi cách tính room tín dụng (bao gồm L/C):** -> **Tiêu cực** -> Dòng tiền nhóm Ngân hàng sẽ chịu áp lực điều chỉnh mạnh do dư địa tăng trưởng cuối năm bị thu hẹp đột ngột.
-- **Tiền chờ đầu tư tại CTCK xuống đáy 3 năm:** -> **Tiêu cực** -> Thanh khoản thị trường dự báo tiếp tục suy giảm, nhóm Chứng khoán (SSI, VND, VCI) sẽ gặp khó khăn trong việc thu phí môi giới và margin.
-- **Lãi suất huy động hạ nhiệt:** -> **Tích cực (ngắn hạn)** -> Giảm áp lực chi phí vốn cho các nhóm ngành thâm dụng vốn; tuy nhiên tác động này tạm thời bị lu mờ bởi thông tin thắt chặt room tín dụng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Làn sóng hạ lãi suất cho vay:** HDB, Agribank, TCB đồng loạt giảm lãi suất 1.5% - 2.5% với gói tín dụng hàng trăm ngàn tỷ -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm **Sản xuất (HPG, MSN)** nhờ giảm chi phí tài chính và nhóm **Bất động sản (PDR, VHM)** nhờ kích cầu thanh khoản.
+- **Áp lực từ thị trường BĐS Trung Quốc:** Giá nhà đất Trung Quốc tiếp tục suy yếu -> **Tiêu cực** -> Gây áp lực biên lợi nhuận nhóm **Thép (NKG, HSG)** do giá nguyên liệu toàn cầu giảm và rủi ro tồn kho.
+- **Thắt chặt FDI công nghệ cao:** Việc chậm tiến độ nhà máy bán dẫn làm giảm kỳ vọng FDI -> **Tiêu cực** -> Áp lực lên nhóm **Khu công nghiệp (KBC, GVR)**.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **TCB, VPB, MBB**
-    - **Động lực (FA):** Bị ảnh hưởng trực tiếp bởi quy định mới về cách tính room tín dụng (bao gồm L/C), gây áp lực lên kế hoạch giải ngân tín dụng quý 4.
-    - **Nhận định dòng tiền:** Áp lực bán kỹ thuật sẽ gia tăng tại vùng giá hiện tại do rủi ro tăng trưởng bị chặn đứng.
-    - **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng. Ưu tiên hạ tỷ trọng nếu giá thủng các mốc hỗ trợ cứng.
-- **Mã:** **PVD**
-    - **Động lực (FA):** Giá dầu thế giới điều chỉnh giảm từ đỉnh 6 tháng.
-    - **Nhận định dòng tiền:** Tâm lý nhà đầu tư sẽ tiêu cực hóa, có thể dẫn đến nhịp điều chỉnh ngắn hạn theo giá dầu.
-    - **Hành động:** Quan sát lực cầu tại vùng hỗ trợ, chưa giải ngân mới cho đến khi giá dầu ổn định trở lại.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VCG, HHV**
+- Động lực (FA): Phú Thọ cung cấp 170 triệu m3 đất, đá tháo gỡ điểm nghẽn hạ tầng tại Hà Nội.
+- Nhận định dòng tiền: Tin tức trực tiếp giải quyết "nút thắt cổ chai" về nguyên vật liệu, giúp đẩy nhanh tiến độ ghi nhận doanh thu các dự án trọng điểm.
+- Hành động: **Chú ý giải ngân** nếu dòng tiền thị trường ổn định, tập trung vào các nhà thầu có backlog lớn.
 
-🔄 **3. Cảnh báo Tái cơ cấu:**
-*(Không có tin tức mới liên quan đến EIB, BSR trong chu kỳ này. Duy trì chiến lược hiện tại.)*
+- Mã: **VIC**
+- Động lực (FA): Huy động thành công 4.500 tỷ đồng trái phiếu quốc tế và cổ đông lớn tăng sở hữu.
+- Nhận định dòng tiền: Cải thiện thanh khoản và cấu trúc tài chính, tạo vùng đệm tâm lý tích cực cho cổ đông trong bối cảnh thị trường chung điều chỉnh.
+- Hành động: **Tiếp tục quan sát** để xác nhận đáy ngắn hạn theo dòng tiền lớn.
+
+- Mã: **IJC**
+- Động lực (FA): Dòng tiền kinh doanh âm 1.000 tỷ, nợ vay tăng cao.
+- Nhận định dòng tiền: Yếu tố cơ bản suy giảm mạnh, dòng tiền lớn đang rút ra (giảm 30% từ đầu năm).
+- Hành động: **Rủi ro vi phạm kịch bản**, nên ưu tiên quản trị rủi ro, tránh bắt đáy khi dòng tiền kinh doanh chưa dương trở lại.
+
+- Mã: **SSI, VCI**
+- Động lực (FA): Kết quả kinh doanh quý 3 hụt hơi do thanh khoản thị trường thấp.
+- Nhận định dòng tiền: Áp lực bán gia tăng khi kỳ vọng lợi nhuận không đạt, nhóm chứng khoán đang đối diện áp lực chốt lời ngắn hạn.
+- Hành động: **Rủi ro vi phạm kịch bản**, hạ tỷ trọng khi thị trường hồi phục.
