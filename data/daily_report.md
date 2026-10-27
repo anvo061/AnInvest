@@ -1,23 +1,31 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:30 - 27/10/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 23:55 (27/10/2026)
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực từ thị trường Trung Quốc và danh sách cắt Margin tại HOSE: -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Dòng tiền đầu cơ và khối ngoại sẽ rút mạnh khỏi nhóm Bluechip đang có tỷ lệ margin cao (HPG, SSI, VND, FPT), gia tăng áp lực điều chỉnh lên chỉ số chung].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chính sách Tiền tệ & Giá vốn:** Việc SCB giảm lãi suất tiết kiệm về 0% và đề xuất giảm giá điện từ 01/11 là tín hiệu hỗ trợ kép. -> **Tích cực.** -> Dòng tiền kỳ vọng xoay trục vào: **Chứng khoán (SSI, VND)** do thanh khoản thị trường tăng; **Sản xuất (HPG, TNG, VHC, DPM)** nhờ biên lợi nhuận cải thiện.
+- **Áp lực Lạm phát & Tỷ giá:** Lạm phát toàn cầu kéo dài gây rủi ro chi phí vốn. -> **Tiêu cực.** -> Thận trọng với nhóm có nợ vay cao (NVL, PDR) và nhóm nhập khẩu nguyên liệu (HPG).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HPG, SSI, VND**
-    - Động lực (FA): Nằm trong danh sách bị cắt margin của HOSE cuối tháng 10.
-    - Nhận định dòng tiền: Áp lực bán giải chấp (force-sell) ngắn hạn là rất lớn, khả năng cao sẽ có các nhịp rung lắc mạnh khi nhà đầu tư buộc phải hạ tỷ trọng.
-    - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên đứng ngoài quan sát, không bắt đáy cho đến khi lực bán tại các vùng hỗ trợ cứng ổn định.
-- **Mã: FPT**
-    - Động lực (FA): Mất 53% giá trị từ đỉnh, áp lực bán ròng ngoại kéo dài.
-    - Nhận định dòng tiền: Suy yếu dòng tiền dẫn dắt. Đây không còn là cổ phiếu trú ẩn an toàn khi đà rơi kỹ thuật chưa có dấu hiệu chững lại.
-    - Hành động: **Tiếp tục quan sát**, không trung bình giá.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã: STB**
+  - Động lực (FA): Tinh gọn bộ máy, giảm nhân sự xuống thấp nhất 10 năm.
+  - Nhận định dòng tiền: Cải thiện hiệu quả vận hành (CIR), củng cố kỳ vọng lợi nhuận ròng.
+  - Hành động: **Chú ý giải ngân** nếu dòng tiền duy trì trên vùng hỗ trợ kỹ thuật.
+- **Mã: TCB, MBB**
+  - Động lực (FA): Được khối tự doanh mua ròng mạnh.
+  - Nhận định dòng tiền: Dòng tiền thông minh đang bảo trợ cho nhóm ngân hàng quốc doanh/tư nhân lớn.
+  - Hành động: **Tiếp tục quan sát**, ưu tiên nắm giữ theo xu hướng.
+- **Mã: HPG**
+  - Động lực (FA): Tin tốt từ giảm giá điện bị đối kháng bởi tin tiêu cực từ việc bị cắt margin và áp lực lạm phát nguyên liệu.
+  - Nhận định dòng tiền: Giằng co mạnh do áp lực bán giải chấp ngắn hạn đối đầu với kỳ vọng cải thiện biên lợi nhuận.
+  - Hành động: **Rủi ro vi phạm kịch bản**, chờ tín hiệu ổn định thanh khoản sau tin cắt margin.
 - **Mã: VCI**
-    - Động lực (FA): Lãnh đạo cấp cao giải ngân 330 tỷ mua cổ phiếu ngân hàng.
-    - Nhận định dòng tiền: Tín hiệu tích cực về tầm nhìn của ban lãnh đạo, có thể kích hoạt dòng tiền "smart money" nội bộ đổ vào nhóm tài chính.
-    - Hành động: **Chú ý giải ngân** nếu có sự xác nhận từ khối lượng giao dịch trong các phiên tới.
-- **Mã: NTL, KOS**
-    - Động lực (FA): NTL lỗ đầu tư 100 tỷ; KOS áp lực giải chấp diện rộng.
-    - Nhận định dòng tiền: Dòng tiền thoát chạy mạnh, rủi ro thanh khoản cao.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng theo nguyên tắc bảo toàn vốn.
+  - Động lực (FA): Lãnh đạo cấp cao giải ngân vốn lớn vào ngành ngân hàng.
+  - Nhận định dòng tiền: Tín hiệu dẫn dắt từ người trong cuộc (insider) củng cố niềm tin.
+  - Hành động: **Chú ý giải ngân** theo dấu chân lãnh đạo.
+- **Mã: PNJ**
+  - Động lực (FA): Tâm lý tiêu cực từ rủi ro quản trị doanh nghiệp.
+  - Nhận định dòng tiền: Áp lực bán tháo ngắn hạn.
+  - Hành động: **Rủi ro vi phạm kịch bản**, đứng ngoài quan sát cho đến khi thanh khoản bán suy giảm.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện tại chưa có tin tức mới đột biến thay đổi luận điểm cơ bản đối với EIB và BSR trong chu kỳ này. **Giữ nguyên trạng thái quan sát.**
