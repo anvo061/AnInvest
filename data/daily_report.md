@@ -1,21 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 12:54 - 27/10/2026
+⏱ Thời gian: 18:30 - 27/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng:** ACB được Fitch nâng hạng tín nhiệm cùng kết quả kinh doanh tăng trưởng -> **Tích cực** -> Dòng tiền tập trung nhóm Ngân hàng TMCP có nền tảng quản trị tốt (ACB, TCB, MBB).
-- **Chăn nuôi:** Nông hộ giảm tái đàn & giá đậu tương giảm (chi phí đầu vào) -> **Tích cực** -> Dòng tiền hướng vào nhóm doanh nghiệp chăn nuôi quy mô lớn (DBC, BAF).
-- **Thị trường chung:** Khối ngoại bán ròng mạnh (+ lo ngại từ TTCK Trung Quốc) -> **Tiêu cực** -> Áp lực điều chỉnh lên nhóm Bluechips (HPG, VHM, MSN).
+- Áp lực từ thị trường Trung Quốc và danh sách cắt Margin tại HOSE: -> [Đánh giá: Tiêu cực] -> [Dòng tiền: Dòng tiền đầu cơ và khối ngoại sẽ rút mạnh khỏi nhóm Bluechip đang có tỷ lệ margin cao (HPG, SSI, VND, FPT), gia tăng áp lực điều chỉnh lên chỉ số chung].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: ACB**
-    - Động lực (FA): Lợi nhuận 9 tháng đạt 16.600 tỷ đồng, Fitch nâng hạng tín nhiệm.
-    - Nhận định dòng tiền: Tin tức củng cố vị thế "cổ phiếu phòng thủ" trong giai đoạn khối ngoại bán ròng. Dòng tiền có xu hướng tích lũy tại vùng hỗ trợ.
-    - Hành động: Chú ý giải ngân nếu dòng tiền vào nhóm Bank cải thiện.
-- **Mã: DBC**
-    - Động lực (FA): Hưởng lợi kép từ việc chiếm lĩnh thị phần (nông hộ bỏ đàn) và biên lợi nhuận gộp cải thiện (giá đậu tương - nguyên liệu thức ăn chăn nuôi - giảm xuống thấp nhất 2 tháng).
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh tìm đến nhóm hưởng lợi từ tối ưu chi phí đầu vào.
-    - Hành động: Chú ý giải ngân theo kịch bản gia tăng biên lợi nhuận quý IV.
-- **Mã: HPG, VHM, MSN**
-    - Động lực (FA): Chịu áp lực bán ròng mạnh từ khối ngoại (gần 900 tỷ đồng/phiên).
-    - Nhận định dòng tiền: Suy yếu ngắn hạn do áp lực cung ngoại, chưa xuất hiện điểm cân bằng.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy khi chưa có tín hiệu ngưng bán từ khối ngoại.
+- **Mã: HPG, SSI, VND**
+    - Động lực (FA): Nằm trong danh sách bị cắt margin của HOSE cuối tháng 10.
+    - Nhận định dòng tiền: Áp lực bán giải chấp (force-sell) ngắn hạn là rất lớn, khả năng cao sẽ có các nhịp rung lắc mạnh khi nhà đầu tư buộc phải hạ tỷ trọng.
+    - Hành động: **Rủi ro vi phạm kịch bản**. Ưu tiên đứng ngoài quan sát, không bắt đáy cho đến khi lực bán tại các vùng hỗ trợ cứng ổn định.
+- **Mã: FPT**
+    - Động lực (FA): Mất 53% giá trị từ đỉnh, áp lực bán ròng ngoại kéo dài.
+    - Nhận định dòng tiền: Suy yếu dòng tiền dẫn dắt. Đây không còn là cổ phiếu trú ẩn an toàn khi đà rơi kỹ thuật chưa có dấu hiệu chững lại.
+    - Hành động: **Tiếp tục quan sát**, không trung bình giá.
+- **Mã: VCI**
+    - Động lực (FA): Lãnh đạo cấp cao giải ngân 330 tỷ mua cổ phiếu ngân hàng.
+    - Nhận định dòng tiền: Tín hiệu tích cực về tầm nhìn của ban lãnh đạo, có thể kích hoạt dòng tiền "smart money" nội bộ đổ vào nhóm tài chính.
+    - Hành động: **Chú ý giải ngân** nếu có sự xác nhận từ khối lượng giao dịch trong các phiên tới.
+- **Mã: NTL, KOS**
+    - Động lực (FA): NTL lỗ đầu tư 100 tỷ; KOS áp lực giải chấp diện rộng.
+    - Nhận định dòng tiền: Dòng tiền thoát chạy mạnh, rủi ro thanh khoản cao.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng theo nguyên tắc bảo toàn vốn.
