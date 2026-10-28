@@ -1,20 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:50 - 29/10/2026
+⏱ Thời gian: 04:55
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Đề xuất cắt giảm thuế xăng dầu và giá điện:** Tác động **Tích cực** lên biên lợi nhuận của khối sản xuất (Thép, Dệt may, Bán lẻ) và Logistics; đây là động thái nới lỏng chi phí đầu vào trực tiếp, hỗ trợ dòng tiền chảy mạnh vào các mã sản xuất hạ nguồn.
-- **Tháo gỡ 178 dự án tồn đọng (72.000 tỷ đồng):** Tác động **Tích cực** mạnh mẽ lên nhóm Bất động sản dân cư (NVL, DIG, PDR); dòng tiền đầu cơ sẽ ưu tiên các mã có dự án vướng mắc pháp lý lâu năm nay được khơi thông.
+- **Nguy cơ khan hiếm khí đốt khu vực:** Indonesia cắt giảm cung ứng khí đốt buộc Singapore tìm nguồn thay thế, tạo áp lực tăng giá khí trong khu vực -> **Tích cực (đối với nhóm thượng nguồn)** -> Dòng tiền dự kiến hướng vào nhóm Dầu khí (Upstream).
+- **Fed giữ nguyên lãi suất:** Giảm áp lực tỷ giá, tạo dư địa chính sách tiền tệ nới lỏng cho NHNN -> **Tích cực (toàn thị trường)** -> Hỗ trợ thanh khoản và giảm chi phí vốn cho doanh nghiệp sản xuất.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **HPG**
-  - Động lực (FA): Hưởng lợi kép từ việc giảm chi phí điện/xăng dầu (đầu vào) và duy trì nhu cầu thép cho các dự án cao tốc đang giải ngân vượt tiến độ.
-  - Nhận định dòng tiền: Kỳ vọng dòng tiền khối nội sẽ gia tăng sức mua, giảm bớt áp lực từ khối ngoại.
-  - Hành động: Chú ý giải ngân quanh vùng hỗ trợ kỹ thuật.
-- Mã: **PDR**
-  - Động lực (FA): Lãi suất cho vay hạ nhiệt kết hợp với chủ trương tháo gỡ pháp lý cho 72.000 tỷ dự án tồn đọng.
-  - Nhận định dòng tiền: Phản ứng tích cực về tâm lý, khả năng bùng nổ thanh khoản nếu có xác nhận từ dòng tiền thông minh tại các vùng giá nền.
-  - Hành động: Chú ý giải ngân với tỷ trọng vừa phải.
-- Mã: **NVL**
-  - Động lực (FA): Nằm trong nhóm hưởng lợi trực tiếp từ việc rà soát, khơi thông các dự án tồn đọng theo chỉ đạo mới nhất.
-  - Nhận định dòng tiền: Nhạy cảm cực cao với tin tức pháp lý, dòng tiền đầu cơ sẽ sớm phản ứng.
-  - Hành động: Chú ý giải ngân (theo dõi chặt kịch bản dòng tiền đẩy giá).
+- **Mã:** GAS
+- **Động lực (FA):** Giá khí bán buôn khu vực dự kiến tăng do nguồn cung từ Indonesia sụt giảm.
+- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ biên lợi nhuận được cải thiện do giá bán khí kỳ vọng tăng. Dòng tiền có xu hướng tìm đến các cổ phiếu có giá trị thực dựa trên tài nguyên.
+- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận vượt ngưỡng kháng cự gần nhất.
+
+- **Mã:** FPT
+- **Động lực (FA):** Áp lực bán ròng liên tục từ khối ngoại (hiện còn hơn 455 triệu cổ phiếu).
+- **Nhận định dòng tiền:** Gây áp lực cung ngắn hạn, cản trở đà tăng giá dù nền tảng cơ bản ổn định.
+- **Hành động:** Tiếp tục quan sát; hạn chế bắt đáy khi chưa có tín hiệu chững lại của lực bán từ khối ngoại.
