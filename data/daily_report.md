@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:30
+⏱ Thời gian: 12:45:19
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Khối ngoại giải ngân quy mô lớn vào nhóm Ngân hàng -> Đánh giá tác động: **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Ngân hàng vốn hóa lớn, giúp cải thiện thanh khoản và tâm lý thị trường chung.
+- Giá khí đốt Châu Âu đạt đỉnh €97/tấn do lo ngại rủi ro mùa đông -> Tích cực -> Nhóm năng lượng thượng nguồn (Dầu khí).
+- Đề xuất giao dịch chứng khoán 24/24 và liên tục không nghỉ trưa -> Tích cực -> Nhóm Công ty chứng khoán (kỳ vọng tăng thanh khoản/vòng quay vốn).
+- Rủi ro margin lập đỉnh toàn thị trường -> Tiêu cực -> Nhóm Công ty chứng khoán (áp lực giải chấp nếu thị trường biến động mạnh).
+- Ngân hàng đẩy mạnh Bancassurance và tối ưu hóa chi phí vận hành (VIB, TPB, TCB) -> Tích cực -> Nhóm Ngân hàng bán lẻ/tài chính.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **WCS**
-- Động lực (FA): Công ty chuẩn bị chi trả cổ tức 5.000 đồng/cp.
-- Nhận định dòng tiền: Duy trì sức hút với nhóm nhà đầu tư giá trị trong giai đoạn thị trường biến động, tạo "neo" an toàn cho giá cổ phiếu.
-- Hành động: **Tiếp tục quan sát**, ưu tiên nắm giữ cho mục tiêu cổ tức, chưa khuyến nghị giải ngân mới nếu định giá đã phản ánh kỳ vọng.
-
-- Mã: **KOS**
-- Động lực (FA): Hiện tượng dư sàn hơn 77 triệu cổ phiếu, trắng bên mua.
-- Nhận định dòng tiền: Rủi ro giải chấp (call margin) nghiêm trọng, tạo áp lực tâm lý tiêu cực lan tỏa lên nhóm Bất động sản vốn hóa vừa và nhỏ.
-- Hành động: **Rủi ro vi phạm kịch bản**, tuyệt đối không bắt đáy khi chưa có tín hiệu hấp thụ cung giá sàn.
-
-- Mã: **PVD**
-- Động lực (FA): Nỗ lực ngoại giao hạ nhiệt căng thẳng Trung Đông từ Trung Quốc.
-- Nhận định dòng tiền: Giảm kỳ vọng tăng giá dầu, hạn chế dư địa tăng trưởng ngắn hạn của nhóm dầu khí.
-- Hành động: **Tiếp tục quan sát**, cảnh giác với áp lực chốt lời ngắn hạn.
+- **Mã: GAS, PVS**
+    - Động lực (FA): Giá khí thế giới tăng đột biến lần đầu kể từ 2022.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ dịch chuyển vào nhóm thượng nguồn khi giá hàng hóa năng lượng neo cao.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt cản kỹ thuật.
+- **Mã: SSI, VND, VCI**
+    - Động lực (FA): Hạ tầng giao dịch 24/24 (tin hỗ trợ) đối nghịch với rủi ro Margin lập đỉnh (tin cảnh báo).
+    - Nhận định dòng tiền: Dòng tiền sẽ phân hóa mạnh; rủi ro "bẫy thanh khoản" cao nếu thị trường không giữ được nền giá.
+    - Hành động: Tiếp tục quan sát, rủi ro vi phạm kịch bản nếu Margin bị kích hoạt giải chấp.
+- **Mã: TPB, VIB**
+    - Động lực (FA): Lợi nhuận 9 tháng tăng trưởng ổn định (TPB +23%, VIB +8%).
+    - Nhận định dòng tiền: Dòng tiền trú ẩn có xu hướng tìm đến các cổ phiếu có nền tảng lợi nhuận thực trong bối cảnh ngành Ngân hàng đang phân hóa.
+    - Hành động: Chú ý giải ngân theo nhịp điều chỉnh.
