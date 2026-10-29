@@ -1,24 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 21:50 - 29/10/2026
+⏱ Thời gian: 03:10 ngày 30/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Mốc kim ngạch XNK 1.000 tỷ USD:** Đánh giá Tích cực -> Dòng tiền sẽ hướng vào nhóm ngành **Logistics, Cảng biển & Vận tải biển** (GMD, HAH) nhờ kỳ vọng tăng trưởng lưu lượng hàng hóa thực tế.
-- **Duy trì tỷ lệ sở hữu NN 65% tại Ngân hàng:** Đánh giá Tiêu cực (dài hạn) -> Hạn chế kỳ vọng sóng thoái vốn/nới room tại các mã VCB, BID, CTG, làm suy giảm động lực thu hút dòng vốn ngoại ngắn hạn.
+- **Kim ngạch xuất nhập khẩu vượt mốc 1.000 tỷ USD (10 tháng):** -> Tích cực -> Dòng tiền sẽ tập trung vào nhóm **Logistics (GMD, HAH)** và các doanh nghiệp có thị trường xuất khẩu trọng điểm tại Mỹ (hưởng lợi từ tăng trưởng kinh tế Mỹ vượt dự báo: **VHC, TNG**).
+- **Tín hiệu phục hồi chuỗi cung ứng AI toàn cầu (Samsung):** -> Tích cực -> Hỗ trợ tâm lý cho nhóm cổ phiếu công nghệ và linh kiện điện tử trong chuỗi cung ứng.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** STK
-  - Động lực (FA): Lỗ 3 quý liên tiếp, nợ vay từ dự án Unitex gây áp lực lớn.
-  - Nhận định dòng tiền: Dòng tiền có khả năng tháo chạy mạnh khi niềm tin vào khả năng phục hồi lợi nhuận suy giảm.
-  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng/thoát vị thế.
-- **Mã:** MWG
-  - Động lực (FA): Dòng tiền đầu tư âm 10.000 tỷ, dòng tiền kinh doanh cốt lõi suy yếu.
-  - Nhận định dòng tiền: Tạo áp lực bán tháo do lo ngại về cấu trúc bảng cân đối kế toán.
-  - Hành động: **Tiếp tục quan sát**, không bắt đáy cho đến khi có tín hiệu dòng tiền kinh doanh cải thiện.
-- **Mã:** KBC, GVR
-  - Động lực (FA): Hưởng lợi từ dự án cảng hàng hóa Thái Nguyên (435 tỷ).
-  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể luân chuyển vào nhóm BĐS Khu công nghiệp có hạ tầng kết nối tốt.
-  - Hành động: **Chú ý giải ngân** nếu xuất hiện điểm nổ volume tại vùng hỗ trợ.
+- **Mã: GMD, HAH**
+    - Động lực (FA): Kim ngạch xuất nhập khẩu kỷ lục, nhu cầu vận tải biển và lưu lượng hàng qua cảng tăng trưởng thực tế.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền ngắn hạn sẽ gia tăng sự chú ý vào nhóm vận tải/cảng biển do phản ánh trực tiếp kết quả kinh doanh quý tới.
+    - Hành động: Chú ý giải ngân nếu dòng tiền xác nhận vượt nền giá tích lũy.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Giá dầu thế giới tăng nhưng cổ phiếu vẫn giảm cho thấy rủi ro biên lợi nhuận thu hẹp (áp lực chi phí đầu vào). Với việc cổ phiếu đã đi qua điểm rơi kỳ vọng, nhà đầu tư nên cân nhắc **chốt lời/cơ cấu lại một phần** sang nhóm Logistics đang có hỗ trợ vĩ mô (XNK 1.000 tỷ USD) để tối ưu hiệu suất vốn.
+- **Mã: VHC, TNG**
+    - Động lực (FA): Kinh tế Mỹ tăng trưởng vượt dự báo, củng cố nhu cầu đơn hàng xuất khẩu.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển vào các nhóm có tính ổn định và hưởng lợi từ dòng ngoại tệ xuất khẩu.
+    - Hành động: Tiếp tục quan sát biến động tỷ giá để tối ưu hóa điểm vào lệnh.
+
+- **Mã: VCB, BID, CTG**
+    - Động lực (FA): Chính sách duy trì tỷ lệ sở hữu nhà nước tối thiểu 65%.
+    - Nhận định dòng tiền: Áp lực cung ngắn hạn có thể gia tăng do kỳ vọng thoái vốn/nới room ngoại bị triệt tiêu; dòng tiền có khả năng rút ra khỏi nhóm Big4 ngân hàng để tìm kiếm cơ hội ở các nhóm ngành có tính biến động cao hơn.
+    - Hành động: Rủi ro vi phạm kịch bản tăng trưởng ngắn hạn, ưu tiên quản trị rủi ro.
