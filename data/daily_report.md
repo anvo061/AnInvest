@@ -1,20 +1,24 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 14:30 - 29/10/2026
+⏱ Thời gian: 21:50 - 29/10/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Thu ngân sách vượt dự toán 3 triệu tỉ đồng -> Tích cực (trung hạn) -> Dòng tiền ưu tiên nhóm **Xây dựng hạ tầng (VCG, HHV)** nhờ dư địa đẩy mạnh giải ngân vốn đầu tư công.
-- Chi phí vận chuyển dầu thô quốc tế tăng cao -> Tiêu cực (ngắn hạn) -> Áp lực lên biên lợi nhuận nhóm **Lọc hóa dầu và phân phối xăng dầu**.
+- **Mốc kim ngạch XNK 1.000 tỷ USD:** Đánh giá Tích cực -> Dòng tiền sẽ hướng vào nhóm ngành **Logistics, Cảng biển & Vận tải biển** (GMD, HAH) nhờ kỳ vọng tăng trưởng lưu lượng hàng hóa thực tế.
+- **Duy trì tỷ lệ sở hữu NN 65% tại Ngân hàng:** Đánh giá Tiêu cực (dài hạn) -> Hạn chế kỳ vọng sóng thoái vốn/nới room tại các mã VCB, BID, CTG, làm suy giảm động lực thu hút dòng vốn ngoại ngắn hạn.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **AGG, HDC, DQC**
-- Động lực (FA): Báo cáo tài chính quý III cho thấy tình trạng dòng tiền âm, nợ phải thu tăng hoặc hàng tồn kho tăng vọt.
-- Nhận định dòng tiền: Dòng tiền thông minh có xu hướng rút khỏi các doanh nghiệp có chất lượng tài sản kém và hiệu quả kinh doanh suy giảm.
-- Hành động: **Rủi ro vi phạm kịch bản**, tránh bắt đáy kỹ thuật đối với nhóm có dấu hiệu "lợi nhuận ảo" hoặc "tồn kho đọng vốn".
-- Mã: **SEA**
-- Động lực (FA): Hủy đấu giá 79 triệu cổ phiếu từ SCIC.
-- Nhận định dòng tiền: Mất động lực tăng giá từ kỳ vọng thoái vốn, dòng tiền đầu cơ sẽ sớm rút khỏi mã này.
-- Hành động: **Tiếp tục quan sát**, không giải ngân cho đến khi có lộ trình thoái vốn mới rõ ràng.
+- **Mã:** STK
+  - Động lực (FA): Lỗ 3 quý liên tiếp, nợ vay từ dự án Unitex gây áp lực lớn.
+  - Nhận định dòng tiền: Dòng tiền có khả năng tháo chạy mạnh khi niềm tin vào khả năng phục hồi lợi nhuận suy giảm.
+  - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên hạ tỷ trọng/thoát vị thế.
+- **Mã:** MWG
+  - Động lực (FA): Dòng tiền đầu tư âm 10.000 tỷ, dòng tiền kinh doanh cốt lõi suy yếu.
+  - Nhận định dòng tiền: Tạo áp lực bán tháo do lo ngại về cấu trúc bảng cân đối kế toán.
+  - Hành động: **Tiếp tục quan sát**, không bắt đáy cho đến khi có tín hiệu dòng tiền kinh doanh cải thiện.
+- **Mã:** KBC, GVR
+  - Động lực (FA): Hưởng lợi từ dự án cảng hàng hóa Thái Nguyên (435 tỷ).
+  - Nhận định dòng tiền: Dòng tiền đầu cơ có thể luân chuyển vào nhóm BĐS Khu công nghiệp có hạ tầng kết nối tốt.
+  - Hành động: **Chú ý giải ngân** nếu xuất hiện điểm nổ volume tại vùng hỗ trợ.
 
 🔄 3. Cảnh báo Tái cơ cấu:
-- Mã: **BSR**
-- Nhận định: Dữ liệu chi phí vận tải dầu thô nhập khẩu tăng cao (đến từ thị trường quốc tế) đang gây áp lực trực tiếp lên biên lợi nhuận. Với vị thế mục tiêu trung hạn đang ở thời điểm tháng 10/2026 (quá hạn kỳ vọng ban đầu), nhà đầu tư cần **hạ tỷ trọng hoặc cơ cấu lại dòng tiền** sang các mã hưởng lợi trực tiếp từ giải ngân đầu tư công (VCG, HHV) để tối ưu hóa hiệu suất vốn trong ngắn hạn.
+- **Mã: BSR**
+  - Nhận định: Giá dầu thế giới tăng nhưng cổ phiếu vẫn giảm cho thấy rủi ro biên lợi nhuận thu hẹp (áp lực chi phí đầu vào). Với việc cổ phiếu đã đi qua điểm rơi kỳ vọng, nhà đầu tư nên cân nhắc **chốt lời/cơ cấu lại một phần** sang nhóm Logistics đang có hỗ trợ vĩ mô (XNK 1.000 tỷ USD) để tối ưu hiệu suất vốn.
