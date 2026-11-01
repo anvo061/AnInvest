@@ -1,26 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:40:51 (2026-11-02)
+⏱ Thời gian: 06:15 - 02/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Chi phí đầu vào (Điện, Xăng) đồng loạt giảm:** -> Tích cực cho biên lợi nhuận nhóm Sản xuất, Logistics và Vận tải -> Dòng tiền dự kiến luân chuyển sang nhóm được hưởng lợi từ cải thiện biên lợi nhuận như: HAH, GMD, TNG.
-- **Đẩy mạnh giải ngân đầu tư công:** -> Tích cực cho nhóm Hạ tầng & Vật liệu xây dựng -> Dòng tiền tập trung vào các mã đầu ngành: HPG, VCG, HHV.
-- **Rủi ro pháp lý VJC:** -> Tiêu cực đối với cổ phiếu VJC do lệnh phong tỏa tài sản toàn cầu, gây áp lực lên thanh khoản và tâm lý cổ đông.
+- Việt Nam giảm thuế nhiên liệu giúp giảm chi phí đầu vào doanh nghiệp vận tải/logistics; đồng thời CTG dẫn đầu lợi nhuận ngành ngân hàng Quý III -> Đánh giá: Tích cực -> Dòng tiền hướng vào: Logistics (GMD, HAH), Ngân hàng (CTG, Nhóm quốc doanh).
+- Siết chặt quy định dự án nhà ở hình thành trong tương lai và áp lực vốn tại VIC -> Đánh giá: Tiêu cực -> Dòng tiền rút khỏi: Bất động sản (NVL, DXG, DIG, VIC).
+- Lệnh phong tỏa tài sản toàn cầu đối với VJC -> Đánh giá: Tiêu cực -> Dòng tiền bán tháo: VJC.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VJC
-- **Động lực (FA):** Bị phong tỏa tài sản toàn cầu do tranh chấp với FitzWalter (Bloomberg).
-- **Nhận định dòng tiền:** Áp lực bán tháo khả năng cao xuất hiện ngay đầu phiên do lo ngại rủi ro pháp lý và vận hành.
-- **Hành động:** Rủi ro vi phạm kịch bản an toàn; ưu tiên hạ tỷ trọng hoặc thoát vị thế để quản trị rủi ro.
+- Mã: GMD
+- Động lực (FA): Hưởng lợi trực tiếp từ chính sách giảm thuế nhiên liệu, cải thiện biên lợi nhuận gộp.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh tìm đến nhóm hưởng lợi từ chi phí biến đổi giảm, ưu tiên nhóm có nền tảng cơ bản tốt.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
 
-- **Mã:** HSG
-- **Động lực (FA):** KQKD tích cực với lợi nhuận bình quân >50 tỷ đồng/tháng.
-- **Nhận định dòng tiền:** Đà tăng được củng cố bởi nền tảng nội tại tốt, có khả năng dẫn dắt nhóm thép trong ngắn hạn.
-- **Hành động:** Tiếp tục nắm giữ, chú ý quan sát lực cầu tại vùng kháng cự kỹ thuật.
+- Mã: HAH
+- Động lực (FA): Chi phí nhiên liệu là biến phí lớn nhất; thuế giảm trực tiếp làm tăng lợi nhuận ròng.
+- Nhận định dòng tiền: Dòng tiền đầu cơ sẽ phản ứng nhạy với tin tức hỗ trợ biên lợi nhuận này.
+- Hành động: Chú ý giải ngân.
 
-- **Mã:** HAH, GMD, TNG
-- **Động lực (FA):** Hưởng lợi từ việc giảm giá điện và chi phí nhiên liệu.
-- **Nhận định dòng tiền:** Kỳ vọng cải thiện biên lợi nhuận sẽ là chất xúc tác cho dòng tiền ngắn hạn tìm kiếm cơ hội trú ẩn an toàn.
-- **Hành động:** Chú ý giải ngân nếu dòng tiền xác nhận nhóm này làm trụ đỡ thị trường.
+- Mã: CTG
+- Động lực (FA): Dẫn đầu lợi nhuận ngành ngân hàng Quý III.
+- Nhận định dòng tiền: Củng cố vị thế dẫn dắt của nhóm ngân hàng quốc doanh, thu hút dòng tiền trung - dài hạn.
+- Hành động: Tiếp tục quan sát để gia tăng tỷ trọng khi dòng tiền lan tỏa.
 
-🔄 3. Cảnh báo Tái cơ cấu:
-- Không có dữ liệu mới cho EIB, BSR trong chu kỳ này. Giữ nguyên trạng thái theo dõi.
+- Mã: VJC
+- Động lực (FA): Tin tức phong tỏa tài sản toàn cầu (Global Asset Freeze).
+- Nhận định dòng tiền: Rủi ro bán tháo diện rộng do yếu tố bất định pháp lý quốc tế.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên thoát vị thế để quản trị rủi ro thanh khoản.
