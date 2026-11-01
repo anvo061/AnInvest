@@ -1,24 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 08:55 - 01/11/2026
+⏱ Thời gian: 15:30
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Giảm giá điện và thuế xăng dầu (nội địa), kết hợp tỷ giá USD/VND hạ nhiệt dưới 26.000:** -> Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm **Sản xuất (HPG), Bán lẻ (MSN, MWG)** và các doanh nghiệp có nợ vay USD lớn hoặc chi phí vận hành cao **(GMD, HAH, HVN, POW)**.
-- **Đầu tư công Hải Phòng và sản lượng cảng biển tăng trưởng:** -> Tích cực -> Dòng tiền hướng vào nhóm **Logistics, Cảng biển (GMD, VSC, HAH)** và **BĐS Khu công nghiệp (KBC)**.
+- **Nghịch lý dòng vốn & Chi phí đầu vào:** Dòng vốn ngoại đang rút mạnh (1 tỷ USD) gây áp lực lớn lên nhóm Bluechips, tuy nhiên chính sách giảm giá điện và thuế xăng dầu (có hiệu lực từ hôm nay) tạo bộ đệm hỗ trợ biên lợi nhuận cho khối sản xuất và logistics. -> **Đánh giá: Trung lập (Phân hóa mạnh).** Dòng tiền có xu hướng dịch chuyển từ nhóm vốn hóa lớn (bị khối ngoại bán) sang nhóm doanh nghiệp sản xuất được hưởng lợi từ giảm chi phí đầu vào.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: HPG**
-    - Động lực (FA): Hưởng lợi kép từ việc giảm giá điện (giảm chi phí sản xuất) và tỷ giá USD hạ nhiệt (giảm chi phí nhập khẩu nguyên liệu/nợ vay).
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền khối nội và tổ chức sẽ gia tăng vị thế nhờ biên lợi nhuận được cải thiện.
-    - Hành động: Chú ý giải ngân quanh vùng hỗ trợ.
-- **Mã: GMD, HAH**
-    - Động lực (FA): Sản lượng cảng tăng trưởng vượt bậc + chi phí nhiên liệu đầu vào giảm nhờ chính sách thuế xăng dầu mới.
-    - Nhận định dòng tiền: Dòng tiền có tính chất "trú ẩn" và tăng trưởng bền vững sẽ đổ vào nhóm này.
-    - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi có rung lắc.
-- **Mã: HVN**
-    - Động lực (FA): Dù áp lực chi phí nhiên liệu quý 3 còn đè nặng, việc tỷ giá hạ nhiệt (giảm lỗ tỷ giá) là điểm sáng quan trọng để cân bằng lại kỳ vọng.
-    - Nhận định dòng tiền: Dòng tiền sẽ phân hóa, cần theo dõi lực cầu tại vùng giá hỗ trợ.
-    - Hành động: Tiếp tục quan sát, chưa vội bắt đáy do rủi ro chi phí nhiên liệu chưa triệt tiêu hoàn toàn.
-- **Mã: PSI**
-    - Động lực (FA): Bị phạt và truy thu thuế.
-    - Nhận định dòng tiền: Tác động tiêu cực trực tiếp lên tâm lý nhà đầu tư ngắn hạn, dòng tiền có khả năng tháo chạy.
-    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên hạ tỷ trọng.
+- **Mã:** HPG
+  - **Động lực (FA):** Hưởng lợi kép từ việc giảm giá điện/xăng dầu (giảm giá thành sản xuất thép) và là đích đến tiềm năng nếu xu hướng dòng vốn ngoại đảo chiều nhờ câu chuyện nâng hạng.
+  - **Nhận định dòng tiền:** Đang chịu áp lực bán ròng từ khối ngoại, tạo ra rủi ro giảm giá ngắn hạn nhưng lại mở ra điểm cân bằng tại các vùng hỗ trợ cứng.
+  - **Hành động:** Quan sát lực cầu tại vùng giá hỗ trợ, chưa ưu tiên giải ngân quyết liệt do áp lực bán của khối ngoại còn lớn.
+
+- **Mã:** KOS
+  - **Động lực (FA):** Áp lực bán giải chấp hơn 2 triệu cổ phiếu từ cổ đông lớn/Chủ tịch.
+  - **Nhận định dòng tiền:** Cung bán chủ động chiếm ưu thế tuyệt đối, tâm lý tiêu cực bao trùm.
+  - **Hành động:** Rủi ro vi phạm kịch bản cao, không tham gia bắt đáy khi chưa có tín hiệu ngưng bán giải chấp.
+
+- **Mã:** GMD, HAH
+  - **Động lực (FA):** Hưởng lợi trực tiếp từ việc giảm chi phí nhiên liệu/vận hành (xăng dầu, điện).
+  - **Nhận định dòng tiền:** Nhóm hưởng lợi từ chi phí đầu vào giảm thường có sức bền tốt hơn trước áp lực bán ròng của khối ngoại.
+  - **Hành động:** Chú ý giải ngân theo tỷ trọng quản trị rủi ro khi có nhịp rung lắc.
