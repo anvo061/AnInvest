@@ -1,28 +1,31 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:55 - 03/11/2026
+⏱ Thời gian: 23:55, 03/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Chính sách FDI công nghệ cao & Năng lượng tái tạo:** Chính phủ đẩy mạnh thu hút FDI công nghệ cao và tiềm năng xuất khẩu điện tái tạo sang Singapore -> **Tích cực** -> Dòng tiền hướng vào nhóm **Bất động sản khu công nghiệp (KBC)** và **Công nghệ (FPT)**.
-- **Áp lực lạm phát và chi phí đầu vào:** CPI tháng 10 tăng 0,2% do giá xăng dầu, gây áp lực lên biên lợi nhuận nhóm vận tải và có thể làm thu hẹp dư địa nới lỏng tiền tệ của NHNN -> **Tiêu cực** -> Thận trọng với nhóm **Vận tải (VTP)**.
+- **Dòng vốn FDI kỷ lục (55 tỷ USD/10 tháng) & Giá nhiên liệu giảm sâu:** Tác động Tích cực -> Dòng tiền tập trung vào BĐS Khu công nghiệp (hạ tầng, quỹ đất) và nhóm Vận tải/Logistics (cắt giảm chi phí vận hành).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: MSB**
-  - Động lực (FA): Được chấp thuận tăng vốn điều lệ lên 46.800 tỷ đồng.
-  - Nhận định dòng tiền: Tích cực, cải thiện hệ số CAR và dư địa tăng trưởng tín dụng.
-  - Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật.
-- **Mã: PDR**
-  - Động lực (FA): Nợ vay tăng cao (10.393 tỷ) trong khi doanh thu sụt giảm.
-  - Nhận định dòng tiền: Tiêu cực, rủi ro đòn bẩy tài chính quá lớn.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro/giảm tỷ trọng.
-- **Mã: SSB**
-  - Động lực (FA): Lợi nhuận giảm 40%, nợ nhóm 5 chiếm tỷ trọng lớn.
-  - Nhận định dòng tiền: Tiêu cực, áp lực bán tháo gia tăng.
-  - Hành động: Rủi ro vi phạm kịch bản, đứng ngoài quan sát.
-- **Mã: CTD**
-  - Động lực (FA): Doanh thu tăng nhưng dòng tiền kinh doanh âm, chi phí lãi vay tăng mạnh.
-  - Nhận định dòng tiền: Tiêu cực, hiệu quả sử dụng vốn suy giảm.
-  - Hành động: Rủi ro vi phạm kịch bản.
-- **Mã: HVN**
-  - Động lực (FA): Lợi nhuận giảm 42%, áp lực chi phí tài chính.
-  - Nhận định dòng tiền: Tiêu cực, suy yếu triển vọng hồi phục.
-  - Hành động: Rủi ro vi phạm kịch bản.
+- **Mã: GMD, HAH**
+    - Động lực (FA): Giá xăng dầu giảm mạnh đồng loạt (Diesel giảm gần 1.400đ/lít).
+    - Nhận định dòng tiền: Kỳ vọng cải thiện biên lợi nhuận gộp trong quý cuối năm, tạo nền tảng hỗ trợ giá khi VN-Index đang thử thách vùng 1.700 điểm.
+    - Hành động: Chú ý giải ngân nếu dòng tiền bắt đáy tại vùng hỗ trợ kỹ thuật được xác nhận.
+
+- **Mã: KBC, SZC, IDC**
+    - Động lực (FA): Dòng vốn FDI đạt đỉnh 17 năm, nhu cầu thuê đất KCN duy trì đà tăng trưởng.
+    - Nhận định dòng tiền: Hưởng lợi từ định hướng đầu tư dài hạn của khối ngoại, giảm thiểu rủi ro biến động chỉ số chung.
+    - Hành động: Tiếp tục quan sát, ưu tiên tích lũy các nhịp rung lắc.
+
+- **Mã: PLX**
+    - Động lực (FA): Doanh thu cao nhất sàn, lợi nhuận 9 tháng tăng trưởng 60%.
+    - Nhận định dòng tiền: Kết quả kinh doanh đột biến hỗ trợ sức mạnh giá, cần theo dõi thêm áp lực nợ vay và biến động giá dầu tồn kho.
+    - Hành động: Tiếp tục quan sát diễn biến dòng tiền tại vùng kháng cự.
+
+- **Mã: GDA**
+    - Động lực (FA): Lợi nhuận giảm 8%, áp lực nợ phải trả lớn.
+    - Nhận định dòng tiền: Tiêu cực, rủi ro thanh khoản cao khi cổ phiếu chuyển sàn.
+    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+
+- **Mã: NKG, HPG, HSG**
+    - Động lực (FA): Hợp lưu dòng tiền bắt đáy khi VN-Index mất mốc 1.700 điểm.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ đang dịch chuyển mạnh vào nhóm thép, tạo lực đỡ cho chỉ số.
+    - Hành động: Chú ý giải ngân theo sóng hồi, tuân thủ chặt chẽ chặn lỗ (Stop-loss).
