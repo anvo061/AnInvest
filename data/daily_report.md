@@ -1,22 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:15 - 04/11/2026
+⏱ Thời gian: 15:45 - 04/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực bán ròng từ khối ngoại lên nhóm Bluechips (VCB, VHM, HPG, STB, VPB):** -> **Tiêu cực** -> Dòng tiền ngắn hạn đang chịu sức ép rút vốn, gây áp lực kiểm định lại các ngưỡng hỗ trợ kỹ thuật trọng yếu của chỉ số chung.
-- **Chính sách giảm thuế xăng dầu & Việc điều chỉnh giá xăng dầu giảm:** -> **Tích cực** -> Cải thiện biên lợi nhuận cho nhóm ngành vận tải, logistics (GMD, HAH) và giảm áp lực lạm phát chi phí đẩy cho khối sản xuất nội địa.
+- Mỹ công bố mức thuế chống bán phá giá tôm thấp hơn kỳ vọng -> Tích cực cho nhóm xuất khẩu thủy sản -> Dòng tiền tập trung vào các doanh nghiệp xuất khẩu có thị trường Mỹ chủ đạo.
+- Giải ngân vốn đầu tư công tại TP.HCM đạt quy mô lớn (111.000 tỷ) -> Tích cực cho ngành xây dựng hạ tầng và KCN -> Dòng tiền có xu hướng xoay tua vào nhóm thầu thi công và phát triển quỹ đất.
+- Áp lực bán ròng khối ngoại tiếp diễn trên nhóm Bluechips -> Tiêu cực cho chỉ số chung -> Dòng tiền có xu hướng né tránh nhóm vốn hóa lớn (VHM, VNM, MSN, HPG, VIC) để tìm kiếm các mã có câu chuyện riêng (Mid-cap/Small-cap).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** GMD, HAH
-- **Động lực (FA):** Giá xăng dầu giảm mạnh từ tối qua và chính sách giảm thuế xăng dầu bổ trợ.
-- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ việc tiết giảm chi phí vận hành (OPEX). Dòng tiền có xu hướng trú ẩn vào nhóm có kết quả kinh doanh được cải thiện ngay lập tức thay vì các nhóm chịu áp lực bán ngoại.
-- **Hành động:** Chú ý giải ngân nếu dòng tiền duy trì lực cầu tốt trên các vùng hỗ trợ kỹ thuật.
-
-- **Mã:** STB, VPB
-- **Động lực (FA):** Bị khối ngoại "xả" ròng gần 500 tỷ trong phiên gần nhất.
-- **Nhận định dòng tiền:** Áp lực bán chủ động từ khối ngoại đang tạo vùng trũng tâm lý, cản trở đà phục hồi kỹ thuật ngắn hạn.
-- **Hành động:** Rủi ro vi phạm kịch bản, cần theo dõi lực cầu đối ứng từ khối nội; tạm dừng giải ngân.
-
-- **Mã:** PLX, OIL
-- **Động lực (FA):** Hiện tượng cửa hàng xăng dầu miền Tây đóng cửa do vấn đề chiết khấu.
-- **Nhận định dòng tiền:** Tiêu cực đối với hiệu quả kinh doanh cốt lõi và hệ thống phân phối.
-- **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro.
+- Mã: **FMC**
+    - Động lực (FA): Mức thuế chống bán phá giá vào thị trường Mỹ thấp hơn kỳ vọng, cải thiện trực tiếp biên lợi nhuận.
+    - Nhận định dòng tiền: Tin tức mang tính hỗ trợ cơ bản, dễ kích hoạt lực cầu từ nhóm đầu tư giá trị trong ngắn hạn.
+    - Hành động: Chú ý giải ngân nếu có nhịp rung lắc tích lũy quanh vùng hỗ trợ.
+- Mã: **SSI / VCI**
+    - Động lực (FA): Gia tăng dòng vốn IPO và thanh khoản thị trường kỳ vọng cải thiện từ chính sách vĩ mô.
+    - Nhận định dòng tiền: Hưởng lợi từ phí dịch vụ IB và sự quan tâm của dòng tiền nội khi các Bluechips chịu áp lực bán ròng.
+    - Hành động: Tiếp tục quan sát; ưu tiên nắm giữ nếu đã có vị thế.
+- Mã: **VCG / HHV / KBC**
+    - Động lực (FA): Tiến độ giải ngân vốn đầu tư công tại TP.HCM làm nền tảng cho backlog đơn hàng.
+    - Nhận định dòng tiền: Hợp lưu giữa tin tức vĩ mô và kỳ vọng tăng trưởng dài hạn, dòng tiền sẽ duy trì sự tập trung.
+    - Hành động: Chú ý giải ngân tại các phiên điều chỉnh kỹ thuật.
