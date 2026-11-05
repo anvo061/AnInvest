@@ -1,22 +1,29 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:40 - 05/11/2026
+⏱ Thời gian: 16:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngành Ngân hàng:** Báo cáo ghi nhận đệm dự phòng rủi ro giảm xuống đáy 5 năm trong khi nợ xấu/nợ nhóm 2 tăng nhanh -> **Tác động: Tiêu cực** -> Dòng tiền có khả năng rút khỏi nhóm ngân hàng quốc doanh (BID) và ngân hàng có tỷ trọng cho vay BĐS/Tiêu dùng cao (TCB, VPB, MBB).
-- **Ngành Năng lượng:** Giá dầu thế giới lao dốc hơn 8% sau bầu cử Mỹ -> **Tác động: Tiêu cực** -> Áp lực bán trực tiếp lên nhóm thượng nguồn (PVD, PVS, GAS).
-- **Ngành Xuất khẩu (Nông nghiệp/Dệt may/Thủy sản):** Nhu cầu nhập khẩu của Mỹ đạt kỷ lục và xuất khẩu sầu riêng sang Trung Quốc tăng trưởng mạnh -> **Tác động: Tích cực** -> Dòng tiền dự kiến phân hóa vào nhóm xuất khẩu có thị trường đầu ra rõ ràng (HAG, VHC, TNG).
+- **Dòng tiền chứng khoán bùng nổ:** Số lượng tài khoản mở mới tăng đột biến (8.000/ngày) cùng thanh khoản tăng mạnh đẩy VN-Index bật tăng 33 điểm -> **Tích cực** -> Dòng tiền tập trung mạnh vào nhóm **Chứng khoán (SSI, VND, HCM)**.
+- **Tín dụng & NIM:** Lãi suất huy động cao gây sức ép lên NIM ngân hàng, đối lập với dòng vốn ngoại đổ vào hệ thống -> **Trung lập/Phân hóa** -> Thận trọng với nhóm Ngân hàng thương mại nhạy cảm lãi suất, ưu tiên nhóm có khả năng thu hút vốn ngoại.
+- **Logistics & Dệt may:** Giá xăng giảm (hỗ trợ GMD, HAH) và đình công tại Bangladesh (cơ hội đơn hàng cho TNG, MSH) -> **Tích cực** -> Dòng tiền có xu hướng tìm kiếm nhóm hưởng lợi từ chi phí và đơn hàng chuyển dịch.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: PVD**
-    - Động lực (FA): Giá dầu giảm mạnh >8% ảnh hưởng trực tiếp đến biên lợi nhuận và đơn giá cho thuê.
-    - Nhận định dòng tiền: Khả năng cao chịu áp lực xả ngắn hạn do tâm lý tiêu cực từ giá dầu thế giới.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng, quan sát vùng hỗ trợ cứng.
-- **Mã: HAG**
-    - Động lực (FA): Hưởng lợi từ đà tăng trưởng xuất khẩu sầu riêng sang Trung Quốc (chiếm 96% thị phần).
-    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các nhóm ngành hưởng lợi từ cán cân thương mại thay vì nhóm tài chính.
-    - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc trong phiên theo chỉ số chung.
-
-🔄 3. Cảnh báo Tái cơ cấu (EIB):
-- **Mã: EIB**
-    - Nội dung: HFIC tính phương án thoái vốn.
-    - Nhận định: Tin tức cộng hưởng với kết quả kinh doanh suy giảm tạo áp lực cung lớn. Đối với vị thế trung hạn đã qua điểm rơi, dữ liệu này là tín hiệu "bán để cơ cấu" (Sell/Exit). Không nên nắm giữ chờ đợi khi nội tại doanh nghiệp đang chịu áp lực thoái vốn lớn từ cổ đông lớn.
+- **Mã: SSI, VND, HCM**
+    - Động lực (FA): Lượng tài khoản mở mới kỷ lục và thanh khoản thị trường tăng vọt.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ và đầu tư cá nhân đang tập trung mạnh, tạo lực đẩy cho nhóm chứng khoán dẫn sóng.
+    - Hành động: Chú ý giải ngân theo nhịp chỉnh của thị trường.
+- **Mã: TNG, MSH**
+    - Động lực (FA): Đình công tại Bangladesh làm gián đoạn chuỗi cung ứng toàn cầu.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng trú ẩn vào các mã có câu chuyện tăng trưởng đơn hàng trực tiếp.
+    - Hành động: Tiếp tục quan sát điểm vào lệnh kỹ thuật.
+- **Mã: GMD, HAH**
+    - Động lực (FA): Giá xăng dầu giảm mạnh từ 15h chiều nay.
+    - Nhận định dòng tiền: Hưởng lợi từ biên lợi nhuận kỳ vọng cải thiện, thu hút dòng tiền trung hạn.
+    - Hành động: Chú ý giải ngân.
+- **Mã: HAG, HNG**
+    - Động lực (FA): Rủi ro phụ thuộc 95,5% thị trường Trung Quốc đối với mặt hàng sầu riêng.
+    - Nhận định dòng tiền: Áp lực bán tiềm ẩn do rủi ro chính sách.
+    - Hành động: Rủi ro vi phạm kịch bản, thận trọng.
+- **Mã: POW**
+    - Động lực (FA): Lợi nhuận chủ yếu từ thu nhập bất thường, không đến từ cốt lõi.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng rút ra khỏi các mã có chất lượng lợi nhuận thấp.
+    - Hành động: Rủi ro vi phạm kịch bản.
