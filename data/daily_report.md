@@ -1,25 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:30 ngày 05/11/2026
+⏱ Thời gian: 09:40 - 05/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kết quả bầu cử Mỹ rõ ràng cùng nhu cầu nhập khẩu tại Mỹ đạt mức kỷ lục giúp giải tỏa tâm lý bất định và thúc đẩy triển vọng xuất khẩu -> **Tích cực** -> Dòng tiền hướng vào nhóm **Công nghệ (FPT)**, **Dệt may (TNG, MSH, VGT)** và **Thủy sản (VHC)**.
-- Điều chỉnh tăng khung giá điện sản xuất (cao nhất 3.586 đ/kWh) gây áp lực biên lợi nhuận nhóm sản xuất thâm dụng năng lượng -> **Tiêu cực** -> Cần thận trọng với **Thép (HPG)** và **Dệt may (TNG)** do chi phí vận hành tăng.
-- Định giá IPO cao của Chứng khoán HD tạo hiệu ứng so sánh, cải thiện tâm lý nhóm ngành tài chính -> **Tích cực** -> Nhóm **Chứng khoán**.
+- **Ngành Ngân hàng:** Báo cáo ghi nhận đệm dự phòng rủi ro giảm xuống đáy 5 năm trong khi nợ xấu/nợ nhóm 2 tăng nhanh -> **Tác động: Tiêu cực** -> Dòng tiền có khả năng rút khỏi nhóm ngân hàng quốc doanh (BID) và ngân hàng có tỷ trọng cho vay BĐS/Tiêu dùng cao (TCB, VPB, MBB).
+- **Ngành Năng lượng:** Giá dầu thế giới lao dốc hơn 8% sau bầu cử Mỹ -> **Tác động: Tiêu cực** -> Áp lực bán trực tiếp lên nhóm thượng nguồn (PVD, PVS, GAS).
+- **Ngành Xuất khẩu (Nông nghiệp/Dệt may/Thủy sản):** Nhu cầu nhập khẩu của Mỹ đạt kỷ lục và xuất khẩu sầu riêng sang Trung Quốc tăng trưởng mạnh -> **Tác động: Tích cực** -> Dòng tiền dự kiến phân hóa vào nhóm xuất khẩu có thị trường đầu ra rõ ràng (HAG, VHC, TNG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: FPT**
-    - Động lực (FA): Hưởng lợi kép từ tâm lý thị trường sau bầu cử Mỹ và sự chuyển mình tăng trưởng mạnh mẽ trong mảng công nghệ.
-    - Nhận định dòng tiền: Dòng tiền khối ngoại và tổ chức duy trì sự ổn định, kỳ vọng bứt phá nhờ vị thế dẫn đầu.
-    - Hành động: **Tiếp tục nắm giữ**, ưu tiên gia tăng tỷ trọng nếu có nhịp điều chỉnh kỹ thuật.
-- **Mã: TNG**
-    - Động lực (FA): Hưởng lợi từ chuyển dịch đơn hàng quốc tế (rủi ro tại Bangladesh) và nhu cầu Mỹ tăng; tuy nhiên đối mặt áp lực chi phí điện.
-    - Nhận định dòng tiền: Dòng tiền ngắn hạn tích cực nhờ câu chuyện xuất khẩu, nhưng cần theo dõi biên lợi nhuận do chi phí đầu vào tăng.
-    - Hành động: **Chú ý quan sát**, theo dõi phản ứng giá tại các vùng hỗ trợ cứng.
-- **Mã: HDG**
-    - Động lực (FA): Lợi nhuận giảm 32% và dự phòng nợ xấu gần 940 tỷ đồng.
-    - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn từ cả khối ngoại và nhà đầu tư cá nhân do suy giảm giá trị nội tại.
-    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên thoát vị thế để bảo toàn vốn.
-- **Mã: ACV**
-    - Động lực (FA): Tiềm năng phát triển trung tâm bảo dưỡng tàu bay (MRO) tại Long Thành.
-    - Nhận định dòng tiền: Hưởng lợi dài hạn từ hạ tầng, dòng tiền tích lũy tốt.
-    - Hành động: **Tiếp tục quan sát**, canh điểm mua trung hạn.
+- **Mã: PVD**
+    - Động lực (FA): Giá dầu giảm mạnh >8% ảnh hưởng trực tiếp đến biên lợi nhuận và đơn giá cho thuê.
+    - Nhận định dòng tiền: Khả năng cao chịu áp lực xả ngắn hạn do tâm lý tiêu cực từ giá dầu thế giới.
+    - Hành động: **Rủi ro vi phạm kịch bản**, ưu tiên giảm tỷ trọng, quan sát vùng hỗ trợ cứng.
+- **Mã: HAG**
+    - Động lực (FA): Hưởng lợi từ đà tăng trưởng xuất khẩu sầu riêng sang Trung Quốc (chiếm 96% thị phần).
+    - Nhận định dòng tiền: Dòng tiền thông minh có xu hướng tìm đến các nhóm ngành hưởng lợi từ cán cân thương mại thay vì nhóm tài chính.
+    - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc trong phiên theo chỉ số chung.
+
+🔄 3. Cảnh báo Tái cơ cấu (EIB):
+- **Mã: EIB**
+    - Nội dung: HFIC tính phương án thoái vốn.
+    - Nhận định: Tin tức cộng hưởng với kết quả kinh doanh suy giảm tạo áp lực cung lớn. Đối với vị thế trung hạn đã qua điểm rơi, dữ liệu này là tín hiệu "bán để cơ cấu" (Sell/Exit). Không nên nắm giữ chờ đợi khi nội tại doanh nghiệp đang chịu áp lực thoái vốn lớn từ cổ đông lớn.
