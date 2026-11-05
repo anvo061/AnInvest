@@ -1,23 +1,23 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 00:45
+⏱ Thời gian: 06:00 ngày 06/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực chi phí năng lượng và đứt gãy chuỗi cung ứng toàn cầu gia tăng -> Tác động: Tiêu cực -> Dòng tiền sẽ chịu áp lực bán tại nhóm sản xuất thâm dụng năng lượng (Thép: HPG, NKG, HSG).
-- Kỳ vọng FDI và dịch chuyển chuỗi cung ứng hậu bầu cử Mỹ -> Tác động: Tích cực -> Dòng tiền hướng vào nhóm Bất động sản khu công nghiệp (KBC, GVR, SZC).
-- Dòng tiền ngoại mua ròng mạnh ngành chứng khoán -> Tác động: Tích cực -> Dòng tiền tập trung vào nhóm Chứng khoán (đặc biệt là SSI).
+- FTSE dự kiến giải ngân vào 27 cổ phiếu Việt Nam (bao gồm HPG, VHM, VCB, MSN, SSI) -> Tích cực -> Dòng tiền tập trung vào nhóm vốn hóa lớn (Bluechips) và cổ phiếu chứng khoán đón đầu thanh khoản.
+- Chi phí năng lượng tăng gây áp lực biên lợi nhuận nhóm sản xuất (HPG, NKG, HSG) -> Tiêu cực -> Cần thận trọng với các mã thép thâm dụng năng lượng trong ngắn hạn.
+- Kỳ vọng dòng vốn FDI từ Nhật và Mỹ dịch chuyển vào Việt Nam -> Tích cực -> Dòng tiền hướng vào nhóm Khu công nghiệp (KBC, SZC, GVR).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - Mã: **SSI**
-- Động lực (FA): Khối ngoại mua ròng 450 tỷ đồng trong phiên 5/11.
-- Nhận định dòng tiền: Dòng tiền lớn (Smart money) đang nâng đỡ nhóm Chứng khoán, tạo điểm tựa tâm lý vững chắc cho sóng ngắn hạn.
-- Hành động: Chú ý giải ngân nếu có nhịp rung lắc kỹ thuật trong phiên.
+- Động lực (FA): Khối ngoại mua ròng 450 tỷ đồng; hưởng lợi trực tiếp từ kỳ vọng nâng hạng và dòng vốn FTSE.
+- Nhận định dòng tiền: Dòng tiền ngoại nâng đỡ trực tiếp, củng cố vị thế dẫn dắt ngành chứng khoán.
+- Hành động: Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật (test hỗ trợ).
 
-- Mã: **NKG**
-- Động lực (FA): Áp lực biên lợi nhuận mỏng do chi phí năng lượng tăng cao.
-- Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ suy yếu do rủi ro chi phí đầu vào bào mòn hiệu quả kinh doanh.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quan sát phản ứng tại vùng hỗ trợ cứng, hạn chế bắt đáy.
+- Mã: **HPG**
+- Động lực (FA): Nhận lực cầu từ FTSE (Tích cực) đối trọng với áp lực chi phí năng lượng/chuỗi cung ứng (Tiêu cực).
+- Nhận định dòng tiền: Dòng tiền giằng co giữa lực mua tổ chức và áp lực biên lợi nhuận.
+- Hành động: Tiếp tục quan sát; rủi ro vi phạm kịch bản nếu giá đóng cửa dưới các vùng hỗ trợ cứng do áp lực chi phí.
 
-- Mã: **THD**
-- Động lực (FA): Lợi nhuận sụt giảm, rủi ro từ khoản đầu tư vào Thaigroup.
-- Nhận định dòng tiền: Áp lực bán tháo có thể gia tăng do tâm lý lo ngại về tính bền vững tài chính.
-- Hành động: Quan sát kỹ, ưu tiên giảm tỷ trọng nếu xuất hiện áp lực bán chủ động mạnh.
+- Mã: **KBC, SZC**
+- Động lực (FA): Hưởng lợi từ sự dịch chuyển chuỗi cung ứng (FDI) từ Mỹ và Nhật Bản.
+- Nhận định dòng tiền: Kỳ vọng dài hạn tốt, dòng tiền có thể phân bổ dần vào các phiên rung lắc.
+- Hành động: Chú ý giải ngân.
