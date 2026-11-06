@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 17:15
+⏱ Thời gian: 00:45
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Tình trạng khan hiếm đồng tại Trung Quốc đẩy giá kim loại tăng** -> Tích cực -> Nhóm ngành sản xuất dây cáp điện và khai thác khoáng sản (như PC1, nhóm thép/kim loại).
-- **Tiền gửi ngân hàng 9 tháng tăng trưởng mạnh, dẫn đầu bởi Big 3** -> Tích cực -> Nhóm Ngân hàng (VCB, BID, TCB) sẽ có lợi thế thanh khoản và NIM ổn định trong giai đoạn cuối năm.
-- **Khối ngoại mua ròng 500 tỷ nhưng VN-Index giảm sâu do lực bán nội** -> Tiêu cực -> Áp lực điều chỉnh ngắn hạn tại các mã trụ vẫn đang ở mức cao.
+- **Tỷ giá USD/VND hạ nhiệt (giảm 2,8% trong 3 tháng):** -> [Tích cực] -> Dòng tiền sẽ hướng vào nhóm doanh nghiệp vay nợ ngoại tệ lớn và có chi phí nhập khẩu nguyên liệu cao (Năng lượng: **POW, REE**; Hàng không: **VJC**; Thép: **HPG**).
+- **Khối ngoại mua ròng trở lại:** -> [Tích cực] -> Dòng tiền hỗ trợ các mã vốn hóa lớn (**VCB, HPG, VHM**) để làm trụ đỡ cho chỉ số trong bối cảnh tâm lý toàn cầu tiêu cực.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VIX**
-  - Động lực (FA): Hưởng lợi từ lực mua ròng của khối ngoại trong phiên điều chỉnh.
-  - Nhận định dòng tiền: Dòng tiền ngoại nâng đỡ giúp giảm thiểu tác động từ tâm lý bán tháo diện rộng.
-  - Hành động: Tiếp tục quan sát; theo dõi mốc hỗ trợ cứng để xác nhận điểm mua an toàn.
-- Mã: **PNJ**
-  - Động lực (FA): Người nội bộ bị "call margin" liên tục, mất gần nửa lượng nắm giữ.
-  - Nhận định dòng tiền: Áp lực bán giải chấp (forced selling) tạo nguồn cung ảo lớn, gây nhiễu và đè nặng lên xu hướng giá ngắn hạn.
-  - Hành động: Rủi ro vi phạm kịch bản; đứng ngoài theo dõi quá trình hấp thụ cung giải chấp.
-- Mã: **VCB**
-  - Động lực (FA): Dẫn đầu về quy mô tiền gửi và thu nhập nhân viên, vị thế đầu ngành vững chắc.
-  - Nhận định dòng tiền: Lực đỡ tiềm năng nhờ nền tảng cơ bản tốt trong bối cảnh thanh khoản hệ thống dồi dào.
-  - Hành động: Chú ý giải ngân nếu thị trường chung tạo đáy ngắn hạn.
+- Mã: **TLG**
+- Động lực (FA): Thiên Long (TLG) chính thức về tay đối tác Nhật Bản (Kokuyo), thay máu HĐQT.
+- Nhận định dòng tiền: Tin tức M&A chiến lược tạo kỳ vọng tăng trưởng dài hạn và tái cấu trúc mạnh mẽ, dự báo dòng tiền đầu cơ sẽ gia tăng đột biến vào mã này trong các phiên tới.
+- Hành động: Chú ý giải ngân (theo dõi phản ứng giá tại vùng kháng cự cứng trước khi gia tăng tỷ trọng).
+
+- Mã: **KBC, SZC**
+- Động lực (FA): Kỳ vọng dòng vốn FDI đổ vào Việt Nam tăng mạnh.
+- Nhận định dòng tiền: Hưởng lợi từ vĩ mô dài hạn, dòng tiền sẽ ưu tiên các nhịp điều chỉnh để tích lũy.
+- Hành động: Tiếp tục quan sát (chờ điểm mua tối ưu khi thị trường chung ổn định).
+
+- Mã: **HPG**
+- Động lực (FA): Hợp lưu tích cực từ 3 nguồn: Khối ngoại mua ròng, hưởng lợi tỷ giá giảm và giá đồng (nguyên liệu/sản phẩm liên quan) thế giới biến động.
+- Nhận định dòng tiền: Cổ phiếu quốc dân nhận được lực đỡ kép, duy trì vị thế trụ cột trong danh mục.
+- Hành động: Tiếp tục quan sát (duy trì vị thế).
