@@ -1,22 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:15 - 06/11/2026
+⏱ Thời gian: 17:15
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Các tập đoàn đa quốc gia (Tesla, Samsung) phản đối thuế quan Mỹ đối với Việt Nam -> Đánh giá: Tích cực (Giảm rủi ro rào cản thương mại) -> Dòng tiền hướng vào: Nhóm Khu công nghiệp (BĐS KCN) và Sản xuất xuất khẩu.
-- Kỳ vọng chính sách thương mại & làn sóng FDI sau bầu cử Mỹ -> Đánh giá: Tích cực -> Dòng tiền hướng vào: Nhóm Khu công nghiệp (KBC, SZC) và Xuất khẩu (VHC, TNG).
+- **Tình trạng khan hiếm đồng tại Trung Quốc đẩy giá kim loại tăng** -> Tích cực -> Nhóm ngành sản xuất dây cáp điện và khai thác khoáng sản (như PC1, nhóm thép/kim loại).
+- **Tiền gửi ngân hàng 9 tháng tăng trưởng mạnh, dẫn đầu bởi Big 3** -> Tích cực -> Nhóm Ngân hàng (VCB, BID, TCB) sẽ có lợi thế thanh khoản và NIM ổn định trong giai đoạn cuối năm.
+- **Khối ngoại mua ròng 500 tỷ nhưng VN-Index giảm sâu do lực bán nội** -> Tiêu cực -> Áp lực điều chỉnh ngắn hạn tại các mã trụ vẫn đang ở mức cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- Mã: **VIX**
+  - Động lực (FA): Hưởng lợi từ lực mua ròng của khối ngoại trong phiên điều chỉnh.
+  - Nhận định dòng tiền: Dòng tiền ngoại nâng đỡ giúp giảm thiểu tác động từ tâm lý bán tháo diện rộng.
+  - Hành động: Tiếp tục quan sát; theo dõi mốc hỗ trợ cứng để xác nhận điểm mua an toàn.
 - Mã: **PNJ**
-- Động lực (FA): Bán giải chấp gần nửa lượng cổ phiếu nắm giữ của người liên quan đến Chủ tịch.
-- Nhận định dòng tiền: Tạo áp lực cung kỹ thuật ngắn hạn, tâm lý nhà đầu tư cá nhân có thể hoảng loạn trong phiên.
-- Hành động: Theo dõi sát vùng hỗ trợ cứng, chưa vội bắt đáy khi áp lực bán giải chấp chưa giải tỏa hết.
-
-- Mã: **KBC, SZC**
-- Động lực (FA): Hợp lưu từ tin tức quy hoạch TP.HCM và kỳ vọng FDI sau bầu cử Mỹ.
-- Nhận định dòng tiền: Dòng tiền có xu hướng luân chuyển vào nhóm BĐS KCN do có câu chuyện vĩ mô hỗ trợ mạnh và tính ổn định cao.
-- Hành động: Chú ý giải ngân khi có nhịp rung lắc kiểm định hỗ trợ trong phiên.
-
-- Mã: **HHV**
-- Động lực (FA): Doanh thu phí BOT khả quan (3.500 tỷ/8 tháng).
-- Nhận định dòng tiền: Củng cố kỳ vọng về dòng tiền thực từ các dự án hạ tầng, tạo động lực tăng trưởng bền vững cho nhóm xây lắp.
-- Hành động: Tiếp tục quan sát, giữ tỷ trọng nếu đang nắm giữ.
+  - Động lực (FA): Người nội bộ bị "call margin" liên tục, mất gần nửa lượng nắm giữ.
+  - Nhận định dòng tiền: Áp lực bán giải chấp (forced selling) tạo nguồn cung ảo lớn, gây nhiễu và đè nặng lên xu hướng giá ngắn hạn.
+  - Hành động: Rủi ro vi phạm kịch bản; đứng ngoài theo dõi quá trình hấp thụ cung giải chấp.
+- Mã: **VCB**
+  - Động lực (FA): Dẫn đầu về quy mô tiền gửi và thu nhập nhân viên, vị thế đầu ngành vững chắc.
+  - Nhận định dòng tiền: Lực đỡ tiềm năng nhờ nền tảng cơ bản tốt trong bối cảnh thanh khoản hệ thống dồi dào.
+  - Hành động: Chú ý giải ngân nếu thị trường chung tạo đáy ngắn hạn.
