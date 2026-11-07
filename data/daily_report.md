@@ -1,24 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:45 - 07/11/2026
+⏱ Thời gian: 21:40
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Tâm lý thị trường bị áp lực mạnh bởi chỉ số VIX tăng vọt 70% tại Phố Wall -> [Đánh giá: Tiêu cực] -> [Dòng tiền ngắn hạn sẽ có xu hướng rút khỏi các mã nhạy cảm với biến động ngoại khối (SSI, VHM) và các cổ phiếu Ngân hàng đang chịu áp lực bán ròng].
+- **Fed cân nhắc tăng lãi suất do báo cáo việc làm Mỹ khả quan** -> [Tác động: Tiêu cực] -> [Dòng tiền chịu áp lực rút vốn, đặc biệt nhóm Bất động sản và Tài chính (SSI, VND, VHM, PDR) do rủi ro tỷ giá và chi phí vốn tăng].
+- **Xuất khẩu Việt Nam tăng trưởng mạnh** -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Logistics, Cảng biển (GMD, HAH)].
+- **Chính sách thúc đẩy điện mặt trời mái nhà** -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm Xây lắp điện/Năng lượng (REE)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **PVD**
-- Động lực (FA): Giá dầu thế giới có xu hướng đi lên.
-- Nhận định dòng tiền: Hưởng lợi trực tiếp từ biên lợi nhuận khai thác thượng nguồn, có khả năng trở thành nhóm ngành trú ẩn ngắn hạn khi các nhóm tài chính bị bán mạnh.
-- Hành động: Chú ý giải ngân nếu giữ vững nền giá hỗ trợ.
-
-- Mã: **FPT**
-- Động lực (FA): Kết quả kinh doanh 10 tháng tăng trưởng 6% y/y, giữ vững vị thế đầu ngành.
-- Nhận định dòng tiền: Sự tăng trưởng ổn định trong bối cảnh thị trường hoảng loạn sẽ thu hút dòng tiền đầu tư giá trị, đóng vai trò giữ nhịp cho chỉ số.
-- Hành động: Tiếp tục quan sát để nắm giữ vị thế.
-
-- Mã: **TLG**
-- Động lực (FA): Chuyển giao chiến lược cho đối tác Nhật Bản (M&A).
-- Nhận định dòng tiền: Tin tức hỗ trợ định giá dài hạn, tạo kỳ vọng tăng trưởng; dòng tiền có thể phản ứng tích cực bất chấp rung lắc chung của thị trường.
-- Hành động: Chú ý giải ngân theo điểm mua kỹ thuật (break-out trên nền tích lũy).
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **BSR**: Tin tức về giá dầu tăng hỗ trợ cải thiện giá trị hàng tồn kho và biên lợi nhuận lọc hóa dầu. Đối với vị thế trung hạn đã quá hạn tháng 3/2026, dữ liệu này củng cố luận điểm **tiếp tục nắm giữ** để tận dụng nhịp hồi phục của giá năng lượng, thay vì bán tháo theo áp lực thị trường chung.
+- **Mã: PNJ**
+  - Động lực (FA): Làn sóng nhân sự cấp cao rời đi và biến động nhân sự quy mô lớn.
+  - Nhận định dòng tiền: Rủi ro bán tháo ngắn hạn do lo ngại hiệu quả quản trị doanh nghiệp.
+  - Hành động: **Rủi ro vi phạm kịch bản** – Cần quan sát chặt chẽ vùng hỗ trợ, tránh bắt đáy khi chưa có xác nhận ổn định tổ chức.
+- **Mã: GMD, HAH**
+  - Động lực (FA): Dữ liệu xuất khẩu tăng trưởng vượt bậc, củng cố nhu cầu vận tải biển và khai thác cảng.
+  - Nhận định dòng tiền: Hợp lưu tích cực từ vĩ mô, hỗ trợ sức mạnh giá trong ngắn hạn.
+  - Hành động: **Chú ý giải ngân** – Ưu tiên các nhịp điều chỉnh để gia tăng tỷ trọng theo đà phục hồi kinh tế.
+- **Mã: BCE**
+  - Động lực (FA): Án phạt 1,5 tỷ đồng vì hành vi thao túng cổ phiếu.
+  - Nhận định dòng tiền: Áp lực tâm lý tiêu cực bao trùm, thanh khoản có thể bị đóng băng hoặc bán tháo.
+  - Hành động: **Rủi ro vi phạm kịch bản** – Thoát vị thế, không tham gia bắt dao rơi.
