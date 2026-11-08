@@ -1,20 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:45 - 08/11/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 08:45 - 08/11/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Rủi ro thương mại từ chính sách mới của Mỹ (Trump's Trade War):** Tác động tiêu cực lên nhóm ngành xuất khẩu chủ lực (Dệt may, Thủy sản) do lo ngại hàng rào thuế quan -> Dòng tiền có xu hướng thận trọng/rút khỏi các mã xuất khẩu trực tiếp sang Mỹ.
-- **Tâm lý bán tháo nhóm cổ phiếu AI toàn cầu:** Tác động tiêu cực -> Tạo áp lực điều chỉnh lên nhóm cổ phiếu Công nghệ (FPT, CMG) và các mã có beta cao tại VN-Index.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Chỉ đạo tháo gỡ pháp lý BĐS & Phát triển hạ tầng thương mại (AEON/Dự án Đà Nẵng):** -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục về nhóm **Bất động sản (VHM, PDR, DXG)** và **Bất động sản khu công nghiệp/hạ tầng**.
+- **Giá xăng dầu giảm sâu:** -> **Tích cực** (với nhóm Logistics: **GMD, HAH**) / **Tiêu cực** (với nhóm Năng lượng: **PLX, GAS**).
+- **Rủi ro lây lan từ nhóm Công nghệ toàn cầu:** -> **Tiêu cực** -> Tạo áp lực bán ngắn hạn lên nhóm công nghệ nội địa (**FPT, CMG**), cần thận trọng quan sát lực cầu tại các vùng hỗ trợ cứng.
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: KDC**
-  - Động lực (FA): Bị phạt do vi phạm quy định giao dịch cổ phiếu quỹ.
-  - Nhận định dòng tiền: Tạo tâm lý tiêu cực tức thời đối với cổ đông nhỏ lẻ, khả năng cao xuất hiện áp lực bán giải tỏa tâm lý đầu phiên.
-  - Hành động: Theo dõi sát vùng hỗ trợ kỹ thuật; không bắt đáy trong phiên chịu tin tiêu cực quản trị.
-- **Mã: FPT, CMG**
-  - Động lực (FA): Bị bán tháo theo làn sóng tiêu cực từ nhóm cổ phiếu AI toàn cầu.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn suy yếu do tâm lý sợ hãi bị lan tỏa.
-  - Hành động: Rủi ro vi phạm kịch bản nắm giữ; ưu tiên quản trị rủi ro, hạ tỷ trọng nếu mất các mốc hỗ trợ quan trọng.
-
-🔄 3. Cảnh báo Tái cơ cấu:
-- **Mã: BSR**
-  - Nhận định: Dữ liệu về việc Trung Quốc cân nhắc xuất khẩu diesel giúp ổn định giá đầu vào và tối ưu biên lợi nhuận lọc dầu. Với vị thế hiện tại (tháng 6/2026), đây là yếu tố bổ trợ cơ bản (fundamental) tốt. Tuy nhiên, cần đối chiếu với diễn biến khối lượng giao dịch. Nếu dòng tiền không phản ứng tích cực trước tin này, ưu tiên nắm giữ chờ chu kỳ hồi phục thay vì bán tháo theo thị trường chung.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **VHM**
+  - **Động lực (FA):** Chính phủ chỉ đạo tháo gỡ pháp lý BĐS + hiệu ứng lan tỏa từ hạ tầng thương mại (AEON Thanh Hóa).
+  - **Nhận định dòng tiền:** Tin tức cộng hưởng tích cực, có khả năng kích hoạt dòng tiền bắt đáy hoặc tích lũy trở lại sau chuỗi giảm điểm.
+  - **Hành động:** Chú ý giải ngân nếu xuất hiện tín hiệu xác nhận từ khối lượng giao dịch trong phiên.
+- **Mã:** **KDC**
+  - **Động lực (FA):** Bị phạt hành chính do vi phạm quy định giao dịch cổ phiếu quỹ.
+  - **Nhận định dòng tiền:** Tác động tâm lý tiêu cực tức thì, dễ bị ép bán bởi nhà đầu tư cá nhân trong ngắn hạn.
+  - **Hành động:** Tiếp tục quan sát, tránh bắt đáy sớm để chờ ổn định tâm lý.
+- **Mã:** **FPT**
+  - **Động lực (FA):** Áp lực bán tháo cổ phiếu AI trên Phố Wall lan tỏa sang chứng khoán châu Á.
+  - **Nhận định dòng tiền:** Áp lực điều chỉnh theo xu hướng toàn cầu, khả năng cao sẽ có biến động mạnh.
+  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng của khối ngoại.
