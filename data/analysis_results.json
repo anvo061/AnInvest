@@ -1,5 +1,113 @@
 ﻿[
   {
+    "Title": "Một nhà đầu tư xử phạt hành chính do thao túng cổ phiếu - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1hmSndzeVFzaTJsRjF5eDhBaWsxX0hRNnJNUVVmdGdtRDMzY1RHRkJWRjZXbFR1ZjM1bVJYUXlaWVp5bW1Ubm5IWnVISHgxNFR2Slk5OUc1OHR3eGJza3ptbXhDVXpHdGpGVmxubVZMdS1VUEJkc1NSOVp1VWcxMk9CeUVCUHdqWTA1Sm1LeEZ2U051Y0ZHLXdR?oc=5",
+    "PubDate": "Sun, 08 Nov 2026 14:46:00 GMT",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là hoạt động quản lý hành chính thông thường của cơ quan chức năng nhằm minh bạch hóa thị trường, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Toàn thị trường. Việc xử phạt cá nhân là hoạt động thanh tra định kỳ, không làm thay đổi xu hướng dòng tiền hay cơ bản của bất kỳ nhóm ngành nào.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-11-09 05:52:39"
+  },
+  {
+    "Title": "Mỹ cử phái đoàn xúc tiến nông nghiệp lớn nhất từ trước đến nay sang Việt Nam",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/my-cu-phai-doan-xuc-tien-nong-nghiep-lon-nhat-tu-truoc-den-nay-sang-viet-nam-100261108140411178.htm",
+    "PubDate": "11/8/2026 2:16:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 2,
+    "MarketImpact": "Việc mở rộng hợp tác nông nghiệp với Mỹ giúp các doanh nghiệp xuất khẩu nông sản Việt Nam tiếp cận sâu hơn vào thị trường tiêu thụ lớn, đồng thời thúc đẩy nhu cầu nhập khẩu nguyên liệu đầu vào chất lượng cao.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính ngoại giao, chưa có cam kết thương mại cụ thể. Cần theo dõi lộ trình thực thi để đánh giá tác động thực tế lên biên lợi nhuận doanh nghiệp.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Doanh nghiệp xuất khẩu thủy sản chủ lực sang Mỹ, hưởng lợi từ các hiệp định và xúc tiến thương mại."
+      }
+    ],
+    "AnalyzedAt": "2026-11-09 05:52:21"
+  },
+  {
+    "Title": "Bất chấp chi phí tăng, đa số doanh nghiệp Hàn Quốc vẫn muốn ở lại Việt Nam",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/bat-chap-chi-phi-tang-da-so-doanh-nghiep-han-quoc-van-muon-o-lai-viet-nam-100261108150005409.htm",
+    "PubDate": "11/8/2026 3:33:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 3,
+    "MarketImpact": "Việc các doanh nghiệp FDI Hàn Quốc duy trì cam kết đầu tư củng cố nhu cầu thuê đất khu công nghiệp và dịch vụ logistics, hỗ trợ triển vọng tăng trưởng dài hạn cho nhóm bất động sản khu công nghiệp.",
+    "TapeReaderNote": "Tín hiệu: Trung lập. Tin tức mang tính chất khảo sát tâm lý, không có cam kết vốn mới cụ thể. Tác động thực tế lên dòng tiền ngắn hạn là không đáng kể.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "KBC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Sở hữu quỹ đất lớn tại các vùng trọng điểm thu hút FDI, hưởng lợi trực tiếp từ nhu cầu mở rộng của doanh nghiệp Hàn Quốc."
+      },
+      {
+        "Ticker": "SZC",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Vị trí chiến lược tại Bà Rịa - Vũng Tàu thu hút dòng vốn FDI sản xuất, giúp tăng tỷ lệ lấp đầy và giá thuê."
+      }
+    ],
+    "AnalyzedAt": "2026-11-09 05:52:03"
+  },
+  {
+    "Title": "Giải mã cách làm giúp phường Cát Lái, xã Tân Vĩnh Lộc dẫn đầu về giải ngân đầu tư công",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/giai-ma-cach-lam-giup-phuong-cat-lai-tan-vinh-loc-dan-dau-ve-giai-ngan-dau-tu-cong-10026110722581423.htm",
+    "PubDate": "11/8/2026 5:31:00 PM",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về kinh nghiệm quản lý hành chính địa phương trong giải ngân đầu tư công, không tác động trực tiếp đến kết quả kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Tin tức mang tính chất chia sẻ kinh nghiệm quản lý hành chính địa phương, không tạo ra dòng tiền mới cho các doanh nghiệp niêm yết. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-11-09 05:51:40"
+  },
+  {
+    "Title": "Kết quả bầu cử giữa kỳ Mỹ tác động ra sao tới kinh tế thế giới, doanh nghiệp Việt?",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/ket-qua-bau-cu-my-tac-dong-ra-sao-toi-kinh-te-the-gioi-viet-nam-2572519.html",
+    "PubDate": "Mon, 09 Nov 2026 05:30:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Kết quả bầu cử giữa kỳ Mỹ mang tính chất vĩ mô dài hạn, tác động đến chính sách thương mại và thuế quan nhưng chưa tạo ra thay đổi tức thời đến biên lợi nhuận của các doanh nghiệp niêm yết tại Việt Nam.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Thị trường chung. Bầu cử giữa kỳ Mỹ là biến số vĩ mô dài hạn, chưa tác động trực tiếp đến dòng tiền ngắn hạn. Nhà đầu tư nên quan sát phản ứng của tỷ giá và khối ngoại.",
+    "Relevance": "Trung bình",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-11-09 05:51:28"
+  },
+  {
+    "Title": "Giống lúa nếp từ Lào mang về hơn 33 tỷ đồng mỗi năm cho xã vùng biên",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/giong-lua-nep-tu-lao-mang-ve-33-ty-nam-cho-xa-vung-bien-2572769.html",
+    "PubDate": "Mon, 09 Nov 2026 05:45:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin về mô hình kinh tế nông nghiệp quy mô nhỏ tại địa phương, không có tác động trọng yếu đến doanh thu hay lợi nhuận của các doanh nghiệp nông nghiệp niêm yết trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không tác động. Mô hình nông nghiệp quy mô nhỏ lẻ tại địa phương không ảnh hưởng đến dòng tiền của các doanh nghiệp nông nghiệp lớn trên sàn. Bỏ qua.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-11-09 05:51:18"
+  },
+  {
+    "Title": "Petrovietnam trong top 500 doanh nghiệp lớn nhất Đông Nam Á",
+    "Source": "VnExpress Kinh Doanh",
+    "Link": "https://vnexpress.net/petrovietnam-trong-top-500-doanh-nghiep-lon-nhat-dong-nam-a-5141537.html",
+    "PubDate": "Fri, 06 Nov 2026 19:00:00 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "Đây là thông tin mang tính chất vinh danh, khẳng định vị thế doanh nghiệp, không tác động trực tiếp đến kết quả kinh doanh hay dòng tiền của các mã cổ phiếu dầu khí trên sàn.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Dầu khí. Tin tức mang tính chất thương hiệu, không thay đổi cấu trúc lợi nhuận hay dòng tiền ngắn hạn. Không có tác động giao dịch.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-11-09 05:51:07"
+  },
+  {
     "Title": "India Coffee Output to Miss Forecast After Below-Normal Rains - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3B3eHBDWTU5QU12Z0NnWHVyYnlTTWxldEFrenFqOGxVNmFEeGU5WVdlaGZBWlhBWERlMGRKVDEwV1lDS1NZUkQ0Q0s2Y2lkb3VlNVZJNGJIZE8xaHlFSUpPQi1udHp2a1VsZW01bE10Z2JUWWt3MlE3blFhVF9tUHcxT3FqYkZkRzJWQUQzandsMFBRTHdTX1RJUk5sbmJGb0Y0bWtOQmpGSkNBNzJJejdB?oc=5",
@@ -18242,202 +18350,5 @@
       }
     ],
     "AnalyzedAt": "2026-10-22 19:40:02"
-  },
-  {
-    "Title": "Dược Hậu Giang báo lãi thấp kỷ lục, tiền mặt giảm gần một nửa, cổ phiếu dò đáy",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//duoc-hau-giang-bao-lai-thap-ky-luc-tien-mat-giam-gan-mot-nua-co-phieu-do-day.html",
-    "PubDate": "Thu, 22 Oct 2026 08:38:04 GMT",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -7,
-    "MarketImpact": "Kết quả kinh doanh suy giảm mạnh và sự sụt giảm tiền mặt gây áp lực lớn lên tâm lý nhà đầu tư, làm suy yếu triển vọng tăng trưởng ngắn hạn của doanh nghiệp.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - DHG. Lợi nhuận giảm sâu và dòng tiền suy yếu kích hoạt áp lực bán tháo. Dòng tiền thông minh sẽ đứng ngoài chờ đợi vùng cân bằng mới.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "DHG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Lợi nhuận giảm 53% và tiền mặt sụt giảm mạnh làm mất đi vị thế cổ phiếu phòng thủ, gây áp lực bán mạnh."
-      }
-    ],
-    "AnalyzedAt": "2026-10-22 19:39:44"
-  },
-  {
-    "Title": "VN-Index tăng gần 22 điểm nhờ họ Vin, một nhóm cổ phiếu vẫn chịu áp lực bán",
-    "Source": "VnBusiness Chứng Khoán",
-    "Link": "https://vnbusiness.vn//vn-index-tang-gan-22-diem-nho-ho-vin-mot-nhom-co-phieu-van-chiu-ap-luc-ban.html",
-    "PubDate": "Thu, 22 Oct 2026 08:38:29 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 1,
-    "MarketImpact": "Chỉ số tăng điểm nhờ trụ cột họ Vin và dầu khí, nhưng sự phân hóa mạnh và áp lực bán ròng từ khối ngoại tại các mã dẫn dắt cho thấy dòng tiền vẫn thận trọng.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Chỉ số tăng nhờ trụ cột Vin/Dầu khí nhưng thiếu lan tỏa. Dòng tiền phân hóa, áp lực bán ngoại tại FPT gây rủi ro ngắn hạn. Cần quan sát dòng tiền luân chuyển.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VIC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Đóng vai trò trụ cột kéo chỉ số, thu hút dòng tiền ngắn hạn vào nhóm họ Vin."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu dẫn dắt nhóm BĐS, tạo hiệu ứng tâm lý tích cực cho chỉ số chung."
-      },
-      {
-        "Ticker": "PVS",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi từ dòng tiền luân chuyển sang nhóm dầu khí trong bối cảnh thị trường phân hóa."
-      },
-      {
-        "Ticker": "FPT",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Chịu áp lực bán ròng mạnh từ khối ngoại, gây rủi ro điều chỉnh ngắn hạn dù nền tảng cơ bản tốt."
-      }
-    ],
-    "AnalyzedAt": "2026-10-22 19:39:10"
-  },
-  {
-    "Title": "Chứng khoán tăng 22 điểm theo đà mua ròng của khối ngoại",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/chung-khoan-tang-22-diem-theo-da-mua-rong-cua-khoi-ngoai-5135635.html",
-    "PubDate": "Thu, 22 Oct 2026 15:48:33 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 8,
-    "MarketImpact": "Đà mua ròng của khối ngoại cải thiện tâm lý thị trường, thúc đẩy thanh khoản và củng cố xu hướng tăng điểm cho các mã vốn hóa lớn (Bluechips) và nhóm chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Bluechips và Chứng khoán. Khối ngoại quay lại mua ròng tạo động lực bứt phá cho VN-Index. Dòng tiền thông minh sẽ tập trung vào các mã dẫn dắt có thanh khoản cao.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VCB",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu vốn hóa lớn thường là mục tiêu mua ròng chính của khối ngoại khi thị trường hồi phục."
-      },
-      {
-        "Ticker": "SSI",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Thanh khoản thị trường tăng giúp tăng doanh thu môi giới và lãi từ cho vay margin của các công ty chứng khoán."
-      },
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Bluechip đầu ngành BĐS hưởng lợi từ tâm lý tích cực của khối ngoại và dòng tiền dẫn dắt thị trường."
-      },
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Cổ phiếu quốc dân thường được khối ngoại ưu tiên giải ngân khi xu hướng thị trường chung cải thiện."
-      },
-      {
-        "Ticker": "VND",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ sự gia tăng thanh khoản và tâm lý hưng phấn của nhà đầu tư trên toàn thị trường."
-      }
-    ],
-    "AnalyzedAt": "2026-10-22 19:38:39"
-  },
-  {
-    "Title": "Phó thống đốc: 'Các ngân hàng cần giám sát chặt an toàn hệ thống'",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/pho-thong-doc-cac-ngan-hang-can-giam-sat-chat-an-toan-he-thong-5135600.html",
-    "PubDate": "Thu, 22 Oct 2026 15:55:51 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Đây là thông điệp quản trị rủi ro định kỳ của cơ quan quản lý, không thay đổi chính sách tiền tệ hay biên lợi nhuận của các ngân hàng thương mại.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Ngân hàng. Thông điệp quản trị rủi ro mang tính hành chính, không tác động đến dòng tiền ngắn hạn. Thị trường sẽ phản ứng thờ ơ với tin tức này.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-22 19:36:38"
-  },
-  {
-    "Title": "Thủ tướng: Giá đất cao gây hệ lụy rất lớn với phát triển kinh tế",
-    "Source": "VnExpress Kinh Doanh",
-    "Link": "https://vnexpress.net/thu-tuong-gia-dat-cao-gay-he-luy-rat-lon-voi-phat-trien-kinh-te-5135718.html",
-    "PubDate": "Thu, 22 Oct 2026 18:31:48 +0700",
-    "Sentiment": "Tiêu cực",
-    "ImpactScore": -3,
-    "MarketImpact": "Chỉ đạo kiểm soát giá đất cho thấy áp lực quản lý chặt chẽ hơn đối với thị trường BĐS, có thể làm chậm quá trình định giá lại tài sản và gây khó khăn cho các dự án mới.",
-    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm BĐS. Chỉ đạo kiểm soát giá đất gây áp lực lên chi phí giải phóng mặt bằng và biên lợi nhuận dự án. Dòng tiền thận trọng với các mã có quỹ đất lớn nhưng đòn bẩy cao.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "VHM",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Áp lực quản lý giá đất có thể làm chậm tiến độ triển khai và định giá các dự án mới."
-      },
-      {
-        "Ticker": "NVL",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Khó khăn trong việc định giá đất dự án ảnh hưởng trực tiếp đến khả năng tái cấu trúc tài sản."
-      },
-      {
-        "Ticker": "DXG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Thị trường BĐS bị kiểm soát giá làm giảm thanh khoản môi giới và biên lợi nhuận dự án."
-      },
-      {
-        "Ticker": "DIG",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá đất bị kiểm soát chặt gây khó khăn cho việc giải phóng mặt bằng và phát triển quỹ đất."
-      }
-    ],
-    "AnalyzedAt": "2026-10-22 19:36:13"
-  },
-  {
-    "Title": "China's Q3 GDP growth set to pick up as exports power ahead - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGVkYXFpU09qRXZIdVQyMDVVaHpJTUo4dE15M2hUSnM4Zm5VR09CLWNRelhzZUd3VDRSbWdCQkljSnJtTWoxNkJ0WXg4cFNLdExWSUlpV3ZEdEhUdTB4WG43RmIxQ0FqMlZrNUpnQ3liTlVraFdfbW1mTnBueVdNMGdaaFAzMVdFdW5nMGFaTEFTMmdqdVNERTA1RzlGanVEZVE?oc=5",
-    "PubDate": "Sun, 18 Oct 2026 23:03:43 GMT",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Kinh tế Trung Quốc hồi phục thúc đẩy nhu cầu nguyên vật liệu và hàng hóa từ Việt Nam, đặc biệt là nhóm xuất khẩu và logistics.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. GDP Trung Quốc tăng trưởng nhờ xuất khẩu không đồng nghĩa với nhu cầu nhập khẩu nguyên liệu từ Việt Nam. Tác động gián tiếp, cần quan sát thêm dòng tiền khối ngoại.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hưởng lợi trực tiếp từ lưu lượng hàng hóa xuất nhập khẩu tăng trưởng giữa Việt Nam và Trung Quốc."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu vận tải biển tăng theo đà phục hồi xuất khẩu của thị trường Trung Quốc."
-      }
-    ],
-    "AnalyzedAt": "2026-10-22 14:05:21"
-  },
-  {
-    "Title": "VIEW China's economic growth accelerates to 4.5% in third quarter - Reuters",
-    "Source": "Reuters/Bloomberg Vĩ mô",
-    "Link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXFNS245X3pBcV9XTmxwQVljcVRHRW9YWER5N3EtUlo3UnBXVm9WaE5VbUdDTTBMczJnY0hQeEpEYUdackhNb1g4VGhIcUM4VGl5UnlwOEJCT1ZqREhRZXMwVUFMVzlmT3lneGZROGR0STFaeGNuVmlCTnNEaFNjYlRta3RSd2tXVEJyOHJWNkgtSjdqZnZtanRYOUNDckZ4RUtfeTgzOTV5b3RYX0hFTg?oc=5",
-    "PubDate": "Mon, 19 Oct 2026 02:40:00 GMT",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 5,
-    "MarketImpact": "Kinh tế Trung Quốc hồi phục thúc đẩy nhu cầu nhập khẩu nguyên liệu và hàng hóa từ Việt Nam, hỗ trợ các nhóm ngành xuất khẩu và logistics.",
-    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Thép, Cao su, Cảng biển. Tăng trưởng Trung Quốc cải thiện nhu cầu nguyên liệu đầu vào. Dòng tiền sẽ tập trung vào các mã xuất khẩu sang thị trường này.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "HPG",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu thép từ Trung Quốc phục hồi giúp giảm áp lực cạnh tranh và hỗ trợ giá bán."
-      },
-      {
-        "Ticker": "GVR",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Trung Quốc là thị trường tiêu thụ cao su lớn nhất, tăng trưởng kinh tế giúp cải thiện giá bán."
-      },
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Hoạt động giao thương Việt - Trung tăng trưởng thúc đẩy lưu lượng hàng hóa qua cảng biển."
-      },
-      {
-        "Ticker": "VHC",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Nhu cầu tiêu thụ thủy sản tại Trung Quốc hồi phục hỗ trợ doanh thu xuất khẩu."
-      }
-    ],
-    "AnalyzedAt": "2026-10-22 14:04:58"
   }
 ]
