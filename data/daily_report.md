@@ -1,25 +1,18 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 15:15 - 08/11/2026
+⏱ Thời gian: 21:50, 08/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Làn sóng dịch chuyển sản xuất (FDI) từ Trung Quốc sang Việt Nam do thuế quan Mỹ:** -> Đánh giá: Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm **Bất động sản khu công nghiệp (KBC, SZC, IDC)** và **Logistics (GMD)**.
-- **Chính phủ chỉ đạo rà soát tổng thể thị trường BĐS trong tháng 11:** -> Đánh giá: Tích cực (tâm lý) -> Kỳ vọng tháo gỡ pháp lý cho nhóm **Bất động sản dân dụng (VHM, PDR)**.
-- **Giá xăng dầu giảm sâu tuần thứ 2 liên tiếp:** -> Đánh giá: Trung lập (phân hóa) -> Tích cực cho biên lợi nhuận nhóm **Vận tải/Logistics (GMD, HAH)**, tiêu cực ngắn hạn đối với nhóm **Năng lượng thượng nguồn/phân phối (GAS, PLX)** do rủi ro hàng tồn kho và giá bán.
+- **Dịch chuyển chuỗi cung ứng (FDI):** Làn sóng doanh nghiệp Trung Quốc đẩy mạnh đầu tư vào Việt Nam để né tránh thuế quan từ phía Mỹ -> **Tích cực** -> Dòng tiền dự kiến tập trung vào nhóm **Bất động sản Khu công nghiệp (KBC, SZC, IDC)** và **Logistics (GMD)**.
+- **Xu hướng tích trữ vàng:** Trung Quốc duy trì mua vàng liên tục trong 24 tháng -> **Tích cực** -> Duy trì kỳ vọng vào nhóm bán lẻ trang sức (PNJ) nhờ nhu cầu đầu tư/trang sức nội địa neo cao.
+- **Áp lực dòng tiền khối ngoại:** Khối ngoại bán ròng nhóm Ngân hàng (VCB, STB, VPB) -> **Tiêu cực** -> Tạo rào cản tăng giá ngắn hạn cho nhóm vốn hóa lớn, gây áp lực điều chỉnh lên chỉ số chung.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VIX**
-    - Động lực (FA): Dòng tiền đầu cơ cực mạnh, hấp thụ tốt áp lực bán khối ngoại.
-    - Nhận định dòng tiền: Dòng tiền đang tập trung vào các cổ phiếu có thị phần môi giới tăng trưởng.
-    - Hành động: **Chú ý giải ngân** theo đà, theo dõi sát khối lượng giao dịch.
-- **Mã: GMD**
-    - Động lực (FA): Hưởng lợi kép từ làn sóng FDI (tăng lưu lượng hàng hóa) và giá dầu giảm (giảm chi phí vận hành).
-    - Nhận định dòng tiền: Hợp lưu tích cực từ cả yếu tố vĩ mô và chi phí đầu vào.
-    - Hành động: **Chú ý giải ngân** tại các nhịp chỉnh trong phiên.
-- **Mã: VCB, STB, VPB**
-    - Động lực (FA): Khối ngoại liên tục bán ròng mạnh.
-    - Nhận định dòng tiền: Áp lực cung ngoại lấn át, cản trở xu hướng hồi phục kỹ thuật.
-    - Hành động: **Tiếp tục quan sát**, chờ tín hiệu cạn cung từ khối ngoại.
-- **Mã: KBC, SZC, IDC**
-    - Động lực (FA): Tin tức vĩ mô về dịch chuyển FDI hỗ trợ triển vọng dài hạn.
-    - Nhận định dòng tiền: Dòng tiền có xu hướng xoay tua vào nhóm có quỹ đất sạch và tỷ lệ lấp đầy cao.
-    - Hành động: **Chú ý giải ngân** khi có nhịp tích lũy quanh vùng hỗ trợ.
+- **Mã:** VIX
+- **Động lực (FA):** Dòng tiền đầu cơ cực mạnh, ghi nhận hút gần 600 tỷ đồng, đi ngược lại xu hướng bán ròng của khối ngoại ở các nhóm ngành khác.
+- **Nhận định dòng tiền:** Củng cố xu hướng tăng ngắn hạn nhờ thanh khoản đột biến, phản ánh kỳ vọng của thị trường vào thị phần môi giới.
+- **Hành động:** Chú ý giải ngân theo đà (momentum) nếu giữ vững vùng hỗ trợ thanh khoản hiện tại.
+
+- **Mã:** KBC, SZC, IDC, GMD
+- **Động lực (FA):** Tin tức vĩ mô xác nhận sự gia tăng đột biến của dòng vốn FDI từ Trung Quốc nhằm tối ưu hóa chuỗi cung ứng trước áp lực thuế Mỹ.
+- **Nhận định dòng tiền:** Kỳ vọng dòng tiền dài hạn bắt đầu dịch chuyển vào nhóm có quỹ đất sạch và hạ tầng logistics sẵn sàng.
+- **Hành động:** Tiếp tục quan sát điểm vào lệnh theo kỹ thuật để tối ưu hóa vị thế.
