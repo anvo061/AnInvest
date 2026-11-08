@@ -1,21 +1,25 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 08:45 - 08/11/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 15:15 - 08/11/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Chỉ đạo tháo gỡ pháp lý BĐS & Phát triển hạ tầng thương mại (AEON/Dự án Đà Nẵng):** -> **Tích cực** -> Dòng tiền kỳ vọng xoay trục về nhóm **Bất động sản (VHM, PDR, DXG)** và **Bất động sản khu công nghiệp/hạ tầng**.
-- **Giá xăng dầu giảm sâu:** -> **Tích cực** (với nhóm Logistics: **GMD, HAH**) / **Tiêu cực** (với nhóm Năng lượng: **PLX, GAS**).
-- **Rủi ro lây lan từ nhóm Công nghệ toàn cầu:** -> **Tiêu cực** -> Tạo áp lực bán ngắn hạn lên nhóm công nghệ nội địa (**FPT, CMG**), cần thận trọng quan sát lực cầu tại các vùng hỗ trợ cứng.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Làn sóng dịch chuyển sản xuất (FDI) từ Trung Quốc sang Việt Nam do thuế quan Mỹ:** -> Đánh giá: Tích cực -> Dòng tiền sẽ tập trung mạnh vào nhóm **Bất động sản khu công nghiệp (KBC, SZC, IDC)** và **Logistics (GMD)**.
+- **Chính phủ chỉ đạo rà soát tổng thể thị trường BĐS trong tháng 11:** -> Đánh giá: Tích cực (tâm lý) -> Kỳ vọng tháo gỡ pháp lý cho nhóm **Bất động sản dân dụng (VHM, PDR)**.
+- **Giá xăng dầu giảm sâu tuần thứ 2 liên tiếp:** -> Đánh giá: Trung lập (phân hóa) -> Tích cực cho biên lợi nhuận nhóm **Vận tải/Logistics (GMD, HAH)**, tiêu cực ngắn hạn đối với nhóm **Năng lượng thượng nguồn/phân phối (GAS, PLX)** do rủi ro hàng tồn kho và giá bán.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã:** **VHM**
-  - **Động lực (FA):** Chính phủ chỉ đạo tháo gỡ pháp lý BĐS + hiệu ứng lan tỏa từ hạ tầng thương mại (AEON Thanh Hóa).
-  - **Nhận định dòng tiền:** Tin tức cộng hưởng tích cực, có khả năng kích hoạt dòng tiền bắt đáy hoặc tích lũy trở lại sau chuỗi giảm điểm.
-  - **Hành động:** Chú ý giải ngân nếu xuất hiện tín hiệu xác nhận từ khối lượng giao dịch trong phiên.
-- **Mã:** **KDC**
-  - **Động lực (FA):** Bị phạt hành chính do vi phạm quy định giao dịch cổ phiếu quỹ.
-  - **Nhận định dòng tiền:** Tác động tâm lý tiêu cực tức thì, dễ bị ép bán bởi nhà đầu tư cá nhân trong ngắn hạn.
-  - **Hành động:** Tiếp tục quan sát, tránh bắt đáy sớm để chờ ổn định tâm lý.
-- **Mã:** **FPT**
-  - **Động lực (FA):** Áp lực bán tháo cổ phiếu AI trên Phố Wall lan tỏa sang chứng khoán châu Á.
-  - **Nhận định dòng tiền:** Áp lực điều chỉnh theo xu hướng toàn cầu, khả năng cao sẽ có biến động mạnh.
-  - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát phản ứng của khối ngoại.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: VIX**
+    - Động lực (FA): Dòng tiền đầu cơ cực mạnh, hấp thụ tốt áp lực bán khối ngoại.
+    - Nhận định dòng tiền: Dòng tiền đang tập trung vào các cổ phiếu có thị phần môi giới tăng trưởng.
+    - Hành động: **Chú ý giải ngân** theo đà, theo dõi sát khối lượng giao dịch.
+- **Mã: GMD**
+    - Động lực (FA): Hưởng lợi kép từ làn sóng FDI (tăng lưu lượng hàng hóa) và giá dầu giảm (giảm chi phí vận hành).
+    - Nhận định dòng tiền: Hợp lưu tích cực từ cả yếu tố vĩ mô và chi phí đầu vào.
+    - Hành động: **Chú ý giải ngân** tại các nhịp chỉnh trong phiên.
+- **Mã: VCB, STB, VPB**
+    - Động lực (FA): Khối ngoại liên tục bán ròng mạnh.
+    - Nhận định dòng tiền: Áp lực cung ngoại lấn át, cản trở xu hướng hồi phục kỹ thuật.
+    - Hành động: **Tiếp tục quan sát**, chờ tín hiệu cạn cung từ khối ngoại.
+- **Mã: KBC, SZC, IDC**
+    - Động lực (FA): Tin tức vĩ mô về dịch chuyển FDI hỗ trợ triển vọng dài hạn.
+    - Nhận định dòng tiền: Dòng tiền có xu hướng xoay tua vào nhóm có quỹ đất sạch và tỷ lệ lấp đầy cao.
+    - Hành động: **Chú ý giải ngân** khi có nhịp tích lũy quanh vùng hỗ trợ.
