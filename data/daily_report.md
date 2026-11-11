@@ -1,26 +1,24 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 00:45 - 12/11/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 06:45 ngày 12/11/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Dệt may:** Khó khăn tại Bangladesh đẩy mạnh dịch chuyển đơn hàng sang Việt Nam -> **Tích cực** -> Dòng tiền hướng vào nhóm Dệt may (TNG, MSH).
-- **Vĩ mô toàn cầu:** Khối ngoại rút vốn khỏi thị trường châu Á ($50 tỷ) -> **Tiêu cực** -> Áp lực bán ròng lên nhóm vốn hóa lớn (VCB, VHM, HPG, MSN).
-- **Năng lượng:** Ban hành giá trần cho pin lưu trữ (BESS) -> **Tích cực** -> Dòng tiền hướng vào năng lượng tái tạo (REE, GEG).
-- **Bán lẻ:** TP.HCM khởi động chương trình kích cầu cuối năm -> **Trung lập/Tích cực** -> Hỗ trợ doanh thu nhóm Bán lẻ (MWG, PNJ, MSN).
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **NHNN mua ngoại tệ, bơm thanh khoản VND:** -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (Big4) và Chứng khoán (hưởng lợi từ thanh khoản thị trường).
+- **Xu hướng khối ngoại rút vốn khỏi thị trường Châu Á:** -> **Tiêu cực** -> Tạo sức ép lên các mã vốn hóa lớn (Bluechips/VN30) trong ngắn hạn, cần chú ý hiện tượng bán ròng đối ứng.
+- **Căng thẳng tại Bangladesh (Dệt may):** -> **Tích cực** -> Dòng tiền kỳ vọng xoay chuyển sang nhóm Dệt may (TNG, MSH) nhờ hiệu ứng chuyển dịch đơn hàng.
+- **Mexico siết thép châu Á:** -> **Tích cực** -> Nhóm Thép (NKG, HPG) có dư địa xuất khẩu gia tăng vào thị trường Bắc Mỹ.
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: TNG, MSH**
-    - **Động lực (FA):** Hưởng lợi từ sự cố chuỗi cung ứng tại Bangladesh, đơn hàng quốc tế dịch chuyển sang Việt Nam.
-    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào doanh thu quý 4, tâm lý nhà đầu tư tích cực.
-    - **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật, theo dõi khối lượng giao dịch đột biến.
-- **Mã: MSN**
-    - **Động lực (FA):** Hai luồng tin đối nghịch: Người nội bộ bán cổ phiếu (tiêu cực) vs. Hưởng lợi từ kích cầu tiêu dùng nội địa (tích cực).
-    - **Nhận định dòng tiền:** Áp lực cung từ nội bộ sẽ lấn át phản ứng tích cực từ tin vĩ mô trong ngắn hạn.
-    - **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro tại vùng hỗ trợ gần nhất.
-- **Mã: VCB, TCB**
-    - **Động lực (FA):** Áp lực bán ròng đồng thời từ khối ngoại và tự doanh.
-    - **Nhận định dòng tiền:** Dòng tiền đang bị rút mạnh, thiếu động lực hỗ trợ giá trong ngắn hạn.
-    - **Hành động:** Rủi ro vi phạm kịch bản tích lũy, hạn chế bắt dao rơi.
-- **Mã: REE, GEG**
-    - **Động lực (FA):** Hành lang pháp lý cho pin lưu trữ (BESS) chính thức có giá trần.
-    - **Nhận định dòng tiền:** Tạo kỳ vọng tăng trưởng mới cho danh mục năng lượng tái tạo.
-    - **Hành động:** Chú ý giải ngân theo sóng chính sách.
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã:** VCB, BID, CTG
+- **Động lực (FA):** NHNN bơm thanh khoản qua kênh mua ngoại tệ; lượng tiền gửi tại Big4 dồi dào.
+- **Nhận định dòng tiền:** Hưởng lợi kép từ hạ tầng thanh khoản hệ thống, tuy nhiên cần quan sát áp lực bán ròng từ khối ngoại/tự doanh tại VCB để chọn điểm vào.
+- **Hành động:** Chú ý giải ngân khi có nhịp rung lắc do khối ngoại bán ròng (tận dụng điểm mua giá tốt).
+
+- **Mã:** TNG, MSH
+- **Động lực (FA):** Đối thủ cạnh tranh trực tiếp tại Bangladesh suy yếu do vấn đề tiền lương/chuỗi cung ứng.
+- **Nhận định dòng tiền:** Dòng tiền đầu cơ có xu hướng tìm đến nhóm xuất khẩu có câu chuyện tăng trưởng đơn hàng.
+- **Hành động:** Tiếp tục quan sát xác nhận dòng tiền vào (volume tăng đột biến).
+
+- **Mã:** TCB
+- **Động lực (FA):** Áp lực bán ròng từ tự doanh CTCK.
+- **Nhận định dòng tiền:** Suy yếu ngắn hạn do cung vượt cầu tạm thời.
+- **Hành động:** Rủi ro vi phạm kịch bản, tạm dừng giải ngân để theo dõi vùng hỗ trợ.
