@@ -1,25 +1,26 @@
 ﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 16:45 - 11/11/2026
+⏱ **Thời gian:** 00:45 - 12/11/2026
 
 ⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **NHNN bơm tiền đồng qua kênh mua USD:** Tín hiệu đảo chiều thanh khoản tích cực -> **Tích cực** -> Dòng tiền sẽ chảy mạnh vào nhóm **Ngân hàng (VCB, TCB)** và **Chứng khoán (SSI)** nhờ giảm chi phí vốn và tăng dư địa cho vay/margin.
-- **Dư nợ Margin đạt kỷ lục:** Cho thấy dòng tiền đầu cơ đang ở trạng thái hưng phấn cao độ -> **Tích cực** -> Nhóm **Công ty chứng khoán** dẫn đầu sóng thanh khoản.
-- **Dịch chuyển chuỗi cung ứng (Thuế quan Mỹ - Ấn Độ):** Tăng lợi thế cạnh tranh xuất khẩu -> **Tích cực** -> Nhóm **Dệt may (TNG, MSH)** hưởng lợi trực tiếp về thị phần.
+- **Dệt may:** Khó khăn tại Bangladesh đẩy mạnh dịch chuyển đơn hàng sang Việt Nam -> **Tích cực** -> Dòng tiền hướng vào nhóm Dệt may (TNG, MSH).
+- **Vĩ mô toàn cầu:** Khối ngoại rút vốn khỏi thị trường châu Á ($50 tỷ) -> **Tiêu cực** -> Áp lực bán ròng lên nhóm vốn hóa lớn (VCB, VHM, HPG, MSN).
+- **Năng lượng:** Ban hành giá trần cho pin lưu trữ (BESS) -> **Tích cực** -> Dòng tiền hướng vào năng lượng tái tạo (REE, GEG).
+- **Bán lẻ:** TP.HCM khởi động chương trình kích cầu cuối năm -> **Trung lập/Tích cực** -> Hỗ trợ doanh thu nhóm Bán lẻ (MWG, PNJ, MSN).
 
 🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
-- **Mã: VPB**
-  - **Động lực (FA):** Huy động thành công 730 triệu USD vốn quốc tế, cải thiện hệ số CAR.
-  - **Nhận định dòng tiền:** Củng cố nền tảng tài chính, giảm chi phí vốn dài hạn, kích hoạt dòng tiền khối ngoại quay lại.
-  - **Hành động:** **Chú ý giải ngân** vùng giá hiện tại cho mục tiêu trung hạn.
 - **Mã: TNG, MSH**
-  - **Động lực (FA):** Rào cản thuế quan Mỹ với Ấn Độ tạo khoảng trống thị phần.
-  - **Nhận định dòng tiền:** Dòng tiền sẽ tìm đến các mã có câu chuyện xuất khẩu rõ ràng khi vĩ mô toàn cầu (đàm phán Ukraine) có dấu hiệu ổn định.
-  - **Hành động:** **Chú ý giải ngân** theo đà tăng.
-- **Mã: VBB, UDC**
-  - **Động lực (FA):** Hạ kế hoạch lợi nhuận (VBB) và Lỗ lũy kế/cảnh báo (UDC).
-  - **Nhận định dòng tiền:** Áp lực bán mạnh từ các nhà đầu tư cá nhân do thông tin tiêu cực.
-  - **Hành động:** **Rủi ro vi phạm kịch bản**, tránh bắt đáy hoặc xem xét hạ tỷ trọng nếu đang nắm giữ.
-- **Mã: MPC**
-  - **Động lực (FA):** Khó khăn trong tiêu thụ tôm sinh thái.
-  - **Nhận định dòng tiền:** Dòng tiền sẽ rút khỏi nhóm thủy sản gặp khó về đầu ra để xoay vòng sang nhóm có kỳ vọng tăng trưởng cao hơn.
-  - **Hành động:** **Tiếp tục quan sát** xu hướng giảm, ưu tiên quản trị rủi ro.
+    - **Động lực (FA):** Hưởng lợi từ sự cố chuỗi cung ứng tại Bangladesh, đơn hàng quốc tế dịch chuyển sang Việt Nam.
+    - **Nhận định dòng tiền:** Gia tăng kỳ vọng vào doanh thu quý 4, tâm lý nhà đầu tư tích cực.
+    - **Hành động:** Chú ý giải ngân nếu có nhịp điều chỉnh kỹ thuật, theo dõi khối lượng giao dịch đột biến.
+- **Mã: MSN**
+    - **Động lực (FA):** Hai luồng tin đối nghịch: Người nội bộ bán cổ phiếu (tiêu cực) vs. Hưởng lợi từ kích cầu tiêu dùng nội địa (tích cực).
+    - **Nhận định dòng tiền:** Áp lực cung từ nội bộ sẽ lấn át phản ứng tích cực từ tin vĩ mô trong ngắn hạn.
+    - **Hành động:** Tiếp tục quan sát, ưu tiên quản trị rủi ro tại vùng hỗ trợ gần nhất.
+- **Mã: VCB, TCB**
+    - **Động lực (FA):** Áp lực bán ròng đồng thời từ khối ngoại và tự doanh.
+    - **Nhận định dòng tiền:** Dòng tiền đang bị rút mạnh, thiếu động lực hỗ trợ giá trong ngắn hạn.
+    - **Hành động:** Rủi ro vi phạm kịch bản tích lũy, hạn chế bắt dao rơi.
+- **Mã: REE, GEG**
+    - **Động lực (FA):** Hành lang pháp lý cho pin lưu trữ (BESS) chính thức có giá trần.
+    - **Nhận định dòng tiền:** Tạo kỳ vọng tăng trưởng mới cho danh mục năng lượng tái tạo.
+    - **Hành động:** Chú ý giải ngân theo sóng chính sách.
