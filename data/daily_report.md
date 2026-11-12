@@ -1,25 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:45:57
+⏱ Thời gian: 03:45 - 13/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Áp lực lạm phát từ chi phí nhiên liệu khiến Chính phủ hoãn phát hành trái phiếu quốc tế -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm nhạy cảm với lãi suất và chi phí vốn (Bất động sản, Chứng khoán).
-- Giá xăng giảm về dưới 20.000 đồng/lít -> **Tích cực** -> Dòng tiền tập trung nhóm hưởng lợi từ chi phí đầu vào thấp (Logistics, Bán lẻ).
-- Đẩy mạnh thu hút FDI tại Hải Phòng -> **Tích cực** -> Dòng tiền hướng vào nhóm BĐS Khu công nghiệp và Cảng biển.
+- NHNN khẳng định duy trì chính sách tiền tệ hỗ trợ, sẵn sàng hạ lãi suất -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến luân chuyển mạnh vào nhóm Tài chính (Chứng khoán, Ngân hàng) và Bất động sản dân cư nhờ giảm áp lực chi phí vốn.
+- Kế hoạch giảm ưu đãi thuế công nghệ cao gây lo ngại cho dòng vốn FDI Hàn Quốc -> [Đánh giá: Tiêu cực] -> Rủi ro điều chỉnh ngắn hạn tại các mã BĐS khu công nghiệp có tỷ trọng khách thuê Hàn Quốc cao.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **GMD**
-    - Động lực (FA): Hưởng lợi kép từ quy hoạch FDI Hải Phòng và giá xăng giảm giúp cải thiện biên lợi nhuận logistics.
-    - Nhận định dòng tiền: Kháng cự tốt trước áp lực bán khối ngoại nhờ nền tảng cơ bản hưởng lợi trực tiếp từ hạ tầng.
-    - Hành động: Chú ý giải ngân (vùng hỗ trợ cứng).
-- Mã: **VHM / PDR**
-    - Động lực (FA): Lạm phát và lãi suất có xu hướng tăng gây áp lực trực tiếp lên chi phí vốn và khả năng trả nợ.
-    - Nhận định dòng tiền: Dòng tiền suy yếu, áp lực bán ròng từ khối ngoại đè nặng.
-    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
-- Mã: **FPT**
-    - Động lực (FA): Áp lực bán ròng từ khối ngoại mạnh nhất tháng kết hợp với rủi ro tâm lý từ nhóm công nghệ toàn cầu.
-    - Nhận định dòng tiền: Dòng tiền thoát ra ngắn hạn sau nhịp tăng dài.
-    - Hành động: Tiếp tục quan sát (chờ cân bằng cung cầu).
-- Mã: **MWG**
-    - Động lực (FA): Giá xăng giảm giúp tối ưu hóa chi phí vận hành.
-    - Nhận định dòng tiền: Dễ bị áp lực bán lây lan từ danh mục khối ngoại (nếu có), nhưng nội tại hưởng lợi từ giảm lạm phát chi phí.
-    - Hành động: Quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
+- Mã: **MBB**
+  - Động lực (FA): Chào bán 200 triệu cổ phiếu cho 6 nhà đầu tư để tăng vốn.
+  - Nhận định dòng tiền: Tin tức củng cố triển vọng tăng trưởng tín dụng dài hạn, tạo lực đỡ cho cổ phiếu trong nhịp điều chỉnh của thị trường chung.
+  - Hành động: Chú ý giải ngân ở các phiên rung lắc, kỳ vọng nhịp hồi phục theo cấu trúc tăng vốn.
+- Mã: **VHM**
+  - Động lực (FA): Khối ngoại xả mạnh 450 tỷ đồng trong bối cảnh vĩ mô lạm phát gây áp lực.
+  - Nhận định dòng tiền: Dòng tiền đang rút ròng mạnh, mất cân đối cung cầu.
+  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát vùng hỗ trợ cứng mới.
+- Mã: **KBC**
+  - Động lực (FA): Điểm hợp lưu giữa kỳ vọng FDI tại Hải Phòng và rủi ro từ chính sách ưu đãi thuế công nghệ cao.
+  - Nhận định dòng tiền: Tín hiệu xung đột thông tin dẫn đến trạng thái giằng co, dòng tiền thiếu sự đồng thuận.
+  - Hành động: Tiếp tục quan sát, đợi phản ứng giá tại vùng cân bằng.
