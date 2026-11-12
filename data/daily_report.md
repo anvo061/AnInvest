@@ -1,17 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 11:30 - 12/11/2026
+⏱ Thời gian: 19:45:57
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **NHNN bắt đầu mua ngoại tệ, bơm thanh khoản VND:** -> Đánh giá: **Tích cực** -> Dòng tiền sẽ tập trung mạnh vào nhóm **Ngân hàng (VCB, TCB, MBB, ACB)** và **Chứng khoán (SSI, VND)** nhờ môi trường lãi suất thấp và thanh khoản hệ thống dồi dào.
-- **Thúc đẩy vận tải tự hành, thông quan hàng hóa Việt - Trung:** -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Logistics và Xuất nhập khẩu** do tối ưu hóa chi phí vận hành.
-- **Đà siết thép châu Á tại thị trường Mỹ:** -> Đánh giá: **Tích cực** -> Dòng tiền hướng vào nhóm **Thép (NKG, HPG)** nhờ dư địa xuất khẩu sang thị trường Bắc Mỹ được mở rộng.
+- Áp lực lạm phát từ chi phí nhiên liệu khiến Chính phủ hoãn phát hành trái phiếu quốc tế -> **Tiêu cực** -> Dòng tiền có xu hướng rút khỏi nhóm nhạy cảm với lãi suất và chi phí vốn (Bất động sản, Chứng khoán).
+- Giá xăng giảm về dưới 20.000 đồng/lít -> **Tích cực** -> Dòng tiền tập trung nhóm hưởng lợi từ chi phí đầu vào thấp (Logistics, Bán lẻ).
+- Đẩy mạnh thu hút FDI tại Hải Phòng -> **Tích cực** -> Dòng tiền hướng vào nhóm BĐS Khu công nghiệp và Cảng biển.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** TCB, VCB, MBB, ACB
-  - **Động lực (FA):** Sự chuyển dịch cơ cấu thu nhập sang dịch vụ (phí, thanh toán) giúp bền vững hóa biên lợi nhuận (NFI).
-  - **Nhận định dòng tiền:** Dòng tiền tổ chức có xu hướng tập trung vào các mã ngân hàng có nền tảng phí tốt để trú ẩn và đón đầu thanh khoản mới.
-  - **Hành động:** Chú ý giải ngân theo nhịp chỉnh kỹ thuật; ưu tiên nhóm dẫn đầu về chuyển đổi số/thanh toán.
-- **Mã:** SSI, VND
-  - **Động lực (FA):** Hưởng lợi kép từ việc NHNN bơm thanh khoản và tâm lý nhà đầu tư cá nhân tích cực hơn.
-  - **Nhận định dòng tiền:** Độ nhạy với thanh khoản thị trường cao, kỳ vọng dòng tiền đầu cơ sẽ cuộn sóng ngắn hạn.
-  - **Hành động:** Tiếp tục nắm giữ, bám sát khối lượng giao dịch (volume) để gia tăng tỷ trọng khi vượt kháng cự.
+- Mã: **GMD**
+    - Động lực (FA): Hưởng lợi kép từ quy hoạch FDI Hải Phòng và giá xăng giảm giúp cải thiện biên lợi nhuận logistics.
+    - Nhận định dòng tiền: Kháng cự tốt trước áp lực bán khối ngoại nhờ nền tảng cơ bản hưởng lợi trực tiếp từ hạ tầng.
+    - Hành động: Chú ý giải ngân (vùng hỗ trợ cứng).
+- Mã: **VHM / PDR**
+    - Động lực (FA): Lạm phát và lãi suất có xu hướng tăng gây áp lực trực tiếp lên chi phí vốn và khả năng trả nợ.
+    - Nhận định dòng tiền: Dòng tiền suy yếu, áp lực bán ròng từ khối ngoại đè nặng.
+    - Hành động: Rủi ro vi phạm kịch bản, hạn chế bắt đáy.
+- Mã: **FPT**
+    - Động lực (FA): Áp lực bán ròng từ khối ngoại mạnh nhất tháng kết hợp với rủi ro tâm lý từ nhóm công nghệ toàn cầu.
+    - Nhận định dòng tiền: Dòng tiền thoát ra ngắn hạn sau nhịp tăng dài.
+    - Hành động: Tiếp tục quan sát (chờ cân bằng cung cầu).
+- Mã: **MWG**
+    - Động lực (FA): Giá xăng giảm giúp tối ưu hóa chi phí vận hành.
+    - Nhận định dòng tiền: Dễ bị áp lực bán lây lan từ danh mục khối ngoại (nếu có), nhưng nội tại hưởng lợi từ giảm lạm phát chi phí.
+    - Hành động: Quan sát phản ứng tại các vùng hỗ trợ kỹ thuật.
