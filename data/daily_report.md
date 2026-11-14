@@ -1,19 +1,21 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:20 - 14/11/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 09:35
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Kỳ vọng đảo chiều lãi suất kết hợp dự báo bùng nổ thanh khoản (60.000 - 70.000 tỷ/phiên) -> [Đánh giá tác động: Tích cực] -> [Dòng tiền tập trung mạnh vào nhóm Chứng khoán (SSI, VND, VCI, HCM) và Bất động sản].
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Thị trường phân hóa tiêu cực:** Hiện tượng "xanh vỏ đỏ lòng" (Bluechips giữ nhịp, Midcap/Smallcap suy yếu) kết hợp áp lực bán ròng gần 1.000 tỷ từ khối ngoại tạo rủi ro điều chỉnh ngắn hạn cho chỉ số chung. -> **Tiêu cực** -> **Dòng tiền sẽ co cụm vào các mã có câu chuyện nội tại riêng hoặc hưởng lợi trực tiếp từ hạ tầng/phục hồi BĐS.**
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI**
-  - Động lực (FA): Hưởng lợi kép từ thanh khoản thị trường kỳ vọng tăng vọt và lực mua ròng khối ngoại mạnh mẽ (>300 tỷ phiên gần nhất).
-  - Nhận định dòng tiền: Dòng tiền lớn từ khối ngoại làm nền tảng, kỳ vọng lan tỏa sang nhà đầu tư cá nhân.
-  - Hành động: Chú ý giải ngân theo đà tăng thanh khoản.
-- **Mã: NKG**
-  - Động lực (FA): Người liên quan Chủ tịch đăng ký mua vào cổ phiếu.
-  - Nhận định dòng tiền: Phát tín hiệu tự tin về định giá, hỗ trợ vùng hỗ trợ kỹ thuật ngắn hạn.
-  - Hành động: Tiếp tục quan sát phản ứng tại vùng giá mua của nội bộ.
-- **Mã: MWG, MSN, PNJ, DGW**
-  - Động lực (FA): Mùa cao điểm bán lẻ và kích cầu cuối năm.
-  - Nhận định dòng tiền: Dòng tiền có xu hướng xoay vòng sang nhóm tiêu dùng để đón đầu kết quả kinh doanh quý IV.
-  - Hành động: Chú ý giải ngân vị thế ngắn hạn.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **NKG**
+  - **Động lực (FA):** Người liên quan Chủ tịch đăng ký mua vào cổ phiếu.
+  - **Nhận định dòng tiền:** Tín hiệu nội bộ củng cố niềm tin trong bối cảnh thị trường đang phân hóa, giúp NKG có lực đỡ kỹ thuật tốt hơn so với mặt bằng chung.
+  - **Hành động:** Quan sát vùng hỗ trợ cứng, ưu tiên nắm giữ theo tín hiệu "smart money" nội bộ.
+
+- **Mã:** **VHM**
+  - **Động lực (FA):** Tâm điểm bị khối ngoại xả mạnh (900 tỷ).
+  - **Nhận định dòng tiền:** Áp lực cung lớn từ khối ngoại đang đè nặng lên giá; dòng tiền nội chưa đủ mạnh để hấp thụ hoàn toàn lượng bán này.
+  - **Hành động:** Tránh bắt đáy sớm, theo dõi sát vùng hỗ trợ tại các ngưỡng tâm lý, ưu tiên bảo toàn vốn.
+
+- **Mã:** **NLG, KDH**
+  - **Động lực (FA):** Nguồn cung BĐS tại TP.HCM tăng, cải thiện thanh khoản phân khúc nhà ở.
+  - **Nhận định dòng tiền:** Tin tức hỗ trợ nền tảng cơ bản, giúp giảm áp lực tâm lý cho nhóm BĐS dân cư trước các lo ngại về thanh khoản ngành.
+  - **Hành động:** Tiếp tục quan sát, ưu tiên vị thế nếu dòng tiền toàn thị trường ổn định trở lại.
