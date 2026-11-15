@@ -1,22 +1,17 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 01:15 - 16/11/2026
+⏱ Thời gian: 05:30 - 16/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Biến động chính sách Bất động sản**: Đề xuất siết chặt đấu giá và đánh thuế chuyển nhượng bất động sản sớm (1-2 năm) đối kháng trực diện với kỳ vọng nới lỏng cơ chế giá nhà ở xã hội (NOXH). -> **Đánh giá: Trung lập (Xung đột chính sách)** -> Dòng tiền sẽ phân hóa mạnh: Nhóm BĐS tập trung NOXH (NLG, VHM) có thể thu hút dòng tiền ngắn hạn nhờ cơ chế mới, trong khi nhóm đầu cơ đất nền, dự án treo (DIG, DXG) đối diện áp lực bán tháo do rủi ro thanh khoản.
-- **Rủi ro địa chính trị**: Bế tắc đàm phán COC tại Biển Đông. -> **Đánh giá: Tiêu cực nhẹ** -> Cần theo dõi sát nhóm Dầu khí (PVD) và Vận tải biển do rủi ro chi phí vận hành và an ninh năng lượng vùng biển.
+- **Chính sách hỗ trợ doanh nghiệp BĐS:** Đề xuất xóa nợ thuế cho doanh nghiệp mất khả năng trả nợ và nới lỏng cơ chế giá bán/chuyển nhượng Nhà ở xã hội (NOXH) -> **Tích cực** -> Dòng tiền kỳ vọng hướng vào nhóm **Bất động sản (BĐS)** và các doanh nghiệp đang trong quá trình tái cấu trúc tài chính.
+- **Chi phí đầu vào:** Tiềm năng giảm giá điện và xăng dầu -> **Tích cực** -> Dòng tiền hướng vào nhóm **Sản xuất (Sản xuất công nghiệp)** và **Vận tải**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: NVL**
-  - Động lực (FA): Chịu tác động kép: Tích cực từ việc hỗ trợ xóa nợ thuế và nới lỏng NOXH, nhưng tiêu cực từ chính sách siết đấu giá/thuế chuyển nhượng đất nền.
-  - Nhận định dòng tiền: Dòng tiền sẽ giằng co mạnh. Khả năng cao có nhịp rung lắc kỹ thuật trước khi tìm được điểm cân bằng.
-  - Hành động: **Tiếp tục quan sát** tại vùng hỗ trợ cứng, chưa vội giải ngân cho đến khi thị trường hấp thụ hết thông tin về thuế chuyển nhượng.
+- **Mã:** NVL, NLG, VHM
+- **Động lực (FA):** Thay đổi khung pháp lý về NOXH (giá bán thỏa thuận, thanh khoản sau 5 năm) và hỗ trợ xóa nợ thuế giúp cải thiện bảng cân đối kế toán.
+- **Nhận định dòng tiền:** Gia tăng kỳ vọng về khả năng giải phóng hàng tồn kho và giảm áp lực nợ vay. Dòng tiền đầu cơ có thể tập trung vào NVL do doanh nghiệp này đang cần các cú hích tài chính, trong khi NLG/VHM hưởng lợi về biên lợi nhuận thực tế.
+- **Hành động:** Chú ý giải ngân nếu xuất hiện tín hiệu dòng tiền lan tỏa trong phiên tới; theo dõi chặt chẽ kịch bản xử lý nợ thuế cụ thể của từng doanh nghiệp.
 
-- **Mã: DIG / DXG**
-  - Động lực (FA): Chịu áp lực tiêu cực từ đề xuất đánh thuế chuyển nhượng sớm và siết đấu giá đất.
-  - Nhận định dòng tiền: Rủi ro thoát hàng kỹ thuật cao. Tin tức này trực tiếp làm suy giảm tính hấp dẫn của danh mục quỹ đất.
-  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, hạ tỷ trọng nếu giá mất các mốc hỗ trợ ngắn hạn.
-
-- **Mã: PVD**
-  - Động lực (FA): Rủi ro địa chính trị gia tăng do bế tắc COC.
-  - Nhận định dòng tiền: Nhạy cảm với các tin tức tiêu cực vùng Biển Đông.
-  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng nền giá hiện tại.
+- **Mã:** Nhóm Năng lượng/Điện (Tác động từ tháo gỡ dự án điện rác)
+- **Động lực (FA):** Tháo gỡ nút thắt pháp lý dự án điện rác tại Nghệ An.
+- **Nhận định dòng tiền:** Tạo tiền đề cải thiện triển vọng doanh thu dài hạn, tuy nhiên tác động ngắn hạn cần đối chiếu với khối lượng giao dịch thực tế của các mã liên quan.
+- **Hành động:** Tiếp tục quan sát sự xác nhận của dòng tiền trên các mã ngành điện/xử lý rác.
