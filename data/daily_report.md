@@ -1,23 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 07:15 - 15/11/2026
+⏱ Thời gian: 10:35
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Thiên tai miền Trung (Bão Molave):** Gây gián đoạn chuỗi cung ứng và hạ tầng cảng biển -> **Tiêu cực** -> Dòng tiền thận trọng với nhóm Vận tải biển và Logistics khu vực miền Trung.
-- **Thúc đẩy thanh toán nội tệ ASEAN:** Giảm phụ thuộc USD, tối ưu chi phí giao dịch quốc tế -> **Tích cực** -> Nhóm Ngân hàng (VCB) hưởng lợi từ phí dịch vụ và thanh toán quốc tế.
-- **Áp lực pháp lý ngành BĐS:** Xử phạt công bố thông tin trái phiếu tại nhiều doanh nghiệp địa ốc -> **Tiêu cực** -> Tâm lý yếu ở nhóm BĐS (NVL, DIG).
+- **Tâm lý ngành Bất động sản:** Tin tức tiêu cực về pháp lý (sếp Tân Hoàng Minh tạm hoãn xuất cảnh, xử phạt Hưng Thịnh Land) gây áp lực tâm lý tiêu cực diện rộng -> Đánh giá: Tiêu cực -> Dòng tiền có xu hướng rút khỏi nhóm BĐS, chuyển dịch sang nhóm Logistics/Xuất nhập khẩu được hưởng lợi từ việc giảm chi phí giá dầu.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** MWG
-- **Động lực (FA):** Thiết lập Ngày quốc gia thương mại điện tử (12-12).
-- **Nhận định dòng tiền:** Gia tăng kỳ vọng vào tăng trưởng doanh thu bán lẻ trực tuyến cuối năm. Dòng tiền có thể phản ứng tích cực trong ngắn hạn.
-- **Hành động:** Chú ý giải ngân (tận dụng nhịp rung lắc nếu có).
+- **Mã: NKG**
+    - Động lực (FA): Người thân lãnh đạo đăng ký mua 5 triệu cổ phiếu.
+    - Nhận định dòng tiền: Tạo hiệu ứng tâm lý "tự tin vào nội tại" cho nhà đầu tư cá nhân, giúp mã này có khả năng đi ngược lại áp lực giảm điểm chung của thị trường trong ngắn hạn.
+    - Hành động: Chú ý giải ngân nếu xuất hiện lực cầu đỡ giá tại các ngưỡng hỗ trợ kỹ thuật cứng.
 
-- **Mã:** HPG
-- **Động lực (FA):** Xác nhận các đại dự án tỷ USD, mở rộng quy mô.
-- **Nhận định dòng tiền:** Củng cố niềm tin nhà đầu tư dài hạn, tạo nền tảng hỗ trợ giá trước các biến động tiêu cực chung của thị trường.
-- **Hành động:** Tiếp tục quan sát (nắm giữ theo xu hướng dài hạn).
+- **Mã: NVL, PDR, DXG**
+    - Động lực (FA): Áp lực pháp lý ngành BĐS tăng cao, rủi ro thanh tra lãi suất ảnh hưởng đến tái cấu trúc nợ.
+    - Nhận định dòng tiền: Dòng tiền đầu cơ có khả năng tháo chạy do hiệu ứng tâm lý tiêu cực lan tỏa từ các tin tức pháp lý trong sáng nay.
+    - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, quan sát áp lực bán.
 
-- **Mã:** NVL, DIG
-- **Động lực (FA):** Loạt doanh nghiệp địa ốc bị xử phạt vi phạm công bố thông tin trái phiếu.
-- **Nhận định dòng tiền:** Gia tăng rủi ro điều chỉnh do áp lực tâm lý và giám sát chặt chẽ từ cơ quan quản lý.
-- **Hành động:** Rủi ro vi phạm kịch bản (cân nhắc hạ tỷ trọng nếu chạm ngưỡng cắt lỗ kỹ thuật).
+- **Mã: GMD, HAH**
+    - Động lực (FA): Giá xăng dầu thế giới và trong nước hạ nhiệt.
+    - Nhận định dòng tiền: Cải thiện biên lợi nhuận vận hành, dòng tiền có thể trú ẩn ngắn hạn vào các cổ phiếu logistics có nền tảng cơ bản tốt.
+    - Hành động: Tiếp tục quan sát để điểm hóa lệnh mua khi áp lực điều chỉnh chung của thị trường tạo giá chiết khấu.
+
+- **Mã: PVD, GAS**
+    - Động lực (FA): Giá dầu giảm.
+    - Nhận định dòng tiền: Áp lực giảm giá do kỳ vọng biên lợi nhuận co hẹp và giảm động lực đầu tư thăm dò.
+    - Hành động: Tiếp tục quan sát, chưa nên giải ngân mới cho đến khi giá dầu xác lập vùng cân bằng.
