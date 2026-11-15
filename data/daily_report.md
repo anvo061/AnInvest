@@ -1,16 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:45
+⏱ Thời gian: 01:15 - 16/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Chính phủ đặt mục tiêu tăng trưởng 10% thông qua mô hình mới tập trung vào hạ tầng số, FDI chất lượng cao và đầu tư công -> [Đánh giá: Tích cực] -> Dòng tiền dự kiến hướng vào nhóm Công nghệ (FPT), Khu công nghiệp (KBC, GVR), Ngân hàng (VCB) và Thép (HPG).
+- **Biến động chính sách Bất động sản**: Đề xuất siết chặt đấu giá và đánh thuế chuyển nhượng bất động sản sớm (1-2 năm) đối kháng trực diện với kỳ vọng nới lỏng cơ chế giá nhà ở xã hội (NOXH). -> **Đánh giá: Trung lập (Xung đột chính sách)** -> Dòng tiền sẽ phân hóa mạnh: Nhóm BĐS tập trung NOXH (NLG, VHM) có thể thu hút dòng tiền ngắn hạn nhờ cơ chế mới, trong khi nhóm đầu cơ đất nền, dự án treo (DIG, DXG) đối diện áp lực bán tháo do rủi ro thanh khoản.
+- **Rủi ro địa chính trị**: Bế tắc đàm phán COC tại Biển Đông. -> **Đánh giá: Tiêu cực nhẹ** -> Cần theo dõi sát nhóm Dầu khí (PVD) và Vận tải biển do rủi ro chi phí vận hành và an ninh năng lượng vùng biển.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **NKG**
-- Động lực (FA): Người thân lãnh đạo (con gái Chủ tịch) đăng ký mua vào 5 triệu cổ phiếu.
-- Nhận định dòng tiền: Tín hiệu nội bộ củng cố niềm tin vào định giá doanh nghiệp, tạo tâm lý tích cực hỗ trợ lực cầu ngắn hạn.
-- Hành động: Chú ý giải ngân nếu giá test lại các vùng hỗ trợ kỹ thuật gần nhất.
+- **Mã: NVL**
+  - Động lực (FA): Chịu tác động kép: Tích cực từ việc hỗ trợ xóa nợ thuế và nới lỏng NOXH, nhưng tiêu cực từ chính sách siết đấu giá/thuế chuyển nhượng đất nền.
+  - Nhận định dòng tiền: Dòng tiền sẽ giằng co mạnh. Khả năng cao có nhịp rung lắc kỹ thuật trước khi tìm được điểm cân bằng.
+  - Hành động: **Tiếp tục quan sát** tại vùng hỗ trợ cứng, chưa vội giải ngân cho đến khi thị trường hấp thụ hết thông tin về thuế chuyển nhượng.
 
-- Mã: **VCB, TCB**
-- Động lực (FA): Thanh khoản hệ thống dồi dào, tiền gửi tiết kiệm đạt kỷ lục giúp duy trì biên lãi thuần (NIM) ổn định.
-- Nhận định dòng tiền: Hỗ trợ tích cực cho nhóm ngân hàng vốn hóa lớn, củng cố vị thế dẫn dắt trong bối cảnh vĩ mô hướng tới mục tiêu tăng trưởng cao.
-- Hành động: Tiếp tục quan sát để nắm bắt các nhịp rung lắc tích lũy.
+- **Mã: DIG / DXG**
+  - Động lực (FA): Chịu áp lực tiêu cực từ đề xuất đánh thuế chuyển nhượng sớm và siết đấu giá đất.
+  - Nhận định dòng tiền: Rủi ro thoát hàng kỹ thuật cao. Tin tức này trực tiếp làm suy giảm tính hấp dẫn của danh mục quỹ đất.
+  - Hành động: **Rủi ro vi phạm kịch bản**; ưu tiên quản trị rủi ro, hạ tỷ trọng nếu giá mất các mốc hỗ trợ ngắn hạn.
+
+- **Mã: PVD**
+  - Động lực (FA): Rủi ro địa chính trị gia tăng do bế tắc COC.
+  - Nhận định dòng tiền: Nhạy cảm với các tin tức tiêu cực vùng Biển Đông.
+  - Hành động: **Tiếp tục quan sát** phản ứng của dòng tiền tại vùng nền giá hiện tại.
