@@ -1,20 +1,24 @@
-﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 09:20 - 16/11/2026
+﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
+⏱ **Thời gian:** 16:50 - 16/11/2026
 
-⚡ 1. Xung lực Vĩ mô & Ngành:
-- Ngân hàng Nhà nước giảm lãi suất huy động 3 kỳ hạn, đưa lãi suất gửi 24 tháng về 6,9%/năm -> **Tích cực** -> Dòng tiền sẽ hướng vào nhóm Ngân hàng (giảm chi phí vốn - NIM) và Bất động sản (giảm chi phí tài chính/kích cầu).
-- Dữ liệu Bloomberg ghi nhận tâm lý rút vốn khỏi thị trường chứng khoán do lo ngại lãi suất 10% (trái ngược với thực tế hạ nhiệt lãi suất từ hệ thống ngân hàng thương mại) -> **Tiêu cực (Ngắn hạn)** -> Gây nhiễu tâm lý, áp lực bán ròng lên các mã nhạy cảm với Margin như SSI, VND.
+⚡ **1. Xung lực Vĩ mô & Ngành:**
+- **Lãi suất tiền gửi tại một số ngân hàng về 0%/năm:** -> **Tích cực:** Tín hiệu cực mạnh ép dòng tiền nhàn rỗi dịch chuyển từ gửi tiết kiệm sang các kênh tài sản (Chứng khoán, Bất động sản) để tìm kiếm lợi nhuận.
+- **Bỏ quỹ bình ổn xăng dầu:** -> **Tích cực:** Giảm gánh nặng quản lý dòng tiền, tăng tính minh bạch trong hạch toán. Dòng tiền sẽ hướng vào nhóm **Năng lượng/Bán lẻ xăng dầu (OIL, PLX)** do biên lợi nhuận kỳ vọng cải thiện.
+- **Chi phí vốn trái phiếu ngân hàng neo cao:** -> **Tiêu cực:** Áp lực đè nặng lên NIM, cản trở đà tăng giá nhóm ngân hàng thương mại (VPB, TCB, MBB).
 
-🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **TCB**
-  - Động lực (FA): Hưởng lợi trực tiếp từ việc giảm chi phí vốn (COF) giúp cải thiện NIM, tuy nhiên chịu áp lực đối kháng từ chi phí trái phiếu doanh nghiệp neo cao.
-  - Nhận định dòng tiền: Dòng tiền có thể phân hóa; khả năng duy trì biên độ tích lũy cao nhờ kỳ vọng NIM tốt hơn trong quý tới.
-  - Hành động: Quan sát phản ứng tại vùng hỗ trợ, ưu tiên vị thế nếu thanh khoản phục hồi.
-- Mã: **VHM, PDR**
-  - Động lực (FA): Áp lực chi phí tài chính giảm bớt nhờ động thái hạ lãi suất của hệ thống ngân hàng.
-  - Nhận định dòng tiền: Nhạy cảm với tin tức vĩ mô, dễ có nhịp hồi kỹ thuật ngắn hạn.
-  - Hành động: Chú ý giải ngân từng phần nếu dòng tiền lan tỏa qua nhóm vốn hóa lớn.
-- Mã: **PNJ**
-  - Động lực (FA): Gia đình chủ tịch thoái vốn cá nhân.
-  - Nhận định dòng tiền: Gây áp lực cung ngắn hạn, không ảnh hưởng cốt lõi doanh nghiệp.
-  - Hành động: Quan sát cung cầu, tránh bán hoảng loạn ở vùng hỗ trợ cứng.
+🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+- **Mã:** **OIL, PLX**
+    - **Động lực (FA):** Chính thức bỏ quỹ bình ổn xăng dầu.
+    - **Nhận định dòng tiền:** Hỗ trợ tâm lý tích cực, giúp doanh nghiệp chủ động vốn lưu động. Kỳ vọng dòng tiền thông minh sớm lan tỏa vào nhóm này để hưởng lợi từ cải thiện hiệu quả tài chính.
+    - **Hành động:** Chú ý giải ngân (Canh điểm mua theo kỹ thuật).
+- **Mã:** **PNJ**
+    - **Động lực (FA):** Cổ đông lớn (gia đình bà Cao Thị Ngọc Dung) giảm tỷ lệ sở hữu xuống 7,09% (bán giải chấp/cơ cấu).
+    - **Nhận định dòng tiền:** Áp lực cung treo lơ lửng, tạo tâm lý tiêu cực ngắn hạn, cản trở các nhịp hồi kỹ thuật.
+    - **Hành động:** Rủi ro vi phạm kịch bản, hạn chế bắt đáy cho đến khi lực cung này được hấp thụ hết.
+- **Mã:** **NVL**
+    - **Động lực (FA):** Tiếp tục hoán đổi nợ thành cổ phiếu.
+    - **Nhận định dòng tiền:** Dù giảm áp lực nợ ngắn hạn nhưng pha loãng vốn là rào cản lớn đối với giá trị cổ đông. Dòng tiền sẽ ở trạng thái thận trọng, đi ngang tích lũy.
+    - **Hành động:** Tiếp tục quan sát.
+
+🔄 **3. Cảnh báo Tái cơ cấu:**
+- Hiện tại chưa có dữ liệu mới đột biến về **EIB, BSR** trong đợt quét này. Tiếp tục duy trì trạng thái nắm giữ theo kịch bản "Tái cơ cấu" đã đề ra (theo dõi sát sao biên độ lợi nhuận quý IV/2026 để quyết định chốt lời dứt khoát vào cuối tháng 12/2026).
