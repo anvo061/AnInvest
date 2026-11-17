@@ -1,17 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 18:25
+⏱ Thời gian: 02:50:19 - 2026-11-18
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngân hàng Nhà nước nâng tỷ giá trung tâm lên kỷ lục** -> [Tiêu cực] -> [Nhóm ngành xuất khẩu (VHC, TNG) hưởng lợi ngắn hạn từ chênh lệch tỷ giá; Nhóm doanh nghiệp vay nợ ngoại tệ lớn (POW, VHM) và nhập khẩu nguyên liệu (HPG) chịu áp lực chi phí.]
-- **Xu hướng hạ lãi suất huy động đồng loạt** -> [Tích cực] -> [Dòng tiền dịch chuyển từ tiết kiệm sang nhóm Chứng khoán (SSI, VND) và Ngân hàng thương mại có tỷ lệ CASA cao (TCB, VCB).]
-- **Định hướng chiến lược quốc gia về bán dẫn & Hạ tầng AI (Reuters/Bloomberg)** -> [Tích cực] -> [Nhóm khoáng sản công nghiệp/nguyên vật liệu hạ tầng (MSR) và Bất động sản khu công nghiệp hưởng lợi dài hạn.]
+- **Lợi suất trái phiếu Mỹ kỳ hạn 10 năm vượt mốc 5%:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền chịu áp lực rút ròng mạnh tại nhóm Bất động sản (VHM, PDR) và Chứng khoán (SSI, VND) do chi phí vốn tăng cao và định giá bị nén].
+- **Khối ngoại duy trì bán ròng mạnh trên HOSE:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền tiếp tục bị rút khỏi các mã Bluechips, đặc biệt là nhóm Ngân hàng (VCB) và Bất động sản (VHM), gây suy yếu chỉ số VN-Index].
+- **Cảnh báo hiện tượng El Niño tại Peru đe dọa nguồn cung bột cá:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền ngành Thủy sản (VHC, ANV) đối mặt rủi ro giảm biên lợi nhuận do chi phí đầu vào tăng].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **LPB**
-- Động lực (FA): Giao dịch thỏa thuận đột biến ~2,5% vốn điều lệ.
-- Nhận định dòng tiền: Dòng tiền lớn vào tạo chuyển dịch sở hữu, xác nhận sự thay đổi trong cấu trúc cổ đông hoặc chiến lược doanh nghiệp.
-- Hành động: Chú ý giải ngân nếu bám sát nhịp rung lắc kỹ thuật, theo dõi khối lượng khớp lệnh trong phiên tiếp theo để xác nhận xu hướng dòng tiền.
-- Mã: **HPG**
-- Động lực (FA): Áp lực kép từ tỷ giá tăng (tăng chi phí nhập khẩu) và rào cản thương mại từ EU đối với hàng Trung Quốc (tăng cạnh tranh giá).
-- Nhận định dòng tiền: Áp lực tiêu cực lên biên lợi nhuận, dòng tiền có thể sẽ thận trọng, tránh bắt đáy khi chưa có tín hiệu cân bằng tỷ giá.
-- Hành động: Rủi ro vi phạm kịch bản, cần quan sát vùng hỗ trợ cứng.
+- **Mã:** VHM, VCB, MSN
+  - **Động lực (FA):** Áp lực bán ròng liên tục từ khối ngoại và môi trường lãi suất cao từ Mỹ.
+  - **Nhận định dòng tiền:** Dòng tiền đang rút chạy khỏi các mã vốn hóa lớn (Bluechips); trạng thái kỹ thuật suy yếu mạnh do áp lực bán chủ động.
+  - **Hành động:** Rủi ro vi phạm kịch bản rất cao, ưu tiên quản trị rủi ro, không bắt đáy khi chưa có tín hiệu dừng bán từ khối ngoại.
+- **Mã:** VHC, ANV
+  - **Động lực (FA):** Nguồn cung nguyên liệu bột cá từ Peru bị gián đoạn do El Niño.
+  - **Nhận định dòng tiền:** Áp lực biên lợi nhuận gộp có thể khiến dòng tiền đầu cơ rời bỏ nhóm này trong ngắn hạn.
+  - **Hành động:** Tiếp tục quan sát kịch bản điều chỉnh, thận trọng với vị thế mua mới.
+- **Mã:** STB
+  - **Động lực (FA):** Tỷ lệ nhân sự nghỉ việc cao (1/3 trong 9 tháng) báo hiệu rủi ro vận hành nội bộ.
+  - **Nhận định dòng tiền:** Tâm lý nhà đầu tư bị lung lay trước lo ngại quản trị doanh nghiệp, khả năng xảy ra áp lực bán mạnh.
+  - **Hành động:** Rủi ro vi phạm kịch bản, cần đánh giá lại sự ổn định nội bộ trước khi tiếp tục giữ.
