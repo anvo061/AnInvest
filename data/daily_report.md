@@ -1,21 +1,25 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 03:15
+⏱ Thời gian: 09:43:01 - 17/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- NHNN chưa thực hiện giao dịch mua USD -> Tác động: Tiêu cực -> Dòng tiền sẽ thận trọng với nhóm ngành nhạy cảm tỷ giá (Xuất khẩu/Nhập khẩu) và gây áp lực lên thanh khoản tiền đồng trong hệ thống ngân hàng.
+- EU gia tăng rào cản thương mại đối với hàng hóa Trung Quốc, gây rủi ro dư thừa nguồn cung tràn sang các thị trường khu vực -> **Tiêu cực** -> Áp lực cạnh tranh giá đối với nhóm **Thép (HPG, HSG)**.
+- Dòng vốn ngoại tiếp tục tập trung vào các ngân hàng chiến lược thông qua các thương vụ M&A, rót vốn -> **Tích cực** -> Củng cố năng lực tài chính cho nhóm **Ngân hàng (VCB, VPB)**.
+- Kim ngạch thương mại Việt Nam đạt mốc 1.000 tỷ USD -> **Tích cực** -> Tạo xung lực tăng trưởng cho nhóm **Logistics, Cảng biển (GMD, HAH)**.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: LPB
-- Động lực (FA): Áp lực bán thỏa thuận lớn và thông tin về khoản đầu tư tạm lỗ tại danh mục tài sản.
-- Nhận định dòng tiền: Rủi ro điều chỉnh giá mạnh ngắn hạn do áp lực tâm lý và hành động cơ cấu danh mục của các tổ chức lớn.
-- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, cân nhắc hạ tỷ trọng nếu mất các vùng hỗ trợ kỹ thuật quan trọng.
-
-- Mã: OIL, PLX
-- Động lực (FA): Chủ trương bỏ quỹ bình ổn xăng dầu giúp giảm gánh nặng quản lý tài chính và minh bạch hóa dòng tiền.
-- Nhận định dòng tiền: Tác động tích cực đến tâm lý nhà đầu tư về dài hạn, giúp cải thiện dòng tiền hoạt động của doanh nghiệp đầu mối.
-- Hành động: Tiếp tục quan sát phản ứng tại vùng hỗ trợ, chú ý giải ngân nếu dòng tiền xác nhận vượt cản.
-
-- Mã: MBB
-- Động lực (FA): Huy động vốn qua chứng chỉ tiền gửi lãi suất cao hiệu quả, cải thiện thanh khoản và biên lãi ròng (NIM).
-- Nhận định dòng tiền: Tích cực, tạo lợi thế cạnh tranh về chi phí vốn (COF) so với các ngân hàng cùng quy mô.
-- Hành động: Tiếp tục quan sát.
+- **Mã: HPG, HSG**
+  - Động lực (FA): EU áp rào cản thương mại lên hàng giá rẻ Trung Quốc, rủi ro thép giá rẻ tràn vào nội địa.
+  - Nhận định dòng tiền: Ngắn hạn có thể chịu áp lực điều chỉnh do tâm lý lo ngại biên lợi nhuận bị bào mòn bởi cạnh tranh.
+  - Hành động: Chú ý quan sát phản ứng tại các vùng hỗ trợ cứng, tránh bắt dao rơi.
+- **Mã: VCB, VPB**
+  - Động lực (FA): Các định chế ngoại (Mizuho, SMBC) khẳng định cam kết rót vốn, củng cố hệ số CAR.
+  - Nhận định dòng tiền: Hỗ trợ xu hướng tăng bền vững, tạo điểm tựa dẫn dắt chỉ số VN-Index.
+  - Hành động: Tiếp tục nắm giữ, ưu tiên gia tăng tỷ trọng khi có nhịp rung lắc.
+- **Mã: GMD, HAH**
+  - Động lực (FA): Hưởng lợi trực tiếp từ tăng trưởng kim ngạch xuất nhập khẩu 1.000 tỷ USD.
+  - Nhận định dòng tiền: Dòng tiền kỳ vọng vào nhóm hưởng lợi từ thương mại sẽ gia tăng.
+  - Hành động: Chú ý giải ngân nếu có tín hiệu bứt phá khỏi nền tích lũy.
+- **Mã: VHM**
+  - Động lực (FA): Tin vui dự án mới cải thiện kỳ vọng doanh thu.
+  - Nhận định dòng tiền: Hỗ trợ cân bằng tâm lý trước áp lực tiêu cực từ thị trường tài chính quốc tế.
+  - Hành động: Quan sát nhịp hồi phục để cơ cấu lại vị thế.
