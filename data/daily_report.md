@@ -1,21 +1,20 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 02:50:19 - 2026-11-18
+⏱ Thời gian: 09:15 ngày 18/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Lợi suất trái phiếu Mỹ kỳ hạn 10 năm vượt mốc 5%:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền chịu áp lực rút ròng mạnh tại nhóm Bất động sản (VHM, PDR) và Chứng khoán (SSI, VND) do chi phí vốn tăng cao và định giá bị nén].
-- **Khối ngoại duy trì bán ròng mạnh trên HOSE:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền tiếp tục bị rút khỏi các mã Bluechips, đặc biệt là nhóm Ngân hàng (VCB) và Bất động sản (VHM), gây suy yếu chỉ số VN-Index].
-- **Cảnh báo hiện tượng El Niño tại Peru đe dọa nguồn cung bột cá:** -> [Đánh giá: Tiêu cực] -> [Dòng tiền ngành Thủy sản (VHC, ANV) đối mặt rủi ro giảm biên lợi nhuận do chi phí đầu vào tăng].
+- Lợi suất trái phiếu Mỹ neo trên 5% và chi phí vốn ngân hàng nội địa tăng cao -> [Tác động: Tiêu cực] -> [Dòng tiền sẽ rút khỏi các nhóm thâm dụng vốn (BĐS, Chứng khoán) và ưu tiên nhóm phòng thủ/tiền mặt cao].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** VHM, VCB, MSN
-  - **Động lực (FA):** Áp lực bán ròng liên tục từ khối ngoại và môi trường lãi suất cao từ Mỹ.
-  - **Nhận định dòng tiền:** Dòng tiền đang rút chạy khỏi các mã vốn hóa lớn (Bluechips); trạng thái kỹ thuật suy yếu mạnh do áp lực bán chủ động.
-  - **Hành động:** Rủi ro vi phạm kịch bản rất cao, ưu tiên quản trị rủi ro, không bắt đáy khi chưa có tín hiệu dừng bán từ khối ngoại.
-- **Mã:** VHC, ANV
-  - **Động lực (FA):** Nguồn cung nguyên liệu bột cá từ Peru bị gián đoạn do El Niño.
-  - **Nhận định dòng tiền:** Áp lực biên lợi nhuận gộp có thể khiến dòng tiền đầu cơ rời bỏ nhóm này trong ngắn hạn.
-  - **Hành động:** Tiếp tục quan sát kịch bản điều chỉnh, thận trọng với vị thế mua mới.
-- **Mã:** STB
-  - **Động lực (FA):** Tỷ lệ nhân sự nghỉ việc cao (1/3 trong 9 tháng) báo hiệu rủi ro vận hành nội bộ.
-  - **Nhận định dòng tiền:** Tâm lý nhà đầu tư bị lung lay trước lo ngại quản trị doanh nghiệp, khả năng xảy ra áp lực bán mạnh.
-  - **Hành động:** Rủi ro vi phạm kịch bản, cần đánh giá lại sự ổn định nội bộ trước khi tiếp tục giữ.
+- Mã: **KBC**
+- Động lực (FA): Hải Phòng còn hơn 16 triệu m² mặt bằng chưa giải phóng, ảnh hưởng trực tiếp tiến độ dự án.
+- Nhận định dòng tiền: Rủi ro kẹt thanh khoản ngắn hạn, áp lực cung gia tăng do chậm trễ tiến độ ghi nhận doanh thu.
+- Hành động: **Rủi ro vi phạm kịch bản**. Theo dõi chặt hỗ trợ kỹ thuật gần nhất, ưu tiên giảm tỷ trọng nếu vi phạm vùng nền.
+
+- Mã: **BSR**
+- Động lực (FA): Giá dầu thế giới tăng, kỳ vọng cải thiện biên lợi nhuận lọc dầu và giá trị hàng tồn kho.
+- Nhận định dòng tiền: Hưởng lợi từ sự phân hóa dòng tiền, nhóm năng lượng thu hút sự chú ý khi các nhóm ngành khác chịu áp lực vĩ mô.
+- Hành động: **Tiếp tục quan sát**. Đánh giá phản ứng tại các vùng kháng cự ngắn hạn.
+
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- **BSR**: Dữ liệu giá dầu thế giới tăng ủng hộ luận điểm giữ vị thế. Tuy nhiên, cần đối chiếu với biên lợi nhuận thực tế trong báo cáo quý gần nhất để quyết định chốt lời một phần nếu đạt mục tiêu kỳ vọng.
+- **EIB**: Chưa có thông tin mới. Tiếp tục nắm giữ theo kế hoạch cơ cấu dài hạn.
