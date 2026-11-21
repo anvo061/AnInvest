@@ -1,21 +1,28 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 04:05 (21/11/2026)
+⏱ Thời gian: 09:08 ngày 21/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- Làn sóng bán tháo trên thị trường toàn cầu đang kích hoạt áp lực rút vốn mạnh từ các quỹ ETF ngoại tại Việt Nam -> [Đánh giá: Tiêu cực] -> [Dòng tiền ngắn hạn sẽ suy yếu tại nhóm Blue-chips và các mã vốn hóa lớn (VCB, HPG, VHM)].
-- Kim ngạch xuất khẩu rau quả 11 tháng xác lập kỷ lục mới -> [Đánh giá: Tích cực] -> [Dòng tiền hướng vào nhóm Nông nghiệp & Logistics xuất khẩu].
-- Quy định siết hạn ngạch phát thải CO2 (phạt tới 400 triệu đồng) -> [Đánh giá: Tiêu cực] -> [Áp lực biên lợi nhuận lên nhóm ngành công nghiệp nặng như Thép và Xi măng].
+- **Cạnh tranh xuất khẩu gia tăng & Giá nhiên liệu leo thang:** Áp lực từ hàng hóa giá rẻ Trung Quốc và chi phí vận tải tăng cao -> [Tác động: Tiêu cực] -> [Dòng tiền phòng thủ, nhóm hưởng lợi từ giá dầu (Thượng nguồn)].
+- **Hợp tác năng lượng Việt - Nga:** Tăng cường dự án thăm dò, khai thác -> [Tác động: Tích cực] -> [Dòng tiền hướng vào nhóm ngành Dầu khí].
+- **Áp lực bán tháo toàn cầu:** Khối ngoại đẩy mạnh rút vốn -> [Tác động: Tiêu cực] -> [Nhóm vốn hóa lớn (Bluechips) chịu áp lực giảm].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: HAG
-  - Động lực (FA): Hưởng lợi trực tiếp từ đà tăng trưởng xuất khẩu rau quả (chuối, sầu riêng) 11 tháng.
-  - Nhận định dòng tiền: Kháng cự tốt trước áp lực bán tháo chung của thị trường nhờ câu chuyện tăng trưởng xuất khẩu cụ thể.
-  - Hành động: Chú ý giải ngân nếu có nhịp rung lắc theo chỉ số chung.
-- Mã: HPG
-  - Động lực (FA): Chịu kép áp lực từ bán ròng khối ngoại và chi phí tuân thủ môi trường (CO2) gia tăng.
-  - Nhận định dòng tiền: Cung ngắn hạn sẽ rất mạnh, rủi ro vi phạm kịch bản tích lũy.
-  - Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, chưa mở vị thế mới.
-- Mã: VHM
-  - Động lực (FA): Tin tháo gỡ thủ tục PCCC (tích cực) xung đột với áp lực thoái vốn từ quỹ ngoại (tiêu cực).
-  - Nhận định dòng tiền: Biến động mạnh, cung cầu đối đầu quyết liệt.
-  - Hành động: Tiếp tục quan sát, đợi tín hiệu cân bằng của khối ngoại.
+- Mã: **PVD**
+- Động lực (FA): Hợp tác năng lượng Việt - Nga (tăng nhu cầu khoan) & Giá dầu duy trì mức cao (tăng biên lợi nhuận dịch vụ).
+- Nhận định dòng tiền: Trạng thái tích cực nhờ cộng hưởng tin tức hỗ trợ, kỳ vọng thu hút dòng tiền đầu cơ ngành năng lượng.
+- Hành động: Chú ý giải ngân (theo dõi vùng nền giá tích lũy ngắn hạn).
+
+- Mã: **HPG**
+- Động lực (FA): Áp lực cạnh tranh thép giá rẻ Trung Quốc & áp lực bán ròng từ khối ngoại trong làn sóng bán tháo toàn cầu.
+- Nhận định dòng tiền: Chịu áp lực bán kép, xu hướng ngắn hạn suy yếu.
+- Hành động: Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, không bắt đáy.
+
+- Mã: **FPT**
+- Động lực (FA): Sự sụt giảm vốn hóa mạnh từ đầu năm gây áp lực bán kỹ thuật và giải chấp.
+- Nhận định dòng tiền: Tâm lý nhà đầu tư tiêu cực, thanh khoản có thể bị ảnh hưởng bởi việc cơ cấu danh mục của các quỹ.
+- Hành động: Tiếp tục quan sát (chờ tín hiệu cân bằng tại vùng hỗ trợ cứng, tránh hành động vội vàng).
+
+- Mã: **GMD, HAH**
+- Động lực (FA): Giá xăng dầu tăng cao làm tăng chi phí vận hành (đội tàu/xe).
+- Nhận định dòng tiền: Biên lợi nhuận kỳ vọng bị thu hẹp, áp lực điều chỉnh giá ngắn hạn.
+- Hành động: Tiếp tục quan sát (xem xét phản ứng của dòng tiền tại các ngưỡng hỗ trợ kỹ thuật).
