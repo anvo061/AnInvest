@@ -1,16 +1,16 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 23:55, 22/11/2026
+⏱ Thời gian: 05:22
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- IMF cảnh báo xu hướng thắt chặt tiền tệ toàn cầu -> Tác động tiêu cực -> Dòng tiền có xu hướng co cụm, rút khỏi các nhóm nhạy cảm với chi phí vốn như Bất động sản (VHM) và nhóm chứng khoán môi giới (SSI) do áp lực thanh khoản.
+- Quốc hội thông qua Luật Đất đai sửa đổi -> Tích cực (Tác động trọng yếu) -> Dòng tiền sẽ tập trung mạnh vào nhóm ngành Bất động sản dân cư (VHM, KDH, NLG).
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- Mã: **VHM**
-- Động lực (FA): Áp lực từ chi phí vốn vay tăng cao (theo cảnh báo vĩ mô IMF).
-- Nhận định dòng tiền: Rủi ro áp lực bán gia tăng khi chi phí tài chính trở thành gánh nặng biên lợi nhuận trong môi trường thắt chặt tiền tệ.
-- Hành động: Rủi ro vi phạm kịch bản, cần thắt chặt quản trị danh mục, theo dõi vùng hỗ trợ cứng.
+- Mã: VHM, KDH, NLG
+- Động lực (FA): Luật Đất đai sửa đổi được thông qua, chính thức tháo gỡ các nút thắt pháp lý tồn đọng lâu năm cho các dự án trọng điểm.
+- Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ và khối ngoại sẽ quay lại nhóm BĐS có quỹ đất sạch và pháp lý rõ ràng ngay từ phiên giao dịch sáng nay.
+- Hành động: Theo dõi sát lực cầu quanh các vùng hỗ trợ cứng; ưu tiên vị thế nắm giữ đối với nhóm có quỹ đất lớn.
 
-- Mã: **SSI**
-- Động lực (FA): Lãi suất điều hành có xu hướng tăng gây áp lực trực tiếp lên biên lợi nhuận margin và thanh khoản thị trường.
-- Nhận định dòng tiền: Dòng tiền có thể luân chuyển khỏi nhóm chứng khoán sang các mã vốn hóa lớn (Bluechips) có định giá P/E hấp dẫn và tăng trưởng lợi nhuận bền vững.
-- Hành động: Chú ý rủi ro giảm tỷ trọng khi thanh khoản thị trường chung có dấu hiệu hụt hơi.
+- Mã: TCB
+- Động lực (FA): Huy động 7.500 tỉ đồng trái phiếu lãi suất 9%.
+- Nhận định dòng tiền: Tác động trung lập/hơi tiêu cực trong ngắn hạn do áp lực chi phí vốn (NIM). Cần quan sát xem dòng tiền có phản ứng thận trọng trước khi luân chuyển sang nhóm cổ phiếu ngân hàng khác hay không.
+- Hành động: Tiếp tục quan sát, chưa vội giải ngân mới cho đến khi có phản ứng giá rõ ràng tại ngưỡng hỗ trợ.
