@@ -1,25 +1,26 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 05:00 - 22/11/2026
+⏱ Thời gian: 09:00 - 22/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Luật đất đai sửa đổi (đẩy nhanh giải phóng mặt bằng):** Tác động **Tích cực**. Dòng tiền sẽ dịch chuyển mạnh vào nhóm **Bất động sản (BĐS)** nhờ kỳ vọng rút ngắn chu kỳ dự án.
-- **Áp lực tỷ giá (USD mạnh):** Tác động **Tiêu cực**. Tạo áp lực lên nhóm ngành có nợ vay ngoại tệ lớn và chi phí nhập khẩu cao như **Năng lượng/Tiện ích**.
-- **Cảnh báo phòng vệ thương mại với nhóm xuất siêu:** Tác động **Tiêu cực**. Cần thận trọng với các mã xuất khẩu chủ lực do rủi ro tăng chi phí tuân thủ và thuế quan.
+- **Tác động kép Tỷ giá & BĐS:** Đồng USD mạnh (áp lực từ lãi suất Indonesia và giá vàng giảm) gây sức ép lên tỷ giá trong nước, trong khi Luật Giải phóng mặt bằng sửa đổi được thông qua là điểm tựa pháp lý quan trọng cho ngành BĐS. -> **Đánh giá:** Trung lập đến tích cực chọn lọc. Dòng tiền sẽ phân hóa mạnh giữa nhóm BĐS có quỹ đất sạch (hưởng lợi từ pháp lý) và nhóm nhạy cảm với nợ ngoại tệ/tỷ giá.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: VHM, PDR, NLG**
-    - Động lực (FA): Luật sửa đổi giúp đẩy nhanh tiến độ dự án, tháo gỡ nút thắt pháp lý tồn đọng.
-    - Nhận định dòng tiền: Kỳ vọng dòng tiền đầu cơ sẽ quay lại nhóm BĐS để đón sóng thông tin. 
-    - Hành động: **Chú ý giải ngân** nếu có sự xác nhận của khối lượng giao dịch trong phiên.
-- **Mã: POW, GAS**
-    - Động lực (FA): Đồng USD mạnh làm tăng chi phí đầu vào và nợ vay ngoại tệ.
-    - Nhận định dòng tiền: Áp lực bán tiềm ẩn do chi phí tài chính gia tăng.
-    - Hành động: **Tiếp tục quan sát**, ưu tiên quản trị rủi ro, tránh bắt đáy khi tỷ giá chưa hạ nhiệt.
-- **Mã: VHC, TNG, ANV**
-    - Động lực (FA): Chính phủ cảnh báo rủi ro phòng vệ thương mại đối với nhóm xuất siêu lớn.
-    - Nhận định dòng tiền: Tiềm ẩn rủi ro áp lực bán từ nhà đầu tư tổ chức lo ngại rủi ro chính sách.
-    - Hành động: **Rủi ro vi phạm kịch bản**, cân nhắc giảm tỷ trọng nếu dòng tiền yếu.
-- **Mã: NVL**
-    - Động lực (FA): Chuyển đổi trái phiếu quốc tế thành cổ phiếu giúp cải thiện cấu trúc tài chính và giảm áp lực nợ.
-    - Nhận định dòng tiền: Thông tin tích cực cho dài hạn, giảm rủi ro thanh khoản.
-    - Hành động: **Chú ý giải ngân** theo hướng tích lũy dài hạn.
+- **Mã: GMD**
+    - Động lực (FA): Hưởng lợi kép từ việc thành lập Khu kinh tế đặc biệt Vân Phong và chi phí nhiên liệu vận tải giảm.
+    - Nhận định dòng tiền: Tin tức mang tính hỗ trợ nền tảng dài hạn, tạo kỳ vọng cho xu hướng tăng trưởng bền vững của cổ phiếu cảng biển.
+    - Hành động: **Chú ý giải ngân** nếu có nhịp rung lắc theo chỉ số chung.
+- **Mã: VHM**
+    - Động lực (FA): Luật giải phóng mặt bằng sửa đổi giúp tháo gỡ nút thắt đại dự án, nhưng chịu áp lực bán ròng kỷ lục từ khối ngoại.
+    - Nhận định dòng tiền: Dòng tiền nội khó cân lại áp lực bán ròng ngoại trong ngắn hạn.
+    - Hành động: **Tiếp tục quan sát**, ưu tiên điểm cân bằng kỹ thuật sau khi hấp thụ hết lực bán khối ngoại.
+- **Mã: CTG**
+    - Động lực (FA): Thoái vốn VietinBank Tower thành công, cải thiện bảng cân đối.
+    - Nhận định dòng tiền: Tin tốt mang tính chất "dọn dẹp" tài sản, củng cố sức khỏe tài chính, có thể thu hút dòng tiền đầu tư giá trị.
+    - Hành động: **Chú ý giải ngân** khi thị trường ổn định.
+- **Mã: LPB**
+    - Động lực (FA): Phát hành thêm 803 triệu cổ phiếu giá 10.000 đồng (pha loãng mạnh).
+    - Nhận định dòng tiền: Tạo áp lực tâm lý tiêu cực và cung hàng tiềm năng lớn lên thị giá trong ngắn hạn.
+    - Hành động: **Rủi ro vi phạm kịch bản**, tránh bắt đáy trong giai đoạn hấp thụ lượng cung phát hành.
+
+🔄 3. Cảnh báo Tái cơ cấu (EIB, BSR):
+- Chưa có dữ liệu tin tức mới phát sinh trong 15 phút qua liên quan trực tiếp đến nhóm này. Duy trì chiến lược theo dõi theo kế hoạch đã thiết lập.
