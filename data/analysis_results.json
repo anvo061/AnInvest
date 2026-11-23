@@ -1,5 +1,86 @@
 ﻿[
   {
+    "Title": "Khối ngoại bán ròng kỷ lục 127.000 tỷ đồng, chuyên gia dự báo về thời điểm đảo chiều - CafeF",
+    "Source": "CafeF qua Google News",
+    "Link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN205a2hSTzhhVnZEWUZrdEdjRk1aQUVOOE9YbFk5UU9JMGJJOGYydVRsUERuVGt2TG9sMWpZYlctazd2U1NPRkR3eFFMY1dKbC1sYkhXYzlmRzlSUUZwSklkMm9aeUo3RF85QmxidTMtRjR0MVVGS2tXa1lNazAwTHZwOUhBZWZVYWVyQ2s0c3ZTTWxMcFhyYWNyLXVTelJHbVlaenNaNU50TDVhb0hHbTZEZGp1WkVES0N3MkhQOA?oc=5",
+    "PubDate": "Sun, 22 Nov 2026 17:03:00 GMT",
+    "Sentiment": "Tiêu cực",
+    "ImpactScore": -7,
+    "MarketImpact": "Áp lực bán ròng kỷ lục từ khối ngoại gây tâm lý tiêu cực lên các mã vốn hóa lớn (Bluechips), làm suy yếu thanh khoản và tạo áp lực điều chỉnh lên chỉ số chung.",
+    "TapeReaderNote": "Tín hiệu: Tiêu cực - Nhóm VN30. Áp lực bán ròng kỷ lục gây tâm lý yếu, dòng tiền nội chưa đủ sức cân bằng. Cần thận trọng với các mã Bluechips bị khối ngoại xả mạnh như VHM, VNM, HPG.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "VHM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên là mục tiêu bán ròng mạnh của khối ngoại, gây áp lực giảm giá cổ phiếu."
+      },
+      {
+        "Ticker": "VNM",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Cổ phiếu ưa thích của khối ngoại, chịu áp lực bán ròng liên tục làm suy yếu xu hướng giá."
+      },
+      {
+        "Ticker": "HPG",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Vốn hóa lớn, chịu ảnh hưởng trực tiếp từ dòng vốn ngoại rút ròng khỏi thị trường."
+      },
+      {
+        "Ticker": "VCB",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Trụ cột chỉ số, áp lực bán từ khối ngoại gây khó khăn cho việc giữ nhịp thị trường."
+      },
+      {
+        "Ticker": "MSN",
+        "ImpactType": "Tiêu cực",
+        "Reasoning": "Thường xuyên nằm trong danh mục bán ròng của khối ngoại, gây áp lực lên giá cổ phiếu."
+      }
+    ],
+    "AnalyzedAt": "2026-11-24 06:06:51"
+  },
+  {
+    "Title": "Nhà bán hàng cồng kềnh tăng tốc trên thương mại điện tử dịp cuối năm",
+    "Source": "Tuổi Trẻ Kinh Doanh",
+    "Link": "https://tuoitre.vn/nha-ban-hang-cong-kenh-tang-toc-tren-thuong-mai-dien-tu-dip-cuoi-nam-100261123195900736.htm",
+    "PubDate": "11/23/2026 8:15:00 PM",
+    "Sentiment": "Tích cực",
+    "ImpactScore": 5,
+    "MarketImpact": "Sự bùng nổ của thương mại điện tử đối với hàng hóa cồng kềnh thúc đẩy nhu cầu dịch vụ logistics, kho bãi và vận chuyển nội địa, tạo động lực tăng trưởng doanh thu cho nhóm ngành vận tải và bán lẻ.",
+    "TapeReaderNote": "Tín hiệu: Tích cực - Nhóm Logistics và Bán lẻ. Nhu cầu vận chuyển hàng cồng kềnh tăng cao dịp cuối năm thúc đẩy doanh thu GMD, HAH và MWG. Dòng tiền thông minh sẽ tập trung vào nhóm hạ tầng logistics.",
+    "Relevance": "Cao",
+    "AffectedTickers": [
+      {
+        "Ticker": "GMD",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi từ nhu cầu khai thác cảng và dịch vụ logistics phục vụ thương mại điện tử tăng cao."
+      },
+      {
+        "Ticker": "HAH",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Nhu cầu vận tải nội địa tăng mạnh giúp tối ưu hóa công suất đội tàu và giá cước vận chuyển."
+      },
+      {
+        "Ticker": "MWG",
+        "ImpactType": "Tích cực",
+        "Reasoning": "Hưởng lợi trực tiếp từ doanh số bán hàng cồng kềnh (điện máy, nội thất) qua kênh online dịp cuối năm."
+      }
+    ],
+    "AnalyzedAt": "2026-11-24 05:58:26"
+  },
+  {
+    "Title": "SCB có Chủ tịch Hội đồng quản trị mới",
+    "Source": "VietnamNet Kinh Doanh",
+    "Link": "https://vietnamnet.vn/scb-co-chu-tich-hoi-dong-quan-tri-moi-2578018.html",
+    "PubDate": "Tue, 24 Nov 2026 00:42:45 +0700",
+    "Sentiment": "Trung lập",
+    "ImpactScore": 0,
+    "MarketImpact": "SCB là ngân hàng chưa niêm yết và đang trong quá trình kiểm soát đặc biệt. Việc thay đổi nhân sự cấp cao là hoạt động quản trị nội bộ, không tác động trực tiếp đến các mã cổ phiếu trên sàn chứng khoán.",
+    "TapeReaderNote": "Tín hiệu: Trung lập - Không ảnh hưởng. Đây là hoạt động quản trị nội bộ tại ngân hàng chưa niêm yết. Không có tác động đến dòng tiền của các mã cổ phiếu trên sàn HOSE/HNX.",
+    "Relevance": "Thấp",
+    "AffectedTickers": [],
+    "AnalyzedAt": "2026-11-24 05:57:40"
+  },
+  {
     "Title": "Vietnam Picks French-Korean Group for High-Speed Rail Deal - Bloomberg.com",
     "Source": "Reuters/Bloomberg Vĩ mô",
     "Link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUUyb19xNjRiRHhNRW1TMHg1VXJmWTlCV205WmJIQ1hfR0hzSy0tYjBYaFNMSTJ5RDZWUUxacWZndWtrbnpUeHduanF5SW5fZWdPa0lVT2JGTXd6ajJJRFpvcnRjc0FaM3drSWliZGRQSFlxMlpOWjNPdTBrZkF0Y3d0MWgySERKX0Q1ak93SnAwbFBqY29nZ3hmVXE3cTJ2MXVnUUJjcTBERF9aLXVtZ0NZaTU?oc=5",
@@ -18117,66 +18198,5 @@
     "Relevance": "Thấp",
     "AffectedTickers": [],
     "AnalyzedAt": "2026-10-31 23:07:09"
-  },
-  {
-    "Title": "Giá vàng trong nước đã giảm 53 triệu đồng/lượng từ mức đỉnh của năm nay",
-    "Source": "Tuổi Trẻ Kinh Doanh",
-    "Link": "https://tuoitre.vn/gia-vang-trong-nuoc-da-giam-53-trieu-dong-luong-tu-muc-dinh-cua-nam-nay-10026103118450759.htm",
-    "PubDate": "10/31/2026 7:25:00 PM",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 0,
-    "MarketImpact": "Giá vàng giảm mạnh phản ánh sự hạ nhiệt của nhu cầu đầu cơ và ổn định tỷ giá, tuy nhiên không tác động trực tiếp đến biên lợi nhuận hay hoạt động kinh doanh của các doanh nghiệp niêm yết trên sàn chứng khoán.",
-    "TapeReaderNote": "Tín hiệu: Trung lập - Nhóm Vàng. Giá vàng giảm là biến động hàng hóa đơn thuần, không ảnh hưởng đến dòng tiền doanh nghiệp niêm yết. Không có tác động đến xu hướng thị trường chứng khoán.",
-    "Relevance": "Thấp",
-    "AffectedTickers": [],
-    "AnalyzedAt": "2026-10-31 23:06:58"
-  },
-  {
-    "Title": "Giá điện giảm về 2.159 đồng/kWh từ ngày mai 1/11",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/gia-dien-giam-hon-44-dong-kwh-tu-ngay-mai-1-11-2570253.html",
-    "PubDate": "Sat, 31 Oct 2026 21:29:36 +0700",
-    "Sentiment": "Trung lập",
-    "ImpactScore": 2,
-    "MarketImpact": "Việc giảm giá điện giúp cắt giảm chi phí đầu vào cho các doanh nghiệp sản xuất, đặc biệt là nhóm tiêu thụ năng lượng lớn, từ đó cải thiện biên lợi nhuận gộp.",
-    "TapeReaderNote": "Tín hiệu: Trung lập. Giá điện giảm tác động biên lợi nhuận sản xuất nhưng không đáng kể so với chi phí nguyên liệu. Cần theo dõi sát biên lợi nhuận thực tế thay vì kỳ vọng quá mức.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "POW",
-        "ImpactType": "Tiêu cực",
-        "Reasoning": "Giá bán điện giảm gây áp lực lên doanh thu và biên lợi nhuận của các đơn vị phát điện."
-      }
-    ],
-    "AnalyzedAt": "2026-10-31 23:06:05"
-  },
-  {
-    "Title": "Chính phủ hạ thuế tiêu thụ đặc biệt với xăng về 0 đến hết ngày 31/3/2027",
-    "Source": "VietnamNet Kinh Doanh",
-    "Link": "https://vietnamnet.vn/chinh-phu-ha-thue-tieu-thu-dac-biet-voi-xang-ve-0-den-het-ngay-31-3-2027-2570313.html",
-    "PubDate": "Sat, 31 Oct 2026 22:46:03 +0700",
-    "Sentiment": "Tích cực",
-    "ImpactScore": 7,
-    "MarketImpact": "Việc giảm thuế tiêu thụ đặc biệt giúp giảm giá bán lẻ xăng dầu, trực tiếp giảm chi phí đầu vào cho các ngành vận tải, logistics và sản xuất, đồng thời kích cầu tiêu dùng nội địa.",
-    "TapeReaderNote": "Tín hiệu: Tích cực. Giảm thuế TTĐB trực tiếp hạ giá vốn ngành vận tải. Ưu tiên nhóm Logistics có đội xe/tàu lớn như HAH, GMD. PLX chịu áp lực biên lợi nhuận bán lẻ.",
-    "Relevance": "Cao",
-    "AffectedTickers": [
-      {
-        "Ticker": "GMD",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Giảm chi phí vận hành đội tàu và xe vận tải, cải thiện biên lợi nhuận gộp."
-      },
-      {
-        "Ticker": "HAH",
-        "ImpactType": "Tích cực",
-        "Reasoning": "Chi phí nhiên liệu chiếm tỷ trọng lớn trong giá vốn, việc giảm thuế giúp tăng trực tiếp lợi nhuận."
-      },
-      {
-        "Ticker": "PLX",
-        "ImpactType": "Trung lập",
-        "Reasoning": "Hưởng lợi từ sản lượng tiêu thụ tăng do giá giảm, nhưng biên lợi nhuận bán lẻ xăng dầu bị kiểm soát chặt."
-      }
-    ],
-    "AnalyzedAt": "2026-10-31 23:05:50"
   }
 ]

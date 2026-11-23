@@ -1,21 +1,21 @@
-﻿🚨 **FLASH NOTE - CẬP NHẬT 15 PHÚT**
-⏱ **Thời gian:** 18:25 - 23/11/2026
+﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
+⏱ Thời gian: 06:15 - 24/11/2026
 
-⚡ **1. Xung lực Vĩ mô & Ngành:**
-- **Dự án Đường sắt tốc độ cao chính thức chọn đối tác liên danh Pháp - Hàn:** Đây là "cú hích" hạ tầng chiến lược quốc gia, xác nhận chu kỳ giải ngân vốn công quy mô lớn -> **Tích cực** -> Dòng tiền sẽ hướng mạnh vào nhóm **Xây dựng hạ tầng (VCG, HHV, LCG)** và **Vật liệu xây dựng (HPG, KSB)**.
-- **Khởi công 4 bến cảng Lạch Huyện và nhà máy đất hiếm:** Động lực tăng trưởng trực tiếp cho hạ tầng logistics và tài nguyên chiến lược -> **Tích cực** -> Dòng tiền tập trung vào **GMD**.
-- **Novaland (NVL) điều chỉnh giảm 171.000 tỷ doanh thu dự báo & thoái vốn con:** Áp lực tài chính cực đại, rủi ro mất thanh khoản gia tăng -> **Tiêu cực** -> Tạo lực cản tâm lý lên toàn bộ nhóm ngành Bất động sản dân cư.
+⚡ 1. Xung lực Vĩ mô & Ngành:
+- **Dự án đường sắt tốc độ cao (hợp tác quốc tế) & Khởi công hạ tầng cảng Lạch Huyện:** -> [Tích cực] -> Dòng tiền sẽ tập trung vào nhóm Xây dựng hạ tầng (VCG, LCG), Vật liệu xây dựng (HPG, KSB) và Logistics/Cảng biển (GMD, HAH).
+- **Áp lực bán ròng kỷ lục từ khối ngoại (127.000 tỷ):** -> [Tiêu cực] -> Tạo áp lực điều chỉnh lên các mã trụ (VHM, VNM, VCB, HPG), gây nhiễu dòng tiền ngắn hạn tại các mã Bluechips này dù nền tảng cơ bản có thể tốt.
+- **Sức mua tiêu dùng dịp cuối năm & Tết:** -> [Tích cực] -> Hướng dòng tiền vào nhóm Bán lẻ (MWG), Tiêu dùng thực phẩm (MSN) và Vận tải nội địa (HAH).
 
-🎯 **2. Hợp lưu Tín hiệu Cổ phiếu:**
+🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
+- **Mã: GMD**
+    - Động lực (FA): Hưởng lợi kép từ khởi công cảng Lạch Huyện và nhu cầu logistics thương mại điện tử dịp cuối năm.
+    - Nhận định dòng tiền: Kỳ vọng dòng tiền thông minh tìm đến nhóm hạ tầng cảng biển để đón đầu chu kỳ đầu tư công.
+    - Hành động: **Chú ý giải ngân** nếu có nhịp điều chỉnh theo thị trường chung.
 - **Mã: NVL**
-    - **Động lực (FA):** Điều chỉnh giảm mạnh doanh thu dự báo, khó khăn trong huy động vốn và kế hoạch thoái vốn công ty con.
-    - **Nhận định dòng tiền:** Áp lực bán tháo kỹ thuật sẽ gia tăng mạnh do vi phạm các ngưỡng an toàn tài chính.
-    - **Hành động:** Rủi ro vi phạm kịch bản rất cao, ưu tiên quản trị rủi ro, tuyệt đối tránh bắt đáy.
-- **Mã: PNJ**
-    - **Động lực (FA):** Cổ phiếu chạm sàn, mất vùng hỗ trợ kỹ thuật quan trọng.
-    - **Nhận định dòng tiền:** Hiện tượng bán tháo tâm lý lan tỏa từ nhóm vốn hóa lớn có thể gây áp lực chốt lời ngắn hạn lên các mã bán lẻ khác.
-    - **Hành động:** Rủi ro vi phạm kịch bản, dừng giải ngân mới, quan sát phản ứng tại ngưỡng hỗ trợ kế tiếp.
-- **Mã: VCG, HHV, HPG, KSB, LCG, GMD**
-    - **Động lực (FA):** Các dự án hạ tầng trọng điểm (Đường sắt tốc độ cao, cảng Lạch Huyện) chính thức được kích hoạt.
-    - **Nhận định dòng tiền:** Dòng tiền đầu cơ có thể luân chuyển mạnh sang nhóm này trong các phiên tới nhờ kỳ vọng tăng trưởng dài hạn.
-    - **Hành động:** Chú ý giải ngân khi có nhịp rung lắc kỹ thuật trong phiên (backtest hỗ trợ).
+    - Động lực (FA): Điều chỉnh giảm mạnh 171.000 tỷ doanh thu dự báo và khó khăn huy động vốn.
+    - Nhận định dòng tiền: Rủi ro bán tháo rất cao do tâm lý tiêu cực bao trùm.
+    - Hành động: **Rủi ro vi phạm kịch bản**; khuyến nghị thoát vị thế hoặc đứng ngoài quan sát, tuyệt đối không bắt đáy.
+- **Mã: HPG**
+    - Động lực (FA): Đối nghịch giữa nhu cầu thép cho hạ tầng (Tích cực) và áp lực bị khối ngoại bán ròng (Tiêu cực).
+    - Nhận định dòng tiền: Dòng tiền bị phân hóa, sẽ đi ngang trong biên độ rộng để hấp thụ cung ngoại.
+    - Hành động: **Tiếp tục quan sát** phản ứng tại các vùng hỗ trợ cứng.
