@@ -1,24 +1,19 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:25
+⏱ Thời gian: 03:55 - 26/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Ngành Thép:** Giá thép tại Mỹ tăng mạnh tạo cú hích xuất khẩu cho doanh nghiệp Việt -> **Tích cực** -> Dòng tiền hướng vào nhóm Thép (NKG, HSG).
-- **Ngành Cảng biển & Logistics:** TP.HCM đẩy mạnh chiến lược trở thành trung tâm trung chuyển quốc tế -> **Tích cực** -> Dòng tiền hướng vào nhóm Cảng biển (GMD, HAH, VSC).
-- **Áp lực ngoại biên:** Thuế quan mới từ Mỹ và xu hướng bán ròng từ khối ngoại gây áp lực lên các mã xuất khẩu thâm dụng sang Mỹ (VHC, TNG) và nhóm vốn hóa lớn (Bluechips) -> **Tiêu cực**.
-- **Ngành Ngân hàng:** Động thái huy động vốn ngoại quy mô lớn giúp củng cố thanh khoản toàn hệ thống -> **Tích cực**.
+- Mỹ đề xuất áp thuế bổ sung nhưng có tín hiệu đàm phán giảm mức thuế đối với hàng hóa Việt Nam -> **Trung lập (phân cực)** -> Dòng tiền sẽ thận trọng với nhóm xuất khẩu (Thép, Dệt may, Thủy sản) chờ đợi lộ trình thuế quan chính thức; Ngược lại, kỳ vọng vào khả năng giảm thuế đang hỗ trợ tâm lý giữ vị thế cho nhóm này.
+- HDBank huy động thành công vốn từ các nhà đầu tư quốc tế -> **Tích cực** -> Củng cố xu hướng tích cực cho nhóm Ngân hàng thương mại tư nhân có nền tảng quản trị tốt.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã:** NKG
-- **Động lực (FA):** Giá thép tại Mỹ tăng cao, mở ra cơ hội biên lợi nhuận tốt cho hàng xuất khẩu từ Việt Nam.
-- **Nhận định dòng tiền:** Hưởng lợi trực tiếp từ chênh lệch giá, kỳ vọng dòng tiền sẽ tìm đến các mã có thị phần xuất khẩu Mỹ mạnh.
-- **Hành động:** Chú ý giải ngân khi có nhịp điều chỉnh kỹ thuật, theo dõi khối lượng khớp lệnh xác nhận xu hướng.
+- Mã: **HDB**
+  - Động lực (FA): Huy động vốn quốc tế thành công, cải thiện hệ số an toàn vốn (CAR).
+  - Nhận định dòng tiền: Tin tức hỗ trợ trực tiếp cho định giá và thu hút dòng tiền khối ngoại, tạo xung lực tăng trưởng tín dụng dài hạn.
+  - Hành động: Chú ý giải ngân (Canh các nhịp rung lắc kỹ thuật).
+- Mã: **NKG, HSG, TNG**
+  - Động lực (FA): Các luồng tin trái chiều về thuế quan Mỹ (áp thuế vs. khả năng giảm thuế) và giá thép tại Mỹ tăng cao.
+  - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ rất nhạy cảm với các thông báo từ Bộ Công Thương. Rủi ro biến động giá cao.
+  - Hành động: Tiếp tục quan sát (Không mở mới vị thế cho đến khi có lộ trình thuế quan chính thức từ phía Mỹ).
 
-- **Mã:** GMD
-- **Động lực (FA):** Hưởng lợi kép từ chủ trương phát triển trung tâm trung chuyển quốc tế tại TP.HCM và kỳ vọng tăng trưởng sản lượng cảng biển.
-- **Nhận định dòng tiền:** Dòng tiền dài hạn có xu hướng tập trung vào các cổ phiếu cơ bản có câu chuyện tăng trưởng hạ tầng rõ ràng.
-- **Hành động:** Tiếp tục quan sát để gom hàng tại các vùng nền giá cứng, tránh đuổi giá ở các phiên tăng nóng.
-
-- **Mã:** VHC, TNG
-- **Động lực (FA):** Đối mặt với hàng rào thuế quan mới từ chính sách thương mại của Mỹ.
-- **Nhận định dòng tiền:** Áp lực bán tiềm ẩn do tâm lý e ngại rủi ro về chi phí đầu ra tại thị trường Mỹ.
-- **Hành động:** Rủi ro vi phạm kịch bản tăng trưởng, cần quan sát kỹ vùng hỗ trợ cứng, nếu thủng nền cần ưu tiên hạ tỷ trọng.
+🔄 3. Cảnh báo Tái cơ cấu:
+- (Không có dữ liệu mới về EIB, BSR trong chu kỳ này).
