@@ -1,21 +1,21 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 10:30 - 26/11/2026
+⏱ Thời gian: 19:40 - 26/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Áp lực vĩ mô kép:** Mỹ áp thuế quan mới lên Trung Quốc/EU và tâm lý thắt chặt chi tiêu tiêu dùng cuối năm tại Việt Nam -> **Tiêu cực** -> Dòng tiền rút khỏi nhóm bán lẻ (MWG, PNJ) và xuất khẩu (VHC, TNG, GMD).
-- **Chi phí vốn cao:** Lãi suất tiết kiệm neo ở mức 9,6%/năm -> **Tiêu cực** -> Tạo lực cản thanh khoản lên nhóm Chứng khoán (SSI, VND) và Bất động sản (VHM, PDR).
-- **Động lực tăng trưởng riêng lẻ:** Thông tin huy động vốn quốc tế của HDB và mở rộng hệ sinh thái của MSN -> **Tích cực** -> Có khả năng giữ nhịp cho nhóm vốn hóa lớn (Blue-chips) giữa bối cảnh thị trường chung suy yếu.
+- **Căng thẳng thuế quan từ Mỹ (Trump):** Chính sách thuế quan mới làm suy yếu chiến lược "China+1" và gây áp lực lên hàng xuất khẩu Việt Nam -> [Tiêu cực] -> Dòng tiền sẽ rút khỏi các nhóm thâm dụng xuất khẩu (Dệt may, Thủy sản) và KCN có độ trễ trong việc chuyển dịch FDI.
+- **Áp lực Margin Call diện rộng:** Thị trường ghi nhận cú rơi gần 60 điểm kích hoạt bán giải chấp -> [Tiêu cực] -> Nhóm tài chính/chứng khoán chịu áp lực tâm lý bán tháo mạnh.
+- **Bơm vốn tín dụng BĐS:** VietinBank rót 4.000 tỷ đồng vào BĐS -> [Tích cực] -> Nhóm BĐS dân cư (VHM, NVL, PDR, DXG) có thể đón dòng tiền bắt đáy ngắn hạn nhằm giải tỏa áp lực thanh khoản.
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
 - **Mã: SSI, VND**
-  - Động lực (FA): Áp lực tỷ giá, lãi suất huy động cao và rủi ro rút vốn ngoại.
-  - Nhận định dòng tiền: Dòng tiền ngắn hạn sẽ suy yếu do chi phí sử dụng vốn tăng cao làm giảm kỳ vọng lợi nhuận từ mảng tự doanh và margin.
-  - Hành động: Rủi ro vi phạm kịch bản, thận trọng hạ tỷ trọng nếu mất hỗ trợ cứng.
-- **Mã: MSN**
-  - Động lực (FA): Mở rộng chuỗi WiN ON củng cố hệ sinh thái tiêu dùng.
-  - Nhận định dòng tiền: Tin tức tích cực giúp cổ phiếu có sức đề kháng tốt hơn so với nhóm bán lẻ chung đang chịu áp lực từ sức mua yếu.
-  - Hành động: Tiếp tục quan sát tại vùng hỗ trợ, có thể giải ngân nếu tín hiệu dòng tiền ổn định.
-- **Mã: HDB**
-  - Động lực (FA): Huy động thành công vốn quốc tế, cải thiện CAR và dư địa tăng trưởng tín dụng.
-  - Nhận định dòng tiền: Hút dòng tiền khối ngoại và các quỹ lớn, tạo điểm tựa cho nhóm ngành ngân hàng.
-  - Hành động: Chú ý giải ngân theo dòng tiền dẫn dắt của khối ngoại.
+    - **Động lực (FA):** Thị trường rơi mạnh, kích hoạt bán giải chấp (margin call) diện rộng.
+    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn suy yếu nghiêm trọng do tâm lý hoảng loạn, áp lực bán chủ động gia tăng mạnh.
+    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế bắt đáy trong môi trường thị trường chưa cân bằng.
+- **Mã: TNG, VHC, ANV, KBC, GVR**
+    - **Động lực (FA):** Rủi ro từ chính sách thuế quan mới của Mỹ lên hàng xuất khẩu và dòng vốn FDI.
+    - **Nhận định dòng tiền:** Dòng tiền có xu hướng rút ra để tránh rủi ro vĩ mô dài hạn.
+    - **Hành động:** Tiếp tục quan sát, ưu tiên giảm tỷ trọng nếu vi phạm các ngưỡng hỗ trợ kỹ thuật cứng.
+- **Mã: HDB, CTG, VCB, TCB, MBB**
+    - **Động lực (FA):** Triển vọng tăng trưởng tích cực, tham gia VIFC, bơm vốn BĐS và lợi thế tiếp cận vốn ngoại.
+    - **Nhận định dòng tiền:** Nhóm ngân hàng có nền tảng cơ bản tốt đang nhận được sự chú ý để cân bằng lại thị trường.
+    - **Hành động:** Chú ý giải ngân có chọn lọc cho các mã ngân hàng có chỉ số quản trị tốt khi giá điều chỉnh về vùng hỗ trợ.
