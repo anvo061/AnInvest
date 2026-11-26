@@ -1,21 +1,22 @@
 ﻿🚨 FLASH NOTE - CẬP NHẬT 15 PHÚT
-⏱ Thời gian: 19:40 - 26/11/2026
+⏱ Thời gian: 05:00 - 27/11/2026
 
 ⚡ 1. Xung lực Vĩ mô & Ngành:
-- **Căng thẳng thuế quan từ Mỹ (Trump):** Chính sách thuế quan mới làm suy yếu chiến lược "China+1" và gây áp lực lên hàng xuất khẩu Việt Nam -> [Tiêu cực] -> Dòng tiền sẽ rút khỏi các nhóm thâm dụng xuất khẩu (Dệt may, Thủy sản) và KCN có độ trễ trong việc chuyển dịch FDI.
-- **Áp lực Margin Call diện rộng:** Thị trường ghi nhận cú rơi gần 60 điểm kích hoạt bán giải chấp -> [Tiêu cực] -> Nhóm tài chính/chứng khoán chịu áp lực tâm lý bán tháo mạnh.
-- **Bơm vốn tín dụng BĐS:** VietinBank rót 4.000 tỷ đồng vào BĐS -> [Tích cực] -> Nhóm BĐS dân cư (VHM, NVL, PDR, DXG) có thể đón dòng tiền bắt đáy ngắn hạn nhằm giải tỏa áp lực thanh khoản.
+- **Thuế quan Mỹ & Căng thẳng thương mại:** Chính sách thuế quan mới từ Mỹ tạo rủi ro kép (áp lực thuế trực tiếp và suy yếu chiến lược "China+1") -> [Tiêu cực] -> [Dòng tiền có khả năng rút khỏi các mã xuất khẩu thâm dụng (TNG, VHC, ANV) và các khu công nghiệp đang phụ thuộc vào dòng vốn FDI dịch chuyển (KBC, GVR)].
+- **Sức mua nội địa cuối năm:** Nhu cầu tiêu dùng tại TPHCM tăng tốc -> [Tích cực] -> [Dòng tiền hướng vào nhóm Bán lẻ/Tiêu dùng (MWG, MSN, PNJ)].
 
 🎯 2. Hợp lưu Tín hiệu Cổ phiếu:
-- **Mã: SSI, VND**
-    - **Động lực (FA):** Thị trường rơi mạnh, kích hoạt bán giải chấp (margin call) diện rộng.
-    - **Nhận định dòng tiền:** Dòng tiền ngắn hạn suy yếu nghiêm trọng do tâm lý hoảng loạn, áp lực bán chủ động gia tăng mạnh.
-    - **Hành động:** Rủi ro vi phạm kịch bản, ưu tiên quản trị rủi ro, hạn chế bắt đáy trong môi trường thị trường chưa cân bằng.
-- **Mã: TNG, VHC, ANV, KBC, GVR**
-    - **Động lực (FA):** Rủi ro từ chính sách thuế quan mới của Mỹ lên hàng xuất khẩu và dòng vốn FDI.
-    - **Nhận định dòng tiền:** Dòng tiền có xu hướng rút ra để tránh rủi ro vĩ mô dài hạn.
-    - **Hành động:** Tiếp tục quan sát, ưu tiên giảm tỷ trọng nếu vi phạm các ngưỡng hỗ trợ kỹ thuật cứng.
-- **Mã: HDB, CTG, VCB, TCB, MBB**
-    - **Động lực (FA):** Triển vọng tăng trưởng tích cực, tham gia VIFC, bơm vốn BĐS và lợi thế tiếp cận vốn ngoại.
-    - **Nhận định dòng tiền:** Nhóm ngân hàng có nền tảng cơ bản tốt đang nhận được sự chú ý để cân bằng lại thị trường.
-    - **Hành động:** Chú ý giải ngân có chọn lọc cho các mã ngân hàng có chỉ số quản trị tốt khi giá điều chỉnh về vùng hỗ trợ.
+- **Mã:** SSI, VND
+- **Động lực (FA):** Thị trường giảm sốc 60 điểm, áp lực giải chấp (margin call) diện rộng và kỳ vọng lãi suất hạ nhiệt (VPBankS).
+- **Nhận định dòng tiền:** Cú rơi mạnh gây áp lực tâm lý tiêu cực tức thời, tuy nhiên kỳ vọng lãi suất giảm là biến số tích cực tiềm năng cho trung hạn. Dòng tiền ngắn hạn đang chịu áp lực rút lui do hoảng loạn.
+- **Hành động:** Rủi ro vi phạm kịch bản; yêu cầu đứng ngoài quan sát vùng cân bằng mới, tránh bắt dao rơi trong phiên giải chấp.
+
+- **Mã:** HDB
+- **Động lực (FA):** CTCK đánh giá cao triển vọng tăng trưởng lợi nhuận và chất lượng tài sản.
+- **Nhận định dòng tiền:** Điểm sáng hiếm hoi trong bối cảnh thị trường tiêu cực, có khả năng hút dòng tiền phòng thủ nhờ nền tảng cơ bản được củng cố bởi định chế tài chính.
+- **Hành động:** Chú ý giải ngân nếu giữ được hỗ trợ cứng khi chỉ số chung hoảng loạn.
+
+- **Mã:** VHM
+- **Động lực (FA):** Chịu áp lực bán ròng mạnh từ khối ngoại, đối nghịch với kỳ vọng hưởng lợi từ lãi suất hạ nhiệt.
+- **Nhận định dòng tiền:** Áp lực từ khối ngoại vẫn là biến số gây nhiễu và đè nặng lên giá cổ phiếu, lấn át các thông tin hỗ trợ cơ bản.
+- **Hành động:** Tiếp tục quan sát, ưu tiên bảo toàn vốn cho đến khi dòng tiền khối ngoại dừng bán ròng.
